@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2076-08-30
+
+EDVISIT^24490460^VAUGHN, FRANK^08/30/76^JABLONSKI, SHIRLEY
+
+The patient was interviewed and examined by myself, Dr. Jablonski,
+
+as well as the resident, Dr. Ortiz for visit on 08/30/2076. 
+
+Please see note for details reviewed in full.
+
+HISTORY OF PRESENT ILLNESS:  This is an obese 32-year-old
+
+gentleman with history of high cholesterol, hypertension, and
+
+diabetes who comes in after trying to increase his exercise over
+
+the last couple of weeks with shortness of breath and fatigue and
+
+difficulty breathing since his walking yesterday.  He went to bed
+
+and woke up today with continued symptoms.
+
+FAMILY HISTORY:  Besides his past medical history, he has a
+
+significant CAD in his grandfather with CHF.  His father died at
+
+early age of 19 of a traumatic accident.
+
+SOCIAL HISTORY:  She does not drink and does not smoke.
+
+PAST SURGICAL HISTORY:  He himself has had no surgeries except a
+
+cholecystectomy.
+
+REVIEW OF SYSTEMS:  Shortness of breath, no chest pain, no
+
+lightheadedness, no leg swelling, no palpitations, and came in
+
+acutely diaphoretic with shortness of breath.
+
+MEDICATIONS:  Lantus, glipizide, Zocor, atenolol, and was
+
+recently started insulin as above a week ago.
+
+ALLERGIES:  No known drug allergies.
+
+PHYSICAL EXAMINATION:  Mildly obese gentleman with a pulse of
+
+100, respiratory rate 28, O2 saturation 97 on 4 L, blood pressure
+
+132/69, and temperature 98.1.  HEENT is anicteric.  Neck is
+
+supple.  Heart is regular rate and rhythm although distant heart
+
+sounds.  He is tachypneic but no obvious wheezes.  He has soft
+
+abdomen.  Extremities showed no cyanosis, clubbing, or edema, no
+
+calf tenderness.  Neurologic:  Oriented x3.  No obvious cranial,
+
+motor, or sensory deficits.
+
+Differential can be acute coronary syndrome versus PE.  His
+
+weight is 330 pounds, went ahead and got a d-dimer, which was
+
+negative.  We went ahead and got an EKG, which is normal.  Normal
+
+chest x-ray.  Normal CKs, troponins, and SMA-7.  His magnesium is
+
+slightly therapeutic at 1.7, which was repleted.  His hematocrit
+
+and white count were normal.
+
+DIAGNOSIS:  Shortness of breath, concern for ischemic equivalent.
+
+DISPOSITION:  Admitted to the Medicine Service in stable
+
+condition.
+
+______________________________
+
+JABLONSKI, SHIRLEY M.D.
+
+D: 08/30/76
+
+T: 08/30/76
+
+Dictated By: JABLONSKI, SHIRLEY
+
+eScription document:2-3735520 BFFocus
+
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2076-08-30" TYPE="DATE" comment="" />
+<ID id="P1" start="36" end="44" text="24490460" TYPE="MEDICALRECORD" comment="" />
+<NAME id="P2" start="45" end="58" text="VAUGHN, FRANK" TYPE="PATIENT" comment="" />
+<DATE id="P3" start="59" end="67" text="08/30/76" TYPE="DATE" comment="" />
+<NAME id="P4" start="68" end="86" text="JABLONSKI, SHIRLEY" TYPE="DOCTOR" comment="" />
+<NAME id="P5" start="144" end="153" text="Jablonski" TYPE="DOCTOR" comment="" />
+<NAME id="P6" start="185" end="190" text="Ortiz" TYPE="DOCTOR" comment="" />
+<DATE id="P7" start="204" end="214" text="08/30/2076" TYPE="DATE" comment="" />
+<AGE id="P8" start="311" end="313" text="32" TYPE="AGE" comment="" />
+<AGE id="P9" start="771" end="773" text="19" TYPE="AGE" comment="" />
+<NAME id="P10" start="2261" end="2279" text="JABLONSKI, SHIRLEY" TYPE="DOCTOR" comment="" />
+<DATE id="P11" start="2289" end="2297" text="08/30/76" TYPE="DATE" comment="" />
+<DATE id="P12" start="2302" end="2310" text="08/30/76" TYPE="DATE" comment="" />
+<NAME id="P13" start="2325" end="2343" text="JABLONSKI, SHIRLEY" TYPE="DOCTOR" comment="" />
+<ID id="P14" start="2365" end="2374" text="2-3735520" TYPE="IDNUM" comment="" />
+</TAGS>
+</deIdi2b2>

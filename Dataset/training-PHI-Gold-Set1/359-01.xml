@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2090-07-16
+
+Urgent Care Visit- Pt of Dr Hayes
+
+
+
+S: 57 y/o WF gives 1 wk hx/o not hearing well R>L ear, has been unable to remove wax with a Q tip and when she moves the outer ear it is tender at times. 
+
+
+
+Medications
+
+Lipitor (ATORVASTATIN) 20MG TABLET take 1 Tablet(s) PO QD , Take 1 hour post supper or at bed time
+
+Asa (CHILDREN 81MG TABLET take 1 Tablet(s) QD , Take as directed 
+
+Toprol XL (ME 100MG TABLET CR 24HR take 1.5 Tablet(s) PO QD 
+
+Levothyroxine SODIUM 75MCG TABLET take 1 PO QD , Take as directed 
+
+Flonase (FLUTICASONE NASAL SPRAY) 1-2 SPRAY NAS QD x 14 days
+
+Dyazide 1 CAPSULE 50/25 PO QD , Take as directed 
+
+Lisinopril 40 MG (40MG TABLET take 1) PO QD , Take as directed 
+
+
+
+PMH
+
+Obesity
+
+HTN
+
+Hyperlipidemia
+
+
+
+NKDA
+
+
+
+O: Sunburned, moderate discomfort
+
+
+
+Vital signs
+
+BP 190/120, Temp 97.9 F, Wt 227 lb 
+
+
+
+HEENT-cerumen bilat R>L after clearance both TMs pearly white, not injected,no perfs, no canal exudate or edema
+
+neck- no adenopathy
+
+
+
+A/P: 
+
+
+
+1. Cerumenosis- the right canal was flushed completely clear after a 10 min soak with Colace soln, Pt's hearing was restored, trace cerumen on the right and Pt was instructed to use H202 soak and then flush at home on a monthly basis to prevent recurrence
+
+
+
+2. Poorly Controlled HTN- likely exacerbated by ear discomfort and hasn't taken am meds yet; review of flowsheet shows diatolic was 100 at June visit to Dr Hayes. I will notify Dr Hayes by email today to see if he can recheck her BP sometime prior to her August 30th visit with him as presently scheduled
+
+
+
+
+
+
+
+_____________________________________________
+
+Aniyah B. Alford, M.D.
+
+
+
+
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2090-07-16" TYPE="DATE" comment="" />
+<NAME id="P1" start="56" end="61" text="Hayes" TYPE="DOCTOR" comment="" />
+<AGE id="P2" start="68" end="70" text="57" TYPE="AGE" comment="" />
+<DATE id="P3" start="1390" end="1394" text="June" TYPE="DATE" comment="" />
+<NAME id="P4" start="1407" end="1412" text="Hayes" TYPE="DOCTOR" comment="" />
+<NAME id="P5" start="1431" end="1436" text="Hayes" TYPE="DOCTOR" comment="" />
+<DATE id="P6" start="1506" end="1517" text="August 30th" TYPE="DATE" comment="" />
+<NAME id="P7" start="1610" end="1626" text="Aniyah B. Alford" TYPE="DOCTOR" comment="" />
+</TAGS>
+</deIdi2b2>

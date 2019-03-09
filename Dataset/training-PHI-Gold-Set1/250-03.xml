@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2081-02-19
+
+
+
+Titonka Cardiovascular Care Center
+
+TCC ER5
+
+54 Buker St                                      YERGER, URANIA
+
+Port Louis, GA 52114                                           58348900
+
+(784) 032-8966                                           02/19/81
+
+
+
+
+
+Xan Dillon, M.D.
+
+22 East Dunstable Road
+
+Nouakchott, GA  95269
+
+
+
+Dear Dr. Dillon:
+
+
+
+I had the pleasure of seeing Urania Yerger today in Titonka Care Center in followup of her coronary artery disease (CABG in October 2078), hypertension, and heart failure.  Since increasing her Lasix dose approximately 12 months ago, she has had substantial improvement in her heart failure symptoms.  She continues to admit to fatigue and musculoskeletal pain as limiting her exertion, but no longer experiences significant dyspnea.  She denies orthopnea, PND, or ankle edema.
+
+
+
+Her current medications are aspirin 325 mg p.o. q.d., Lasix 60 mg p.o. q.d., glipizide 10 mg p.o. q.d., losartan 100 mg p.o. q.d., Toprol-XL 100 mg p.o. q.d., simvastatin 10 mg p.o. q.d., Avandia, and multivitamins.
+
+
+
+Her blood pressure today is 165/70 and her heart rate is in the low 60s.  She is comfortable seated on the exam table.  Her jugular venous pressure is approximately 8 cm with prominent V waves.  There are very rare crackles at the bases.  Cardiac exam reveals a nondisplaced PMI with regular rate and rhythm, normal intensity S1 and S2.  P2 is increased.  There is a grade 3/6 holosystolic murmur, loudest at the apex.  She has no edema of the extremities and they are warm to touch.
+
+
+
+Her ECG reveals sinus rhythm with normal axis intervals.  There is nonspecific ST abnormality, unchanged from her tracing in August.
+
+
+
+In summary, Ms. Yerger remains free of recurrent angina or heart failure symptoms.  She does have evident persistent elevated right cardiac pressures on exam that may be related to her underlying pulmonary disease.  In light of her systolic hypertension, we increased her Toprol to 150 mg p.o. q.d.  She will have her blood pressure checked in the coming week and call the result to me.
+
+
+
+I look forward to seeing her again in approximately six months.  It remains a pleasure being involved in this delightful woman's care.
+
+
+
+Sincerely yours,
+
+
+
+
+
+
+
+
+
+
+
+______________________________
+
+Vaughn A. Xander, MD
+
+
+
+
+
+Dictated By: Vaughn A. Xander
+
+
+
+
+
+eScription document:5-0269342 GC
+
+
+
+
+
+
+
+DD: 02/19/81
+
+DT: 02/19/81
+
+DV: 02/19/81
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2081-02-19" TYPE="DATE" comment="" />
+<LOCATION id="P1" start="30" end="64" text="Titonka Cardiovascular Care Center" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P3" start="75" end="86" text="54 Buker St" TYPE="STREET" comment="" />
+<NAME id="P4" start="124" end="138" text="YERGER, URANIA" TYPE="PATIENT" comment="" />
+<LOCATION id="P5" start="140" end="150" text="Port Louis" TYPE="CITY" comment="" />
+<LOCATION id="P6" start="152" end="154" text="GA" TYPE="STATE" comment="" />
+<LOCATION id="P7" start="155" end="160" text="52114" TYPE="ZIP" comment="" />
+<ID id="P8" start="203" end="211" text="58348900" TYPE="MEDICALRECORD" comment="" />
+<CONTACT id="P9" start="213" end="227" text="(784) 032-8966" TYPE="PHONE" comment="" />
+<DATE id="P10" start="270" end="278" text="02/19/81" TYPE="DATE" comment="" />
+<NAME id="P11" start="284" end="294" text="Xan Dillon" TYPE="DOCTOR" comment="" />
+<LOCATION id="P12" start="302" end="324" text="22 East Dunstable Road" TYPE="STREET" comment="" />
+<LOCATION id="P13" start="326" end="336" text="Nouakchott" TYPE="CITY" comment="" />
+<LOCATION id="P14" start="338" end="340" text="GA" TYPE="STATE" comment="" />
+<LOCATION id="P15" start="342" end="347" text="95269" TYPE="ZIP" comment="" />
+<NAME id="P16" start="360" end="366" text="Dillon" TYPE="DOCTOR" comment="" />
+<NAME id="P17" start="400" end="413" text="Urania Yerger" TYPE="PATIENT" comment="" />
+<LOCATION id="P18" start="423" end="442" text="Titonka Care Center" TYPE="HOSPITAL" comment="" />
+<DATE id="P19" start="495" end="507" text="October 2078" TYPE="DATE" comment="" />
+<DATE id="P20" start="1683" end="1689" text="August" TYPE="DATE" comment="" />
+<NAME id="P21" start="1710" end="1716" text="Yerger" TYPE="PATIENT" comment="" />
+<NAME id="P22" start="2282" end="2298" text="Vaughn A. Xander" TYPE="DOCTOR" comment="" />
+<NAME id="P23" start="2321" end="2337" text="Vaughn A. Xander" TYPE="DOCTOR" comment="" />
+<ID id="P24" start="2363" end="2375" text="5-0269342 GC" TYPE="IDNUM" comment="" />
+<DATE id="P25" start="2387" end="2395" text="02/19/81" TYPE="DATE" comment="" />
+<DATE id="P26" start="2401" end="2409" text="02/19/81" TYPE="DATE" comment="" />
+<DATE id="P27" start="2415" end="2423" text="02/19/81" TYPE="DATE" comment="" />
+</TAGS>
+</deIdi2b2>

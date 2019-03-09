@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2060-07-28
+
+
+
+
+GIPSON, ALEC
+32707420
+07/28/2060
+
+
+Vernon Lozano, M.D.
+CV Division, Ireton Medical Clinic
+91 Neptune Lane
+Abilene, FL  81494
+
+Dear Vernon,
+
+I write to summarize for your records the recent IMC course of your patient, Dr. Alec Gipson, who was admitted to our cardiology service on 07/25/2060 with progressive angina and a small, non-ST elevation MI.  His cardiac troponin rose to 0.13.  There were no demonstrable ECG changes, though we queried the possibility of a left circumflex event.  He had been previously scheduled for semi-urgent catheterization and angiography on 07/26/2060.
+
+His condition stabilized with institution of anti-thrombotic and anti-ischemic therapy.  He was taken to the catheterization laboratory by Dr. Otero on 07/26/2060.  Angiography demonstrated a high-grade lesion in the proximal portion of a large first diagonal branch, as well as a significant stenosis in the first obtuse marginal branch.  The diagonal lesion was managed with angioplasty and deployment of a drug-eluting stent.  A drug-eluting stent could not be delivered to the obtuse marginal lesion; a bare-metal stent was positioned without difficulty.  He did have smoldering chest discomfort of an anginal nature following the procedure.  The cardiac troponin elevated further to a peak value of 0.86 as of 07/27/2060 (08:54).  He also had a mild, vagal reaction characterized by flushing and transient bradycardia.
+
+He felt much improved the following day.  A repeat cardiac troponin returned at a lower level of 0.75.  An abdominal ultrasound showed no evidence of an AAA.  After consultation with you, we felt that he could return home, under the care of his wife.
+
+He was discharged on the afternoon of 07/27/2060.  His medications included Ecotrin 325 mg daily, clopidogrel 75 mg daily, losartan 100 mg daily, metformin 500 mg b.i.d., Toprol-XL 50 mg b.i.d., niacin 500 mg b.i.d., ramipril 2.5 mg daily, and nitroglycerin if needed.
+
+Please let me know if I can provide you with any further information.
+
+Sincerely yours,
+
+
+______________________________
+Victor Quijano, M.D.
+
+
+
+
+
+eScription document:6-5332849 DFFocus
+
+
+
+DD: 07/28/60
+DT: 07/29/60
+DV: 07/28/60
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2060-07-28" TYPE="DATE" comment="" />
+<NAME id="P1" start="31" end="43" text="GIPSON, ALEC" TYPE="PATIENT" comment="" />
+<ID id="P2" start="44" end="52" text="32707420" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P3" start="53" end="63" text="07/28/2060" TYPE="DATE" comment="" />
+<NAME id="P4" start="66" end="79" text="Vernon Lozano" TYPE="DOCTOR" comment="" />
+<LOCATION id="P5" start="99" end="120" text="Ireton Medical Clinic" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P6" start="121" end="136" text="91 Neptune Lane" TYPE="STREET" comment="" />
+<LOCATION id="P7" start="137" end="144" text="Abilene" TYPE="CITY" comment="" />
+<LOCATION id="P8" start="146" end="148" text="FL" TYPE="STATE" comment="" />
+<LOCATION id="P9" start="150" end="155" text="81494" TYPE="ZIP" comment="" />
+<NAME id="P10" start="162" end="168" text="Vernon" TYPE="DOCTOR" comment="" />
+<LOCATION id="P11" start="220" end="223" text="IMC" TYPE="HOSPITAL" comment="" />
+<NAME id="P12" start="252" end="263" text="Alec Gipson" TYPE="PATIENT" comment="" />
+<DATE id="P13" start="311" end="321" text="07/25/2060" TYPE="DATE" comment="" />
+<DATE id="P14" start="604" end="614" text="07/26/2060" TYPE="DATE" comment="" />
+<NAME id="P15" start="760" end="765" text="Otero" TYPE="DOCTOR" comment="" />
+<DATE id="P16" start="769" end="779" text="07/26/2060" TYPE="DATE" comment="" />
+<DATE id="P17" start="1332" end="1342" text="07/27/2060" TYPE="DATE" comment="" />
+<DATE id="P18" start="1732" end="1742" text="07/27/2060" TYPE="DATE" comment="" />
+<NAME id="P19" start="2085" end="2099" text="Victor Quijano" TYPE="DOCTOR" comment="" />
+<ID id="P20" start="2131" end="2140" text="6-5332849" TYPE="IDNUM" comment="" />
+<DATE id="P21" start="2156" end="2164" text="07/28/60" TYPE="DATE" comment="" />
+<DATE id="P22" start="2169" end="2177" text="07/29/60" TYPE="DATE" comment="" />
+<DATE id="P23" start="2182" end="2190" text="07/28/60" TYPE="DATE" comment="" />
+</TAGS>
+</deIdi2b2>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2079-01-06
+
+EDVISIT^52402461^Ervin, Quindarrius^01/06/79^MEDINA, LUTHER
+
+Seen on 01/06/2079 with Dr. Delaney.  I confirmed that I have
+
+interviewed and examined the patient, reviewed the resident's
+
+documentation on the patient's chart, and discussed the
+
+evaluation, plan of care, and disposition with the patient. 
+
+Please see the resident's note for details.
+
+HISTORY OF PRESENT ILLNESS:  Briefly, this is a 68-year-old
+
+gentleman who presents from rehab with 1 week of diaphoresis and
+
+2 days of shortness of breath and nonproductive cough.  He has a
+
+history of diabetes, hypertension, spinal stenosis, atrial
+
+fibrillation, CHF, CABG, and aortic valve replacement.
+
+PHYSICAL EXAMINATION:  He is profoundly diaphoretic and is in
+
+mild respiratory distress.  Pulse 82, respirations 20, blood
+
+pressure 145/95, pulse oximetry 98% on room air, and his
+
+temperature is 95.9.  He has crackles and bronchial breath sounds
+
+in his right middle and upper lung fields.  He has a regular rate
+
+and rhythm with a 2/6 systolic murmur.
+
+LABORATORY DATA:  His chest x-ray shows right upper lobe
+
+infiltrate.  Sodium is 135.  His white count is 9.8 with left
+
+shift.
+
+CLINICAL IMPRESSION:  Pneumonia.
+
+ ******** Not reviewed by Attending Physician ********
+
+PLAN:  Admission for IV antibiotics.
+
+______________________________
+
+MEDINA, LUTHER M.D.
+
+D: 01/07/79
+
+T: 01/07/79
+
+Dictated By: MEDINA, LUTHER
+
+eScription document:9-5046707 BFFocus
+
+
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2079-01-06" TYPE="DATE" comment="" />
+<ID id="P1" start="36" end="44" text="52402461" TYPE="MEDICALRECORD" comment="" />
+<NAME id="P2" start="45" end="63" text="Ervin, Quindarrius" TYPE="PATIENT" comment="" />
+<DATE id="P3" start="64" end="72" text="01/06/79" TYPE="DATE" comment="" />
+<NAME id="P4" start="73" end="87" text="MEDINA, LUTHER" TYPE="DOCTOR" comment="" />
+<DATE id="P5" start="97" end="107" text="01/06/2079" TYPE="DATE" comment="" />
+<NAME id="P6" start="117" end="124" text="Delaney" TYPE="DOCTOR" comment="" />
+<AGE id="P7" start="427" end="429" text="68" TYPE="AGE" comment="" />
+<NAME id="P8" start="1334" end="1348" text="MEDINA, LUTHER" TYPE="DOCTOR" comment="" />
+<DATE id="P9" start="1358" end="1366" text="01/07/79" TYPE="DATE" comment="" />
+<DATE id="P10" start="1371" end="1379" text="01/07/79" TYPE="DATE" comment="" />
+<NAME id="P11" start="1394" end="1408" text="MEDINA, LUTHER" TYPE="DOCTOR" comment="" />
+<ID id="P12" start="1430" end="1439" text="9-5046707" TYPE="IDNUM" comment="" />
+</TAGS>
+</deIdi2b2>

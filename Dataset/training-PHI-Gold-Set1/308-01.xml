@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2074-06-05
+
+Mills returns with Urquiza and her husband.  He's been trying - cut way back on sodas, and chips.  He walks every day - really no complaints.  His HbA1C was up at 9.2.   No proteinuria.  No complaints of foot numbness , no visual sx.    Lipids were fair - 202, HDL 44, Trigs 461.  Cost has become an issue on meds as Mills has been denied state insurance for arcane reasons..  (his income is only 850.00/mo)
+
+
+RoS: feels fine,  ROS neg. in detail.
+
+Habits: no smoking or drinking.(sober for years)
+
+
+
+Medications
+
+Glucophage (METFORMIN) 500MG TABLET take 1 Tablet(s) PO TID x 90 days
+
+Micronase (GLYBURIDE) 10 MG (5MG TABLET take 2) PO BID x 90 days
+
+Tegretol (CARBAMAZEPINE) 200MG TABLET take 1 Tablet(s) PO TID x 90 days
+
+Monopril (FOSINOPRIL SODIUM) 20MG TABLET take 1 Tablet(s) PO QD x 90 days
+
+Aspirin (ACETYLSALICYLIC ACID) 81MG TABLET CHEWABLE take 1 Tablet(s) PO QD , Take as directed 
+
+Lipitor (ATORVASTATIN) 10MG TABLET take 1 Tablet(s) PO QD , Take as directed 
+
+Hctz (HYDROCHLOROTHIAZIDE) 25MG TABLET take 1 Tablet(s) PO QD x 90 days, Take as directed 
+
+
+
+Allergies
+
+NKA 
+
+
+Vital Signs
+
+Wt 202 lb  Looks well, though sunburnt.   BP: 160/80 p. 70's reg
+
+clear RRR
+
+ no edema, no neurop.
+
+
+Problems
+
+Diabetes mellitus - check FS glucose today.  Eventually we'll need to teach Mills/family how to do fingersticks, but we aren't there yet.  working hard on diet...    f/u 1mo.   He will need eye exam.  Adding statin and Aspirin today.
+
+Hypertension - add HCTZ 25mg qd.
+
+H/O Seizure disorder : Status post head trauma
+
+H/O Alcohol abuse - sober now.
+
+
+
+Health Maintenance
+
+Influenza Vaccine 11/24/2072 
+
+Cholesterol 04/03/2074 202 DESIRABLE: <200
+
+M-alb/creat ratio 04/03/2074 6.5 
+
+UA-Protein 10/01/62 NEG 
+
+Triglycerides 04/03/2074 461 
+
+Cholesterol-LDL 04/03/2074 -- "Calculated" LDL is inaccuratewhen triglycerides exceed 400 mg/dl.
+
+Microalbumin 04/03/2074 0.6 
+
+Hct (Hematocrit) 04/03/2074 41.0 
+
+Cholesterol-HDL 04/03/2074 46 
+
+MHCT (micro-Hematocrit) 07/15/62 30 
+
+Hgb (Hemoglobin) 04/03/2074 14.3 
+
+HbA1c 04/03/2074 9.50 
+
+
+_____________________________________________
+
+Yechiel Kidd, M.D.
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2074-06-05" TYPE="DATE" comment="" />
+<NAME id="P1" start="28" end="33" text="Mills" TYPE="PATIENT" comment="" />
+<NAME id="P2" start="47" end="54" text="Urquiza" TYPE="PATIENT" comment="" />
+<NAME id="P3" start="345" end="350" text="Mills" TYPE="PATIENT" comment="" />
+<ID id="P4" start="367" end="382" text="state insurance" TYPE="HEALTHPLAN" comment="" />
+<NAME id="P5" start="1314" end="1319" text="Mills" TYPE="PATIENT" comment="" />
+<DATE id="P6" start="1627" end="1637" text="11/24/2072" TYPE="DATE" comment="" />
+<DATE id="P7" start="1652" end="1662" text="04/03/2074" TYPE="DATE" comment="" />
+<DATE id="P8" start="1702" end="1712" text="04/03/2074" TYPE="DATE" comment="" />
+<DATE id="P9" start="1730" end="1738" text="10/01/62" TYPE="DATE" comment="" />
+<DATE id="P10" start="1759" end="1769" text="04/03/2074" TYPE="DATE" comment="" />
+<DATE id="P11" start="1792" end="1802" text="04/03/2074" TYPE="DATE" comment="" />
+<DATE id="P12" start="1887" end="1897" text="04/03/2074" TYPE="DATE" comment="" />
+<DATE id="P13" start="1921" end="1931" text="04/03/2074" TYPE="DATE" comment="" />
+<DATE id="P14" start="1955" end="1965" text="04/03/2074" TYPE="DATE" comment="" />
+<DATE id="P15" start="1995" end="2003" text="07/15/62" TYPE="DATE" comment="" />
+<DATE id="P16" start="2026" end="2036" text="04/03/2074" TYPE="DATE" comment="" />
+<DATE id="P17" start="2050" end="2060" text="04/03/2074" TYPE="DATE" comment="" />
+<NAME id="P18" start="2116" end="2128" text="Yechiel Kidd" TYPE="DOCTOR" comment="" />
+</TAGS>
+</deIdi2b2>

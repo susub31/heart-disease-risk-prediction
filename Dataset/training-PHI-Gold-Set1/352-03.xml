@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2069-12-24
+
+CC: Shortness of breath, neck pain.
+
+
+
+HPI:  Ms. Riley was recently hospitalized in 11/69 for neck pain, chest pain, and SOB.  She had an extensive cardiovascular work-up that showed no signs of cardiac ischemia.  Her MIBI showed no evidence of scar or ischemia and an ejection fraction of 57%.  On the other hand, her blood sugars were found to be in the 300-400s.  Since then, she has been followed by the IM dept.  She comes in today complaining of 2 main symptoms that have been occuring for several months now, and which in large part led to her recent hospitalization: 1) dyspnea that occurs on average twice a week, allevaited after 30 min of SL NTG, no precipitating factors identified.  SOB not significantly imporved by albuterol.  2) neck pain, localized to the lateral aspects of her neck.  She feels "her veins exploding".  Of note, she suffered left ankle pain, for which she self-medicated cephalexin (without knowing its an Abx), which she had at home.  She says most of her symptoms resolved.  Per her husband, she has always been a fairly anxious person.  
+
+
+
+ROS: No DOE, no PND, no fever.  Good apetite, polydypsia. Blurry vision.
+
+
+
+PAST MEDICAL HISTORY:  A total thyroidectomy, on levothyroxine 200 mcg daily, COPD, obesity, diabetes mellitus, hypertension, hyperlipidemia, GERD, sleep apnea, cholecystectomy and a meniscal tear.
+
+
+
+CURRENT MEDICATIONS (updated)
+
+1) Albuterol inhaler
+
+2) Atenolol 50 mg p.o. daily
+
+3) Clonidine HCL 0.2 mg p.o. b.i.d.
+
+4) Aspirin 81 mg p.o. daily
+
+5) Flovent 220 mcg b.i.d.
+
+6) Levothyroxine 200 mcg p.o. daily
+
+7) Lisinopril 20 mg p.o. daily
+
+8) Singulair 10 mg p.o. daily, 
+
+9) Lipitor 10 mg p.o. q.h.s.
+
+10) Humulin 70/30  90 U sc qAM, 70 U sc QPM
+
+11) Metformin 1000 mg PO BID
+
+12) SL NTG 0.3
+
+
+
+
+
+SOCIAL HISTORY:  Ms. Riley is from Mexico.  She has lived here for the last 15 years. Lives with her husband. Denies any tobacco or alcohol.
+
+
+
+PHYSICAL EXAMINATION:  
+
+Weight: 215 lbs.  P 73, BP 122/74, SO2 97% RA
+
+Gen: Well nourished.  Apperas well. Not pale. Obese
+
+HEENT: PERRL. MMM. No LAN
+
+Chest: CTA BL
+
+CV: JVP flat. RRR. 2/6 systolic murmur LUSB. no r/g. S1 + single S2.
+
+Abd: Soft. Non-tender. Obese.
+
+Extrem: Warm. 1+ non-pitting edema.
+
+
+
+
+
+IMPRESSION:  Ms. Riley is a 66-year-old woman with type 2 diabetes mellitus, evidence of insulin resistance, most recent hemoglobin A1c was 9.4.  Her symptoms are quite vague and difficult to put together.  Importantly, myocardial ischemia has been ruled out by cardiac nucelar imaging.  My two main differentials are 1) general anxiety, 2) GERD.  Even though she does have a h/o COPD, but based on her history, physical exam and lack of efficacy of bronchodilators in releiveing her symptoms, I don't believe major underlying lung disease explans her symtoms.   We'll start her on klonopin 0.5 mg and fluoxetine 10 mg po qd.  Follow-up with LIMA psychiatry clinic for management of anxiety.
+
+
+
+In terms of her glucose, she is improving, but still not adequately controlled.  She occasionally has blurry vision and is constantly thirsty.  Her next appointment is in January.  HBA1c yesterday=9.2, fasting glucose in the 200s.  Last increase in her insluin was in 11/30/69, from 80 U QAM to 90 U QPM.  For now, we'll increase her PM dose of insulin from 70 to 75 U SC QAM, and follow-up with her.. 
+
+
+
+
+
+
+
+      
+
+========================== Preceptor's Note ==========================
+
+Discussed with Dr. Freddie Eric. 66 yo woman with poorly controlled DM. Recent admission for R/O MI. A1C was in the 9s. Being followed by Internal Medicine. Has odd sensation of numbness climbing from her toes to her chest associated with SOB and a sense that her neck is exploding. It would appear that she is having anxiety. We will treat with fluoxetine and Klonopin and refer to Psych. We will also adjust her insulin further.
+
+
+
+
+
+______________________________                              
+
+
+
+Kimball Lukas Abraham, M.D.
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2069-12-24" TYPE="DATE" comment="" />
+<NAME id="P1" start="77" end="82" text="Riley" TYPE="PATIENT" comment="" />
+<DATE id="P2" start="112" end="117" text="11/69" TYPE="DATE" comment="" />
+<NAME id="P4" start="1807" end="1812" text="Riley" TYPE="PATIENT" comment="" />
+<LOCATION id="P5" start="1821" end="1827" text="Mexico" TYPE="COUNTRY" comment="" />
+<NAME id="P6" start="2256" end="2261" text="Riley" TYPE="PATIENT" comment="" />
+<AGE id="P7" start="2267" end="2269" text="66" TYPE="AGE" comment="" />
+<LOCATION id="P8" start="2881" end="2885" text="LIMA" TYPE="HOSPITAL" comment="" />
+<DATE id="P9" start="3105" end="3112" text="January" TYPE="DATE" comment="" />
+<DATE id="P10" start="3202" end="3210" text="11/30/69" TYPE="DATE" comment="" />
+<NAME id="P11" start="3443" end="3455" text="Freddie Eric" TYPE="DOCTOR" comment="" />
+<AGE id="P12" start="3457" end="3459" text="66" TYPE="AGE" comment="" />
+<NAME id="P14" start="3924" end="3945" text="Kimball Lukas Abraham" TYPE="DOCTOR" comment="" />
+</TAGS>
+</deIdi2b2>

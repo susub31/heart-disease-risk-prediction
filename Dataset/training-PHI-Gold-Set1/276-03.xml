@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2061-01-31
+
+EDVISIT^32707420^GIPSON, ALEXANDER^01/31/61^VELASQUEZ, WALTER
+
+This patient was seen by myself and Dr. Hardin on 01/31/2061.  I
+
+confirm I interviewed and examined the patient, reviewed the
+
+resident's documentation, and discussed the plan of care with the
+
+patient.
+
+HISTORY OF PRESENT ILLNESS:  This is a 73-year-old gentleman who
+
+has a history of CAD status post stent in 2060, who developed
+
+acute chest discomfort, pressure like, diaphoresis, and weakness,
+
+while he was working as a chiropractor.  He says although this
+
+was quite significant, it was not like his prior MI discomfort. 
+
+He denies any radiation to his back or his arm.  He denies any
+
+jaw pain.  He denies any fever, chills, or sweats.  He denies any
+
+vomiting.  He denies any headache or neck pain.  He denies any
+
+bowel or bladder changes and no lower extremity edema.  He is
+
+taking his medicines.  He also took an aspirin, did get some
+
+nitroglycerin.
+
+PAST MEDICAL HISTORY:  Diabetes, hypertension,
+
+hypercholesterolemia, and CAD.
+
+MEDICATIONS:  Cozaar, aspirin, Altace, metformin, and Toprol.
+
+ALLERGIES:  He has no known drug allergies.
+
+SOCIAL HISTORY:  He is a past smoker, not a drinker or drug user.
+
+ He lives with his family.
+
+REVIEW OF SYSTEMS:  As noted in the HPI, otherwise negative.
+
+PHYSICAL EXAMINATION:  He is in no acute distress at rest.  He
+
+says his chest pain is essentially gone on oxygen.  Vital signs
+
+are as noted.  Head, eyes, ears, nose, and throat:  Normocephalic
+
+and atraumatic.  Pupils are equal and reactive to light. 
+
+Extraocular motions are intact.  Oropharynx is unremarkable. 
+
+Neck is supple.  There is no jugular venous distention.  Chest is
+
+clear to auscultation.  Heart is regular rate and rhythm.  His
+
+abdomen is soft and nontender.  There is no hepatosplenomegaly. 
+
+There are no masses.  His skin is warm and dry.  There is no
+
+lower extremity edema.  He has equal pulses.  His neuro exam is
+
+alert and oriented to person, place, and time.  His cranial
+
+nerves are intact.  He is grossly nonfocal.
+
+LABORATORY DATA:  He has a white count of 8, hematocrit of 46,
+
+and platelet count of 200,000.  His SMA-7 is unremarkable.  CK-MB
+
+and troponin are flat and INR is 1.  His EKG shows less than 1 mm
+
+ST depressions in V2, without any reciprocal or other changes.
+
+ASSESSMENT:  The patient with a history of CAD with concerning
+
+symptoms.  He did have a fight earlier in the day, although was
+
+not under significant stress at the time of this event.  Given
+
+his prior CAD history, the patient was given Lopressor.  Decision
+
+was made to admit him for rule out acute coronary syndrome.  The
+
+patient was admitted in stable condition.  The patient had
+
+already got an aspirin and the patient remained in stable
+
+condition until he was admitted.
+
+DIAGNOSIS:  Rule out acute coronary syndrome.
+
+______________________________
+
+VELASQUEZ, WALTER M.D.
+
+D: 01/31/61
+
+T: 02/01/61
+
+Dictated By: VELASQUEZ, WALTER
+
+eScription document:9-1137686 BFFocus
+
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2061-01-31" TYPE="DATE" comment="" />
+<ID id="P1" start="36" end="44" text="32707420" TYPE="MEDICALRECORD" comment="" />
+<NAME id="P2" start="45" end="62" text="GIPSON, ALEXANDER" TYPE="PATIENT" comment="" />
+<DATE id="P3" start="63" end="71" text="01/31/61" TYPE="DATE" comment="" />
+<NAME id="P4" start="72" end="89" text="VELASQUEZ, WALTER" TYPE="DOCTOR" comment="" />
+<NAME id="P5" start="131" end="137" text="Hardin" TYPE="DOCTOR" comment="" />
+<DATE id="P6" start="141" end="151" text="01/31/2061" TYPE="DATE" comment="" />
+<AGE id="P7" start="335" end="337" text="73" TYPE="AGE" comment="" />
+<DATE id="P8" start="404" end="408" text="2060" TYPE="DATE" comment="" />
+<PROFESSION id="P9" start="518" end="530" text="chiropractor" TYPE="PROFESSION" comment="" />
+<NAME id="P10" start="2871" end="2888" text="VELASQUEZ, WALTER" TYPE="DOCTOR" comment="" />
+<DATE id="P11" start="2898" end="2906" text="01/31/61" TYPE="DATE" comment="" />
+<DATE id="P12" start="2911" end="2919" text="02/01/61" TYPE="DATE" comment="" />
+<NAME id="P13" start="2934" end="2951" text="VELASQUEZ, WALTER" TYPE="DOCTOR" comment="" />
+<ID id="P14" start="2973" end="2982" text="9-1137686" TYPE="IDNUM" comment="" />
+</TAGS>
+</deIdi2b2>

@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2077-08-04
+
+EDVISIT^42817774^AARON, JEAN^08/04/77^VALENTIN, IDA
+
+CHIEF COMPLAINT:  Status post fall, right shoulder pain.
+
+I saw the patient with Dr. Andrew Newhouse.  Please see his note for
+
+further details.  I confirm that I have interviewed and examined
+
+the patient, reviewed the resident's documentation, and discussed
+
+the evaluation, plan of care, and disposition with the patient.
+
+HISTORY OF PRESENT ILLNESS:  The patient is a 63-year-old female
+
+who presents after mechanical trip and follow at work today and
+
+hit her forehead.  No loss of consciousness, no headache, no
+
+visual changes, no upper or lower extremities, paresthesias or
+
+weakness.  She fell onto her right shoulder, is complaining about
+
+pain at that area.  No focal weakness, no neck pain, no back
+
+pain, no chest pain, shortness of breath, no belly pain.
+
+PAST MEDICAL HISTORY:  Hypertension, diabetes,
+
+hypercholesterolemia, neuropathy, and diverticulitis.
+
+MEDICATIONS:  Currently on Novolog, verapamil, lisinopril,
+
+amitriptyline, and aspirin.
+
+ALLERGIES:  No known allergies
+
+SOCIAL HISTORY:  One pack per day smoker and does not drink.  She
+
+denies IV drug use.  She lives alone.
+
+FAMILY HISTORY:  Noncontributory.
+
+REVIEW OF SYSTEMS:  As per resident's note and my HPI.
+
+PHYSICAL EXAMINATION:  She is awake, alert, and nontoxic but does
+
+appear uncomfortable.  Afebrile, vital signs are notable for a
+
+blood pressure of 185/79, O2 saturation 99% on room air,
+
+respiratory rate 18, and pulse 89.  HEENT exam:  Normocephalic
+
+and atraumatic.  No facial tenderness.  No cervical spine
+
+tenderness in the midline.  Lungs:  Clear anteriorly.  No TLS
+
+spine tenderness in the midline.  Heart:  Regular rate and
+
+rhythm.  Abdomen:  Soft, nontender, and nondistended.  Her right
+
+shoulder that is held by her side, she has exquisite tenderness,
+
+unable to really move it.  She has intact axillary nerve
+
+sensation, full strength in her hand and fingers.  Alert and
+
+oriented x3.  Normal mood and affect.
+
+EMERGENCY DEPARTMENT COURSE:  The patient thought she hit her
+
+forehead does not have signs or symptoms suggestive of
+
+intracerebral injuries.  I do not feel she needs imaging though
+
+she has pain in her shoulder.  She is awake and alert and answers
+
+questions appropriately.  She has no cervical spine tenderness in
+
+the midline.  She did have plain films of her right shoulder that
+
+show comminuted fracture of the right humerus involving the
+
+surgical neck, greater tuberosity, anatomic neck with medial
+
+displacement distal fragment.  She also had a chest x-ray that
+
+showed some mild pulmonary vascular congestion.  The patient had
+
+preoperative screening labs that included sodium 138, K 4.2,
+
+chloride 101, bicarbonate 25, BUN 20, creatinine 1.4, glucose 395
+
+and calcium 10.  White count of 27, hematocrit 41, and platelet
+
+count 286,000.  Coags within normal limits. 
+
+The patient will be admitted to the Orthopedics Surgery.  We will
+
+check UA given her white count.  Of note, she did have her
+
+differential still pending.
+
+DIAGNOSIS:  Right shoulder fracture status post mechanical fall.
+
+DISPOSITION:  Admitted to Ortho.
+
+CONDITION:  Stable.  She will also be treated for hyperglycemia,
+
+which is also another diagnosis.
+
+______________________________
+
+VALENTIN, IDA MD
+
+D: 08/04/77
+
+T: 08/04/77
+
+Dictated By: VALENTIN, IDA
+
+eScription document:2-7000249 BFFocus
+
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2077-08-04" TYPE="DATE" comment="" />
+<ID id="P1" start="36" end="44" text="42817774" TYPE="MEDICALRECORD" comment="" />
+<NAME id="P2" start="45" end="56" text="AARON, JEAN" TYPE="PATIENT" comment="" />
+<DATE id="P3" start="57" end="65" text="08/04/77" TYPE="DATE" comment="" />
+<NAME id="P4" start="66" end="79" text="VALENTIN, IDA" TYPE="DOCTOR" comment="" />
+<NAME id="P5" start="166" end="181" text="Andrew Newhouse" TYPE="DOCTOR" comment="" />
+<AGE id="P6" start="453" end="455" text="63" TYPE="AGE" comment="" />
+<NAME id="P7" start="3264" end="3277" text="VALENTIN, IDA" TYPE="DOCTOR" comment="" />
+<DATE id="P8" start="3285" end="3293" text="08/04/77" TYPE="DATE" comment="" />
+<DATE id="P9" start="3298" end="3306" text="08/04/77" TYPE="DATE" comment="" />
+<NAME id="P10" start="3321" end="3334" text="VALENTIN, IDA" TYPE="DOCTOR" comment="" />
+<ID id="P11" start="3356" end="3365" text="2-7000249" TYPE="IDNUM" comment="" />
+</TAGS>
+</deIdi2b2>

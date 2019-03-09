@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2074-10-08
+
+
+
+	CARDIOLOGY
+
+	
+
+	COLLINGSWORTH GENERAL HOSPITAL
+
+	
+
+
+
+	Reason for visit:
+
+   Pt is seen @ r/o Dr Quintana in ER obs unit - in o/n with chest pain
+
+
+
+	Interval History:
+
+   He has had angioplasty of the circumflex vessel and angioplasty and stenting of a diagonal branch of his LAD, both in May 2071. A relook in February 2072 revealed that the stent was patent.
+
+
+
+His sx with original stenting were chest presure and burning
+
+
+
+He has now come to ER with brief unprovoked stabs of L high lateral point pain w no associated sx occurring repeatedly over several hours w NO other relevant hx. The pain seemed to improve with local massage
+
+
+
+
+
+
+
+	Family history:
+
+   He has one sister living in St. John's who has diabetes. Both his parents had diabetes as well. They are both deceased
+
+
+
+	Social history:
+
+   He is now fully retired from quarrying. He is married and lives with his wife.  
+
+
+
+Physical examination:
+
+	
+
+-resp. rate: 16  
+
+-General:   No acute distress.
+
+-Skin:   No rashes, anicteric.
+
+-Heent:   Unremarkable
+
+-Neck:   Carotids 2+ without bruits. JVP no jugular venous distention.
+
+-Chest:   Clear to auscultation and percussion.
+
+-Cardiac:   Left ventricular impulse discrete and nondisplaced. Regular rate and rhythm, normal S1 and S2, with no S3 or S4. There was a 2/6 systolic murmur of MR
+
+-Abdomen:   Normal bowel sounds, soft and nontender, with no hepatosplenomegaly or masses appreciated.
+
+-Extremities:   No cyanosis, clubbing or edema. 2+ femoral pulses without bruits. 2+ pedal pulses.
+
+-BP: 130/75  
+
+
+
+	EKG:
+
+   NSR and WNL
+
+
+
+Selected recent labs:
+
+	 Cardiac enzymes
+
+Date     CK       CK-MB    CKMBRI   TROP-I   TROP-T   
+
+10/08/74 63       2.3                        <0.01    
+
+10/07/74                            NEGATIVE          
+
+
+
+
+
+	
+
+
+
+	Assessment and plan:
+
+   He has presented with very atypical chest pain with negative markers and unchanged ECG. Thjis is chest wall pain - not cardiac. It is clearly - in pt's view and mine - different from the pain of his CAD. He is OK to go home with dx of chest wall pain. OK to use Ibuprofen prn - should be ok in low dose on full stomach despite his h/o dyspepsia. F/u w Dr Cook.
+
+
+
+	Signed electronically by   Bob D Kirkpatrick MD  on  Oct 8, 2074     
+
+
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2074-10-08" TYPE="DATE" comment="" />
+<LOCATION id="P1" start="47" end="77" text="COLLINGSWORTH GENERAL HOSPITAL" TYPE="HOSPITAL" comment="" />
+<NAME id="P2" start="127" end="135" text="Quintana" TYPE="DOCTOR" comment="" />
+<DATE id="P3" start="320" end="328" text="May 2071" TYPE="DATE" comment="" />
+<DATE id="P4" start="342" end="355" text="February 2072" TYPE="DATE" comment="" />
+<LOCATION id="P5" start="723" end="733" text="St. John's" TYPE="CITY" comment="" />
+<PROFESSION id="P6" start="867" end="876" text="quarrying" TYPE="PROFESSION" comment="" />
+<DATE id="P7" start="1684" end="1692" text="10/08/74" TYPE="DATE" comment="" />
+<DATE id="P8" start="1740" end="1748" text="10/07/74" TYPE="DATE" comment="" />
+<NAME id="P9" start="2186" end="2190" text="Cook" TYPE="DOCTOR" comment="" />
+<NAME id="P10" start="2223" end="2240" text="Bob D Kirkpatrick" TYPE="DOCTOR" comment="" />
+<DATE id="P11" start="2249" end="2260" text="Oct 8, 2074" TYPE="DATE" comment="" />
+</TAGS>
+</deIdi2b2>

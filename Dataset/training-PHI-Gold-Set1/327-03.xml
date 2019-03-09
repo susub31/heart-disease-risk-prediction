@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2093-09-18
+
+CC: f/u DM, HTN
+
+
+
+HPI: Mr. Hooper comes in for f/u on DM.  Recent bloodwork mistakenly did not include A1C.  BS have been good at home on Lantus 40 qpm.  Seeing Christine Newberry at Manamana.  
+
+
+
+His UA had trace heme with 2-4 RBCs and 15-20 hyaline casts.  He reports h.o microscopic hematuria going back to the 2070s.  Previously saw nephrologist for this.  He reports having CT scans or u/s in the 2070s.  He reports significant FH of glomerulonephritis, and a brother with IgA nephropathy.  
+
+
+
+He has HTN, takes lisinopril and Atenolol.
+
+
+
+
+
+Problems
+
+HTN 
+
+HYPERCHOL 
+
+WEIGHT 
+
+H/O GOUT 
+
+DM 
+
+? CVA
+
+
+
+Medications
+
+ALLOPURINOL 300 MG PO QD
+
+Insulin Nph Human 22 UNITS SC QAM : 17 units qpm
+
+Elavil (AMITRIPTYLINE Hcl) 10MG, 1 Tablet(s) PO QHS
+
+ATENOLOL 50 MG PO BID
+
+LISINOPRIL 20MG, 1 Tablet(s) PO QD
+
+METFORMIN 500MG, 1 Tablet(s) PO QD
+
+Lantus (INSULIN Glargine) 40 UNITS SC QHS
+
+Pravachol (PRAVASTATIN) 40MG, 1 Tablet(s) PO QHS 
+
+
+
+
+
+Allergies
+
+NONE - NONE 
+
+
+
+ROS:
+
+CV: no chest pain, orthopnea, PND, LE edema, palps
+
+GI: no abd pain, nausea, vomiting, d/c, heartburn
+
+Endo: no polyuria or polydipsia
+
+
+
+PE: 
+
+160/80 Recheck 142/90 P 66 RR 14  Wgt 267
+
+General: obese, NAD
+
+Extr: 2+ pedal pulses, no clubbing, cyanosis, or edema
+
+
+
+A/P:
+
+1. DM: HbA1C good in March.  Recheck today.  Reviewed MAlb ratio which is mildly high.  Continue lantus.    Increase Lisinopril to 30 mg qd. 
+
+2. Hyperlipidemia: reviewed LDL which is better.  Still low HDL, consider adding Tricor or niacin.  Will discuss at next visit.
+
+3. HTN: elevated.  Increase Lisinopril. 
+
+4. Microscopic hematuria: he reports h/o of this since the 2070's.  Mild elevation in Cr likely rel. to HTN and DM.  However, I think he needs nephrology consult, esp. with his FH.  I have referred him to Dr. Dewitt at EDUCARE-PULLMAN.  Consider w/u for tumor causing microhematuria, though this is much less likely given the very long h/o this.  
+
+5. f/u visit 1 month and prn.
+
+
+
+
+
+_____________________________________________
+
+Daniel C. Quillen, M.D.
+
+
+
+
+
+
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2093-09-18" TYPE="DATE" comment="" />
+<NAME id="P1" start="56" end="62" text="Hooper" TYPE="PATIENT" comment="" />
+<NAME id="P2" start="190" end="208" text="Christine Newberry" TYPE="DOCTOR" comment="" />
+<LOCATION id="P3" start="212" end="220" text="Manamana" TYPE="HOSPITAL" comment="" />
+<DATE id="P4" start="344" end="349" text="2070s" TYPE="DATE" comment="" />
+<DATE id="P5" start="432" end="437" text="2070s" TYPE="DATE" comment="" />
+<DATE id="P6" start="1653" end="1659" text="2070's" TYPE="DATE" comment="" />
+<NAME id="P7" start="1803" end="1809" text="Dewitt" TYPE="DOCTOR" comment="" />
+<LOCATION id="P8" start="1813" end="1828" text="EDUCARE-PULLMAN" TYPE="HOSPITAL" comment="" />
+<NAME id="P9" start="2025" end="2042" text="Daniel C. Quillen" TYPE="DOCTOR" comment="" />
+</TAGS>
+</deIdi2b2>

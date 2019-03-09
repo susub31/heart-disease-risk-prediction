@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2062-06-10
+
+Medical Walk In Unit
+
+Hartsville General Hospital
+
+21 Brook St 
+
+Pataskala, RI 33689
+
+Phone: 929-462-2794   Fax: 648-875-5821 
+
+
+
+PCP: 
+
+
+
+
+
+Nursing Assessment:  
+
+WT:    Temp:    P: 100     BP: 190/116
+
+
+
+Reason for visit: Pt just left the EW.  Noted HTN has been off meds for a while.  Was nor given any meds
+
+
+
+Lab Data :
+
+
+
+Allergies:      
+
+
+
+
+
+Medication: 
+
+off meds for more than 3 months
+
+
+
+History of the Present Illness:                                
+
+59 y/o female here for high blood pressure.  Pt was seen in EW for medications and was given Seroquel, Neurontin, and amytriptyline.  Pt has been out of meds for more than 3 months.
+
+
+
+Pt remembers being atenolol and HCTZ.  Pt plans to come to the medical walk-in tomorrow with all her medications.
+
+
+
+Pt denies HA, visual problems, chest pain, problems with urination.
+
+
+
+Father had CAD and died at age 55.  Mother died when she was 89 (10 months ago).  Pt never had a heart attack.  Pt never smoked.
+
+
+
+Pertinent PMH:  
+
+diabetes
+
+HTN
+
+mood disorder
+
+
+
+Physical Exam:  
+
+Gen: NAD
+
+Vitals: HR 100, BP 200/130 on right arm
+
+Heart: reg, no murmur
+
+Lungs: CTAB
+
+
+
+Assessment/Plan:
+
+high blood pressure
+
+-- metoprolol 50 po now and then bid
+
+-- lisinopril 10 po now and then qd
+
+-- follow-up in the EW now to make sure BP is lower before discharge
+
+
+
+Follow-up:
+
+to EW
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2062-06-10" TYPE="DATE" comment="" />
+<LOCATION id="P1" start="50" end="77" text="Hartsville General Hospital" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P2" start="79" end="90" text="21 Brook St" TYPE="STREET" comment="" />
+<LOCATION id="P3" start="93" end="102" text="Pataskala" TYPE="CITY" comment="" />
+<LOCATION id="P4" start="104" end="106" text="RI" TYPE="STATE" comment="" />
+<LOCATION id="P5" start="107" end="112" text="33689" TYPE="ZIP" comment="" />
+<CONTACT id="P6" start="121" end="133" text="929-462-2794" TYPE="PHONE" comment="" />
+<CONTACT id="P7" start="141" end="153" text="648-875-5821" TYPE="FAX" comment="" />
+<AGE id="P8" start="492" end="494" text="59" TYPE="AGE" comment="" />
+<AGE id="P9" start="896" end="898" text="55" TYPE="AGE" comment="" />
+<AGE id="P10" start="926" end="928" text="89" TYPE="AGE" comment="" />
+</TAGS>
+</deIdi2b2>

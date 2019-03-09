@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2094-12-16
+
+
+	CARDIOLOGY
+	
+
+	OXFORD DELTA CLINIC
+	
+
+
+	Reason for visit:
+   s/p Coronary angiogram with placement Cypher stent to LAD
+
+
+	Interval History:
+   The patient is a 70 yo male with a history of HTN, hyperlipidemia, DM, CAD and CABG September 2092 which was c/b premature graft failure of the SVG to LAD. Cardiac catheterization was performed in Jan 93 and underwent POBA of likely diffusely diseased, intramyocardial LAD, but never really improved. He was admitted to ODC in May 94 and cath demonstrated severe native disease with a mid-LAD lesion which was treated with PTCA/ Taxus stent. He had symptomatic relief until about one month ago when he began to experience exertional discomfort and dyspnea which has now progressed to symptoms at rest despite an aggressive medical regimen. He presented today for cath which revealed a new stenosis distal to the prior LAD stent which was patent. The lesion was stented with a 2.25 x 13 mm Cypher stent. he is now admitted to the Cardiology department for post procedure monitoring and arrived to cardio clinic pain free and hemodynamically stable.
+
+
+	Past medical history:
+   DM 
+HTN 
+Hyperlipidemia 
+CAD -CABG x 3 September 2092 WMMC (LIMA to D2, SVG to RCA, SVG to LAD) s/p PCI prox LAD Jan 2093, s/p Taxus stent to LAD 5/94 
+GERD s/p H pylori eradication several years ago 
+Left rotator cuff injury s/p CABG 
+Anxiety 
+hernia repair
+
+	
+
+	Changes to Allergies
+	
+ACE Inhibitor - reaction: cough [reviewed]
+METFORMIN - reaction: GI Intolerance [reviewed]
+ROSUVASTATIN - reaction: myalgia [reviewed]
+SIMVASTATIN - reaction: myalgias [reviewed]
+VALSARTAN - reaction: fatigue [reviewed]
+
+
+	Social history:
+   Lives with wife in Lagrange,KS. Retired. Former heavy smoker-quit x 30 yrs. Rare ETOH.
+
+
+	Review of systems:
+   negative in detail other than mentioned in HPI
+
+Physical examination:
+	
+-Pulse:   
+-resp. rate:   
+-height: 67  in.
+-weight: 175  lbs.
+-General:   No acute distress.
+-Skin:   No rashes, anicteric.
+-Neck:   2+ carotid pulses with normal upstrokes, no bruits, JVP 5-6 cm
+-Chest:   Clear to auscultation anteriorly
+-Cardiac:   Left ventricular impulse discrete and nondisplaced. Regular rate and rhythm, normal S1 and S2, with no S3 or S4. There were no murmurs, clicks or rubs.
+-Abdomen:   Normal bowel sounds, soft and nontender, with no hepatosplenomegaly or masses appreciated.
+-Extremities:   No cyanosis, clubbing or edema. 2+ femoral pulses without bruits. 2+ pedal pulses.
+-BP:   
+-temp:   
+-Pain scale (0 to 10): 0  
+
+
+	EKG:
+   SB @ 55, LAD, RBBB no acute changes
+
+Selected recent labs:
+	 11/29/94 WBC 6.7, Hct 45, Plts 287
+         Na 144, K 4.5, Cl 106, BUN 17, Cr 1.2
+
+	
+
+
+	Impression:
+   70 yo male with CAD s/p CABG with early LAD graft failure s/p LAD stenting 5/94 now with recurrent symptoms found to have a new LAD stenosis that was Cypher stented today.
+
+
+	Assessment and plan:
+   CV:Pain free and hemodynamically stable, HR and BP in good range continue current medical regimen and monitor 
+DM:Diet controlled, monitor FSBS and cover as needed 
+
+Further plans per Dr Paulson
+		Medication List
+		
+
+				CONFIRMED
+
+		- amlodipine besylate  10 MG PO daily
+
+		- ASPIRIN ENTERIC COATED (ASA ENTERIC COATED )  325 MG PO daily
+
+		- atorvastatin  40 MG PO QPM
+
+		- clopidogrel bisulfate  75 MG PO daily
+
+		- escitalopram  40 MG PO daily
+
+		- fenofibrate  200 MG PO daily
+
+		- furosemide  20 MG PO daily
+
+		- isosorbide mononitrate extended release  60 MG PO daily
+
+		- KCL SLOW RELEASE TAB  10 MEQ PO daily
+
+		- metoprolol tartrate  12.5 MG PO BID
+
+		- NITROGLYCERIN 1/200 (0.3 MG)  1 TAB SL Q 5 mins X 3 doses PRN
+
+		- pantoprazole  40 MG PO daily
+
+		- ranolazine  1000 MG PO daily
+
+
+	
+	
+
+	
+Catherine L. Uresti, NP pager #28333
+
+	
+Transcribed by: Catherine L Uresti
+
+	
+Signed electronically by  Catherine L. Uresti, NP
+Document Status: Final
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2094-12-16" TYPE="DATE" comment="" />
+<LOCATION id="P1" start="45" end="64" text="OXFORD DELTA CLINIC" TYPE="HOSPITAL" comment="" />
+<AGE id="P2" start="190" end="192" text="70" TYPE="AGE" comment="" />
+<DATE id="P3" start="257" end="271" text="September 2092" TYPE="DATE" comment="" />
+<DATE id="P4" start="370" end="376" text="Jan 93" TYPE="DATE" comment="" />
+<LOCATION id="P5" start="493" end="496" text="ODC" TYPE="HOSPITAL" comment="" />
+<DATE id="P6" start="500" end="506" text="May 94" TYPE="DATE" comment="" />
+<DATE id="P9" start="1188" end="1202" text="September 2092" TYPE="DATE" comment="" />
+<LOCATION id="P10" start="1203" end="1207" text="WMMC" TYPE="HOSPITAL" comment="" />
+<DATE id="P11" start="1262" end="1270" text="Jan 2093" TYPE="DATE" comment="" />
+<DATE id="P12" start="1295" end="1299" text="5/94" TYPE="DATE" comment="" />
+<LOCATION id="P13" start="1697" end="1705" text="Lagrange" TYPE="CITY" comment="" />
+<LOCATION id="P14" start="1706" end="1708" text="KS" TYPE="STATE" comment="" />
+<DATE id="P15" start="2585" end="2593" text="11/29/94" TYPE="DATE" comment="" />
+<AGE id="P16" start="2688" end="2690" text="70" TYPE="AGE" comment="" />
+<DATE id="P17" start="2763" end="2767" text="5/94" TYPE="DATE" comment="" />
+<NAME id="P18" start="3074" end="3081" text="Paulson" TYPE="DOCTOR" comment="" />
+<NAME id="P19" start="3690" end="3709" text="Catherine L. Uresti" TYPE="DOCTOR" comment="" />
+<CONTACT id="P20" start="3721" end="3726" text="28333" TYPE="PHONE" comment="" />
+<NAME id="P21" start="3746" end="3764" text="Catherine L Uresti" TYPE="DOCTOR" comment="" />
+<NAME id="P22" start="3794" end="3813" text="Catherine L. Uresti" TYPE="DOCTOR" comment="" />
+</TAGS>
+</deIdi2b2>

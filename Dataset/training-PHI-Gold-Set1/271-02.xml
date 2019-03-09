@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2104-02-15
+
+
+February 15, 2104
+OFFICE VISIT (CHC)
+The patient is seen in followup at the Community Health.  He came back from Pennsylvania after being there about a month.  He has had an eventful past six months.  In October, he apparently had a TIA or small stroke.  He was evaluated with an MRA of his neck and was told that there was not enough blockage to warrant surgery.  His symptomatology fortunately clear.  His symptoms were related to loss of feeling in his right upper extremity.  About this time, he also developed a traumatic lesion of the left second toe.  He apparently develops some cellulitis and was treated with ampicillin.  Not long after this, he went into renal failure.  He was told that they could not tell if that was due to the antibiotics or the gadolinium.  According to the patient and his wife, his creatinine went as high as 9.  Fortunately, it is currently back down to 2.4.
+
+
+His toe lesion has been very slow to improve.  He describes pain in the toe and often has to sleep in a chair with his foot dependent.  He has seen various physicians and podiatrists in Pennsylvania, without much improvement.  They finally told him, he would do well to come back here for further care and evaluation.
+
+
+On examination today, I can feel femoral and popiteal pulses.  I do not feel any definite pedal pulses on either side but noninvasive study show good pulsatile flow at the calf and transmetatarsal level.  Resting ABI is good, although his diabetic calcinosis probably makes this unreliable.  He has some slight pulsatile flow at the right toe level and flat tracings at left toes.  He has 1 cm escharover the dorsum of his second toe.  There is some erythema of the toe and proximal dorsal forefoot.  This certainly has the appearance of some cellulites.  There is minimal to no swelling of the toe.
+
+
+We will place him on Keflex 250 mg q.i.d. for 7 to 10 days to see if this helps with any possible associated cellulitis.  I will refer him to Dr. Caldwell for recommendations regarding wound quick care and an opinion whether or not hyperbaric oxygen therapy might be worth considering.  I do not think there is anything further we can do to improve his distal blood flow.  Further imaging will also be very difficult in view of the possible problems with gadolinium as well as his creatinine, which limit contrast administration.  His noninvasive studies suggest that his problems are all diabetic small vessel disease and it is unlikely that we could be of benefit with this.  I will await Dr. Caldwell&#8217;s opinions.
+
+
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2104-02-15" TYPE="DATE" comment="" />
+<DATE id="P1" start="29" end="46" text="February 15, 2104" TYPE="DATE" comment="" />
+<LOCATION id="P2" start="61" end="64" text="CHC" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P3" start="105" end="121" text="Community Health" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P4" start="142" end="154" text="Pennsylvania" TYPE="STATE" comment="" />
+<DATE id="P5" start="233" end="240" text="October" TYPE="DATE" comment="" />
+<LOCATION id="P6" start="1112" end="1124" text="Pennsylvania" TYPE="STATE" comment="" />
+<NAME id="P7" start="1994" end="2002" text="Caldwell" TYPE="DOCTOR" comment="" />
+<NAME id="P8" start="2543" end="2551" text="Caldwell" TYPE="DOCTOR" comment="" />
+</TAGS>
+</deIdi2b2>

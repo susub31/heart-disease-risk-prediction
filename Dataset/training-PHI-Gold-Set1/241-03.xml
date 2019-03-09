@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2075-10-05
+
+                     MEC EMERGENCY DEPT VISIT
+ 
+OLIVIER,CHRISTINE   652-33-21-5                     VISIT DATE: 10/05/75
+PRESENTING COMPLAINT:  Chest pain. 
+HISTORY OF PRESENTING COMPLAINT:  The resident's note was reviewed, 
+and the patient seen and examined on arrival.  This is a 
+65-year-old female status post multiple angioplasties and stent 
+placement.  She had recurrence of her typical angina at home, took 
+three nitroglycerin with minimal relief, and activated the 911 
+system.  Her pre-hospital electrocardiogram shows a small amount of 
+ST depression, perhaps 1 mm, and flattening V3-V6.  This is 
+comparable to a previous electrocardiogram in October, which may 
+have been her most recent presentation with ischemia.  She was 
+given aspirin and nitroglycerin, and continued to have pain in the 
+Emergency Department.  The total duration of pain was approximately 
+two hours. 
+PHYSICAL EXAMINATION:  Her vital signs remained stable. 
+LABORATORY EVALUATION:  Her initial enzymes were flat. 
+THERAPY RENDERED/COURSE IN ED:  She is being taken to the Cardiac 
+Catheterization Laboratory for an urgent study to rule out acute 
+coronary syndrome. 
+FINAL DIAGNOSIS:  Rule out unstable angina. 
+DISPOSITION (including condition upon discharge):  The patient is 
+taken to the Cardiac Catheterization Laboratory.  The condition at 
+the time of this dictation is favorable. 
+___________________________________                    FK981/1979 
+RONNIE PALMER, M.D.  RP400                           D:10/05/75 
+                                                       T:10/05/75 
+Dictated by:  RONNIE PALMER, M.D.  RP400 
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2075-10-05" TYPE="DATE" comment="" />
+<LOCATION id="P1" start="49" end="52" text="MEC" TYPE="HOSPITAL" comment="" />
+<NAME id="P2" start="76" end="93" text="OLIVIER,CHRISTINE" TYPE="PATIENT" comment="" />
+<ID id="P3" start="96" end="107" text="652-33-21-5" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P4" start="140" end="148" text="10/05/75" TYPE="DATE" comment="" />
+<AGE id="P5" start="312" end="314" text="65" TYPE="AGE" comment="" />
+<DATE id="P6" start="685" end="692" text="October" TYPE="DATE" comment="" />
+<ID id="P7" start="1461" end="1471" text="FK981/1979" TYPE="IDNUM" comment="" />
+<NAME id="P8" start="1473" end="1486" text="RONNIE PALMER" TYPE="DOCTOR" comment="" />
+<NAME id="P9" start="1494" end="1499" text="RP400" TYPE="USERNAME" comment="" />
+<DATE id="P10" start="1528" end="1536" text="10/05/75" TYPE="DATE" comment="" />
+<DATE id="P11" start="1595" end="1603" text="10/05/75" TYPE="DATE" comment="" />
+<NAME id="P12" start="1619" end="1632" text="RONNIE PALMER" TYPE="DOCTOR" comment="" />
+<NAME id="P13" start="1640" end="1645" text="RP400" TYPE="USERNAME" comment="" />
+</TAGS>
+</deIdi2b2>

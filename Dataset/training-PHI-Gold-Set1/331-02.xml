@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2079-01-24
+
+Mr. Sparks is a 74 yr. M who was seen by me as a new patient in Nov. 10 and again in Dec. 10. He RTC.
+
+
+
+HPI: This visit was supposed to be a preoperative visit prior to his scheduled Feb. 02 right inguinal hernia repair with Dr. Yamaguchi. However, when I saw him in Dec he had inadequate BP control despite Dr. Arias doubling his Lisinopril. I DCed Atenolol and switched him to Labetalol 100 mg BID. Despite some confusion I believe he has done this. He had also been switched from Crestor to Lipitor due to safety concerns. Labs done pre-operatively are notable for:
+
+Creatinine     3.4
+
+LDL          184
+
+nct.           35%
+
+
+
+Problems
+
+Adenomatous polyp : May 2078
+
+Gastritis : H. pylori positive
+
+Chronic renal dysfunction 
+
+Diabetes mellitus type 2 
+
+Hypertension 
+
+Hyperlipidemia 
+
+Anemia 
+
+hyperparathyroidism 
+
+Transient ischemic attack 
+
+
+
+Medications
+
+Amlodipine 10 MG (10MG TABLET take 1) PO QD 
+
+Glipizide 10 MG (10MG TABLET take 1) PO BID 
+
+Pioglitazone 15 MG (15MG TABLET take 1) PO QD 
+
+Clopidogrel 75 MG (75MG TABLET take 1) PO QD 
+
+Furosemide 20 MG (20MG TABLET take 1) PO BID 
+
+Ferrous GLUCONATE 300 MG PO BID 
+
+Lisinopril 80 MG (40MG TABLET ) PO QD , by Dr. Arias.
+
+Atorvastatin 40 MG (40MG TABLET take 1) PO QD 
+
+Labetalol HCL 100 MG (100MG TABLET take 1) PO BID 
+
+
+
+Allergies
+
+Aspirin - ulcer, : Allergy entered as ASA 
+
+Habits: no cigarettes, drugs or alcohol;
+
+
+
+ROS: denies weight change, fever, chills, fatigue, blurry vision, chest pains, palpitations, dyspnea, cough, abdominal pain, nausea, vomiting, change in bowel/bladder habits, joint pain, dizziness, exanthem, edema. 
+
+
+
+PE notable for:
+
+Well nourished well appearing M;
+
+Vital Signs
+
+BP 184/90, P 72, Wt 236 lb
+
+O2 SAT 99 %
+
+HEENT: sclera clear white OU, EOMI, ear canals and TMs wnl AU; oropharynx without lesions.
+
+LN: No palpable neck or SC LN;
+
+Cardiac: RRR, rate 72, no extra sounds
+
+Resp.: good air movement, no accessory muscle use, no adventitious sounds
+
+
+
+Plan:
+
+1. Hypertension: continues to be inadequate in a diabetic.We have limited options; increasing Lisinopril did not add much. Switch to Labetalol did not help, but he is also not beta-blocked (HR 72) so I am increasing Labetalol to 200 mg BID.
+
+2. Diabetes: control has been good.
+
+3. Renal insufficiency
+
+4. Hyperlipidemia: we may need to increase Lipitor and/or add Zetia.
+
+5. Right inguinal hernia: RTC one week for hopefully better pre-op. BP
+
+
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2079-01-24" TYPE="DATE" comment="" />
+<NAME id="P1" start="32" end="38" text="Sparks" TYPE="PATIENT" comment="" />
+<AGE id="P2" start="44" end="46" text="74" TYPE="AGE" comment="" />
+<DATE id="P3" start="92" end="99" text="Nov. 10" TYPE="DATE" comment="" />
+<DATE id="P4" start="113" end="120" text="Dec. 10" TYPE="DATE" comment="" />
+<DATE id="P5" start="212" end="219" text="Feb. 02" TYPE="DATE" comment="" />
+<NAME id="P6" start="258" end="267" text="Yamaguchi" TYPE="DOCTOR" comment="" />
+<DATE id="P7" start="296" end="299" text="Dec" TYPE="DATE" comment="" />
+<NAME id="P8" start="341" end="346" text="Arias" TYPE="DOCTOR" comment="" />
+<DATE id="P9" start="689" end="697" text="May 2078" TYPE="DATE" comment="" />
+<NAME id="P10" start="1207" end="1212" text="Arias" TYPE="DOCTOR" comment="" />
+</TAGS>
+</deIdi2b2>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2080-12-12
+
+FREDERICK JEFFERSON
+
+KRMC Unit No: 887-09-86
+
+
+
+ZUCKER HILLSIDE HOSPITAL
+
+
+
+ADULT MEDICINE
+
+
+
+
+
+Date: December 12, 2080
+
+84-year-old male for follow up of a recent hospitalization last weekend.  Apparently, had some mild congestive heart failure, after eating some pizza.  Apparently he ruled out, he was only in the hospital for 24 hours.  Since discharge, he has been doing well.  He feels perhaps a slight tickle in his throat and occasional cough but no PND, orthopnea, dyspnea on exertion or chest pain.  There were no changes of his medication.
+
+PAST MEDICAL HISTORY:  
+
+(1)	CAD with CHF: EF of 25%.
+
+(2)	Hypertension.
+
+(3)	Peripheral vascular disease.
+
+(4)	Gout.
+
+(5)	DJD.
+
+(6)	Renal insufficiency.
+
+(7)	Hyperlipidemia.
+
+(8)	BPH.
+
+MEDICATIONS: Lasix 40 mg b.i.d., digoxin .125 mg q.o.d., Colchicine .6 mg q.o.d., Metoprolol 50 mg twice a day, prednisone 5 mg q.d., Coumadin as per Anticoag Clinic, hydralazine 10 mg q.i.d., Isordil 20 mg t.i.d., K-DUR 20 meq q.d., Hydroxychloroquine 200 mg q.d., calcium and vitamin D twice a day, allopurinol 100 mg q.d., Celebrex 200 mg q.d. and Azulfidine 500 mg taken 3 x per week.
+
+
+
+PHYSICAL EXAM: Weight: 197, down 6 pounds from November.  His blood pressure today is 130/70.  His pulse is in the 80's and slightly irregular.  Neck: 8 cm JVD.  Lungs: Although diminished breath sounds, clear.  Cardiac: Regularly irregular, S1, S2.  Abdomen: Soft and nontender.  Extremities: No edema on the right.  Trace ankle edema on the left.
+
+
+
+A/P:	Status post episode of congestive heart failure due to dietary noncompliance: Appears to be stable now with decrease in his weight. Continue present medical regimen.  We had a discussion on the importance of diet compliance.  Avoid salt products.  Will otherwise see Mrs. Kang later this month in December and I will see him again in January.
+
+David Hale, M.D.
+
+DH/quiggle/nielsen
+
+
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2080-12-12" TYPE="DATE" comment="" />
+<NAME id="P1" start="28" end="47" text="FREDERICK JEFFERSON" TYPE="PATIENT" comment="" />
+<LOCATION id="P2" start="49" end="53" text="KRMC" TYPE="HOSPITAL" comment="" />
+<ID id="P3" start="63" end="72" text="887-09-86" TYPE="MEDICALRECORD" comment="" />
+<LOCATION id="P4" start="76" end="100" text="ZUCKER HILLSIDE HOSPITAL" TYPE="HOSPITAL" comment="" />
+<DATE id="P5" start="130" end="147" text="December 12, 2080" TYPE="DATE" comment="" />
+<AGE id="P6" start="149" end="151" text="84" TYPE="AGE" comment="" />
+<DATE id="P7" start="1205" end="1213" text="November" TYPE="DATE" comment="" />
+<NAME id="P8" start="1787" end="1791" text="Kang" TYPE="DOCTOR" comment="" />
+<DATE id="P9" start="1812" end="1820" text="December" TYPE="DATE" comment="" />
+<DATE id="P10" start="1849" end="1856" text="January" TYPE="DATE" comment="" />
+<NAME id="P11" start="1859" end="1869" text="David Hale" TYPE="DOCTOR" comment="" />
+<NAME id="P12" start="1877" end="1879" text="DH" TYPE="DOCTOR" comment="" />
+<NAME id="P13" start="1880" end="1887" text="quiggle" TYPE="DOCTOR" comment="" />
+<NAME id="P14" start="1888" end="1895" text="nielsen" TYPE="DOCTOR" comment="" />
+</TAGS>
+</deIdi2b2>

@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2070-10-24
+
+EDVISIT^53954143^Rutledge, Xavier^10/24/70^OCASIO, WANDA
+
+This patient was seen by myself and Dr. Pappas on 10/24/2070.  I
+
+confirm that I interviewed and examined the patient, reviewed the
+
+resident's documentation and discussed plan of care with the
+
+patient.
+
+HISTORY OF PRESENT ILLNESS:  This is a 61-year-old gentleman with
+
+a history of cadaveric renal transplant 11 years ago with a
+
+history of DVT, on Coumadin, diabetes, chronic right lower
+
+extremity edema, who comes in with dysuria and chills.  He had no
+
+urinary output since last night.  He says his fevers started this
+
+morning above 101.  He went to his PCP who sent him here.  He
+
+denies any nausea or vomiting.  He has mild lower suprapubic
+
+abdominal pain and some mild flank pain.  He has had some urinary
+
+frequency.
+
+PAST MEDICAL HISTORY:  Hypertension, diabetes, gout,
+
+hypercholesterolemia, end-stage renal disease, status post
+
+transplant, anemia, BPH, and DVT.
+
+MEDICATIONS:  Please refer to the EDUCARE-FARGO list in the chart.
+
+ALLERGIES:  He has allergies to codeine.
+
+SOCIAL HISTORY:  He is not a smoker, drinker, or drug user.
+
+REVIEW OF SYSTEMS:  As noted in the HPI, otherwise negative.
+
+PHYSICAL EXAMINATION:  He is an ill-appearing gentleman with
+
+rigors.  Vital signs are as noted.  Head, eyes, ears, nose, and
+
+throat are unremarkable.  Neck is supple.  He does have dry
+
+mucous membranes.  Chest is clear to auscultation.  Heart is
+
+slightly tachycardic.  Abdomen has some suprapubic fullness and
+
+tenderness but otherwise is benign.  His rectal exam is
+
+heme-positive.  There is no prostate tenderness.  His skin is
+
+warm and flushed.  He has got toe amputations.  Extremities are
+
+otherwise unremarkable.  Neuro exam is nonfocal.
+
+LABORATORY DATA:  He has got a white count of 14, hematocrit of
+
+35, and platelet count 139,000.  SMA-7 shows bicarbonate of 15
+
+with an anion gap of 15, and a creatinine of 4.7 which is up from
+
+his baseline.  LFTs are otherwise unremarkable.  A chest x-ray
+
+was unremarkable.
+
+EMERGENCY DEPARTMENT COURSE:  He did get a Foley catheter with
+
+ ******** Not reviewed by Attending Physician ********
+
+obstruction.  He was given levofloxacin and vancomycin.  He was
+
+also given Tylenol.  He got some IV fluids.  He had an INR of 2.6
+
+which was about baseline.  The plan was to admit him to the
+
+hospital.  Transplant was subsequently called.
+
+DIAGNOSIS:  Pyelonephritis.
+
+______________________________
+
+OCASIO, WANDA M.D.
+
+D: 10/26/70
+
+T: 10/26/70
+
+Dictated By: OCASIO, WANDA
+
+eScription document:5-6955464 BFFocus
+
+
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2070-10-24" TYPE="DATE" comment="" />
+<ID id="P1" start="36" end="44" text="53954143" TYPE="MEDICALRECORD" comment="" />
+<NAME id="P2" start="45" end="61" text="Rutledge, Xavier" TYPE="PATIENT" comment="" />
+<DATE id="P3" start="62" end="70" text="10/24/70" TYPE="DATE" comment="" />
+<NAME id="P4" start="71" end="84" text="OCASIO, WANDA" TYPE="DOCTOR" comment="" />
+<NAME id="P5" start="126" end="132" text="Pappas" TYPE="DOCTOR" comment="" />
+<DATE id="P6" start="136" end="146" text="10/24/2070" TYPE="DATE" comment="" />
+<AGE id="P7" start="330" end="332" text="61" TYPE="AGE" comment="" />
+<LOCATION id="P8" start="1000" end="1013" text="EDUCARE-FARGO" TYPE="HOSPITAL" comment="" />
+<NAME id="P9" start="2450" end="2463" text="OCASIO, WANDA" TYPE="DOCTOR" comment="" />
+<DATE id="P10" start="2473" end="2481" text="10/26/70" TYPE="DATE" comment="" />
+<DATE id="P11" start="2486" end="2494" text="10/26/70" TYPE="DATE" comment="" />
+<NAME id="P12" start="2509" end="2522" text="OCASIO, WANDA" TYPE="DOCTOR" comment="" />
+<ID id="P13" start="2544" end="2553" text="5-6955464" TYPE="IDNUM" comment="" />
+</TAGS>
+</deIdi2b2>

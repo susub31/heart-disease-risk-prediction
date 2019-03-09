@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2098-01-26
+
+
+
+Reason for Visit
+
+Date/Time of Visit:
+
+ Mr. Ogrady was transferred to GSH on 1/26 from Muncy Valley Hospital, where he had presented with shortness of breath and chest pain.  Wife reports that nodules were noted on CT in lung and liver.
+
+ 
+
+Source/Reason for Referral:
+
+High risk screening evaluation for patient with hx of esophageal cancer.
+
+ 
+
+
+
+
+
+Social History
+
+Living/family situation and support system:
+
+ Hx was provided by wife.   Patient felt too sleepy to participate.    Mr. Ogrady is a 69 yo M, married 41 years.   He lives with his wife Eunice in their ranch style home in Big Lake.   Eunice is 67 and continues to work full time.  The couple has two daughters:   one very close by; the other in Vermont.
+
+ 
+
+Work/educational status:
+
+Patient retired from tilesetting after back injury approximately 15 years ago.
+
+ 
+
+Financial/insurance issues:
+
+Medicare.
+
+ 
+
+ 
+
+Brief history of current health status/co-morbidities:
+
+ DM, HTN, esophageal cancer; choly, heart disease/angina.
+
+ 
+
+Mental health history:
+
+ No mental health history.
+
+ 
+
+Alcohol/tobacco/substance history:
+
+ Quit smoking cigarettes 14 years ago.   Does not drink ETOH or use any other recreational drugs.
+
+ 
+
+Abuse/DV history:
+
+ No hx of abuse.
+
+ 
+
+Advanced Directives/HC Proxy:
+
+ Patient's wife Urbach is his HCP.
+
+ 
+
+Other risks and concerns:
+
+ 
+
+Additional Info: 
+
+
+
+
+
+Assessment
+
+Narrative: 
+
+ Mr. Ogrady presents as very sleepy, not participating in interview.   Wife reports that he has been managing fairly well at home, with sedentary lifestyle.  On good days, he visits friends or grandsons nearby.   Wife, his primary caretaker, administers the lovenox.   Wife is not alarmed by CT findings, stating that there have been nodules present for quite some time and that they are closely monitored.  Her understanding is that Mr. Ogrady is being admitted for further evaluation of chest pain.
+
+ 
+
+Patient Interventions/Education:
+
+SW met with patient and wife for evaluation and support.
+
+
+
+
+
+Plan
+
+Mr. Ogrady will be admitted to Internal Medicine. Discharge needs to be reassessed when stable.
+
+ 
+
+____________________________
+
+Yvette S. Anaya, LICSW
+
+#57913
+
+
+
+
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2098-01-26" TYPE="DATE" comment="" />
+<NAME id="P1" start="74" end="80" text="Ogrady" TYPE="PATIENT" comment="" />
+<LOCATION id="P2" start="100" end="103" text="GSH" TYPE="HOSPITAL" comment="" />
+<DATE id="P3" start="107" end="111" text="1/26" TYPE="DATE" comment="" />
+<LOCATION id="P4" start="117" end="138" text="Muncy Valley Hospital" TYPE="HOSPITAL" comment="" />
+<NAME id="P5" start="517" end="523" text="Ogrady" TYPE="PATIENT" comment="" />
+<AGE id="P6" start="529" end="531" text="69" TYPE="AGE" comment="" />
+<NAME id="P7" start="581" end="587" text="Eunice" TYPE="PATIENT" comment="" />
+<LOCATION id="P8" start="617" end="625" text="Big Lake" TYPE="CITY" comment="" />
+<NAME id="P9" start="629" end="635" text="Eunice" TYPE="PATIENT" comment="" />
+<AGE id="P10" start="639" end="641" text="67" TYPE="AGE" comment="" />
+<LOCATION id="P11" start="740" end="747" text="Vermont" TYPE="STATE" comment="" />
+<PROFESSION id="P12" start="800" end="811" text="tilesetting" TYPE="PROFESSION" comment="" />
+<LOCATION id="P13" start="891" end="899" text="Medicare" TYPE="ORGANIZATION" comment="" />
+<NAME id="P14" start="1306" end="1312" text="Urbach" TYPE="PATIENT" comment="" />
+<NAME id="P15" start="1412" end="1418" text="Ogrady" TYPE="PATIENT" comment="" />
+<NAME id="P16" start="1845" end="1851" text="Ogrady" TYPE="PATIENT" comment="" />
+<NAME id="P17" start="2018" end="2024" text="Ogrady" TYPE="PATIENT" comment="" />
+<NAME id="P19" start="2144" end="2159" text="Yvette S. Anaya" TYPE="DOCTOR" comment="" />
+<CONTACT id="P20" start="2169" end="2174" text="57913" TYPE="PHONE" comment="" />
+</TAGS>
+</deIdi2b2>

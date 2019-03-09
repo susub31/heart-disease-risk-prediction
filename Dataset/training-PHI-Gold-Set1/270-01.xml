@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2097-01-27
+
+
+RENAL FELLOW CONSULTATION NOTE
+
+
+
+
+
+
+
+PATIENT:
+
+WHITAKER, VINCENT
+
+
+UNIT#:
+
+29964344
+
+
+ADMIT DATE:
+
+1/26/97
+
+
+ATTENDING:
+
+Dr. Noor Uyeda
+
+
+Source:
+
+Notes
+
+
+Reason for consult: Acute on chronic renal failure
+
+
+HPI: 65 y/o man with PMH of stage IV CKD, HTN, CAD, RAS, DM, who was admitted to the CCU on 1/26 after an episode of bradycardia and PEA arrest at home.  Pt was found by his wife yesterday to be complaining of severe chest pain and SOB.  She called EMS.  Upon arrival of EMS, pt was in respiratory distress and bradycardic with a HR in the 20s.  He was intubated.  He subsequently became puloseless and asystolic and was coded for about 10 minutes with 3 rounds of epinephrine and atropine before he regained his pulse.  In the ED, his BP was 230/120 and he was started on a nitro gtt.  He was noted to have blood in his OG tube.  CXR showed bilateral patchy infiltrates consistent with pulmonary edema.  Chest CT showed multiple rib fractures with substernal hematoma and bilateral modest pleural effusions with adjacent atelectasis vs consolidations.
+
+
+On admission, pt&#8217;s BUN and creatinine were 43 and 4.35, respectively.  He was started on a lasix gtt for diuresis without a good response.  His Cr started to rise: 4.6 &#224; 4.9 &#224; 5.4 &#224; 5.33 &#224; 6.3 &#224; 7.0.  His urine output continued to be poor, and renal consult was called.
+
+
+MEDICAL HISTORY:
+
+Stage IV CKD
+Right-sided RAS
+HTN
+CAD
+DM
+Anemia
+GERD
+Impotence
+
+
+MEDICATIONS:
+
+Versed gtt
+Propofol gtt
+Fentanyl gtt
+Heparin 5000 units Q8h
+Levofloxacin 250mg IV Q48h
+Flagyl 250mg IV Q8h
+ASA 325mg daily
+Pepcid 20mg IV daily
+Colace 100mg BID
+Tylenol PRN
+Maalox PRN
+Mucomyst 1200mg BID x 4 doses
+
+
+ALLERGIES:  NKDA
+
+
+SOCIAL HISTORY:
+Tobacco &#8211; Denies
+EtOH &#8211; Denies
+Illicits &#8211; Denies
+Lives with wife and 4 children
+
+
+PHYSICAL EXAM:
+
+
+
+
+
+
+
+VITALS:  
+
+T 99.7, pulse 58, BP 120/60, CVP 9
+Vent: AC 14 x 600 / 40% / +5
+U/O: 0-30cc/hr
+
+
+GEN:
+
+Intubated and sedated
+
+
+HEENT:
+
+Atraumatic
+
+
+NECK:
+
+Right IJ central line. 
+
+
+HEART:
+
+RRR, S1S2 normal, no M/R/G
+
+
+LUNG:
+
+Coarse vented breath sounds
+
+
+ABD:
+
+Soft, NT, ND
+
+
+EXT:
+
+Trace edema
+
+
+SKIN:
+
+No rashes
+
+
+NEURO:
+
+Unable to assess
+
+
+LAB RESULTS:
+
+
+CBC: WBC 9.1, Hgb 7.9, plts 188k
+
+
+BCP: Na 136, K 5.2, Cl 106, HCO3 18, BUN 68, Cr 7.0, glucose 139
+Ca 7.9, Mg 2.4
+
+
+Coags: INR 1.2, PTT 28.6
+
+
+ABG: 7.33 / 37 / 171
+
+
+U/A: 1.010, pH 5.5, 2+ prot, 1+ blood, 14 hyaline casts, 6 RBC, 7 WBC
+
+
+IMPRESSION: 65 y/o man with stage IV CKD, DM, HTN, CAD, s/p bradycardia and PEA arrest, now intubated with oligoanuric acute on chronic renal failure.  Etiology most likely 2/2 cardiac arrest with hypotension resulting in ischemic ATN.  Given his hyperkalemia and acidemia in the context of anuria, we will start the pt on CVVH today.  If his BP tolerates it, he may be able to transition over to intermittent HD soon.
+
+
+1.       Will place right femoral vein hemodialysis catheter.
+2.       Start citrate CVVH 120/2000 with DFL of 50cc/hr as BP tolerates
+3.       I will examine his urinary sediment.
+4.       Please check urine Na, urea nitrogen, total protein, creatinine.
+5.       Please order renal US.
+6.       Renally dose all medications for CVVH.
+
+
+
+
+
+
+__________________________________
+Travis X. Vogel, MD
+Longview Hospital Renal Fellow
+Pager 5-6394
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2097-01-27" TYPE="DATE" comment="" />
+<NAME id="P1" start="77" end="94" text="WHITAKER, VINCENT" TYPE="PATIENT" comment="" />
+<ID id="P2" start="105" end="113" text="29964344" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P3" start="129" end="136" text="1/26/97" TYPE="DATE" comment="" />
+<NAME id="P4" start="155" end="165" text="Noor Uyeda" TYPE="DOCTOR" comment="" />
+<AGE id="P5" start="243" end="245" text="65" TYPE="AGE" comment="" />
+<DATE id="P6" start="330" end="334" text="1/26" TYPE="DATE" comment="" />
+<AGE id="P7" start="2468" end="2470" text="65" TYPE="AGE" comment="" />
+<NAME id="P8" start="3253" end="3268" text="Travis X. Vogel" TYPE="DOCTOR" comment="" />
+<LOCATION id="P9" start="3273" end="3290" text="Longview Hospital" TYPE="HOSPITAL" comment="" />
+<CONTACT id="P10" start="3310" end="3316" text="5-6394" TYPE="PHONE" comment="" />
+</TAGS>
+</deIdi2b2>

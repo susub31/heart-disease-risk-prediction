@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2150-02-06
+
+ 
+
+Neurology ED Consult Note
+
+
+
+Patient: Klein, Michelle
+
+MRN:	2474410
+
+Date: 	2/6/50
+
+Time: 	10:00 p.m.
+
+PCP:	Whitney Keller, M.D.
+
+
+
+Reason for consult: garbled speech
+
+
+
+HPI:   Patient is a 74 yo RH woman with history of HTN, hyperlipidemia, CAD s/p LAD stent (2144) who was in her USOH until this afternoon at 12:15 p.m. when she experienced sudden onset of garbled speech and difficulty "expressing myself" while cooking lunch for she and her husband.  This episode was accompanied shortly thereafter by a dull, L fronto-temporal headache that persisted for several hours.  She states she did not have word-finding difficulties but simply had trouble articulating herself.   The episode came on suddenly and lasted 1-2 hours before she resolved back to baseline.  In addition to headache, associated symptoms included generalized weakness, feeling cold and mildly nauseated.  She denied visual changes, chest pain, sob, palpitations, lightheadedness, vertigo, difficulty with swallowing, coordination or gait.  She describes having a glass of orange juice with the thought that her sugar might be low, without apparent effect.
+
+
+
+She recalls one similar episode ~ 2 years ago at which time she had her husband drive her home and she went to bed.  The speech difficulty had resolved by morning, and she apparently never told her physician or had any further work-up.  She has no known history of seizures.  Migraines occur 1-2x/year, preceeded by scintillating scotoma, associated with nausea, photophobia, relieved by sleep.  No recent fevers, chills,  weight loss or weight gain, cough, abd pain, diarrhea.  Reports regular exercise including this morning (stationary bicycle).
+
+
+
+Time of onset/Last seen normal: 12:15 pm
+
+Witnessed onset: yes
+
+Onset: acute
+
+Mode of arrival:  walk-in	
+
+Clinical Course: improving
+
+Pre-morbid neurological status: independent
+
+Code status: full code
+
+
+
+PMHx:
+
+HTN
+
+Hyperlipidemia
+
+CAD sp LAD stent (2144)
+
+Migraines (as above)
+
+Familial tremor
+
+Nephrolithiasis
+
+S/p appendectomy
+
+S/p mastoid surgery as a child
+
+"borderline dm" per patient
+
+
+
+Meds:
+
+Lipitor
+
+Atenolol
+
+ASA 325
+
+Protonix
+
+HCTZ
+
+Vitamins B12/B6
+
+MVI
+
+Ginko
+
+
+
+All: Sulfa  hives
+
+
+
+SocHx:
+
+Lives with husband in Sherman.  Mother of 4 children.  Very active at baseline, secretary of her methodist church.
+
+Tob: active for "several years" quit ~20 years ago
+
+ETOH: denies
+
+Illicit:  denies
+
+
+
+FamHx: 
+
+Father with vascular disease, asbestosis.
+
+
+
+VS:   97.2             71             146/68                 18          98% (RA)
+
+PE:  Gen: 	Pleasant woman appears younger than stated age, resting comfortably NAD
+
+HEENT: 	NC/AT, o/p clr, mmm
+
+Neck: 	supple, no LAD, no carotid or vertebral bruits
+
+CV: 	rr, nl s1s2, no m/r/g
+
+Chest: 	CTA b/l, no w/r/r anteriorly
+
+Abd: 	soft, nt/nd, +nabs
+
+Ext:	no c/c/e, distal pulses 2+, no rash
+
+
+
+Neurologic Exam:
+
+MS:	A&Ox3, appropriately interactive, normal affect 
+
+Attention: DOW, MOY backwards	 
+
+Speech: fluent w/o paraphasic errors; repetition, naming, reading, writing intact
+
+Memory: 1/3 at 5 minutes; 3/3 with prompting
+
+Calculations: serial 7s 100   93   86   79   62
+
+L/R confusion: No L/R confusion
+
+Praxis: Able to mimic saluting the flag, brushing teeth with either hand.
+
+
+
+CN: 	I--not tested
+
+II,III-Pupils equal 2.5  2 b/l, VFFC, optic discs sharp
+
+III,IV,VI-EOMI, no nystagmus, no ptosis
+
+V--sensation intact bilaterally to LT/PP/temp/vibration, masseters strong bilaterally
+
+VII--face symmetric without weakness
+
+VIII--hears finger rub bilaterally
+
+IX,X--voice normal, palate elevates symmetrically, voluntary cough
+
+XI--SCM/trapezii 5/5
+
+XII--tongue protrudes midline, no atrophy or fasciculation
+
+
+
+Motor:	Normal bulk and tone; postural tremor; no rigidity, cogwheeling or bradykinesia. 
+
+No pronator drift. 
+
+Strength:
+
+              
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2150-02-06" TYPE="DATE" comment="" />
+<NAME id="P1" start="69" end="84" text="Klein, Michelle" TYPE="PATIENT" comment="" />
+<ID id="P2" start="91" end="98" text="2474410" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P3" start="107" end="113" text="2/6/50" TYPE="DATE" comment="" />
+<NAME id="P4" start="139" end="153" text="Whitney Keller" TYPE="DOCTOR" comment="" />
+<AGE id="P5" start="221" end="223" text="74" TYPE="AGE" comment="" />
+<DATE id="P6" start="292" end="296" text="2144" TYPE="DATE" comment="" />
+<DATE id="P7" start="1966" end="1970" text="2144" TYPE="DATE" comment="" />
+<LOCATION id="P8" start="2243" end="2250" text="Sherman" TYPE="CITY" comment="" />
+<PROFESSION id="P9" start="2301" end="2310" text="secretary" TYPE="PROFESSION" comment="" />
+<LOCATION id="P10" start="2318" end="2334" text="methodist church" TYPE="ORGANIZATION" comment="" />
+</TAGS>
+</deIdi2b2>

@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2085-04-26
+
+
+
+
+
+Reasons for Ref: vascular access for HD
+
+
+
+Nephrologist:Bianca Lowe, MD
+
+
+
+History of Present Illness:This 29-year-old young woman with end stage renal disease status post two failed renal transplants on hemodialysis with multiple access problems was referred for vascular access for HD.       
+
+     
+
+Past History:s/p  two failed kidney Tx, s/p multiple access surgery, ruptured and ifected left thigh graft. s/p parathyroidectomy
+
+
+
+Medication:Prednisone 2.5 mg. PO daily.  Dilantin 400 mg.
+
+PO b.i.d.  Tegretol 250 mg. PO b.i.d.  Nephrocaps 1 tablet PO daily.  Paxil
+
+10 mg. PO daily.  Percocet 1-2 tablets PO q.4-6 hours prn pain.
+
+
+
+Allergies:demerol and levaquin
+
+
+
+Family History:Non Contributory
+
+
+
+Social History:
+
+Non Contributory
+
+
+
+Review  of systems:
+
+Complete ROS was otherwise unremarkable for any other medically relevant symptoms.
+
+
+
+
+
+Physical Exam: BP:  130/80       P:  70       R: 15               Afebrile
+
+                         SKIN: dry
+
+                         HEENT:benign
+
+                         NECK: Supple, no adenopathy, no thyromegaly
+
+                         CHEST:clear
+
+                         COR: Noemal S1, S4+, no S3
+
+                         ABDOMEN:benign
+
+                         EXT:left thigh some open wound from the previous operation (total excision of the graft)
+
+                         OTHERS:
+
+
+
+Labs:
+
+
+
+Chemistry Comments
+
+     Weekly pre dialysis
+
+Plasma Sodium                    133              L        (135-145)        mmol/L
+
+Plasma Potassium                 3.8                       (3.4-4.8)        mmol/L
+
+Plasma Chloride                  95               L        (100-108)        mmol/L
+
+Plasma Carbon Dioxide            22.5             L        (23.0-31.9)      mmol/L
+
+Plasma Urea Nitrogen             13                        (8-25)           mg/dl
+
+Plasma Creatinine                5.6              H        (0.6-1.5)        mg/dl
+
+Plasma Glucose                   67               L        (70-110)         mg/dl
+
+
+
+Hematology Detail for IORIO, OLIVIA L
+
+
+
+   MEDIQUIK  BLOOD          26-Apr-2085 12:47  Accession# 2593X73037
+
+
+
+Test Description                 Result           Flags    Ref. Range       Units
+
+
+
+WBC                              4.7                       (4.5-11.0)       th/cmm
+
+HCT                              27.6             L        (36.0-46.0)      %
+
+HGB                              8.7              L        (12.0-16.0)      gm/dl
+
+RBC                              2.74             L        (4.00-5.20)      mil/cmm
+
+PLT                              537              H        (150-350)        th/cumm
+
+MCV                              101              H        (80-100)         fl
+
+MCH                              31.6                      (26.0-34.0)      pg/rbc
+
+MCHC                             31.3                      (31.0-37.0)      g/dl
+
+RDW                              19.2             H        (11.5-14.5)      %
+
+
+
+
+
+Impression and plans:because of her immunocompromised status, any synthetic graft will not be a good option. Transposition of the basilic vein and construction of AV fistula will be indicated under general anesthesia. 
+
+
+
+
+
+Thank you for allowing me to participate  in the care of this patient.  If there are any questions or concerns, please feel free to contact me at any time.
+
+
+
+
+
+
+
+_____________________________________________
+
+Otto Schmitt, M.D.
+
+
+
+
+
+
+
+
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2085-04-26" TYPE="DATE" comment="" />
+<NAME id="P1" start="88" end="99" text="Bianca Lowe" TYPE="DOCTOR" comment="" />
+<AGE id="P2" start="139" end="141" text="29" TYPE="AGE" comment="" />
+<NAME id="P3" start="2054" end="2069" text="IORIO, OLIVIA L" TYPE="PATIENT" comment="" />
+<LOCATION id="P4" start="2076" end="2084" text="MEDIQUIK" TYPE="HOSPITAL" comment="" />
+<DATE id="P5" start="2101" end="2112" text="26-Apr-2085" TYPE="DATE" comment="" />
+<ID id="P6" start="2131" end="2141" text="2593X73037" TYPE="MEDICALRECORD" comment="" />
+<NAME id="P7" start="3409" end="3421" text="Otto Schmitt" TYPE="DOCTOR" comment="" />
+</TAGS>
+</deIdi2b2>

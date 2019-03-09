@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2083-04-13
+
+
+
+04/13/2083
+
+
+Norma Umali, M.D.
+Eldora Nursing Rehab Center
+95 Harris Road
+Long Beach, VT 26289
+
+Dear Dr. Umali:
+
+Just a quick note to let you know that I saw Larry Lockwood in followup today.  Mr. Lockwood has been generally feeling well and has no complaints except ongoing left lower extremity edema in the foot only, which is unchanged times many years.  He has otherwise been feeling relatively well.  He continues to be followed by Dr. Aguilera who prefers to take a conservative approach given the difficulty of performing a bone marrow biopsy and low levels of IgA paraprotein.
+
+Review of systems is negative except as above.  Fingersticks remain well controlled in the range of 80-150s.
+
+Interval family, social, and medical history are unchanged.
+
+Current Medications:  Include lisinopril 20 once a day, Proscar 5 once a day, Flomax, aspirin 325 once a day, atenolol 25 once a day, trazodone, folate, MVI, saw palmetto, glucosamine, selenium, vitamin C and vitamin D, Lipitor 20 mg once a day, and Plavix 75 once a day.
+
+Physical Exam:  Well-developed, obese in no apparent distress.  BP 169/83 and pulse 58.  Neck:  Supple without JVP or lymphadenopathy.  Chest:  Clear to auscultation and percussion.  Cardiovascular exam:  S1 and S2 without murmurs, rubs, or gallops.  Extremities:  No edema, warm.
+
+Laboratory Data:  Recent BUN and creatinine 18 and 1.5.  Repeat labs will be done when he comes in next week for his routine labs at the SCH.  Skeletal films are pending.
+
+Impression:  Mr. Lockwood chronic kidney disease appears to be stable, as I have mentioned before, he most likely has some underlying diabetic and/or hypertensive nephropathy, but I continue to wonder whether the IgA paraprotein is playing a role in the increasing proteinuria and mild CKD. Chemotherapy would be indicated if that were the case..  He is being followed conservatively by Dr. Aguilera thus far in the absence of defniitive data.  I have ordered skull and hip films today to look for evidence of myeloma-related bone disease, which if present could distinguish  more significant disease from MGUS.  I  agree with Dr. Altman  that in the absence of definitive data,as long as creatinine is improving and urinary protein levels remain stable  the current approach is  reasonable.  However, we should have a low threshold for pushing Mr. Lockwood to having either a renal or more preferably bone marrow biopsy.
+
+In the meantime because he continues to have protein and albumin in his urine, I have initiated dual angiotensin blockade and have added Cozaar 25 mg a day to his regimen.  He will follow up with me in four months and will have labs next week at the SCH.  Thank you for referring this patient.
+
+Sincerely,
+
+
+______________________________
+Herbert Nunez, M.D., M.Sc.
+
+
+
+
+
+eScription document:8-3687892 CSSten Tel
+
+CC: David Aguilera
+Southside Community Hospital
+8 Foster Court
+Fairview, VT 85147
+
+
+DD: 04/13/83
+DT: 04/14/83
+DV: 04/13/83
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2083-04-13" TYPE="DATE" comment="" />
+<DATE id="P1" start="30" end="40" text="04/13/2083" TYPE="DATE" comment="" />
+<NAME id="P2" start="43" end="54" text="Norma Umali" TYPE="DOCTOR" comment="" />
+<LOCATION id="P3" start="61" end="88" text="Eldora Nursing Rehab Center" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P4" start="89" end="103" text="95 Harris Road" TYPE="STREET" comment="" />
+<LOCATION id="P5" start="104" end="114" text="Long Beach" TYPE="CITY" comment="" />
+<LOCATION id="P6" start="116" end="118" text="VT" TYPE="STATE" comment="" />
+<LOCATION id="P7" start="119" end="124" text="26289" TYPE="ZIP" comment="" />
+<NAME id="P8" start="135" end="140" text="Umali" TYPE="DOCTOR" comment="" />
+<NAME id="P9" start="188" end="202" text="Larry Lockwood" TYPE="PATIENT" comment="" />
+<NAME id="P10" start="227" end="235" text="Lockwood" TYPE="PATIENT" comment="" />
+<NAME id="P11" start="471" end="479" text="Aguilera" TYPE="DOCTOR" comment="" />
+<LOCATION id="P12" start="1479" end="1482" text="SCH" TYPE="HOSPITAL" comment="" />
+<NAME id="P13" start="1531" end="1539" text="Lockwood" TYPE="PATIENT" comment="" />
+<NAME id="P14" start="1905" end="1913" text="Aguilera" TYPE="DOCTOR" comment="" />
+<NAME id="P15" start="2145" end="2151" text="Altman" TYPE="DOCTOR" comment="" />
+<NAME id="P16" start="2363" end="2371" text="Lockwood" TYPE="PATIENT" comment="" />
+<LOCATION id="P17" start="2687" end="2690" text="SCH" TYPE="HOSPITAL" comment="" />
+<NAME id="P18" start="2776" end="2789" text="Herbert Nunez" TYPE="DOCTOR" comment="" />
+<ID id="P19" start="2828" end="2837" text="8-3687892" TYPE="IDNUM" comment="" />
+<NAME id="P20" start="2854" end="2868" text="David Aguilera" TYPE="DOCTOR" comment="" />
+<LOCATION id="P21" start="2869" end="2897" text="Southside Community Hospital" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P22" start="2898" end="2912" text="8 Foster Court" TYPE="STREET" comment="" />
+<LOCATION id="P23" start="2913" end="2921" text="Fairview" TYPE="CITY" comment="" />
+<LOCATION id="P24" start="2923" end="2925" text="VT" TYPE="STATE" comment="" />
+<LOCATION id="P25" start="2926" end="2931" text="85147" TYPE="ZIP" comment="" />
+<DATE id="P26" start="2938" end="2946" text="04/13/83" TYPE="DATE" comment="" />
+<DATE id="P27" start="2951" end="2959" text="04/14/83" TYPE="DATE" comment="" />
+<DATE id="P28" start="2964" end="2972" text="04/13/83" TYPE="DATE" comment="" />
+</TAGS>
+</deIdi2b2>

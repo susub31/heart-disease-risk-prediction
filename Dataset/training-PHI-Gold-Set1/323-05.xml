@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2067-02-12
+
+
+
+
+
+
+
+
+GUADALUPE VALLEY HOSPITAL
+
+99 Oregon Avenue
+
+Brazzaville, Nc  65818
+
+155-900-5638
+
+
+
+XIAN, BROOKLYN
+
+60244986
+
+02/12/2067
+
+
+IDENTIFICATION:  A 71-year-old woman who presents to follow up diabetes.
+
+
+
+HISTORY OF PRESENT ILLNESS:  I received the patient's recent blood work and asked her to come in for a short-term followup.  Her hemoglobin A1c is 11.1.  We discussed her current system for managing her blood sugar.  She notes 100% compliance in using her NPH insulin, 45 units in the morning, 40 in the evening.  She is taking 2 shots of Humalog, on average, in the morning and just before bedtime.  She is doing 2 fingersticks a day, in the morning fasting and before bed.  She notes recent indiscretions in terms of her calorie intake.  She checked her fingerstick this morning, but cannot remember the result.  She is fully compliant with her other medications.  She was on simvastatin in the past, which was stopped because of liver test elevations.  She was on Crestor in the past, which was stopped at the time of a hospitalization when her CK was noted to be elevated.  Today, she is having no fever, chest pain, shortness of breath, abdominal pain, dysuria, leg swelling, or leg numbness.
+
+
+Medications
+Aricept (DONEPEZIL Hcl) 5 MG (5MG TABLET Take 1) PO QPM #30 Tablet(s)
+Asa (ACETYLSALICYLIC Acid) 81MG TABLET EC Take 1 Tablet(s) PO QD #90 Tablet(s)
+Celebrex (CELECOXIB) 200 MG (200MG CAPSULE Take 1) PO QD #30 Capsule(s)
+Glucagon Emergency Kit (GLUCAGON Hcl) 1 MG (1MG VIAL Take 1) SC x1, use as needed for low blood sugar #1 VIAL
+Hctz (HYDROCHLOROTHIAZIDE) 50 MG (25MG TABLET Take 2) PO QD as directed x 30 days #60 Tablet(s)
+Humalog Insulin (INSULIN Lispro) 15 UNITS SC ac x 90 days #3 Month(s) Supply
+Insulin Nph Human 45 UNIT S AM AND 40 PM SC AM and QHS x 90 days #3 Month(s) Supply
+Labetalol Hcl 200 MG (100MG TABLET Take 2) PO BID #120 Tablet(s)
+Levothyroxine Sodium 125 MCG (125MCG TABLET Take 1) PO qd x 90 days #90 Tablet(s)
+Lisinopril 40 MG (40MG TABLET Take 1) PO QD x 30 days #30 Tablet(s)
+Mirapex (PRAMIPEXOLE) 0.125MG TABLET PO as directed PRN as directed, 1-4 tab #120 Tablet(s)
+Oxycodone 5 MG (5 MG TABLET Take 1) PO Q6H PRN pain, May increase to 2 PO QID if needed for pain. #180 Tablet(s)
+Temazepam 30 MG (30MG CAPSULE Take 1) PO QHS prn, caution causes sedation x 30 days #30 Capsule(s)
+
+
+Allergies
+Erythromycins - Itching
+SIMVASTATIN - elevates liver enzymes
+AMITRIPTYLINE HCL - urinary retention
+GABAPENTIN - memory loss
+
+
+Vital Signs
+BP 126/68 L Arm, P 69, Temp 98.0, Wt 235.0 lb
+
+
+
+
+PHYSICAL EXAMINATION:  The patient is in no distress.  Her initial blood pressure, as she walked down the hall, was 154/71.  Repeating this after sitting was 126/68.  Lungs:  Clear.  Cardiac:  Regular.  Extremities:  Trace edema.
+
+
+
+ASSESSMENT:  Uncontrolled adult onset diabetes.  Care for this will be challenging due to the patient's cognitive problems.  She does use Valley Hospital Web Services.  We discussed to start frequent communication via Web Services of test results will be helpful for me in helping her adjust insulin.  We discussed the possibility of changing from NPH to Lantus insulin, but elected to continue her NPH for now.  We discussed that her use of the ultra-fast acting insulin does not quite make sense.  She is taking an injection in the evening, long after her meal.  I asked her to describe her meals and she has carbohydrates essentially with every meal.  I think initially she can easily tolerate 10 units of Humalog with each meal.  She notes that she prefers to inject the insulin after she eats, which is acceptable as long she does it within a few minutes of the meal.  She currently is using an average of 15 units, so this will increase her total daily insulin use by just 15 units.  I asked her to check 3 fingersticks a day for me and to e-mail them on a daily basis to start.  She will check a fasting fingerstick.  She will check a fingerstick before her evening meal, which is her largest meal of the day.  She will check a fingerstick 2 hours after her evening meal.  She does not need to check a fingerstick right before bed.  She will stop using Humalog right before bed and only use the NPH at that time.  We discussed the importance of cholesterol treatment.  Her last LDL was over 100.  I would like to revisit the idea of using a statin.  I will repeat her CK level to see if this remains elevated.  Her blood pressure on recheck is acceptable.  I will see her back in the office in 2 months rather than what is booked now.  Most of our visit today took place together with her husband.  We spent a total of 25 minutes with more than half the time spent in counseling.
+
+
+
+
+
+______________________________
+
+Roger York, M.D.
+
+
+
+
+
+
+
+
+
+
+
+eScription document:6-48975237 TC567
+
+
+
+
+
+
+
+DD: 02/12/67
+
+DT: 02/12/67
+
+DV: 02/12/67
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2067-02-12" TYPE="DATE" comment="" />
+<LOCATION id="P1" start="35" end="60" text="GUADALUPE VALLEY HOSPITAL" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P2" start="62" end="78" text="99 Oregon Avenue" TYPE="STREET" comment="" />
+<LOCATION id="P3" start="80" end="91" text="Brazzaville" TYPE="CITY" comment="" />
+<LOCATION id="P4" start="93" end="95" text="Nc" TYPE="STATE" comment="" />
+<LOCATION id="P5" start="97" end="102" text="65818" TYPE="ZIP" comment="" />
+<CONTACT id="P6" start="104" end="116" text="155-900-5638" TYPE="PHONE" comment="" />
+<NAME id="P7" start="120" end="134" text="XIAN, BROOKLYN" TYPE="PATIENT" comment="" />
+<ID id="P8" start="136" end="144" text="60244986" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P9" start="146" end="156" text="02/12/2067" TYPE="DATE" comment="" />
+<AGE id="P10" start="178" end="180" text="71" TYPE="AGE" comment="" />
+<CONTACT id="P11" start="2925" end="2953" text="Valley Hospital Web Services" TYPE="URL" comment="" />
+<CONTACT id="P12" start="3005" end="3017" text="Web Services" TYPE="URL" comment="" />
+<NAME id="P13" start="4711" end="4721" text="Roger York" TYPE="DOCTOR" comment="" />
+<ID id="P14" start="4759" end="4769" text="6-48975237" TYPE="IDNUM" comment="" />
+<NAME id="P15" start="4770" end="4775" text="TC567" TYPE="USERNAME" comment="" />
+<DATE id="P16" start="4787" end="4795" text="02/12/67" TYPE="DATE" comment="" />
+<DATE id="P17" start="4801" end="4809" text="02/12/67" TYPE="DATE" comment="" />
+<DATE id="P18" start="4815" end="4823" text="02/12/67" TYPE="DATE" comment="" />
+</TAGS>
+</deIdi2b2>

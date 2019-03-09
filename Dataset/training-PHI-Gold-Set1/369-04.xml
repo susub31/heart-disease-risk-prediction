@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2083-01-23
+
+
+
+Middle Tennessee Institute
+
+242 Crest View Terrace                                        QIN, OWEN
+
+Queen Creek, ND 23115                            88491427
+
+(906) 178-3611                                            01/23/83
+
+
+
+
+
+HISTORY OF PRESENT ILLNESS: Mr. Qin is a patient of Dr. Potter's, who is in today for urgent care.  He is complaining of a funny sensation in his neck and occasional soreness in his left neck.  Sometimes it hurts worse with breathing.  Sometimes he feels a little catch and a fleeting moment of shortness of breath.  Of note, he was admitted to the hospital last week for these symptoms.  He was admitted, I think 01/15-01/16.  He was ruled out for an MI and actually had a stress test, which showed no evidence of ischemia.  Furthermore, he was monitored the entire time, including while he was having this symptom of a funny feeling in his chest followed by a little shortness of breath or catching his breath as he describes it and no arrhythmia was documented whatsoever.  He was ultimately discharged from the hospital with the diagnosis of Costa chondritis.  He is describing this pain in his left neck and he wonders if it is somehow related to the pain in his chest.  He said he tried gargling with mouthwash some and that did seem to help a little.  This neck or throat pain has been going on for the past three days.
+
+
+
+PAST MEDICAL HISTORY:  Remarkable for osteoarthritis, hypertension and other noncontributory problems.
+
+
+
+MEDICATIONS:  Aspirin, atenolol, Lipitor and vitamin E.
+
+
+
+ALLERGIES:  None.
+
+
+
+PHYSICAL EXAMINATION:  Today, he is alert and oriented.  His weight is 255.25 pounds, blood pressure 110/80, pulse 68, temperature 97.4.  Sinuses: Non-tender.  Nasal turbinates: Benign.  Tympanic membranes: With good light reflex, landmarks well seen.  Oropharynx: Without erythema, exudate, edema.  Neck: Supple, without adenopathy.  I am able to locate the spot that's bothering him by pressing on the mid outside of his left neck near where his carotid pulse is, but he does not have a lot of discomfort with this pressure and it does not seem to be quite what he is getting at.  Carotids are 2+ bilaterally.  Lungs: Clear to auscultation and percussion throughout.  Heart: Regular, without murmur, rub or gallop.
+
+
+
+ASSESSMENT AND PLAN:  I was unable to find a clear etiology for Mr. Quevedo discomfort, although I think he is probably right that it is related to the musculoskeletal chest pain that he is having.  I did reassure him and tell him that it was okay for him to take ibuprofen for this as he had been directed in the hospital.  He does have an appointment to see Dr. Potter in follow-up in the next couple weeks and he will call or return if any new symptoms develop.
+
+
+
+
+
+
+
+
+
+
+
+______________________________
+
+Rawan Pineda, M.D.
+
+
+
+
+
+Dictated By: Rawan Pineda
+
+
+
+
+
+eScription document:6-3221670 JSSten Tel
+
+
+
+
+
+
+
+DD: 01/23/83
+
+DT: 01/23/83
+
+DV: 01/23/83
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2083-01-23" TYPE="DATE" comment="" />
+<LOCATION id="P1" start="30" end="56" text="Middle Tennessee Institute" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P2" start="58" end="80" text="242 Crest View Terrace" TYPE="STREET" comment="" />
+<NAME id="P3" start="120" end="129" text="QIN, OWEN" TYPE="PATIENT" comment="" />
+<LOCATION id="P4" start="131" end="142" text="Queen Creek" TYPE="CITY" comment="" />
+<LOCATION id="P5" start="144" end="146" text="ND" TYPE="STATE" comment="" />
+<LOCATION id="P6" start="147" end="152" text="23115" TYPE="ZIP" comment="" />
+<ID id="P7" start="180" end="188" text="88491427" TYPE="MEDICALRECORD" comment="" />
+<CONTACT id="P8" start="190" end="204" text="(906) 178-3611" TYPE="PHONE" comment="" />
+<DATE id="P9" start="248" end="256" text="01/23/83" TYPE="DATE" comment="" />
+<NAME id="P10" start="294" end="297" text="Qin" TYPE="PATIENT" comment="" />
+<NAME id="P11" start="318" end="326" text="Potter's" TYPE="DOCTOR" comment="" />
+<DATE id="P12" start="676" end="681" text="01/15" TYPE="DATE" comment="" />
+<DATE id="P13" start="682" end="687" text="01/16" TYPE="DATE" comment="" />
+<NAME id="P14" start="2366" end="2373" text="Quevedo" TYPE="PATIENT" comment="" />
+<NAME id="P15" start="2662" end="2668" text="Potter" TYPE="DOCTOR" comment="" />
+<NAME id="P16" start="2806" end="2818" text="Rawan Pineda" TYPE="DOCTOR" comment="" />
+<NAME id="P17" start="2843" end="2855" text="Rawan Pineda" TYPE="DOCTOR" comment="" />
+<ID id="P18" start="2881" end="2890" text="6-3221670" TYPE="IDNUM" comment="" />
+<DATE id="P19" start="2913" end="2921" text="01/23/83" TYPE="DATE" comment="" />
+<DATE id="P20" start="2927" end="2935" text="01/23/83" TYPE="DATE" comment="" />
+<DATE id="P21" start="2941" end="2949" text="01/23/83" TYPE="DATE" comment="" />
+</TAGS>
+</deIdi2b2>

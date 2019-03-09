@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2137-06-01
+
+
+
+
+
+
+
+
+LAW, ELLEN
+
+26659527
+
+06/01/2137
+
+
+
+
+
+Margaret Alvarez, M.D.
+
+Marianjoy Rehabilitation Hospital, Internal Medicine
+
+96 Burton Drive, Suite 659
+
+Kings Mountain, MT  11361
+
+
+
+Dear Margaret,
+
+
+
+I had the pleasure of seeing this patient in the Cardiology Clinic at the Marianjoy Rehabilitation Hospital.  Since I last saw Ms. Law, she underwent a 3-vessel coronary artery bypass surgery, internal mammary to the left anterior descending artery, free right radial graft to the obtuse marginal branch of the left circumflex, and reverse saphenous vein graft to the posterior descending branch of the right coronary artery.  She tolerated the surgery quite well and had a short rehab stay.  Currently, she is doing some walking, but is still feeling quite tired and a bit deconditioned.  However, her breathing does feel better than prior to the surgery.  She has some residual sternal wound pain, but it has improved since her discharge.
+
+
+
+Current Medications:
+
+1.  Aspirin 325 mg daily.
+
+2.  DuoNeb.
+
+3.  Diltiazem 300 mg p.o. t.i.d.
+
+4.  Furosemide 40 mg p.o. daily.
+
+5.  K-Dur 20 mEq p.o. daily.
+
+6.  Metolazone 2.5 mg daily.
+
+7.  Toprol 100 mg p.o. b.i.d.
+
+8.  Pravastatin 20 mg p.o. daily.
+
+9.  Furosemide 40 mg p.o. daily.
+
+10.  Colace, ferrous sulfate, ibuprofen, senna.
+
+
+
+Adverse Medication Reactions:
+
+1.  Azithromycin.
+
+2.  ACE inhibitor, cough.
+
+3.  Latex, angioedema.
+
+
+
+On physical examination, heart rate 81, blood pressure 106/75, and weight of 246.  In general, she is well appearing, in no apparent distress.  Jugular venous pressure is 6 cm of water.  Carotids are 2+, no bruits.  The chest is clear to auscultation and percussion, a well-healed median sternotomy, regular rate and rhythm.  No significant murmurs, gallops, or rubs.  Abdomen:  Soft, nontender, nondistended, no masses, bruits, organomegaly.  Extremities:  1-2+ edema.
+
+
+
+Review of labs dated 05/28/2134, potassium 4.3, creatinine 0.9, ALT 16, AST 16, total cholesterol 125, triglycerides 106, HDL 36, and LDL 68.
+
+
+
+In summary, the patient is a 62-year-old woman status post CABG, doing well.  She does appear to be mildly volume overloaded today, therefore I will make the following medication adjustments.  As far as her cardiac meds, they will change to aspirin 81 mg daily, potassium 20 mEq daily, Lasix 40 mg p.o. b.i.d., metoprolol succinate 100 mg p.o. daily, and pravastatin 20 mg p.o. daily.
+
+
+
+I will titrate her Lasix on an outpatient basis to have her lose 5-7 pounds to improve her shortness of breath as well as her edema.  We will ask VNA to draw labs as well.
+
+
+
+I will see her again in 2 weeks' time.  Please feel free to contact me with any questions.
+
+
+
+Warmest regards,
+
+
+
+
+
+______________________________
+
+Anthony Uphoff, M.D.
+
+
+
+
+
+
+
+
+
+
+
+eScription document:8-77995324 IFFocus
+
+
+
+
+
+
+
+
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2137-06-01" TYPE="DATE" comment="" />
+<NAME id="P1" start="35" end="45" text="LAW, ELLEN" TYPE="PATIENT" comment="" />
+<ID id="P2" start="47" end="55" text="26659527" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P3" start="57" end="67" text="06/01/2137" TYPE="DATE" comment="" />
+<NAME id="P4" start="73" end="89" text="Margaret Alvarez" TYPE="DOCTOR" comment="" />
+<LOCATION id="P5" start="97" end="130" text="Marianjoy Rehabilitation Hospital" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P7" start="151" end="166" text="96 Burton Drive" TYPE="STREET" comment="" />
+<LOCATION id="P9" start="179" end="193" text="Kings Mountain" TYPE="CITY" comment="" />
+<LOCATION id="P10" start="195" end="197" text="MT" TYPE="STATE" comment="" />
+<LOCATION id="P11" start="199" end="204" text="11361" TYPE="ZIP" comment="" />
+<NAME id="P12" start="213" end="221" text="Margaret" TYPE="DOCTOR" comment="" />
+<LOCATION id="P13" start="300" end="333" text="Marianjoy Rehabilitation Hospital" TYPE="HOSPITAL" comment="" />
+<NAME id="P14" start="357" end="360" text="Law" TYPE="PATIENT" comment="" />
+<DATE id="P15" start="1908" end="1918" text="05/28/2134" TYPE="DATE" comment="" />
+<AGE id="P16" start="2061" end="2063" text="62" TYPE="AGE" comment="" />
+<NAME id="P17" start="2743" end="2757" text="Anthony Uphoff" TYPE="DOCTOR" comment="" />
+<ID id="P18" start="2795" end="2805" text="8-77995324" TYPE="IDNUM" comment="" />
+</TAGS>
+</deIdi2b2>

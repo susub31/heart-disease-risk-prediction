@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2081-10-02
+
+
+Spanish
+69 Sheffield Road                                        NOONAN, FRANCE
+Burkburnett, NE 97618                                      51639357
+(842) 544-2703                                           10/02/81
+
+
+CHIEF COMPLAINT:  Mr. Noonan is a 69-year-old man who has type
+II insulin-requiring diabetes, obesity, hypertension,
+dyslipidemia, chronic atrial fibrillation, degenerative
+osteoarthritis and diabetic neuropathy.
+
+HISTORY OF PRESENT ILLNESS:  He comes today complaining of one
+week with mild chest pain not irradiated to the head, to jaw or
+the arm, but with very mild shortness of breath.  He denies
+nausea, vomiting or sweatiness.
+
+CURRENT MEDICATIONS:  Protonix 40 mg p.o. b.i.d., verapamil SR
+190 mg q.d., Lasix 20 mg p.o. q.d., Neurontin 900 mg in the
+morning 900 mg at noon and 300 mg at night, Lipitor 10 mg q.d.,
+Zestril 10 mg q.d., Glucophage 1000 mg twice a day, and 75/25
+insulin 40 units in the morning and 40 in the evening, Tylenol
+with Codeine p.r.n. for severe pain and Coumadin 3 mg alternating
+with 4.5 mg.
+
+PHYSICAL EXAMINATION:  The blood pressure today is 120/88 and his
+weight is 256 pounds.  The examination of the neck with no lymph
+nodes.  He is oriented and in no acute distress.  The cardiac
+examination with arrhythmia consistent with atrial fibrillation. 
+The lungs with hypoventilation in both bases and no evidence of
+acute congestive heart failure.  He has edema that has been
+chronic in both extremities.
+
+ASSESSMENT AND PLAN:  Review of an EKG obtained in August of this
+year showed atrial fibrillation with premature ventricular or
+apparently conducted complexes, nonspecific T-wave abnormality
+probably digitalis effect, abnormal EKG that when compared to the
+one in June showed nonspecific T-wave abnormalities that were not
+evident at that time and now present in anterior leads.
+
+I have talked to people in the emergency department and he is
+being sent right now for an evaluation of possible angina.
+
+
+______________________________
+DANNY WOODY, M.D.
+
+eScription document:0-567955
+DD: 10/02/81
+DT: 10/03/81
+DV: 10/02/81
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2081-10-02" TYPE="DATE" comment="" />
+<LOCATION id="P1" start="37" end="54" text="69 Sheffield Road" TYPE="STREET" comment="" />
+<NAME id="P2" start="94" end="108" text="NOONAN, FRANCE" TYPE="PATIENT" comment="" />
+<LOCATION id="P3" start="109" end="120" text="Burkburnett" TYPE="CITY" comment="" />
+<LOCATION id="P4" start="122" end="124" text="NE" TYPE="STATE" comment="" />
+<LOCATION id="P5" start="125" end="130" text="97618" TYPE="ZIP" comment="" />
+<ID id="P6" start="168" end="176" text="51639357" TYPE="MEDICALRECORD" comment="" />
+<CONTACT id="P7" start="177" end="191" text="(842) 544-2703" TYPE="PHONE" comment="" />
+<DATE id="P8" start="234" end="242" text="10/02/81" TYPE="DATE" comment="" />
+<NAME id="P9" start="267" end="273" text="Noonan" TYPE="PATIENT" comment="" />
+<AGE id="P10" start="279" end="281" text="69" TYPE="AGE" comment="" />
+<DATE id="P11" start="1535" end="1541" text="August" TYPE="DATE" comment="" />
+<DATE id="P12" start="1748" end="1752" text="June" TYPE="DATE" comment="" />
+<NAME id="P13" start="2018" end="2029" text="DANNY WOODY" TYPE="DOCTOR" comment="" />
+<ID id="P14" start="2057" end="2065" text="0-567955" TYPE="IDNUM" comment="" />
+<DATE id="P15" start="2070" end="2078" text="10/02/81" TYPE="DATE" comment="" />
+<DATE id="P16" start="2083" end="2091" text="10/03/81" TYPE="DATE" comment="" />
+<DATE id="P17" start="2096" end="2104" text="10/02/81" TYPE="DATE" comment="" />
+</TAGS>
+</deIdi2b2>

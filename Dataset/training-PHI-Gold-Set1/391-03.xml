@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2087-03-21
+
+
+
+
+STANTON NURSING HOME PRIMARY CARE
+093 Balcom Street, Eigth Floor
+Oil City, VA  14172
+
+RE:		Ordonez, Mrs.
+SNH#:		008-37-16 
+
+March 21, 2087
+
+Reason for visit:  Patient is a 59 year old woman seen today together with Dr. Barajas.
+
+MEDICATIONS:  She is currently on atenolol 50 mg b.i.d., HCTZ 50 mg q.d., Zestril 20 mg q.d.  
+
+PHYSICAL EXAMINATION:  Her blood pressure is 150/80 with a pulse of 76.  
+
+PLAN:  
+1.	I would increase her atenolol to 100 mg in the morning and 50 mg in the late afternoon.
+2.	Diabetes is in suboptimal control, despite maximum dose Micronase.  Creatinine of 1.4 would argue against using Glucophage.  Check hemoglobin A1C and then we will decide on her medication. 
+
+
+
+Samuel Vinson, M.D. 
+
+PC:RP: 1660
+DD: 3-21-87
+DT: 3-22-87
+DV: 3-21-87 
+
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2087-03-21" TYPE="DATE" comment="" />
+<LOCATION id="P1" start="31" end="51" text="STANTON NURSING HOME" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P2" start="65" end="82" text="093 Balcom Street" TYPE="STREET" comment="" />
+<LOCATION id="P4" start="96" end="104" text="Oil City" TYPE="CITY" comment="" />
+<LOCATION id="P5" start="106" end="108" text="VA" TYPE="STATE" comment="" />
+<LOCATION id="P6" start="110" end="115" text="14172" TYPE="ZIP" comment="" />
+<NAME id="P7" start="122" end="129" text="Ordonez" TYPE="PATIENT" comment="" />
+<LOCATION id="P8" start="136" end="139" text="SNH" TYPE="HOSPITAL" comment="" />
+<ID id="P9" start="143" end="152" text="008-37-16" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P10" start="155" end="169" text="March 21, 2087" TYPE="DATE" comment="" />
+<AGE id="P11" start="203" end="205" text="59" TYPE="AGE" comment="" />
+<NAME id="P12" start="250" end="257" text="Barajas" TYPE="DOCTOR" comment="" />
+<NAME id="P13" start="726" end="739" text="Samuel Vinson" TYPE="DOCTOR" comment="" />
+<ID id="P14" start="748" end="759" text="PC:RP: 1660" TYPE="IDNUM" comment="" />
+<DATE id="P15" start="764" end="771" text="3-21-87" TYPE="DATE" comment="" />
+<DATE id="P16" start="776" end="783" text="3-22-87" TYPE="DATE" comment="" />
+<DATE id="P17" start="788" end="795" text="3-21-87" TYPE="DATE" comment="" />
+</TAGS>
+</deIdi2b2>

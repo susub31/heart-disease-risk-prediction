@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2085-09-13
+
+
+Internal Medicine
+
+
+Reason for visit
+Hyperlipidemia
+Weight management
+Hematuria
+
+
+History of present illness  
+The patient is here for follow up on multiple issues. She is still experiencing episodic chest discomfort. Her blood pressure has been at target 110-115/70 daily. She feels very well but tired at times. She has lost weight on Metformin.
+
+
+Medical history  
+Glucose intolerance with post prandial hyperglycemia
+Hyperlipidemia
+Hypertension
+CAD
+Postmenopausal
+Cervical osteoarthritis DDD
+Microscopic hematuria with negative work up
+Obesity
+
+
+Current meds
+
+Amlodipine 5 mg
+Metoprolol XL 50 mg 
+Valsartan HCTZ 160/25 mg
+Atorvastatin 20 mg
+Clopidogrel 75 mg qd
+Metformin 500 mg bid
+
+
+Review of systems
+Denies nausea, vomiting, diarrhea, chest pain
+
+
+Family and social history
+Place of birth        Gambia 
+Home residence        Jaffrey
+Marital status        Married
+Household members     Husband
+Occupation            Carpentry Supervisor
+
+
+Labs and images
+Reviewed
+
+
+Exam
+Vitals 128/70  64  12  
+HEENT eomi, conjunctiva pink, ears clear, nasal mucosa pink, no mucus, no sinus tenderness, no post nasal drip.
+Neck is supple, no JVD, no thyroid imprint, no submandibular nodes.
+Thorax expands symmetrically, clear to auscultation bilaterally.
+Cardiovascular S1 and S2 with regular rhythm and rate. No murmurs.
+Abdomen is soft, non tender, no palpable masses or organomegaly.
+Extremities are symmetrical with no edema.
+Neurological exam is grossly non focal.
+
+
+Assessment and plan
+
+
+
+CAD. The patient will follow up with cardiology for further assessment. She continues taking clopidogrel and would like to know if she can switch to aspirin. I mentioned to the patient that I will defer this decision to the cardiology team.
+Glucose intolerance with post prandial hyperglycemia. On metformin, well tolerated, HbA1c requested. 
+Weight management. The patient has lost 15-20 Lbs. She is very enthused. I have advised to continue metformin and will start exercising daily.
+Hyperlipidemia. On atorvastatin. Target LDL &lt;70, new values requested.
+Hypertension. Values at target, continue current medications. 
+Microscopic hematuria with negative work up. Surveillance UA requested.
+Follow up in 4-6 months.
+
+
+
+
+                                   
+David Delgado, M.D.
+
+
+
+
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2085-09-13" TYPE="DATE" comment="" />
+<LOCATION id="P1" start="832" end="838" text="Gambia" TYPE="COUNTRY" comment="" />
+<LOCATION id="P2" start="862" end="869" text="Jaffrey" TYPE="CITY" comment="" />
+<PROFESSION id="P3" start="952" end="972" text="Carpentry Supervisor" TYPE="PROFESSION" comment="" />
+<NAME id="P4" start="2276" end="2289" text="David Delgado" TYPE="DOCTOR" comment="" />
+</TAGS>
+</deIdi2b2>

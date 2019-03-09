@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2075-08-08
+
+
+
+Reason for Visit
+
+62 y.o. man, pt of Dr. Kidd, presents w/ c/o R hand pain x 1d.  Has sharp pain, starts in thumb, radiates proximally up arm to biceps area.   Pain lasts several minutes, resolves spontaneously.  Occurs several times a day, not reated to arm movement.  He denies trauma to area, recent falls, denies swelling, redness, rashes, weakness.
+
+
+
+Problems
+
+      Diabetes mellitus
+
+      Hypertension
+
+      H/O Seizure disorder    : Status post head trauma
+
+      H/O Alcohol abuse
+
+
+
+Medications
+
+      Aspirin (ACETYLSALICYLIC Acid)   81MG TABLET CHEWABLE take 1 Tablet(s) PO QD ,  Take as directed 
+
+      Glucophage (METFORMIN)   500MG TABLET take 1 Tablet(s) PO TID x 90 days
+
+      Micronase (GLYBURIDE)   10 MG (5MG TABLET take 2) PO BID x 90 days
+
+      Tegretol (CARBAMAZEPINE)   200MG TABLET take 1 Tablet(s) PO TID x 90 days
+
+      Monopril (FOSINOPRIL Sodium)   20MG TABLET take 1 Tablet(s) PO QD x 90 days
+
+      Lipitor (ATORVASTATIN)   10MG TABLET take 1 Tablet(s) PO QD ,  Take as directed 
+
+      Hctz (HYDROCHLOROTHIAZIDE)   25MG TABLET take 1 Tablet(s) PO QD x 90 days,  Take as directed 
+
+
+
+Allergies
+
+      NKA
+
+
+
+Social History
+
+legally blind, also has MR; lives w/ sister Urquiza who is his care taker.
+
+
+
+Vital Signs
+
+      BLOOD PRESSURE   118/74 
+
+      PULSE   72 
+
+      WEIGHT   192 lb
+
+
+
+Physical Exam
+
+Gen: WDWN man, NAD
+
+Extrem: no edema; radial and p.t. pulses 2+ bilat; R UE - no deformity, no edema; well healed surgical scar over R bicpes area; non-tender in biceps/triceps, forearm area; mild tenderness in distal thumb; full ROM of elbow, wrist, fingers, shoulder w/out pain; motor 5/5 in all UE muscle groups. radial, brachial pulses 2+; hand warm, good cap refill.
+
+
+
+Assessment and Plan
+
+62 y.o. man w/ sharp intermitent pain in R UE - etiology unclear given lack of trauma and lack of physical findings on exam; will do hand film to assess for occult fracture or other abnormality; for now, ibuprofen prn.  I recommended pt f/u w/ Dr. Kidd in next few weeks (no showed 12/74 appt, next appt 10/75).  Sister Urquiza will call for appt.  RTC if pain persists.
+
+
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2075-08-08" TYPE="DATE" comment="" />
+<AGE id="P1" start="48" end="50" text="62" TYPE="AGE" comment="" />
+<NAME id="P2" start="71" end="75" text="Kidd" TYPE="DOCTOR" comment="" />
+<NAME id="P3" start="1236" end="1243" text="Urquiza" TYPE="PATIENT" comment="" />
+<AGE id="P4" start="1770" end="1772" text="62" TYPE="AGE" comment="" />
+<NAME id="P5" start="2018" end="2022" text="Kidd" TYPE="DOCTOR" comment="" />
+<DATE id="P6" start="2052" end="2057" text="12/74" TYPE="DATE" comment="" />
+<DATE id="P7" start="2074" end="2079" text="10/75" TYPE="DATE" comment="" />
+<NAME id="P8" start="2090" end="2097" text="Urquiza" TYPE="PATIENT" comment="" />
+</TAGS>
+</deIdi2b2>

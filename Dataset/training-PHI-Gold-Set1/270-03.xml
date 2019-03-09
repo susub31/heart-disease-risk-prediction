@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2097-08-11
+
+EDVISIT^29964344^WHITAKER, VINCENT^08/11/97^TRAN, FREDDY
+
+I confirm that I have interviewed and examined the patient,
+
+reviewed the resident's documentation on the patient's chart, and
+
+discussed the evaluation, plan of care, and disposition with the
+
+patient and the resident, Dr. Nieto.  Please see her note for
+
+full details.
+
+HISTORY OF PRESENT ILLNESS:  The patient is a 65-year-old
+
+gentleman with significant past medical history of hypertension;
+
+diabetes; AFib; CHF; chronic renal insufficiency; end-stage renal
+
+disease on hemodialysis Monday, Wednesday and Friday; history
+
+of PE and cardiac arrest as well as bacteremia who presents with
+
+cough, weakness, chest pain, and palpitations.  At dialysis he
+
+was found coughing and was sent here via ambulance.  He notes
+
+decreased appetite.  He denies any fevers.  He has noted some
+
+chills, some sweats, and some shortness of breath.
+
+PHYSICAL EXAMINATION:  He is slow.  Temperature 95.9, pulse 89,
+
+respiratory rate 18, blood pressure 180/71, and saturation is 95%
+
+on 2 liters.  He looks dyspneic, dehydrated with neck that is
+
+supple.  No rales, rhonchi, or wheezing.  Heart is regular
+
+without a murmur.  Abdomen is soft, nontender, and nondistended. 
+
+Skin is intact.  He has 2+ pedal edema.  He appears to be
+
+lethargic but no focal neurologically.
+
+LABORATORY DATA:  Review of his blood work shows a BUN of 31,
+
+creatinine of 6.07, sodium of 139, potassium of 5.6 and
+
+bicarbonate of 32.  LFTs are normal.  Lipase is 63.  BNP is 501. 
+
+Lactic acid is 3.  Troponin is 0.04.  White count 5, hematocrit
+
+42, and INR 2.  Chest x-ray shows cardiomegaly, no acute
+
+pneumonia.  An EKG with rate 106, normal ST-T changes.
+
+EMERGENCY DEPARTMENT COURSE:  The patient was covered empirically
+
+with vancomycin, ceftazidime, given gentle IV fluid bolus and is
+
+being admitted to Renal Medicine.  At this time, he is
+
+hemodynamically stable.
+
+PRIMARY DIAGNOSIS:  Weakness, end-stage renal disease, and
+
+possible early infection including bacteremia.
+
+______________________________
+
+TRAN, FREDDY M.D.
+
+D: 08/11/97
+
+T: 08/11/97
+
+Dictated By: TRAN, FREDDY
+
+eScription document:1-0225776 BFFocus
+
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2097-08-11" TYPE="DATE" comment="" />
+<ID id="P1" start="36" end="44" text="29964344" TYPE="MEDICALRECORD" comment="" />
+<NAME id="P2" start="45" end="62" text="WHITAKER, VINCENT" TYPE="PATIENT" comment="" />
+<DATE id="P3" start="63" end="71" text="08/11/97" TYPE="DATE" comment="" />
+<NAME id="P4" start="72" end="84" text="TRAN, FREDDY" TYPE="DOCTOR" comment="" />
+<NAME id="P5" start="310" end="315" text="Nieto" TYPE="DOCTOR" comment="" />
+<AGE id="P6" start="404" end="406" text="65" TYPE="AGE" comment="" />
+<DATE id="P7" start="574" end="580" text="Monday" TYPE="DATE" comment="" />
+<DATE id="P8" start="582" end="591" text="Wednesday" TYPE="DATE" comment="" />
+<DATE id="P9" start="596" end="602" text="Friday" TYPE="DATE" comment="" />
+<NAME id="P10" start="2062" end="2074" text="TRAN, FREDDY" TYPE="DOCTOR" comment="" />
+<DATE id="P11" start="2084" end="2092" text="08/11/97" TYPE="DATE" comment="" />
+<DATE id="P12" start="2097" end="2105" text="08/11/97" TYPE="DATE" comment="" />
+<NAME id="P13" start="2120" end="2132" text="TRAN, FREDDY" TYPE="DOCTOR" comment="" />
+<ID id="P14" start="2154" end="2163" text="1-0225776" TYPE="IDNUM" comment="" />
+</TAGS>
+</deIdi2b2>

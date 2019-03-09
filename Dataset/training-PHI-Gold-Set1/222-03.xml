@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2095-10-23
+
+                     RAH EMERGENCY DEPT VISIT
+ 
+DUVALL,BRADY C   425-03-15-1                 VISIT DATE: 10/23/95
+HISTORY OF PRESENTING COMPLAINT:  The patient is an unfortunate 73 
+year old man who has had two myocardial infarctions in the past, 
+including an IMI, and ventricular tachycardia and ventricular 
+fibrillation who has an AICD in who presents today with his AICD 
+firing multiple times.  The patient's AICD actually fired multiple 
+times while he was in the Emergency Department. 
+REVIEW OF SYSTEMS:  The patient has no chest pain, syncope, or 
+shortness of breath.  He presents in ventricular tachycardia with 
+his AICD firing. 
+PAST MEDICAL HISTORY:  The patient has a significant coronary 
+artery disease history and recently had his pacer placed, 
+approximately a month ago.  He has had two myocardial infarctions. 
+He has diabetes. 
+MEDICATIONS:  Glyburide and metformin. 
+ALLERGIES:  Atenolol. 
+PHYSICAL EXAMINATION:  VITAL SIGNS:  Vital signs remained stable, 
+including blood pressure.  HEENT:  Normal.  LUNGS:  Clear. 
+CARDIOVASCULAR:  Tachycardic with a paced rhythm.  ABDOMEN:  Soft, 
+non-tender.  LUNGS:  Clear bilaterally. 
+LABORATORY EVALUATION:  The patient's EKG shows ventricular 
+tachycardia and some ST elevations in the inferior leads.  Chest 
+x-ray was clear.  Electrolytes were sent to check his potassium. 
+THERAPY RENDERED/COURSE IN ED:  The patient was loaded on lidocaine 
+and paced on a lidocaine drip.  He also received Lasix and 
+metoprolol.  He also received 2 mg of Ativan for sedation.  He had 
+no chest pain while he was in the Emergency Department;  his only 
+pain was from the pacer firing. 
+CONSULTATIONS (including PCP):  The patient was seen by Internal Medicine and also by the Internal Medicine fellow. 
+FINAL DIAGNOSIS:  History of coronary artery disease, now with 
+ventricular tachycardia and ST elevations on EKG with pacer firing. 
+DISPOSITION (including condition upon discharge):  The patient was 
+urgently rushed to the Cath Lab.  He is currently in stable 
+condition. 
+___________________________________                    OT109/6637 
+FRANK EMMONS, M.D.       FE01                           D:10/23/95 
+                                                       T:10/23/95 
+Dictated by:  FRANK EMMONS, M.D.       FE01 
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2095-10-23" TYPE="DATE" comment="" />
+<LOCATION id="P1" start="49" end="52" text="RAH" TYPE="HOSPITAL" comment="" />
+<NAME id="P2" start="76" end="90" text="DUVALL,BRADY C" TYPE="PATIENT" comment="" />
+<ID id="P3" start="93" end="104" text="425-03-15-1" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P4" start="133" end="141" text="10/23/95" TYPE="DATE" comment="" />
+<AGE id="P5" start="206" end="208" text="73" TYPE="AGE" comment="" />
+<ID id="P8" start="2114" end="2124" text="OT109/6637" TYPE="IDNUM" comment="" />
+<NAME id="P9" start="2126" end="2138" text="FRANK EMMONS" TYPE="DOCTOR" comment="" />
+<NAME id="P10" start="2151" end="2155" text="FE01" TYPE="USERNAME" comment="" />
+<DATE id="P11" start="2184" end="2192" text="10/23/95" TYPE="DATE" comment="" />
+<DATE id="P12" start="2251" end="2259" text="10/23/95" TYPE="DATE" comment="" />
+<NAME id="P13" start="2275" end="2287" text="FRANK EMMONS" TYPE="DOCTOR" comment="" />
+<NAME id="P14" start="2300" end="2304" text="FE01" TYPE="USERNAME" comment="" />
+</TAGS>
+</deIdi2b2>

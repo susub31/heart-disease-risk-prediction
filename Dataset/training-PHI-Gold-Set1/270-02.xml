@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2097-03-25
+
+Patient Name: Whitaker, Vincent
+MRN: 29964344
+Admit Date: 3/25/97
+Today's Date: 3/25/97
+ESRD Attending: Dr. Nancy Gipson
+
+
+Renal Dialysis Fellow Note
+
+
+HPI: 65 yo M h/o HTN, DM, RAS, now ESRD on HD, recent admission in LH CCU 1/26-2/28/97 after presenting with PEA cardiac arrest, course c/b respiratory failure requiring trach and PEG, initiated on HD during that admission, d/c'ed to Homestead Hospital 2/28/97, transferred from HH for fevers (T to 102 on 3/22) and urine and blood cultures positive for gram negative rods for further management. Was given on 3/24/97 linezolid and levaquin, gentamicin at HD. RIJ catheter pulled prior to transfer. + c/o diarrhea for several days. No recent CP, SOB, nausea, vomiting. + productive cough, +back pain. Previous to January admission, patient had CKD stage 4 with Cr in 4s, developed oliguric renal failure and initiated on HD with no evidence of renal recovery. 
+
+
+MEDICAL HISTORY:
+
+ESRD on HD 
+s/p PEA arrest 1/26/97  
+Respiratory failure s/p trach 
+PEG 
+Right-sided RAS 
+HTN 
+CAD 
+DM 
+Anemia 
+HCV antibody +
+
+
+MEDICATIONS:
+Diltiazem 30mg qid
+Lopressor 25mg tid
+Insulin
+Linezolid 600mg bid (started 3/22/97)
+Levaquin 500mg qod (started 3/24/97)
+Phoslo 667mg ac meals
+Colace 100mg bid
+Heparin sq q8h
+Ranitidine 150mg qdaily
+Trazodone 25mg qdaily
+Coumadin
+Tylenol 650mg prn
+Nepro tube feeds
+
+
+ALLERGIES:  Statins - rhabdo, Reserpine - anemia, Nifedipine - swelling
+
+
+SOCIAL HISTORY: no alcohol, smoking, drugs. Currently at Homestead
+ 
+FAMILY HISTORY: non-contributory
+ 
+REVIEW OF SYSTEMS: pertinent positives in HPI. Systems otherwise negative in detail.
+
+
+PHYSICAL EXAM:
+
+Vitals: T 98.4  HR 118  BP164/82  
+General: comfortable, awake, able to answer questions appropriately
+HEENT: neck supple, + trach mask
+CV: Irregular rhythm, S1, S2
+Chest: CTAB
+Abd: +PEG, soft, non-tender
+Back: no CVA tenderness
+Ext: trace edema
+Access: LIJ tunneled HD catheter
+
+
+LABS:
+ Date/Time         NA             K              CL             CO2            03/25/2097        137            4.2             98             27             03/24/2097        138            3.8 (#)[1]     99             27             Date/Time         BUN            CRE            EGFR           GLU            03/25/2097        44 (*)          5.31 (*)       11 [2]         114            03/24/2097        34 (*#)        4.10 (*#)      15 [3]         131 (*)                Date/Time         CA             PHOS           MG             TBILI          03/25/2097        9.6            2.2 (*)        2.4                           03/24/2097        9.4            SEE DETAIL[4]  2.1 (#)[5]     0.4            Date/Time         TP             ALB            GLOB           03/24/2097        7.8            3.9            3.9            Date/Time         ALT/SGPT       AST/SGOT       ALKP           TBILI          03/24/2097        12             20             66             0.4            Date/Time         WBC            RBC            HGB            HCT            03/25/2097        9.08              3.59 (*)       10.7 (*)       32.7 (*)       03/24/2097        9.95              3.69 (*)       10.7 (*)       34.1 (*)       Date/Time         MCV            MCH            MCHC           PLT            03/25/2097        91.1             29.9             32.8           357            03/24/2097        92.3             28.9 (#)        31.3 (*)       350 (#)        
+                  Date/Time         PT             PT-INR         PTT            03/25/2097        18.0 (*)       1.4 (*)        30.1           03/24/2097        17.4 (*#)      1.4 (*)        29.1           CXR 3/24/97: no acute cardiopulmonary process
+ 
+Assessment/Recommendations: 65 year old M CAD s/p PEA arrest 1/97, now ESRD on HD, DM, respiratory failure s/p trach/PEG, admitted with gram negative bacteremia.
+ 
+1. Reason for admission: gram negative bacteremia, fevers
+-Follow up blood cultures
+-Call Homestead for speciation and sensitivities of blood cultures
+-Antibiotics for now: vanco, ceftaz, flagyl
+-Will check vancomycin level at end of HD tomorrow.
+-ID consult for assistance with appropriate antibiotic coverage
+-Check stool studies, urine culture
+ 
+2. ESRD on HD
+-Schedule TThS
+-Access: LIJ tunneled catheter
+-Will draw blood cultures through tunneled catheter tomorrow at HD-Renal indices currently stable
+ 
+3. Anemia: Epogen 2000 units with HD tomorrow. Will check iron studies
+ 
+4. Mineral metabolism: continue phoslo.
+-Will check PTH level tomorrow at HD
+ 
+5. Nutrition: continue nepro feeds
+ 
+ 
+Heidi Gunn, MD, Renal Fellow
+ 
+
+Renal Staff Addendum
+
+
+Pt seen and examined and history reviewed in detail.  Case discussed at length with Dr. Gunn and I agree with her note from today (above).  Will proceed with fever workup and will dialyze tomorrow.
+
+
+______________________
+Nancy N. Gipson, MD
+
+
+
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2097-03-25" TYPE="DATE" comment="" />
+<NAME id="P1" start="42" end="59" text="Whitaker, Vincent" TYPE="PATIENT" comment="" />
+<ID id="P2" start="65" end="73" text="29964344" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P3" start="86" end="93" text="3/25/97" TYPE="DATE" comment="" />
+<DATE id="P4" start="108" end="115" text="3/25/97" TYPE="DATE" comment="" />
+<NAME id="P5" start="136" end="148" text="Nancy Gipson" TYPE="DOCTOR" comment="" />
+<AGE id="P6" start="185" end="187" text="65" TYPE="AGE" comment="" />
+<LOCATION id="P7" start="247" end="249" text="LH" TYPE="HOSPITAL" comment="" />
+<DATE id="P8" start="254" end="258" text="1/26" TYPE="DATE" comment="" />
+<DATE id="P9" start="259" end="266" text="2/28/97" TYPE="DATE" comment="" />
+<LOCATION id="P10" start="414" end="432" text="Homestead Hospital" TYPE="HOSPITAL" comment="" />
+<DATE id="P11" start="433" end="440" text="2/28/97" TYPE="DATE" comment="" />
+<LOCATION id="P12" start="459" end="461" text="HH" TYPE="HOSPITAL" comment="" />
+<DATE id="P13" start="486" end="490" text="3/22" TYPE="DATE" comment="" />
+<DATE id="P14" start="590" end="597" text="3/24/97" TYPE="DATE" comment="" />
+<DATE id="P15" start="793" end="800" text="January" TYPE="DATE" comment="" />
+<DATE id="P16" start="988" end="995" text="1/26/97" TYPE="DATE" comment="" />
+<DATE id="P17" start="1178" end="1185" text="3/22/97" TYPE="DATE" comment="" />
+<DATE id="P18" start="1215" end="1222" text="3/24/97" TYPE="DATE" comment="" />
+<LOCATION id="P19" start="1501" end="1510" text="Homestead" TYPE="HOSPITAL" comment="" />
+<DATE id="P20" start="2017" end="2027" text="03/25/2097" TYPE="DATE" comment="" />
+<DATE id="P21" start="2096" end="2106" text="03/24/2097" TYPE="DATE" comment="" />
+<DATE id="P22" start="2252" end="2262" text="03/25/2097" TYPE="DATE" comment="" />
+<DATE id="P23" start="2331" end="2341" text="03/24/2097" TYPE="DATE" comment="" />
+<DATE id="P24" start="2495" end="2505" text="03/25/2097" TYPE="DATE" comment="" />
+<DATE id="P25" start="2573" end="2583" text="03/24/2097" TYPE="DATE" comment="" />
+<DATE id="P26" start="2714" end="2724" text="03/24/2097" TYPE="DATE" comment="" />
+<DATE id="P27" start="2855" end="2865" text="03/24/2097" TYPE="DATE" comment="" />
+<DATE id="P28" start="3011" end="3021" text="03/25/2097" TYPE="DATE" comment="" />
+<DATE id="P29" start="3092" end="3102" text="03/24/2097" TYPE="DATE" comment="" />
+<DATE id="P30" start="3251" end="3261" text="03/25/2097" TYPE="DATE" comment="" />
+<DATE id="P31" start="3333" end="3343" text="03/24/2097" TYPE="DATE" comment="" />
+<DATE id="P32" start="3496" end="3506" text="03/25/2097" TYPE="DATE" comment="" />
+<DATE id="P33" start="3559" end="3569" text="03/24/2097" TYPE="DATE" comment="" />
+<DATE id="P34" start="3626" end="3633" text="3/24/97" TYPE="DATE" comment="" />
+<AGE id="P35" start="3698" end="3700" text="65" TYPE="AGE" comment="" />
+<DATE id="P36" start="3731" end="3735" text="1/97" TYPE="DATE" comment="" />
+<LOCATION id="P37" start="3924" end="3933" text="Homestead" TYPE="HOSPITAL" comment="" />
+<NAME id="P38" start="4534" end="4544" text="Heidi Gunn" TYPE="DOCTOR" comment="" />
+<NAME id="P39" start="4677" end="4681" text="Gunn" TYPE="DOCTOR" comment="" />
+<NAME id="P40" start="4812" end="4827" text="Nancy N. Gipson" TYPE="DOCTOR" comment="" />
+</TAGS>
+</deIdi2b2>

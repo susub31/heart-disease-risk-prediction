@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2070-11-29
+
+ HISTORY OF PRESENT ILLNESS:  Ms. Riley is a 67-year-old woman who presents to Internal Medicine for followup.  Since her last visit, she has continued on her regimen of 70/30, 90 units in the morning and up to 90 units at dinnertime (sometimes 1/2 after dinner).  She also uses Lispro 25 units at lunch.  On this regimen, her morning blood sugars have ranged 
+Pre-breakfast: 96-214, mostly 100-130.
+Pre (sometimes post) Dinner: 128-307, mostly 140-160
+
+The good news is her last A1c dropped to 7.2% from 8.3% (1 year ago was 10.4%)
+
+She has known retinopathy and has had multiple laser treatments.  She goes routinely to the ophthalmologist, at least twice a year and several times a year to the podiatrist as well. She is otherwise in good health, though today she complains of depressed mood, for which she is in therapy. 
+
+On ROS she denies any chest pain, shortness of breath, dizziness, nausea, polyuria, polydipsia, fevers, chills, diarrhea, vaginal or urinary symptoms, numbness or tingling of her lower extremities.  She has not had any hypoglycemia.  She does not exercise.
+
+PAST MEDICAL HISTORY:  Status post total thyroidectomy (because of large goiter) on levothyroxine 200 mcg daily. COPD, obesity, CHF (EF 40%), hypertension, hyperlipidemia, GERD, sleep apnea, status post cholecystectomy.
+
+CURRENT MEDICATIONS:  Albuterol inhaler, Ambien, atenolol 50 mg daily, clonidine 0.2 mg b.i.d., aspirin 81 mg daily, Flovent b.i.d., levothyroxine 200 mcg p.o. daily, lisinopril 20 mg daily, Nexium 40 mg daily, Singulair 10 mg p.o. daily and Lipitor 20 mg p.o. nightly, Metormin 1000 mg BID, Lasix 20 mg daily.
+
+SOCIAL HISTORY:  Ms. Riley is from Mexico.  She has lived here for the last 15 years and denies tobacco or alcohol.  
+
+PHYSICAL EXAMINATION:  She is a well-appearing overweight woman.  Blood pressure 117/57, pulse 87, weight 210 down fr 212 last visit, fingersticks 247 postprandial, reports took lispro today.  Extremities, no edema, well perfused with palpable pulses.  No ulcerations or skin breakdown. Microfilament and vibratory sensation intact.  
+
+PREVIOUS DATA:  Labs from 11/22/70: TSH 0.137.  Microalbumin was negative.  Cholesterol was 109, LDL 40, HDL 36, TG 163 A1c 7.2%, down from 8.3% on 7/31/2070 
+
+IMPRESSION AND PLAN:  In summary, Ms. Riley is a 67-year-old woman with type 2 diabetes for the last 20 years with poor glycemic control, but significant improvement recently, with latest hemoglobin A1c of 7.2%.
+
+1.  Diabetes.  Her sugars are much improved, as is her A1c. We will switch her 70/30 regular to 70/30 Novolog, given that she gives herself the insulin just after the meals and that she is using Novolog for lunch as well. We emphasized again the pm dose should NOT be pre-bed but pre-dinner.  She will continue dose of 90 units QAM and Qdinner of 70/30 and Lispro 25U for lunch. She will continue on metformin 1000 mg twice daily. She will continue to follow up with Opthalmology and Podiatry.  Her blood pressure is in target range on clonidine and lisinopril.  Her LDL is also in target range on Lipitor.   She will continue on a baby aspirin. Her microalbumin is negative.   
+
+2.  Hypothyroidism.  TSH somewhat suppressed, 0.137, will therefore reduce levothyroxine to 175 mcg QD
+
+She will follow up in 3-4 month's time.  
+
+
+
+_____________________________________________
+Winnie Palacios, M.D.
+
+
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2070-11-29" TYPE="DATE" comment="" />
+<NAME id="P1" start="62" end="67" text="Riley" TYPE="PATIENT" comment="" />
+<AGE id="P2" start="73" end="75" text="67" TYPE="AGE" comment="" />
+<NAME id="P4" start="1667" end="1672" text="Riley" TYPE="PATIENT" comment="" />
+<LOCATION id="P5" start="1681" end="1687" text="Mexico" TYPE="COUNTRY" comment="" />
+<DATE id="P6" start="2127" end="2135" text="11/22/70" TYPE="DATE" comment="" />
+<DATE id="P7" start="2249" end="2258" text="7/31/2070" TYPE="DATE" comment="" />
+<NAME id="P8" start="2299" end="2304" text="Riley" TYPE="PATIENT" comment="" />
+<AGE id="P9" start="2310" end="2312" text="67" TYPE="AGE" comment="" />
+<NAME id="P10" start="3349" end="3364" text="Winnie Palacios" TYPE="DOCTOR" comment="" />
+</TAGS>
+</deIdi2b2>

@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2086-04-18
+
+
+
+
+
+
+
+ZASTROW, IRENE
+
+42521583
+
+04/18/2086
+
+
+
+
+Iva Hall, M.D.
+
+Internal Medicine
+
+Davis Monthan Hospital
+
+39 Gleneagle Drive
+
+Naples, OK  73257
+
+
+
+Dear Iva:
+
+
+
+Irene Zastrow, 66 years old, returned for followup of coronary artery disease and non-ST segment elevation myocardial infarction that she suffered in Pennsylvania on 10/29/2085.  At that time, she had a drug-eluting stent placed in her left anterior descending coronary artery.  On 11/03/2085, she had repeat percutaneous coronary intervention because of persistent chest pain and required an additional inflation and reexpansion of the drug-eluting stent.  On 12/07/2085, she had repeated cardiac catheterization because of chest pain but no additional percutaneous coronary intervention was required.
+
+
+
+She feels that she is having less chest discomfort as we have "ramped up" her cardiac medications.  She has no shortness of breath.  She does get occasional abdominal pulsations.  She does get epigastric discomfort.
+
+
+
+Current medications include ranolazine 1000 mg twice daily, aspirin 325 mg once daily, Plavix 75 mg once daily, isosorbide mononitrate 30 mg once daily, Lipitor 20 mg daily, and insulin.
+
+
+
+The review of systems is negative other than the above.
+
+
+
+On physical examination, she appears well.  Weight 165 pounds, blood pressure 109/73 mmHg, heart rate 77 and regular, respiratory rate 14.  HEENT:  Normal.  The neck veins are not distended.  The chest is clear.  On cardiac examination, she has a regular rhythm with a normal S1, single S2, and no murmur, rub, or gallop.  Abdomen has no masses or hepatomegaly.  The legs have no clubbing, cyanosis, or edema.  The skin has no rash.
+
+
+
+Irene Zastrow is improving from the clinical cardiovascular view point.
+
+
+
+I will obtain an exercise treadmill test using the standard Bruce protocol to obtain additional objective data.
+
+
+
+Although theoretically she should not have acid secretion due to pernicious anemia, I do suspect she has acid reflux, and I am reinstituting today Prilosec 20 mg twice daily.
+
+
+
+I am prescribing physical therapy for her "stiff neck."
+
+
+
+I am ordering an abdominal ultrasound to exclude abdominal aortic aneurysm due to her complaint of episodic abdominal severe pulsations.
+
+
+
+I reassured her and told her she is clinically improving.  I will plan to see her again in about four months.
+
+
+
+Best personal regards.
+
+
+
+Sincerely yours,
+
+
+
+
+
+______________________________
+
+Victor Z. Qazi, M.D.
+
+
+
+
+
+
+
+
+
+
+
+eScription document:2-2223674 IFFocus
+
+
+
+
+
+
+
+DD: 04/18/86
+
+DT: 04/18/86
+
+DV: 04/18/86
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2086-04-18" TYPE="DATE" comment="" />
+<NAME id="P1" start="34" end="48" text="ZASTROW, IRENE" TYPE="PATIENT" comment="" />
+<ID id="P2" start="50" end="58" text="42521583" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P3" start="60" end="70" text="04/18/2086" TYPE="DATE" comment="" />
+<NAME id="P4" start="75" end="83" text="Iva Hall" TYPE="DOCTOR" comment="" />
+<LOCATION id="P6" start="110" end="132" text="Davis Monthan Hospital" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P7" start="134" end="152" text="39 Gleneagle Drive" TYPE="STREET" comment="" />
+<LOCATION id="P8" start="154" end="160" text="Naples" TYPE="CITY" comment="" />
+<LOCATION id="P9" start="162" end="164" text="OK" TYPE="STATE" comment="" />
+<LOCATION id="P10" start="166" end="171" text="73257" TYPE="ZIP" comment="" />
+<NAME id="P11" start="180" end="183" text="Iva" TYPE="DOCTOR" comment="" />
+<NAME id="P12" start="188" end="201" text="Irene Zastrow" TYPE="PATIENT" comment="" />
+<AGE id="P13" start="203" end="205" text="66" TYPE="AGE" comment="" />
+<LOCATION id="P14" start="338" end="350" text="Pennsylvania" TYPE="STATE" comment="" />
+<DATE id="P15" start="354" end="364" text="10/29/2085" TYPE="DATE" comment="" />
+<DATE id="P16" start="470" end="480" text="11/03/2085" TYPE="DATE" comment="" />
+<DATE id="P17" start="649" end="659" text="12/07/2085" TYPE="DATE" comment="" />
+<NAME id="P18" start="1698" end="1711" text="Irene Zastrow" TYPE="PATIENT" comment="" />
+<NAME id="P19" start="2458" end="2472" text="Victor Z. Qazi" TYPE="DOCTOR" comment="" />
+<ID id="P20" start="2510" end="2519" text="2-2223674" TYPE="IDNUM" comment="" />
+<DATE id="P21" start="2539" end="2547" text="04/18/86" TYPE="DATE" comment="" />
+<DATE id="P22" start="2553" end="2561" text="04/18/86" TYPE="DATE" comment="" />
+<DATE id="P23" start="2567" end="2575" text="04/18/86" TYPE="DATE" comment="" />
+</TAGS>
+</deIdi2b2>

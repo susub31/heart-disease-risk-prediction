@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2075-12-14
+
+
+
+	CARDIOLOGY
+
+	
+
+	FOLSOM CONVALESCENT HOSPITAL
+
+	
+
+
+
+	Interval History:
+
+   Mr.  Lilly is now 81 years old and it has been six and half years since his coronary bypass procedure.  Since I saw him last six months ago, he has generally done well.  He has not had any angina.  No dyspnea, orthopnea, lightheadedness, dizziness, palpitations, or syncope.  He has reduced his exercise to three days a week-he exercises vigorously when he does exercise, but this seems to give him a little bit more in the way of stamina.
+
+
+
+	Past medical history:
+
+   Noncontributory.
+
+
+
+Current Medications:
+
+  Nexium 40 mg BID
+
+ Ecotrin 325 mg qd
+
+ Toprol XL 50 mg qd
+
+ Effexor 75 mg qam; Dir: and 37.5 mg qpm
+
+ metformin hydrochloride 850 mg BID
+
+ Zocor 40 mg; Dir: 4 days a week and 80 mg 3 days a week
+
+ ranitidine HCl 300 mg qhs
+
+ flaxseed oil; Dir: Gel
+
+ vitamin b12 1 mg qd
+
+ vitamin c
+
+ Omega 1 tab tid; Dir: 3 fatty acids
+
+
+
+	Family history:
+
+   Noncontributory.
+
+
+
+	Social history:
+
+   He has four children and 10 grandchildren.  He just returned to Tunisia to visit family.  He does not smoke.  Minimal alcohol.  His wife recently had quite a bad fall.
+
+
+
+	Review of systems:
+
+   Weight is stable.  No GI problems.  Otherwise negative.
+
+
+
+Physical examination:
+
+	
+
+-Pulse:   60
+
+-BP: 145/70    140-145/70
+
+-resp. rate:   16
+
+-General:   He looks great
+
+-Neck:   The jugular venous pressure was less than 5.  No carotid bruits.  No palpable lymph nodes
+
+-Chest:   The lungs were clear to percussion and auscultation
+
+-Cardiac:   Showed an S4.  Normal S1.  No murmurs
+
+-Abdomen:   Liver and spleen are not enlarged
+
+-Extremities:   Good femoral, popliteal, and pedal pulses
+
+
+
+	EKG:
+
+    shows first-degree AV bock and minor ST and T changes.  No change from July 2075.
+
+
+
+	Assessment and plan:
+
+   Mr.  Lilly is generally doing well.  His blood pressure is a little higher than it usually is in the office today, and we probably should have him on ACE inhibitor with his mild diabetes.  On the other hand, he is a little worked up over his wife's injury, and we will monitor his pressure.  For now, we will sit tight.  He will have a full battery of chemistries tomorrow-he sees Dr.  Mccullough, so far so good with respect to his cardiac sinus.  
+
+
+
+Plan: Monitor blood pressure.  Low threshold for starting an ACE inhibitor.  Chemistries tomorrow.  See again in six months.
+
+
+
+Changes to Medications this visit
+
+	
+
+Nexium 40 mg   BID
+
+Ecotrin 325 mg   qd
+
+Toprol XL 50 mg   qd
+
+Effexor 75 mg   qam and 37.5 mg qpm
+
+metformin hydrochloride 850 mg   BID
+
+Zocor 40 mg    4 days a week and 80 mg 3 days a week
+
+ranitidine HCl 300 mg   qhs
+
+flaxseed oil     Gel
+
+vitamin b12 1 mg   qd
+
+vitamin c    
+
+Omega  1 tab  tid 3 fatty acidsCC:
+
+	Stephen N Mccullough M.D.
+
+	
+
+
+
+	Signed electronically by   Michael  Delarosa MD  on  Dec 15, 2075     
+
+
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2075-12-14" TYPE="DATE" comment="" />
+<LOCATION id="P1" start="47" end="75" text="FOLSOM CONVALESCENT HOSPITAL" TYPE="HOSPITAL" comment="" />
+<NAME id="P2" start="110" end="115" text="Lilly" TYPE="PATIENT" comment="" />
+<AGE id="P3" start="123" end="125" text="81" TYPE="AGE" comment="" />
+<LOCATION id="P4" start="1068" end="1075" text="Tunisia" TYPE="COUNTRY" comment="" />
+<DATE id="P6" start="1776" end="1785" text="July 2075" TYPE="DATE" comment="" />
+<NAME id="P7" start="1821" end="1826" text="Lilly" TYPE="PATIENT" comment="" />
+<NAME id="P8" start="2202" end="2212" text="Mccullough" TYPE="DOCTOR" comment="" />
+<NAME id="P9" start="2753" end="2773" text="Stephen N Mccullough" TYPE="DOCTOR" comment="" />
+<NAME id="P10" start="2813" end="2830" text="Michael  Delarosa" TYPE="DOCTOR" comment="" />
+<DATE id="P11" start="2839" end="2851" text="Dec 15, 2075" TYPE="DATE" comment="" />
+</TAGS>
+</deIdi2b2>

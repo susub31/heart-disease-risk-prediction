@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2065-12-11
+
+                     MEDIQUIK EMERGENCY DEPT VISIT
+ 
+RUTLEDGE,XAVIER W.   539-54-14-3               VISIT DATE: 12/11/65
+I saw this patient December 11, 2065 with the resident, Dr. 
+William Arndt and the coordinator from Adventist Home. 
+PRESENTING COMPLAINT:  This 56-year-old man came in with redness 
+and pain in his left leg. 
+HISTORY OF PRESENTING COMPLAINT:  History of present illness 
+includes renal failure, renal transplant, insulin dependent 
+diabetes mellitus and peripheral vascular disease.  He recently had 
+a deep venous thrombosis of the left leg extending from the calf 
+into the common femoral vein which is being treated now with 
+Coumadin, but today he noticed the redness, swelling and pain in 
+the leg.  Please see the resident's hand written record for 
+explicit details of the patient's visit and findings. 
+REVIEW OF SYSTEMS:  Please see the resident's hand written record 
+for explicit details of the patient's visit and findings. 
+PAST MEDICAL HISTORY:  Please see the resident's hand written 
+record for explicit details of the patient's visit and findings. 
+MEDICATIONS:  Please see the resident's hand written record for 
+explicit details of the patient's visit and findings. 
+ALLERGIES:  Please see the resident's hand written record for 
+explicit details of the patient's visit and findings. 
+SOCIAL HISTORY AND FAMILY HISTORY:  Please see the resident's hand 
+written record for explicit details of the patient's visit and 
+findings. 
+PHYSICAL EXAMINATION:  On physical examination, about one half the 
+area of the distal leg more anteriorly is warm, red, discolored and 
+tender.  Homan's sign is negative. 
+THERAPY RENDERED/COURSE IN ED:  The patient was sent for Doppler 
+ultrasound of the leg which showed improved flow through the common 
+femoral vein, but persistent thrombosis in the superficial femoral 
+of the gastrocnemius and popliteal veins.  He was begun on 
+intravenous Nebcin for a presumed cellulitis.  The plan is several 
+days of hospitalization with elevation and intravenous antibiotics. 
+FINAL DIAGNOSIS:  Cellulitis of leg. 
+DISPOSITION (including condition upon discharge):  The patient was 
+admitted to the hospital in fair condition. 
+___________________________________                    BZ259/4420 
+YUTAKA PRITCHARD, M.D.       YP66                          D:12/11/65 
+                                                       T:12/11/65 
+Dictated by:  YUTAKA PRITCHARD, M.D.       YP66 
+
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2065-12-11" TYPE="DATE" comment="" />
+<LOCATION id="P1" start="49" end="57" text="MEDIQUIK" TYPE="HOSPITAL" comment="" />
+<NAME id="P2" start="81" end="98" text="RUTLEDGE,XAVIER W" TYPE="PATIENT" comment="" />
+<ID id="P3" start="102" end="113" text="539-54-14-3" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P4" start="140" end="148" text="12/11/65" TYPE="DATE" comment="" />
+<DATE id="P5" start="168" end="185" text="December 11, 2065" TYPE="DATE" comment="" />
+<NAME id="P6" start="210" end="223" text="William Arndt" TYPE="DOCTOR" comment="" />
+<LOCATION id="P7" start="249" end="263" text="Adventist Home" TYPE="HOSPITAL" comment="" />
+<AGE id="P8" start="294" end="296" text="56" TYPE="AGE" comment="" />
+<ID id="P9" start="2276" end="2286" text="BZ259/4420" TYPE="IDNUM" comment="" />
+<NAME id="P10" start="2288" end="2304" text="YUTAKA PRITCHARD" TYPE="DOCTOR" comment="" />
+<NAME id="P11" start="2317" end="2321" text="YP66" TYPE="USERNAME" comment="" />
+<DATE id="P12" start="2349" end="2357" text="12/11/65" TYPE="DATE" comment="" />
+<DATE id="P13" start="2416" end="2424" text="12/11/65" TYPE="DATE" comment="" />
+<NAME id="P14" start="2440" end="2456" text="YUTAKA PRITCHARD" TYPE="DOCTOR" comment="" />
+<NAME id="P15" start="2469" end="2473" text="YP66" TYPE="USERNAME" comment="" />
+</TAGS>
+</deIdi2b2>

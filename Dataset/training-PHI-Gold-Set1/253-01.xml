@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2069-09-17
+
+
+  
+                        OFFICE NOTE
+  
+  Andrew Conner
+  MRN: 9911852
+  September 17, 2069 
+  
+  
+  Problems:
+  1.  Diabetes mellitus.  He continues on Glucotrol and
+  Glucophage.  Blood sugars appear to be in pretty good range. 
+  Last A1C was respectable.  To be repeated today.
+  2.  Hyperlipidemia.  Lipids are pending.
+  3.  Angina.  Previous stress test showed positive EKG
+  changes, equivocal scan.  Mild angina.  Started on trans-
+  derm nitro.  Totally must quit all cigars.  Lipids to be
+  repeated.
+  4.  Hypertension.  On captopril, atenolol and trans-derm
+  nitro.  Blood pressure _____/70, pulse 60 and regular, COR
+  normal.  
+  Impression:  Good control.
+  5.  Weight.  His weight is 192, should be 175.  Discussed. 
+  Overall, he has got things he can do to improve, and these
+  were all discussed in detail with the patient and his wife.
+  
+  
+  
+  Brandon Walls, M.D.
+  
+  Dictated/Not read
+  
+  BW/yamamoto
+  
+  
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2069-09-17" TYPE="DATE" comment="" />
+<NAME id="P1" start="73" end="86" text="Andrew Conner" TYPE="PATIENT" comment="" />
+<ID id="P2" start="94" end="101" text="9911852" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P3" start="104" end="122" text="September 17, 2069" TYPE="DATE" comment="" />
+<NAME id="P4" start="900" end="913" text="Brandon Walls" TYPE="DOCTOR" comment="" />
+<NAME id="P5" start="948" end="950" text="BW" TYPE="DOCTOR" comment="" />
+<NAME id="P6" start="951" end="959" text="yamamoto" TYPE="DOCTOR" comment="" />
+</TAGS>
+</deIdi2b2>

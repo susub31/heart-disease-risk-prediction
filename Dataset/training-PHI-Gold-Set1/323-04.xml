@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2065-12-19
+EDVISIT^60244986^XIAN, BROOKLYN^12/19/65^QUAGLIA, BRONSON
+
+I confirm that I have interviewed and examined the patient and
+
+reviewed the PA's documentation.  Please see her note for full
+
+details.
+
+HISTORY OF PRESENT ILLNESS:  Ms. Xian is a 70-year-old female
+
+with a history of non-insulin-dependent diabetes, history of
+
+cholecystectomy, and Lap-Band in 2062 who presents with right
+
+upper quadrant abdominal pain, nausea but no vomiting, and
+
+decreased p.o. intake.  Denies any fevers.  She reports that it
+
+is 8/10 and 12/10 at its worst.  She also on review of systems
+
+reports some chest pain on the left side radiating down her left
+
+arm and left shoulder.  No previous episodes.  No trauma, no
+
+urinary symptoms, no vomiting, and no diarrhea.  She saw her PCP
+
+earlier this week on 12/17/2065 and had a CT scan, which was
+
+reportedly normal and it is in our system and we have confirmed
+
+this reading.
+
+SOCIAL HISTORY:  Noncontributory.
+
+FAMILY HISTORY:  Normal.
+
+REVIEW OF SYSTEMS:  Otherwise, negative.  LMR notes on 12/17/2065
+
+from her PCP reveals same steady mild waxing and waning right
+
+upper quadrant abdominal pain radiating to the back, not
+
+pleuritic.  No shortness of breath.  No fevers, cough, or chills.
+
+ No changes in her stools.
+
+PAST MEDICAL HISTORY:  She has a history of sleep apnea, atypical
+
+chest pain, diabetes, obesity, gastric banding, and some
+
+dementia.
+
+PHYSICAL EXAMINATION:  Here, heart rate 76, respiratory rate 18,
+
+blood pressure 118/77, saturations 97%, and temperature 96.6. 
+
+She is obese.  Dry Mucous membranes.  Slightly pale.  Neck is
+
+supple.  No respiratory distress.  Normal breath sounds.  Heart: 
+
+Regular rate and rhythm without a murmur.  Abdomen with right
+
+upper quadrant tenderness.  Negative Murphy's.  No
+
+hepatosplenomegaly and no CVA tenderness.
+
+IMPRESSION:  This 70-year-old female with abdominal pain.
+
+LABORATORY DATA:  White count of 15.6, hematocrit 42.  The rest
+
+of her labs are pending.  Chest x-ray and right upper quadrant
+
+ultrasound pending.  Otherwise, we have given IV fluids and
+
+morphine.  She is on telemetry.
+
+Diagnoses at this time, abdominal pain and chest pain.  Abdominal
+
+pain.  With a negative CT scan, labs and ultrasound that are
+
+reassuring.  We will proceed with pain control at that time. 
+
+Chest pain.  We will ____ check a troponin and EKG and keep her
+
+in telemetry.  She will get ____ and if there has been a negative
+
+recent nuclear stress test, we will go ahead and proceed with ED
+
+Observation admission in the morning for a MIBI stress test.
+
+DIAGNOSES:
+
+1.  Abdominal pain.
+
+2.  Chest pain.
+
+______________________________
+
+QUAGLIA, BRONSON M.D.
+
+D: 12/19/65
+
+T: 12/19/65
+
+Dictated By: QUAGLIA, BRONSON
+
+eScription document:0-75166654 BFFocus
+
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2065-12-19" TYPE="DATE" comment="" />
+<ID id="P1" start="35" end="43" text="60244986" TYPE="MEDICALRECORD" comment="" />
+<NAME id="P2" start="44" end="58" text="XIAN, BROOKLYN" TYPE="PATIENT" comment="" />
+<DATE id="P3" start="59" end="67" text="12/19/65" TYPE="DATE" comment="" />
+<NAME id="P4" start="68" end="84" text="QUAGLIA, BRONSON" TYPE="DOCTOR" comment="" />
+<NAME id="P5" start="257" end="261" text="Xian" TYPE="PATIENT" comment="" />
+<AGE id="P6" start="267" end="269" text="70" TYPE="AGE" comment="" />
+<DATE id="P7" start="382" end="386" text="2062" TYPE="DATE" comment="" />
+<DATE id="P8" start="816" end="826" text="12/17/2065" TYPE="DATE" comment="" />
+<DATE id="P9" start="1053" end="1063" text="12/17/2065" TYPE="DATE" comment="" />
+<AGE id="P10" start="1853" end="1855" text="70" TYPE="AGE" comment="" />
+<NAME id="P11" start="2651" end="2667" text="QUAGLIA, BRONSON" TYPE="DOCTOR" comment="" />
+<DATE id="P12" start="2677" end="2685" text="12/19/65" TYPE="DATE" comment="" />
+<DATE id="P13" start="2690" end="2698" text="12/19/65" TYPE="DATE" comment="" />
+<NAME id="P14" start="2713" end="2729" text="QUAGLIA, BRONSON" TYPE="DOCTOR" comment="" />
+<ID id="P15" start="2751" end="2761" text="0-75166654" TYPE="IDNUM" comment="" />
+</TAGS>
+</deIdi2b2>

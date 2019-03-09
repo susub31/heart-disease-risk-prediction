@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2064-05-25
+
+CARDIAC SURGERY
+
+HEARTLAND COUNTY CLINIC
+
+
+
+Narrative Note:
+
+			
+
+
+
+
+
+June 25, 2064
+
+
+
+
+Dr. Charles Uher
+
+Danville State Hospital
+
+9362 Massachusetts Drive
+
+Clyde, NV  14436
+
+
+
+RE:  Michael Isenberg
+
+HCC# - 367-41-93
+
+
+
+Dear Dr. Uher:
+
+
+
+I saw our mutual patient, Mr. Isenberg, today in my office for a routine followup wound check.  As you know, this is an 81 year-old man with a history of chronic renal insufficiency and diabetes.  He underwent an off-pump double bypass on 3/31/64.  He had an excellent post-operative recovery being discharged on day five.  Since home, he reports having no further symptoms of shortness of breath or chest pain.  He has been gradually increasing his daily activity and is now walking about five to ten minutes a day and two flights of steps.  I have suggested that he gradually increase his daily exercise.
+
+
+
+On examination today his heart rate was 80 and regular.  His chest incision was well healed and his sternum stable.  His lungs were clear bilaterally.  He had mild edema at his right ankle and a well-healed endoscopic vein harvest site.  His current medications are aspirin 325 a day, Nexium 20 a day, Lisinopril 2.5 a day, Atenolol 25 a day, Plavix 75 a day, Glimepiride 1 mg. PO b.i.d., and Lipitor 80 mg. a day.
+
+
+
+Overall, I am obviously delighted to see Mr. Isenberg having recovered without complication from his revascularization.  I trust that you have received a copy of his Discharge Summary previously.  If not please let me know and we   ll forward you this.  Thanks for letting us participate in the care of this pleasant gentleman and let me know if I can be of further assistance.
+
+
+
+Sincerely,
+
+
+
+
+
+Ian K. Ignacio, M.D.
+
+IKI:werner 
+
+
+
+
+
+Signed electronically by   Ian  Ignacio MD  on  Jun 30, 2064     
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2064-05-25" TYPE="DATE" comment="" />
+<LOCATION id="P1" start="45" end="68" text="HEARTLAND COUNTY CLINIC" TYPE="HOSPITAL" comment="" />
+<DATE id="P2" start="98" end="111" text="June 25, 2064" TYPE="DATE" comment="" />
+<NAME id="P3" start="120" end="132" text="Charles Uher" TYPE="DOCTOR" comment="" />
+<LOCATION id="P4" start="134" end="157" text="Danville State Hospital" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P5" start="159" end="183" text="9362 Massachusetts Drive" TYPE="STREET" comment="" />
+<LOCATION id="P6" start="185" end="190" text="Clyde" TYPE="CITY" comment="" />
+<LOCATION id="P7" start="192" end="194" text="NV" TYPE="STATE" comment="" />
+<LOCATION id="P8" start="196" end="201" text="14436" TYPE="ZIP" comment="" />
+<NAME id="P9" start="210" end="226" text="Michael Isenberg" TYPE="PATIENT" comment="" />
+<LOCATION id="P10" start="228" end="231" text="HCC" TYPE="HOSPITAL" comment="" />
+<ID id="P11" start="235" end="244" text="367-41-93" TYPE="MEDICALRECORD" comment="" />
+<NAME id="P12" start="257" end="261" text="Uher" TYPE="DOCTOR" comment="" />
+<NAME id="P13" start="296" end="304" text="Isenberg" TYPE="PATIENT" comment="" />
+<AGE id="P14" start="386" end="388" text="81" TYPE="AGE" comment="" />
+<DATE id="P15" start="505" end="512" text="3/31/64" TYPE="DATE" comment="" />
+<NAME id="P16" start="1339" end="1347" text="Isenberg" TYPE="PATIENT" comment="" />
+<NAME id="P17" start="1691" end="1705" text="Ian K. Ignacio" TYPE="DOCTOR" comment="" />
+<NAME id="P18" start="1713" end="1716" text="IKI" TYPE="DOCTOR" comment="" />
+<NAME id="P19" start="1717" end="1723" text="werner" TYPE="DOCTOR" comment="" />
+<NAME id="P20" start="1757" end="1769" text="Ian  Ignacio" TYPE="DOCTOR" comment="" />
+<DATE id="P21" start="1778" end="1790" text="Jun 30, 2064" TYPE="DATE" comment="" />
+</TAGS>
+</deIdi2b2>

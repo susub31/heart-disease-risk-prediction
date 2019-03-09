@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2095-12-04
+
+
+	CARDIOLOGY
+	
+
+	OXFORD DELTA CLINIC
+	
+
+
+	Reason for visit:
+   chest pain
+
+
+	Interval History:
+   71 yo male with HTN, hyperlipidemia, DM, CAD/CABG September 2092 which was c/b premature graft failure of the SVG to LAD presents with increasing frequency of left jaw pain and chest pain for the past 4 wks. 
+
+After his CABG, he underwent POBA of likely diffusely diseased, intramyocardial LAD in 1/93 due to recurrent angina.  He then underwent May 94 and cath demonstrated severe native disease with a mid-LAD lesion which was treated with PTCA/Taxus stent. He had symptomatic relief until 11/94 when he began to experience exertional discomfort and dyspnea which has now progressed to symptoms at rest despite an aggressive medical regimen. He then underwent repeat cath in 12/94 which revealed in stent restenosis of prior LAD stent and was stented with a 2.25 x 13 mm Cypher stent. 
+
+He reports complete symptomatic relief after his stent in 12/94 and he was chest pain free until about a month ago when he noted left-sided chest pain and left jaw pain that was similar to his cardiac chest pain in the past.  The pain was both exertional and non-exertional.  He also noted gradually worsening exertional dyspnea as well, though he has mostly been sedentary.  He denies any orthopnea, PND, leg edema or palpitations.  He has been compliant with all medications, including ASA and Plavix.  He is currently chest pain free.
+
+
+	Past medical history:
+   DM 
+HTN 
+Hyperlipidemia 
+CAD -CABG x 3 September 2092 WMMC (LIMA to D2, SVG to RCA, SVG to LAD) s/p PCI prox LAD Jan 2093, s/p Taxus stent to LAD 5/94, s/p Cypher stent to mid LAD 12/94 
+Cardiac cath 12/94: Diffuse 3 vessel CAD. Patent LIMA to D1, patent SVG to RCA.  Occluded SVG to LAD as previous.  60% in-stent restenosis of mid LAD.
+GERD s/p H pylori eradication several years ago 
+Left rotator cuff injury s/p CABG 
+Anxiety 
+hernia repair
+
+Medications:
+Albuterol Inhaler Hfa INH as directed
+Buffered Aspirin (ASPIRIN Buffered) 325 MG (325 MG TABLET Take 1) PO QD #Tablet(s)
+Citalopram 40 MG (40 MG TABLET Take 1) PO QD #Tablet(s)
+Fenofibrate, Micronized (LOFIBRA Caps) 200 MG (200 MG CAPSULE Take 1) PO QD, Take with food. #Capsule(s)
+Furosemide 20 MG (20 MG TABLET Take 1) PO QD #Tablet(s)
+Isosorbide Mononitrate (SR) 60 MG (60 MG TAB.SR 24H Take 1) PO QD #TAB.SR
+Klor-con (KCL Slow Release Tab) PO #Tablet(s)
+Lipitor (ATORVASTATIN) 40 MG (40 MG TABLET Take 1) PO QHS #Tablet(s)
+Metoprolol Tartrate 37.5 MG (25 MG TABLET Take 1.5) PO BID #Tablet(s)
+Norvasc (AMLODIPINE) 10 MG (10 MG TABLET Take 1) PO QD #Tablet(s)
+Pantoprazole 40 MG (40 MG TABLET DR Take 1) PO QD #Tablet(s)
+Plavix (CLOPIDOGREL) 75 MG (75 MG TABLET Take 1) PO QD #Tablet(s)
+Ranexa (RANOLAZINE Er) PO BID #TAB.SR
+Symbicort 80/4.5 (BUDESONIDE/FORMOTEROL 80/4.5) 2 PUFF INH BID
+
+	
+
+	Changes to Allergies
+	
+ACE Inhibitor - reaction: cough [reviewed]
+METFORMIN - reaction: GI Intolerance [reviewed]
+ROSUVASTATIN - reaction: myalgia [reviewed]
+SIMVASTATIN - reaction: myalgias [reviewed]
+VALSARTAN - reaction: fatigue [reviewed]
+
+
+	Family history:
+   Father + CAD
+
+
+	Social history:
+   Lives with wife in Lagrange,KS. Retired. Former heavy smoker-quit x 30 yrs. Rare ETOH.
+
+
+	Review of systems:
+   negative in detail other than mentioned in HPI
+
+Physical examination:
+	
+-Pulse: 74  
+-resp. rate: 18  99%RA
+-Extremities:   No cyanosis, clubbing or edema. 2+ femoral pulses without bruits. 2+ pedal pulses.
+-Abdomen:   Normal bowel sounds, soft and nontender, with no hepatosplenomegaly or masses appreciated.
+-Cardiac:   Left ventricular impulse discrete and nondisplaced. Regular rate and rhythm, normal S1 and S2, with no S3 or S4. There were no murmurs, clicks or rubs.
+-Chest:   Clear to auscultation anteriorly
+-Neck:   2+ carotid pulses with normal upstrokes, no bruits, JVP 5-6 cm
+-HEENT:   Normocephalic, anicteric
+-Skin:   No rashes, anicteric.
+-General:   No acute distress.
+-BP: 146/77  
+-Neuro:   A&amp;O x3, CN 2-12 grossly intact. 
+
+
+	EKG:
+   NSR at 70bpm, LAD, RBBB, no acute ST/T wave changes.  No changes compared to prior ECG studies.
+
+Selected recent labs:
+	 Metabolic
+Date     
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2095-12-04" TYPE="DATE" comment="" />
+<LOCATION id="P1" start="45" end="64" text="OXFORD DELTA CLINIC" TYPE="HOSPITAL" comment="" />
+<AGE id="P2" start="126" end="128" text="71" TYPE="AGE" comment="" />
+<DATE id="P3" start="176" end="190" text="September 2092" TYPE="DATE" comment="" />
+<DATE id="P4" start="423" end="427" text="1/93" TYPE="DATE" comment="" />
+<DATE id="P5" start="472" end="478" text="May 94" TYPE="DATE" comment="" />
+<DATE id="P6" start="618" end="623" text="11/94" TYPE="DATE" comment="" />
+<DATE id="P7" start="803" end="808" text="12/94" TYPE="DATE" comment="" />
+<DATE id="P8" start="973" end="978" text="12/94" TYPE="DATE" comment="" />
+<DATE id="P9" start="1520" end="1534" text="September 2092" TYPE="DATE" comment="" />
+<LOCATION id="P10" start="1535" end="1539" text="WMMC" TYPE="HOSPITAL" comment="" />
+<DATE id="P11" start="1594" end="1602" text="Jan 2093" TYPE="DATE" comment="" />
+<DATE id="P12" start="1627" end="1631" text="5/94" TYPE="DATE" comment="" />
+<DATE id="P13" start="1661" end="1666" text="12/94" TYPE="DATE" comment="" />
+<DATE id="P14" start="1681" end="1686" text="12/94" TYPE="DATE" comment="" />
+<LOCATION id="P15" start="3155" end="3163" text="Lagrange" TYPE="CITY" comment="" />
+<LOCATION id="P16" start="3164" end="3166" text="KS" TYPE="STATE" comment="" />
+</TAGS>
+</deIdi2b2>

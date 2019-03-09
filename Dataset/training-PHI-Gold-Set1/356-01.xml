@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2150-06-15
+
+Baycoast Medical Center
+
+Emergency Department Record
+
+
+
+Patient: ISHIDA, NATHAN             MRN: 8792076        DOB:  1/24/2076     Sex: M
+
+Registration Date/Time: 6/15/2150 11:25:00 PM            Provider: NICHOLAS  EDGE
+
+
+
+
+Time Patient Seen
+
+0245
+
+Chief Complaint
+
+constipation
+
+HPI
+
+74M p/w constipation. No BM in 5-6 days.  Prior to that went 3-4 days without a BM. No abd pain, but feels full and uncomfortable. No N/V, BRBPR, diarrhea, fevers/chills. Tried one dose of senna and one dose of enulose per a family member's recommendation without any effect.
+
+PMHx
+
+niddm, htn, high cholesterol, GERD, arthritis
+
+PSurHx
+
+s/p CCY
+
+Meds
+
+see RN notes
+
+Allergy
+
+oxybutin
+
+
+
+Physical Exam
+
+Constitutional
+
+obese pleasant man, no acute distress
+
+Vitals
+
+T: 96.8
+
+P: 54
+
+BP: 179/102
+
+RR: 18
+
+Chest/Respiratory
+
+cta b
+
+Cardiovascular
+
+rrr
+
+GI/Abdomen
+
+obese, soft, nt, nd
+
+Impression/Plan
+
+74M w/constipation and benign abd exam. Explained need for bowel regimen. Pt currently eats lots of cheese, does not drink much water or juice. 15 min of patient education on managing constipation. Will rx w/colace and lactulose in ED. Pt to f/u w/PCP.
+
+
+
+ED Attending Physician Note
+
+HPI
+
+74yo male - no bowel movement in almost one week. No abd pain, no nausea/vomiting, but he does feel uncomfortable. No BRBPR, diarrhea, fevers/chills. He has tried senna and enulose with no effect. Symptoms are constant, nonradiating, no modifying factors
+
+ROS
+
+All systems reviewed and negative except as above
+
+Vitals
+
+See Nursing Notes
+
+PE
+
+General: Awake, alert, comfortable.
+
+Head: Normocephalic, atraumatic
+
+Neck: Supple, full range of motion, nontender
+
+Chest: No respiratory distress
+
+Abdomen: soft, non-tender, non-distended, no organomegaly, normally active bowel sounds.
+
+Musculoskeletal: no muscle tenderness of the extremities.
+
+Neurologic: Sensation normal to light touch of the lower extremities. Strength normal.
+
+Skin: No rashes.
+
+Psychiatric: Mood/affect normal.
+
+
+
+Medical Decision Making ED Course
+
+Symptoms of constipation - no evidence of SBO or obstipation. He clinically appears well at this time. He will be given instructions for a better bowel regimen and followup with PCP.
+
+Condition on Discharge
+
+Stable
+
+Diagnoses
+
+Constipation
+
+Review Comments
+
+I have personally seen and examined the patient and confirmed the resident's examination, reviewed and agree with the resident's documentation of history, and discussed the evaluation, plan of care and disposition of the patient with the resident.
+
+
+
+This note has been electronically signed by NICHOLAS  EDGE, MD 6/16/2150 3:22:59 PM
+
+
+
+Clinical staff documenting in the ED note include:
+
+
+
+Attending/Nurse Practitioners(s)
+
+
+
+NICHOLAS  EDGE, MD
+
+Other Providers
+
+
+
+UNA  BIRD, MD
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2150-06-15" TYPE="DATE" comment="" />
+<LOCATION id="P1" start="28" end="51" text="Baycoast Medical Center" TYPE="HOSPITAL" comment="" />
+<NAME id="P2" start="93" end="107" text="ISHIDA, NATHAN" TYPE="PATIENT" comment="" />
+<ID id="P3" start="125" end="132" text="8792076" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P4" start="146" end="155" text="1/24/2076" TYPE="DATE" comment="" />
+<DATE id="P5" start="192" end="201" text="6/15/2150" TYPE="DATE" comment="" />
+<NAME id="P6" start="235" end="249" text="NICHOLAS  EDGE" TYPE="DOCTOR" comment="" />
+<AGE id="P7" start="315" end="317" text="74" TYPE="AGE" comment="" />
+<AGE id="P8" start="915" end="917" text="74" TYPE="AGE" comment="" />
+<AGE id="P9" start="1205" end="1207" text="74" TYPE="AGE" comment="" />
+<NAME id="P10" start="2576" end="2590" text="NICHOLAS  EDGE" TYPE="DOCTOR" comment="" />
+<DATE id="P11" start="2595" end="2604" text="6/16/2150" TYPE="DATE" comment="" />
+<NAME id="P12" start="2709" end="2723" text="NICHOLAS  EDGE" TYPE="DOCTOR" comment="" />
+<NAME id="P13" start="2748" end="2757" text="UNA  BIRD" TYPE="DOCTOR" comment="" />
+</TAGS>
+</deIdi2b2>

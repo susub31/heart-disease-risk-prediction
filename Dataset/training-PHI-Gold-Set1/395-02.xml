@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2106-05-02
+
+                     SLHC EMERGENCY DEPT VISIT
+
+ 
+
+DO,TANYA V   639-25-21-7                    VISIT DATE: 05/02/06
+
+This patient was interviewed and examined by myself, Dr. Martinez, 
+
+as well as Dr. Xanders, on May 02, 2106.  Please see note for full 
+
+details, reviewed in full.
+
+PRESENTING COMPLAINT:  Leg swelling and pain.
+
+HISTORY OF PRESENTING COMPLAINT:  This is a 78-year-old female who 
+
+is on chronic prednisone for rheumatoid arthritis, who comes in 
+
+with left leg swelling and pain going on for two days, and she was 
+
+sent in for evaluation.  There has been no change in range of 
+
+motion.  She has been able to ambulate, but with difficulty and 
+
+limping.
+
+PAST MEDICAL HISTORY:  She does have a history of Staphylococcus 
+
+aureus infection of the right side.  She also has 
+
+non-insulin-dependent diabetes, vasculitis and neuropathy.  She is 
+
+status post multiple joint operations.
+
+SOCIAL HISTORY AND FAMILY HISTORY:  No tobacco or ETOH.  She lives 
+
+alone.  Family history is noncontributory.   Please see the 
+
+resident's note for the rest of the details.
+
+PHYSICAL EXAMINATION:  GENERAL:  Awake, alert, very pleasant female 
+
+in no apparent distress.  VITAL SIGNS:  Her temperature is 98.  Her 
+
+normal temperature is about 96.5.  She is not tachycardic.  
+
+EXTREMITIES:  Her exam is notable for some shininess to the skin, 
+
+some redness and some swelling.  Distally neurovascularly intact.  
+
+Full range of motion of her knee and ankle above and below the area 
+
+at her baseline.  She does have a total knee replacement on that 
+
+side.
+
+FINAL DIAGNOSIS:  Cellulitis.
+
+DISPOSITION (including condition upon discharge):  We are concerned 
+
+that she may have a DVT.  We are going to admit her to our 
+
+observation unit to give her antibiotics.  We will discuss her case 
+
+with Dr. Keane, her primary care physician, and likely discharge 
+
+her in the morning with improvement as long as she does not have a 
+
+DVT.  If she has a DVT we will add on subcutaneous enoxaparin to 
+
+her medical regimen.  The patient is currently in satisfactory 
+
+condition.
+
+___________________________________                    DJ241/84357 
+
+BEVERLY B. MARTINEZ, M.D.     BM88                      D:05/02/06 
+
+                                                       T:05/03/06 
+
+Dictated by:  BEVERLY B. MARTINEZ, M.D.     BM88 
+
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2106-05-02" TYPE="DATE" comment="" />
+<LOCATION id="P1" start="49" end="53" text="SLHC" TYPE="HOSPITAL" comment="" />
+<NAME id="P2" start="79" end="89" text="DO,TANYA V" TYPE="PATIENT" comment="" />
+<ID id="P3" start="92" end="103" text="639-25-21-7" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P4" start="135" end="143" text="05/02/06" TYPE="DATE" comment="" />
+<NAME id="P5" start="202" end="210" text="Martinez" TYPE="DOCTOR" comment="" />
+<NAME id="P6" start="229" end="236" text="Xanders" TYPE="DOCTOR" comment="" />
+<DATE id="P7" start="241" end="253" text="May 02, 2106" TYPE="DATE" comment="" />
+<AGE id="P8" start="402" end="404" text="78" TYPE="AGE" comment="" />
+<NAME id="P9" start="1831" end="1836" text="Keane" TYPE="DOCTOR" comment="" />
+<ID id="P10" start="2157" end="2168" text="DJ241/84357" TYPE="IDNUM" comment="" />
+<NAME id="P11" start="2171" end="2190" text="BEVERLY B. MARTINEZ" TYPE="DOCTOR" comment="" />
+<NAME id="P12" start="2201" end="2205" text="BM88" TYPE="USERNAME" comment="" />
+<DATE id="P13" start="2229" end="2237" text="05/02/06" TYPE="DATE" comment="" />
+<DATE id="P14" start="2297" end="2305" text="05/03/06" TYPE="DATE" comment="" />
+<NAME id="P15" start="2322" end="2341" text="BEVERLY B. MARTINEZ" TYPE="DOCTOR" comment="" />
+<NAME id="P16" start="2352" end="2356" text="BM88" TYPE="USERNAME" comment="" />
+</TAGS>
+</deIdi2b2>

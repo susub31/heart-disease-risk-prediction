@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2067-10-03
+
+80 yo man with CAD, anemia, and the chief complaint of buttock pain with ambulation.
+
+
+
+He has had some pain in his buttocks when he ambulates a short distance which resolves with standing still. Hip films were unremarkable. No calf pains. He saw Dr. Jaimes for a second opinion and was advised to exercise more and cut down on alcohol. He has had some anemia and his GI w/u at Fairfield was negative. I then started him on Coumadin which he finally started taking.
+
+
+
+
+
+================ Medications ================
+
+COZAAR  50MG PO QD
+
+HCTZ  25MG PO QD
+
+AMBIEN (ZOLPIDEM TARTRATE)  10MG PO HS PRN .
+
+PROCARDIA XL  120MG PO QD
+
+GLUCOTROL  20MG PO BID
+
+ACTOS (PIOGLITAZONE) 45MG 1 Tablet(s) PO QD
+
+ATENOLOL 50MG 1 Tablet(s) PO QD
+
+LIPITOR (ATORVASTATIN) 40MG 1 Tablet(s) PO QHS
+
+LASIX (FUROSEMIDE) 40MG 1 Tablet(s) PO QD
+
+COUMADIN (WARFARIN SODIUM) 2.5MG 1 Tablet(s) PO QPM
+
+
+
+
+
+ALLERGIES:  None.
+
+
+
+FAMILY HISTORY:  Noncontributory.
+
+
+
+SOCIAL HISTORY:  Married.  Retired.  No cigarettes.
+
+
+
+ROS   Back pain. Thigh aching. Fatigue. Rest of ROS is negative.
+
+
+
+PE  Looks less fatigued.
+
+
+
+================ Vital signs ================
+
+Blood Pressure:   170/82
+Weight:   198   [Pounds]
+P 60 irreg irreg
+
+HEENT: EOMI  No scleral icterus. No retinopathy.
+
+No lymphadenopathy. No carotid bruits.
+
+Lungs: Clear
+
+Cor: irreg irreg. No audible murmurs or gallops.
+
+Abd: Obese. Non tender.
+
+Ext: No edema. Trace PT pulse on the right. Could not palpate any on the left.
+
+
+
+================ Problems ================
+
+BUTTOCK PAIN   With ambulation. Probably spinal stenosis but I will check some vascular studies.
+
+
+
+ANEMIA    GI w/u at Fairfield was negative. I referred him to Dr. Emmons in Hematology today.
+
+         
+
+HYPERTENSION   Did not take meds today.
+
+         
+
+DIABETES (FOLLOWED AT CLAIBORNE)     Brings an A1C of 6.1. Continue Actos and Glucotrol.
+
+     
+
+PROSTATE CA        Stable.
+
+
+
+ALCOHOL   Reiterate the importance of keeping limit on alcohol.
+
+
+
+AF  I am relieved that he has finally agreed to start the Coumadin.
+
+
+
+CAD  Doing well after angioplasty.
+
+
+
+PATIENT/PHYSICIAN  He has wanted to see Dr. Jaimes in Cardiology. I explained to him that I am a cardiologist as well and that I have found in the past it does not work out well to have two cardiologists involved in his care. I think Dr. Jaimes is a superb cardiologist and I gave him the number for GCH teleservices to find himself a new internist. He clearly is somewhat conflicted about this and will think about it.
+
+
+
+
+
+
+
+
+
+
+
+______________________________                              
+
+
+
+Jacobson, Isaiah Peter, M.D.
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2067-10-03" TYPE="DATE" comment="" />
+<AGE id="P1" start="28" end="30" text="80" TYPE="AGE" comment="" />
+<NAME id="P2" start="279" end="285" text="Jaimes" TYPE="DOCTOR" comment="" />
+<LOCATION id="P3" start="406" end="415" text="Fairfield" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P4" start="1656" end="1665" text="Fairfield" TYPE="HOSPITAL" comment="" />
+<NAME id="P5" start="1702" end="1708" text="Emmons" TYPE="DOCTOR" comment="" />
+<LOCATION id="P6" start="1816" end="1825" text="CLAIBORNE" TYPE="HOSPITAL" comment="" />
+<NAME id="P7" start="2141" end="2147" text="Jaimes" TYPE="DOCTOR" comment="" />
+<NAME id="P8" start="2335" end="2341" text="Jaimes" TYPE="DOCTOR" comment="" />
+<LOCATION id="P9" start="2397" end="2400" text="GCH" TYPE="HOSPITAL" comment="" />
+<NAME id="P10" start="2592" end="2614" text="Jacobson, Isaiah Peter" TYPE="DOCTOR" comment="" />
+</TAGS>
+</deIdi2b2>

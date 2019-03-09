@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2076-08-29
+
+August 29, 2076
+
+
+
+Dr. Galvan
+
+Internal Medicine Associates
+
+RM 309
+
+
+
+Re:  	Quijano, Donny 
+
+	SMC Unit # 544-84-52
+
+
+
+Dear Dr. Galvan:
+
+
+
+I had the pleasure of seeing your patient, Mr. Quijano, in followup for episodes of dyspnea, in the setting of asthma, gastroesophageal reflux, myasthenia gravis and distant coronary disease.
+
+
+
+He reports that his    spasms    of unpredictable exertional breathlessness have continued to be substantially in remission, occurring less than once a week and sometimes only every two weeks.  Swallowing is fine with fewer choking episodes when he drinks water, but no problem with the ingestion of other substances.  
+
+
+
+No cough, phlegm, lower extremity edema, chest pain or chest infections.
+
+
+
+No reflux symptoms.
+
+
+
+Sneezing spells and coryza, especially in the morning, have been most noticeable in the past several months.
+
+
+
+He enjoyed his trip to Romania, and had only two days when he had a couple of minor spells.
+
+
+
+Medications:  Advair, 100/50, one puff b.i.d. (continues the 10 second breath hold); lisinopril; atenolol; Mestinon; Metformin; no proton pump inhibitor.
+
+
+
+On examination, he is his usual fit-appearing self.  Blood pressure is 130/70, respiratory rate 18 and unlabored, heart rate 55 and regular.  Conjunctivae are clear.  Sinuses nontender.  Nasal passages are narrowed but without inflammation.  Oropharynx:  Mild crowding in the posterior pharynx, but there were no definite exudates.  No goiter or adenopathy.  Back:  Normal configuration.  Chest:  Normal percussion note, faint prolongation of the expiratory phase without definite wheezes.  Cardiac:  Vague cardiac impulse, 1/6 systolic mid to late systolic murmur at the apex, JVP 8 cm with borderline HJR, no S3.  Abdomen:  Soft, scaphoid, nontender, no hepatosplenomegaly or mass.  Extremities:  No cyanosis, clubbing or edema.  Skin:  Well tanned.
+
+
+
+Pulmonary function tests today show regression of the FEV1 from 2.09 liters on 6/27 to 1.72 liters, similar to the 1.62 liter value of 6/13, with an FVC that has decreased from 3.47 on 6/27 to 2.8 liters now, although with an FET of only 8.5 versus 14.3.
+
+
+
+CT scan today, by my review - A tiny nodule in the extreme right apex, mildly thickened bronchi in the extreme left lower lobe, status post mediasternotomy with diffuse calcification of the coronary arteries.
+
+
+
+Impression:
+
+
+
+Episodic dyspnea due to asthma, with underlying excellent functional status and because of his stoicism and fitness, with the variability in pulmonary function on testing correlating well with a slight increase in the frequency of his occasional episodes, because of the asthma and allergies, he may benefit from Singulair.
+
+
+
+Probable mild occult gastroesophageal reflux.
+
+
+
+Ischemic coronary disease, status post VF arrest and revascularization.
+
+
+
+Myasthenia, mainly ocular.
+
+
+
+Prior Raynaud's syndrome.
+
+
+
+Recommendations:
+
+
+
+Continue Advair at the current dose.
+
+
+
+Trial of Singulair, 10 mg p.o. q. p.m.
+
+
+
+Low threshold for adding a proton-pump inhibitor and/or intranasal steroids.
+
+
+
+Continue exercise program.
+
+
+
+Return visit in three months with pulmonary function tests at that time.
+
+
+
+It has been a pleasure to participate in his care.
+
+
+
+Sincerely yours,
+
+
+
+
+
+
+
+Dean S. Nye, M.D. 
+
+
+
+DSN/yarnell/kr
+
+      
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2076-08-29" TYPE="DATE" comment="" />
+<DATE id="P1" start="28" end="43" text="August 29, 2076" TYPE="DATE" comment="" />
+<NAME id="P2" start="51" end="57" text="Galvan" TYPE="DOCTOR" comment="" />
+<NAME id="P4" start="105" end="119" text="Quijano, Donny" TYPE="PATIENT" comment="" />
+<LOCATION id="P5" start="123" end="126" text="SMC" TYPE="HOSPITAL" comment="" />
+<ID id="P6" start="134" end="143" text="544-84-52" TYPE="MEDICALRECORD" comment="" />
+<NAME id="P7" start="156" end="162" text="Galvan" TYPE="DOCTOR" comment="" />
+<NAME id="P8" start="214" end="221" text="Quijano" TYPE="PATIENT" comment="" />
+<LOCATION id="P9" start="919" end="926" text="Romania" TYPE="COUNTRY" comment="" />
+<DATE id="P10" start="1982" end="1986" text="6/27" TYPE="DATE" comment="" />
+<DATE id="P11" start="2038" end="2042" text="6/13" TYPE="DATE" comment="" />
+<DATE id="P12" start="2088" end="2092" text="6/27" TYPE="DATE" comment="" />
+<NAME id="P13" start="3264" end="3275" text="Dean S. Nye" TYPE="DOCTOR" comment="" />
+<NAME id="P14" start="3286" end="3289" text="DSN" TYPE="DOCTOR" comment="" />
+<NAME id="P15" start="3290" end="3297" text="yarnell" TYPE="DOCTOR" comment="" />
+<NAME id="P16" start="3298" end="3300" text="kr" TYPE="DOCTOR" comment="" />
+</TAGS>
+</deIdi2b2>

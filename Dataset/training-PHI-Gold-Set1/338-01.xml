@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2088-12-21
+
+POLK GENERAL HOSPITAL
+Internal Medicine
+42 Lisbon Lane                             Holden, Matias
+Palacios, NE  73819                             97198841
+                                              12-21-88
+ 
+ 
+ 
+Patient is a 34-year-old man who comes in for follow up on his newly 
+diagnosed type II diabetes.  He has been very compliant with his 
+medication regimen which consists of metformin 850mg PO t.i.d. and NPH 
+insulin subQ q.AM.  He has had 2 episodes of sweating, but he did not 
+check his blood sugar at the time.  He has not had any frank 
+palpitations or lightheadedness.  He did have 1 episode where he had the 
+sensation of several extra heart beats.  This was not accompanied by 
+other symptoms including no chest pain.  He has never had a fingerstick 
+blood glucose below the mid 150's.  I am looking through his log and see 
+that his AM prebreakfast glucoses have been between 178-306 and before 
+dinner they have been between 157-296.  He has already met several times 
+with Makenzie Kim for diabetes education and for tailoring of his 
+therapy and has met with a nutritionist to review the concepts of a 
+diabetic diet.  
+ 
+On physical exam, he is in no distress, his weight is 231, his blood 
+pressure is 132/78 in the right arm sitting.
+ 
+IMPRESSION AND PLAN: He still has high sugars. I will increase his 
+insulin regimen.  He is amenable to adding a second injection and so his 
+new regimen will be NPH insulin 15 units before breakfast and 15 units 
+before bedtime.  And he continues to take metformin 850mg PO t.i.d. and 
+I have given him a prescription for this, #90, refills 3, as well as 
+syringes and needles, #60, refills 3.  He is to follow up with me in 
+several months and sooner if he has new problems or concerns.  I have 
+advised him about increasing his level of activity and about maintaining 
+his diet and I have also asked him to contact me if he should have any 
+symptoms of hypoglycemia and to obtain his fingerstick glucose reading 
+at that time as well.  
+ 
+ 
+ 
+_________________________
+Xaiden Roberson, M.D.                                                   
+ 
+PZ:WX:4138                                                              
+DD:12-21-88                                                             
+DT:12-23-88                                                             
+DV:12-21-88                                                             
+ ******** Approved but not reviewed by Provider ********
+
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2088-12-21" TYPE="DATE" comment="" />
+<LOCATION id="P1" start="28" end="49" text="POLK GENERAL HOSPITAL" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P3" start="68" end="82" text="42 Lisbon Lane" TYPE="STREET" comment="" />
+<NAME id="P4" start="111" end="125" text="Holden, Matias" TYPE="PATIENT" comment="" />
+<LOCATION id="P5" start="126" end="134" text="Palacios" TYPE="CITY" comment="" />
+<LOCATION id="P6" start="136" end="138" text="NE" TYPE="STATE" comment="" />
+<LOCATION id="P7" start="140" end="145" text="73819" TYPE="ZIP" comment="" />
+<ID id="P8" start="174" end="182" text="97198841" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P9" start="229" end="237" text="12-21-88" TYPE="DATE" comment="" />
+<AGE id="P10" start="257" end="259" text="34" TYPE="AGE" comment="" />
+<NAME id="P11" start="1027" end="1039" text="Makenzie Kim" TYPE="DOCTOR" comment="" />
+<NAME id="P12" start="2066" end="2081" text="Xaiden Roberson" TYPE="DOCTOR" comment="" />
+<NAME id="P13" start="2141" end="2143" text="PZ" TYPE="DOCTOR" comment="" />
+<NAME id="P14" start="2144" end="2146" text="WX" TYPE="DOCTOR" comment="" />
+<ID id="P15" start="2147" end="2151" text="4138" TYPE="IDNUM" comment="" />
+<DATE id="P16" start="2217" end="2225" text="12-21-88" TYPE="DATE" comment="" />
+<DATE id="P17" start="2290" end="2298" text="12-23-88" TYPE="DATE" comment="" />
+<DATE id="P18" start="2363" end="2371" text="12-21-88" TYPE="DATE" comment="" />
+</TAGS>
+</deIdi2b2>

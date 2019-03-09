@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2080-11-30
+
+
+
+Reason for Visit
+
+Owen is a 63 y/o male here for evaluation of treatment. Doin relatively well. 
+
+
+
+Problems
+
+
+
+      OA
+
+
+
+      LLE-PARTIALLY SEVERED-MULT. SURGERIES
+
+
+
+      IRRIDECTOMY
+
+
+
+      SKIN ULCER-DR Esposito
+
+
+
+      PAST SMOKER 
+
+
+
+      HTN
+
+
+
+
+
+Medications
+
+
+
+      ASA       PO 
+
+
+
+      Vitamin E        PO QD : 400 IU 
+
+
+
+      ATENOLOL   25 MG PO QD
+
+
+
+      Lipitor (ATORVASTATIN)    10MG,  1 Tablet(s)  PO QD
+
+
+
+
+
+Allergies
+
+
+
+      NKDA    - NONE
+
+
+
+
+
+Narrative History
+
+Takes meds. No SEs. Denies vision change, headache, chest pain, SOB, light head, palptations. Denies loss of balance, strength or sensation. 
+
+ Pulm- no cough.  Occ wheeze. No SOB.
+
+GI- no nausea, vomitting, dyspepsia, reflux, abdo pain, diarrhea, constipation, melena, BRBPR.
+
+GU- asymp
+
+Locomotor- pain left knee/leg. 
+
+Sees Dr Esposito for chr ulcer. Has surgical boot on now. 
+
+Exercise- no
+
+Diet-no
+
+Cigs-no
+
+ETOH-no
+
+
+
+Exam
+
+BP=132/76 , P= 68, Wt= 261 ; NAD,WD, WN
+
+Head- no tenderness
+
+M&T- moist; no erythema; no exudate; no lesions
+
+Neck- supple with no JVD, bruit, LAN or thyromegaly.
+
+Chest- clear A&P                                                                   Cor- reg rhythm,S1S2 normal with no murmer, gallop or rub
+
+Abdo- obese; normal BS;soft with no HSM,mass or tenderness.  DRE- normal sphincter. Prostate small with no nodules. Brown stool.
+
+Ext- Surg boot LLE. RLE-no edema. 
+
+
+
+Assessment
+
+Normotensive. Increased weight. Did have elevated glucose last visit. 
+
+
+
+Disposition and Plans
+
+CBC,glu,PSA. Decrease weight- increase exercise and eat less. Cont meds. RTC 6 mon or PRN.
+
+______________________________
+
+ William Seth Potter, M.D.
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2080-11-30" TYPE="DATE" comment="" />
+<NAME id="P1" start="48" end="52" text="Owen" TYPE="PATIENT" comment="" />
+<AGE id="P2" start="58" end="60" text="63" TYPE="AGE" comment="" />
+<NAME id="P3" start="242" end="250" text="Esposito" TYPE="DOCTOR" comment="" />
+<NAME id="P4" start="854" end="862" text="Esposito" TYPE="DOCTOR" comment="" />
+<NAME id="P5" start="1664" end="1683" text="William Seth Potter" TYPE="DOCTOR" comment="" />
+</TAGS>
+</deIdi2b2>

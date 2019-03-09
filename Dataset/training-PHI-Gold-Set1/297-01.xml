@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2092-12-27
+
+MARTHA JEFFERSON HOSPITAL
+Stephen A.N. Xayachack, M.D.
+039 Will St                           Vicente, Kadeem
+Sandpoint, MI 58543                             CK759182
+(033) 250-1408                                12-27-92
+ 
+ 
+HPI: Kadeem Vicente comes in today for a follow-up office visit.  The 
+patient was seen by me approximately one month ago as a new patient and 
+whose primary medical concerns a history of coronary artery disease, for 
+which he suffered a "silent heart attack" many years ago, a history of 
+benign prostatic hypertrophy, as well as hypertension and GERD.  As it 
+turns out, the patient had been on Zantac for many, many years, the 
+beneficial effects of which were unknown.  We had decided as of our last 
+meeting to stop this drug and find out if he became symptomatic.  The 
+patient reports today that he is not symptomatic, and thus we will 
+continue to discontinue this medicine.  At this point, the patient does 
+not need the addition of a proton pump inhibitor, such as Prilosec.  
+With regard to the patient's symptoms of benign prostatic hypertrophy, 
+the patient said that he only has taken one dose of the Hytrin, since he 
+wanted to use up all his Minipress, which he tool up until 2 nights ago.  
+Thus it is too early to assess the efficacy of this medication.  It is 
+noted that his blood pressure was 152/74, which is better than it was 
+the last time he was here, which the systolic range was 160-170 and 
+diastolic was 80-90.  The patient reports no new symptomatology other 
+than occasional fatigue, from which he will have to rest.  The patient 
+has no symptoms of congestive heart failure, no shortness of breath, no 
+ankle edema, no JVD by observation, and his laboratory results are 
+remarkably normal, given his medical complaints.  The patient's 
+cholesterol is 190 with a slightly above average triglycerides.  Review 
+of systems otherwise negative.
+ 
+Physical exam is not performed at this time.  Blood pressure was 152/76 
+on the right, 152/76 on the left, temperature was 96.8, respirations 20 
+and unlabored, and pulse was 70.
+ 
+ASSESSMENT/PLAN: This is a 75 year old man with multiple medical 
+problems coming in for follow-up.
+1.   Hypertension - the patient will stay on his Zestril and will use 
+     Hytrin now, both for his hypertension, as well as benign prostatic 
+     hypertrophy.  The patient does speak of some nocturnal dribbling, 
+     and he said he also has urge incontinence, particularly while 
+     standing.  The patient was told that after a trial of Hytrin, which 
+     hopefully can help with his symptoms of benign prostatic 
+     hypertrophy, that this urge incontinency will also be helped.  If 
+     the patient's symptoms continue beyond this, he will be referred to 
+     Urology for possible TUNA procedure.
+ 
+2.   BPH - please see above.  The patient will stay on Hytrin for now.
+ 
+3.   ? coronary artery disease - the patient's cholesterol is 190 with a 
+     slightly above average triglycerides, which is more than acceptable 
+     for this gentleman.  I do not have an HDL in which to judge his 
+     ratio, but I was by the patient before that it runs in the high 40s 
+     MARTHA JEFFERSON HOSPITAL
+Stephen A.N. Xayachack, M.D.
+476 Will St                           Vicente, Kadeem
+Sandpoint, MI 58543                             CK759182
+(033) 250-1408                                12-27-92
+PAGE 2
+ 
+     or low 50s.  Therefore this will be an acceptable ratio without 
+     therapy.  I will get a fasting lipid on the patient probably in 
+     about 6 months, and if there is any derangement in his profile, he 
+     will be put on an antilipid drug.
+ 
+4.   GI - at this point his GERD symptoms have not returned, and what I 
+     will attempt to do is to keep him off his H2 blockers at this 
+     point.  Should his symptoms return, the patient most likely will be 
+     placed on Prilosec.
+ 
+I will seen him in one month for follow-up, primarily for evaluation of 
+his use of Hytrin.
+ 
+ 
+______________________________
+Stephen A.N. Xayachack, M.D.
+ 
+KT:TR:9254
+DD:12-27-92  
+DT:01-01-93
+DV:12-27-92
+ ******** Approved but not reviewed by Attending Provider ********
+
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2092-12-27" TYPE="DATE" comment="" />
+<LOCATION id="P1" start="28" end="53" text="MARTHA JEFFERSON HOSPITAL" TYPE="HOSPITAL" comment="" />
+<NAME id="P2" start="54" end="76" text="Stephen A.N. Xayachack" TYPE="DOCTOR" comment="" />
+<LOCATION id="P3" start="83" end="94" text="039 Will St" TYPE="STREET" comment="" />
+<NAME id="P4" start="121" end="136" text="Vicente, Kadeem" TYPE="PATIENT" comment="" />
+<LOCATION id="P5" start="137" end="146" text="Sandpoint" TYPE="CITY" comment="" />
+<LOCATION id="P6" start="148" end="150" text="MI" TYPE="STATE" comment="" />
+<LOCATION id="P7" start="151" end="156" text="58543" TYPE="ZIP" comment="" />
+<ID id="P8" start="185" end="193" text="CK759182" TYPE="MEDICALRECORD" comment="" />
+<CONTACT id="P9" start="194" end="208" text="(033) 250-1408" TYPE="PHONE" comment="" />
+<DATE id="P10" start="240" end="248" text="12-27-92" TYPE="DATE" comment="" />
+<NAME id="P11" start="258" end="272" text="Kadeem Vicente" TYPE="PATIENT" comment="" />
+<AGE id="P12" start="2136" end="2138" text="75" TYPE="AGE" comment="" />
+<LOCATION id="P13" start="3190" end="3215" text="MARTHA JEFFERSON HOSPITAL" TYPE="HOSPITAL" comment="" />
+<NAME id="P14" start="3216" end="3238" text="Stephen A.N. Xayachack" TYPE="DOCTOR" comment="" />
+<LOCATION id="P15" start="3245" end="3256" text="476 Will St" TYPE="STREET" comment="" />
+<NAME id="P16" start="3283" end="3298" text="Vicente, Kadeem" TYPE="PATIENT" comment="" />
+<LOCATION id="P17" start="3299" end="3308" text="Sandpoint" TYPE="CITY" comment="" />
+<LOCATION id="P18" start="3310" end="3312" text="MI" TYPE="STATE" comment="" />
+<LOCATION id="P19" start="3313" end="3318" text="58543" TYPE="ZIP" comment="" />
+<ID id="P20" start="3347" end="3355" text="CK759182" TYPE="MEDICALRECORD" comment="" />
+<CONTACT id="P21" start="3356" end="3370" text="(033) 250-1408" TYPE="PHONE" comment="" />
+<DATE id="P22" start="3402" end="3410" text="12-27-92" TYPE="DATE" comment="" />
+<NAME id="P23" start="4043" end="4065" text="Stephen A.N. Xayachack" TYPE="DOCTOR" comment="" />
+<ID id="P24" start="4074" end="4084" text="KT:TR:9254" TYPE="IDNUM" comment="" />
+<DATE id="P25" start="4088" end="4096" text="12-27-92" TYPE="DATE" comment="" />
+<DATE id="P26" start="4102" end="4110" text="01-01-93" TYPE="DATE" comment="" />
+<DATE id="P27" start="4114" end="4122" text="12-27-92" TYPE="DATE" comment="" />
+</TAGS>
+</deIdi2b2>

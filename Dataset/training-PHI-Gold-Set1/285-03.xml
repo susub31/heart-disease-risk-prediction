@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2096-12-29
+
+EDVISIT^28297534^OGRADY, MICHAEL^12/29/96^AVILA, KRISTOPHER
+
+CHIEF COMPLAINT:  Chest pressure.
+
+Mr. Ogrady is seen by the resident and also seen and examined by
+
+me.  He is a transfer from an outside hospital to be admitted
+
+because of his chest pain.
+
+HISTORY OF PRESENT ILLNESS:  This is a 67-year-old man who was
+
+loading some luggage in a car this morning at about 4:30 a.m.  At
+
+that time, he experienced acute onset of squeezing, chest pain,
+
+and chest pressure associated with shortness of breath.  He
+
+described his pain as being very intense about 9/10, described
+
+heaviness across his chest and shortness of breath.  He stated
+
+that while he was walking into his place his chest pain got worse
+
+and since then it was intermittent and stuttering in nature.  He
+
+was taken to Muncy Valley Hospital where he was seen, treated,
+
+and transferred here.  He is currently pain free.  At Oakridge State his troponin was negative.  His CPK was
+
+negative.  His EKG showed a Q-wave in III and aVF and had no
+
+acute ST elevation or ST depression on his cardiogram which
+
+correlates with our cardiogram here.
+
+PAST MEDICAL HISTORY:  His history, however, is significant in
+
+that he has a cardiac catheterization that was done in 06/2093. 
+
+At that time, he had proximal LAD lesion of 30%, left main was
+
+30%, and left circumflex was also 30%.  He had an RCA lesion
+
+which was 100%, RCA proximal lesion, with good collateral flow. 
+
+His last echocardiogram was in 03/2093.  At that time, his LV
+
+function was normal and he had an EF of 55% to 60%.  His past
+
+medical history is significant for diabetes and hypertension as
+
+well as high cholesterol, had an myocardial infarction in 2084,
+
+history of metastatic esophageal cancer and history of DVT in his
+
+left lower extremity in 2090.
+
+PAST SURGICAL HISTORY:  He has had an esophagectomy.  He
+
+underwent fem-pop bypass surgery in 2088.  He has also had a
+
+cholecystectomy and appendectomy.
+
+SOCIAL HISTORY:  He is a 40-pack-year smoker.
+
+FAMILY HISTORY:  Also, has a strong family history of cardiac
+
+disease.
+
+MEDICATIONS:  He is now pain free but described his pain this
+
+morning as squeezing, pressure like, and heaviness in his chest.
+
+PHYSICAL EXAMINATION:  His vital signs here are normal.  His
+
+HEENT exam is benign.  His neck is supple with clear lungs
+
+bilaterally.  He has a 3/6 systolic murmur.  He has no rubs or
+
+gallops.  His pulses are normal, well perfused throughout and
+
+warm extremities.  Abdomen is soft without any masses, good bowel
+
+sounds.  Extremities are normal.
+
+LABORATORY DATA:  EKG as described above again, a Q in III and
+
+aVF, otherwise no acute changes on his cardiogram.  His CK is 33
+
+and his troponin is negative.  His creatinine is 1.9 with a BUN
+
+of 27.  All other labs are normal including his blood sugar which
+
+is 156.
+
+EMERGENCY DEPARTMENT COURSE:  The patient's cardiologist is Dr.
+
+ ******** Not reviewed by Attending Physician ********
+
+rule out and maybe even need another cardiac catheterization if
+
+necessary.
+
+DIAGNOSIS:  Chest pain and chest pressure with history of an MI
+
+and history of coronary artery disease.
+
+______________________________
+
+AVILA, KRISTOPHER M.D.
+
+D: 12/29/96
+
+T: 12/29/96
+
+Dictated By: AVILA, KRISTOPHER
+
+eScription document:3-0867902 BFFocus
+
+
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2096-12-29" TYPE="DATE" comment="" />
+<ID id="P1" start="36" end="44" text="28297534" TYPE="MEDICALRECORD" comment="" />
+<NAME id="P2" start="45" end="60" text="OGRADY, MICHAEL" TYPE="PATIENT" comment="" />
+<DATE id="P3" start="61" end="69" text="12/29/96" TYPE="DATE" comment="" />
+<NAME id="P4" start="70" end="87" text="AVILA, KRISTOPHER" TYPE="DOCTOR" comment="" />
+<NAME id="P5" start="128" end="134" text="Ogrady" TYPE="PATIENT" comment="" />
+<AGE id="P6" start="320" end="322" text="67" TYPE="AGE" comment="" />
+<LOCATION id="P7" start="812" end="833" text="Muncy Valley Hospital" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P8" start="917" end="931" text="Oakridge State" TYPE="HOSPITAL" comment="" />
+<DATE id="P9" start="1253" end="1260" text="06/2093" TYPE="DATE" comment="" />
+<DATE id="P10" start="1487" end="1494" text="03/2093" TYPE="DATE" comment="" />
+<DATE id="P11" start="1705" end="1709" text="2084" TYPE="DATE" comment="" />
+<DATE id="P12" start="1803" end="1807" text="2090" TYPE="DATE" comment="" />
+<DATE id="P13" start="1904" end="1908" text="2088" TYPE="DATE" comment="" />
+<NAME id="P14" start="3171" end="3188" text="AVILA, KRISTOPHER" TYPE="DOCTOR" comment="" />
+<DATE id="P15" start="3198" end="3206" text="12/29/96" TYPE="DATE" comment="" />
+<DATE id="P16" start="3211" end="3219" text="12/29/96" TYPE="DATE" comment="" />
+<NAME id="P17" start="3234" end="3251" text="AVILA, KRISTOPHER" TYPE="DOCTOR" comment="" />
+<ID id="P18" start="3273" end="3282" text="3-0867902" TYPE="IDNUM" comment="" />
+</TAGS>
+</deIdi2b2>

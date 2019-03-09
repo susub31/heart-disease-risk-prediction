@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2079-05-08
+
+CARDIOLOGY
+
+ALGIERS MEDICAL CENTER
+
+
+
+Reason for visit:
+
+   Mr. Cortez is seen in follow up for ASMI, sleep apnea, coronary risk factors, glucose intolerance, obesity.
+
+
+
+Interval History:
+
+   The patient relates that he's been feeling reasonably well.  He complains of lightheadedness when he lies down which is lasting only seconds and disappears the instant he puts his head on his pillow.  He took one TNG over the past 6 months for indigestion like sensation.
+
+
+
+He doesn't have any exertional syndrome to suggest angina.
+
+
+
+No syncope, pre-syncope.  No palpitations, no recent weight loss.
+
+
+
+
+
+
+
+Social history:
+
+   Continues to work.  Looking forward to Spring work in his garden.
+
+
+
+Change in therapies and Renewals
+
+ASA 325 mg po qd Start: 05/08/2079
+
+Plavix 75mg po qd Start: 05/08/2079
+
+Toprol XL 25mg po qd Start: 05/08/2079
+
+Lipitor 10mg po qd Start: 05/08/2079
+
+lisinopril 10 mg po qd Start: 05/08/2079
+
+Prilosec 20mg po qd Start: 05/08/2079
+
+Imdur 30 mg SR po qd Start: 05/08/2079
+
+Lasix 10mg po qd Start: 05/08/2079
+
+
+
+Review of systems:
+
+   Most recent PSA was 3.4.  No other new issues.
+
+
+
+Physical examination:
+
+-BP: 146/86  
+
+-Pulse: 75  
+
+-weight: 250  
+
+-General:   No acute distress.
+
+-Skin:   slight drainage from lesion on upper back.  No rash.
+
+-Heent:   Unremarkable
+
+-Neck:   Carotids 2+ without bruits. JVP no jugular venous distention.
+
+-Chest:   Clear to auscultation and percussion.
+
+-Cardiac:   S1 S2.  Soft left sternal border and apical murmur grade 1-2 without radiation.
+
+-Abdomen:   Normal bowel sounds, obese,soft and nontender, with no hepatosplenomegaly or masses appreciated.
+
+-Extremities:   1+ edema bilaterally.
+
+-Musc skel:   Negative
+
+-Neuro:   Fluent, equal motor, symmetric cranial nerves
+
+
+
+Major Problems:
+
+Myocardial infarction (anteroseptal) HISTORY OF
+
+Apical dyskinesis
+
+Sleep apnea HISTORY OF
+
+
+
+Obesity
+
+
+
+Glucose intolerance HISTORY OF
+
+
+
+
+
+Assessment and plan:
+
+   Mr. Cortez is doing reasonably well.  
+
+
+
+I think it would be reasonable to obtain a stress test because he is not significantly active, has glucose intolerance and should be periodically screened for coronary artery disease progression.
+
+
+
+LDL goal should be 60-80 and Lipitor is increased to 20mg hs in this regard.
+
+
+
+BP goal should be 120 systolic and Lisinopril is increased to 20mg from 10mg in this regard,.
+
+
+
+He is strongly encouraged to pursue weightloss this Spring.
+
+
+
+F/U 6 months.
+
+
+
+ETT before visit.
+
+
+
+
+
+
+
+EKG:
+
+   Sinus rhythm, borderline left axis deviation, right bundle branch block with anteroseptal MI, no acute changes
+
+
+
+CC:   Nicholas Osuna, MD
+
+
+
+Signed electronically by   Opal P Garner MD  on  May 13, 2079     
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2079-05-08" TYPE="DATE" comment="" />
+<LOCATION id="P1" start="40" end="62" text="ALGIERS MEDICAL CENTER" TYPE="HOSPITAL" comment="" />
+<NAME id="P2" start="92" end="98" text="Cortez" TYPE="PATIENT" comment="" />
+<DATE id="P3" start="690" end="696" text="Spring" TYPE="DATE" comment="" />
+<DATE id="P4" start="778" end="788" text="05/08/2079" TYPE="DATE" comment="" />
+<DATE id="P5" start="815" end="825" text="05/08/2079" TYPE="DATE" comment="" />
+<DATE id="P6" start="855" end="865" text="05/08/2079" TYPE="DATE" comment="" />
+<DATE id="P7" start="893" end="903" text="05/08/2079" TYPE="DATE" comment="" />
+<DATE id="P8" start="935" end="945" text="05/08/2079" TYPE="DATE" comment="" />
+<DATE id="P9" start="974" end="984" text="05/08/2079" TYPE="DATE" comment="" />
+<DATE id="P10" start="1014" end="1024" text="05/08/2079" TYPE="DATE" comment="" />
+<DATE id="P11" start="1050" end="1060" text="05/08/2079" TYPE="DATE" comment="" />
+<NAME id="P12" start="1957" end="1963" text="Cortez" TYPE="PATIENT" comment="" />
+<DATE id="P13" start="2423" end="2429" text="Spring" TYPE="DATE" comment="" />
+<NAME id="P14" start="2605" end="2619" text="Nicholas Osuna" TYPE="DOCTOR" comment="" />
+<NAME id="P15" start="2654" end="2667" text="Opal P Garner" TYPE="DOCTOR" comment="" />
+<DATE id="P16" start="2676" end="2688" text="May 13, 2079" TYPE="DATE" comment="" />
+</TAGS>
+</deIdi2b2>

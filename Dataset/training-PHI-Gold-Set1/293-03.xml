@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2077-07-30
+
+FOLLOW-UP VISIT: CAD, DM, HTN
+
+
+
+HPI:  The pt is a 71 yo female here for follow-up visit for DM monitoring, lipid management, htn.  She was hospitalized for acute MI last December and is being followed by cardiology.  Since her last follow-up the patient has had no episodes of exertional or rest chest pain, no DOE or SOB.  She was visiting her relatives in Oregon this month and did have one episode of SVT in setting of viral URI.  Experienced sudden onset of palpitations with discomfort, lasted 30 minutes without chest pain, lightheadedness or diaphoresis and then resolved spontaneously.  She has had no further episodes.  She has been compliant with her medications over the last few months and has not experienced any side effects; however, when asked directly, has had 2 or 3 episodes of lightheadedness in morning with abrupt position changes, nothing long-lasting and no near syncope.
+
+     Pt reports blood sugars by finger stick at home of 100-140s generally.  Has had good control by her accounts over last few months.  Was unaware of results of May blood draw with increase in HA1C of 8.0.
+
+
+
+Medical problems:
+
+SVT  
+
+LGI BLEEDING  
+
+SMOKING  
+
+H. PYLORI  
+
+NIDDM  
+
+Coronary artery disease  
+
+Myocardial infarction  
+
+
+
+Current medications:
+
+MICRONASE 5 MG     PO QD  
+
+RANITIDINE HCL   150MG  1 Tablet(s) PO BID  Take as directed 
+
+ATENOLOL   25MG  3 Tablet(s) PO QD One 25 and one 50 mg tab daily 90 day(s)
+
+ZOCOR (SIMVASTATIN)   20MG  1 Tablet(s) PO QHS  Take as directed  90 day(s)
+
+ZESTRIL (LISINOPRIL)   20MG  1 Tablet(s) PO QD  Take as directed  90 day(s)
+
+AMITRIPTYLINE HCL   25MG  1 Tablet(s) PO QHS 
+
+ECASA (ASPIRIN ENTERIC COATED)   325MG  1 Tablet(s) PO QD 
+
+
+
+PE:  bp 130/72 p 72  wt 213 (up from 203)
+
+chest: CTA B
+
+cor: RRR nl s1 s2, no murmurs
+
+abd: soft NT ND with normal BS
+
+ext: normal pulses, no edema
+
+
+
+Labs:  last hemoglobin A1C in 5/77 of 8.0, gluc 192, LDL 115, TG 71, HDL 36
+
+
+
+A/P:  71 yo female with DM, HTN, and heart disease with slightly worsening glycemic and lipid control when tested 2 months ago, perhaps related to modest weight gain of 10 lbs.
+
+     1. DM - pt with rising A1C despite good FS at home.  Given pt feels control has improved since last visit, will stall on changing micronase until next visit at one month.  Pt to have repeat a1c at that point, and if still high, will double micronase.  Good bp control on zestril.  Had microalb this year.  Still awaiting visit to ophthal - gave pt another referral.
+
+     2. CAD - pt with LDL of 115 when previously well controlled on this dose of zocor.  After negotiation with patient, have agreed to wait to raise dose until next visit as well.  Would benefit from 30 mg tab.  Otherwise TG look good.  Pt with episode of SVT in setting of viral illness.  BP and pulse will tolerate small increment in b-blocker.  Given known CAD without intervention, impt to control SVTs.  Increase atenolol to 100 mg QD, keep zestril at current dose.
+
+     3. HM - pt refuses mammogram.  She continues to be suspicious that screening tests are experimental and given her age "wouldn't change anything."  Discussed baseline bone density test, and she has agreed to consider this.  Refused colonscopy at this point.  
+
+
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2077-07-30" TYPE="DATE" comment="" />
+<AGE id="P1" start="79" end="81" text="71" TYPE="AGE" comment="" />
+<DATE id="P2" start="199" end="207" text="December" TYPE="DATE" comment="" />
+<LOCATION id="P3" start="387" end="393" text="Oregon" TYPE="STATE" comment="" />
+<DATE id="P4" start="1089" end="1092" text="May" TYPE="DATE" comment="" />
+<DATE id="P5" start="1901" end="1905" text="5/77" TYPE="DATE" comment="" />
+<AGE id="P6" start="1956" end="1958" text="71" TYPE="AGE" comment="" />
+</TAGS>
+</deIdi2b2>

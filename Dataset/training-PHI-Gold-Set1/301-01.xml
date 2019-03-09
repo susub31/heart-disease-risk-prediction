@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2074-10-01
+Office Note   Bobbie Albert #7000963		     Tuesday, October 01, 2074
+
+
+
+
+
+Reason for visit
+
+Mr. Albert is a 39-year-old American man status post bilateral lung transplantation due to cystic fibrosis and a history of HCV. He now presents with rising creatinine over the past three months and is referred by Dr. Benjamin Earnest.
+
+
+
+Previous History and HPI
+
+1)	CKD     Normal renal function until transplantation in 8/03/73, Crea 0.9 (weight 280lb). ARF during transplant admission, peak Crea 2.9. Post-tx Creatinine 1.8    2.0. Slow rise to 2.5 in 6/74, then episode of low blood pressure and fatigue. Cellcept and Norvasc were stopped. Crea rise from 1.8 to 3.3, yesterday 3.0. No foamy urine noted. Since 12/73 receives Parmidronate IV q3months. Estimated creatinine clearance 50-65ml/min.
+
+2)	Cystic fibrosis     h/o multiple pneumonia, also aspergillus pneumonia. During admission for transplantation  7/73 MRSA sinusitis. 10/73 pneumomedistinum.
+
+3)	h/o HCV postive 60-68, since then negative x2
+
+4)	Hypertension.
+
+5)	Hypercholesterolemia
+
+6)	Gout for several years, several attacks, responding to Colchizine
+
+7)	Obstructive sleep apnea, on Bipap
+
+8)	Obesity, 340 lb peak post transplant, now 326 lb
+
+9)	AVN right knee and hip
+
+
+
+Allergies
+
+NKDA
+
+
+
+Medications
+
+Neoral 150/175 bid, Prednison 15 qod, Bactrim SS tiw, Acyclovir 200 bid, Lipitor 40, Atenolol 50, MgGluconate 500 tid, Ca 600 bid, Vit D 50,000, Reglan 10 tid. Pamidronate IV q3months
+
+
+
+Social-, Work-, and Family- History
+
+Married with other lung transplant recipient (tx 9 years ago). No family history of renal disease. Nonsmoker, Marketing Manager.
+
+
+
+ROS:
+
+Good appetite, no skin itching. Drinks little according to wife. Poor energy level. Heart, lung, GI system without abnormal finding. No renal stones, no recurrent UTIs, urine amount unchanged. Occasional cramping while walking. Exercises in fitness studio.
+
+
+
+Physical Exam
+
+BP     R 150/105  L  145/100		HR    	64	weight 327 lbs. 
+
+FS limited due to cataract. Moon facies, short neck.
+
+OC     moist tongue. JVP ~ 8 cm.
+
+No bruit neck/abdomen. distant heart sounds. Lungs clear.
+
+Abdomen soft, spleen not palpated, liver ~12cm. Trace edema.
+
+Appeared oriented, appropriate concerns. Speaks slowly.
+
+
+
+Laboratory Values
+
+9/30/74	Na 142, K 3.8,  Cl 106, Co2 24, BUN 35, Crea 3.0, Glu 85. 
+
+Alb/tProt 3.5/7.5, Ca 8.9, Phos 3.5, Mg 1.1. AP 175.
+
+ 	WBC 7.2, Hgb 10.8, PLT 217
+
+ 	CyA 236, TGL 323, Chol 175, LDL 81, HDL 29.			
+
+
+
+Today	UA     1.015/5.0/1+P. 
+
+	Sed     one cast with dense pigmented inclusion (?cells),otherwise bland.
+
+
+
+Impression and Plan
+
+Mr Albert has progressive renal insufficiency, he does currently not require renal replacement therapy. Contributors may be Cyclosporine toxicity and intermittent dehydration. However, the recent more rapid rise makes biphosphonate toxicity or HCV-associated renal disease a worthy consideration. Bobbie also has uncontrolled hypertension and anemia.
+
+
+
+I took the liberty to order a 24-hour urine collection, a kidney US, as well as SPEP, UPEP, cryoglobulin level, Fe-studies. Norvasc 5mg PO qd was also returned to his regiment. For now, I suggest to hold further infusions of Parmidronate until more data is available.
+
+
+
+Bobbie will have a blood pressure check in 2 weeks (when he is in Nappanee for another appointment), and I will see him in four weeks. At that point he will be evaluated for Epogen/Aranesp.
+
+
+
+
+
+
+
+
+
+Thomas Yockey, MD. 
+
+Renal Fellow
+
+(for Dr. Yousef Pugh)
+
+
+
+
+
+
+
+CC: Dr Benjamin Earnest
+
+
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2074-10-01" TYPE="DATE" comment="" />
+<NAME id="P1" start="41" end="54" text="Bobbie Albert" TYPE="PATIENT" comment="" />
+<ID id="P2" start="56" end="63" text="7000963" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P3" start="70" end="95" text="Tuesday, October 01, 2074" TYPE="DATE" comment="" />
+<NAME id="P4" start="123" end="129" text="Albert" TYPE="PATIENT" comment="" />
+<AGE id="P5" start="135" end="137" text="39" TYPE="AGE" comment="" />
+<NAME id="P6" start="337" end="353" text="Benjamin Earnest" TYPE="DOCTOR" comment="" />
+<DATE id="P7" start="442" end="449" text="8/03/73" TYPE="DATE" comment="" />
+<DATE id="P8" start="575" end="579" text="6/74" TYPE="DATE" comment="" />
+<DATE id="P9" start="734" end="739" text="12/73" TYPE="DATE" comment="" />
+<DATE id="P10" start="933" end="937" text="7/73" TYPE="DATE" comment="" />
+<DATE id="P11" start="954" end="959" text="10/73" TYPE="DATE" comment="" />
+<DATE id="P12" start="998" end="1003" text="60-68" TYPE="DATE" comment="" />
+<PROFESSION id="P13" start="1628" end="1645" text="Marketing Manager" TYPE="PROFESSION" comment="" />
+<DATE id="P14" start="2276" end="2283" text="9/30/74" TYPE="DATE" comment="" />
+<NAME id="P15" start="2612" end="2618" text="Albert" TYPE="PATIENT" comment="" />
+<NAME id="P16" start="2906" end="2912" text="Bobbie" TYPE="PATIENT" comment="" />
+<NAME id="P17" start="3234" end="3240" text="Bobbie" TYPE="PATIENT" comment="" />
+<LOCATION id="P18" start="3300" end="3308" text="Nappanee" TYPE="CITY" comment="" />
+<NAME id="P19" start="3433" end="3446" text="Thomas Yockey" TYPE="DOCTOR" comment="" />
+<NAME id="P20" start="3477" end="3488" text="Yousef Pugh" TYPE="DOCTOR" comment="" />
+<NAME id="P21" start="3504" end="3520" text="Benjamin Earnest" TYPE="DOCTOR" comment="" />
+</TAGS>
+</deIdi2b2>

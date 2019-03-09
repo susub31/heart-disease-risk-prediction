@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2059-08-07
+
+                     PCC EMERGENCY DEPT VISIT
+
+ 
+
+FERRARA,LAUREN   481-85-43-7                       VISIT DATE: 08/07/59
+
+I have examined and treated the patient myself as well as reviewed 
+
+and confirmed the resident's detailed documentation.
+
+HISTORY OF PRESENTING COMPLAINT:  Briefly, this 68-year-old woman 
+
+with a history of diabetes and a past history of ulcers on the 
+
+right foot complains of increased pain on the right leg over the 
+
+past three days.  It was worse yesterday.  It was slightly better 
+
+today.  She has not really been able to get out of bed secondary to 
+
+the pain, whereas she is usually very active.  She denies fever, 
+
+chills, palpitations, and diarrhea.  She has not recently checked 
+
+her blood sugar.
+
+PAST MEDICAL HISTORY:  Diabetes mellitus, hypothyroidism, dementia, 
+
+chronic ulcer of left great toe.  Past surgical history:  
+
+Hysterectomy in the distant past.
+
+PHYSICAL EXAMINATION:  VITAL SIGNS:  Temperature 97.2, pulse 70, 
+
+respirations 18.  Blood pressure was initially 241/90.  HEENT:  
+
+Within normal limits.  NECK:  Within normal limits.  LUNGS:  Within 
+
+normal limits.  HEART:  Normal except for a 3/6 systolic ejection 
+
+murmur.  ABDOMEN:  Soft and nontender.  EXTREMITIES:  Normal pulses 
+
+throughout except that most of the pulses are heard only by 
+
+Doppler, and on the left posterior tibial and dorsalis pedis pulses 
+
+there is no Doppler pulse available.  The lower extremities are 
+
+both cool and somewhat modeled to the mid thigh.  Toes are somewhat 
+
+dusky.  There is a 5 x 5-mm shallow ulcer on the medial aspect of 
+
+the left great toe.  
+
+THERAPY RENDERED/COURSE IN ED:  The Orthopedic Service was 
+
+consulted and did AVIs and PVRs which indicated an ischemic lower 
+
+extremity with a question of aortoiliac disease versus thrombus.
+
+CONSULTATIONS (including PCP):  Orthopedic Service.
+
+FINAL DIAGNOSIS:  Arterial insufficiency.
+
+DISPOSITION (including condition upon discharge):  The patient is 
+
+being admitted to the Orthopedic Service, is not being heparinized 
+
+at present; and a decision of angiography or MRA will be 
+
+considered.  The patient was admitted to the hospital in stable 
+
+condition.
+
+___________________________________                    YC253/88823 
+
+LOGAN COLEMAN, M.D.       LC2                         D:08/07/59 
+
+                                                       T:08/08/59 
+
+Dictated by:  LOGAN COLEMAN, M.D.       LC2 
+
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2059-08-07" TYPE="DATE" comment="" />
+<LOCATION id="P1" start="49" end="52" text="PCC" TYPE="HOSPITAL" comment="" />
+<NAME id="P2" start="78" end="92" text="FERRARA,LAUREN" TYPE="PATIENT" comment="" />
+<ID id="P3" start="95" end="106" text="481-85-43-7" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P4" start="141" end="149" text="08/07/59" TYPE="DATE" comment="" />
+<AGE id="P5" start="322" end="324" text="68" TYPE="AGE" comment="" />
+<ID id="P6" start="2250" end="2261" text="YC253/88823" TYPE="IDNUM" comment="" />
+<NAME id="P7" start="2264" end="2277" text="LOGAN COLEMAN" TYPE="DOCTOR" comment="" />
+<NAME id="P8" start="2290" end="2293" text="LC2" TYPE="USERNAME" comment="" />
+<DATE id="P9" start="2320" end="2328" text="08/07/59" TYPE="DATE" comment="" />
+<DATE id="P10" start="2388" end="2396" text="08/08/59" TYPE="DATE" comment="" />
+<NAME id="P11" start="2413" end="2426" text="LOGAN COLEMAN" TYPE="DOCTOR" comment="" />
+<NAME id="P12" start="2439" end="2442" text="LC2" TYPE="USERNAME" comment="" />
+</TAGS>
+</deIdi2b2>

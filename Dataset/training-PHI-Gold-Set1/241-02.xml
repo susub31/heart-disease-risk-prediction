@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2074-12-05
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+December 05, 2074
+ 
+ 
+Paul Arteaga, M.D.
+228 Caldwell Road
+Colorado City,  NY  43414
+ 
+RE:  Christine Olivier
+     MR #652-33-21-5
+ 
+Dear Dr. Arteaga:
+ 
+Mrs. Olivier returns for routine follow-up.  Currently, she
+complains of mild exertional fatigue and rare exertional chest
+discomfort.  In addition, she states that she has no energy and
+worries that her coronary artery pathology has returned.  She
+reports occasionally taking sublingual nitroglycerin for chest
+discomfort but this is on an infrequent basis.  
+ 
+She remains on a plethora of medications including NPH insulin 64
+units sub q qAM along with 34 units CZI sub q qAM and 68 units NPH
+sub q qPM, enteric coated aspirin one tab po q.d., Captopril 25 mg
+po t.i.d., Lasix 40 mg po b.i.d., simvastatin 10 mg po q.d.,
+amlodipine 5 mg po q.d., Neurontin 900 mg po t.i.d., atenolol 50 mg
+po q.d., estrogen 0.05 topically q three days and a nitropatch .2
+mg per twenty-four hours which she wears for twelve over 
+twenty-four hour period.
+ 
+Physical exam reveals a well-nourished woman in no acute distress. 
+Blood pressure right arm sitting 140/80, heart rate 85 and regular,
+respirations 12 and unlabored, weight 174 pounds.  The neck is
+supple.  JVP flat.  Carotids are 2+ without significant bruits. 
+Chest is completely clear.  Cardiac exam shows a normal S1,
+physiologically split S2 and a I-II/VI systolic ejection murmur
+radiating from the apex to the base, no significant diastolic
+murmur or rub.  The abdomen is benign.  Extremities without
+appreciable edema.  Peripheral pulses are intact.
+ 
+Electrocardiogram shows sinus rhythm at a rate of 85.  PR interval
+of .14, QRS .08, QT .32, axis -20 degrees.  There are mild diffuse
+nonspecific ST-T wave changes as well as evidence for left
+ventricular hypertrophy.  Compared to her last electrocardiogram,
+her heart rate is slower and her ST-T wave changes are less
+prominent.
+ 
+ 
+Olivier, Christine
+MR #652-33-21-5               -2-            December 05, 2074
+ 
+Impression:  Mrs. Olivier has currently recovered from her 
+multi-lesion PTCA and stent placement therapy.  Currently it is not
+clear to me that her symptoms are secondary to recurrent ischemia,
+however I will have her undergo an exercise tolerance test
+(adenosine MIBI) to help to further evaluate this.  In addition, I
+will obtain routine blood studies including an glycosylated
+hemoglobin.  It is certainly possible that her fatigue and
+generalized sense of lack of energy is from a non-cardiac cause. 
+Pending review of these lab studies however, I have not altered her
+present regimen.  She will contact you or myself should her chest
+pain syndrome at all progress in terms of severity or duration.  
+ 
+Thank you very much for allowing me to assist in her care.
+ 
+Sincerely yours,
+ 
+ 
+ 
+Irineo Tovar, M.D.
+Vereen Memorial Hospital
+47 Waverly St
+Colorado City,  NY  88736
+ 
+DD: 12/05/74
+DT: 12/08/74
+DV: 12/05/74
+ 
+/outlaw
+ 
+ ******** Approved but not reviewed by Attending Provider ********
+
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2074-12-05" TYPE="DATE" comment="" />
+<DATE id="P1" start="42" end="59" text="December 05, 2074" TYPE="DATE" comment="" />
+<NAME id="P2" start="64" end="76" text="Paul Arteaga" TYPE="DOCTOR" comment="" />
+<LOCATION id="P3" start="83" end="100" text="228 Caldwell Road" TYPE="STREET" comment="" />
+<LOCATION id="P4" start="101" end="114" text="Colorado City" TYPE="CITY" comment="" />
+<LOCATION id="P5" start="117" end="119" text="NY" TYPE="STATE" comment="" />
+<LOCATION id="P6" start="121" end="126" text="43414" TYPE="ZIP" comment="" />
+<NAME id="P7" start="134" end="151" text="Christine Olivier" TYPE="PATIENT" comment="" />
+<ID id="P8" start="161" end="172" text="652-33-21-5" TYPE="MEDICALRECORD" comment="" />
+<NAME id="P9" start="184" end="191" text="Arteaga" TYPE="DOCTOR" comment="" />
+<NAME id="P10" start="200" end="207" text="Olivier" TYPE="PATIENT" comment="" />
+<NAME id="P11" start="1934" end="1952" text="Olivier, Christine" TYPE="PATIENT" comment="" />
+<ID id="P12" start="1957" end="1968" text="652-33-21-5" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P13" start="1998" end="2015" text="December 05, 2074" TYPE="DATE" comment="" />
+<NAME id="P14" start="2036" end="2043" text="Olivier" TYPE="PATIENT" comment="" />
+<NAME id="P15" start="2810" end="2822" text="Irineo Tovar" TYPE="DOCTOR" comment="" />
+<LOCATION id="P16" start="2829" end="2853" text="Vereen Memorial Hospital" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P17" start="2854" end="2867" text="47 Waverly St" TYPE="STREET" comment="" />
+<LOCATION id="P18" start="2868" end="2881" text="Colorado City" TYPE="CITY" comment="" />
+<LOCATION id="P19" start="2884" end="2886" text="NY" TYPE="STATE" comment="" />
+<LOCATION id="P20" start="2888" end="2893" text="88736" TYPE="ZIP" comment="" />
+<DATE id="P21" start="2900" end="2908" text="12/05/74" TYPE="DATE" comment="" />
+<DATE id="P22" start="2913" end="2921" text="12/08/74" TYPE="DATE" comment="" />
+<DATE id="P23" start="2926" end="2934" text="12/05/74" TYPE="DATE" comment="" />
+<NAME id="P24" start="2938" end="2944" text="outlaw" TYPE="DOCTOR" comment="" />
+</TAGS>
+</deIdi2b2>

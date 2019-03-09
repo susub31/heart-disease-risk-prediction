@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2081-06-10
+
+
+
+Attending Admission Note
+
+
+
+HPI
+
+52 year old woman with DM and h/o gastroparesis who presented with nausea and vomiting.  She was last admitted one week ago with N/V and treated for gastroparesis.  Her diabetes has been poorly controlled with her last hemoglobin A1c over 12 in April of 2081.  She has had recurrent episodes of nausea and vomiting.  During this past year in January, she was admitted to Missouri Baptist Hospital.  She had a negative EGD, and HIDA scan showed low ejection fraction to cholecystokinase.  She underwent a laparoscopic cholecystectomy.  She was admitted again a few weeks later to Missouri Baptist and had a gastric emptying study, which was consistent with gastroparesis.  In February, she was seen in the Philadelphia State Hospital Emergency Room with nausea and vomiting and had a KUB, which showed significant stool.  She presented again on 02/11/2081 and had an abdominal CT that showed thickening of the terminal ileum and possible thickening of the gastric and possible duodenal wall.  GI was consulted and the colonoscopy done on 02/14/2081 was normal, but did not visualize the terminal ileum.  A small-bowel follow-through on 02/16/2081 was normal.  She was discharged on a regimen of Reglan and erythromycin.  Since February, she has been seen multiple times in the outpatient clinic as well as medical walk-in.  She reports being complaint with her regimen of erythromycin 250 mg four times a day and Reglan 10 mg twice a day.  She was also recently started on Glucophage titrating up to 1000 mg b.i.d. as she had difficulty with multiple short per day regimen of insulin administration.  
+
+
+
+She was admitted from 5/31-6/2 and treated with IV Zofran and enemas.  GI saw the pt and recommended increasing reglan to TID and adding colace and miralax.  She also had a head CT to r/o mass lesion causing the nausea, and this was negative.  At the time of d/c, her nausea had decreased.  She states that the N/V did not improve much since that admission, and she has not been able to eat much.  She has pain throughout her abdomen.  She denies f/c, diarrhea, constipation, dysuria, hematemesis, or melena.
+
+
+
+Problems
+
+Diabetes mellitus : since 2060's, poorly controlled
+
+Hypertension 
+
+Gastroparesis : N/V due to diabetes
+
+Retinopathy : due to AODM, s/p first laser treatment 3/81, sees Ophtho in Stanwood
+
+S/P cholecystectomy 
+
+S/P TAH/BSO : menopause at age 86, had some hot flashes which are slowing improving. 
+
+
+
+Medications
+
+Metformin 1000 MG (500MG TABLET take 2) PO BID 
+
+Erythrocin ETHYL SUCCINATE SUSP (ERYTHROMYCIN) 250MG TABLET PO QID 
+
+Asa (ACETYLSALICYLIC ACID) 325 MG (325MG TABLET take 1) PO QD 
+
+Lisinopril 40MG TABLET PO QAM 
+
+Reglan (METOCLOPRAMIDE HCL) 10 MG (10MG TABLET take 1) PO TID 
+
+Lantus (INSULIN GLARGINE) 40 U SC QHS
+
+Atenolol 50 mg po QD
+
+Colace 2 tablets QHS 
+
+Miralax 17 gm QOD
+
+Zofran 8 mg po BID prn nausea
+
+
+
+Allergies
+
+PERCOCET - GI upset, 
+
+
+
+Social History	
+
+Lives alone; work- biological technician; no smoking; Etoh- none.
+
+
+
+Family History	
+
+Brother with DM.
+
+
+
+Review of Systems	
+
+No dizziness, F/C, cough, SOB, CP, dysuria, joint pain.
+
+
+
+Physical Exam	
+
+BP: 162/78     T: 98.6   P: 84    RR: 18
+
+GENERAL: 	Appears sleepy in her bed.
+
+SKIN:		NL turgor, no abnormal lesions
+
+CHEST:	            Clear lungs, NL frame
+
+COR:		NL S1S2, no murmur, rubs, or gallops.
+
+ABD:		Hypoactive BS; diffuse tenderness but no guarding or rebound; no HSM.
+
+EXT:		No edema, clubbing, or cyanosis
+
+NEURO:	            NL MS
+
+
+
+Assessment and Plan	
+
+1.  Nausea/vomiting:  Most likely secondary to her gastroparesis.  Her amylase and lipase are also elevated, raising the question of pancreatitis as well.  Will check abd-pelvic CT.  NPO with IVF.  Continue Reglan and erythromycin.  GI has been consulted for further recommendations.  Morphine prn abdominal pain.
+
+2.  DM: Continue glucophage.  Adjust insulin depending on BS. 
+
+3.  HTN:  Continue lisinopril and atenolol. 
+
+
+
+
+
+_____________________________________________
+
+Mildred D. Yunker, M.D.
+
+
+
+
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2081-06-10" TYPE="DATE" comment="" />
+<AGE id="P1" start="63" end="65" text="52" TYPE="AGE" comment="" />
+<DATE id="P2" start="308" end="321" text="April of 2081" TYPE="DATE" comment="" />
+<DATE id="P3" start="405" end="412" text="January" TYPE="DATE" comment="" />
+<LOCATION id="P4" start="434" end="459" text="Missouri Baptist Hospital" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P5" start="642" end="658" text="Missouri Baptist" TYPE="HOSPITAL" comment="" />
+<DATE id="P6" start="738" end="746" text="February" TYPE="DATE" comment="" />
+<LOCATION id="P7" start="768" end="795" text="Philadelphia State Hospital" TYPE="HOSPITAL" comment="" />
+<DATE id="P8" start="907" end="917" text="02/11/2081" TYPE="DATE" comment="" />
+<DATE id="P9" start="1100" end="1110" text="02/14/2081" TYPE="DATE" comment="" />
+<DATE id="P10" start="1198" end="1208" text="02/16/2081" TYPE="DATE" comment="" />
+<DATE id="P11" start="1289" end="1297" text="February" TYPE="DATE" comment="" />
+<DATE id="P12" start="1689" end="1693" text="5/31" TYPE="DATE" comment="" />
+<DATE id="P13" start="1694" end="1697" text="6/2" TYPE="DATE" comment="" />
+<DATE id="P14" start="2215" end="2221" text="2060's" TYPE="DATE" comment="" />
+<DATE id="P15" start="2347" end="2351" text="3/81" TYPE="DATE" comment="" />
+<LOCATION id="P16" start="2368" end="2376" text="Stanwood" TYPE="CITY" comment="" />
+<AGE id="P17" start="2431" end="2433" text="86" TYPE="AGE" comment="" />
+<PROFESSION id="P18" start="2988" end="3009" text="biological technician" TYPE="PROFESSION" comment="" />
+<NAME id="P19" start="4018" end="4035" text="Mildred D. Yunker" TYPE="DOCTOR" comment="" />
+</TAGS>
+</deIdi2b2>

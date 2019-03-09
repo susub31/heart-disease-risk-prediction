@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2083-10-18
+
+
+	CARDIOLOGY
+	
+
+	WETZEL COUNTY HOSPITAL
+	
+
+
+	Reason for visit:
+   Mr Qazi returns for followup of his coronary disease.
+
+
+	Interval History:
+   He was recently transferred in January to the WCH after presenting to the Florida Hospital Orlando with a non ST segment elevation MI in the anterolateral zone. He underwent angioplasty and stenting of his proximal LAD using a 2.5 x 13 mm Cypher drug eluting stent.
+
+He has no symptoms of chest pain or pressure, no palpitations dyspnea or orthopnea.
+
+He has gained some weight and needs to work on that.
+
+
+	Past medical history:
+   1. CAD:
+-Cath 1/73: 80% prox RCA stenosis w/ thrombus, mod D1 stenosis, clear Lcx.  LV gram EF 69%, normal motion. 
+-Cath 9/81: Critical proximal ramus lesion.  RCA with proximal 40% lesion, patent RCA stent. Patent left main, apical LAD with 99% lesion with L-L collaterals. Cfx 35% mid lesion. Normal LVEDP, no AS.  LVf 50-55%.
+-Also with h/o RCA stent, unclear where procedure was done and patient unable to recall details.
+2. HTN
+3. Hyperlipidemia
+
+	
+
+
+	Medications (Confirmed):
+
+	
+Ecotrin  325 mg po daily
+Lipitor  80mg po daily
+nitroglycerin  0.4 mg sl every 5 minutes PRN chest pain
+Plavix  75mg po daily
+Toprol XL  50 mg mg po bid
+Tricor  48mg po daily
+
+
+	Family history:
+   Mother: deceased in 60's with leukemia
+Father: extensive CAD, with first MI in 50's.  Had MI x7, died in 70s.
+
+
+
+	Social history:
+   He runs  Mason house,a halfway home.  He has h/o drug/ETOH abuse but denies x 25 years.  He is not married, no children.
+Tobacco: + for 40 years 2-4ppd.
+
+
+
+	Review of systems:
+   There are no new findings except as above.
+
+All the following a normal or negative: General: Unexpected weight gain or weight loss, night sweats fever or chills. Head and neck: Headaches, dizzy spells hoarseness. Respiratory: Cough wheezing, sputum production, hemoptysis. Cardiovascular: See history above. Gastrointestinal: Frequent heartburn or indigestion, difficulty swallowing, nausea vomiting jaundice, unusual constipation or diarrhea, black or bloody stools. Urinary: Frequent urination at night, urinary infections, kidney stones, blood in the urine. Neurologic: Transient paralysis, seizures, loss of vision in one eye, numbness or tingling in the feet. Hematologic: Easy bruising, recurrent infections. Skin: New rashes or eruptions, poor healing of foot sores, moles changing in size or color. Endocrine: Polyuria, polydipsia, heat or cold intolerance. Musculoskeletal: Low back pain, joint pains, joint swelling.
+
+
+Physical examination:
+	
+-temp:    afebrile
+-Pulse: 60  
+-resp. rate: 14  
+-General:   No acute distress.
+-Skin:   No rashes, anicteric.
+-HEENT:   Unremarkable
+-Neck:   Carotids 2+ without bruits. JVP no jugular venous distention.
+-Chest:   Clear to auscultation and percussion.
+-Cardiac:   Left ventricular impulse discrete and nondisplaced. Regular rate and rhythm, normal S1 and S2, with no S3 or S4. There were no murmurs, clicks or rubs.
+-Abdomen:   Normal bowel sounds, soft and nontender, with no hepatosplenomegaly or masses appreciated.
+-Extremities:   No edema. 2+ PT bilateral
+-BP: 120/70  
+
+
+	EKG:
+   Normal sinus rhythm with incomplete right bundle branch block. there are very small Q-waves in leads V2 V3 V4 and V5 The tracing is  Unchanged
+
+Selected recent labs:
+
+	 In April following his last visit his total cholesterol was 104, triglycerides 70, HDL 40 and LDL 50. Glycohemoglobin was 8.5.
+	
+
+
+	Assessment and plan:
+     He is doing quite well at this point and has no symptoms he will remain on his present medications and I will see him again in another year.
+
+	
+Quinten B. Prado, MD pager #82910
+
+	
+cc:  Ezra Tovar M.D.
+
+	
+Signed electronically by  Quinten B. Prado, MD
+Document Status: Final
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2083-10-18" TYPE="DATE" comment="" />
+<LOCATION id="P1" start="45" end="67" text="WETZEL COUNTY HOSPITAL" TYPE="HOSPITAL" comment="" />
+<NAME id="P2" start="97" end="101" text="Qazi" TYPE="PATIENT" comment="" />
+<DATE id="P3" start="203" end="210" text="January" TYPE="DATE" comment="" />
+<LOCATION id="P4" start="218" end="221" text="WCH" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P5" start="246" end="270" text="Florida Hospital Orlando" TYPE="HOSPITAL" comment="" />
+<DATE id="P6" start="619" end="623" text="1/73" TYPE="DATE" comment="" />
+<DATE id="P7" start="727" end="731" text="9/81" TYPE="DATE" comment="" />
+<AGE id="P8" start="1308" end="1312" text="60's" TYPE="AGE" comment="" />
+<AGE id="P9" start="1367" end="1371" text="50's" TYPE="AGE" comment="" />
+<AGE id="P10" start="1393" end="1396" text="70s" TYPE="AGE" comment="" />
+<LOCATION id="P11" start="1430" end="1441" text="Mason house" TYPE="ORGANIZATION" comment="" />
+<DATE id="P13" start="3313" end="3318" text="April" TYPE="DATE" comment="" />
+<NAME id="P14" start="3612" end="3628" text="Quinten B. Prado" TYPE="DOCTOR" comment="" />
+<CONTACT id="P15" start="3640" end="3645" text="82910" TYPE="PHONE" comment="" />
+<NAME id="P16" start="3654" end="3664" text="Ezra Tovar" TYPE="DOCTOR" comment="" />
+<NAME id="P17" start="3699" end="3715" text="Quinten B. Prado" TYPE="DOCTOR" comment="" />
+</TAGS>
+</deIdi2b2>

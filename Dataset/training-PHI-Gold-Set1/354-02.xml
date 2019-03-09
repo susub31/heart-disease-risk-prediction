@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2095-09-04
+
+ADULT PHYSICAL EXAM VISIT
+DATE:
+9/04/95
+
+New pt to me; previously cared for by Dr. Winston, Dr. Dye.
+
+pt nearly 20 min late for 30 min appt
+
+CONCERNS:
+1. Need refill on cholesterol med
+
+
+
+PMH/PROBLEM LIST:
+CHRONIC JOINT PAIN 
+GERDS
+INTERTRIGO 
+Htn
+dyslipidemia
+dm
+avnrt 2094 
+obesity
+rbbb
+oa
+mild rhabdo thought to be due to crestor
+neg dipyridamole myocardial PET scan 8/94 (no flow limiting CAD, nl LV fxn)
+
+
+MEDICATIONS:
+albuterol inh 
+oyst-cal 500 w/ vit D -- 1 tab bid
+tramadol 50 mg tabs  -- 1 tab q 6 hrs
+metformin 500 mg po bid 
+avandia 8 mg po qd 
+lisnopril 10 mg po qd
+hctz 25 mg po qd 
+asa 81 mg po qd 
+atenolol 50 mg po qd
+omeprazole 20 mg po qd 
+loratadine 10 mg po qd 
+1 touch lancets
+1 touch blood glucose strips 
+2 touch monitor
+fosamax 70 mg tabs , 1 tab q wk
+doxepin 25 mg po qd 
+amitriptyline 10 mgpo qd 
+cholesterol med - hasn't taken in 1.5 months 
+
+ALLERGIES:
+crestor --rhabdo
+
+SOCIAL HISTORY and HABITS:
+Tobacco: no
+Alcohol: no
+Recreational Drugs: none
+Sexual History: yes, doesn't use condoms
+Diet:  pt says is varied. 
+Exercise: walks a little
+Seat Belts: yes
+
+
+REVIEW OF SYSTEMS:
+
+cough --
+reports 2 weeks of cough; associated w/ tickling senstation in throat
+no nasal discharge, no fever
+
+ 
+leg pain -- 
+years in duration
+told she had arthritis
+
+
+PHYSICAL EXAM
+VS: 206 1/2 lb  59.75 inches 98.5  126/92  72
+GENERAL: Well-appearing, in no apparent distress.
+SKIN: No suspicious lesions.
+HEENT: Head normocephalic, atraumatic.  Sclerae and conjunctiva unremarkable.  EOMI.    No nasal discharge.  Mucous membranes moist with no erythema, lesions, or exudate.
+NECK:  no lymphadenopathy, no thyroidmegaly.  
+PULM: No accessory muscle use.  Clear to auscultation without wheezes, rhonchi, or rales.  
+CV: RRR, normal S1,S2, no murmur/rug/or gallop.
+BREASTS: symmetric.  No nipple or skin abnormalities, no mass lesions, no axillary nodes.
+ABDOMEN: Soft, non-tender, non-distended with no HSM.
+GYN: Derferred as had pelvic, PAP earlier this year.
+NEURO: Alert, oriented.
+
+ASSESSMENT and PLAN:
+This is a a 68 yr old f with the following issues:
+
+#1 Routine Health Maintenance:
+--PAP; pt reports had nl PAP this year w/ Dr. Dye
+--mammography -- per pt had this year w/ Dr. Dye and was nl
+--colorectal -- had at GH this year and was wnl per pt
+--osteoporosis screening -- pt reports she had this done this year by other PCP -- is already on fosamax
+--asa if risk for cad -- already on
+
+Imms: pneumcoccal -- pt reports 3 years ago but isn't entirely sure, Td -- doesn't recall
+
+Asked pt to get records.  
+
+#2 HTN
+126/92; 92 not at goal.  Pt doesn't want me to recheck her bp today. No changes in med today, will check at next visit.
+--check lytes given meds
+
+#3 DM
+Report that she check sugars at home.  107 this nl.  69-107 in general.  
+--check Hgb A1c
+--check U microalbumin
+
+#4 Dyslipidemia
+Will check fasting lipids today to determine starting point and to guide which med to use.  Of note, had h/o mild rhabdo in 2094 in setting of crestor use -- this was noted during CCH hospitalization.  Gemfibrozil was recommended (unclear if pt ever took), although it was suggested that pt could do trial of pravachol.
+
+#5 Obesity
+Discussed risks of obestiy.
+Has appt already with nutritionist at GH later this month.
+
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2095-09-04" TYPE="DATE" comment="" />
+<DATE id="P1" start="60" end="67" text="9/04/95" TYPE="DATE" comment="" />
+<NAME id="P2" start="111" end="118" text="Winston" TYPE="DOCTOR" comment="" />
+<NAME id="P3" start="124" end="127" text="Dye" TYPE="DOCTOR" comment="" />
+<DATE id="P4" start="298" end="302" text="2094" TYPE="DATE" comment="" />
+<DATE id="P5" start="398" end="402" text="8/94" TYPE="DATE" comment="" />
+<AGE id="P6" start="2054" end="2056" text="68" TYPE="AGE" comment="" />
+<NAME id="P7" start="2171" end="2174" text="Dye" TYPE="DOCTOR" comment="" />
+<NAME id="P8" start="2220" end="2223" text="Dye" TYPE="DOCTOR" comment="" />
+<LOCATION id="P9" start="2258" end="2260" text="GH" TYPE="HOSPITAL" comment="" />
+<DATE id="P10" start="2964" end="2968" text="2094" TYPE="DATE" comment="" />
+<LOCATION id="P11" start="3020" end="3023" text="CCH" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P12" start="3238" end="3240" text="GH" TYPE="HOSPITAL" comment="" />
+</TAGS>
+</deIdi2b2>

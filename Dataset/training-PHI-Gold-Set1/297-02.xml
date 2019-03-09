@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2093-03-07
+
+MARTHA JEFFERSON HOSPITAL
+Stephen A.N. Xayachack, M.D.
+593 Will St                           Vicente, Kadeem
+Sandpoint, MI 58543                             CK759182
+(033) 250-1408                                3-6-93
+ 
+ 
+ 
+HPI:  Kadeem Vicente comes in today for follow up office visit.  The patient 
+is seen primarily for follow up regarding his history of hypertension, 
+coronary artery disease (the patient is status post inferior wall MI), 
+benign prostatic hypertrophy and to a much lesser extent osteoarthritis.  
+The patient is also followed GERD-like symptoms.  With regard to the 
+latter, the patient notes that since he has been off the Zantac, he 
+initially saw no change in his ability to handle foods; however, he now 
+notes that he is starting to get some reflux and feels slightly 
+uncomfortable with this.  He denies chest pain per se and any symptoms 
+pertinent to cardiovascular disease, such as chest heaviness, shortness 
+of breath, diaphoresis, nausea.  The patient knows the foods that give 
+him this type of reaction, such as tomato based sauces and tries to 
+avoid them as much as possible.  The patient is asking me about Prilosec 
+which he recently read in the Journal and was wandering whether this 
+would be a suitable alternative to H2 blockers (Patient had been on H2 
+blockers for many years without a trial off of them, which a reason that 
+we stopped his H2 blocker therapy recently).  
+ 
+With regard to the patient's symptoms of benign prostatic hypertrophy, 
+the patient says that these have almost completely resolved on the 4 mg 
+of Hytrin and which he will continue taking.  The patient does remain on 
+Zestril for his hypertension as well as the Hytrin and the blood 
+pressure gotten by the nurse today was 150/80 and repeated by me 20 
+minutes later was 130/74. 
+ 
+The patient reports being otherwise well, no new symptoms.  No positive 
+review of systems.  
+ 
+PHYSICAL EXAM:  Was not performed.  Vitals:  Blood pressure taken by me 
+was 130/74 in the right, 130/74 in the left, temperature was 98.8, 
+respirations 20, unlabored and pulse was 80.  
+ 
+ASSESSMENT AND PLAN:  75 year old man with multiple medical concerns 
+comes in for follow up.
+1.   Hypertension.  The patient will stay on his Zestril, once a day as 
+     well as his Hytrin, which he uses also for BPH.  His blood pressure 
+     appears to be well controlled on this regimen.  One of the issues 
+     would be whether or not the patient should be on a beta-blocker.  
+     The patient verbally has a history of "a silent heart attack"  and 
+     there is evidence of an inferior wall MI and this is certainly an 
+     option we will consider in the future, although I would not add a 
+     third anti-hypertensive regimen and would most likely replace his 
+     Zestril with a beta-blocker.
+2.   GERD.  The patient will be given a prescription for Prilosec 20 mg 
+     to be taken at bedtime.  The patient was told that this would not 
+     MARTHA JEFFERSON HOSPITAL
+Stephen A.N. Xayachack, M.D.
+004 Will St                           Vicente, Kadeem
+Sandpoint, MI 58543                             CK759182
+(033) 250-1408                                3-6-93
+Page 2
+ 
+ 
+     be long term therapy but that we can do this for the next 2-3 
+     months, although he should be able to experience relief almost 
+     immediately.  The patient does have a known hiatal hernia, which 
+     may also contribute to his symptoms of chronic reflux.
+3.   BPH - The patient will stay on his 4 mg of Hytrin, which appears to 
+     be working quite well.  The patient notes that there is less 
+     dribbling, less nocturnal urination.  The patient does take Lasix 
+     20 mg once a day for congestive heart failure and did not have any 
+     difficulty with urination after he takes the diuretic.  
+4.   Insomnia.  The patient will stay on his Ambien 10 mg which he takes 
+     on a q.h.s. basis.  The patient was formerly on Amitriptyline but 
+     was told that the secondary side effects which can include EKG 
+     changes and at this point tells me that the Ambien works and he 
+     would like to stay on this.  Patient has enough to last until I see 
+     him next time.
+ 
+I will thus see the patient in 3 months for a fasting lipid (The 
+patient's lipid profile thus far has been acceptable.   The cholesterol 
+is 190 and an acceptable triglyceride; however, I do want to assess the 
+patient's LDL and HDL before making any decisions with regard to 
+treatment.  
+ 
+ 
+ 
+______________________________
+Stephen A.N. Xayachack, M.D.
+ 
+JG:WQ:6672
+DD:3-7-93 
+DT:3-7-93 
+DV:3-6-93
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2093-03-07" TYPE="DATE" comment="" />
+<LOCATION id="P1" start="28" end="53" text="MARTHA JEFFERSON HOSPITAL" TYPE="HOSPITAL" comment="" />
+<NAME id="P2" start="54" end="76" text="Stephen A.N. Xayachack" TYPE="DOCTOR" comment="" />
+<LOCATION id="P3" start="83" end="94" text="593 Will St" TYPE="STREET" comment="" />
+<NAME id="P4" start="121" end="136" text="Vicente, Kadeem" TYPE="PATIENT" comment="" />
+<LOCATION id="P5" start="137" end="146" text="Sandpoint" TYPE="CITY" comment="" />
+<LOCATION id="P6" start="148" end="150" text="MI" TYPE="STATE" comment="" />
+<LOCATION id="P7" start="151" end="156" text="58543" TYPE="ZIP" comment="" />
+<ID id="P8" start="185" end="193" text="CK759182" TYPE="MEDICALRECORD" comment="" />
+<CONTACT id="P9" start="194" end="208" text="(033) 250-1408" TYPE="PHONE" comment="" />
+<DATE id="P10" start="240" end="246" text="3-6-93" TYPE="DATE" comment="" />
+<NAME id="P11" start="259" end="273" text="Kadeem Vicente" TYPE="PATIENT" comment="" />
+<AGE id="P12" start="2143" end="2145" text="75" TYPE="AGE" comment="" />
+<LOCATION id="P13" start="2979" end="3004" text="MARTHA JEFFERSON HOSPITAL" TYPE="HOSPITAL" comment="" />
+<NAME id="P14" start="3005" end="3027" text="Stephen A.N. Xayachack" TYPE="DOCTOR" comment="" />
+<LOCATION id="P15" start="3034" end="3045" text="004 Will St" TYPE="STREET" comment="" />
+<NAME id="P16" start="3072" end="3087" text="Vicente, Kadeem" TYPE="PATIENT" comment="" />
+<LOCATION id="P17" start="3088" end="3097" text="Sandpoint" TYPE="CITY" comment="" />
+<LOCATION id="P18" start="3099" end="3101" text="MI" TYPE="STATE" comment="" />
+<LOCATION id="P19" start="3102" end="3107" text="58543" TYPE="ZIP" comment="" />
+<ID id="P20" start="3136" end="3144" text="CK759182" TYPE="MEDICALRECORD" comment="" />
+<CONTACT id="P21" start="3145" end="3159" text="(033) 250-1408" TYPE="PHONE" comment="" />
+<DATE id="P22" start="3191" end="3197" text="3-6-93" TYPE="DATE" comment="" />
+<NAME id="P23" start="4534" end="4556" text="Stephen A.N. Xayachack" TYPE="DOCTOR" comment="" />
+<ID id="P24" start="4565" end="4575" text="JG:WQ:6672" TYPE="IDNUM" comment="" />
+<DATE id="P25" start="4579" end="4585" text="3-7-93" TYPE="DATE" comment="" />
+<DATE id="P26" start="4590" end="4596" text="3-7-93" TYPE="DATE" comment="" />
+<DATE id="P27" start="4601" end="4607" text="3-6-93" TYPE="DATE" comment="" />
+</TAGS>
+</deIdi2b2>

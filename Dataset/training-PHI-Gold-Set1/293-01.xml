@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2076-12-15
+
+                     STONYBROOK EMERGENCY DEPT VISIT
+
+ 
+
+QUINLEY,CORA   759-87-55-2                         VISIT DATE: 12/15/76
+
+This patient was seen by me in the emergency department on  
+
+December 15, 2076, with the resident.  Resident's note reviewed.  
+
+Patient interviewed and examined by me.  See resident's note for 
+
+further details.  Past medical history, social history, and family 
+
+history all reviewed and confirmed with the resident's note. 
+
+HISTORY OF PRESENTING COMPLAINT:  The patient is a pleasant 
+
+70-year-old female who comes in with substernal chest pressure, a 
+
+tightness involving her upper back also, two distinct discomforts.  
+
+There are no exertional symptoms, no nausea, no vomiting, no 
+
+diarrhea, no abdominal pain, and no palpitations.  The patient does 
+
+report some mild shortness of breath.  The chest pressure is not 
+
+acute in onset.  There is no exacerbation with activity.  She had a 
+
+negative exercise tolerance test four years ago.  Since being here, 
+
+she has received some improvement in her symptoms after 
+
+nitroglycerin.  She has no known coronary disease.
+
+PAST MEDICAL HISTORY:  Atrial fibrillation and insulin-dependent 
+
+diabetes mellitus.
+
+SOCIAL HISTORY AND FAMILY HISTORY:  The patient is an active smoker 
+
+and lives alone.  No family history.
+
+PHYSICAL EXAMINATION:  Patient is hemodynamically stable, nontoxic, 
+
+well appearing, resting comfortably.  NECK:  No jugulovenous 
+
+distention.  LUNGS:  Clear.  HEART:  Regular rate and rhythm.  
+
+ABDOMEN:  Soft.  NEUROLOGIC:  Nonfocal.
+
+LABORATORY EVALUATION:  White count is 7.8, hematocrit 41.  Normal 
+
+electrolyte panel.  Troponin I is 0.3 which is elevated.  CK is 160 
+
+which is normal.  The EKG shows some flattening T wave laterally 
+
+which is old.  A chest x-ray shows no effusion, infiltrate, or 
+
+pneumothorax.
+
+THERAPY RENDERED/COURSE IN ED:  The patient has a positive troponin 
+
+here and will be admitted.  She will be heparinized __________ 
+
+started.  See resident's note for details.
+
+FINAL DIAGNOSES:  
+
+1.  Rule out myocardial infarction.
+
+2.  Chest tightness.
+
+DISPOSITION (including condition upon discharge):  The patient was 
+
+admitted to the hospital in stable condition.
+
+___________________________________                    ID374/80829 
+
+CHRISTOPHER QUINTOS, M.D.       CQ07                         D:12/15/76 
+
+                                                       T:12/15/76 
+
+Dictated by:  CHRISTOPHER QUINTOS, M.D.       CQ07 
+
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2076-12-15" TYPE="DATE" comment="" />
+<LOCATION id="P1" start="49" end="59" text="STONYBROOK" TYPE="HOSPITAL" comment="" />
+<NAME id="P2" start="85" end="97" text="QUINLEY,CORA" TYPE="PATIENT" comment="" />
+<ID id="P3" start="100" end="111" text="759-87-55-2" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P4" start="148" end="156" text="12/15/76" TYPE="DATE" comment="" />
+<DATE id="P5" start="220" end="237" text="December 15, 2076" TYPE="DATE" comment="" />
+<AGE id="P6" start="549" end="551" text="70" TYPE="AGE" comment="" />
+<ID id="P7" start="2286" end="2297" text="ID374/80829" TYPE="IDNUM" comment="" />
+<NAME id="P8" start="2300" end="2319" text="CHRISTOPHER QUINTOS" TYPE="DOCTOR" comment="" />
+<NAME id="P9" start="2332" end="2336" text="CQ07" TYPE="USERNAME" comment="" />
+<DATE id="P10" start="2363" end="2371" text="12/15/76" TYPE="DATE" comment="" />
+<DATE id="P11" start="2431" end="2439" text="12/15/76" TYPE="DATE" comment="" />
+<NAME id="P12" start="2456" end="2475" text="CHRISTOPHER QUINTOS" TYPE="DOCTOR" comment="" />
+<NAME id="P13" start="2488" end="2492" text="CQ07" TYPE="USERNAME" comment="" />
+</TAGS>
+</deIdi2b2>

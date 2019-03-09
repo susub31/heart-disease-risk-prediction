@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2078-01-30
+
+We are consulted by Dr. Bonilla for assistance with glycemic management.
+
+
+
+Mr. Ervin is a 67 y/o gentleman who is presently POD # 1 after AVR and 2V CABG.  He had known calcific AS and presented with increasing fatigue and dyspnea on exertion.  He was subsequently found to have worsening AS and CAD, including LM disease.  His peri-operative course has been notable for hyperglycemia with maximum BG 252.  He was started on an insulin  infusion according to the Portland Protocol and remains on 0.5-2 units/hour since midnight with BS 117-134-163-151-125-137-98-99.
+
+
+
+Mr. Ervin recalls having been diagnosed with DM at the age of 19 as part of a military physical.  He was overweight and was placed on dietary therapy.  Per his own report his DM was diet controlled and "seemed to disappear" several years after initial diagnosis.  Approximately 4 years ago he experienced blurry vision and was again noted to have elevated BGs (he is uncertain of the magnitude of the BG elevation).  He resumed dietary therapy and has achieved good control with a  pre-op A1c of 6.2.  He is followed at the Skiff.  He has never been on insulin or OHAs and denies knowledge of diabetic complications.  He checks BS at home sporadically which are usually in the low-mid 100s.  He says when he experiences hyperglycemic symptoms (i.e. occasional nocturia) he walks to bring down his blood sugar.  In general he is active, walking several miles/day.
+
+
+
+Past Medical History: HTN, AS, DM2 as above
+
+
+
+Current Medications: Insulin, K/Mg, ASA, Toradol, Zofran, Vanco, Carafate
+
+
+
+Social History: remote tobacco, ETOH
+
+
+
+Famiy History: Son with DM1,  Grandmother with DM
+
+
+
+ROS: Denies HA or changes in vision.  +SOB PTA.  No abdominal pain or changes in bowels.  No dysuria, occasional nocturia.  No recent lower extremity swelling.  Remainder of review of systems is negative or as per HPI.
+
+
+
+Physical Exam:
+
+
+
+Vitals: 98.2 70 120/68
+
+Gen: pleasant, heavy set (but muscular) gentleman in NAD
+
+HEENT: NC/AT EOMI
+
+Neck: supple central venous line in place
+
+CV: distant HS
+
+Chest: wound intact
+
+Lungs: Clear anteriorly
+
+Abd: S/NT
+
+Extremities: no edema, well perfused
+
+Neuro: A&Ox3
+
+Skin: intact
+
+
+
+Labs: pre-op A1c 6.2.  Prior A1c 7.2 in 4/73
+
+
+
+A/P 
+
+Mr. Ervin has DM2 which was adequately controlled pre-operatively with diet and exercise.  He is presently requiring insulin in the setting of the stress of surgery.  Meticulous BG control is important in the post-operative period.  The goal is to maintain BS<175.  He should remain on the Portland Protocol until at least POD #3.  At that point only if he is fully stabilized and eating well can he be transitioned on to an alternative regimen.  He may transiently require subcutaneous insulin but will ideally be able to resume dietary control of DM.
+
+
+
+Thank you for allowing us to participate in the care of this patient. Our team will follow with you.
+
+
+
+
+
+
+
+_____________________________________________
+
+Paige Quadirah Hooper, M.D.
+
+
+
+
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2078-01-30" TYPE="DATE" comment="" />
+<NAME id="P1" start="52" end="59" text="Bonilla" TYPE="DOCTOR" comment="" />
+<NAME id="P2" start="108" end="113" text="Ervin" TYPE="PATIENT" comment="" />
+<AGE id="P3" start="119" end="121" text="67" TYPE="AGE" comment="" />
+<NAME id="P4" start="603" end="608" text="Ervin" TYPE="PATIENT" comment="" />
+<AGE id="P5" start="661" end="663" text="19" TYPE="AGE" comment="" />
+<LOCATION id="P6" start="1123" end="1128" text="Skiff" TYPE="HOSPITAL" comment="" />
+<DATE id="P7" start="2247" end="2251" text="4/73" TYPE="DATE" comment="" />
+<NAME id="P8" start="2265" end="2270" text="Ervin" TYPE="PATIENT" comment="" />
+<NAME id="P9" start="2972" end="2993" text="Paige Quadirah Hooper" TYPE="DOCTOR" comment="" />
+</TAGS>
+</deIdi2b2>

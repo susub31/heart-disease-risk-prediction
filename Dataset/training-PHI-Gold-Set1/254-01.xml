@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2079-07-28
+
+                     MIDLAND EMERGENCY DEPT VISIT
+
+ 
+
+NOONAN,FRANKIE   516-39-35-7                    VISIT DATE: 07/28/79
+
+The patient was interviewed and examined by myself along with the 
+
+resident, Dr. Welsh.  Please see his note for full details. 
+
+HISTORY OF PRESENTING COMPLAINT:  In brief, a 60 year-old male 
+
+complaining of shortness of breath.  Ran out of his Lasix about 5-6 
+
+days ago and now is with increasing lower extremity edema, 
+
+orthopnea, PND.  Denies fever, chills, nausea or vomiting.  Sent 
+
+here for evaluation by his PCP today. 
+
+REVIEW OF SYSTEMS:  No palpitations, no diaphoresis. 
+
+PAST MEDICAL HISTORY:  Insulin dependent diabetes mellitus, 
+
+hypertension, coronary artery disease, and atrial fibrillation. 
+
+MEDICATIONS:  Insulin, Glucophage, Verapamil, Lasix, Relafen, and 
+
+Coumadin. 
+
+ALLERGIES:  No known drug allergies. 
+
+SOCIAL HISTORY AND FAMILY HISTORY:  Does not drink, does not smoke. 
+
+PHYSICAL EXAMINATION:  VITAL SIGNS:  Blood pressure 136/88, O2 
+
+saturation 95 percent, heart rate 54, temperature 97.8.  GENERAL: 
+
+Well-developed, well-nourished male in no apparent distress, 
+
+denying chest pain at this time.  HEENT:  Normocephalic, 
+
+atraumatic.  Pupils were equal, round and reactive to light. 
+
+Extraocular muscles full.  NECK:  No evidence of jugular venous 
+
+distension.  Supple.  LUNGS:  Clear to auscultation.  HEART: 
+
+Regular rate and rhythm.  Normal S1 and S2.  No murmurs, rubs or 
+
+gallops.  ABDOMEN:  Soft, non-tender and non-distended.  Active 
+
+bowel sounds.  EXTREMITIES:  3+ pedal edema.  NEUROLOGIC:  Cranial 
+
+nerves II-XII grossly intact.  Alert and oriented times three. 
+
+Motor 5/5.  Sensation intact to light touch throughout. 
+
+LABORATORY EVALUATION:  Basic labs included a white count of 6.9, 
+
+hematocrit 39, BUN and creatinine of 10 and 1.0, with a potassium 
+
+of 5.7.  CK was 186, troponin 0.04.  Amylase was 61.  Blood sugar 
+
+was 253.  Chest x-ray showed cardiomegaly.  EKG showed atrial 
+
+fibrillation at about 50.  Nonspecific ST-T wave changes. 
+
+THERAPY RENDERED/COURSE IN ED:  Differential of his shortness of 
+
+breath includes congestive heart failure, ischemia.  He was 
+
+admitted to the hospital for training of his congestive heart 
+
+failure regimen.  His primary M.D. was notified. 
+
+FINAL DIAGNOSIS: 
+
+1.  Shortness of breath. 
+
+2.  Congestive heart failure. 
+
+DISPOSITION (including condition upon discharge):  He was admitted 
+
+in stable condition. 
+
+___________________________________                    CQ102/93848
+
+ROSE R. WALSH, M.D.     RW88                      D:09/04/79 
+
+                                                       T:09/05/79 
+
+Dictated by:  ROSE R. WALSH, M.D.     RW88 
+
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2079-07-28" TYPE="DATE" comment="" />
+<LOCATION id="P1" start="49" end="56" text="MIDLAND" TYPE="HOSPITAL" comment="" />
+<NAME id="P2" start="82" end="96" text="NOONAN,FRANKIE" TYPE="PATIENT" comment="" />
+<ID id="P3" start="99" end="110" text="516-39-35-7" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P4" start="142" end="150" text="07/28/79" TYPE="DATE" comment="" />
+<NAME id="P5" start="234" end="239" text="Welsh" TYPE="DOCTOR" comment="" />
+<AGE id="P6" start="328" end="330" text="60" TYPE="AGE" comment="" />
+<ID id="P7" start="2526" end="2537" text="CQ102/93848" TYPE="IDNUM" comment="" />
+<NAME id="P8" start="2539" end="2552" text="ROSE R. WALSH" TYPE="DOCTOR" comment="" />
+<NAME id="P9" start="2563" end="2567" text="RW88" TYPE="USERNAME" comment="" />
+<DATE id="P10" start="2591" end="2599" text="09/04/79" TYPE="DATE" comment="" />
+<DATE id="P11" start="2659" end="2667" text="09/05/79" TYPE="DATE" comment="" />
+<NAME id="P12" start="2684" end="2697" text="ROSE R. WALSH" TYPE="DOCTOR" comment="" />
+<NAME id="P13" start="2708" end="2712" text="RW88" TYPE="USERNAME" comment="" />
+</TAGS>
+</deIdi2b2>

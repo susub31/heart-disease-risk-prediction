@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2079-12-01
+
+                                                       Patient Name: QIN,OWEN [ MRN: 88491427LBH ]
+
+                                                         Date of Visit: 12/01/79
+
+
+
+
+
+
+
+
+
+Reason for Visit	
+
+Owen is a 62 y/o male here for evl of Rx.
+
+
+
+Problems	    
+
+OA	      
+
+LLE-PARTIALLY SEVERED-MULT. SURGERIES	      
+
+IRRIDECTOMY	      
+
+SKIN ULCER-DR ESPOSITO	      
+
+PAST SMOKER	      
+
+HTN	      
+
+
+
+Medications	    
+
+ASA	    PO 
+
+VITAMIN E	    PO QD
+
+ATENOLOL	 25MG PO QD
+
+LIPITOR (ATORVASTATIN)	 10MG 1 Tablet(s) PO QD
+
+
+
+Allergies	    
+
+NKDA	 NONE
+
+
+
+Narrative History	
+
+Takes meds. No SEs. Denies vision change, headache, chest pain, SOB, light head, palptations. Denies loss of balance, strength or sensation. Gets new Unna boot q week. Ulcer slowly getting better. No GI symptoms. No GU symptoms except nocturia x3-4. Vision is fine. 
+
+Exercise-no
+
+Diet- eats too much
+
+Cigs-no
+
+ETOH-no
+
+
+
+Exam	
+
+BP= 126/78, P= 76, Wt= 252; NAD,WD, WN
+
+Head- no tenderness
+
+Neck- supple with no JVD, bruit, LAN or thyromegaly.
+
+Chest- clear A&P     Cor- reg rhythm,S1S2 normal with no murmer, gallop or rub
+
+Abdo- obese; normal BS; soft with no HSM, mass or tenderness. DRE- normal sphincter. Prostate smooth with no nodules and normal consistency. 
+
+Ext- no edema. Pulses intact and symmetric right.  Unna boot left. 
+
+
+
+Assessment	
+
+Doing well. 
+
+
+
+Disposition and Plans	
+
+Cont meds. BMP,PSA, FOBT. FLu vaccine. F/U Dr Esposito. RTC 6 mon or PRN.
+
+
+
+
+
+______________________________                              
+
+
+
+William Seth Potter, M.D.
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2079-12-01" TYPE="DATE" comment="" />
+<NAME id="P1" start="97" end="105" text="QIN,OWEN" TYPE="PATIENT" comment="" />
+<ID id="P2" start="113" end="121" text="88491427" TYPE="MEDICALRECORD" comment="" />
+<LOCATION id="P3" start="121" end="124" text="LBH" TYPE="HOSPITAL" comment="" />
+<DATE id="P4" start="200" end="208" text="12/01/79" TYPE="DATE" comment="" />
+<NAME id="P5" start="237" end="241" text="Owen" TYPE="PATIENT" comment="" />
+<AGE id="P6" start="247" end="249" text="62" TYPE="AGE" comment="" />
+<NAME id="P7" start="388" end="396" text="ESPOSITO" TYPE="DOCTOR" comment="" />
+<NAME id="P8" start="1450" end="1458" text="Esposito" TYPE="DOCTOR" comment="" />
+<NAME id="P9" start="1547" end="1566" text="William Seth Potter" TYPE="DOCTOR" comment="" />
+</TAGS>
+</deIdi2b2>

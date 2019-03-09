@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2093-01-13
+
+Uriah Oliver
+
+NYSH # 791-60-07
+
+
+
+
+
+
+
+
+
+Medications:
+
+Colace		100 mg bid
+
+Relafen		500 mg qd PRN
+
+fosinopril		40 mg qd
+
+Glucophage	1000 mg bid
+
+glyburide		10 mg bid
+
+metoprolol	50 mg bid
+
+Ecotrin		325 mg qd
+
+hydrochlorothiazide    25 mg qd
+
+Darvocet N. 100	
+
+Viagra		100 mg
+
+Coumadin		followed at ANRC
+
+
+
+Patient is here for follow-up.
+
+
+
+1.  Basal cell carcinoma.  Status post recent excision.
+
+
+
+2.  CAD.  Patient hospitalized at Atlantic North Rehabilitation in mid-December after apparently experiencing some chest pain and being found to have an abnormal EKG.  He apparently had cardiac catheterization and an initial stent was placed, following this he had a stress test which showed some  continued changes and a second catheterization showed a second blocked vessel and a second stent was placed.  Medical regimen was adjusted.  I do not have any further details of this hospitalization and the above details are based on patient history.  He was started on Coumadin which she was told he would have to take for a limited period.  This is monitored from the ANRC.
+
+
+
+3.  Diabetes.  Last HgbA1c was in October and was 7.7 which is a moderate improvement for him.  Reports compliance with his regimen.
+
+
+
+Physical Exam
+
+
+
+Patient is in no apparent distress.
+
+Weight: 180 pounds
+
+Blood Pressure: 130/68
+
+Neck: supple without thyroidomegaly.
+
+Lungs: Clear.
+
+Cor. S1, S2 without gallops, rubs or murmurs.
+
+Abdomen: non-tender,without organomegaly. 
+
+Extremities: without edema. 
+
+
+
+Assessment and Plan
+
+
+
+1.  CAD.  Need more details of recent hospitalization.  Will center Atlantic North Rehabilitation Center for recent medical record.  For now he will continue on his current regimen.  He denies any recurrence of chest pain.
+
+
+
+2.  Diabetes.  Continue current regimen.
+
+
+
+I will see him for follow-up in two months.
+
+      
+
+
+
+                                                                                                Kevin Patterson, M.D.
+
+Typed with voice recognition software; please excuse any transcription errors.
+
+
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2093-01-13" TYPE="DATE" comment="" />
+<NAME id="P1" start="28" end="40" text="Uriah Oliver" TYPE="PATIENT" comment="" />
+<LOCATION id="P2" start="42" end="46" text="NYSH" TYPE="HOSPITAL" comment="" />
+<ID id="P3" start="49" end="58" text="791-60-07" TYPE="MEDICALRECORD" comment="" />
+<LOCATION id="P4" start="325" end="329" text="ANRC" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P5" start="460" end="489" text="Atlantic North Rehabilitation" TYPE="HOSPITAL" comment="" />
+<DATE id="P6" start="497" end="505" text="December" TYPE="DATE" comment="" />
+<LOCATION id="P7" start="1094" end="1098" text="ANRC" TYPE="HOSPITAL" comment="" />
+<DATE id="P8" start="1137" end="1144" text="October" TYPE="DATE" comment="" />
+<LOCATION id="P9" start="1604" end="1640" text="Atlantic North Rehabilitation Center" TYPE="HOSPITAL" comment="" />
+<NAME id="P10" start="1957" end="1972" text="Kevin Patterson" TYPE="DOCTOR" comment="" />
+</TAGS>
+</deIdi2b2>

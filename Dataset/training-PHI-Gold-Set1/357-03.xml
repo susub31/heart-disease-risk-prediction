@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2077-01-31
+
+
+
+LEPROSARIUM INPATIENT DIALYSIS ADMIT NOTE
+
+
+
+Outpatient Nephrologist:   Dr. Mcgee
+
+Outpatient Dialysis Unit:   BH
+
+Estimated dry weight:  68.5 kg
+
+Dialysis access:  RUE AVF
+
+
+
+Reason for admission: hypoglycemia
+
+
+
+HPI: 
+
+76F ESRD on HD.  Felt "woozy" last night and found by daughter to be confused.  Daughter called 911 and FS glucose 30.  Pt has had recurrent episodes of hypoglycemia - says b/c she "doesn't want to eat".  She says she has an endocrinologist, Dr. Hayes, but does not remember where the office is located.  She takes insulin once a day (30u NPH and 10u R).  ROS otherwise negative in detail.
+
+
+
+Past Medical History: 
+
+ESRD presumed 2/2 type 2 DM
+
+ - on HD since 2075, TTS
+
+Type 2 DM (Insulin-dependent) 
+
+ - multiple episodes of hypoglycemia in the past
+
+asthma - no intubations d/t asthma exacerbation, has previously been on steroids
+
+stroke/TIA in past
+
+seizure 2069, unclear etiology
+
+multinodular goiter
+
+HTN
+
+hyperlipidemia
+
+
+
+Past Surgical History: 
+
+s/p TAH-BSO
+
+
+
+Vascular access history:  
+
+R brachiocephalic fistula 11/75 after 3 prior failed attempts at access
+
+   - given high risk of further thrombosis, started on coumadin 11/75
+
+   - negative hypercoaguable w/u as per LMR notes
+
+
+
+Allergies: NKDA
+
+
+
+Medications: 
+
+insulin
+
+methyldopa 250mg qd
+
+lisinopril 10mg qd
+
+diltiazem 300mg qd
+
+pravastatin 10mg qhs
+
+Nephrocaps
+
+heparin 5000u bid
+
+colace 100mg bid
+
+
+
+Social History:   40 pack-years, 2-3 EtOH drink/week, lives alone.  
+
+
+
+Family History: 
+
+
+
+PHYSICAL EXAM
+
+Weight: 72.8kg
+
+Temp: 98.4
+
+BP: 150/82
+
+HR: 91
+
+RR: 22
+
+O2 sat 100%
+
+
+
+Gen: Obese AA woman in NAD.
+
+HEENT: sclerae non-icteric, O&P clear and moist
+
+Neck: supple, no LAD, JVP elevated
+
+Lungs: CTA b/l
+
+Cor: regular, s1s2, no m/c/r/g
+
+Abd: soft, NTND, no HSM, no abdominal bruits
+
+Ext: no edema in LE b/l, 2+ pulses distally
+
+Skin: warm, smooth, no rashes
+
+Back: no CVAT
+
+Vascular access: site clean and without inflammation, systolic and diastolic bruit present
+
+
+
+LABS:
+
+Date/Time         WBC            HGB            HCT            MCV            
+
+01/31/2077       8.15           11.5 (#)       34.7 (*)       87.3           
+
+
+
+Date/Time         PLT            
+
+01/31/2077       231            
+
+
+
+Date/Time         UA-GLUC        UA-KET         UA-SPGR        UA-BLD         
+
+01/31/2077       TR             NEG            1.009          1+             
+
+
+
+Date/Time         UA-PH          UA-PROT        UA-NIT         UA-WBC         
+
+01/31/2077       8.0            2+             NEG            NEG            
+
+
+
+Date/Time         UAS-BACT       
+
+01/31/2077       TR             
+
+
+
+Date/Time         NA             K              CL             CO2            
+
+01/31/2077       137            5.1 (*)        95 (*)         27             
+
+01/31/2077       134 (*)        6.2 (*)        94 (*)         25             
+
+01/31/2077       136            5.8 (*)        97 (*)         20 (*)         
+
+
+
+Date/Time         BUN            CRE            EGFR           GLU            
+
+01/31/2077       49 (*)         8.0 (*)        5              68             
+
+01/31/2077       43 (*)         8.0 (*)        5              83             
+
+
+
+Date/Time         ANION          
+
+01/31/2077       15                  
+
+
+
+Date/Time         CA             PHOS           MG             
+
+01/31/2077       10.2                          1.9            
+
+01/31/2077       10.6 (*)       5.8 (*)        2.0            
+
+
+
+Date/Time         CK             CK-MB          TROP-I         
+
+01/31/2077      insufficient blood
+
+
+
+Date/Time         PT             PT-INR         PTT            
+
+01/31/2077       15.8 (*)       1.3 (*)        28.6 (#)       
+
+
+
+Blood cultures negative to date (01/31/77)
+
+
+
+ASSESSMENT AND PLAN:
+
+
+
+76F ESRD presumed from Type 2 DM, now admitted for hypoglycemia.
+
+
+
+1.  DM: Check HbA1c.  Endocrine to see, given recurrent hypoglycemia.  Nutrition to see.
+
+2.  HD today, as per usual schedule.  Will check iron studies, PTH, 25OH Vit D, URR.
+
+3.  Hyperkalemia: Recirculation studies with HD today.
+
+4.  CAD risk: Check fasting lipids, start ECASA 81mg qd, wean diltiazem and methyldopa and increase lisinopril as tolerated by BP.  Would not start beta-blocker at present until hypoglycemic episodes resolved.
+
+5.  INR: Aiming for INR 1.5-2 - adjust coumadin accordingly.
+
+6.  PO4: Start Phoslo 667mg po tid with meals.
+
+6.  Dispo: Needs social work, PT, OT to see, as does not appear to be safe at home.
+
+
+
+Lois Ochs
+
+Renal Fellow
+
+48324
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2077-01-31" TYPE="DATE" comment="" />
+<LOCATION id="P1" start="30" end="41" text="LEPROSARIUM" TYPE="HOSPITAL" comment="" />
+<NAME id="P2" start="106" end="111" text="Mcgee" TYPE="DOCTOR" comment="" />
+<LOCATION id="P3" start="141" end="143" text="BH" TYPE="HOSPITAL" comment="" />
+<AGE id="P4" start="251" end="253" text="76" TYPE="AGE" comment="" />
+<NAME id="P5" start="497" end="502" text="Hayes" TYPE="DOCTOR" comment="" />
+<DATE id="P6" start="712" end="716" text="2075" TYPE="DATE" comment="" />
+<DATE id="P7" start="718" end="719" text="T" TYPE="DATE" comment="" />
+<DATE id="P8" start="719" end="720" text="T" TYPE="DATE" comment="" />
+<DATE id="P9" start="720" end="721" text="S" TYPE="DATE" comment="" />
+<DATE id="P10" start="915" end="919" text="2069" TYPE="DATE" comment="" />
+<DATE id="P11" start="1077" end="1082" text="11/75" TYPE="DATE" comment="" />
+<DATE id="P12" start="1188" end="1193" text="11/75" TYPE="DATE" comment="" />
+<DATE id="P13" start="2083" end="2093" text="01/31/2077" TYPE="DATE" comment="" />
+<DATE id="P14" start="2199" end="2209" text="01/31/2077" TYPE="DATE" comment="" />
+<DATE id="P15" start="2315" end="2325" text="01/31/2077" TYPE="DATE" comment="" />
+<DATE id="P16" start="2476" end="2486" text="01/31/2077" TYPE="DATE" comment="" />
+<DATE id="P17" start="2592" end="2602" text="01/31/2077" TYPE="DATE" comment="" />
+<DATE id="P18" start="2708" end="2718" text="01/31/2077" TYPE="DATE" comment="" />
+<DATE id="P19" start="2787" end="2797" text="01/31/2077" TYPE="DATE" comment="" />
+<DATE id="P20" start="2866" end="2876" text="01/31/2077" TYPE="DATE" comment="" />
+<DATE id="P21" start="3027" end="3037" text="01/31/2077" TYPE="DATE" comment="" />
+<DATE id="P22" start="3106" end="3116" text="01/31/2077" TYPE="DATE" comment="" />
+<DATE id="P23" start="3222" end="3232" text="01/31/2077" TYPE="DATE" comment="" />
+<DATE id="P24" start="3328" end="3338" text="01/31/2077" TYPE="DATE" comment="" />
+<DATE id="P25" start="3392" end="3402" text="01/31/2077" TYPE="DATE" comment="" />
+<DATE id="P26" start="3523" end="3533" text="01/31/2077" TYPE="DATE" comment="" />
+<DATE id="P27" start="3626" end="3636" text="01/31/2077" TYPE="DATE" comment="" />
+<DATE id="P28" start="3725" end="3733" text="01/31/77" TYPE="DATE" comment="" />
+<AGE id="P29" start="3762" end="3764" text="76" TYPE="AGE" comment="" />
+<NAME id="P30" start="4470" end="4479" text="Lois Ochs" TYPE="DOCTOR" comment="" />
+<CONTACT id="P31" start="4495" end="4500" text="48324" TYPE="PHONE" comment="" />
+</TAGS>
+</deIdi2b2>

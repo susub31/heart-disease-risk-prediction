@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2151-09-12
+
+ September 12, 2151
+Ishida, Nathan
+BMC 879 20 76
+
+PROBLEMS:
+Prostate 
+Now on avodart and enablex with improvement in bladder symptoms.
+Bladder emptying fine.
+Exercising 
+Stopped due to hip pain.
+Right knee pain
+Stable
+Hip now worse than knee.
+Difficulty moving bowels.
+Likes enulose more than metamucil.
+Barrett's esophagus -  endoscopy negative.
+PAST MEDICAL HISTORY:  
+	Sleep Apnea -  has not used CPAP since loosing weight (lost 70 lbs).  Has gained it back. Now sleeps on side with good effect.
+	Psoriasis 
+	DM
+	Obesity
+	"angina"  -  ETT MIBI negative 2/2149
+	Colonic polyps removed 4/21/2149 by Dr. Johnsen, at Guttenberg Care Center.
+	GERD
+	Barretts esophagitis  -  last endoscopy 1/2151  with Dr. Andrew Ludwig.
+
+MEDICATIONS  
+	Atenolol 50 mg qd
+	Glucophage (metformin)  500 mg bid
+	Lisinopril 60 mg qd
+	Dovonex cm prn
+	Simvastatin 40 mg qd
+	Vesicare 5 qd    Oxybutynin, chloride 5 mg qid
+	Aleve  bid
+	Nexium 40 mg qd
+	Zocor 40 mg qod
+	Cozaar 100 mg qd
+	HCTZ 12.5 mg qd  -  was given perscription, but has not filled yet.
+	Metamucil prn and enulose prn.  -  likes to alternate them.
+
+ALLERGIES
+	Reports had a severe reaction to one of the psoriasis medications in the past.	
+
+SOCIAL HISTORY
+	Widowed
+	Denies smoking
+
+FAMILY HEALTH
+	 non contrib.
+
+PHYSICAL EXAMINATION:
+	BP: 120/70        P60        R: 18
+	SKIN: minimal psoriatic changes
+	HEENT: anicteric, sclera clear. 
+	NECK:  Supple, no adenopathy, no thyromegaly
+	CHEST: few bibasilar rales, clear with cough.
+	COR:   Normal S1, physiologically split S2
+	ABD:   Normal BS, no masses or tenderness;  no organomegaly
+	EXT: tr edema bilaterally.
+
+IMPRESSION:
+Obesity - no improvement
+Hypertension   - excellent today. 
+Sleep apnea -  denies difficulty sleeping and not interested in C-PAP again.
+Urinary incontinence  -  much improved on new regimen.
+Barrett's esophagus followup endoscopy negative 1/2151.
+Arthritis-  still with right knee pains and hip pain.
+Constipation  --  remains major complaint.
+
+PLAN:
+Metamucil 1 tsp qd  -  has not been taking, but works when he takes it .
+Enulose every other day prn - causes diarrhea
+Same meds for now.
+Follow up with Dr. Edgar.
+Follow up in 3 months	
+	
+	Norman X. Jewett, MD
+
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2151-09-12" TYPE="DATE" comment="" />
+<DATE id="P1" start="29" end="47" text="September 12, 2151" TYPE="DATE" comment="" />
+<NAME id="P2" start="48" end="62" text="Ishida, Nathan" TYPE="PATIENT" comment="" />
+<LOCATION id="P3" start="63" end="66" text="BMC" TYPE="HOSPITAL" comment="" />
+<ID id="P4" start="67" end="76" text="879 20 76" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P5" start="584" end="590" text="2/2149" TYPE="DATE" comment="" />
+<DATE id="P6" start="615" end="624" text="4/21/2149" TYPE="DATE" comment="" />
+<NAME id="P7" start="632" end="639" text="Johnsen" TYPE="DOCTOR" comment="" />
+<LOCATION id="P8" start="644" end="666" text="Guttenberg Care Center" TYPE="HOSPITAL" comment="" />
+<DATE id="P9" start="715" end="721" text="1/2151" TYPE="DATE" comment="" />
+<NAME id="P10" start="732" end="745" text="Andrew Ludwig" TYPE="DOCTOR" comment="" />
+<DATE id="P11" start="1886" end="1892" text="1/2151" TYPE="DATE" comment="" />
+<NAME id="P12" start="2155" end="2160" text="Edgar" TYPE="DOCTOR" comment="" />
+<NAME id="P13" start="2188" end="2204" text="Norman X. Jewett" TYPE="DOCTOR" comment="" />
+</TAGS>
+</deIdi2b2>

@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2079-03-13
+
+
+HMH
+null                                      GEIGER, XANDER
+Rayne, MI null                                      01729440
+null                                           03/13/79
+
+
+HISTORY OF PRESENT ILLNESS:  The patient has a known history of
+hypopituitarism and hypertension who comes in today for routine
+annual exam.  He states that he has been feeling exceptionally
+well.  No history of chest pain, angina, dyspnea on exertion,
+shortness of breath, abdominal complaints.  No difficulties in
+bowel habits, melena, BRBPR.  No prostatic symptoms of urinary
+hesitancy or slow stream.  He states that he has been carefully
+taking his prednisone and testosterone as prescribed, as well as
+his blood pressure medicines including lisinopril 40 q.d.,
+atenolol 75 q.d., and his cholesterol medicine 10 of Lipitor q.d.
+ He is no longer taking the hydrochlorothiazide that was
+prescribed to him in the past.  He also states that he has run
+out of Synthroid and has not been taking that for the past
+several weeks.
+
+The patient states that he is staying active, getting some
+exercise, continues to abstain from smoking or drinking, and has
+an appropriate diet.
+
+REVIEW OF SYSTEMS:  On full review of systems, he denies any
+current concerns except for occasional difficulty maintaining an
+erection, which he states is not a significant problem for him.
+
+MEDICATIONS:  Lipitor 10 q.d., testosterone q.3. weeks,
+prednisone 5 mg q.a.m. 2.5 mg q.p.m., lisinopril 40 mg q.d., and 
+atenolol 75 mg q.d.
+
+PAST MEDICAL HISTORY:  Panhypopituitarism secondary to
+macroadenoma resection and hypertension.
+
+HEALTH MAINTENANCE:  Last cholesterol level 06/2077, total 171
+with an HDL of 57 and LDL of 86.  The patient has not had a prior
+colonoscopy.  Last PSA was less than assay 1 year ago.
+
+PHYSICAL EXAMINATION:  Well appearing, in no acute distress. 
+Blood pressure elevated at 170/84, heart rate 60.  HEENT:  Pupils
+equal, round, reactive to light.  Extraocular movements are
+intact.  Fundi are benign.  Oropharynx is clear.  Tympanic
+membranes are clear.  Neck:  Shows no lymphadenopathy, no
+thyromegaly.  He does have a 3 x 3 cm cyst on his posterior neck
+that seems to be a lipoma.  JVP is flat.  Carotids are 2+ without
+bruits.  Lungs:  Clear to auscultation bilaterally.  Cardiac: 
+Regular rate and rhythm, S1, S2 normal, positive S4, 1/6 systolic
+murmur at the apex.  Abdomen:  Midline scar status post some type
+of cord resection.  Positive bowel sounds, soft, nontender,
+nondistended, no hepatosplenomegaly.  Aorta is nonpalpable. 
+There are no renal bruits.  Femoral arteries are without bruits. 
+GU:  Testicles appear normal.  Penis appears normal.  Rectal: 
+Guaiac negative brown stool.  Prostate is smooth and nonenlarged.
+ Extremities:  No clubbing, cyanosis or edema.  Normal sensation
+to vibratory in the feet.
+
+ASSESSMENT AND PLAN:  The patient is a very pleasant 77-year-old
+man who is overall doing extremely well except for his
+hypertension which is poorly controlled.  I am unclear as to why
+he stopped his hydrochlorothiazide, but I think that this should
+be restarted as we do not have any further room with his
+lisinopril or atenolol.  He will begin at 25 mg q.d.  I will have
+his electrolytes checked today and come back and see me in 2
+weeks' time for a repeat electrolyte check as well as blood
+pressure check, and further medication adjustment if necessary. 
+We will also check urinalysis for protein as well as an EKG at
+this time given his hypertension.
+
+Hyperlipidemia, on Lipitor.  We will recheck cholesterol today.
+
+Panhypopituitarism.  He seems to be doing well on his medications
+except that he stopped his TSH dose for unclear reasons.  I have
+instructed him to restart his Synthroid and given him new
+prescriptions.  We will recheck thyroid panel at this time.
+
+Health maintenance.  We will check a PSA and schedule a
+colonoscopy today.
+
+He will return to clinic in 2 weeks' time for a BP check.
+
+
+______________________________
+NATHAN WHALEY, M.D.
+
+eScription document:6-3377872
+
+DD: 03/13/79
+DT: 03/14/79
+DV: 03/13/79
+
+========================== Preceptor's Note ==========================
+
+
+
+
+
+========================== Preceptor's Note ==========================
+
+
+
+77 yo man here for fu pmhx of htn, panhypopit . no complaints today. he is taking all his meds except for his hctz. bp is high today. p of 60. plan to resume his hctz, check chol, tsh, psa, colonscopy. pt seen, discussed with resident, plan as above. 
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2079-03-13" TYPE="DATE" comment="" />
+<LOCATION id="P1" start="29" end="32" text="HMH" TYPE="HOSPITAL" comment="" />
+<NAME id="P2" start="75" end="89" text="GEIGER, XANDER" TYPE="PATIENT" comment="" />
+<LOCATION id="P3" start="90" end="95" text="Rayne" TYPE="CITY" comment="" />
+<LOCATION id="P4" start="97" end="99" text="MI" TYPE="STATE" comment="" />
+<ID id="P5" start="142" end="150" text="01729440" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P6" start="198" end="206" text="03/13/79" TYPE="DATE" comment="" />
+<DATE id="P7" start="1658" end="1665" text="06/2077" TYPE="DATE" comment="" />
+<AGE id="P8" start="2891" end="2893" text="77" TYPE="AGE" comment="" />
+<NAME id="P9" start="3977" end="3990" text="NATHAN WHALEY" TYPE="DOCTOR" comment="" />
+<ID id="P10" start="4018" end="4027" text="6-3377872" TYPE="IDNUM" comment="" />
+<DATE id="P11" start="4033" end="4041" text="03/13/79" TYPE="DATE" comment="" />
+<DATE id="P12" start="4046" end="4054" text="03/14/79" TYPE="DATE" comment="" />
+<DATE id="P13" start="4059" end="4067" text="03/13/79" TYPE="DATE" comment="" />
+<AGE id="P14" start="4219" end="4221" text="77" TYPE="AGE" comment="" />
+</TAGS>
+</deIdi2b2>

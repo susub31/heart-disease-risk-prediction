@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2093-10-18
+
+NAME:     Wilson, Gabriel
+
+MRN:     8514931
+
+
+
+HISTORY OF PRESENT ILLNESS:  Gabriel Wilson is a 72-year-old Croatian
+
+female, referred by Dr. Fraser for evaluation of complaints of dizziness. Her daughter,
+
+who is a Library Manager here, accompanies her mother today. Apparently, for
+
+many years, perhaps as many as five, her mother has complained of "feeling pulled"
+
+when she walks. This never occurs when lying down or sitting. It is only when she is
+
+walking that she feels she is being pulled, either to the right, left, forward or
+
+backward. At times, she does visibly veer when she walks. She has had one fall a
+
+number of months ago when she broke her wrist. She has not had any subsequent
+
+falls. There is no associated true spinning vertigo, no associated visual change,
+
+numbness, weakness, change in gait, change in speech and no headache. She actually
+
+feels that over the past few weeks, it has been a little better, though prior to that, it
+
+was a little more severe. Unable to associate this with any clear intervention.
+
+Unaware of any precipitating or alleviating symptoms. 
+
+
+
+Review of other systems notable for general fatigue. Otherwise unremarkable. No
+
+chest pain, shortness of breath or abdominal pain. 
+
+
+
+PAST MEDICAL HISTORY: Hepatitis B, diabetes, hypertension, GE reflux,
+
+hyperlipidemia, depression, cataracts. 
+
+
+
+MEDICATIONS:  Aspirin, Colace, Cozaar, Flonase, Fosamax, hydrochlorothiazide,
+
+Lopid, meclizine p.r.n., Protonix, Prozac, Vioxx. 
+
+
+
+FAMILY HISTORY: Negative for neurologic disease. 
+
+
+
+SOCIAL HISTORY:  She is widowed and lives with her niece. She neither drinks nor
+
+smokes. 
+
+
+
+PHYSICAL EXAMINATION: On exam, she is a pleasant, quiet, soft-spoken,
+
+72-year-old female. BP 140/84. Cranial nerves II through XII intact to detailed exam,
+
+except for decreased hearing on the left. On motor exam, no rigidity, no drift. Good
+
+power throughout upper and lower extremities. She does, however, seem mildly
+
+bradykinetic diffusely. Finger tapping was slow bilaterally and symmetric. Amplitude
+
+is normal for finger tapping. Power in the lower extremities 5/5. Sensory exam with
+
+mild vibratory loss in the toes. Finger-to-nose testing intact. Foot-tapping decreased
+
+bilaterally. Romberg sway. Her gait is slightly wide-based, with occasional veering to
+
+either side. She is unable to perform tandem. DTR's 2+ throughout, except for 1+
+
+ankle jerks. Babinski flexor bilaterally. 
+
+
+
+DATA: MRI/MRA of the brain 8/30 shows mild to moderate white matter
+
+hyperintensity in the corona radiata, centrum semiovale and moderate bilateral
+
+pontine involvement and multifocal lacunar infarcts of the lentiform nuclei, right
+
+internal capsule and bilateral thalami. Intracranial atherosclerosis is seen involving the
+
+anterior middle cerebral arteries with a greater degree of involvement of the
+
+posterior cerebral arteries and intermittent development of moderate mid-segment
+
+stenosis of the basilar artery. Bloodwork 2/27: SMA7 normal, except glucose 134. 8/30
+
+bili, total protein, albumin, globulin within normal limits. LFT's normal except SGOT
+
+elevated at 46. 
+
+
+
+IMPRESSION: 72-year-old female with diabetes, chronic hepatitis C and
+
+hypertension, complaining of basically veering of her gait and feeling unsteady. She is
+
+symptomatic only when she walks. Her exam is notable for mild vibratory loss in the
+
+toes, likely due to diabetic neuropathy, bilateral lower-extremity dysmetria and the
+
+wide-based, at times veering gait. It appears that her gait difficulties with veering  are
+
+multifactorial, due to history of multiple lacunar infarcts and peripheral neuropathy.
+
+It does not appear that these episodes are due to transient ischemic attacks, given
+
+that she veered in the office while walking and stated that this was the symptom she
+
+is concerned about.  However, given her mid-segment basilar stenosis seen on MRI,
+
+she certainly could become symptomatic from this down the road, particularly if she
+
+became hypotensive. As she was unable to tolerate Aggrenox, will try adding
+
+Persantine at a lower dose at 25 mg b.i.d., along with an aspirin per day, to see if she
+
+can tolerate gradually increased doses of Persantine. I will see her in follow up in two
+
+months to see how she is doing. May also consider checking CBC, given her
+
+symptoms of fatigue and other bloodwork should these symptoms persist. 
+
+
+
+Hope Kincaid, M.D.
+
+
+
+CC: Julie Fraser, M.D.
+
+
+
+HK/crane/kang
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2093-10-18" TYPE="DATE" comment="" />
+<NAME id="P1" start="38" end="53" text="Wilson, Gabriel" TYPE="PATIENT" comment="" />
+<ID id="P2" start="64" end="71" text="8514931" TYPE="MEDICALRECORD" comment="" />
+<NAME id="P3" start="104" end="118" text="Gabriel Wilson" TYPE="PATIENT" comment="" />
+<AGE id="P4" start="124" end="126" text="72" TYPE="AGE" comment="" />
+<LOCATION id="P5" start="136" end="144" text="Croatian" TYPE="COUNTRY" comment="" />
+<NAME id="P6" start="170" end="176" text="Fraser" TYPE="DOCTOR" comment="" />
+<PROFESSION id="P7" start="244" end="259" text="Library Manager" TYPE="PROFESSION" comment="" />
+<AGE id="P8" start="1725" end="1727" text="72" TYPE="AGE" comment="" />
+<DATE id="P9" start="2478" end="2482" text="8/30" TYPE="DATE" comment="" />
+<DATE id="P10" start="2979" end="2983" text="2/27" TYPE="DATE" comment="" />
+<DATE id="P11" start="3018" end="3022" text="8/30" TYPE="DATE" comment="" />
+<AGE id="P12" start="3143" end="3145" text="72" TYPE="AGE" comment="" />
+<NAME id="P13" start="4388" end="4400" text="Hope Kincaid" TYPE="DOCTOR" comment="" />
+<NAME id="P14" start="4414" end="4426" text="Julie Fraser" TYPE="DOCTOR" comment="" />
+<NAME id="P15" start="4436" end="4438" text="HK" TYPE="DOCTOR" comment="" />
+<NAME id="P16" start="4439" end="4444" text="crane" TYPE="DOCTOR" comment="" />
+<NAME id="P17" start="4445" end="4449" text="kang" TYPE="DOCTOR" comment="" />
+</TAGS>
+</deIdi2b2>

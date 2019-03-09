@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2093-07-04
+
+
+
+	CARDIOLOGY
+
+	
+
+	KELLIHER CARE CENTER
+
+	
+
+
+
+	Reason for visit:
+
+   s/p cerebral angiogram w/ placement stent to left carotid
+
+
+
+	Interval History:
+
+   The patient is a 68 yo male w/ hx TIA '82. Since then, he has had no further subsequent events, but was recently diagnosed with a left-sided carotid artery bruit. CNI's revealed 70% to 89% left internal carotid artery stenosis and he was therefore referred for cerebral angiography. He is now admitted to the Cardilogy Unit s/p sucesful placement of Xact stent. He arrived on Wllison 11 pain free and hemodynamically stable.
+
+
+
+	Past medical history:
+
+   TIA '82
+
+Coronary artery disease
+
+Hypertension.
+
+Hyperlipidemia.
+
+Gastroesophageal reflux disease.
+
+Asthma
+
+Anxiety
+
+BPH
+
+
+
+	Medications (Confirmed):
+
+	
+
+Advair  500/50mcg spray inh bid
+
+atenolol  50mg po daily
+
+Cozaar  50 mg qd
+
+enteric coated aspirin  325 mg qd
+
+Lipitor  10 mg qd
+
+Nexium  40 mg qhs
+
+Norvasc  2.5 mg qd
+
+Plavix  75mg po daily
+
+terazosin  2 mg qd
+
+Valium  2mg po bid PRN
+
+Zantac  150 mg qam
+
+
+
+Allergies:
+
+	
+
+Drug reaction   Demerol ~ bradycardia
+
+
+
+	Social history:
+
+   Divorced, adult children, lives in Winston-salem Nv, works in economics
+
+Tobacco: None
+
+ETOH:1-2 beers/week
+
+Diet:Follows Weight Watchers diet
+
+Exercise:Walks daily, treadmill 2 x/week
+
+
+
+	Review of systems:
+
+   chronic anxiety well controlled w/ Valium, occ headache, + BPH symptoms w/ 2-3 x nocturia otherwise negative in detail.
+
+
+
+Physical examination:
+
+	
+
+-BMI: 26.6  Overweight, moderate risk
+
+-Pulse: 50  
+
+-weight: 185  lbs.
+
+-General:   No acute distress.
+
+-Skin:   No rashes, anicteric.
+
+-Neck:   Carotids 2+ without bruits. JVP flat, no jugular venous distention.
+
+-Chest:   Clear to auscultation anteriorly
+
+-Cardiac:   Regular rate and rhythm with a normal S1 and S2.  There is no evidence of S3 or S4.  There is no evidence of significant murmurs, rubs, or gallops
+
+-Abdomen:   Soft, nontender, and nondistended.  There is no evidence of hepatosplenomegaly or palpable masses.  No evidence of epigastric bruits
+
+-Extremities:   Reveal 2+ femoral artery pulses without any evidence of bruits.  There is also bilateral 2+ popliteal and PT pulses.  There is no evidence of clubbing, cyanosis, or edema
+
+-Neuro:   No focal deficits
+
+-BP: 138/69   
+
+-resp. rate: 16  
+
+-height: 70  in.
+
+-temp:   
+
+
+
+Selected recent labs:
+
+	 Metabolic
+
+Date     NA       K        CL       CO2      BUN      CRE      GLU      CA       
+
+07/03/93 141      4.3      104      26.6     19       1.1      200      9.4      
+
+
+
+Lipid/Thyroid
+
+Date     CHOL     TRIG     HDL      LDL      
+
+07/03/93 145      276      37       53       
+
+
+
+Hematology
+
+Date     HCT      WBC      PLT      
+
+07/03/93 38.7     5.6      155      
+
+
+
+Immunology
+
+Date     HGBA1C   
+
+01/02/93 7.20     
+
+
+
+
+
+	
+
+
+
+	Assessment and plan:
+
+   68 yo male w/ hx CAD, HTN, remote TIA w/ recently discovered asymptomatic left carotid stenosis now s/p sucesfull stnet placement.
+
+
+
+Neuro:Stable, continue ASA/plavix
+
+CV:Continue current medical regimen, monitoring for bradycardai/hypotension.
+
+HLD:Continue current regimen, triglycerides elevated ? r/t DM as HgbA1c was elevated in january, will recheck, consider adding niaspan
+
+?DM:Recheck HgbA1c, cover w/ RISS as needed, nutrition consult for diet education, concider adding gliburide.
+
+
+
+Further per Dr Villa
+
+
+
+Changes to Medications this visit
+
+	
+
+atenolol 50mg  po daily
+
+terazosin 2 mg   qd
+
+Norvasc 2.5 mg   qd
+
+Cozaar 50 mg   qd
+
+Lipitor 10 mg   qd
+
+Zantac 150 mg   qam
+
+Nexium 40 mg   qhs
+
+enteric coated aspirin 325 mg   qd
+
+Valium 2mg  po bid PRN
+
+Advair 500/50mcg spray  inh bid Start: 07/04/2093
+
+Plavix 75mg  po daily Start: 07/04/2093
+
+	
+
+Queen F. Hodge, NP pager #78686
+
+	
+
+Transcribed by: Queen F Hodge
+
+	
+
+Signed electronically by  Queen F. Hodge, NP
+
+Document Status: Final
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2093-07-04" TYPE="DATE" comment="" />
+<LOCATION id="P1" start="47" end="67" text="KELLIHER CARE CENTER" TYPE="HOSPITAL" comment="" />
+<AGE id="P2" start="198" end="200" text="68" TYPE="AGE" comment="" />
+<DATE id="P3" start="219" end="222" text="'82" TYPE="DATE" comment="" />
+<DATE id="P6" start="640" end="643" text="'82" TYPE="DATE" comment="" />
+<LOCATION id="P7" start="1160" end="1173" text="Winston-salem" TYPE="CITY" comment="" />
+<LOCATION id="P8" start="1174" end="1176" text="Nv" TYPE="STATE" comment="" />
+<PROFESSION id="P9" start="1187" end="1196" text="economics" TYPE="PROFESSION" comment="" />
+<LOCATION id="P10" start="1247" end="1262" text="Weight Watchers" TYPE="ORGANIZATION" comment="" />
+<DATE id="P11" start="2453" end="2461" text="07/03/93" TYPE="DATE" comment="" />
+<DATE id="P12" start="2600" end="2608" text="07/03/93" TYPE="DATE" comment="" />
+<DATE id="P13" start="2699" end="2707" text="07/03/93" TYPE="DATE" comment="" />
+<DATE id="P14" start="2771" end="2779" text="01/02/93" TYPE="DATE" comment="" />
+<AGE id="P15" start="2826" end="2828" text="68" TYPE="AGE" comment="" />
+<DATE id="P16" start="3161" end="3168" text="january" TYPE="DATE" comment="" />
+<NAME id="P17" start="3337" end="3342" text="Villa" TYPE="DOCTOR" comment="" />
+<DATE id="P18" start="3630" end="3640" text="07/04/2093" TYPE="DATE" comment="" />
+<DATE id="P19" start="3671" end="3681" text="07/04/2093" TYPE="DATE" comment="" />
+<NAME id="P20" start="3686" end="3700" text="Queen F. Hodge" TYPE="DOCTOR" comment="" />
+<CONTACT id="P21" start="3712" end="3717" text="78686" TYPE="PHONE" comment="" />
+<NAME id="P22" start="3738" end="3751" text="Queen F Hodge" TYPE="DOCTOR" comment="" />
+<NAME id="P23" start="3782" end="3796" text="Queen F. Hodge" TYPE="DOCTOR" comment="" />
+</TAGS>
+</deIdi2b2>

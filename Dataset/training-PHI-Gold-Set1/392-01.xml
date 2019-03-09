@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2111-09-26
+
+CC:  Ear pain, cough
+
+HPI:  49 y.o. female c/o cough with clear mucus, left ear pain and nasal congestion for the past week.  She denies any chest pain, shortness of breath, fever, chills or sweat.  No sore throat.  She does smoke about one pack/day for 25 years and does not want to quit.  She also notes problems with bending her right thumb without h/o trauma, pain, parathesias or numbness.  Symptoms present for past 3 months.
+
+
+Allergies
+NKA   
+
+Health Maint
+Cholesterol 03/10/01 222   
+Mammogram 11/02/97 see report in Results   
+Pap Smear 09/28/99 see report in Results   
+HbA1c 08/22/2106 10.70   
+
+Procedures
+Hysterectomy   
+
+
+Flowsheets
+BLOOD PRESSURE 110/70  
+WEIGHT 206 lb 
+
+HENT:  PERRLA, oral w/out lesions, neck supple, nasal turbinates mildly enlarged with no sinus tenderness.  No lymphadenopathy and TMs clear.
+LUNGS:  CTA
+EXT:  Inability to bend right thumb without tenderness, warmth or swelling.
+
+A/P:  1.  Allergies with cough.  Claritin and robitussin for cough and given smoking history will check chest xray.
+2.  Right thumb stiffness.  Check xray and referral to orthopedics.
+3.  Health maint.  Pt. declined physical and on reviewing chart noted to have diabetes.  Recommend f/u for physical and assessment of diabetes.
+
+
+
+_____________________________________________
+Grace C. Valerie-Yun, M.D.
+
+
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2111-09-26" TYPE="DATE" comment="" />
+<AGE id="P1" start="56" end="58" text="49" TYPE="AGE" comment="" />
+<DATE id="P2" start="505" end="513" text="03/10/01" TYPE="DATE" comment="" />
+<DATE id="P3" start="531" end="539" text="11/02/97" TYPE="DATE" comment="" />
+<DATE id="P4" start="575" end="583" text="09/28/99" TYPE="DATE" comment="" />
+<DATE id="P5" start="615" end="625" text="08/22/2106" TYPE="DATE" comment="" />
+<NAME id="P6" start="1324" end="1344" text="Grace C. Valerie-Yun" TYPE="DOCTOR" comment="" />
+</TAGS>
+</deIdi2b2>

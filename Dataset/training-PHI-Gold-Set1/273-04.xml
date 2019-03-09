@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2078-06-03
+
+					
+Novolog 3-10 tid	683-51-28
+Lantus 19-20 at hs	Xuan, Wendy
+Neoral 100/100 mg bid 
+CellCept 1000 mg bid 
+Toprol XL 25 mg qd, not yet started
+Lipitor 10 mg qd
+Neurontin 600/1200 mg bid
+Tums 200 mg ii qd (should be at least bid)
+Prilosec 20 mg bid
+MVI i bid
+ASA 325 mg qd
+Quinine Sulfate 260 mg at hs
+Tylenol 1325 mg over the day for arthritis
+Wellbutrin 150 mg bid
+Androgel to leg qd
+DHEA qd
+
+Jun 03, 2078
+
+Interim History:	
+Comes to review her medical problems.
+
+Has lost weight thanks to some spring viral illnesses     she is pleased about it.
+Reports that her control has not been good and does not have records.
+No severe hypoglycemia.
+Retinopathy:	Still has not seen Dr. Aragon. No subjective change in visual acuity.
+Nephropathy:	Cr 1.7 in January. Has not seen transplant MDs in a couple of years. Formerly saw Dr. Hayes. 
+Neuropathy:	No foot discomfort.
+Cardiac:	Has occasional high substernal chest tightness, every couple of weeks, over about 6 months, unrelated to exercise. Can last up to 15 minutes. Has not become more frequent. Sees Dr. Dotson annually. Has sensation about weekly that she cannot swallow, liquids>solids. Has had this for over a year and it has not been progressive.  
+Vascular:	No claudication.
+
+Past Medical History: 
+Medications: wants to reduce costs     asks about generics for Lipitor, transplant meds. 
+
+Family History: 
+Wendee has been profiled in the media because of her work as an industrial engineer 
+
+Social History: 
+Jake is well. His parents have been ill. 
+
+Review of Systems: above
+Psych: Referred to urologist at KJH, Dr. Xayachack (? sp) because of absent libido. He made the switch from Celexa to Wellbutrin and added Androgel and DHEA. She has noted more acne or no more libido. The loss of libido precedes the Celexa and the possibility of its relationship to Neoral or CellCept has been raised. 
+She sees her gynecologist regularly.
+
+Physical Exam:	
+Looks remarkably well.
+BP:   160/98   170/88		P:   60, regular	
+Wt:   153 without shoes, down 15
+HEENT:	Anicteric. 
+Fundi:	Limited views; laser scars; some ? fibrous bands OS. No active lesions seen.
+Carotids:	Normal pulses, without bruits
+Thyroid:	20-25 grams, firm without nodules.
+Chest:	Clear to auscultation
+Heart:	Normal S1; physiologic S2.  S4.  2/6 systolic ejection murmur
+Abdomen:	No hepatosplenomegaly. No masses. No tenderness. No palpable AAA. 
+Extremities:	No edema.  Pedal pulses all 1-2+ except L PT not palpable.           Small blister, resolving L 5th toe. Small crust L medial malleolus. 
+
+Impressions and Plan:	
+Hard to assess control without data. Hopefully her weight loss does not reflect terrible control.
+BP much too high. Start Toprol 25 mg qd.
+I have no objection to switch to simvastatin from atorvastatin for  cost reasons, but she must check with the transplant MDs re: this switch because of Neoral interaction with statins.
+Her chest pain does not sound particularly cardiac but will ask Dr. Dotson whether he wants any further evaluation. 
+MUST     see Dr. Aragon, see transplant MD. Make these appointments for her today.
+Will get barium swallow because of her dysphagia - ? disorganized esophageal contractions; consider manometry with Dr. Quam.
+A1c, Electrolytes, BUN/Creatinine, Ca, P, A/G, 25-(OH) vitamin D, PTH, CBC, urinalysis. Has already taken her Neoral today.
+Fasting lipids another day.
+Stool guaiacs. Has not done them.
+
+Appointments:	NP 1 week to check BP
+	Me 3 months
+
+cc:	Xavier Dotson, M.D.
+	Transplant Clinic
+
+
+			Yacob T. Kane, M.D., Ph.D.
+
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2078-06-03" TYPE="DATE" comment="" />
+<ID id="P1" start="51" end="60" text="683-51-28" TYPE="MEDICALRECORD" comment="" />
+<NAME id="P2" start="80" end="91" text="Xuan, Wendy" TYPE="PATIENT" comment="" />
+<DATE id="P3" start="424" end="436" text="Jun 03, 2078" TYPE="DATE" comment="" />
+<DATE id="P4" start="526" end="532" text="spring" TYPE="DATE" comment="" />
+<NAME id="P5" start="708" end="714" text="Aragon" TYPE="DOCTOR" comment="" />
+<DATE id="P6" start="778" end="785" text="January" TYPE="DATE" comment="" />
+<NAME id="P7" start="854" end="859" text="Hayes" TYPE="DOCTOR" comment="" />
+<NAME id="P8" start="1084" end="1090" text="Dotson" TYPE="DOCTOR" comment="" />
+<NAME id="P9" start="1392" end="1398" text="Wendee" TYPE="PATIENT" comment="" />
+<PROFESSION id="P10" start="1456" end="1475" text="industrial engineer" TYPE="PROFESSION" comment="" />
+<NAME id="P11" start="1495" end="1499" text="Jake" TYPE="PATIENT" comment="" />
+<LOCATION id="P12" start="1595" end="1598" text="KJH" TYPE="HOSPITAL" comment="" />
+<NAME id="P13" start="1604" end="1613" text="Xayachack" TYPE="DOCTOR" comment="" />
+<NAME id="P14" start="2962" end="2968" text="Dotson" TYPE="DOCTOR" comment="" />
+<NAME id="P15" start="3028" end="3034" text="Aragon" TYPE="DOCTOR" comment="" />
+<NAME id="P16" start="3213" end="3217" text="Quam" TYPE="DOCTOR" comment="" />
+<NAME id="P17" start="3460" end="3473" text="Xavier Dotson" TYPE="DOCTOR" comment="" />
+<NAME id="P18" start="3504" end="3517" text="Yacob T. Kane" TYPE="DOCTOR" comment="" />
+</TAGS>
+</deIdi2b2>

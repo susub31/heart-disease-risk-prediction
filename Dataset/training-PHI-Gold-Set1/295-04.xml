@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2081-03-08
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                
+ 
+
+
+Vascular Surgery
+
+History and Physical
+
+________________________________________________________________________
+
+
+Attending: Godfrey, Kelley
+Fellow: Godfrey, Stanley
+Junior: Orosco, Vincent I.
+  
+Patient: Vieira, Nathan B.
+MRN: 0666729
+Date: 3/8/2081
+
+
+HPI: This is a 74 y.o. M with h.o CAD and PVD s/p bilateral lower extremity bypass grafting procedures complicated by a thrombus in the L side of the iliac portion of the graft for which he has been on coumadin. In anticipation for a follow-up cardiac catheterization (recent episodes of shortness of breath), his coumadin was held since Thursday (3/6/2081). Then on 3/7/2081, he was noted by medical staff to have a slightly cool L lower extremity. The patient states that it has felt this way with some intermittent pain at rest for the last several weeks. He complained of both numbness and pain, and he was started on a heparin drip when his INR fell to less than 2.0. Dr. Atwood who did his initial operation was contacted and he was arranged for transfer to RCH. He arrives today (3/8/2081) on a heparin drip.
+
+
+
+PHMx: 
+
+
+DM (insulin-dependent)
+CAD (recent echo showed EF 55-60% but inferior wall infarct in 9/2080; stress test in 11/2080 showed no reversible ischemia)
+PVD
+Bladder atony
+Psoriasis
+HTN
+HL
+
+
+PSHx: 
+
+
+R femoral to below-knee popliteal bypass graft with 6-mm PTFE ring (2/2078)
+L femoral below-knee popliteal bypass graft with 6-mm PTFE (4/2078)
+Open thrombectomy femoral-popliteal bypass graft (12/2078)
+Left femoral artery cutdown, graft thrombectomy, patch angioplasty of common femoral artery, patch angioplasty of proximal bypass graft, angiogram of left lower extremity, balloon angioplasty of posterior tibial artery, balloon angioplasty of peroneal artery, balloon angioplasty of tibioperoneal artery with placement of balloon expandable stent (5/2080)
+Popliteal exploration with graft thrombectomy. stent placement for stenosis of proximal graft (5/2080)
+Incision and drainage and VAC dressing to left lower extremity wound x 2 (7/2080)
+
+
+Medications:
+
+Lasix 40 IV BID
+Coumadin 3 mg QD
+Enalapril 5 mg BID
+Coreg 3.125 BID
+ASA 81 QD
+Lipitor 20 QD
+Glyburide 10 BID
+Zocor 40 QHS
+Lantus insulin 30 U QHS and sliding scale
+MVI
+Clonazepam PRN
+Tylenol PRN
+Colace 100 BID PRN
+Soriatane CK 250 mg TID (for psoriasis)
+Bactroban ointment to LLE
+
+
+Allergies: Adhesive tape
+
+
+Family Hx: Noncontributory
+
+
+Social Hx: Lives at home.
+
+
+ROS: As per HPI.
+
+
+Physical Exam:
+
+Vitals:             T 99.4, HR 87, BP 117/59, RR 18, 100% on RA
+GEN:              Well-appearing in NAD, A&amp;Ox3
+HEENT:         NC/AT, PERRL, EOMI, no jaundice
+CV:                 RRR, no M/R/G
+PULM:           CTAB
+ABD:              Soft, NT/ND, +BS
+EXT:              L foot slightly cooler than R foot, well-healed medial knee incision on LLE, no open wounds
+NEURO:        Non-focal, moving all extremities
+PULSES:       Carotids 2+, no bruits
+                        Radials 2+
+                        Femorals 2+
+                        Politeals NP
+                        PTs NP
+                        DPs NP
+                                                                                    
+Laboratory Studies: Pending
+
+
+Imaging: CXR pending
+
+
+EKG: Pending
+
+
+Impression: 74 y.o. M with HTN, PVD, HL, DM who presents several days after stopping coumadin for a planned cardiac catheterization with cold, pulseless LLE consistent with acute on chronic thrombosis of L femoral to below-the-knee bypass graft.
+
+
+
+Plan:
+
+
+Routine admission labs
+Continue heparin gtt (PTT goal 60-80)
+F/U INR/creatinine
+Mucomyst
+Gentle fluids
+CTA angiogram with distal runoff of B/L lower extremities
+
+
+
+
+
+
+______________________________
+Vincent I. Orosco, M.D.  
+PGY2 General Surgery
+Pager #46717
+
+
+Case discussed with Stanley Godfrey, M.D., vascular fellow.
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2081-03-08" TYPE="DATE" comment="" />
+<NAME id="P1" start="192" end="207" text="Godfrey, Kelley" TYPE="DOCTOR" comment="" />
+<NAME id="P2" start="216" end="232" text="Godfrey, Stanley" TYPE="DOCTOR" comment="" />
+<NAME id="P3" start="241" end="259" text="Orosco, Vincent I." TYPE="DOCTOR" comment="" />
+<NAME id="P4" start="272" end="289" text="Vieira, Nathan B." TYPE="PATIENT" comment="" />
+<ID id="P5" start="295" end="302" text="0666729" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P6" start="309" end="317" text="3/8/2081" TYPE="DATE" comment="" />
+<AGE id="P7" start="335" end="337" text="74" TYPE="AGE" comment="" />
+<DATE id="P8" start="658" end="666" text="Thursday" TYPE="DATE" comment="" />
+<DATE id="P9" start="668" end="676" text="3/6/2081" TYPE="DATE" comment="" />
+<DATE id="P10" start="687" end="695" text="3/7/2081" TYPE="DATE" comment="" />
+<NAME id="P11" start="997" end="1003" text="Atwood" TYPE="DOCTOR" comment="" />
+<LOCATION id="P12" start="1084" end="1087" text="RCH" TYPE="HOSPITAL" comment="" />
+<DATE id="P13" start="1107" end="1115" text="3/8/2081" TYPE="DATE" comment="" />
+<DATE id="P14" start="1234" end="1240" text="9/2080" TYPE="DATE" comment="" />
+<DATE id="P15" start="1257" end="1264" text="11/2080" TYPE="DATE" comment="" />
+<DATE id="P16" start="1410" end="1416" text="2/2078" TYPE="DATE" comment="" />
+<DATE id="P17" start="1478" end="1484" text="4/2078" TYPE="DATE" comment="" />
+<DATE id="P18" start="1536" end="1543" text="12/2078" TYPE="DATE" comment="" />
+<DATE id="P19" start="1893" end="1899" text="5/2080" TYPE="DATE" comment="" />
+<DATE id="P20" start="1996" end="2002" text="5/2080" TYPE="DATE" comment="" />
+<DATE id="P21" start="2078" end="2084" text="7/2080" TYPE="DATE" comment="" />
+<AGE id="P22" start="3285" end="3287" text="74" TYPE="AGE" comment="" />
+<NAME id="P23" start="3728" end="3745" text="Vincent I. Orosco" TYPE="DOCTOR" comment="" />
+<CONTACT id="P24" start="3782" end="3787" text="46717" TYPE="PHONE" comment="" />
+<NAME id="P25" start="3810" end="3825" text="Stanley Godfrey" TYPE="DOCTOR" comment="" />
+</TAGS>
+</deIdi2b2>

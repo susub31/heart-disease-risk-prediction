@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2092-03-11
+
+
+
+
+
+NAME:     Hendrickson, Ora 
+
+MRN:      7194334
+
+
+
+This patient is here for a follow-up.  She was seen with a very complete evaluation 
+
+by Ida Oquinn for her recurrent urinary tract infections.  She submitted a
+
+urine sample initially that appeared fairly clean but then after straight cathing her
+
+urine Ida was able to obtain cloudy foul smelling urine.  A fair amount retained
+
+as postvoid residual.  Ms. Hendrickson completed her 14 days of Levaquin with
+
+resolution of her symptoms but now over the past few days she has noticed an odor
+
+and cloudiness to her urine again without fevers of dysuria or urinary urgency.  She
+
+has anxiety associated with the possible reasons why she should have recurrent
+
+infections.  She is most concerned about having cancer.  She is scheduled to see Dr.
+
+Quezada March 24th.  The patient reports increased anxiety of late as there have
+
+been issues going around the housing projects.  A 14-year-old girl was raped and
+
+one week later an individual was climbing a tree to try to get into her apartment. 
+
+She ended up combating him with a broom and he ran away.  She did not file a
+
+police report.  As a result of this she has had more problems with her anxiety.  She
+
+reports compliance with all her medications except that she ran out of her Lasix
+
+approximately one week ago.  She had been taking 20 mg one-half to one tablet
+
+sporadically but not on a regular basis.  She denies any chest pressure or
+
+palpitations.  She denies any shortness of breath.  She denies any problems with
+
+pain in her right foot or increased swelling of her left ankle.
+
+
+
+PHYSICAL EXAM:  Blood pressure is 156/90.  Heart is regular rate and rhythm. 
+
+No murmurs, gallops or rubs.  UA reveals positive nitrate and 2+ leukocytes.  Her
+
+ankle reveals trace edema on the left.  Her right extremity is warm to palpation.  
+
+
+
+ASSESSMENT AND PLAN:  
+
+
+
+(1)  Hypertension.  Blood pressure has been high over the past two visits.  This
+
+     may be due to the fact that she has not been taking her Lasix.  I have
+
+     restarted her on the Lasix 20 mg to take one-half tablet q.d. on a regular
+
+     basis.  
+
+
+
+(2)  Anxiety.  I will write a letter for her to the Rupert Housing Council to try
+
+     to get her moved out of this current housing project to a safer environment.
+
+
+
+(3)  Recurrent urinary tract infections.  She had a urine culture submitted today. 
+
+     She was given another prescription for Levaquin 150 mg one PO q.d.  She
+
+     will stay on this until her appointment with Dr. Quezada.  I attempted to
+
+     reassure her that it is unlikely that cancer is the cause for her current
+
+     recurrent infections.  It is more likely due to her cystocele.
+
+
+
+(4)  Peripheral vascular disease.  This appears stable.  She remains off the
+
+     cigarettes.  
+
+
+
+(5)  ASCVD.  She remains without symptoms.  
+
+
+
+(6)  GERD.  She remains on the Prilosec.
+
+
+
+(7)  Hyperlipidemia.  She remains on Lipitor.  She should have a repeat
+
+     cholesterol obtained with a new primary care physician in the fall.
+
+
+
+(8)  Borderline high sugar.  The patient should also have this rechecked with the
+
+     new physician in the fall.
+
+
+
+Mary Isham, M.D.
+
+
+
+MI/ussery/echols
+
+
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2092-03-11" TYPE="DATE" comment="" />
+<NAME id="P1" start="42" end="58" text="Hendrickson, Ora" TYPE="PATIENT" comment="" />
+<ID id="P2" start="71" end="78" text="7194334" TYPE="MEDICALRECORD" comment="" />
+<NAME id="P3" start="171" end="181" text="Ida Oquinn" TYPE="DOCTOR" comment="" />
+<NAME id="P4" start="337" end="340" text="Ida" TYPE="DOCTOR" comment="" />
+<NAME id="P5" start="440" end="451" text="Hendrickson" TYPE="PATIENT" comment="" />
+<NAME id="P6" start="827" end="834" text="Quezada" TYPE="DOCTOR" comment="" />
+<DATE id="P7" start="835" end="845" text="March 24th" TYPE="DATE" comment="" />
+<AGE id="P8" start="959" end="961" text="14" TYPE="AGE" comment="" />
+<LOCATION id="P9" start="2210" end="2216" text="Rupert" TYPE="CITY" comment="" />
+<LOCATION id="P10" start="2217" end="2232" text="Housing Council" TYPE="ORGANIZATION" comment="" />
+<NAME id="P11" start="2543" end="2550" text="Quezada" TYPE="DOCTOR" comment="" />
+<NAME id="P12" start="3179" end="3189" text="Mary Isham" TYPE="DOCTOR" comment="" />
+<NAME id="P13" start="3199" end="3201" text="MI" TYPE="DOCTOR" comment="" />
+<NAME id="P14" start="3202" end="3208" text="ussery" TYPE="DOCTOR" comment="" />
+<NAME id="P15" start="3209" end="3215" text="echols" TYPE="DOCTOR" comment="" />
+</TAGS>
+</deIdi2b2>

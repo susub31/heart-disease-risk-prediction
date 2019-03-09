@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2093-06-30
+
+
+
+
+NAME:     Oliver, Uriah 
+MRN:       7916007
+
+Primary Care Provider:  Dr. Patterson
+
+Mr. Oliver returns for follow-up of several issues.
+
+Weight 175.  Blood pressure 130/80. 
+
+MEDICATIONS:   He finished Flagyl last night, and he took his last dose of levoflox
+today.  Glyburide is on hold.  He is taking hydrochlorothiazide 25 mg q.d., Lovastatin
+20 mg q.d., fosinopril 40 mg q.d., verapamil SR 240 mg q.d., ASA 1 q.d., metoprolol
+75 mg three times a day and Glucophage 1000 mg b.i.d.  
+
+(1)  Diverticulitis and history of colon cancer.  
+
+     S:   His pain is gone although he continues to have a bad taste in his mouth
+          since he has been on antibiotics. 
+
+     O:   His abdomen is soft with normal bowel sounds.  There is no tenderness
+          today.  
+
+     P:   He will need colonoscopy at the Atlantic North in a month or so. 
+
+(2)  Diarrhea.  
+
+     S:   He has continued to have several soft, dark bowel movements a day
+          while he has been taking the antibiotic.  He has not seen any bright red
+          blood per rectum.  He has been using Equal and eating ice cream.  
+
+     O:   Stool for C. diff. and stool C&S were both negative. 
+
+     P:   I asked him to discontinue artificial sweeteners and milk products,
+          except for yogurt, for 3 days.  He will call if the diarrhea persists off the
+          antibiotic.  
+
+(3)  Guaiac-positive stool on examination last week.  
+
+     O:   His hematocrit had increased to 35.7 last week.  
+
+     P:   Recheck CBC.  He will bring me the name of his GI physician at the
+          Atlantic North so that I can communicate with him about the recent events
+          and arrange for follow-up colonoscopy.  
+
+(4)  Dizziness.  
+
+     S:   This has resolved. 
+
+(5)  Diabetes. 
+
+     S:   He stopped glyburide as directed last week when his 4 p.m. blood sugar
+          was 44.  His fingerstick blood sugar was 192 this morning.  He reports
+          that he is eating much better.  
+
+     P:   He will restart glyburide 5 mg q.d. when his blood sugar is greater than
+          200.
+
+(6)  Systolic murmur and right bundle branch block.
+
+     P:   His echocardiogram has been requested but he has not yet received the
+          appointment.  
+
+(7)  Coronary artery disease.  
+
+     S:   He has had no chest pain.  He apparently had an appointment last week
+          for an exercise tolerance test at the Atlantic North but the technician was
+          not there.  He has another appointment later this week with the doctor
+          at the Atlantic North.
+
+     P:   I gave him a copy of the final NYSH discharge summary from his recent
+          hospitalization as well as copies of the EKGs done during the
+          hospitalization and a copy of the abdominal CT report to take to his
+          doctor at the Atlantic North.
+
+(8)  Proteinuria during the hospitalization. 
+
+     O:   His serum creatinine was 1.5 (likely elevated given his age).  Repeat
+          urinalysis showed 1+ albumin with no other significant abnormalities. 
+
+     P:   Check 24-hour urine for protein and creatinine.  Check serum protein
+          electrophoresis and urine immunoelectrophoresis. 
+
+(9)  Chronic anemia.  
+
+     O:   He had normal iron studies, B12 and folate several months ago.  His
+          hematocrit was stable as of last week.  
+
+     P:   Check serum protein electrophoresis and urine immunoelectrophoresis.  
+
+(10) Decreased HDL.  
+
+     A:   We could either add niacin or change his statin from Mevacor to Lipitor
+          to increase the HDL.  
+
+     P:   I have deferred this issue to his primary care physician. 
+
+He will return for follow-up in 2 weeks so that we can make final arrangements for
+the colonoscopy and to check progress with his diabetes. 
+
+
+
+Ciara J. Goldberg, M.D.
+
+CG/nation/olivo 
+
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2093-06-30" TYPE="DATE" comment="" />
+<NAME id="P1" start="41" end="54" text="Oliver, Uriah" TYPE="PATIENT" comment="" />
+<ID id="P2" start="67" end="74" text="7916007" TYPE="MEDICALRECORD" comment="" />
+<NAME id="P3" start="104" end="113" text="Patterson" TYPE="DOCTOR" comment="" />
+<NAME id="P4" start="119" end="125" text="Oliver" TYPE="PATIENT" comment="" />
+<LOCATION id="P5" start="840" end="854" text="Atlantic North" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P6" start="1590" end="1604" text="Atlantic North" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P7" start="2408" end="2422" text="Atlantic North" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P8" start="2544" end="2558" text="Atlantic North" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P9" start="2602" end="2606" text="NYSH" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P10" start="2816" end="2830" text="Atlantic North" TYPE="HOSPITAL" comment="" />
+<NAME id="P11" start="3771" end="3788" text="Ciara J. Goldberg" TYPE="DOCTOR" comment="" />
+<NAME id="P12" start="3796" end="3798" text="CG" TYPE="DOCTOR" comment="" />
+<NAME id="P13" start="3799" end="3805" text="nation" TYPE="DOCTOR" comment="" />
+<NAME id="P14" start="3806" end="3811" text="olivo" TYPE="DOCTOR" comment="" />
+</TAGS>
+</deIdi2b2>

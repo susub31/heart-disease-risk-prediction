@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2059-01-10
+
+EDVISIT^43471375^Kimbrough, Amelia^01/10/59^KRIEGER, STEVEN
+
+I confirm that I have interviewed and examined the patient,
+
+reviewed the resident's documentation on the patient's chart, and
+
+discussed the evaluation, plan of care, and disposition with the
+
+patient and the resident, Dr. Frantz.  Please see his note for
+
+full details.
+
+HISTORY OF PRESENT ILLNESS:  This is a 46-year-old female who
+
+complains of shortness of breath and productive cough.  She has
+
+had a history of diabetes, high cholesterol, depression, renal
+
+disease, GERD, of nephrotic hypothyroidism, and history of
+
+nephrotic syndrome secondary to minimal change disease and
+
+nephropathy.  She presents with 3 weeks of productive cough with
+
+shortness of breath began about 3 weeks prior to presentation
+
+while in the Denmark, 2 days later she began having a
+
+productive cough with sputum that was green, copious and
+
+malodorous at this time.  She states that she is having fever,
+
+chills, shortness of breath, epistaxis, neck and back pain, and
+
+edema.  No nausea or diarrhea and no headache.
+
+PAST SURGICAL HISTORY:  She has had a thyroidectomy.
+
+SOCIAL HISTORY:  She denies tobacco, ETOH, or IV drugs.  She
+
+lives with her family.
+
+MEDICATIONS:  She is on multiple medications.  Please see
+
+resident's and nurse's note for those.
+
+ALLERGIES:  She has an ACE inhibitor allergy.
+
+PHYSICAL EXAMINATION:  She is awake, alert, and in
+
+mild-to-moderate distress.  Temperature is 97, pulse is 109,
+
+respiratory rate 24, blood pressure 139/81, and saturations are
+
+100%.  Pharynx is normal.  Her neck is supple and nontender.  She
+
+has decreased air movement with some wheezing bilaterally.  Her
+
+heart is tachycardic without a murmur.  Her abdomen is distended
+
+and nontender.  Skin is intact.  She has pedal edema.  She is
+
+oriented x3 with normal neuro exam.
+
+LABORATORY DATA:  Her white count is 6, her platelets are
+
+377,000, and hematocrit is 29.  Sodium is 135 and potassium is
+
+2.9.  BUN is 27, creatinine is 4.7, and glucose 79.  Her calcium
+
+is 6.3.  Urine is pending.  Her chest x-ray shows no pneumonia
+
+with an elevated left hemidiaphragm.
+
+PLAN:  At this time, the plan is for her to receive further
+
+laboratory analysis, UA, and EKG.  We are going to contact her
+
+PCP and Renal and going to admit her.
+
+PRIMARY DIAGNOSES:
+
+1.  Shortness of breath.
+
+ ******** Not reviewed by Attending Physician ********
+
+3.  Acute renal failure, chronic renal insufficiency.
+
+4.  Hypokalemia.
+
+5.  Hypocalcemia.
+
+DISPOSITION:  She should be admitted.
+
+CONDITION:  She is in satisfactory condition.
+
+______________________________
+
+KRIEGER, STEVEN M.D.
+
+D: 02/02/59
+
+T: 02/02/59
+
+Dictated By: KRIEGER, STEVEN
+
+eScription document:3-9490927 BFFocus
+
+
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2059-01-10" TYPE="DATE" comment="" />
+<ID id="P1" start="36" end="44" text="43471375" TYPE="MEDICALRECORD" comment="" />
+<NAME id="P2" start="45" end="62" text="Kimbrough, Amelia" TYPE="PATIENT" comment="" />
+<DATE id="P3" start="63" end="71" text="01/10/59" TYPE="DATE" comment="" />
+<NAME id="P4" start="72" end="87" text="KRIEGER, STEVEN" TYPE="DOCTOR" comment="" />
+<NAME id="P5" start="313" end="319" text="Frantz" TYPE="DOCTOR" comment="" />
+<AGE id="P6" start="401" end="403" text="46" TYPE="AGE" comment="" />
+<LOCATION id="P7" start="816" end="823" text="Denmark" TYPE="COUNTRY" comment="" />
+<NAME id="P8" start="2623" end="2638" text="KRIEGER, STEVEN" TYPE="DOCTOR" comment="" />
+<DATE id="P9" start="2648" end="2656" text="02/02/59" TYPE="DATE" comment="" />
+<DATE id="P10" start="2661" end="2669" text="02/02/59" TYPE="DATE" comment="" />
+<NAME id="P11" start="2684" end="2699" text="KRIEGER, STEVEN" TYPE="DOCTOR" comment="" />
+<ID id="P12" start="2721" end="2730" text="3-9490927" TYPE="IDNUM" comment="" />
+</TAGS>
+</deIdi2b2>

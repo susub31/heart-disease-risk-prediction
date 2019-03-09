@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2059-04-08
+
+EDVISIT^43471375^KIMBROUGH, AMELIA^04/08/59^PHILLIPS, URHO
+
+I have reviewed the resident's note on the record and seen and
+
+examined the patient personally.  I concur with the resident's
+
+findings.
+
+HISTORY OF PRESENT ILLNESS:  Briefly, this is an extraordinarily
+
+complex 47-year-old patient with renal insufficiency, nephrotic
+
+syndrome, and severe anemia who was scheduled to receive some
+
+intravenous iron today but the presence of multiple abnormalities
+
+in her blood prompted her to be referred here instead for
+
+admission.  She herself complains of generalized weakness but
+
+does not have any localizing or acute new symptoms.  Remainder of
+
+history and physical examination were reviewed and verified and
+
+are as noted.
+
+PHYSICAL EXAMINATION:  The patient is awake and alert.  Speech is
+
+normal in rate, rhythm, and quality.  Skin is warm and dry.  She
+
+is in no distress.  She has some bibasilar moist rales but heart
+
+sounds are completely normal.
+
+LABORATORY DATA:  As noted and have multiple abnormalities.  It
+
+was reflected on the record.  Calcium is 5.5, albumin is 1.7,
+
+creatinine is 7.0, and the remainder as noted.  Electrocardiogram
+
+does not show any acute changes.
+
+IMPRESSION:  This patient has anemia, hypocalcemia, and
+
+hypomagnesemia.  We discussed this with the Internal Medicine who
+
+will be admitting her to see if they can get her in better
+
+metabolic balance.
+
+FINAL DIAGNOSES:
+
+1.  Anemia.
+
+2.  Hypocalcemia.
+
+3.  Hypomagnesemia.
+
+4.  Nephrotic syndrome.
+
+5.  Renal failure.
+
+DISPOSITION:  The patient will be admitted to hospital.
+
+ ******** Not reviewed by Attending Physician ********
+
+CONDITION:  Satisfactory.
+
+______________________________
+
+PHILLIPS, URHO M.D.
+
+D: 04/08/59
+
+T: 04/08/59
+
+Dictated By: PHILLIPS, URHO
+
+eScription document:7-0764263 BF
+
+
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2059-04-08" TYPE="DATE" comment="" />
+<ID id="P1" start="36" end="44" text="43471375" TYPE="MEDICALRECORD" comment="" />
+<NAME id="P2" start="45" end="62" text="KIMBROUGH, AMELIA" TYPE="PATIENT" comment="" />
+<DATE id="P3" start="63" end="71" text="04/08/59" TYPE="DATE" comment="" />
+<NAME id="P4" start="72" end="86" text="PHILLIPS, URHO" TYPE="DOCTOR" comment="" />
+<AGE id="P5" start="301" end="303" text="47" TYPE="AGE" comment="" />
+<NAME id="P7" start="1708" end="1722" text="PHILLIPS, URHO" TYPE="DOCTOR" comment="" />
+<DATE id="P8" start="1732" end="1740" text="04/08/59" TYPE="DATE" comment="" />
+<DATE id="P9" start="1745" end="1753" text="04/08/59" TYPE="DATE" comment="" />
+<NAME id="P10" start="1768" end="1782" text="PHILLIPS, URHO" TYPE="DOCTOR" comment="" />
+<ID id="P11" start="1804" end="1813" text="7-0764263" TYPE="IDNUM" comment="" />
+</TAGS>
+</deIdi2b2>

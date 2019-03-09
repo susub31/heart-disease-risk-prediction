@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2090-03-03
+
+                                                       Patient Name: ORDONEZ,YAMILEX [ MRN: 0083716SNH ]
+
+                                                         Date of Visit: 3/03/2090
+
+
+
+
+
+
+
+
+
+Chief Complaint	
+
+Here for follow up of her DM, HTN, CVA.
+
+
+
+History of Present Illness	
+
+Reports her DM well controlled, FS usually 100-150, rare lows.  Last saw ophtamology less than 1 yr ago, will go again soon.  Has not seen a foot doctor, says nails need trimming, denies numbness, tingling, ulcers.
+
+
+
+Says HTN well controlled.  Denies CP, SOB, PND, orthopnea.  She does report some increased LE edema to ankles bilaterally.
+
+
+
+She is followed at the anticoagulation clinic for her coumadin dosing.
+
+
+
+Past Medical History	
+
+DM
+
+HTN
+
+s/p CVA
+
+CRI
+
+
+
+Medications	    
+
+COUMADIN (WARFARIN SODIUM)	 2.5MG PO QD as directed
+
+CALCIUM CARBONATE + VIT D	 250MG PO TID
+
+MULTIVITAMIN (THERAPEUTIC MULTIVITAMINS)	 1TAB PO QD
+
+HYDROCHLOROTHIAZIDE	 25MG PO QD
+
+AMLODIPINE	 10MG PO QD
+
+NPH HUMULIN INSULIN (INSULIN NPH HUMAN)	 15 SC QAM
+
+ZESTRIL (LISINOPRIL)	 2.5MG 1 Tablet(s) PO QD
+
+*   ACUCHECK ADVANTAGE STRIPS	 1STRIP Topical As directed
+
+
+
+Family History	
+
+Father:    good health
+
+Mother:   good health
+
+Siblings:   good health
+
+
+
+Cancer - none
+
+Heart Disease - none
+
+DM - none
+
+HTN - none
+
+
+
+Habits	
+
+Non-smoker.
+
+Alcohol   drinks/week.
+
+Caffeine   drinks/day.
+
+No drugs.
+
+Diet:
+
+Exercise: 
+
+
+
+Social History	
+
+Lives 
+
+Works
+
+
+
+Review of Systems	
+
+General - Neg
+
+Eyes - Neg
+
+Ears - Neg
+
+Mouth - Neg
+
+Heart and Lungs - Neg
+
+GI - Neg
+
+GU - Neg
+
+Musc-skel - Neg
+
+Skin - Neg
+
+Neuro - Neg
+
+Emotional - Neg
+
+Endocrine - Neg
+
+Hematologic - Neg
+
+
+
+Vital Signs	    
+
+Temperature:	 98.8   Fahrenheit
+
+Pulse:	 80   Regular
+
+Weight:	 181   Pounds
+
+Blood Pressure:	 150/50   Left Arm
+
+
+
+Physical Exam	  
+
+General Appearance	
+
+NAD
+
+
+
+Skin	
+
+No suspicious lesions.
+
+HEENT	
+
+NCAT. EOMI. PERRL. fundi normal. No pharyngeal erythema. Good dentition.
+
+Neck	
+
+No adenopathy. No thyromegaly.
+
+Chest	
+
+Clear bilat.
+
+Cor/Cardiac	
+
+S1S2 RR. No murmurs, rubs, or gallops.
+
+Abdomen	
+
++BS, soft, NTND. No masses.
+
+Extremity	
+
+No edema. 2+ pedal pulses.
+
+
+
+Problems	    
+
+Diabetes mellitus	      
+
+Hypertension	      
+
+S/P cerebrovascular accident	      
+
+Chronic renal dysfunction	      
+
+
+
+Plan	
+
+1. DM- refilled NPH 15 U q am.  Check Hgb a1c.  Referred to podiatry.  Encouraged opthamology exam.
+
+
+
+2. HTN- will check lytes for renal dysfn today before adjusting meds.  Pt will return in one month for BP check.  Check lipids.  Continue HCTZ, ACEI, norvasc.
+
+
+
+3. CVA- check INR.  Dose of coumadin adjusted by coumadin clinic.
+
+
+
+4. CRI- check Cr today, consider adjusting Zestril.
+
+
+
+5. Maintenance- had BMD and mammogram.  Refuses colonoscopy, flu shot.  Check TFTs.
+
+
+
+6. Code status- pt wishes to be DNI.  ON next visit, provide with living will info.
+
+
+
+
+
+______________________________                              
+
+
+
+Edward M. Yao, M.D.
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2090-03-03" TYPE="DATE" comment="" />
+<NAME id="P1" start="97" end="112" text="ORDONEZ,YAMILEX" TYPE="PATIENT" comment="" />
+<ID id="P2" start="120" end="127" text="0083716" TYPE="MEDICALRECORD" comment="" />
+<LOCATION id="P3" start="127" end="130" text="SNH" TYPE="HOSPITAL" comment="" />
+<DATE id="P4" start="206" end="215" text="3/03/2090" TYPE="DATE" comment="" />
+<NAME id="P5" start="2925" end="2938" text="Edward M. Yao" TYPE="DOCTOR" comment="" />
+</TAGS>
+</deIdi2b2>

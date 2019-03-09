@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2132-11-25
+
+Vascular Surgery Admission Note
+
+
+
+Patient Name:  Jain, Oliver
+
+MRN:  9628518 
+
+Date and Time: 11/25/32 2:40PM
+
+Attending: Dr. Uselton
+
+Fellow: Dr. Uselton
+
+Junior Resident: Dr. Gonzales
+
+
+
+cc: L popliteal aneursym
+
+
+
+HPI: Mr. Jain is a 66 year old male with a h/o DM, HTN, HL, Chronic Afib, PVD and bilateral popliteal aneurysm s/p atheroembolic event to RLE w/ resultant RLE ischemia and dry gangrene of heel, toes and forefoot.  During his prior admission in September, he underwent diagnostic angio which showed occluded R SFA, thrombosed R popliteal aneurysm and occluded R posterior tibial artery.  On 10/01, he underwent a R SFA to BK popliteal bpg w/ saphenous vein graft; revised intraoperatively w/ AK pop to BK pop BPG using 8mm PTFE and angioplasty to the R PTA.  He has been doing well since discharge in October. His dry gangrene is stable and well demarcated.  He uses a special shoe at home for walking on RLE to offset weight on his toes and heel. 
+
+
+
+He denies recent h/o fevers/chills, N/V, abdominal pain, or neurological sx.
+
+
+
+
+PMH: 
+
+B popliteal aneursyms
+
+DM
+
+PVD
+
+HTN
+
+HL
+
+Chronic Atrial fibrillation
+
+PSH: 
+
+10/01/32-R fem-BK pop w/ saphenous vein graft and 8mm PTFE
+
+9/28/32- Diagnostic angiogram
+
+8/2132-exploratory lap and drainage of splenic abscess
+
+L inguinal hernia repair
+
+R elbow surgery
+
+
+
+
+
+Meds: 
+
+  1. Aspirin Enteric Coated  325 MG PO QD
+
+  2. Calcium Carbonate 1250 Mg (500 Mg Elem Ca 1 TAB PO BID 
+
+
+
+3. Clopidogrel (Plavix )  75 MG PO QD-last dose 11/19
+
+  4. Digoxin  0.25 MG PO QD
+
+  5. Diltiazem  90 MG PO QID
+
+  6. Docusate Sodium (Colace)  100 MG PO BID
+
+  7. Hydromorphone Hcl (Dilaudid )  2-4 MG PO Q3H prn Pain  
+
+  8. Insulin Nph Human  15 units SC QAM BEFORE BREAKFAST
+
+  9. Insulin Nph Human  4 UNITS SC QHS
+
+
+10. Insulin Regular Inj  5 UNIT SC QAM BEFORE BREAKFAST
+
+
+11. Insulin Regular Inj  8 UNIT SC QPM BEFORE SUPPER
+
+
+12. Lansoprazole  30 MG PO QD
+
+
+13. Metoprolol Succinate Extended Release (Toprol Xl )  100 MG PO QD
+
+
+14. Pravastatin  20 MG PO QD
+
+
+15. Sennosides (Senna Tablets)  2 TAB PO QHS
+
+
+16. Warfarin Sodium (Coumadin )  5 MG PO QPM-last dose 11/22
+
+
+ALL:  oxacillin&#224;rash
+
+Family Hx: non-contributory
+
+
+Social: Lives in Hebbronville, MA with wife.
+
+Smoking: denies
+
+ETOH-denies
+
+
+
+
+
+ROS: as above, otherwise: denies CP, SOB, diarrhea, blood per rectum, bleeding or clotting disorders, urinary problems.
+
+
+
+
+
+PE: 
+
+VS: T 
+98  HR  64  BP 111/56   RR 18 97%  RA
+
+Well appearing male, NAD
+
+Carotid 2+ no bruits
+
+Irregularly irregular no m/r/g 
+
+Lungs CTAB
+
+Abd: soft, non tender, non distended +BS. Well healed-LUQ transverse incision.
+
+Extremities: Skin is dry bilateral feet. 
+
+RLE: Dry gangrene of entire 1st toe 2nd and 3rd toes, tips of 4th and 5th toes and forefoot.
+
+R heel w/ 5cm x 3cm eschar on posteriolateral surface.
+
+
+
+Pulses: R BK-pop BPG pulse is dopplerable
+
+
+
+     Rad    Fem   Pop   DP          PT
+
+R     2+    2+    --    Non-dop     dop
+
+L     2+    2+    2+    2+          2+
+
+
+
+
+
+PVR: pulsatile at bilateral ankles
+
+
+
+ECG: atrial fibrillation
+
+
+
+Imaging:
+
+
+
+CXR-pending
+
+
+A/P:  66M w/ a h/o HTN, HL, PVD and Bilateral popliteal aneursyms who presents for admission prior to L femoral to BK popliteal BPG tomorrow to exclude the L pop aneurysm.  
+
+-Admit to Vascular Surgery
+
+-Admission Labs
+
+-CXR/ECG
+
+-NPO after midnight
+
+-IVF/ &#189; dose NPH while NPO
+
+
+
+Case discussed with Dr. Nicholas Uselton, Vascular Fellow
+
+
+
+
+
+
+
+________________________________
+
+Brandi Xayasane PA-C 75197
+
+Vascular Surgery 
+
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2132-11-25" TYPE="DATE" comment="" />
+<NAME id="P1" start="78" end="90" text="Jain, Oliver" TYPE="PATIENT" comment="" />
+<ID id="P2" start="98" end="105" text="9628518" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P3" start="123" end="131" text="11/25/32" TYPE="DATE" comment="" />
+<NAME id="P4" start="155" end="162" text="Uselton" TYPE="DOCTOR" comment="" />
+<NAME id="P5" start="176" end="183" text="Uselton" TYPE="DOCTOR" comment="" />
+<NAME id="P6" start="206" end="214" text="Gonzales" TYPE="DOCTOR" comment="" />
+<NAME id="P7" start="255" end="259" text="Jain" TYPE="PATIENT" comment="" />
+<AGE id="P8" start="265" end="267" text="66" TYPE="AGE" comment="" />
+<DATE id="P9" start="490" end="499" text="September" TYPE="DATE" comment="" />
+<DATE id="P10" start="636" end="641" text="10/01" TYPE="DATE" comment="" />
+<DATE id="P11" start="846" end="853" text="October" TYPE="DATE" comment="" />
+<DATE id="P12" start="1162" end="1170" text="10/01/32" TYPE="DATE" comment="" />
+<DATE id="P13" start="1222" end="1229" text="9/28/32" TYPE="DATE" comment="" />
+<DATE id="P14" start="1253" end="1259" text="8/2132" TYPE="DATE" comment="" />
+<DATE id="P15" start="1519" end="1524" text="11/19" TYPE="DATE" comment="" />
+<DATE id="P16" start="2141" end="2146" text="11/22" TYPE="DATE" comment="" />
+<LOCATION id="P17" start="2223" end="2235" text="Hebbronville" TYPE="CITY" comment="" />
+<LOCATION id="P18" start="2237" end="2239" text="MA" TYPE="STATE" comment="" />
+<AGE id="P19" start="3099" end="3101" text="66" TYPE="AGE" comment="" />
+<NAME id="P20" start="3403" end="3419" text="Nicholas Uselton" TYPE="DOCTOR" comment="" />
+<NAME id="P21" start="3478" end="3493" text="Brandi Xayasane" TYPE="DOCTOR" comment="" />
+<CONTACT id="P22" start="3499" end="3504" text="75197" TYPE="PHONE" comment="" />
+</TAGS>
+</deIdi2b2>

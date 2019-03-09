@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2070-03-24
+
+Neurology Clinic Follow-up
+
+
+
+ID:  50 RHM s/p large R MCA stroke 10/20/69 with subsequent hemicraniectomy complicated by abdominal and head wound infections
+
+
+
+HPI:  Patient presented initially 10/20/69 after a fall due to the acute onset of left-sided weakness.  Head CT showed hypodensity in the R MCA territory, and CTA revealed R ICA occlusion.  The patient was admitted to the neuroICU.  Follow-up head CT the morning after admission revealed hypodensity involving the entire R MCA territory.  Because of malignant swelling, he went on to require hemicraniectomy which was performed by the Simmons Neurosurgery service.  He recovered and was discharged to rehab on 10/28 with left hemiplegia and dense left-sided neglect.  Aspirin was prescribed for stroke prophylaxis but was subsequently stopped at rehab for unclear reasons.
+
+
+
+His stroke work-up revealed a normal echocardiogram and 24-hr Holter monitor.  A hypercoagulability panel was negative.  Homocysteine was normal.  Serum lipid analysis revealed mild hypertriglyceridemia.
+
+
+
+The patient was re-admitted on 12/02 with an abdominal bone flap infection.  The flap was removed and long-term antibiotics prescribed.  He did well and then was re-admitted 01/01 with fever, headache, nausea, and vomiting.  His hemicraniectomy site revealed protruding brain which required revision in the OR.  Long-term antibiotics were again prescribed for possible infection of the site.  The patient did well, but routine follow-up MRI of the cranium on 3/8 shows a large, rim-enhancing, DWI bright fluid collection adjacent to the hemicraniectomy site.  This may represent abscess.  Dr. Bennett, Simmons Neurosurgery attending, intends to admit Mr. Rico 3/27 for fluid sampling and culture.  Additional operative intervention may be indicated if this fluid collection is indeed infected.  Patient denies fever or chills.  He has had headaches frequently during the past couple of weeks.  This was a major problem early in his course but then resolved.
+
+
+
+Mr. Rico has now been out of rehab for 2 months, and he is doing quite well.  He is able to walk with the assistance of a four-post cane.  His appetite is good, and he sleeps well on trazodone.  He has a very close family who is intimately involved in his medical care.  His spirits have been good considering the ordeal he has recently been through.  While in rehab, his wife apparently deserted him after accruing a great deal of credit card debt from gambling.  He cries when he tells me about this.  A close female friend has moved in to his home and cares for him 24 hours a day.  He is able to assist with ADLs but cannot function independently.  His left leg has some strength, but his arm remains completely paralyzed.  There are occasional twitches in the thumb that are not voluntary.
+
+
+
+He has had a great deal of left shoulder pain related to subluxation at that joint.  An orthopedist suggested that the family consider shoulder fusion at some point in the future when the patient has recovered maximal function in the arm.  He also has occasional hip pain on the same side that is less bothersome.  Neurontin has been helpful for the shoulder pain, though the family believes that higher doses lead to a depressed mood.  They are trying to decrease the amount of Dilaudid he uses. 
+
+
+
+PMHx:
+
+-stroke as above
+
+-HTN
+
+-hyperlipidemia
+
+-DM
+
+
+
+Meds:
+
+-Zestril 5
+
+-trazodone 150
+
+-Avandia 4
+
+-Glucophage 1000 bid
+
+-insulin
+
+-Neurontin 400 bid
+
+-Zantac
+
+-Lopressor 50 bid
+
+-Dilaudid 2 tid
+
+-Lidoderm patch to L shoulder
+
+-Pravachol 20
+
+-Paxil 20
+
+-folate, B vitamins
+
+
+
+All:  Allegra -> unknown reaction
+
+
+
+SoHx:  Lives with daughter and female friend.  Former RN.  No substance use of any kind.
+
+
+
+Exam:
+
+Gen - BP 120/75.  Pulse 56 and regular.  Well-appearing.
+
+MS - alert and fully oriented, fluent and conversant, attentive, aware of current events.  Mood is labile with crying or laughing as appropriate.
+
+CN - PERRL, EOMI, VFF with marked left-sided visual neglect, L face droop, tongue midline, SCM strong, unable to elevate shoulder on left, facial sensation intact
+
+Motor - 5/5 strength throughout on right, L arm flaccid with 0/5 strength throughout, L leg with 2-3/5 proximal strength, otherwise 0/5 
+
+Sens - intact to light touch throughout with marked extinction to DSS
+
+Reflex - brisk on the left side with upgoing toe; otherwise normal
+
+Coord - normal FNF on the left
+
+Gait - hemiplegic with circumduction of left leg, quite stable with cane
+
+
+
+Imp/Plan:   s/p R MCA stroke with hemicraniectomy, recovering nicely.  Potentially infected fluid collection at site of hemicraniectomy.  No evidence of systemic infection.  Subluxation of L shoulder.
+
+1.  Admit for neurosurgical management as discussed.  Bone prosthesis will be placed at some point in the future (when possibility of infection is definitively ruled out or treated).
+
+2.  Should be on aspirin for stroke/MI prophylaxis, but will discuss with Dr. Bennett before starting.
+
+3.  Continue aggressive BP/lipid management.
+
+4.  For neuropathic pain in the shoulder, will try Elavil 25 qhs.  Patient will stop trazodone.  If Elavil is helpful, may increase to 50 qhs after one week of therapy.  Once Elavil up to 50 qhs, would slowly taper Neurontin as per patient and family preference.  At next appointment, if persistent left arm paralysis (which is likely), will encourage surgical fusion of the shoulder.
+
+5.  Follow-up in 3 months.
+
+
+
+
+
+
+
+__________________________
+
+Leroy Kelly, M.D.
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2070-03-24" TYPE="DATE" comment="" />
+<AGE id="P1" start="63" end="65" text="50" TYPE="AGE" comment="" />
+<DATE id="P2" start="93" end="101" text="10/20/69" TYPE="DATE" comment="" />
+<DATE id="P3" start="222" end="230" text="10/20/69" TYPE="DATE" comment="" />
+<LOCATION id="P4" start="623" end="630" text="Simmons" TYPE="HOSPITAL" comment="" />
+<DATE id="P5" start="698" end="703" text="10/28" TYPE="DATE" comment="" />
+<DATE id="P6" start="1102" end="1107" text="12/02" TYPE="DATE" comment="" />
+<DATE id="P7" start="1245" end="1250" text="01/01" TYPE="DATE" comment="" />
+<DATE id="P8" start="1530" end="1533" text="3/8" TYPE="DATE" comment="" />
+<NAME id="P9" start="1664" end="1671" text="Bennett" TYPE="DOCTOR" comment="" />
+<LOCATION id="P10" start="1673" end="1680" text="Simmons" TYPE="HOSPITAL" comment="" />
+<NAME id="P11" start="1726" end="1730" text="Rico" TYPE="PATIENT" comment="" />
+<DATE id="P12" start="1731" end="1735" text="3/27" TYPE="DATE" comment="" />
+<NAME id="P13" start="2036" end="2040" text="Rico" TYPE="PATIENT" comment="" />
+<PROFESSION id="P14" start="3701" end="3703" text="RN" TYPE="PROFESSION" comment="" />
+<NAME id="P15" start="4964" end="4971" text="Bennett" TYPE="DOCTOR" comment="" />
+<NAME id="P16" start="5484" end="5495" text="Leroy Kelly" TYPE="DOCTOR" comment="" />
+</TAGS>
+</deIdi2b2>

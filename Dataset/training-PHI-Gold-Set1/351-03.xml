@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2080-01-13
+
+EDVISIT^10776605^Glenn, Olivia^01/14/80^WOODRUFF, FERNE
+
+I saw this patient in conjunction with Dr. Leyva and Dr.
+
+Forrest.  I confirm that I have interviewed and examined the
+
+patient, reviewed the resident's documentation on the patient's
+
+chart, and discussed the evaluation, plan of care, and
+
+disposition with the patient.
+
+CHIEF COMPLAINT:  A 65-year-old female with difficulty breathing.
+
+HISTORY OF PRESENT ILLNESS:  The patient with known multiple
+
+medical problems presents with difficulty breathing.  At her
+
+rehabilitation facility was noted to be hypoxic and thus was sent
+
+here.  The patient's recent past medical history is remarkable
+
+for a fall with cervical fractures, rib fractures, and subsequent
+
+hemothorax for which she was admitted to the Educare-Pullman ICU over the
+
+end of December through the beginning of January.  The patient's
+
+chest tube was withdrawn approximately 10 days ago and the
+
+patient has been doing well at rehab since.  However, today was
+
+noted to have desaturations to 80% on room air.  She had
+
+shortness of breath as well.  Her oxygen saturations improved
+
+marginally on oxygenation and have been responsive to
+
+nonrebreather treatment in the transport here.  The patient was
+
+treated with nebulizers and Lasix without significant improvement
+
+and is noted to be quite tachypneic.
+
+PAST MEDICAL HISTORY:  Remarkable for hypertension, CHF,
+
+diabetes, asthma, chronic renal insufficiency, osteoporosis,
+
+anemia, and cervical fracture.
+
+SOCIAL HISTORY, FAMILY HISTORY, AND REVIEW OF SYSTEMS:  Limited
+
+by the severity of the patient's presentation.
+
+MEDICATIONS:  Insulin, Zocor, PhosLo, calcium carbonate,
+
+Protonix, Niferex, Norvasc, Fosamax, Epogen, Lasix, lisinopril,
+
+Colace, and Xalatan.
+
+ALLERGIES:  Morphine and aspirin.
+
+PHYSICAL EXAMINATION:  The patient is awake and alert, in some
+
+degree of respiratory distress, however, able to interact and
+
+answer questions in 1-2 word sentences.  Vital signs are as
+
+documented with an elevated blood pressure of 176/96, pulse 76,
+
+and oxygen saturation is 98% on nonrebreather.  HEENT exam is
+
+atraumatic, normal to inspection.  The patient has a large tongue
+
+and her uvula is not visible at all.  Neck is immobilized in a
+
+C-collar and is obese.  Respiratory exam reveals decreased breath
+
+sounds diffusely with tachypnea and respiratory muscle accessory
+
+use.  Cardiovascular exam:  Regular rate and rhythm without
+
+murmur.  Pulses are palpable in all four extremities.  Abdomen is
+
+soft and nontender, obese, but without any organomegaly or
+
+masses, or guarding, or rebound.  Skin is intact, warm, and dry
+
+without any lesions or rash.  Musculoskeletal exam reveals
+
+tenderness over the right ribs where the patient has known rib
+
+fractures.  Neurologically, she is oriented with difficulty
+
+speaking due to respiratory distress but no focal neurologic
+
+deficit.
+
+LABORATORY STUDIES:  BNP is elevated in the 500-600 range.  White
+
+blood count is slightly elevated at 10, hematocrit 26.3, which is
+
+at the patient's baseline, and creatinine of 2.2.  LFTs within
+
+normal limit.  INR 1.2.  D-dimer significantly elevated.  EKG
+
+demonstrates sinus rhythm with nonspecific ST-T wave changes.
+
+IMAGING STUDIES:  Chest x-ray shows bilateral effusions, which
+
+are present previously but possibly slightly increased.
+
+EMERGENCY DEPARTMENT COURSE:  The patient was initially given
+
+Lasix and nitro with improvement in her blood pressure and was
+
+also started on CPAP.  She seemed to be improving clinically for
+
+some period of time but then began to decline in her mental
+
+status.  At that time an ABG was sent demonstrating hypoxia. 
+
+Prior to those results, the decision was made that the patient
+
+likely needed intubation.  We had hope to hold off to do a
+
+thoracentesis; however, the patient's clinical course declines
+
+such that it was not possible for her to sit up for the
+
+procedure.  On CPAP, the patient's oxygen saturations were stable
+
+throughout in the 90s, but she developed increasing respiratory
+
+distress.  Intubation was complicated by her inability to flex
+
+her neck, her large tongue, and her body habitus; was successful
+
+in two attempts with one episode of bag mask ventilation in
+
+between those attempts.  For full details of the procedure,
+
+please see the attached procedure note.  Thoracic Surgery was
+
+consulted.  They arrived as the patient was being intubated.  At
+
+this time their recommendation is for a CT scan of the chest to
+
+determine whether this is more likely a hemothorax or a pleural
+
+effusion and whether it is loculated.  This study will be
+
+performed and then patient will be admitted to her ready bed in
+
+the ICU.  A bedside ultrasound was also performed by myself and
+
+the resident demonstrating no obvious pericardial effusion.
+
+ ******** Not reviewed by Attending Physician ********
+
+PRIMARY DIAGNOSIS:  Bilateral pleural effusions.
+
+SECONDARY DIAGNOSIS:  Respiratory distress.
+
+TERTIARY DIAGNOSIS:  Question recurrent hemothorax versus pleural
+
+effusion.
+
+FOURTH DIAGNOSIS:  Question CHF.
+
+DISPOSITION:  Admitted to the ICU.
+
+CRITICAL CARE TIME:  75 minutes.
+
+______________________________
+
+WOODRUFF, FERNE MD
+
+D: 01/14/80
+
+T: 01/14/80
+
+Dictated By: WOODRUFF, FERNE
+
+eScription document:9-3389642 BFFocus
+
+
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2080-01-13" TYPE="DATE" comment="" />
+<ID id="P1" start="36" end="44" text="10776605" TYPE="MEDICALRECORD" comment="" />
+<NAME id="P2" start="45" end="58" text="Glenn, Olivia" TYPE="PATIENT" comment="" />
+<DATE id="P3" start="59" end="67" text="01/14/80" TYPE="DATE" comment="" />
+<NAME id="P4" start="68" end="83" text="WOODRUFF, FERNE" TYPE="DOCTOR" comment="" />
+<NAME id="P5" start="128" end="133" text="Leyva" TYPE="DOCTOR" comment="" />
+<NAME id="P6" start="143" end="150" text="Forrest" TYPE="DOCTOR" comment="" />
+<AGE id="P7" start="377" end="379" text="65" TYPE="AGE" comment="" />
+<LOCATION id="P8" start="791" end="806" text="Educare-Pullman" TYPE="HOSPITAL" comment="" />
+<DATE id="P9" start="828" end="836" text="December" TYPE="DATE" comment="" />
+<DATE id="P10" start="862" end="869" text="January" TYPE="DATE" comment="" />
+<NAME id="P11" start="5158" end="5173" text="WOODRUFF, FERNE" TYPE="DOCTOR" comment="" />
+<DATE id="P12" start="5181" end="5189" text="01/14/80" TYPE="DATE" comment="" />
+<DATE id="P13" start="5194" end="5202" text="01/14/80" TYPE="DATE" comment="" />
+<NAME id="P14" start="5217" end="5232" text="WOODRUFF, FERNE" TYPE="DOCTOR" comment="" />
+<ID id="P15" start="5254" end="5263" text="9-3389642" TYPE="IDNUM" comment="" />
+</TAGS>
+</deIdi2b2>

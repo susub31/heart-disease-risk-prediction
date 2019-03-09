@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2078-12-06
+
+Mr. Sparks is a 74 yr. M who is a new patient, 20 minutes late for his 30 minute appt. with multiple concerns and complaints.
+
+
+
+HPI: He says he's been seen at Mediquik for > 10 years, but his physician was fired and he has not seen anyone regularly for > 1 year; MANAMANA Internal Medicine has been taking care of him. He has multiple concerns:
+
+1. Diabetes. Needs to see an eye doctor.
+
+2. Hernia.
+
+3. Hypertension
+
+4. He needs to have his medications refilled - 9 of them.
+
+5. He had colonoscopy and EGD in May for hemoccult positive stools.
+
+
+
+Problems
+
+Adenomatous polyp : May 2078
+
+Gastritis : H. pylori positive
+
+Chronic renal dysfunction 
+
+Diabetes mellitus type 2 
+
+Hypertension 
+
+Hyperlipidemia 
+
+Anemia 
+
+hyperparathyroidism 
+
+Transient ischemic attack 
+
+
+
+Medications
+
+Amlodipine 10 MG (10MG TABLET take 1) PO QD 
+
+Lisinopril 40 MG (40MG TABLET take 1) PO QD 
+
+Rosuvastatin 40 MG (40MG TABLET take 1) PO QHS 
+
+Glipizide 10 MG (10MG TABLET take 1) PO BID 
+
+Pioglitazone 15 MG (15MG TABLET take 1) PO QD 
+
+Clopidogrel 75 MG (75MG TABLET take 1) PO QD 
+
+Furosemide 20 MG (20MG TABLET take 1) PO BID 
+
+Atenolol 25 MG (25MG TABLET take 1) PO QD 
+
+Ferrous GLUCONATE 300 MG PO BID 
+
+
+
+Allergies
+
+Aspirin - ulcer, : Allergy entered as ASA 
+
+Habits: no cigarettes, drugs or alcohol;
+
+
+
+ROS: denies weight change, fever, chills, fatigue, blurry vision, chest pains, palpitations, dyspnea, cough, abdominal pain, nausea, vomiting, change in bowel/bladder habits, joint pain, dizziness, exanthem, edema. 
+
+
+
+PE notable for:
+
+Well nourished well appearing M;
+
+Vital Signs
+
+BP 152/78, P 64, Wt 236 lb
+
+HEENT: sclera clear white OU, EOMI, ear canals and TMs wnl AU; oropharynx without lesions.
+
+LN: No palpable neck or SC LN;
+
+Cardiac: RRR, rate 64, no extra sounds
+
+Resp.: good air movement, no accessory muscle use, no adventitious sounds
+
+Abd.: no scars, BS+, nontender, no palpable masses;
+
+GU: right inguinal bulge.
+
+Ext.: good DP and PT bilat., no exanthem or edema;
+
+Neuro: CN II-XII intact bilat., reflexes 2/4 Brachioradialis, Biceps, Knee, Ankle bilat.
+
+
+
+Plan:
+
+1. Diabetes: good A1c in Nov. 10. Referring for ophtho.
+
+2. Right inguinal hernia, referring to surgery.
+
+3. Hypertension: inadequate in a diabetic. Will address on RTC, with limited options at this point.
+
+4. After risk/benefit discussion, given influenza and pneumovax vaccines;
+
+5. Renewed all 9 medications;
+
+6. RTC one month. Be on time.
+
+
+
+
+
+
+
+
+
+
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2078-12-06" TYPE="DATE" comment="" />
+<NAME id="P1" start="32" end="38" text="Sparks" TYPE="PATIENT" comment="" />
+<AGE id="P2" start="44" end="46" text="74" TYPE="AGE" comment="" />
+<LOCATION id="P3" start="188" end="196" text="Mediquik" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P4" start="292" end="300" text="MANAMANA" TYPE="HOSPITAL" comment="" />
+<DATE id="P6" start="538" end="541" text="May" TYPE="DATE" comment="" />
+<DATE id="P7" start="606" end="614" text="May 2078" TYPE="DATE" comment="" />
+<DATE id="P8" start="2123" end="2130" text="Nov. 10" TYPE="DATE" comment="" />
+</TAGS>
+</deIdi2b2>

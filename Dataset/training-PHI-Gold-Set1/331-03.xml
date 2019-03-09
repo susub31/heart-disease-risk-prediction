@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2079-08-13
+
+EDVISIT^42272668^SPARKS, CHARLES^8/13/2079^SORENSEN, SAUL
+
+This patient was seen with resident, Dr. Leach.  Resident's note
+
+was reviewed.  The patient was seen and examined by me, and I
+
+confirm the resident's findings.
+
+HISTORY OF PRESENT ILLNESS:  In brief, this is a 74-year-old
+
+gentleman who presents with 2 days of chills, fevers, fatigue,
+
+and increased urinary frequency.  He has no other complaints or
+
+associated symptoms.
+
+Please review resident's note for full details of past medical
+
+history, social history, review of systems, medications, and
+
+allergies.
+
+PHYSICAL EXAMINATION:  I confirm the physical exam is as
+
+documented.  The patient is awake, alert, in mild to moderate
+
+respiratory distress, breathing with a respiratory rate at 34,
+
+oximetry noted at 88% on room air, temperature is 102 Fahrenheit,
+
+pulse is 104, blood pressure is 213/89, and oximetry came up
+
+nicely to 93% on 4 liters and 100% on nonrebreather facemask. 
+
+Neck is supple.  Mucous membranes are dry.  Lungs reveal slightly
+
+decreased breath sounds at the bases; however, there are few
+
+crackles noted in the left lower base.  Heart is tachycardic but
+
+regular.  The remainder of the exam is unremarkable.
+
+LABORATORY DATA:  White count is noted at 11.6 and hematocrit
+
+28.2.  This is close to the patient's baseline.  BUN and
+
+creatinine 69 and 5.8, 5.8 is quite elevated for this patient. 
+
+However, he has been evaluated for recent diagnosis of renal
+
+failure by the Nephrology Service.  Bicarbonate is 21 and
+
+potassium is 4.3.  Urinalysis reveals some blood and protein,
+
+otherwise not suggestive of an infection.  EKG is tachycardic
+
+with left ventricular hypertrophy in a strain pattern.  Chest
+
+x-ray shows diffuse fluffy infiltrates bilaterally with bilateral
+
+pleural effusions, few Kerley B lines, and fluid in the lungs
+
+fissures.
+
+EMERGENCY DEPARTMENT COURSE:  The patient was covered with
+
+ceftriaxone and azithromycin for his presumed pneumonia.  He also
+
+received nitro paste for preload reduction as well as a Foley
+
+catheter and Lasix, all for his CHF.
+
+DISPOSITION:  The patient was admitted to the hospital.
+
+ ******** Not reviewed by Attending Physician ********
+
+DIAGNOSES:  Pneumonia, CHF, and renal failure.
+
+______________________________
+
+SORENSEN, SAUL 
+
+D: 08/13/79
+
+T: 08/13/79
+
+Dictated By: SORENSEN, SAUL
+
+eScription document:4-5119504 BFFocus
+
+
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2079-08-13" TYPE="DATE" comment="" />
+<ID id="P1" start="36" end="44" text="42272668" TYPE="MEDICALRECORD" comment="" />
+<NAME id="P2" start="45" end="60" text="SPARKS, CHARLES" TYPE="PATIENT" comment="" />
+<DATE id="P3" start="61" end="70" text="8/13/2079" TYPE="DATE" comment="" />
+<NAME id="P4" start="71" end="85" text="SORENSEN, SAUL" TYPE="DOCTOR" comment="" />
+<NAME id="P5" start="128" end="133" text="Leach" TYPE="DOCTOR" comment="" />
+<AGE id="P6" start="299" end="301" text="74" TYPE="AGE" comment="" />
+<NAME id="P7" start="2286" end="2300" text="SORENSEN, SAUL" TYPE="DOCTOR" comment="" />
+<DATE id="P8" start="2306" end="2314" text="08/13/79" TYPE="DATE" comment="" />
+<DATE id="P9" start="2319" end="2327" text="08/13/79" TYPE="DATE" comment="" />
+<NAME id="P10" start="2342" end="2356" text="SORENSEN, SAUL" TYPE="DOCTOR" comment="" />
+<ID id="P11" start="2378" end="2387" text="4-5119504" TYPE="IDNUM" comment="" />
+</TAGS>
+</deIdi2b2>

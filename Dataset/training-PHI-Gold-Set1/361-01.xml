@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2064-06-16
+EDUCARE-FARGO INPATIENT DIALYSIS FELLOW NOTE
+
+Outpatient Nephrologist:   unknown
+Outpatient Dialysis Unit:   CMH
+
+Dialysis access:  L AVG
+
+Reason for admission: N/V, abdo pain
+
+HPI: Pt is Spanish-speaking only - Hx from patient and chart.  
+44M ESRD on HD presumed 2/2 Type 1 DM with nausea/vomiting since Wednesday (2d ago).  No CP/SOB, no sick contacts (lives with mother).  Has felt "warm", but did not take temperature at home.  Last ate at breakfast Thursday morning (yesterday).  No abdo pain, no diarrhea.  Came to ED last night, afebrile - given morphine 2mg IV x 1 for 2/10 abdo pain and now says pain ++improved.  Also noted to be hypertensive (190/100) and Rx with his usual po meds in addition to hydralazine 10mg IV x 1.  He was also received Kayexalate 30g x 1 in the ED for K 6.0.  Chronic dysuria - still makes significant urine.  Has been compliant with dialysis sessions, last dialysis Tuesday.  ROS otherwise negative.
+
+Past Medical History: 
+ESRD on HD x 2yrs
+   - L AVG placed 2 yrs ago, previously dialyzed via tunneled catheter
+Type 1 DM since age 25 - +legally blind, PVD, nephropathy
+bilateral TMA - healing ulcer on R
+
+Allergies: NKDA
+
+Medications (as per his clinic visit 06/11/64 - needs to be clarified): 
+PhosLo 667 mg b.i.d., omeprazole 20 mg daily, Zelnorm 6 mg b.i.d., metoclopramide 10 mg t.i.d., Lopid 600 mg daily, lisinopril 20 mg MWFS, lactulose two teaspoonfuls b.i.d., Humulin 70/35 units daily, and enalapril 10 mg on Thursdays and Sundays, losartan 50 mg, citalopram 40 mg and atropine eye drops in the left eye t.i.d.  He also uses prednisolone eyedrops daily.
+
+Social History:   No cigarette or illicit drug use.  Previous heavy EtOH use, though none now.  Lives with his mother who is also diabetic and also blind.  Visiting nurses are coming to the home according to the patient twice per week and there is also a health care worker who comes to help with bathing three times per week.  Originally from Panama, grew up in Peru, and came to the US at age 11.  Former Editor.
+
+PHYSICAL EXAM
+Temp: 96
+BP: 130/71
+HR: 92
+97%RA
+
+Gen: Chronically-unwell appearing man, but in NAD.
+HEENT: sclerae non-icteric, O&P clear and moist, missing teeth
+Neck: supple, no LAD, no JVD, no thyromegaly, no carotid bruits
+Lungs: CTA b/l
+Cor: regular, s1s2, no m/c/r/g
+Abd: soft, NTND, no HSM, no abdominal bruits
+Ext: no edema in LE b/l, bilateral TMA
+Skin: warm, smooth, no rashes
+Back: no CVAT
+Vascular access: site clean and without inflammation, systolic and diastolic bruit present
+
+LABS:
+Date/Time         NA             K              CL             CO2            
+06/16/2064        137            6.0 (*)        104            23             
+
+Date/Time         BUN            CRE            EGFR           GLU            
+06/16/2064        58 (*#)        7.1 (*)        9 [1]          108            
+
+Date/Time         ANION          
+06/16/2064        10             
+
+Date/Time         CA             TBILI          TP             ALB            
+06/16/2064        10.5           0.5            8.3 (*)        4.4            
+
+Date/Time         GLOB           
+06/16/2064        3.9            
+
+Date/Time         ALT/SGPT       AST/SGOT       ALKP           TBILI          
+06/16/2064        32             21             155 (*)        0.5            
+
+Date/Time         CK             CK-MB          TROP-I         
+06/16/2064        137            2.9            <assay  
+
+Date/Time         WBC            HGB            HCT            MCV            
+06/16/2064        6.21           14.7           43.3           93.3 (#)       
+
+Date/Time         PLT            
+06/16/2064        226            
+
+Date/Time         PT             PT-INR         PTT            
+06/16/2064        13.9           1.1            32.2           
+
+Date/Time         UA-GLUC        UA-KET         UA-SPGR        UA-BLD         
+06/16/2064        TR             NEG            1.016          1+             
+
+Date/Time         UA-PH          UA-PROT        UA-NIT         UA-WBC         
+06/16/2064        8.0            3+             NEG            NEG     
+
+ECG:  NSR, nil acute, unchanged from previous 05/05/64    
+
+ASSESSMENT AND PLAN:
+44M with ESRD on HD presents with N/V.  His symptoms appear to be resolving and this may represent a viral gastroenteritis, as his cardiac enzymes are negative and sugars have been well-controlled since presentation to ED.  He may have an element of diabetic gastroparesis given his medication list.  We will add amylase and lipase to his bloodwork to r/o pancreatitis.  Consider AXR to r/o constipation (normally on lactulose).
+
+Plan:
+1.  HD today as per usual schedule and prescription.  Hold Epo given Hct elevated.
+2.  Will draw blood Cx x 2, iron studies, 25OH Vitamin D, PTH in HD.
+3.  Start Nephrocaps.
+4.  CAD risk:  Start ASA 81mg qd.
+5.  Polypharmacy:  On multiple antihypertensives at different doses.  Would d/c enalapril and losartan.  Use only lisinopril daily (titrate up as needed), but ask patient to take meds after dialysis on dialysis days.
+6.  Social work to see (already informed).
+
+Nicole Ostrowski
+Renal Fellow
+56986
+
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2064-06-16" TYPE="DATE" comment="" />
+<LOCATION id="P1" start="27" end="40" text="EDUCARE-FARGO" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P2" start="136" end="139" text="CMH" TYPE="HOSPITAL" comment="" />
+<AGE id="P3" start="268" end="270" text="44" TYPE="AGE" comment="" />
+<DATE id="P4" start="333" end="342" text="Wednesday" TYPE="DATE" comment="" />
+<DATE id="P5" start="482" end="490" text="Thursday" TYPE="DATE" comment="" />
+<DATE id="P6" start="931" end="938" text="Tuesday" TYPE="DATE" comment="" />
+<AGE id="P7" start="1098" end="1100" text="25" TYPE="AGE" comment="" />
+<DATE id="P8" start="1226" end="1234" text="06/11/64" TYPE="DATE" comment="" />
+<DATE id="P9" start="1395" end="1396" text="M" TYPE="DATE" comment="" />
+<DATE id="P10" start="1396" end="1397" text="W" TYPE="DATE" comment="" />
+<DATE id="P11" start="1397" end="1398" text="F" TYPE="DATE" comment="" />
+<DATE id="P12" start="1398" end="1399" text="S" TYPE="DATE" comment="" />
+<DATE id="P13" start="1486" end="1495" text="Thursdays" TYPE="DATE" comment="" />
+<DATE id="P14" start="1500" end="1507" text="Sundays" TYPE="DATE" comment="" />
+<LOCATION id="P15" start="1976" end="1982" text="Panama" TYPE="COUNTRY" comment="" />
+<LOCATION id="P16" start="1995" end="1999" text="Peru" TYPE="COUNTRY" comment="" />
+<LOCATION id="P17" start="2017" end="2019" text="US" TYPE="COUNTRY" comment="" />
+<AGE id="P18" start="2027" end="2029" text="11" TYPE="AGE" comment="" />
+<PROFESSION id="P19" start="2039" end="2045" text="Editor" TYPE="PROFESSION" comment="" />
+<DATE id="P20" start="2625" end="2635" text="06/16/2064" TYPE="DATE" comment="" />
+<DATE id="P21" start="2784" end="2794" text="06/16/2064" TYPE="DATE" comment="" />
+<DATE id="P22" start="2898" end="2908" text="06/16/2064" TYPE="DATE" comment="" />
+<DATE id="P23" start="3012" end="3022" text="06/16/2064" TYPE="DATE" comment="" />
+<DATE id="P24" start="3126" end="3136" text="06/16/2064" TYPE="DATE" comment="" />
+<DATE id="P25" start="3240" end="3250" text="06/16/2064" TYPE="DATE" comment="" />
+<DATE id="P26" start="3384" end="3394" text="06/16/2064" TYPE="DATE" comment="" />
+<DATE id="P27" start="3521" end="3531" text="06/16/2064" TYPE="DATE" comment="" />
+<DATE id="P28" start="3635" end="3645" text="06/16/2064" TYPE="DATE" comment="" />
+<DATE id="P29" start="3734" end="3744" text="06/16/2064" TYPE="DATE" comment="" />
+<DATE id="P30" start="3878" end="3888" text="06/16/2064" TYPE="DATE" comment="" />
+<DATE id="P31" start="4037" end="4047" text="06/16/2064" TYPE="DATE" comment="" />
+<DATE id="P32" start="4156" end="4164" text="05/05/64" TYPE="DATE" comment="" />
+<AGE id="P33" start="4191" end="4193" text="44" TYPE="AGE" comment="" />
+<NAME id="P34" start="5096" end="5112" text="Nicole Ostrowski" TYPE="DOCTOR" comment="" />
+<CONTACT id="P35" start="5126" end="5131" text="56986" TYPE="PHONE" comment="" />
+</TAGS>
+</deIdi2b2>

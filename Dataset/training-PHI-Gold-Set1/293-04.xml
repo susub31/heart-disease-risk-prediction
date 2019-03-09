@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2078-10-05
+
+
+SMC Cardiovascular Division
+CVD PR7
+20 Short Avenue                                      QUINLEY, CORA
+Edna, CA 51414                                           75987552
+(262) 914-1581                                           10/05/78
+
+
+Opal Feldman, M.D.
+Jefferson County Memorial Hospital
+0556 Commercial Street
+Spiro, CA  95298
+Phone:  851-9764-289.
+
+
+Dear Dr. Feldman:
+
+We had the pleasure of seeing your patient Cora Quinley in followup
+today in the Cardiology clinic.  As you know, she is a
+very pleasant 72-year-old woman with diabetes, hypertension,
+dyslipidemia, active tobacco use, there is probable coronary
+disease, with preserved left ventricular function (EF 60% on
+echo), as well as paroxysmal supraventricular tachycardia.  She
+last saw me in clinic in 03/2077, and missed several followup
+appointments in part because she spends much of her time in
+Oregon.  Over the past year and several months, Ms. Quinley has
+been doing quite well.  She states that she has episodes of
+palpitations approximately every 2 months, lasting less then 5
+minutes.  She notes a sensation of fluttering in her chest, with
+no chest tightness, no dyspnea, no lightheadedness, no syncope. 
+She denies PND, orthopnea, or angina.  Unfortunately, Ms. Quinley
+continues to smoke, but is actively interested in quitting.  She
+states that she is planning to enroll in the Stonybrook Smoking
+Cessation Program.
+
+Her current medications include enteric-coated Aspirin 325 mg
+q.d., atenolol 100 mg q.d., lisinopril 20 mg q.d., Lipitor 20 mg
+q.h.s., metformin 1000 mg b.i.d., Micronase, fluocinolone,
+Protonix, and Allegra.
+
+On examination, she is well appearing today in no distress. 
+Blood pressure is 128/60 mmHg in the right arm, and pulse is 65
+beats per minute.  Extremities are warm, with no peripheral
+edema.  Carotid upstrokes are brisk bilaterally with no bruits. 
+JVP is 8 cm of water.  Chest is clear to auscultation and
+percussion bilaterally.  PMI is nondisplaced, with a normal S1,
+physiologically split S2, soft S4, no murmurs, no rubs.  Abdomen
+is soft with no masses or hepatomegaly.  Pulse examination is
+normal.
+
+Recent lipid profile from 03/2078 reveals a LDL of 150.
+
+ECG today demonstrates normal sinus rhythm at 67 beats per
+minute, PR interval 154, QRS duration 78, QT interval 442, QTC
+467, and QRS axis 33 degrees.  There is a nonspecific Q-wave
+abnormality, and prolonged QT, with no significant change
+compared to prior.
+
+In summary, Ms. Quinley is doing quite well.  Her palpitations and
+likely SVT are occuring at a frequency that Ms. Quinley feels are
+quite acceptable for her.  Therefore, she wishes no consideration
+of possible interventions or changes in her medical regimen.  She
+has no symptoms to suggest current coronary ischemia.  Regarding
+her cardiovascular risk factors, her blood pressure is reasonably
+well controlled today, and you are actively managing her
+diabetes.  However, her lipid profile demonstrates an elevated
+LDL.  Therefore, I have taken liberty of increasing her Lipitor
+to 40 mg q.h.s.
+
+I plan to see Ms. Quinley in followup in approximately 6 months. 
+Please feel free to contact me otherwise regarding her
+cardiovascular issues.  Thank you very much for referring this
+very pleasant woman for cardiovascular care.  
+
+Ms. Quinley was seen, examined, and discussed with our clinic
+preceptor, Dr. Queen Frank-Newman.
+
+
+
+
+
+______________________________
+Uriel Patrick Zapien, MD
+
+
+Dictated By: Uriel Patrick Zapien
+
+
+eScription document:1-8289950 AFFocus
+
+
+
+DD: 10/05/78
+DT: 10/05/78
+DV: 10/05/78
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2078-10-05" TYPE="DATE" comment="" />
+<LOCATION id="P1" start="29" end="32" text="SMC" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P3" start="65" end="80" text="20 Short Avenue" TYPE="STREET" comment="" />
+<NAME id="P4" start="118" end="131" text="QUINLEY, CORA" TYPE="PATIENT" comment="" />
+<LOCATION id="P5" start="132" end="136" text="Edna" TYPE="CITY" comment="" />
+<LOCATION id="P6" start="138" end="140" text="CA" TYPE="STATE" comment="" />
+<LOCATION id="P7" start="141" end="146" text="51414" TYPE="ZIP" comment="" />
+<ID id="P8" start="189" end="197" text="75987552" TYPE="MEDICALRECORD" comment="" />
+<CONTACT id="P9" start="198" end="212" text="(262) 914-1581" TYPE="PHONE" comment="" />
+<DATE id="P10" start="255" end="263" text="10/05/78" TYPE="DATE" comment="" />
+<NAME id="P11" start="266" end="278" text="Opal Feldman" TYPE="DOCTOR" comment="" />
+<LOCATION id="P12" start="285" end="319" text="Jefferson County Memorial Hospital" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P13" start="320" end="342" text="0556 Commercial Street" TYPE="STREET" comment="" />
+<LOCATION id="P14" start="343" end="348" text="Spiro" TYPE="CITY" comment="" />
+<LOCATION id="P15" start="350" end="352" text="CA" TYPE="STATE" comment="" />
+<LOCATION id="P16" start="354" end="359" text="95298" TYPE="ZIP" comment="" />
+<CONTACT id="P17" start="368" end="380" text="851-9764-289" TYPE="PHONE" comment="" />
+<NAME id="P18" start="393" end="400" text="Feldman" TYPE="DOCTOR" comment="" />
+<NAME id="P19" start="446" end="458" text="Cora Quinley" TYPE="PATIENT" comment="" />
+<AGE id="P21" start="540" end="542" text="72" TYPE="AGE" comment="" />
+<DATE id="P22" start="798" end="805" text="03/2077" TYPE="DATE" comment="" />
+<LOCATION id="P23" start="895" end="901" text="Oregon" TYPE="STATE" comment="" />
+<NAME id="P24" start="947" end="954" text="Quinley" TYPE="PATIENT" comment="" />
+<NAME id="P25" start="1270" end="1277" text="Quinley" TYPE="PATIENT" comment="" />
+<LOCATION id="P26" start="1388" end="1398" text="Stonybrook" TYPE="HOSPITAL" comment="" />
+<DATE id="P27" start="2171" end="2178" text="03/2078" TYPE="DATE" comment="" />
+<NAME id="P28" start="2479" end="2486" text="Quinley" TYPE="PATIENT" comment="" />
+<NAME id="P29" start="2578" end="2585" text="Quinley" TYPE="PATIENT" comment="" />
+<NAME id="P30" start="3078" end="3085" text="Quinley" TYPE="PATIENT" comment="" />
+<NAME id="P31" start="3296" end="3303" text="Quinley" TYPE="PATIENT" comment="" />
+<NAME id="P32" start="3369" end="3387" text="Queen Frank-Newman" TYPE="DOCTOR" comment="" />
+<NAME id="P33" start="3425" end="3445" text="Uriel Patrick Zapien" TYPE="DOCTOR" comment="" />
+<NAME id="P34" start="3465" end="3485" text="Uriel Patrick Zapien" TYPE="DOCTOR" comment="" />
+<ID id="P35" start="3508" end="3517" text="1-8289950" TYPE="IDNUM" comment="" />
+<DATE id="P36" start="3533" end="3541" text="10/05/78" TYPE="DATE" comment="" />
+<DATE id="P37" start="3546" end="3554" text="10/05/78" TYPE="DATE" comment="" />
+<DATE id="P38" start="3559" end="3567" text="10/05/78" TYPE="DATE" comment="" />
+</TAGS>
+</deIdi2b2>

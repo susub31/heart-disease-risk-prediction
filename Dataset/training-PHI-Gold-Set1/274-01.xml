@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2077-10-11
+
+                     PINELLAS EMERGENCY DEPT VISIT
+
+ 
+
+ICKES,WILLIAM JR   810-71-62-8
+
+PRESENTING COMPLAINT: This is a 70-year-old man who presented by 
+
+ambulance with epigastric pain. 
+
+HISTORY OF PRESENTING COMPLAINT: This is a 70-year-old man who 
+
+presented with some chest pain and chest pressure after breakfast 
+
+this morning.  He took a walk at about 11:30.  The pain got 
+
+intense, he went back home, called and ambulance and presented 
+
+here.  The patient presents here now and, after being put in the 
+
+room emergently, became pale and diaphoretic and clammy with mild 
+
+hypertension and an EKG showing an acute MI.  There is ST elevation 
+
+in inferior leads and lateral leads and ST depression in anterior 
+
+leads.  The patient was immediately given aspirin, beta blocker and 
+
+heparinized as well as a nitro drip.  The second EKG showed some 
+
+resolving of his ST elevation and ST depression.  His pain has 
+
+subsided now to about a 1/10.  Blood pressure 102/56, pulse rate of 
+
+58.  Chest x-ray, portable, was done and is also pending. 
+
+Cardiology is aware.  The cath lab team has been called and has 
+
+been mobilized immediately.  Medications that he has gotten so far 
+
+are aspirin, morphine sulfate, nitro paste, sublingual 
+
+nitroglycerine.  He is currently on an IV nitroglycerine drip. 
+
+Three IV lines have been placed.  Portable chest x-ray done.  Cards 
+
+fellow is here and the cath team is aware. 
+
+PAST MEDICAL HISTORY: Only significant for hypertension. 
+
+MEDICATIONS: Atenolol for his blood pressure medicine and recently 
+
+put on quinine sulfate for pain in his legs. 
+
+REVIEW OF SYSTEMS: Otherwise negative.  Never had any angina, never 
+
+had an acute MI and never had any pain like this before.  He denies 
+
+any interscapular pain and denies any other problems or 
+
+complications at this point. 
+
+PHYSICAL EXAMINATION: Lungs are clear.  Cardiac exam: No murmurs 
+
+heard, no rubs or gallops.  No JVD, no bruits heard.  Abdomen is 
+
+soft and nontender.  Rectal exam: Guaiac-negative with normal tone. 
+
+THERAPY RENDERED/COURSE IN ED: Currently in stable condition. 
+
+Blood pressure normal.  Oxygen saturation 95% and a pulse rate of 
+
+58.  He received 2.5 of Lopressor and is almost pain free at this 
+
+point and doing well.  Seen by the cards fellow.  Cath lab team 
+
+mobilized.  The patient is going to the cath lab. 
+
+FINAL DIAGNOSIS: Acute MI. 
+
+DISPOSITION (including condition upon discharge): Family member has 
+
+been called and message was left for his wife on her machine.  She 
+
+is probably on the way to the hospital and we will inform her. 
+
+Condition stable. 
+
+DIAGNOSIS: Acute MI in a 70-year-old male, going to the cath lab. 
+
+___________________________________                    EC508/03905 
+
+PAUL VALENTINE, M.D.   PV46                               D:10/11/77 
+
+                                                       T:10/11/77 
+
+Dictated by:  PAUL VALENTINE, M.D.   PV46 
+
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2077-10-11" TYPE="DATE" comment="" />
+<LOCATION id="P1" start="49" end="57" text="PINELLAS" TYPE="HOSPITAL" comment="" />
+<NAME id="P2" start="83" end="99" text="ICKES,WILLIAM JR" TYPE="PATIENT" comment="" />
+<ID id="P3" start="102" end="113" text="810-71-62-8" TYPE="MEDICALRECORD" comment="" />
+<AGE id="P4" start="147" end="149" text="70" TYPE="AGE" comment="" />
+<AGE id="P5" start="259" end="261" text="70" TYPE="AGE" comment="" />
+<AGE id="P6" start="2657" end="2659" text="70" TYPE="AGE" comment="" />
+<ID id="P7" start="2755" end="2766" text="EC508/03905" TYPE="IDNUM" comment="" />
+<NAME id="P8" start="2769" end="2783" text="PAUL VALENTINE" TYPE="DOCTOR" comment="" />
+<NAME id="P9" start="2792" end="2796" text="PV46" TYPE="USERNAME" comment="" />
+<DATE id="P10" start="2829" end="2837" text="10/11/77" TYPE="DATE" comment="" />
+<DATE id="P11" start="2897" end="2905" text="10/11/77" TYPE="DATE" comment="" />
+<NAME id="P12" start="2922" end="2936" text="PAUL VALENTINE" TYPE="DOCTOR" comment="" />
+<NAME id="P13" start="2945" end="2949" text="PV46" TYPE="USERNAME" comment="" />
+</TAGS>
+</deIdi2b2>

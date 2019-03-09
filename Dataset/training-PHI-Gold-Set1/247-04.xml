@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2064-09-10
+
+                                                       Patient Name: ISENBERG,MICHAEL [ MRN: 3674193HCC ]
+
+                                                         Date of Visit: 9/10/2064
+
+
+
+Vascular Surgery Consult Note:
+
+
+
+I am asked to examine Mr. Isenberg and comment on recent CT findings of a intraluminal defect in the right subclavian artery.
+
+
+
+PMH / PSH:
+
+1.	CAD - S/p  2-V CABG off pump in 4/64
+
+2.	CHF- EF 38%, mild MR, diffusely hypokinetic LV w/ apical aneurysm, RVSP 46mmHg, upper 
+
+segment septal hypertrophy w/o evidence of obstruction on TTE on 3/24/64
+
+3.	HTN
+
+4.	Hyperlipidemia
+
+5.	DMII
+
+6.	CRI- Baseline Pcr is between 1.6-1.8
+
+
+
+Medications: 
+
+Plavix 75 mg qd
+
+Aspirin 325 mg qd
+
+Lipitor 80 mg qd
+
+Lisinopril 2.5 mg qd
+
+Atenolol 25 mg qd
+
+Fluoxetine 10 mg qd
+
+ 	 	 	 	
+
+Allergies: NKDA
+
+
+
+
+
+Mr Isenberg is a 82 yo gentleman one week out from attempted placement of right subclavian pacemaker- complicated by brief arterial puncture, prompt removal of the arterial catheter and successful compression. Duplex ultrasonography after compression showed no evidence of a pseudoaneurysm. A CTA done yesterday to evaluate his thyroid was  read as: 
+
+
+
+" Hematoma around right subclavian artery.  Narrowing of the artery. Apparent filling defect, most likely artifactual.  If thrombus is of clinical concern, upper extremity ultrasound may be obtained."
+
+
+
+On physical examination, he has mild non expansile hematoma of the right chest wall. His right hand is warm and well perfused, with 1+ radial and brachial pulses. There are no thrills or bruits.
+
+
+
+My review of arterial components of the CT show the following:
+
+1). Hematoma- to be expected
+
+2). Diffuse arterial calcifications- obscures the ability to read what is or is not in the lumen.
+
+3). Venous contrast bolus delivered on the right side- obscures our ability to discern the anatomy in the area of the subclavian artery.
+
+4). Contrast bolus inadequate to comment on arterial anatomy.
+
+
+
+Based on his clinical exam, and the fact that he is on an anticoagulant, a follow up subclavian artery ultrasound examination is in order. This test should be geared towards determining whether there is any evidence of a pseudoaneurysm. If there is an intraarterial filling defect, I would not pursue it. He is anticoagulated and his arm is viable. There are no stigmata of atheroemboli.
+
+
+
+
+
+Uriel A. Xavier, MD
+
+
+
+     
+
+
+
+
+
+
+
+
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2064-09-10" TYPE="DATE" comment="" />
+<NAME id="P1" start="97" end="113" text="ISENBERG,MICHAEL" TYPE="PATIENT" comment="" />
+<ID id="P2" start="121" end="128" text="3674193" TYPE="MEDICALRECORD" comment="" />
+<LOCATION id="P3" start="128" end="131" text="HCC" TYPE="HOSPITAL" comment="" />
+<DATE id="P4" start="207" end="216" text="9/10/2064" TYPE="DATE" comment="" />
+<NAME id="P5" start="280" end="288" text="Isenberg" TYPE="PATIENT" comment="" />
+<DATE id="P6" start="430" end="434" text="4/64" TYPE="DATE" comment="" />
+<DATE id="P7" start="592" end="599" text="3/24/64" TYPE="DATE" comment="" />
+<NAME id="P8" start="845" end="853" text="Isenberg" TYPE="PATIENT" comment="" />
+<AGE id="P9" start="859" end="861" text="82" TYPE="AGE" comment="" />
+<NAME id="P10" start="2387" end="2402" text="Uriel A. Xavier" TYPE="DOCTOR" comment="" />
+</TAGS>
+</deIdi2b2>

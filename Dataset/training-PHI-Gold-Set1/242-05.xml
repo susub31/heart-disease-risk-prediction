@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2074-11-12
+
+EDVISIT^85588852^Louis, Robert^11/12/74^HANEY, ULYSSES
+
+I have interviewed and examined the patient, reviewed the
+
+resident's, Dr. Burton', documentation, and concur except as
+
+noted.
+
+HISTORY OF PRESENT ILLNESS:  This is a 71-year-old male who
+
+presents complaining of acute onset of chest pain and shortness
+
+of breath.  The patient has a history of hypertension, diabetes,
+
+and a prior MRI who was brought in by Emergency Medical Services
+
+for waking at 6:00 a.m. with chest pain radiating to the left arm
+
+associated with shortness of breath.  Denied nausea or vomiting,
+
+had no fevers or chills.  He received by EMS 2 baby aspirin as
+
+well as 40 of Lasix for bibasilar crackles noted by them in the
+
+Emergency Department.  The patient's old chart was evaluated
+
+which revealed an echo on 11/06/2074 with an EF of 25%, cardiac
+
+catheterization in October 2072 with 30% RCA lesion, and Holter
+
+in January 2072 which showed atrial tachycardia runs.
+
+SOCIAL HISTORY, FAMILY HISTORY, REVIEW OF SYSTEMS, MEDICATIONS,
+
+AND ALLERGIES:  As noted.  Of note, the patient is an active
+
+smoker.
+
+PHYSICAL EXAMINATION:  In the Emergency Department, the patient
+
+was awake and alert, moderately ill appearing in mild-to-moderate
+
+discomfort.  Pulse 90, respirations 20, blood pressure 157/90,
+
+and saturating 97%.  HEENT:  Atraumatic, normocephalic. 
+
+Oropharynx clear, moist mucous membranes.  Neck:  Supple with no
+
+meningismus.  Flat neck veins.  Respirations showed crackles
+
+third of the way up bilaterally with no rhonchi, rales, or
+
+wheezes.  Cardiovascularly, regular rate and rhythm without
+
+murmurs, rubs, or gallops, 2+ pulses in all extremities.  Rectal:
+
+ Heme-negative brown stool.  Abdomen:  Soft and nontender without
+
+rebound or guarding.  Skin:  Warm, well perfused without
+
+petechiae or lesions.  No edema, no calf or thigh tenderness, and
+
+no CVA tenderness.  Neurologically, alert and oriented x3, normal
+
+mood and affect, and no sensory or motor deficits.
+
+LABORATORY DATA:  In the Emergency Department, the patient had an
+
+EKG, which was sinus with ST elevations in leads II, III, and
+
+aVF; when compared with prior, these were new.  Additionally, he
+
+had T wave inversions in leads I and aVL.
+
+The Cardiac Catheterization fellow was notified at 7:55.  Dr.
+
+Brock was at the bedside at 8:03.  The patient received aspirin,
+
+no beta-blockers given, he has apparent heart failure, and
+
+ ******** Not reviewed by Attending Physician ********
+
+ST elevation MI.
+
+______________________________
+
+HANEY, ULYSSES
+
+D: 11/12/74
+
+T: 11/12/74
+
+Dictated By: HANEY, ULYSSES
+
+eScription document:7-9722432 BFFocus
+
+
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2074-11-12" TYPE="DATE" comment="" />
+<ID id="P1" start="36" end="44" text="85588852" TYPE="MEDICALRECORD" comment="" />
+<NAME id="P2" start="45" end="58" text="Louis, Robert" TYPE="PATIENT" comment="" />
+<DATE id="P3" start="59" end="67" text="11/12/74" TYPE="DATE" comment="" />
+<NAME id="P4" start="68" end="82" text="HANEY, ULYSSES" TYPE="DOCTOR" comment="" />
+<NAME id="P5" start="159" end="165" text="Burton" TYPE="DOCTOR" comment="" />
+<AGE id="P6" start="252" end="254" text="71" TYPE="AGE" comment="" />
+<DATE id="P7" start="821" end="831" text="11/06/2074" TYPE="DATE" comment="" />
+<DATE id="P8" start="879" end="891" text="October 2072" TYPE="DATE" comment="" />
+<DATE id="P9" start="928" end="940" text="January 2072" TYPE="DATE" comment="" />
+<NAME id="P10" start="2299" end="2304" text="Brock" TYPE="DOCTOR" comment="" />
+<NAME id="P11" start="2531" end="2545" text="HANEY, ULYSSES" TYPE="DOCTOR" comment="" />
+<DATE id="P12" start="2550" end="2558" text="11/12/74" TYPE="DATE" comment="" />
+<DATE id="P13" start="2563" end="2571" text="11/12/74" TYPE="DATE" comment="" />
+<NAME id="P14" start="2586" end="2600" text="HANEY, ULYSSES" TYPE="DOCTOR" comment="" />
+<ID id="P15" start="2622" end="2631" text="7-9722432" TYPE="IDNUM" comment="" />
+</TAGS>
+</deIdi2b2>

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2095-04-24
+
+EDVISIT^97198841^HOLDEN, MATIAS^04/24/95^XIE, LORI
+
+The patient was seen primarily by the PA.  I confirm that I have
+
+interviewed and examined the patient, reviewed the resident's
+
+documentation on the patient's chart, and discussed evaluation,
+
+plan of care, and disposition with the patient.
+
+HISTORY OF PRESENT ILLNESS:  The patient is a 41-year-old male
+
+with diabetes and high blood pressure who presents to the
+
+Emergency Room complaining of some sore throat symptoms for 3
+
+days also reporting some chest discomfort that has been on and
+
+off since Friday.  Denies any association with cough or
+
+movement.  I guess it is at rest and also with activity and
+
+noticing also increasing shortness of breath with activity.  No
+
+lower extremity swelling and no PND.  Has been having off and on
+
+chest discomfort.  However, in the past four months, had negative
+
+ETT at Smithers Albany Center per his report.  Denies any
+
+headache, fevers or chills or recent travel.  Did have a negative
+
+ETT by his report at an outside hospital four months ago.
+
+PAST MEDICAL HISTORY:  Significant for hypertension, diabetes
+
+insulin requiring, and hypercholesterolemia.
+
+ALLERGIES:  He has no known allergies.
+
+CURRENT MEDICATIONS:  Insulin, lisinopril, metformin, and
+
+anticholesterol medications.
+
+SOCIAL HISTORY:  The patient is a current smoker, denies any
+
+alcohol or IV drug use.
+
+PAST SURGICAL HISTORY:  Hernia repair in the past.
+
+REVIEW OF SYSTEMS:  Sore throat, cough, shortness of breath, and
+
+chest discomfort.
+
+PHYSICAL EXAMINATION:  Afebrile, normal vital signs. He is
+
+otherwise an overweight male in no acute distress.  Sclerae
+
+nonicteric.  Lungs are clear to auscultation.  Cardiac exam S1,
+
+S2, regular rhythm with no gallops, rubs, or murmurs.  Abdomen is
+
+very soft and nontender.  No JVD on exam.  Back on head and neck
+
+exam, TMs are clear bilaterally.  Oropharynx is clear.  Neck is
+
+supple.
+
+LABORATORY DATA:  Currently, still pending.
+
+EKG normal sinus rhythm with no ST-T segment changes or evidence
+
+of ischemia or infarct.
+
+IMPRESSION AND PLAN:  A 41-year-old male, diabetic, hypertensive,
+
+presents with URI symptoms.  No evidence of exam or indication
+
+ ******** Not reviewed by Attending Physician ********
+
+chest discomfort at any time as he has had for a few months,
+
+worsening recently.  Does not appear to be exertional related,
+
+however, given his significant risk factors and no documented
+
+stress studies in our system we will place in Observation for a
+
+rule out an ETT in the morning.
+
+______________________________
+
+XIE, LORI M.D.
+
+D: 04/25/95
+
+T: 04/25/95
+
+Dictated By: XIE, LORI
+
+eScription document:2-6202967 BF
+
+
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2095-04-24" TYPE="DATE" comment="" />
+<ID id="P1" start="36" end="44" text="97198841" TYPE="MEDICALRECORD" comment="" />
+<NAME id="P2" start="45" end="59" text="HOLDEN, MATIAS" TYPE="PATIENT" comment="" />
+<DATE id="P3" start="60" end="68" text="04/24/95" TYPE="DATE" comment="" />
+<NAME id="P4" start="69" end="78" text="XIE, LORI" TYPE="DOCTOR" comment="" />
+<AGE id="P5" start="369" end="371" text="41" TYPE="AGE" comment="" />
+<DATE id="P6" start="583" end="589" text="Friday" TYPE="DATE" comment="" />
+<LOCATION id="P7" start="896" end="918" text="Smithers Albany Center" TYPE="HOSPITAL" comment="" />
+<AGE id="P8" start="2089" end="2091" text="41" TYPE="AGE" comment="" />
+<NAME id="P9" start="2571" end="2580" text="XIE, LORI" TYPE="DOCTOR" comment="" />
+<DATE id="P10" start="2590" end="2598" text="04/25/95" TYPE="DATE" comment="" />
+<DATE id="P11" start="2603" end="2611" text="04/25/95" TYPE="DATE" comment="" />
+<NAME id="P12" start="2626" end="2635" text="XIE, LORI" TYPE="DOCTOR" comment="" />
+<ID id="P13" start="2657" end="2666" text="2-6202967" TYPE="IDNUM" comment="" />
+</TAGS>
+</deIdi2b2>

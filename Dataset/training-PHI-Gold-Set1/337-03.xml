@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2085-08-31
+
+EDVISIT^78865189^GILLIS, BETTY^08/31/85^GUEVARA, ELIZABETH
+
+The patient was seen with Dr. Izaguirre.  Resident's note was
+
+reviewed.  The patient was seen and examined by me.  Please see
+
+the resident's note for details of the patient's past medical,
+
+social, family history, review of systems, and physical exam.
+
+CHIEF COMPLAINT:  EKG changes.
+
+HISTORY OF PRESENT ILLNESS:  This is a 73-year-old woman with a
+
+history of 2 ischemic strokes in the past, hypertension and high
+
+cholesterol who presents with 1-2 weeks of feeling tired after
+
+breakfast.  She went into Copley Hospital with this complaint today,
+
+is a somewhat difficult historian but denies any chest pain,
+
+shortness of breath, diaphoresis, nausea, vomiting, arm pain,
+
+diarrhea, constipation, dyspnea on exertion, recent change in her
+
+medications or any other complaints.  Today, she had the symptoms
+
+and was seen at the outside office.  An EKG was performed there
+
+for which she was sent here with a reading of a T-wave inversion
+
+in V2 and V3.  There seems to be lead placement problem V1 and
+
+V3.  Leads appeared ____, but there is a slight T-wave inversion
+
+in what would be V1 and V2, which seems to be new from prior EKG.
+
+ Placement of leads could not be confirmed at CH.  The patient
+
+was sent in here and arrived chest pain free and otherwise
+
+asymptomatic.
+
+PAST MEDICAL HISTORY:  Hypertension, high cholesterol, COPD,
+
+arthritis, ischemic strokes x2, GI bleed in the past,
+
+osteoporosis, and colon polyps.
+
+PAST SURGICAL HISTORY:  Bilateral total knee replacements.
+
+SOCIAL HISTORY:  She is a past smoker, never used drugs.  Lives
+
+alone.
+
+FAMILY HISTORY:  Unclear as the patient is adopted.
+
+REVIEW OF SYSTEMS:  Otherwise, negative except for some ____.
+
+MEDICATIONS:  The patient takes PPIs, Prilosec, calcium,
+
+atenolol, Aggrenox, iron, doxepin, Detrol, and simvastatin.
+
+ALLERGIES:  None.
+
+PHYSICAL EXAMINATION:  She is afebrile, normal and stable vital
+
+signs.  Pulse 73 and blood pressure 129/80.  Awake, alert, in no
+
+distress.  Her exam is essentially unremarkable including clear
+
+and equal breath sounds, normal JVD and regular rate and rhythm. 
+
+No murmurs on cardiac examination.  Abdomen is soft and
+
+nontender.  Skin is warm, dry, and intact except for some
+
+psoriatic lesions that are old.  She has no pedal edema and the
+
+rest of her examination is essentially unremarkable.  EKG in the
+
+Emergency Department shows sinus rhythm at 65 with an upgoing
+
+T-waves in all the precordial leads.  Laboratory examination
+
+reveals negative cardiac enzymes and is otherwise unremarkable. 
+
+PTT 21 and INR 1.  Chest x-ray shows no acute changes.
+
+EMERGENCY DEPARTMENT COURSE:  She was seen by the CH
+
+cardiologist, Dr. Brock.  In the Emergency Department, given
+
+the patient's vascular disease, the plan is to admit for 2 sets
+
+of enzymes and a stress in the morning.  She is well appearing at
+
+the time of admission.
+
+PRIMARY DIAGNOSIS:  EKG changes.
+
+______________________________
+
+GUEVARA, ELIZABETH M.D.
+
+D: 08/31/85
+
+T: 08/31/85
+
+Dictated By: GUEVARA, ELIZABETH
+
+eScription document:9-9287507 BFFocus
+
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2085-08-31" TYPE="DATE" comment="" />
+<ID id="P1" start="36" end="44" text="78865189" TYPE="MEDICALRECORD" comment="" />
+<NAME id="P2" start="45" end="58" text="GILLIS, BETTY" TYPE="PATIENT" comment="" />
+<DATE id="P3" start="59" end="67" text="08/31/85" TYPE="DATE" comment="" />
+<NAME id="P4" start="68" end="86" text="GUEVARA, ELIZABETH" TYPE="DOCTOR" comment="" />
+<NAME id="P5" start="118" end="127" text="Izaguirre" TYPE="DOCTOR" comment="" />
+<AGE id="P6" start="414" end="416" text="73" TYPE="AGE" comment="" />
+<LOCATION id="P7" start="596" end="611" text="Copley Hospital" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P8" start="1273" end="1275" text="CH" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P9" start="2710" end="2712" text="CH" TYPE="HOSPITAL" comment="" />
+<NAME id="P10" start="2732" end="2737" text="Brock" TYPE="DOCTOR" comment="" />
+<NAME id="P11" start="2998" end="3016" text="GUEVARA, ELIZABETH" TYPE="DOCTOR" comment="" />
+<DATE id="P12" start="3026" end="3034" text="08/31/85" TYPE="DATE" comment="" />
+<DATE id="P13" start="3039" end="3047" text="08/31/85" TYPE="DATE" comment="" />
+<NAME id="P14" start="3062" end="3080" text="GUEVARA, ELIZABETH" TYPE="DOCTOR" comment="" />
+<ID id="P15" start="3102" end="3111" text="9-9287507" TYPE="IDNUM" comment="" />
+</TAGS>
+</deIdi2b2>

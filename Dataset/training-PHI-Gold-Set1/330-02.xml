@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2083-12-30
+
+Lantus and Novolog Insulin Guidelines	
+
+
+
+1.	Check blood sugars before meals and at bedtime.  In addition, some meals you may want to check your blood sugar (blood glucose or BG) 1 hour after taking your Novolog.  If it is over 150 you may need to take more Novolog with meals or decrease your carbohydrate intake.  You do not have to do this at every meal and you can alternate meals and/or days.  For example: Sat check before and after breakfast; Friday - lunch; Thursday - supper,etc.
+
+2.	Be careful of the amount of carbohydrates (breads, pasta, cereal, fruit, etc) you eat at each meal and between meals.  Try to average about 60 gms. per meal and 15 gms.  for snacks.
+
+3.	The goal for your blood sugars when you get up in the morning and before meals  is 80-110, 1 hour after taking Novolog (at the start of the meal) it is less than 140, and at bedtime 100 to 140.
+
+4.	Your insulin may need adjusting several times before those goals can be met. When exercising you may need more carbs or less Novolog with meals.  
+
+
+
+Long-acting insulin:  Lantus (insulin glargine)
+
+           Take _14_ units at bedtime.  
+
+           Do not mix with any other insulin.  Lantus starts to work in about 1 hr and lasts about 
+
+                24 hours.  It has no peak.
+
+           If your fasting blood sugar for two or more mornings is more than 120, increase your
+
+                Lantus by 2 units at the next dose.  If it is more than 140 for two mornings then     
+
+                increase by 4 units at the next dose.  
+
+            If your fasting blood sugar is less than 70 then decrease your next dose of Lantus 
+
+                 by 2 to 4 units.
+
+
+
+Short-acting insulin:  Novolog  
+
+Take 16 units of novolog with breakfast, 6 units with lunch, and 10 units with supper 
+
+   (called  "standing dose") within 15 minutes of starting eat your meals. Do not take 
+
+   standing dose if not eating.
+
+Novolog starts to work in 15 minutes and lasts about 2 hours. It peaks in about 1 hour.  
+
+You need to eat enough carbs to cover this insulin or you will have a low blood sugar.  
+
+If blood sugar is < 80 take    your standing dose or sliding scale.  If < 60 do not take standing 
+
+     dose.
+
+Take  Novolog sliding scale (below) in addition to standing dose Novolog at mealtime 
+
+If Blood sugar is   125 - 150 take  2 units more
+
+                             150 - 200 take 3 units more 
+
+                                         201 - 250 take 4 units more  	
+
+                                         251 - 300 take 6 units more  
+
+ 			     301 - 350 take 8  units more 
+
+	 >351 take 10 units more and call MD if blood sugar has not 
+
+          decreased or has increased after 2 hours.
+
+
+
+Bedtime High Blood Sugar:  If your blood sugar at bedtime is greater than 200 take Novolog by the sliding scale below in addition to Lantus. Do not mix the two insulins.  Do not take standing dose insulin at bedtime. Have your blood sugar checked 1 to 2 hours after taking novolog at bedtime to make sure you haven't gone too low.  If you are below 80 then have a snack and juice to hold you over until morning.
+
+                                  If bedtime blood sugar is 201 - 250 take 2 units
+
+                                                                          251 - 300 take 3 units
+
+                                                                          301 - 350 take 4 units
+
+
+
+
+
+
+
+Please follow up with your endocrinologist or primary care practitioner in 1-2 weeks.  Bring this paper and your blood sugar results from the time you were discharged.  For urgent problems or questions about your blood sugar or insulin call 387-8267 and ask for the page operator.  Have beeper #68537 paged (the diabetes specialist on-call will call you back if you leave a message). You may also try my pager anytime (30568) but I am not always available.
+
+
+
+Olive Tripp, ACNP, CDE                                                        
+
+Dixmont State Hospital                                                                                                   
+
+Diabetes Management Service 
+
+                                                        
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2083-12-30" TYPE="DATE" comment="" />
+<DATE id="P1" start="440" end="443" text="Sat" TYPE="DATE" comment="" />
+<DATE id="P2" start="478" end="484" text="Friday" TYPE="DATE" comment="" />
+<DATE id="P3" start="494" end="502" text="Thursday" TYPE="DATE" comment="" />
+<CONTACT id="P4" start="3659" end="3667" text="387-8267" TYPE="PHONE" comment="" />
+<CONTACT id="P5" start="3713" end="3718" text="68537" TYPE="PHONE" comment="" />
+<CONTACT id="P6" start="3837" end="3842" text="30568" TYPE="PHONE" comment="" />
+<NAME id="P7" start="3878" end="3889" text="Olive Tripp" TYPE="DOCTOR" comment="" />
+<LOCATION id="P8" start="3958" end="3980" text="Dixmont State Hospital" TYPE="HOSPITAL" comment="" />
+</TAGS>
+</deIdi2b2>

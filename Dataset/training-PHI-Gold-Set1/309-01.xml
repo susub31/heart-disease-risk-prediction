@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2092-04-21
+
+NAME:     Wilson, Gabriel
+MRN:      8514931 
+
+FOLLOW-UP VISIT                                                              
+
+CHIEF COMPLAINT:  Follow-up hypertension and diabetes.
+
+Currently on Cozaar 50 mg 2 tablets in the morning and atenolol 25 mg in the
+morning.  She is taking her medication regularly. 
+
+Over the past 2 weeks has had URI symptoms with nasal congestion, low grade
+fevers, and cough.  The cough is minimally productive.  She does have mild myalgias
+but no nausea, vomiting, diarrhea.  Symptoms are resolving spontaneously.
+
+ON EXAM:  Blood pressure 150/98.  Pharynx without lesions.  No cervical
+adenopathy.  Lungs:  Clear without wheezes, rhonchi or rales.  Cardiac exam: 
+Regular rate and rhythm; normal S1 and S2.  Heart rate 60.  No diastolic murmur or
+gallop.  No peripheral edema. 
+
+A/P:  
+1.   Hypertension and diabetes with poor hypertensive control.  Will add
+     hydrochlorothiazide 12.5 mg p.o. q.a.m.  To follow up in 2 weeks.
+
+2.   Viral URI, resolving spontaneously.  Follow-up for any worsening.
+
+
+
+Julie Fraser, M.D.
+
+JF/crane/knox
+
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2092-04-21" TYPE="DATE" comment="" />
+<NAME id="P1" start="38" end="53" text="Wilson, Gabriel" TYPE="PATIENT" comment="" />
+<ID id="P2" start="64" end="71" text="8514931" TYPE="MEDICALRECORD" comment="" />
+<NAME id="P3" start="1064" end="1076" text="Julie Fraser" TYPE="DOCTOR" comment="" />
+<NAME id="P4" start="1084" end="1086" text="JF" TYPE="DOCTOR" comment="" />
+<NAME id="P5" start="1087" end="1092" text="crane" TYPE="DOCTOR" comment="" />
+<NAME id="P6" start="1093" end="1097" text="knox" TYPE="DOCTOR" comment="" />
+</TAGS>
+</deIdi2b2>

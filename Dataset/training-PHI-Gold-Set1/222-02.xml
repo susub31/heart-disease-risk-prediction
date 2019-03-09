@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2095-03-27
+
+Wt 198  146/84
+72 yo male with few months of cardiac problems, including need for ablation of
+arrhythmia focus, done 1/95.   Has hx CAD with MI 2062 and 2086, with echo 1/95
+showing 40-45% EF with posterior and apical hypokinesis.   No CHF sx, tho has
+moderate fluid retention at times.  Takes lasix 40mg PRN (about 1-2 times per
+wk, when edematous, tho even with periph edema, no signif SOB/CHF sx.).
+     
+For past 6 wks has been on atenolol 25 qd (has not been able to tolerate
+amiodarone, lisinopril in past), but has felt very malaised, weak, lacking in
+energy, "weak" in the legs.  Feels his appetite was also affected and he lost 8
+pounds.  He got fed up and 2 days ago on his own, he stopped the atenolol and
+since then has felt nearly back to usual self.  HE says that he will not go
+back on atenolol.   At last visit, was encouraged by Dr Corona to try to
+continue with atenolol.
+     
+DM on glucophage 1500mg qd (500 AM, 1000PM), without signif poly sx, with
+recent fingerstick of 180 in AM and 220 in PM.
+     
+EXAM:   Lungs are clear.  Extrem 3+ edema.
+ 
+IMP:    Side effects from atenolol.
+        AICD/ventricular arrhythmia, controlled recently.
+        Fluid retention.  PRN lasix not ideal.
+        DM not as well controlled as desirable.
+        LDL 138, should be lower, tho he is so intolerant of meds.
+ 
+PLAN:   Will discuss with Dr Corona about unwillingness to take beta blocker
+          and if any other agent indicated.  BP not ideally controlled.
+        Encouraged regular lasix use of 20mg twice per wk, salt restriction
+        Consider lipitor for LDL 138, but next visit.
+        Increase metformin to 1000 BID.
+        Pneumovax today.
+Patricia Islam MD
+
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2095-03-27" TYPE="DATE" comment="" />
+<AGE id="P1" start="43" end="45" text="72" TYPE="AGE" comment="" />
+<DATE id="P2" start="145" end="149" text="1/95" TYPE="DATE" comment="" />
+<DATE id="P3" start="172" end="176" text="2062" TYPE="DATE" comment="" />
+<DATE id="P4" start="181" end="185" text="2086" TYPE="DATE" comment="" />
+<DATE id="P5" start="197" end="201" text="1/95" TYPE="DATE" comment="" />
+<NAME id="P6" start="877" end="883" text="Corona" TYPE="DOCTOR" comment="" />
+<NAME id="P7" start="1383" end="1389" text="Corona" TYPE="DOCTOR" comment="" />
+<NAME id="P8" start="1698" end="1712" text="Patricia Islam" TYPE="DOCTOR" comment="" />
+</TAGS>
+</deIdi2b2>

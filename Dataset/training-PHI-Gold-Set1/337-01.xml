@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2085-02-11
+
+NEUROLOGY  ADMIT NOTE
+
+Patient: Betty Gillis
+
+MRN: 78865189
+
+Time of admission: 7:00PM
+
+
+
+CC:  drooling
+
+HPI: 73 RHF with h/o HTN, HL, OA, prior cerebellar stroke, taking ASA 325mg QD, who p/w drooling and L hand clumsiness which began while the patient was typing a letter this morning. The patient reports that she woke up around noon after going to bed feeling just fine around midnight.  She then called a friend and realized that her speech was slurred.  She waited for her symptoms to improve, and when they did not resolve, she called a cab to take her to her CH medical office. While there, she noticed tremors of her hands b/l; she was given an additional ASA 325mg today.  She has never had similar symptoms in the past.  She denies headache, vision changes, dizziness, or difficulty walking with this episode today.  She feels otherwise well. She reports that she discovered her prior stroke when she noted she felt more dizzy and unsteady and obtained an MRI which showed an old cerebellar infarct.
+
+
+
+PMH: HTN, HL, Prior stroke-- likely cerebellar, OA, bilateral TKR, OA, GERD, h/o GIB required PRBC transfusions, psoriasis
+
+
+
+Meds:
+
+ASA 325 PO QD
+
+HCTZ 12.5 QD
+
+Zocor 20 QD
+
+Prilosec
+
+Doxepin for psoriasis
+
+NKDA 
+
+SH: denies tobacco, ETOH, illicips 
+
+
+
+FH: NC
+
+ROS: . Negative for HA, change vision, n/v, vertigo, tiinitus, numbness, tingling, difficulty with speech, swallowing or gait
+
+Exam:	 
+
+GEN:.WDWN, NAD, sitting up in bed, pleasant 				
+
+RESP: Lungs CTA b/l`                  			CV: 
+
+ABD: soft NTND					EXT:no c/c/e, excoriated scaly patches along dorsum of hands b/l
+
+NEURO: 
+
+MS:awake, alert, interactive, follows all commands. memory 3/3 items at 3 minutes. repetition intact, naming intact, comprehension slow but will correct mistakes
+
+CN: Pupils 5-->3 b/l, eomi without nystagmus, VFFTC, L UMN facial, hearing intact to finger rub b/l, tongue midline, dysarthric
+
+Motor:  nl bulk and tone, L pronator drift
+
+	Delt	Bi	Tri	Grip	IP	Q	H	Gas	EHL
+
+R	5	5	5	5	5	5	5	5	5
+
+L	4+	5	4+	5	5	5	5	5	5	
+
+
+
+Reflexes:  
+
+	Bi	Tri	BR	Knee	Ankle 
+
+R	1+	1+	1+	1	1+	
+
+L	1+	1+	1+	1+	1+
+
+Toes downgoing bilaterally
+
+Sensation: intact to LT, symmetric 
+
+Coordination:  dysmetria F-T-N L > R, symmetric RAM
+
+Gait:  not tested
+
+Data:
+
+Labs: CMP wnl, CBC wnl, U/A- LE++, 
+
+Head CT: pending
+
+MRI/MRA brain: pending
+
+
+
+A/P:  73F with h/o prior infarct, HTN, HL, who presents with new L facial droop and L arm weakness, suspicious for stroke. 
+
+1. Admit to Neurology floor service for observation and w/u including: CT/CTA, MRI/MRA, stroke labs (ESR, TSH, CRP, lipoprotein a, homocysteine), TTE with bubble study, Holter monitor placement.
+
+2. SBP 140-180 for now.
+
+3. Given that stroke may have occurred while patient was taking ASA, will administer Aggrenox.
+
+4. Cipro for UTI
+
+5. Pt reports she is eating well, therefore no need for swallow evaluation. 
+
+
+
+Plan discussed with Neurology Senior, Veleria Blackwell. 
+
+
+
+Hollis B Hughes MD
+
+B 93439
+
+
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2085-02-11" TYPE="DATE" comment="" />
+<NAME id="P1" start="60" end="72" text="Betty Gillis" TYPE="PATIENT" comment="" />
+<ID id="P2" start="79" end="87" text="78865189" TYPE="MEDICALRECORD" comment="" />
+<AGE id="P3" start="138" end="140" text="73" TYPE="AGE" comment="" />
+<LOCATION id="P4" start="595" end="597" text="CH" TYPE="HOSPITAL" comment="" />
+<AGE id="P5" start="2352" end="2354" text="73" TYPE="AGE" comment="" />
+<NAME id="P6" start="2924" end="2941" text="Veleria Blackwell" TYPE="DOCTOR" comment="" />
+<NAME id="P7" start="2947" end="2962" text="Hollis B Hughes" TYPE="DOCTOR" comment="" />
+<CONTACT id="P8" start="2969" end="2974" text="93439" TYPE="PHONE" comment="" />
+</TAGS>
+</deIdi2b2>

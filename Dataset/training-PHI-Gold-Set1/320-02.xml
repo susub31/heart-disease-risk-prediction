@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2080-05-30
+
+CC: fever
+HPI: 70 y/o Chilean woman with PMH DM, HTN, high cholesterol who was recently admitted to CMC ED obs unit (last week) for back pain. She has been taking oxycodone and muscle relaxants at home. The past few days, she has had fevers every afternoon and family is concerned about malaria. Fevers at home have been between 103 and 105 (measured with thermometer). She continues to have back pain and also has abdominal pain, decreased appetite. Per family, she has not seemed confused at all.
+
+
+Of note, she has had malaria in the past, and she reports the symptoms are the same now as they were at that time.
+
+
+Problems (per LMR)
+Diabetes mellitus : dx late 2060s. No h/o macro or microvascular complications.
+Hypertensive disorder : dx 2060s, was taking atenolol, enalapril and isosorbide in UNITED KINGDOM
+Hypercholesterolemia 
+Obesity 
+Osteoarthritis : L knee worst spot
+Gastroesophageal reflux disease : x years, never had EGD. H. pylori serology+
+Helicobacter pylori : serology positive 2068 and re-check 2/2080, no Ag done. Given triple therapy Rx by Internal Medicine
+Vitamin D deficiency 
+Hepatitis B antibody present : Had HbsAg+ and HbsAb+ in 2067. LFTs wnl 2067 and 2080.
+Positive PPD : dx in Mississippi previously in 2067
+Osteoporosis 
+
+
+Medications (per LMR)
+Aspirin (ACETYLSALICYLIC Acid) 81 MG (81 MG TABLET Take 1) PO QD x 30 days #30 Tablet(s)
+Atenolol 50 MG (50MG TABLET Take 1) PO QD x 30 days #30 Tablet(s)
+Calcium 600mg + Vitamin D(400IU) 1 TAB PO BID #60 Tablet(s)
+Ergocalciferol 50000 UNITS (50000 UNIT CAPSULE Take 1) PO QWEEK x 42 days #6 Capsule(s)
+Lisinopril 20 MG (20 MG TABLET Take 1) PO QD x 30 days #30 Tablet(s)
+Metformin 500 MG (500 MG TABLET Take 1) PO BID x 30 days #60 Tablet(s)
+Motrin (IBUPROFEN) 600 MG (600MG TABLET Take 1) PO Q6H PRN pain, Take with food x 7 days #28 Tablet(s)
+Nulytely 4000 ML PO as directed #1 Bottle(s)
+Oxycodone 5 MG (5MG TABLET Take 1) PO Q6H PRN pain, pain not relieved by ibuprofen
+Simvastatin 40 MG (40 MG TABLET Take 1) PO QPM x 30 days #30 Tablet(s)
+Valium (DIAZEPAM) 5 MG (5MG TABLET Take 1) PO Q8H, Take 1 tablet every 8 hours for muscle relaxation if awake/uncomfortable
+
+
+Allergies
+NKA 
+
+
+Social History
+
+Here with several family members. Originally from Chile, does not speak English.
+
+
+Physical Exam
+102.6, HR 102, RR 20, 99% RA
+BP 184/68 and 178/69
+
+General - Very uncomfortable in bed
+HEENT - MMMLungs - clear
+CV - tachy but regular, no murmurs
+Abdomen - soft, non-distended, reports some tenderness to palpation of RLQ
+Ext - no edema, no rash, w/w/p
+
+
+EKG Rate 100, sinus rhythm, normal axis. No acute ST changes, Q waves or T wave inversion. T wave flattening in lead II. No significant change compared to prior (2/2080).
+Urine dipstick - large WBCs, large RBCs
+FSBG 143
+
+
+Motrin X1 at triage
+
+
+A/P 70 y/o woman with PMH DM, HTN, high cholesterol who was recently admitted to CMC ED obs unit (last week) for back pain now with documented high fevers.
+
+
+-Blood cultures (one set) with IV start, 500cc NS bolus
+-Urine culture sent
+-Transfer to CMC ER for further work-up, likely admission; referral called to ED access nurse
+
+
+Guadalupe Logan, MD, PGY3
+
+CC: Dr. Xue
+
+
+
+Personally discussed differential diagnosis and treatment plan with patient.  Pt agrees and demonstrated full understanding of recommendations before discharge. 
+ 
+
+
+
+
+Discharge Time: 8:30PM
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2080-05-30" TYPE="DATE" comment="" />
+<AGE id="P1" start="43" end="45" text="70" TYPE="AGE" comment="" />
+<LOCATION id="P2" start="50" end="57" text="Chilean" TYPE="COUNTRY" comment="" />
+<LOCATION id="P3" start="128" end="131" text="CMC" TYPE="HOSPITAL" comment="" />
+<DATE id="P4" start="693" end="698" text="2060s" TYPE="DATE" comment="" />
+<DATE id="P5" start="772" end="777" text="2060s" TYPE="DATE" comment="" />
+<LOCATION id="P6" start="828" end="842" text="UNITED KINGDOM" TYPE="COUNTRY" comment="" />
+<DATE id="P7" start="1027" end="1031" text="2068" TYPE="DATE" comment="" />
+<DATE id="P8" start="1045" end="1051" text="2/2080" TYPE="DATE" comment="" />
+<DATE id="P10" start="1188" end="1192" text="2067" TYPE="DATE" comment="" />
+<DATE id="P11" start="1203" end="1207" text="2067" TYPE="DATE" comment="" />
+<DATE id="P12" start="1212" end="1216" text="2080" TYPE="DATE" comment="" />
+<LOCATION id="P13" start="1239" end="1250" text="Mississippi" TYPE="STATE" comment="" />
+<DATE id="P14" start="1265" end="1269" text="2067" TYPE="DATE" comment="" />
+<LOCATION id="P15" start="2262" end="2267" text="Chile" TYPE="COUNTRY" comment="" />
+<DATE id="P16" start="2726" end="2732" text="2/2080" TYPE="DATE" comment="" />
+<AGE id="P17" start="2812" end="2814" text="70" TYPE="AGE" comment="" />
+<LOCATION id="P18" start="2889" end="2892" text="CMC" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P19" start="3055" end="3058" text="CMC" TYPE="HOSPITAL" comment="" />
+<NAME id="P20" start="3138" end="3153" text="Guadalupe Logan" TYPE="DOCTOR" comment="" />
+<NAME id="P21" start="3173" end="3176" text="Xue" TYPE="DOCTOR" comment="" />
+</TAGS>
+</deIdi2b2>

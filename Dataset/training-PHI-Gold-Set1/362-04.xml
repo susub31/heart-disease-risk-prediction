@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2076-10-07
+
+
+
+
+
+
+
+Hospital De Doctor Pila
+
+0744 Roseann Circle              DIETZ, SUSIE
+
+San Manuel, WY  76846                    53841210
+
+(082) 471-7456                     10/07/2076
+
+
+
+
+
+HISTORY OF PRESENT ILLNESS:  Ms. Dietz is a 59-year-old woman who comes for follow up of diabetes and other medical problems.
+
+
+
+PROBLEMS:
+
+1.  Diabetes mellitus.  Last A1c six months ago was 6.6.  Last eye exam also was six months ago.
+
+2.  Hypertension.  No chest pain, shortness of breath, or pedal edema.
+
+3.  Hypercholesterolemia.  A fasting lipid analysis done five months ago showed total cholesterol of 158, triglycerides of 55, HDL of 52, and an LDL of 95.
+
+
+
+MEDICATIONS:  Aspirin 81 mg p.o. daily, calcium carbonate 600 mg b.i.d., Diovan 80 mg daily, Glucophage 850 mg b.i.d., lorazepam 1 mg q.i.d. p.r.n., Paxil 10 mg daily, and fluvastatin 20 mg daily, but she ran out some time ago.
+
+
+
+REVIEW OF SYMPTOMS:  She has noted some pruritus between several toes on both feet. No significant weight change, febrile signs or symptoms, headache, blurred vision, tinnitus, chest pain, cough, shortness of breath, nausea, abdominal pain, nightsweats, diarrhea, dysuria, polyuria, skin rash, bruising, joint pain, or focal weakness.  
+
+
+
+
+
+PHYSICAL EXAMINATION:  The patient is in no acute distress.  Blood pressure 124/80, weight 154 pounds, and temperature 98.6.  Skin exam: Notable for slight erythema and breakdown between several toes on the right and left feet.  No scaling elsewhere.  Pedal pulses 1+ bilaterally.  Sensation is intact on plantar aspect of both feet.  Chest: Clear to percussion and auscultation.  Extremities: No edema.
+
+
+
+ASSESSMENT AND PLAN:
+
+1.  Diabetes mellitus.  Good control.  Will recheck values today.
+
+2.  Hypertension.  Good control.  Diovan renewed.
+
+3.  Hypercholesterolemia.  I reviewed with the patient the need to take medication essentially for lifelong.  Better control of LDL than previous value also indicated.  I gave her a prescription for Crestor 10 mg p.o. daily.
+
+4.  Tinea pedis.  I explained disorder to the patient and preventive care.  Also, gave prescription for clotrimazole cream.
+
+5.  Adult health maintenance.  Mammogram requested.  Influenza vaccine given.
+
+
+
+
+
+______________________________
+
+Roger S Conrad, M.D.
+
+
+
+
+
+
+
+
+
+
+
+eScription document:2-8665601 EMSSten Tel
+
+
+
+
+
+
+
+DD: 10/07/76
+
+DT: 10/08/76
+
+DV: 10/07/76
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2076-10-07" TYPE="DATE" comment="" />
+<LOCATION id="P1" start="34" end="57" text="Hospital De Doctor Pila" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P2" start="59" end="78" text="0744 Roseann Circle" TYPE="STREET" comment="" />
+<NAME id="P3" start="92" end="104" text="DIETZ, SUSIE" TYPE="PATIENT" comment="" />
+<LOCATION id="P4" start="106" end="116" text="San Manuel" TYPE="CITY" comment="" />
+<LOCATION id="P5" start="118" end="120" text="WY" TYPE="STATE" comment="" />
+<LOCATION id="P6" start="122" end="127" text="76846" TYPE="ZIP" comment="" />
+<ID id="P7" start="147" end="155" text="53841210" TYPE="MEDICALRECORD" comment="" />
+<CONTACT id="P8" start="157" end="171" text="(082) 471-7456" TYPE="PHONE" comment="" />
+<DATE id="P9" start="192" end="202" text="10/07/2076" TYPE="DATE" comment="" />
+<NAME id="P10" start="241" end="246" text="Dietz" TYPE="PATIENT" comment="" />
+<AGE id="P11" start="252" end="254" text="59" TYPE="AGE" comment="" />
+<NAME id="P12" start="2263" end="2277" text="Roger S Conrad" TYPE="DOCTOR" comment="" />
+<ID id="P13" start="2315" end="2324" text="2-8665601" TYPE="IDNUM" comment="" />
+<DATE id="P14" start="2348" end="2356" text="10/07/76" TYPE="DATE" comment="" />
+<DATE id="P15" start="2362" end="2370" text="10/08/76" TYPE="DATE" comment="" />
+<DATE id="P16" start="2376" end="2384" text="10/07/76" TYPE="DATE" comment="" />
+</TAGS>
+</deIdi2b2>

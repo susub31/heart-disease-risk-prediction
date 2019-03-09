@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2094-12-09
+
+                     RAH EMERGENCY DEPT VISIT
+ 
+DUVALL,BRADY C   425-03-15-1                 VISIT DATE: 12/09/94
+PRESENTING COMPLAINT and HISTORY OF PRESENTING COMPLAINT:  The 
+patient is a 72-year-old gentleman who presents to the Emergency 
+Department.  He reports nightly fevers.  He is two week status post 
+AICD replacement.  He feels this is a malaria exacerbation.  The 
+patient had malaria in Cambodia, and reports he did not have 
+treatment.  His past medical history is also positive for 
+non-insulin-dependent diabetes mellitus, aortic valve replacement 
+with a porcine valve, and ventricular fibrillation.  He is on 
+Glucophage and aspirin.  He has no known drug allergies.  The 
+patient feels well.  He says that each night he gets fever up to 
+101 degrees F., although it is not that high each night.  The 
+patient's past medical history is also significant for CAD, with an 
+MI in 2092 and ventricular tachycardia in 2086.  His AICD was 
+re-done two weeks ago.  He had a triple-A repair in 2089.  He has a 
+history of gout. 
+PHYSICAL EXAMINATION:  The patient is well-appearing now, with a 
+temperature of 97 degrees F., a pulse of 58, a respiratory rate of 
+18 and unlabored, a blood pressure of 110/80, and a room air 
+saturation of 96%.  The HEENT examination is negative.  The lungs 
+are clear.  The heart has a regular rhythm.  The abdomen is soft 
+and non-tender.  The patient appears quite well. 
+LABORATORY EVALUATION:  Blood cultures are done. 
+THERAPY RENDERED/COURSE IN ED:  The patient's primary care 
+physician is contacted and will follow up with the patient.  the 
+patient's white blood cell count is 6.  His hematocrit is 40.  His 
+potassium is 4.9, his BUN 19, and his creatinine 0.9.  The 
+urinalysis is negative for infection.  He has no pulmonary 
+infection evident.  There are no ischemic changes on his EKG.  The 
+patient appears to be doing well after the AICD replacement.  The 
+AICD has not had to fire. 
+FINAL DIAGNOSIS:  Nightly fevers, etiology uncertain. 
+DISPOSITION (including condition upon discharge):  The patient is 
+discharged in good condition to careful outpatient followup. 
+___________________________________                    IL050/525 
+IKECHUKWU SPEARS, M.D.  IS25                                D:12/09/94 
+                                                       T:12/09/94 
+Dictated by:  IKECHUKWU SPEARS, M.D.  IS25 
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2094-12-09" TYPE="DATE" comment="" />
+<LOCATION id="P1" start="49" end="52" text="RAH" TYPE="HOSPITAL" comment="" />
+<NAME id="P2" start="76" end="90" text="DUVALL,BRADY C" TYPE="PATIENT" comment="" />
+<ID id="P3" start="93" end="104" text="425-03-15-1" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P4" start="133" end="141" text="12/09/94" TYPE="DATE" comment="" />
+<AGE id="P5" start="219" end="221" text="72" TYPE="AGE" comment="" />
+<LOCATION id="P6" start="430" end="438" text="Cambodia" TYPE="COUNTRY" comment="" />
+<DATE id="P7" start="925" end="929" text="2092" TYPE="DATE" comment="" />
+<DATE id="P8" start="961" end="965" text="2086" TYPE="DATE" comment="" />
+<DATE id="P9" start="1034" end="1038" text="2089" TYPE="DATE" comment="" />
+<ID id="P10" start="2213" end="2222" text="IL050/525" TYPE="IDNUM" comment="" />
+<NAME id="P11" start="2224" end="2240" text="IKECHUKWU SPEARS" TYPE="DOCTOR" comment="" />
+<NAME id="P12" start="2248" end="2252" text="IS25" TYPE="USERNAME" comment="" />
+<DATE id="P13" start="2286" end="2294" text="12/09/94" TYPE="DATE" comment="" />
+<DATE id="P14" start="2353" end="2361" text="12/09/94" TYPE="DATE" comment="" />
+<NAME id="P15" start="2377" end="2393" text="IKECHUKWU SPEARS" TYPE="DOCTOR" comment="" />
+<NAME id="P16" start="2401" end="2405" text="IS25" TYPE="USERNAME" comment="" />
+</TAGS>
+</deIdi2b2>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2061-01-15
+
+                     ST LUCIA EMERGENCY DEPT VISIT
+ 
+VUONG,XOCHILT R   515-31-23-5                  VISIT DATE: 01/15/61
+PRESENTING COMPLAINT:  Bleeding. 
+HISTORY OF PRESENTING COMPLAINT:  This 71 year old female status 
+post cardiac cath stent placement and then later EP study states 
+that she was doing well until last night when she started to ooze 
+from the groin site.  She did not apply any pressure.  She states 
+that she was bleeding through the night, did not want to bother her 
+brother, called Dr. Aponte today who told her to come in.  She 
+states that she did not know where the site was.  She could not see 
+it and she did not apply pressure.  She has no chest pain, no 
+shortness of breath.  She is not dizzy.  She is on Lovenox and 
+Coumadin both.  She has not had her PT checked.  The rest of the 
+systems were reviewed and are negative. 
+PAST MEDICAL HISTORY:  Depression, cardiac cath, hypothyroidism. 
+MEDICATIONS:  Taken from the chart. 
+ALLERGIES:  Taken from the chart. 
+SOCIAL HISTORY:  She lives with her brother. 
+PHYSICAL EXAMINATION:  Her heart rate was 81, her temperature is 
+96.5 degrees, blood pressure is 123/64.  This is a well-developed 
+female, alert, oriented.  HEENT exam is atraumatic, normocephalic. 
+Neck is soft and supple.  Mouth and throat are normal. 
+Well-hydrated moist mucosa.  Conjunctiva are clear.  Sclerae are 
+non-icteric.  There is no jugular venous distention.  Heart had a 
+regular rate and rhythm.  The lungs were clear to auscultation 
+bilaterally.  The abdomen was soft, nontender.  No guarding.  No 
+hepatosplenomegaly.  There is a hematoma at the right groin.  The 
+cath site was about 1 cm and closed but there was some small oozing 
+from the site.  It stopped with pressure.  The patient was covered 
+in blood and blood clots.  The old dressing was removed.  All the 
+dried blood and blood clots were removed.  The patient was cleaned 
+up by myself.  Then, the nurses put her in the hospital gown. 
+LABORATORY EVALUATION:  PT, PTT, CBC were obtained. 
+THERAPY RENDERED/COURSE IN ED:  After speaking with the patient at 
+length, it seems that she lives with her older brother.  She is 
+caring for him and is a bit overwhelmed with this.  Obviously, her 
+medical knowledge base is not adequately prepared to deal with this 
+problem.  She will be admitted to the Observation Area through the 
+day for nurse training.  Social Services will be consulted to 
+arrange for a home visiting nurse.  Dr. Aponte was called. 
+CONSULTATIONS (including PCP):  Social Services and Dr. Aponte. 
+FINAL DIAGNOSIS:  Bleeding from cath site and knowledge deficit. 
+DISPOSITION (including condition upon discharge):  See the chart 
+for disposition. 
+___________________________________                    OO412/09605 
+NATHAN PLATT, M.D.       NP27                           D:01/15/61 
+                                                       T:01/15/61 
+Dictated by:  NATHAN PLATT, M.D.       NP27 
+cc:  OWEN R. APONTE, M.D.   OA0 
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2061-01-15" TYPE="DATE" comment="" />
+<LOCATION id="P1" start="49" end="57" text="ST LUCIA" TYPE="HOSPITAL" comment="" />
+<NAME id="P2" start="81" end="96" text="VUONG,XOCHILT R" TYPE="PATIENT" comment="" />
+<ID id="P3" start="99" end="110" text="515-31-23-5" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P4" start="140" end="148" text="01/15/61" TYPE="DATE" comment="" />
+<AGE id="P5" start="222" end="224" text="71" TYPE="AGE" comment="" />
+<NAME id="P6" start="538" end="544" text="Aponte" TYPE="DOCTOR" comment="" />
+<NAME id="P7" start="2485" end="2491" text="Aponte" TYPE="DOCTOR" comment="" />
+<NAME id="P8" start="2561" end="2567" text="Aponte" TYPE="DOCTOR" comment="" />
+<ID id="P9" start="2775" end="2786" text="OO412/09605" TYPE="IDNUM" comment="" />
+<NAME id="P10" start="2788" end="2800" text="NATHAN PLATT" TYPE="DOCTOR" comment="" />
+<NAME id="P11" start="2813" end="2817" text="NP27" TYPE="USERNAME" comment="" />
+<DATE id="P12" start="2846" end="2854" text="01/15/61" TYPE="DATE" comment="" />
+<DATE id="P13" start="2913" end="2921" text="01/15/61" TYPE="DATE" comment="" />
+<NAME id="P14" start="2937" end="2949" text="NATHAN PLATT" TYPE="DOCTOR" comment="" />
+<NAME id="P15" start="2962" end="2966" text="NP27" TYPE="USERNAME" comment="" />
+<NAME id="P16" start="2973" end="2987" text="OWEN R. APONTE" TYPE="DOCTOR" comment="" />
+<NAME id="P17" start="2996" end="2999" text="OA0" TYPE="USERNAME" comment="" />
+</TAGS>
+</deIdi2b2>

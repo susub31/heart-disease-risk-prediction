@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2095-09-30
+
+                     SPENCER EMERGENCY DEPT VISIT
+
+ 
+
+VICENTE,KADEEM FRANCIS   948-59-58-0              VISIT DATE: 09/30/95
+
+PRESENTING COMPLAINT:  Chest discomfort. 
+
+HISTORY OF PRESENTING COMPLAINT:  This is a 78-year-old gentleman 
+
+who had a stuttering course of chest discomfort throughout the 
+
+night, last night, and into today.  He finally took nitroglycerin 
+
+tablets at about 9 or 10:00 a.m. and this abated his chest 
+
+discomfort.  The patient has known history of coronary artery 
+
+disease and recently had gone back on his coronary rehab program, 
+
+however, yesterday after a workout, he became extremely tired, more 
+
+tire than usual.  He thought he might have pushed it a bit and he 
+
+rested throughout the rest of the day.  Then last night, he had 
+
+some chest discomfort, which he initially did not think much of. 
+
+Then was then associated with some shortness of breath in the early 
+
+morning hours.  He felt he was wheezing.  This resolved after he 
+
+got up and walked around.  He took the nitroglycerin tablets this 
+
+morning.  These were fresh nitroglycerin tablets he had just 
+
+obtained and this, in fact, resolved his symptoms.  He then came in 
+
+to see Dr. Echeverria, his physician, in clinic and was sent to the 
+
+emergency department for evaluation.  Please see the handwritten 
+
+emergency department record for additional details. 
+
+PAST MEDICAL HISTORY:  Coronary artery disease 
+
+SOCIAL HISTORY AND FAMILY HISTORY:  See handwritten emergency 
+
+department record. 
+
+PHYSICAL EXAMINATION:  The patient is presently comfortable, not 
+
+tachypneic.  His blood pressure is 160/80.  His heart rate is in 
+
+the 50s.  There is no evidence of congestive heart failure on 
+
+examination.  There is no jugular venous distention and his lungs 
+
+are clear to auscultation.  His heart examination is distant, with 
+
+no murmurs or gallops appreciated.  His extremities have trace 
+
+edema.  Abdomen in soft and non-tender.  Pulses are equal. 
+
+LABORATORY EVALUATION:  His electrocardiogram shows a left bundle 
+
+branch pattern with no change in configuration from previous 
+
+tracings.  His other laboratory studies are pending. 
+
+THERAPY RENDERED/COURSE IN ED:  The case was discussed with his 
+
+physician, Dr. Echeverria.  We both agree that the patient has 
+
+probably had a progression of his coronary syndrome with possible 
+
+unstable plaque, given his episode of shortness of breath and 
+
+paroxysmal nocturnal dyspnea.  It is possible that he has silent 
+
+ischemia, which is not evident because of the left bundle branch 
+
+pattern.  Pending the other evaluation and studies, which are being 
+
+sent at this time, the patient will require hospitalization for 
+
+further medical management. 
+
+FINAL DIAGNOSIS:  Acute coronary insufficiency, coronary artery 
+
+disease. 
+
+DISPOSITION (including condition upon discharge):  The patient was 
+
+admitted to the hospital in stable condition. 
+
+___________________________________                    BR445/05178 
+
+STEPHEN HENDERSON, M.D.   SH44                             D:09/30/95 
+
+                                                       T:09/30/95 
+
+Dictated by:  STEPHEN HENDERSON, M.D.   SH44 
+
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2095-09-30" TYPE="DATE" comment="" />
+<LOCATION id="P1" start="49" end="56" text="SPENCER" TYPE="HOSPITAL" comment="" />
+<NAME id="P2" start="82" end="104" text="VICENTE,KADEEM FRANCIS" TYPE="PATIENT" comment="" />
+<ID id="P3" start="107" end="118" text="948-59-58-0" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P4" start="144" end="152" text="09/30/95" TYPE="DATE" comment="" />
+<AGE id="P5" start="241" end="243" text="78" TYPE="AGE" comment="" />
+<NAME id="P6" start="1211" end="1221" text="Echeverria" TYPE="DOCTOR" comment="" />
+<NAME id="P7" start="2253" end="2263" text="Echeverria" TYPE="DOCTOR" comment="" />
+<ID id="P8" start="2984" end="2995" text="BR445/05178" TYPE="IDNUM" comment="" />
+<NAME id="P9" start="2998" end="3015" text="STEPHEN HENDERSON" TYPE="DOCTOR" comment="" />
+<NAME id="P10" start="3024" end="3028" text="SH44" TYPE="USERNAME" comment="" />
+<DATE id="P11" start="3059" end="3067" text="09/30/95" TYPE="DATE" comment="" />
+<DATE id="P12" start="3127" end="3135" text="09/30/95" TYPE="DATE" comment="" />
+<NAME id="P13" start="3152" end="3169" text="STEPHEN HENDERSON" TYPE="DOCTOR" comment="" />
+<NAME id="P14" start="3178" end="3182" text="SH44" TYPE="USERNAME" comment="" />
+</TAGS>
+</deIdi2b2>

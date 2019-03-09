@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2082-02-21
+
+ Follow-up
+
+Reports episode of N/V/D 3 weeks ago.  Has had persistant RLQ pain that migrates somewhat x 3 weeks.  No BRBPR or change in bowel habits.  No vaginal bleeding.  Appetite normal currently.  no fevers/chills.
+
+Problems
+Peptic ulcer disease  : positive h pylori 
+On prilosec w/good effect
+
+Hypertension   
+Recently we dropped back on Atenolol to 50 and d/c'ed HCTZ.  BP a little elevated today at 140.  Will need to reconsider regimen
+Lasix 40, Lisino 40, atenolol 50
+
+Menopause   
+stable, no vaginal bleeding
+
+Obesity   
+Has not tried any methods of weight loss recently.  He appetite has increased lately and she attributes it to not drinking as much ETOH.
+Requests referral to weight center today. Faxed
+
+Depression   + ETOH dependence
+Still seeing therapy and psychpharm
+Symptoms improved from when I saw her last but has had a lot of deaths and illness in her family/friends recently. Finds that she is thinking about death (in these loved ones) but denies SI.  She is taking Prozac 40 and Remeron 7.5
+
+Knee pain   
+L knee OA.  Not doing PT or wearing brace as per Dr. Tillman.  Missed appt on 2/08 2/10 going to a funeral.  Will reschedule.  Still suspect weight loss to be most important factor.
+
+Hyperlipidemia   
+HDL low
+On lipitor
+May need to consider niacin
+
+Congestive heart failure   
+Some SOB while walking, but no orthopnea or PND.
+On Lasix BB ACEi
+
+Shoulder pain
+Did not follow-up with PT, but sxs improving.
+
+
+Medications
+ATENOLOL 50 MG (50MG TABLET take 1) PO QD  
+Enteric Coated Asa (BABY) (ASPIRIN Enteric Coated (CHILDRENS)) 81 MG (81MG TABLET take 1) PO QD  
+Fluoxetine Hcl 40 MG (20MG TABLET take 2) PO QD x 30 days, Take 2 caps daily 
+IBUPROFEN 600 MG (600MG TABLET take 1) PO Q6H PRN pain  
+Lasix (FUROSEMIDE) 40 MG (40MG TABLET take 1) PO QD  
+Lipitor (ATORVASTATIN) 40 MG (40MG TABLET take 1) PO QHS  
+MIRTAZAPINE 7.5MG --15 MG (15MG TABLET ) PO QHS x 30 days, Take 1/2--1 tab at bedtime for sleep 
+Mvi (MULTIVITAMINS) 1 TAB PO QD  
+Nexium (ESOMEPRAZOLE) 20 MG (20MG CAPSULE DR take 1) PO QD  
+Zestril (LISINOPRIL) 40 MG (40MG TABLET take 1) PO QD x 30 days 
+
+Allergies
+NKA   
+
+Results
+10/06/2081 ALT/SGPT 49,  AST/SGOT 37,  ALKP 138 (H),  TBILI 0.6,  CBILI 0.00,  IBILI 0.9
+
+10/06/2081 CHOL 148,  TRIG 156 (H),  HDL 32 (L),  LDL 85,  CHOL/HDL 4.63
+
+Physical Exam
+
+BP 142/84 P 78 T 98.2 WT 206.5 Ht 50 ''
+GEN: well appearing, well groomed woman who appears her stated age
+CV: RRR , JVP 5-6cm
+Lungs: CTA
+Abd: +BS, TTP (no rebound or guarding) in RLQ.  No HSM or other masses
+LE: no edema, no rashes
+
+
+Assessment and Plan
+
+Lori is a 54 yo woman with multiple medical problems, but most recently her depression has been the most significant.
+
+1. Abd pain: ?GI (colitis, phelgmon, etc)  v. GYN in origin (ovarian). Check labs and CT scan.  Will call if sxs worsen at all.
+
+2. Depression: 
+con't to follow-up with psych providers
+con't Prozac and remeron
+
+3. HTN: con't current regimen but may need to again increase atenolol or add back HCTZ
+
+4. Knee pain: referral to Dr. Tillman, encourage weight loss
+
+5. Obesity: WT center referral
+
+
+Health Maint
+Malignancy
+Colon: Colo in 2079 w/ benign polyp-  F/u 2089
+Breast: Mammo 1/2082 - Birads 1
+Cervix: failed pap at last CPE, to repeat in 1 month
+
+Vasc:
+HDL low, considering 2nd agent
+ASA daily
+ETT in 2081 WNL
+HF: no signs of failure.
+
+
+
+
+Pt. seen/examined with Dr. Oakley.  I agree with A/P as per her note above.
+
+_____________________________________________
+Michael Queen, M.D.
+
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2082-02-21" TYPE="DATE" comment="" />
+<NAME id="P1" start="1111" end="1118" text="Tillman" TYPE="DOCTOR" comment="" />
+<DATE id="P2" start="1136" end="1140" text="2/08" TYPE="DATE" comment="" />
+<DATE id="P3" start="1141" end="1145" text="2/10" TYPE="DATE" comment="" />
+<DATE id="P4" start="2150" end="2160" text="10/06/2081" TYPE="DATE" comment="" />
+<DATE id="P5" start="2240" end="2250" text="10/06/2081" TYPE="DATE" comment="" />
+<NAME id="P6" start="2585" end="2589" text="Lori" TYPE="PATIENT" comment="" />
+<AGE id="P7" start="2595" end="2597" text="54" TYPE="AGE" comment="" />
+<NAME id="P8" start="3033" end="3040" text="Tillman" TYPE="DOCTOR" comment="" />
+<DATE id="P9" start="3137" end="3141" text="2079" TYPE="DATE" comment="" />
+<DATE id="P10" start="3164" end="3168" text="2089" TYPE="DATE" comment="" />
+<DATE id="P11" start="3183" end="3189" text="1/2082" TYPE="DATE" comment="" />
+<DATE id="P12" start="3309" end="3313" text="2081" TYPE="DATE" comment="" />
+<NAME id="P13" start="3374" end="3380" text="Oakley" TYPE="DOCTOR" comment="" />
+<NAME id="P14" start="3470" end="3483" text="Michael Queen" TYPE="DOCTOR" comment="" />
+</TAGS>
+</deIdi2b2>

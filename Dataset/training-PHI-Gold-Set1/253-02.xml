@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2071-05-18
+
+
+
+                        OFFICE NOTE
+
+Conner, Andrew
+MR #9911852
+May 18, 2071
+
+Andy comes in for followup of hospitalization on May 6, for coronary artery disease and he had
+increasing angina pectoris leading to catheterization.  He underwent angioplasty of the
+circumflex vessels and then angioplasty and stenting of the first diagonal branch to the LAD. 
+The latter one was done in the second setting and part of the study where the ____ the stent
+versus a plain stent.  This was done by Dr. Winn, and Dr. Cook.  Since then he has been
+tired, otherwise felt well.  He had reasonable lipids but low HDL syndrome.  His blood sugars
+have been controlled recently with A1C's in the 6 range.  He is overweight and does not do any
+regular exercise program.  He is on        for arthritis.  
+
+His current medications consist of aspirin 325 mg per day, Plavix 75 mg per day, Glucatrol 10
+mg twice daily and Glucophage 500 mg twice daily, Atenolol 25 mg daily, Nexium 20 mg per
+day, Flomax .4 and Zestril. He feels well.  He is a little fatigued.  No obvious angina.  His blood
+pressure is running 110/70, his pulse is running 60 and regular.  JVP is normal. Carotids are
+normal.  The lungs are clear.  Coronary:  S3.
+
+IMPRESSION:  Doing well.  I think he should probably be on Lipitor even though he is on low
+lipids and I also think that he would benefit from cardiac rehabilitation. He will also pay close
+attention to diabetes and he is prepared to move on with insulin.
+
+
+
+Brandon Walls, M.D.
+
+Dictated/Not Read
+
+BW/yen
+
+
+    
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2071-05-18" TYPE="DATE" comment="" />
+<NAME id="P1" start="67" end="81" text="Conner, Andrew" TYPE="PATIENT" comment="" />
+<ID id="P2" start="86" end="93" text="9911852" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P3" start="94" end="106" text="May 18, 2071" TYPE="DATE" comment="" />
+<NAME id="P4" start="108" end="112" text="Andy" TYPE="PATIENT" comment="" />
+<DATE id="P5" start="157" end="162" text="May 6" TYPE="DATE" comment="" />
+<NAME id="P6" start="523" end="527" text="Winn" TYPE="DOCTOR" comment="" />
+<NAME id="P7" start="537" end="541" text="Cook" TYPE="DOCTOR" comment="" />
+<NAME id="P8" start="1500" end="1513" text="Brandon Walls" TYPE="DOCTOR" comment="" />
+<NAME id="P9" start="1540" end="1542" text="BW" TYPE="DOCTOR" comment="" />
+<NAME id="P10" start="1543" end="1546" text="yen" TYPE="DOCTOR" comment="" />
+</TAGS>
+</deIdi2b2>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2080-05-04
+
+Quin is a 69 y/o male with:
+Problems
+Coronary artery disease : CABG x2 vessels, 2/78.
+Aortic stenosis : AVR 2/78/Dr Bonilla
+Diabetes mellitus : Dr Ayala-Skiff
+Atrial fibrillation 
+Spinal stenosis : C3-4;C5-6; C7-T1
+ 
+
+Medications
+Asa (ACETYLSALICYLIC ACID) 81MG TABLET take 1 Tablet(s) PO QD 
+Furosemide 40 MG (40MG TABLET take 1) PO QD 
+Metformin 500MG TABLET take 1 Tablet(s) PO 2 am, 1 pm , for blood sugar
+Lopressor (METOPROLOL TARTRATE) 50MG TABLET PO TID 
+Lisinopril 5MG TABLET take 1 Tablet(s) PO QD 
+Digoxin 125MCG TABLET PO QD 
+Simvastatin 5MG TABLET PO QHS 
+Viagra (SILDENAFIL) 25 MG-50 MG (50MG TABLET ) PO x 1 , Take 1/2-1 tab as directed.
+Metrogel 0.75% (METRONIDAZOLE) 1 APPLICATION TOP BID 
+Warfarin SODIUM 5 MG (5MG TABLET take 1) PO QPM , Takes total of 6.5 mg QD.
+Warfarin SODIUM 1.5 MG (1MG TABLET ) PO QPM , Takes 1.5MG along w/ 5MG tab for total of 6.5 mg daily.
+Alprazolam 0.25 MG (0.5MG TABLET take 0.5) PO QHS PRN 
+
+Allergies
+NKA 
+
+He has some chronic complaints. Itchy throat and runny nose. No runny, ithcy eyes. 
+Cor-  No SOB with walking but with heavy lifting.  No  palpitations.  No lighthead.  No PND.  No orthopnea.  No claudication.  No edema.  No  nausea
+Has had chest pain since heart surgery. Not related to activity. Always present. 
+Has MIBI schedueld for 5/80. 
+2. DM- home gou 120-150.  Followed at Skiff.
+Endocrine: No polydipsia,  polyphagia, weight change, sweats,heat intolerance.Stable nocturia x3. GI- No nausea.  No  vomitting. No  dyspepsia.  No  reflux.  No abdo pain.  No diarrhea.  No constipation.  No melena.  No BRBPR.
+3. With persistent neck an dright shoulder pain. 
+4. Anxious., Verys stressed/tensed. With depression.Memory is not as good. Alprazolam is very helpful. 
+
+Flowsheets
+BLOOD PRESSURE 102/70  
+PULSE 76  
+WEIGHT 203 lb 
+WD,WN,NAD
+
+Neck- limited lateral movment.   No JVD.  No bruit.  No LAN.  No thyromegaly
+Shoulder- limted ROM right shoulder with pain.
+Pulm-  NO accessory muscle use. Percussion- normal.  Palpation-soreness anterior chest. Auscultation-clear. 
+Cor- reg rhyhm. S1S2 normal. No gallop.  No rub.  NO murmer.
+Abdo- normal BS;soft with no HSM.  No mass.  No tenderness
+
+ASS: Frozen right shoulder.
+OA-neck and shoulder
+Anxiety/tension/depression
+
+P- ROM exercsies.
+Educ re: neck and shoulder. 
+Discussed adaptation  ot age change and health problems. 
+For now , take alprazolam BID PRN since this seems to be helpful. 
+More than 50% of 25 min spent discussing this. 
+
+
+
+
+
+
+
+ 
+
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2080-05-04" TYPE="DATE" comment="" />
+<NAME id="P1" start="28" end="32" text="Quin" TYPE="PATIENT" comment="" />
+<AGE id="P2" start="38" end="40" text="69" TYPE="AGE" comment="" />
+<DATE id="P3" start="108" end="112" text="2/78" TYPE="DATE" comment="" />
+<DATE id="P4" start="136" end="140" text="2/78" TYPE="DATE" comment="" />
+<NAME id="P5" start="144" end="151" text="Bonilla" TYPE="DOCTOR" comment="" />
+<NAME id="P6" start="175" end="180" text="Ayala" TYPE="DOCTOR" comment="" />
+<LOCATION id="P7" start="181" end="186" text="Skiff" TYPE="HOSPITAL" comment="" />
+<DATE id="P8" start="1322" end="1326" text="5/80" TYPE="DATE" comment="" />
+<LOCATION id="P9" start="1367" end="1372" text="Skiff" TYPE="HOSPITAL" comment="" />
+</TAGS>
+</deIdi2b2>

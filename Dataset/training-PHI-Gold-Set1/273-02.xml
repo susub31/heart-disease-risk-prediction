@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2076-11-21
+
+					
+
+Novolog 3-7 tid	683-51-28
+
+Lantus 19-20 at hs	Xuan, Wendy
+
+Neoral 100/100 mg bid 
+
+CellCept 1000 mg bid 
+
+Lopressor 12.5 mg bid
+
+Captopril 12.5 mg bid
+
+Lipitor 10 mg qd
+
+Neurontin 600/1200 mg bid
+
+Tums 200 mg ii bid (often forgets)
+
+Prilosec 20 mg bid
+
+MVI i bid
+
+ASA 325 mg qd
+
+Quinine Sulfate 260 mg at hs
+
+
+
+November 21, 2076
+
+
+
+Interim History:	
+
+Comes to review his medical problems.
+
+
+
+Hip X-Rays may have shown early degenerative changes. Still has pain from them on a daily basis but it is minor. Has not tried any analgesics, even acetaminophen. 
+
+Shoulders have bothered her for years and she has seen Dr. Baird with diagnosis of adhesive capsulitis. Hands have bothered her in the past but do not currently. 
+
+
+
+A1c has been over 9 % and she says that control has not changed. Does not have records but says that she tests about tid.
+
+Retinopathy:	Saw Dr. Aragon a few weeks ago. Now going only yearly. Last laser was about 2.5 years ago. Reports that vision was 20/20 in one eye and 20/25 in the other.
+
+Nephropathy:	Cr was 1.4 in July. Says that transplant clinic wanted her to return a month after the last visit but she did not want to do so. She thinks that it was for follow-up of an elevated WBC. However, her WBC has been normal over the last several visits. 
+
+Neuropathy:	Not consistent with taking the Neurontin, and notes it she misses it.
+
+Cardiac:	No chest pain or unusual dyspnea on exertion. Does feel out of shape if she climbs    100 stairs   .  She is seeing Dr. Dotson in two weeks.  
+
+Vascular:	No claudication
+
+
+
+Past Medical History: 
+
+Medications: no changes
+
+
+
+Social History: 
+
+Jack has had a UC flair and several other problems recently. Both of his parents have cancer. 
+
+They is thinking of going on a vacation to (high altitude) in Argentina if he is well enough. 
+
+
+
+Review of Systems: above
+
+
+
+
+
+Physical Exam:	
+
+Looks well.
+
+BP:   114/82		P:   72, regular	
+
+Wt:   163 without shoes, down 0.5
+
+HEENT:	Anicteric. 
+
+Carotids:	Normal pulses, without bruits
+
+Chest:	Clear to auscultation
+
+Heart:	Normal S1; paradoxical S2.  .  No gallops.  No murmurs
+
+Abdomen:	No hepatosplenomegaly. No masses. No tenderness. No palpable AAA. 
+
+Extremities:	No edema.        DP 1-2+,=.  PT 2+,=.  No active foot lesions.
+
+
+
+Impressions and Plan:	
+
+Hard to refine her diabetes control without more data.
+
+No specific indication of recurrent problems with coronary artery disease, but she seems worried about the dyspnea on exertion which she experiences and so will try to clear the air with ETT. ETT with sestamibi.
+
+Try to get flu shot locally.  If unsuccessful, call here every few weeks to see whether we have them. 
+
+Mammograms
+
+A1c, TSH, Electrolytes, BUN/Creatinine
+
+
+
+Appointments:	4 months
+
+
+
+cc:	Xavier Dotson, M.D.
+
+	Transplant Clinic
+
+
+
+
+
+			Yacob T. Kane, M.D., Ph.D.
+
+      
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2076-11-21" TYPE="DATE" comment="" />
+<ID id="P1" start="51" end="60" text="683-51-28" TYPE="MEDICALRECORD" comment="" />
+<NAME id="P2" start="81" end="92" text="Xuan, Wendy" TYPE="PATIENT" comment="" />
+<DATE id="P3" start="346" end="363" text="November 21, 2076" TYPE="DATE" comment="" />
+<NAME id="P4" start="651" end="656" text="Baird" TYPE="DOCTOR" comment="" />
+<NAME id="P5" start="902" end="908" text="Aragon" TYPE="DOCTOR" comment="" />
+<DATE id="P6" start="1078" end="1082" text="July" TYPE="DATE" comment="" />
+<NAME id="P7" start="1527" end="1533" text="Dotson" TYPE="DOCTOR" comment="" />
+<NAME id="P8" start="1649" end="1653" text="Jack" TYPE="PATIENT" comment="" />
+<LOCATION id="P9" start="1807" end="1816" text="Argentina" TYPE="COUNTRY" comment="" />
+<NAME id="P10" start="2762" end="2775" text="Xavier Dotson" TYPE="DOCTOR" comment="" />
+<NAME id="P11" start="2810" end="2823" text="Yacob T. Kane" TYPE="DOCTOR" comment="" />
+</TAGS>
+</deIdi2b2>

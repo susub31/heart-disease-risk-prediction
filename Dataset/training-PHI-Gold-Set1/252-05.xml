@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2072-07-06
+
+
+
+
+
+
+
+JOSHI, KATHY
+
+15842112
+
+07/06/2072
+
+
+
+
+
+Benjamin W. Taylor, M.D.
+
+Illini Community Hospital
+
+66 Cardinal Circle
+
+Three Rivers, NM  11424
+
+
+
+Dear Dr. Taylor:
+
+
+
+Mrs. Joshi returns to the office for routine followup.  Since last seen, she apparently was without evidence of increasing BUN and creatinine and for this reason was advised to transiently hold both her lisinopril and Zaroxolyn.  By doing so, her creatinine fell from 2.2 to 1.6 and BUN from 117 to 57.  She subsequently has resumed her lisinopril therapy, as apparently her blood pressure increased off her ACE inhibitor.  In addition, as part of her followup last March, she underwent an adenosine MIBI stress test during which time she achieved a peak heart rate of 65, peak blood pressure of 129/50, stopping because she reached the end of the adenosine infusion protocol.  Her gated SPECT imaging demonstrated a global left ventricular ejection fraction of 38% with a mildly dilated left ventricle and akinesis of the basal inferoseptal and entire inferior wall.  Her rest-stress perfusion imaging showed similarly a large fixed perfusion defect in the inferior and basal inferoseptal wall without any area of reversible ischemia.  Her last echocardiogram performed in July 2071 showed a residual of left ventricular ejection fraction mildly reduced at 45% with severe inferoseptal and inferior hypokinesis.  In addition, at that time showed evidence for trivial mitral and tricuspid regurgitation and her echo was essentially unchanged from her prior study in March 2071.
+
+
+
+Currently, she is concerned primarily about her inability to lose weight, and in fact states that during a recent vacation she actually discontinued her diet.  Presently, she continues on a regimen of Toprol-XL 37.5 mg p.o. daily, simvastatin 80 mg p.o. daily, lisinopril 5 mg p.o. daily, potassium chloride 20 mEq p.o. b.i.d., furosemide 160 mg p.o. b.i.d., Coumadin, enteric-coated aspirin 81 mg p.o. daily, Niferex 150 mg p.o. daily, Humulin N 20 units subcutaneous q.a.m. and Humulin N 20 units subcutaneous q.p.m.
+
+
+
+Physical exam reveals a pleasant, mildly overweight woman in no acute distress.  Blood pressure right arm sitting 120/52, heart rate 45 and irregularly regular, respirations 14 and unlabored, and weight 253 pounds, which is 12 pounds above her weight of six months ago.  The neck is supple.  JVP is flat.  Carotids are without significant bruits.  Chest remains clear.  Cardiac exam shows normal S1, physiologically split S2 with a soft systolic ejection murmur radiating from the apex to the base.  No significant diastolic murmur or rub.  The abdomen is overweight, but otherwise benign without evidence of abdominal aneurysm or bruit.  Extremities reveal trace bipedal edema.  Peripheral pulses are detectable, albeit mildly diminished.
+
+
+
+Electrocardiogram shows atrial fibrillation flutter with at times of significant AV block with pauses as high as approximately 2 seconds.  There is evidence of a prior inferior myocardial infarction and minor nonspecific ST and T-wave changes.  Compared with her last electrocardiogram, her heart rate at times is slower.
+
+
+
+Impression:  Ms. Joshi remains stable from a cardiovascular perspective, however, I am obviously concerned about her potential for lightheadedness in light of her bradycardia.  I have asked her to decrease her Toprol-XL to 25 mg p.o. daily and to repeat an EKG four to five days after doing so.  I of course have reminded her as to the importance of getting in contact with you or myself straight away should she develop any symptoms suggestive of lightheadedness or dizziness.  She understands that she may require a permanent pacemaker in the future.  Most recent blood studies show a significantly elevated glucose of 183 (she states she is trying to tailor her insulin regimen with you) and in January, normal liver function studies except for an alkaline phosphatase of 304 and lipid profile last September notable for a cholesterol of 134, triglyceride of 74, HDL 58, and LDL 61.  She understands the importance of continuing to adhere to a low-saturated fat, low-cholesterol diet while remaining on her antilipemic therapy.  She will discuss with you and her nephrologist the optimal management of her mild renal insufficiency.  In light of both her diabetes and coronary disease, it certainly would be optimal if possible to continue her on her ACE inhibitor.  At the present time, she does not meet criteria for prophylactic placement of an AICD and her New York Heart Association class I to II status precludes the need for consideration of biventricular pacing.  Other than reducing her beta-blocker regimen as described above, I have not further altered her current medical program.
+
+
+
+I thank you very much for allowing me to assist in her care.
+
+
+
+Sincerely yours,
+
+
+
+
+
+
+
+Brandon W Neilson, M.D.
+
+
+
+
+
+
+
+
+
+
+
+eScription document:0-2421626 RU
+
+
+
+CC: James Nolen M.D.
+
+48 Auburn Street
+
+Rehoboth, NM 42761
+
+
+
+
+
+DD: 07/06/72
+
+DT: 07/07/72
+
+DV: 07/06/72
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2072-07-06" TYPE="DATE" comment="" />
+<NAME id="P1" start="34" end="46" text="JOSHI, KATHY" TYPE="PATIENT" comment="" />
+<ID id="P2" start="48" end="56" text="15842112" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P3" start="58" end="68" text="07/06/2072" TYPE="DATE" comment="" />
+<NAME id="P4" start="74" end="92" text="Benjamin W. Taylor" TYPE="DOCTOR" comment="" />
+<LOCATION id="P5" start="100" end="125" text="Illini Community Hospital" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P6" start="127" end="145" text="66 Cardinal Circle" TYPE="STREET" comment="" />
+<LOCATION id="P7" start="147" end="159" text="Three Rivers" TYPE="CITY" comment="" />
+<LOCATION id="P8" start="161" end="163" text="NM" TYPE="STATE" comment="" />
+<LOCATION id="P9" start="165" end="170" text="11424" TYPE="ZIP" comment="" />
+<NAME id="P10" start="183" end="189" text="Taylor" TYPE="DOCTOR" comment="" />
+<NAME id="P11" start="199" end="204" text="Joshi" TYPE="PATIENT" comment="" />
+<DATE id="P12" start="660" end="665" text="March" TYPE="DATE" comment="" />
+<DATE id="P13" start="1268" end="1277" text="July 2071" TYPE="DATE" comment="" />
+<DATE id="P14" start="1560" end="1570" text="March 2071" TYPE="DATE" comment="" />
+<NAME id="P15" start="3182" end="3187" text="Joshi" TYPE="PATIENT" comment="" />
+<DATE id="P16" start="3863" end="3870" text="January" TYPE="DATE" comment="" />
+<DATE id="P17" start="3967" end="3976" text="September" TYPE="DATE" comment="" />
+<NAME id="P18" start="4851" end="4868" text="Brandon W Neilson" TYPE="DOCTOR" comment="" />
+<ID id="P19" start="4906" end="4918" text="0-2421626 RU" TYPE="IDNUM" comment="" />
+<NAME id="P20" start="4926" end="4937" text="James Nolen" TYPE="DOCTOR" comment="" />
+<LOCATION id="P21" start="4944" end="4960" text="48 Auburn Street" TYPE="STREET" comment="" />
+<LOCATION id="P22" start="4962" end="4970" text="Rehoboth" TYPE="CITY" comment="" />
+<LOCATION id="P23" start="4972" end="4974" text="NM" TYPE="STATE" comment="" />
+<LOCATION id="P24" start="4975" end="4980" text="42761" TYPE="ZIP" comment="" />
+<DATE id="P25" start="4990" end="4998" text="07/06/72" TYPE="DATE" comment="" />
+<DATE id="P26" start="5004" end="5012" text="07/07/72" TYPE="DATE" comment="" />
+<DATE id="P27" start="5018" end="5026" text="07/06/72" TYPE="DATE" comment="" />
+</TAGS>
+</deIdi2b2>

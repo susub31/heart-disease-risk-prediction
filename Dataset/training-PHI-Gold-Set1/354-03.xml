@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2096-09-17
+
+ Medicine Admission Note
+
+
+Patient Name:  Fay, Brook
+MRN: 11289501
+Date: 9/16/96
+Admitting Staff: Tellez
+Location:  59H
+
+Reason for Admission:  Dysphagia
+
+HPI: Ms. Fay is a 69 year-old woman with diabetes who presented from home with an approximately 2 month history of progressive dysphagia, solid and liquid. About that time she was prescribed Amoxicillin and Metronidazole, presumably for H. pylori eradication (not confirmed); she reports an adverse reaction to amoxicillin with rash and facial swelling. The meds were discontinued and she started a course of oral methylprednisolone. She stopped this several weeks ago because it made her jittery. Approximately the same time she began to notice that food and pills would feel stuck in the throat; on further questioning, she also may have noted the presence of white spots in the mouth around this time as well. No fevers, chills, night sweats, nausea, vomiting, chest pain, palpitations, headache, lightheadedness, vertigo, rash or new joint pain; no recent travel. She does note that her blood sugars at home have been consistently elevated to the 200-300 range.
+
+In the ED, Ms. Fay was afebrile and hemodynamically stable. She was evaluated by the GI department. A screening HIV test was negative. She was found to have mild hyponatremia and mild hyperkalemia, as well as a question of subtle ECG changes. The above findings prompted admission for further workup.
+
+ROS: Pertinent positives and negatives above.
+
+PMH/PSH:   
+Diabetes mellitus
+Hypertension
+Hyperlipidemia
+Obesity
+GERD
+Osteoarthritis and low back pain
+H/o AVNRT (2094)
+
+ALLERGIES: Reported rash and facial swelling with Amoxicillin
+
+MEDICATIONS: 
+Atenolol 50mg daily
+Diclofenac 75 mg Q8 prn
+Metformin 500mg PO BID
+Pantoprazole 40 mg daily
+Loratadine
+Albuterol MDI
+Meclizine 25mg PRN
+Aledronate 70mg weekly
+
+FAMILY HISTORY: Noncontributory
+
+SOCIAL HISTORY:  Lives alone; family heavily involved in her care and assist with secondary ADLs. No alcohol, tobacco or drug use. Born in Peru, last visit about one year ago.
+
+PHYSICAL EXAM:	
+Gen: Alert, NAD
+VS:  Afebrile   82   100/54   18   100% RA
+HEENT:  Conjunctivae clear, anicteric, NP clear, OP with mild thrush, upper dentures; no sinus tenderness
+Neck:  Supple, no adenopathy; no palpable thyromegaly
+Heart: RRR, s1s2 without murmur
+Lungs: CTA bilaterally without wheeze/rales
+ABD: Soft, nontender, nondistended, nabs, no mass
+EXT:  Warm, no edema
+Skin: No rash or petechiae
+Neuro: A&Ox3, no focal deficits
+       
+LABORATORY:
+15.6 > 42.3 < 487   (77 poly, 17 lymph)
+130 / 5.3 / 99 / 21 / 38 / 1.1 < 375   eGFR 48
+ALT/AST normal
+CK/MG/Troponin normal x 2 sets
+UA: 3+ glucose, otherwise negative
+
+MICROBIOLOGY: Urine culture pending
+
+RADIOLOGY: None
+
+ECG: NSR, incomplete RBBB; T wave flattening/inversion in V2-V3 that was not noted on 2094 ECG
+
+IMPRESSION and PLAN: 66 year-old woman with solid/liquid dysphagia, oral candidiasis, and poorly controlled diabetes mellitus. The presence of thrush raises suspicion for esophageal candidiasis, though she does not report odynophagia. Mechanical obstruction should be ruled out. The presence of mild hyponatremia and hyperkalemia is likely attributable to the fact that she abruptly discontinued exogenous corticosteroids after a several week course; she is hemodynamically stable. Finally, there is little here to suggest acute coronary syndrome, though she falls into a subgroup of patients more likely to present with minimal symptoms. ECG warrants following. Diabetes is poorly controlled and may require initiation of insulin therapy; though sugars here may have been confounded by the dose of steroids given in ED.
+
+CV: CR monitor overnight; cycle ECG and cardiac biomarkers; aspirin, continue beta blocker
+Pulm: No issues; albuterol prn
+GI: Upper endoscopy tentatively planned for the morning; NPO after midnight; continue home ppi
+Endocrine: Sliding scale insulin, metformin; consider diabetes education, and discuss with PCP whether initiation of insulin is warranted. Check HbA1c, TFTs
+FEN: Monitor lytes; lowfat ADA diet
+Infectious Disease: Following EGD, fluconazole for candidiasis; leukocytosis is unexplained, but not focal evidence of infection
+PPx: Enoxaparin may be started after EGD
+Social work consult to assess support network and assist with discharge planning
+
+Terry Iyer will assume care in the morning. Please page Dr. Iyer directly at 00450 with questions arising after 8:00am.
+
+
+________________________________
+Paul Gardner, MD
+Pager 48272
+
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2096-09-17" TYPE="DATE" comment="" />
+<NAME id="P1" start="70" end="80" text="Fay, Brook" TYPE="PATIENT" comment="" />
+<ID id="P2" start="86" end="94" text="11289501" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P3" start="101" end="108" text="9/16/96" TYPE="DATE" comment="" />
+<NAME id="P4" start="126" end="132" text="Tellez" TYPE="DOCTOR" comment="" />
+<NAME id="P6" start="192" end="195" text="Fay" TYPE="PATIENT" comment="" />
+<AGE id="P7" start="201" end="203" text="69" TYPE="AGE" comment="" />
+<NAME id="P8" start="1165" end="1168" text="Fay" TYPE="PATIENT" comment="" />
+<DATE id="P10" start="1614" end="1618" text="2094" TYPE="DATE" comment="" />
+<LOCATION id="P11" start="2030" end="2034" text="Peru" TYPE="COUNTRY" comment="" />
+<DATE id="P12" start="2838" end="2842" text="2094" TYPE="DATE" comment="" />
+<AGE id="P13" start="2869" end="2871" text="66" TYPE="AGE" comment="" />
+<NAME id="P14" start="4332" end="4342" text="Terry Iyer" TYPE="DOCTOR" comment="" />
+<NAME id="P15" start="4392" end="4396" text="Iyer" TYPE="DOCTOR" comment="" />
+<CONTACT id="P16" start="4409" end="4414" text="00450" TYPE="PHONE" comment="" />
+<NAME id="P17" start="4487" end="4499" text="Paul Gardner" TYPE="DOCTOR" comment="" />
+<CONTACT id="P18" start="4510" end="4515" text="48272" TYPE="PHONE" comment="" />
+</TAGS>
+</deIdi2b2>

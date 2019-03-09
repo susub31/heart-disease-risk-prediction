@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2081-04-27
+
+                                                       Patient Name: ROBISON,NEIL [ MRN: 013423CA ]
+
+                                                         Date of Visit: 04/27/81
+
+
+
+
+
+
+
+
+
+Mr. Robison comes to clinic today for f/u after being hospitalized for central pontine CVA in early April.  He has been working with OT, speech therapy and nutrition at home, with some improvement in gait and fine motor skills.  He still feels like his speech is poor and his right hand is not working at baseline.  Other complaints include a HA every morning which is global and tends to improve over the course of the day with tylenol.  He does admit to some visual changes that have been occuring for about one year--transient decreased vision in right eye, lasting for several minutes to hours and happening about twice per week.  He saw an ophthamologist in 12/02 who, per the patient, found no abnormalities.  He also states that he has had nonproductive cough with chest congestion for about 2 weeks. No fevers, chills, n/v or diarrhea.  Some rhinorrhea but no sinus sxs.  He has had difficulty with muscle cramps since his BMT which respond well to gatorade.  The nutritionist is not thrilled with the high salt content of gatorade.  We discussed the possibility of drinking less gatorade and adding a banana daily. 
+
+
+
+MEDS:
+
+lopressor 25 TID
+
+coumadin 5 QHS
+
+
+
+PE: 97.1   66   144/90, repeat 130/90    wt 225
+
+gen: NAD, slightly dysarthric
+
+neuro: CNII-XII intact except for slight right mouth droop; strength is 5/5 both upper and lower extremities; biceps and patellar DTRs 2+ symmetrically; gait is steady, but heel to toe is unsteady
+
+CV: distant RRR without murmurs
+
+Pulm: soft bibasilar crackles; no wheezes, rhonchi or areas of consolidation. no dullness to percussion
+
+Skin: flaking over forehead and nasal bridge with slight redness
+
+Rectal: erythema perirectally without bleeding or hemorrhoids. sl decreased rectal tone, no tenderness guaic neg brown stool
+
+
+
+
+
+
+
+Labs: 4/22 INR 2.8
+
+4/26: CBC, Chem 7, coags pending
+
+
+
+A/P: 53 yo man with h/o lymphoma s/p allo BMT in 10/78 c/b chronic skin GVHD, pseudomonal pna and post herpetic neuralgia who was recently hospitalized with central pontine CVA.  Trans thoracic echo, spiral CT and carotid ultrasound did not reveal embolic source.  MRI showed right MCA cut off with collateral flow.  His sxs of dysarthria and right hand dysfunction seem to be slowly improving with OT, speech therapy. Daily HA are concerning.  
+
+--repeat head CT to rule out progression of infarct or bleed into infarct territory. Pt may need another MRI in future, but is wary of MRI and may require open machine
+
+--pt has neuro follow up at the end of May.  We need to discuss with the neurologist the duration of anti-coagulation
+
+--check coags, CBC, Chem 7 today; adjust coumadin prn
+
+--increase lopressor to 50 BID and continue BP monitoring by VNA
+
+--pt has f/u with his primary oncologist Dr. Savage at RGSC on 5/6. 
+
+--no abx at this time for cough without focal pulm findings and abscence of fever. Follow closely
+
+--have asked pt to make another ophtho appt to eval visual changes in right eye (which apparently have been happening for a year and have not been progressive)
+
+--RTC in 3 weeks to review CT results and lab tests. 
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2081-04-27" TYPE="DATE" comment="" />
+<NAME id="P1" start="97" end="109" text="ROBISON,NEIL" TYPE="PATIENT" comment="" />
+<ID id="P2" start="117" end="125" text="013423CA" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P3" start="201" end="209" text="04/27/81" TYPE="DATE" comment="" />
+<NAME id="P4" start="223" end="230" text="Robison" TYPE="PATIENT" comment="" />
+<DATE id="P5" start="319" end="324" text="April" TYPE="DATE" comment="" />
+<DATE id="P6" start="882" end="887" text="12/02" TYPE="DATE" comment="" />
+<DATE id="P7" start="2010" end="2014" text="4/22" TYPE="DATE" comment="" />
+<DATE id="P8" start="2024" end="2028" text="4/26" TYPE="DATE" comment="" />
+<AGE id="P9" start="2065" end="2067" text="53" TYPE="AGE" comment="" />
+<DATE id="P10" start="2109" end="2114" text="10/78" TYPE="DATE" comment="" />
+<DATE id="P11" start="2715" end="2718" text="May" TYPE="DATE" comment="" />
+<NAME id="P12" start="2961" end="2967" text="Savage" TYPE="DOCTOR" comment="" />
+<LOCATION id="P13" start="2971" end="2975" text="RGSC" TYPE="HOSPITAL" comment="" />
+<DATE id="P14" start="2979" end="2982" text="5/6" TYPE="DATE" comment="" />
+</TAGS>
+</deIdi2b2>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2152-08-26
+
+
+	CARDIOLOGY
+	
+
+	VALLEY COUNTY HOSPITAL
+	
+
+Whitney V Keller M.D. 
+052 Penny Lane
+Punta Gorda, OK 98634
+
+Dear Whitney:
+
+  I was pleased to see Michelle Klein this morning for a post hospitalization followup evaluation.  You know Michelle well, she does have coronary artery disease, has had an LAD stent placed in 2148, and had a normal stress sestamibi study in November 2151.  She has moderate mitral insufficiency.  Her left atrial dimension is 52 and RV pressure 42.  She is diabetic and has hypertension.  She was hospitalized with a diarrheal bleeding issue attributed to salmonella infection attributed to tomatoes it also affecting her husband and this was accomplished at the Copley Hospital.
+
+Her medications were modified somewhat.  She presently takes atenolol 50 mg a day, verapamil 120 mg per day, Lipitor 10 mg a day, Diovan 80 mg per day, they held her aspirin and her Imdur, she takes Prilosec 40 mg BID, and metformin 500 mg BID.  Her blood pressure remains high today at 147/70, it had been similar range when I saw her in June this year.  Pending her diarrhea at home, we may need to go back up on some of her medications, but at this point we will change.  She is symptom free vis-a-vie her heart.
+
+Her exam shows no cyanosis, clubbing, or edema.  Normal thyroid, normal neck veins, and arteries.  Clear lungs.  Normal abdomen, nontender, and no mass felt.  Her heart palpates normally.  There were no thrills and no scars.  Her first sound is soft and second is normal.  There is a 1/6 apical mitral insufficiency murmur with positive response to isometrics.  There were no diastolic murmurs.  Blood pressure is 145/70.
+
+The electrocardiogram was normal with trace nonspecific ST flattening.
+
+I will plan to reassess Michelle in four months and she will have a recheck several times a month of her blood pressure at home and she will send diaries to me.  If her blood pressure is continued at home to be in her present level, we will advance her medications to accommodate this.  If there are any questions feel free to call me.
+
+Sincerely yours,
+
+	
+Tony Wilkinson, MD
+
+	
+Signed electronically by  Tony Wilkinson, MD
+Document Status: Final
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2152-08-26" TYPE="DATE" comment="" />
+<LOCATION id="P1" start="45" end="67" text="VALLEY COUNTY HOSPITAL" TYPE="HOSPITAL" comment="" />
+<NAME id="P2" start="71" end="87" text="Whitney V Keller" TYPE="DOCTOR" comment="" />
+<LOCATION id="P3" start="94" end="108" text="052 Penny Lane" TYPE="STREET" comment="" />
+<LOCATION id="P4" start="109" end="120" text="Punta Gorda" TYPE="CITY" comment="" />
+<LOCATION id="P5" start="122" end="124" text="OK" TYPE="STATE" comment="" />
+<LOCATION id="P6" start="125" end="130" text="98634" TYPE="ZIP" comment="" />
+<NAME id="P7" start="137" end="144" text="Whitney" TYPE="DOCTOR" comment="" />
+<NAME id="P8" start="170" end="184" text="Michelle Klein" TYPE="PATIENT" comment="" />
+<NAME id="P9" start="256" end="264" text="Michelle" TYPE="PATIENT" comment="" />
+<DATE id="P10" start="341" end="345" text="2148" TYPE="DATE" comment="" />
+<DATE id="P11" start="390" end="403" text="November 2151" TYPE="DATE" comment="" />
+<LOCATION id="P12" start="712" end="727" text="Copley Hospital" TYPE="HOSPITAL" comment="" />
+<DATE id="P13" start="1069" end="1073" text="June" TYPE="DATE" comment="" />
+<NAME id="P14" start="1766" end="1774" text="Michelle" TYPE="PATIENT" comment="" />
+<NAME id="P15" start="2099" end="2113" text="Tony Wilkinson" TYPE="DOCTOR" comment="" />
+<NAME id="P16" start="2147" end="2161" text="Tony Wilkinson" TYPE="DOCTOR" comment="" />
+</TAGS>
+</deIdi2b2>

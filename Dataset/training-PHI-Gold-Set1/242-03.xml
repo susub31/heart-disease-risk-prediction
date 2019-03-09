@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2073-04-03
+
+                                                       Patient Name: LOUIS,ROBERT [ MRN: 85588852LGH ]
+
+                                                         Date of Visit: 04/03/2073
+
+
+
+
+
+
+
+
+
+ROBERT   LOUIS
+
+65 FERRY STREET
+
+BARABOO, UT 11521
+
+
+
+
+
+04/05/2073
+
+
+
+
+
+Dear Mr. Louis, 
+
+
+
+
+
+It was very nice to see you again the other day.  I hope you are doing well.  I am writing to let you know about your recent test results.  
+
+
+
+
+
+The following tests were essentially negative, normal, or unchanged from prior testing and do not require follow-up at this time.
+
+1) Kidney test.
+
+2) Cholesterol.  Your cholesterol results are as follows:
+
+     Total Cholesterol = 129,
+
+     HDL (the 'good' cholesterol) = 43,
+
+     LDL (the 'bad' cholesterol) = 70,
+
+     triglycerides = 82.
+
+My records indicate that your total cholesterol has increased since 01/11/2072.  Given your medical history, we would like to keep your LDL (the 'bad' cholesterol) below 100.  Please continue to follow a heart-healthy diet.
+
+3) Hemoglobin A1c.  This is a blood test that indicates how well you have controlled your blood sugar over the past 3 months.  For patients with diabetes, we would like to keep it below 7.  Your Hemoglobin A1c value was 6.5 on 04/04/2073.  It has remained stable compared to the last value of 6.5 on 07/12/2072.  Please continue to check your sugars regularly and take Metformin as prescribed.
+
+4) X-ray.  No fractures were detected on the X-ray of your spine, but it did show changes consistent with osteoarthritis.
+
+
+
+
+
+The following tests were abnormal or require follow-up.
+
+1) PSA.  As we discussed during our visit, this is a blood test that measures activity in your prostate, and is one way to measure your potential risk of prostate cancer.  This is not a perfect test, and its use for prostate cancer screening is controversial.  My records indicate that your PSA has mildly increased since 4/01/72.  I recommend that you follow-up with a urologist for a prostate biopsy, which we can arrange when you return for your follow-up appointment.  At that time, we will again discuss the specifics of the PSA test and the risks/benefits of different treatment/follow-up options.
+
+
+
+
+
+If you have any questions, please do not hesitate to reach me at my office at 191-537-1871.  I will see you on 5/16/73 at 9:40am for our next appointment.
+
+
+
+
+
+
+
+
+
+_____________________________________________
+
+Bailey Bray, M.D.
+
+
+
+
+
+
+
+
+
+
+
+______________________________                              
+
+
+
+Bailey Bray, M.D.
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2073-04-03" TYPE="DATE" comment="" />
+<NAME id="P1" start="97" end="109" text="LOUIS,ROBERT" TYPE="PATIENT" comment="" />
+<ID id="P2" start="117" end="125" text="85588852" TYPE="MEDICALRECORD" comment="" />
+<LOCATION id="P3" start="125" end="128" text="LGH" TYPE="HOSPITAL" comment="" />
+<DATE id="P4" start="204" end="214" text="04/03/2073" TYPE="DATE" comment="" />
+<NAME id="P5" start="224" end="238" text="ROBERT   LOUIS" TYPE="PATIENT" comment="" />
+<LOCATION id="P6" start="240" end="255" text="65 FERRY STREET" TYPE="STREET" comment="" />
+<LOCATION id="P7" start="257" end="264" text="BARABOO" TYPE="CITY" comment="" />
+<LOCATION id="P8" start="266" end="268" text="UT" TYPE="STATE" comment="" />
+<LOCATION id="P9" start="269" end="274" text="11521" TYPE="ZIP" comment="" />
+<DATE id="P10" start="280" end="290" text="04/05/2073" TYPE="DATE" comment="" />
+<NAME id="P11" start="305" end="310" text="Louis" TYPE="PATIENT" comment="" />
+<DATE id="P12" start="877" end="887" text="01/11/2072" TYPE="DATE" comment="" />
+<DATE id="P13" start="1261" end="1271" text="04/04/2073" TYPE="DATE" comment="" />
+<DATE id="P14" start="1334" end="1344" text="07/12/2072" TYPE="DATE" comment="" />
+<DATE id="P15" start="1935" end="1942" text="4/01/72" TYPE="DATE" comment="" />
+<CONTACT id="P16" start="2300" end="2312" text="191-537-1871" TYPE="PHONE" comment="" />
+<DATE id="P17" start="2333" end="2340" text="5/16/73" TYPE="DATE" comment="" />
+<NAME id="P18" start="2433" end="2444" text="Bailey Bray" TYPE="DOCTOR" comment="" />
+<NAME id="P19" start="2526" end="2537" text="Bailey Bray" TYPE="DOCTOR" comment="" />
+</TAGS>
+</deIdi2b2>

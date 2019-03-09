@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2094-09-02
+
+
+
+
+
+
+
+NAME:     Espinal, Sandra
+
+MRN:      4718200
+
+
+
+MEDICATIONS:  Per LMR.
+
+Medications
+
+Prilosec (OMEPRAZOLE) 20MG, 1 Capsule(s) PO BID
+
+Clonazepam 0.5MG, 1 Tablet(s) PO BID x 30 day(s) PRN prn anxiety, up to bid
+
+Bromfed-pd BLANK take 1 cap po q 12 hours prn
+
+Prozac (FLUOXETINE Hcl) 20MG, 2 Capsule(s) PO QD
+
+Glucovance (GLYBURIDE/METFORMIN) 2.5-500MG, 2 Tablet(s) PO BID
+
+Cozaar (LOSARTAN) 50MG, 2 Tablet(s) PO QD
+
+Vioxx (ROFECOXIB) 25MG, 1 Tablet(s) PO bid x 15 day(s)
+
+Norflex (ORPHENADRINE Citrate) 100MG, 1 Tablet(s) PO Q12H 
+
+
+
+
+
+
+
+S:   (1)  Patient here complaining of increased neck pain with paresthesias of her
+
+          left arm and tingling of her third and fourth left fingers.  This often
+
+          occurs at the end of the week, when has been at the computer all week
+
+          and then has to take her Vioxx and Norflex for the next two or three
+
+          days, into the weekend.  Patient becoming very frustrated regarding this.
+
+          Did not keep follow-up with Dr. Espinosa, the neurosurgeon she
+
+          initially saw. 
+
+
+
+     (2)  Diabetes: Patient had her first eye exam yesterday with Dr. Dunn, who
+
+          actually is an optometrist.  He is referring her to a retinal specialist, due
+
+          to a question of cystoid macular edema, due to diabetic retinopathy and
+
+          some possible borderline intraocular pressures.  The patient is very
+
+          concerned regarding this. Is worried about her heart and kidneys, now
+
+          that she is having problems with her eyes.  Is trying to stick to her diet,
+
+          but is worried. Blood sugars at home have been mostly in the 200's,
+
+          occasionally high 100's. Patient does not bring her record with her. 
+
+
+
+O:   Patient refuses to be weighed. BP, RA sitting 128/90. Lungs: Clear to A&P.
+
+     COR: AP 96, NSR. Positive tenderness and spasm to left trapezius muscle.
+
+     Feet: No lesions. Dorsalis pedis pulses 2+ bilaterally.  
+
+
+
+A/P: (1)  Chronic neck and shoulder pain with intermittent paresthesias, with
+
+          MRI showing some chronic degenerative changes, but also mild
+
+          impingement of the subarachnoid space, possibly even at the cord at C5-6.
+
+          Lengthy discussion with patient regarding this being chronic problem
+
+          and need to follow up with Dr. Espinosa.  Will refer to P.T., not only
+
+          for therapy, but also to re-evaluate ergonomics of her work site, as this
+
+          may help. Continue all other medications, with ice, heat and home
+
+          exercises.  Consulted with Dr. Moses, who suggested a TENS Unit may
+
+          be helpful.  Will discuss further with patient. 
+
+
+
+     (2)  AODM: Now with diabetic retinopathy. Lengthy discussion of 20 to 30
+
+          minutes with patient regarding implications of this, as well as need for
+
+          better diabetic control, especially, as poorly-controlled diabetes is quietly
+
+          harming both her heart and her kidneys, as well as her blood vessels. 
+
+          Patient seems more motivated now to try to adhere to diet and exercise.
+
+          Refer to Dr. Larry Kowalski, a retinal specialist, as soon as possible. Patient
+
+          promises to do her bloodwork for her RFT's, fasting lipids, FBS,
+
+          hemoglobin A1C, as well as urine microalbumin.  Will follow up with
+
+          Dr. Moses and with me afterwards. 
+
+
+
+Ursula Delgado, ANP
+
+
+
+UD/reece/locke
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2094-09-02" TYPE="DATE" comment="" />
+<NAME id="P1" start="44" end="59" text="Espinal, Sandra" TYPE="PATIENT" comment="" />
+<ID id="P2" start="71" end="78" text="4718200" TYPE="MEDICALRECORD" comment="" />
+<NAME id="P3" start="1026" end="1034" text="Espinosa" TYPE="DOCTOR" comment="" />
+<NAME id="P4" start="1157" end="1161" text="Dunn" TYPE="DOCTOR" comment="" />
+<NAME id="P5" start="2333" end="2341" text="Espinosa" TYPE="DOCTOR" comment="" />
+<NAME id="P6" start="2577" end="2582" text="Moses" TYPE="DOCTOR" comment="" />
+<NAME id="P7" start="3117" end="3131" text="Larry Kowalski" TYPE="DOCTOR" comment="" />
+<NAME id="P8" start="3354" end="3359" text="Moses" TYPE="DOCTOR" comment="" />
+<NAME id="P9" start="3388" end="3402" text="Ursula Delgado" TYPE="DOCTOR" comment="" />
+<NAME id="P10" start="3411" end="3413" text="UD" TYPE="DOCTOR" comment="" />
+<NAME id="P11" start="3414" end="3419" text="reece" TYPE="DOCTOR" comment="" />
+<NAME id="P12" start="3420" end="3425" text="locke" TYPE="DOCTOR" comment="" />
+</TAGS>
+</deIdi2b2>

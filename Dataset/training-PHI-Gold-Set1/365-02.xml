@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2071-04-11
+
+            Burn Surgery Admission H&P 		Date/Time: 4/11/71, 9am
+****************************************************
+Name: Rivers, Karsten   
+MRN# 95718084 
+Resident: Gillis
+Attending: Michael 
+****************************************************
+CC: burn to R foot
+HPI: 
+44yo diabetic M with peripheral neuropathy, fell asleep in front of space heater approximately 3 weeks ago and noted swelling/blisters at tips of R 1st-3rd toes upon waking.  His wounds have been managed until this time by his podiatrist and his mother (a former doctor) has been doing dressing changes at home- initially with silvadene but over the past several days with ?betadine as directed by his podiatrist.  The pt is a floor covering installer, and has been bearing weight on the R foot since his injury and admits that he has not been compliant wearing a heel boot.  He has not had fever/chills, nausea/emesis and in general feels well.  He has not had pain in the foot, but does have a significant neuropathy.  His podiatrist recommended that he be evaluated by plastic/burn surgery and he presents to burn clinic for further evaluation.
+-- 
+PMHx: 
+NIDDM
+HTN
+dyslipidemia
+PSHx: 
+R shoulder
+L hip
+umbilical hernia
+Meds: 
+toprol xl 100 qd
+glucophage 1000 bid
+neurontin 400 bid
+minoxidil 10 qd
+lipitor 20 qd
+lasix 20 qd
+avalide 300/12.5 qd
+ASA 81 qd
+cipro 500 bid
+All: Augmentin- rash
+SHx: 
+smoker
+-- 
+PE: 
+General: AOx3, NAD 
+Chest: CTA B 
+Heart: RRR 
+Abdomen: obese, NT/ND  
+Extremities: wwp, +3rd degree burns with areas of grey eschar at tips of 1st-3rd toes on R extending to plantar surfaces; some areas of pink granulating tissue.  + surrounding erythema- does not extend beyond toes onto foot, most significant on 3rd toe.  +wound on lat surface of 4th toe (site of recent corn removal per pt)- clean with no erythema/drainage    
+Pulses: dp/pt 2+ bilaterally
+-- 
+Labs: 
+	pending
+	EKG: pending 
+-- 
+Imaging: 
+CXR: pending
+-- 
+Assessment: 
+44yo M with 3rd degree burn to R 1st/2nd/3rd toes and superimposed cellulitis.  
+--
+Plan:
+Admit to Michael/burn service
+triple abx, leg elevation at all times, NWB RLE
+dressing changes with silvadine/gauze bid
+OR for debridement/possible grafting when celluliltis improves; f/u labs, UA, CXR, EKG
+--
+D/W Dr. Michael, who agrees with assessment and plan.
+-- 
+Julia Gillis MD
+50741
+
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2071-04-11" TYPE="DATE" comment="" />
+<DATE id="P1" start="80" end="87" text="4/11/71" TYPE="DATE" comment="" />
+<NAME id="P2" start="152" end="167" text="Rivers, Karsten" TYPE="PATIENT" comment="" />
+<ID id="P3" start="176" end="184" text="95718084" TYPE="MEDICALRECORD" comment="" />
+<NAME id="P4" start="196" end="202" text="Gillis" TYPE="DOCTOR" comment="" />
+<NAME id="P5" start="214" end="221" text="Michael" TYPE="DOCTOR" comment="" />
+<AGE id="P6" start="301" end="303" text="44" TYPE="AGE" comment="" />
+<PROFESSION id="P7" start="564" end="570" text="doctor" TYPE="PROFESSION" comment="" />
+<PROFESSION id="P8" start="728" end="752" text="floor covering installer" TYPE="PROFESSION" comment="" />
+<AGE id="P9" start="1955" end="1957" text="44" TYPE="AGE" comment="" />
+<NAME id="P10" start="2054" end="2061" text="Michael" TYPE="DOCTOR" comment="" />
+<NAME id="P11" start="2263" end="2270" text="Michael" TYPE="DOCTOR" comment="" />
+<NAME id="P12" start="2313" end="2325" text="Julia Gillis" TYPE="DOCTOR" comment="" />
+<CONTACT id="P13" start="2329" end="2334" text="50741" TYPE="PHONE" comment="" />
+</TAGS>
+</deIdi2b2>

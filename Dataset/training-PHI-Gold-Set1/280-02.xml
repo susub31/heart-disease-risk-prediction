@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2085-12-07
+
+
+
+
+ZASTROW, IRENE
+42521583
+12/07/2085
+
+
+DATE OF ADMISSION:  12/06/2085.
+
+This 66-year-old woman phoned my office complaining of exertional chest discomfort.  We instructed her to presented to the Emergency Department at Davis Monthan Hospital.  She had experienced multiple episodes of chest pressure with exertion lasting 5-10 minutes and radiating to her left axilla.
+
+On 10/30/2085, she suffered non-ST segment elevation myocardial infarction in Pennsylvania and was managed with percutaneous coronary intervention.
+
+Chest discomfort recurred and on 11/03/2085, she was recatheterized at Davis Monthan Hospital where her mid LAD stent was expanded.
+
+She has had worsening substernal chest discomfort over the past two to three days.  Her discomfort is relieved with nitroglycerin.  Overnight, she had on and off chest discomfort with anterior T-wave lability.  She was placed on intravenous heparin and intravenous nitroglycerin.
+
+She suffered pulmonary embolism in 2074.   That is when I first met her.  She has gastroesophageal reflux disease.
+
+She is married; her husband works at 24 Hour Fitness as a personal trainer in the weight room.  She does not smoke cigarettes.  She has four children.
+
+Home medications include aspirin 325 mg daily, atenolol 25 mg daily, Lipitor 80 mg daily, Plavix 75 mg daily, insulin, and sublingual nitroglycerin as needed.
+
+The review of systems is negative other than the above.
+
+On physical examination, she appears well.  Afebrile, blood pressure 126/82 mmHg, heart rate 72 and regular, and respiratory rate 13 per minute.  HEENT is normal.  The neck veins are not distended.  The chest is clear.  On cardiac examination, she has a regular rhythm with a normal S1, single S2, and no murmur, rub, or gallop.  Abdomen has no masses or hepatomegaly.  The legs have no clubbing or cyanosis, but there is right leg greater than left leg edema.  The skin has no rash.
+
+My assessment is that Irene Zastrow has "small vessel" coronary artery disease in addition to epicardial coronary artery disease.  We will intensify her medical regimen by prescribing higher doses of beta blockade and by initiating a long-acting nitrate.  We will also repeat the chest CT scan to make sure she has not suffered from recurrent pulmonary embolism.
+
+I discussed this plan with her, her husband, and the medical house staff.
+
+
+______________________________
+Victor Z. Qazi, M.D.
+
+
+
+
+
+eScription document:5-9929422 IFFocus
+
+
+
+DD: 12/07/85
+DT: 12/07/85
+DV: 12/07/85
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2085-12-07" TYPE="DATE" comment="" />
+<NAME id="P1" start="31" end="45" text="ZASTROW, IRENE" TYPE="PATIENT" comment="" />
+<ID id="P2" start="46" end="54" text="42521583" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P3" start="55" end="65" text="12/07/2085" TYPE="DATE" comment="" />
+<DATE id="P4" start="88" end="98" text="12/06/2085" TYPE="DATE" comment="" />
+<AGE id="P5" start="106" end="108" text="66" TYPE="AGE" comment="" />
+<LOCATION id="P6" start="248" end="270" text="Davis Monthan Hospital" TYPE="HOSPITAL" comment="" />
+<DATE id="P7" start="402" end="412" text="10/30/2085" TYPE="DATE" comment="" />
+<LOCATION id="P8" start="477" end="489" text="Pennsylvania" TYPE="STATE" comment="" />
+<DATE id="P9" start="581" end="591" text="11/03/2085" TYPE="DATE" comment="" />
+<LOCATION id="P10" start="619" end="641" text="Davis Monthan Hospital" TYPE="HOSPITAL" comment="" />
+<DATE id="P11" start="997" end="1001" text="2074" TYPE="DATE" comment="" />
+<LOCATION id="P12" start="1115" end="1130" text="24 Hour Fitness" TYPE="ORGANIZATION" comment="" />
+<PROFESSION id="P13" start="1136" end="1152" text="personal trainer" TYPE="PROFESSION" comment="" />
+<LOCATION id="P14" start="1160" end="1171" text="weight room" TYPE="ORGANIZATION" comment="" />
+<NAME id="P15" start="1954" end="1967" text="Irene Zastrow" TYPE="PATIENT" comment="" />
+<NAME id="P16" start="2403" end="2417" text="Victor Z. Qazi" TYPE="DOCTOR" comment="" />
+<ID id="P17" start="2449" end="2458" text="5-9929422" TYPE="IDNUM" comment="" />
+<DATE id="P18" start="2474" end="2482" text="12/07/85" TYPE="DATE" comment="" />
+<DATE id="P19" start="2487" end="2495" text="12/07/85" TYPE="DATE" comment="" />
+<DATE id="P20" start="2500" end="2508" text="12/07/85" TYPE="DATE" comment="" />
+</TAGS>
+</deIdi2b2>

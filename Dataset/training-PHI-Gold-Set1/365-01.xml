@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2066-02-07
+
+                     KCM EMERGENCY DEPT VISIT
+
+ 
+
+RIVERS,KARSTEN   957-18-08-4                    VISIT DATE: 02/07/66
+
+The patient was seen and examined by me.
+
+HISTORY OF PRESENTING COMPLAINT:  This is a 39-year-old man with a 
+
+history of hypertension and diabetes, whose social history is 
+
+unremarkable, who has a negative review of systems, and who has no 
+
+history of any surgical procedures.  He presents with a burn on the 
+
+right side of the neck.  He presents to the emergency department 
+
+with a minor amount of redness on the right side of the neck and 
+
+minor soft tissue swelling.  The trachea is midline.  The uvula is 
+
+midline.  There is no airway compromise.  There are no airway 
+
+complaints.
+
+PHYSICAL EXAMINATION:  No voice change.  The airway is patent and 
+
+intact.  The lungs are clear, with no wheezes.  The examination 
+
+shows a first-degree burn of the right side of the neck, with no 
+
+blistering and no breakage of the skin.
+
+THERAPY RENDERED/COURSE IN ED:  The patient received a tetanus shot 
+
+and was seen by the Burn Service.  He was dressed with Bacitracin 
+
+and discharged home.  He was to follow up in 48 hours just for a 
+
+recheck.  The Burn Service essentially signed off on him, with no 
+
+need for follow-up, but given this was his neck and only 
+
+first-degree, I asked him to return here for follow-up.
+
+FINAL DIAGNOSIS:  First-degree burn of the right side of the neck.
+
+DISPOSITION (including condition upon discharge):  He is discharged 
+
+with Bacitracin ointment and analgesics, and is to follow up in 48 
+
+hours.  The patient's condition on discharge is stable.  
+
+___________________________________                    RO904/06747 
+
+XAVIER ODONNELL, M.D.       XO71                           D:02/07/66 
+
+                                                       T:02/07/66 
+
+Dictated by:  XAVIER ODONNELL, M.D.       XO71 
+
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2066-02-07" TYPE="DATE" comment="" />
+<LOCATION id="P1" start="49" end="52" text="KCM" TYPE="HOSPITAL" comment="" />
+<NAME id="P2" start="78" end="92" text="RIVERS,KARSTEN" TYPE="PATIENT" comment="" />
+<ID id="P3" start="95" end="106" text="957-18-08-4" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P4" start="138" end="146" text="02/07/66" TYPE="DATE" comment="" />
+<AGE id="P5" start="234" end="236" text="39" TYPE="AGE" comment="" />
+<ID id="P6" start="1694" end="1705" text="RO904/06747" TYPE="IDNUM" comment="" />
+<NAME id="P7" start="1708" end="1723" text="XAVIER ODONNELL" TYPE="DOCTOR" comment="" />
+<NAME id="P8" start="1736" end="1740" text="XO71" TYPE="USERNAME" comment="" />
+<DATE id="P9" start="1769" end="1777" text="02/07/66" TYPE="DATE" comment="" />
+<DATE id="P10" start="1837" end="1845" text="02/07/66" TYPE="DATE" comment="" />
+<NAME id="P11" start="1862" end="1877" text="XAVIER ODONNELL" TYPE="DOCTOR" comment="" />
+<NAME id="P12" start="1890" end="1894" text="XO71" TYPE="USERNAME" comment="" />
+</TAGS>
+</deIdi2b2>

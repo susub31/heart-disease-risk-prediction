@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2074-06-09
+
+Reason for Visit This is a  47 year old  male referred to the diabetes management service for uncontrolled diabetes by Dr. OldhamChief Complaint This patient is admitted to the hospital for gastric bypassHistory of Present Illness The patient has a  10  year history of Type 2 diabetes.  He was treated with  metformin and insulin. Unclear when metformin was discontinued. Currently the patient is treated with   detemir 60 bid and novolog 50 ac  as an outpatient . The control has been poor.  The patient tests his blood sugar  several  times a day with results ranging from 200-300.The current diet is not well controlled.  The patient has not been bothered by  hypoglycemia .  Diabetic complications include neuropathy with numbness in feet and nephropathy with macroalbuminuria.
+He had gastric bypass last night. He received Lantus 30. He was on D5W over night with glucose values over 300.. He currently is on LR iv drip. He has abdominal pain and is not yet eating
+ Allergies noPast Medical History Concurrent medical problems include:htn, osa, right hip replacement, renal cell caFamily History Family history is positive for diabetes       Social History The patient is employed as a floor covering installer      .Habits The patient is a smoker.The patient's alcohol intake may be excessive   .Review of Systems ROS: quite nauseated now and unable to give detailsMedications  lipitor 40
+gabapentin 400 qd
+toprol 200
+lasix 120
+metolazone 22.5 qod
+insulin as above
+ Laboratory Data Relevant lab data:HgA1c 13.7 ( 2/2074)K 3.4Creatinine 1.24Urine microalbumin screen positivePhysical Exam Vitals Bp 140/60 P  82 Wt.384Skin no acanthosis, Heent no asymmetry, no lid lagNeck no bruits heard no thyromegaly Chest clearCor S1, S2 normal, no murmursAbd obese,  post-opExtremities 1+ edema, no ulcers dorsalis pedis pulses intact , venous insufficiency changesNeuro  Vibratory sense decreased  Monofilament testing intactImpression My impression is that his diabetes is chronically poorly controlled. It is unclear if he is compliant with stated insulin doses. He is now post-op with hyperglycemia, having received 50% of his usual insulin dose last night.He clearly needs more insulinRecommendation My recommendations are:1.No need for D5W while glucose values remain over 2067.Increase glargine to 60  units q 12 hours(give tonight and in am)3.Give regular 30 units sc times one dose now4.Give new sliding scale:regular q 6 hours
+   BG 150-200     5 units
+   BG  201-250   10 units   BG  251-300   15 units   BG &gt; 301        20 units___________________Katie W Fitzgerald, M.D.
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2074-06-09" TYPE="DATE" comment="" />
+<AGE id="P1" start="56" end="58" text="47" TYPE="AGE" comment="" />
+<NAME id="P2" start="151" end="157" text="Oldham" TYPE="DOCTOR" comment="" />
+<PROFESSION id="P3" start="1220" end="1244" text="floor covering installer" TYPE="PROFESSION" comment="" />
+<DATE id="P4" start="1548" end="1554" text="2/2074" TYPE="DATE" comment="" />
+<DATE id="P5" start="2302" end="2306" text="2067" TYPE="DATE" comment="" />
+<NAME id="P6" start="2585" end="2603" text="Katie W Fitzgerald" TYPE="DOCTOR" comment="" />
+</TAGS>
+</deIdi2b2>

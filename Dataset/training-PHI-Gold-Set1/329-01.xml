@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2149-06-08
+
+**The source of this note is the RCH Emergency Dept. Information System. All updates should originate in EDIS.**
+
+Redbud Community Hospital
+
+Emergency Department Record - Observation Unit
+
+
+
+EDIS Note Status:  Signed
+
+
+
+Patient: JACKS, YASSEEN             MRN: 8841350        DOB:  8/15/2066     Sex: M
+
+Registration Date/Time: 6/08/2149 2:09:00 AM
+
+
+
+
+
+ED OBS Note
+
+
+
+
+
+Admission Note
+
+Time Patient Seen
+
+4:18
+
+Chief Complaint
+
+DELTA MS / HYPERTENSION
+
+HPI
+
+82 y.o M w hx HTN, hyperthyroidism, baseline mild dementia p/w change in mental status.  Per pt. son he was unable  to recognize  his wife and wanted to get out of the house, he was agitated but non combative, episode lasted for about 1 hr.  Denies any f/c, no HA, No CP/palpitations, no speech difficulty, no neuromotor deficit, no numbness/ tingling of extremities.
+
+PFSHx/ROS
+
+Past Medical History: See HPI--. Family History non-contributory. Social History: non smoker quit 10 y.o
+
+Allergy
+
+NKA
+
+
+
+ROS
+
+Constitutional
+
+(-)Major weight gain. (-)Fatigue. (-)Fever. (-)Chills.
+
+Head/Eyes
+
+(-)Headache. (-)Vision changes.
+
+ENT/Neck
+
+No signficiant findings.
+
+Chest/Respiratory
+
+(-)Shortness of breath. (-)Wheezing. (-)Dyspnea on exertion. (-)Cough.
+
+Cardiovascular
+
+(-)Leg swelling.
+
+GI/Abdominal
+
+(-)Vomiting. (-)Diarrhea.
+
+GU/Flank/CVA/Pelvic
+
+No signficiant findings.
+
+Musculoskeletal/Extr/Back
+
+No signficiant findings.
+
+Skin
+
+No signficiant findings.
+
+Neuro
+
+(-)Paresthesias. (-)Weakness.
+
+Psych
+
+Dementia that began ~ 1 year ago.
+
+Heme/Lymph/Imm
+
+No signficiant findings.
+
+Endo
+
+Hyperthyroidism.
+
+
+
+ROS and PFSHx as noted above and in the ED record for this encounter.
+
+All other systems otherwise negative.
+
+
+
+PE
+
+Constitutional
+
+Patient is awake. Patient is alert. Patient is oriented x3. Patient is not lethargic.
+
+Head/Eyes
+
+Normal cephalic atramatic. Pupils are equal and reactive to light. Extraocular muscles are intact. Sclera are anicteric.
+
+ENT
+
+Airway Intact. Mucus membranes are moist. Tongue is midline.
+
+Neck
+
+Neck is supple. Full range of motion is present. Neck is non tender.  Carotid bruits are absent.
+
+Chest/Respiratory
+
+The lungs are clear to auscultation bilaterally. Rales are not present.
+
+Cardiovascular
+
+Normal heart sounds are present. Heart is regular rate and rhythm. No murmur is present.
+
+GI/Abdomen
+
+Abdomen is nontender and nondistended. Abdomen is soft. Bowel sounds are present.
+
+Genitourinary
+
+Costovertebral angle tenderness is present.
+
+Musculoskeletal
+
+Patient has normal range of motion. Patient has normal muscle bulk and tone. There is no tremor. There is no muscle rigidity.
+
+Skin
+
+Skin is intact. There is no rash. There are no lesions.
+
+Neurologic
+
+No focal deficit. Patient is alert and oriented x 3. Cranial nerve testing is intact. Motor strength testing is intact.
+
+Psychiatric
+
+Patient is non delusional. Patient is not anxious.
+
+Heme/Lymph/Immun/Endocrine
+
+Patient does not have lymphadenopathy.
+
+
+
+Testing Results
+
+EKG
+
+EKG-->SB 50's
+
+X-ray Interpretation
+
+Head CT: neg.
+
+CXR neg
+
+Medical Decision Making/Plan
+
+82 y.o M w hx in HPI p/w mental status change and elevated  BP.  Plan:
+
+Monitor BP
+
+Tele monitoring
+
+Monitor mental status.
+
+
+
+This note has been electronically signed by YVONNE WELCH, NP 6/08/2149 6:58:35 AM
+
+
+
+
+
+
+
+Clinical staff documenting in the ED note include:
+
+
+
+Attending/Nurse Practitioners(s)
+
+
+
+YVONNE WELCH, NP
+
+Attending Note
+
+Attending MD Notes
+
+I have examined the patient and discussed with the Nurse Practitioner the patient's care and agree with the plan.  Pt had episode of delerious speaking (full sentences, non-focal otherwise and was able to take a walk to calm down, has had similar before) and this self-resolved.  In ED, charming and without sx.  However, noted BP elevated.  Exam normal.  Plan:  obs o/n, reduce BP, and have patient f/u Monday for recheck to ensure it is not getting up again.
+
+
+
+This note has been electronically signed by Xavier Uber, MD 6/08/2149 10:11:32 AM
+
+
+
+
+
+
+
+Clinical staff documenting in the ED note include:
+
+
+
+Attending/Nurse Practitioners(s)
+
+
+
+Xavier Uber, MD
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2149-06-08" TYPE="DATE" comment="" />
+<LOCATION id="P1" start="61" end="64" text="RCH" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P2" start="142" end="167" text="Redbud Community Hospital" TYPE="HOSPITAL" comment="" />
+<NAME id="P3" start="257" end="271" text="JACKS, YASSEEN" TYPE="PATIENT" comment="" />
+<ID id="P4" start="289" end="296" text="8841350" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P5" start="310" end="319" text="8/15/2066" TYPE="DATE" comment="" />
+<DATE id="P6" start="356" end="365" text="6/08/2149" TYPE="DATE" comment="" />
+<AGE id="P7" start="487" end="489" text="82" TYPE="AGE" comment="" />
+<AGE id="P8" start="3056" end="3058" text="82" TYPE="AGE" comment="" />
+<NAME id="P9" start="3227" end="3239" text="YVONNE WELCH" TYPE="DOCTOR" comment="" />
+<DATE id="P10" start="3244" end="3253" text="6/08/2149" TYPE="DATE" comment="" />
+<NAME id="P11" start="3362" end="3374" text="YVONNE WELCH" TYPE="DOCTOR" comment="" />
+<DATE id="P12" start="3820" end="3826" text="Monday" TYPE="DATE" comment="" />
+<NAME id="P13" start="3924" end="3935" text="Xavier Uber" TYPE="DOCTOR" comment="" />
+<DATE id="P14" start="3940" end="3949" text="6/08/2149" TYPE="DATE" comment="" />
+<NAME id="P15" start="4059" end="4070" text="Xavier Uber" TYPE="DOCTOR" comment="" />
+</TAGS>
+</deIdi2b2>

@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2076-09-25
+
+ 
+
+ 
+
+OLIVIA PATTY HOPKINS, M.D.
+
+ 
+
+HALE MEMORIAL HOSPITAL
+
+Internal Medicine
+
+699 Burrit St
+
+Rayne,  MI  82978
+
+Xander Geiger
+
+01729440
+
+9/25/76
+
+Office Visit:
+
+ 
+
+F/U for panhypopituitarism.  Had recent hospitalization for vomiting and 
+
+bring unable to take meds.  Has been doing well since then. Was drawing 
+
+up testo himself and there was a question as to whether he was using too 
+
+much so now on prefilled syringes which means he has to pick them up 
+
+every 3 wks.  He had an injection one week ago and does not feel that 
+
+his sexual function is as god as his prior baseline. He is taking 
+
+prednisone 5 mg am and 2.5 mg in pm, Levoxyl 0.137 mg/dy, testo 200 mg 
+
+IM q 3 wks, Atenolol 25 mg qd and Lisinopril 10 mg po qd.
+
+ 
+
+ROS:
+
+No chest pain, change in bowels, trouble with urination
+
+ 
+
+SH:
+
+Lives with wife
+
+Decorator for income
+
+Neither using ETOH
+
+ 
+
+EXAM:
+
+BP 142/60 P 80 wt 174 lbs
+
+Appears well
+
+Eyes- no lid lag, full motion, full fields, Neck- small thyroid, Lungs-
+
+clear, Cor0RR S1 S2 S4, Abd- +BS, no masses, non tender, Rectal-nl 
+
+appearance, no masses palpable, prostate smooth, Stool-heme negative 
+
+Neuro-OX3, in good spirits, relfexes- 2/2
+
+ 
+
+IMPRESSION:
+
+Panhypopit on replacement rx
+
+Hypertension-controlled (cannot take diuretic)
+
+ 
+
+PLAN:
+
+Pt will schedule appt with Helen Morris, RN to review adrenal teaching 
+
+and review testo inj technique
+
+Check testo level now 1 wk post injection.
+
+Has appt next week with new primary Dr. Whaley
+
+Return 4 mos
+
+ 
+
+ 
+
+ 
+
+________________________
+
+Olivia P. Hopkins, MD
+
+ 
+
+Cc: Dr. Whaley, SH
+
+ 
+
+ 
+
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2076-09-25" TYPE="DATE" comment="" />
+<NAME id="P1" start="34" end="54" text="OLIVIA PATTY HOPKINS" TYPE="DOCTOR" comment="" />
+<LOCATION id="P2" start="65" end="87" text="HALE MEMORIAL HOSPITAL" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P4" start="108" end="121" text="699 Burrit St" TYPE="STREET" comment="" />
+<LOCATION id="P5" start="123" end="128" text="Rayne" TYPE="CITY" comment="" />
+<LOCATION id="P6" start="131" end="133" text="MI" TYPE="STATE" comment="" />
+<LOCATION id="P7" start="135" end="140" text="82978" TYPE="ZIP" comment="" />
+<NAME id="P8" start="142" end="155" text="Xander Geiger" TYPE="PATIENT" comment="" />
+<ID id="P9" start="157" end="165" text="01729440" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P10" start="167" end="174" text="9/25/76" TYPE="DATE" comment="" />
+<PROFESSION id="P11" start="852" end="861" text="Decorator" TYPE="PROFESSION" comment="" />
+<NAME id="P12" start="1332" end="1344" text="Helen Morris" TYPE="DOCTOR" comment="" />
+<NAME id="P13" start="1494" end="1500" text="Whaley" TYPE="DOCTOR" comment="" />
+<NAME id="P14" start="1551" end="1568" text="Olivia P. Hopkins" TYPE="DOCTOR" comment="" />
+<NAME id="P15" start="1585" end="1591" text="Whaley" TYPE="DOCTOR" comment="" />
+<LOCATION id="P16" start="1593" end="1595" text="SH" TYPE="HOSPITAL" comment="" />
+</TAGS>
+</deIdi2b2>

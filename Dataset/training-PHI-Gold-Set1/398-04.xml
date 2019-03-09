@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2111-01-05
+
+ 
+UROLOGY Consult 
+Patient:  Bryan, Archie
+MRN: 7246074
+Date: 1/5/11
+
+CC:  hematuria
+
+HPI:  81yo M with chronic incontinence who last night noted small amount of blood in diaper.  This AM caregiver changed diaper and noted large amount of clots and brought patient to hospital.  Patient complains of    crotch pain    and waking up with suprapubic pain during night.  Denies fever, chills, nausea, vomiting, diarrhea.  Does not believe he has blood in stool or melena.  Has never had bloody urine before, though it is not clear that patient   s given history is accurate.
+
+PMH/PSH:  type 2 diabetes, sacral decub ulcer, R hip arthroplasty, htn, OA, afib
+
+MEDS:  coumadin, novolin sliding scale, aspirin 325mg daily, digoxin 0.125mg daily, folic acid 1mg daily, NPH 6Units SC QPM, lipitor 40mg daily, prilosec 20mg daily, miralax 17g BID, Toprol XL 150mg BID, Tylenol, Senna, Dulcolax supp prn, MOM prn, Reglan 5mg QID prn N/V, Scot-tussin s/f original 10ml Q6H prn cough, NPH 34 Units SC QAM
+
+ALLERGIES:  NKDA
+
+FMH/SH: quit smoking 2059, no etoh.  Lives in nursing home.
+
+PE: T= 101.6    BP= 207/94       P= 114      RR= 20    SaO2= 99% RA
+Gen=NAD.  
+CV=RRR
+Lungs=CTAB
+Abd=soft, mildly distended, mildly tender in suprapubic area.
+GU= large clots from foley catheter with grossly bloody urine
+
+RELEVANT LAB/IMAGING STUDIES: 
+CBC: 17.9>33.8<462 differential 92/4/4/0
+Coags:  INR 4.9, PTT 44.1
+UA: nitrite +, 3+ alb, packed RBC, 3-5 WBC, few bacteria, squamous cell neg
+Chemistry: Na 140, K 5.2, Cl 108, CO2 18.2, BUN 41, Cr 2.1, Glu 97, Ca 9.1, Mg 1.5, Phos 2.8
+LFTs: total protein 8.6, alb 3.6, DB 0, TB 0.2, AP 157, SGPT 16, SGOT 22, amylase 99, lipase 4.3
+
+CXR ordered
+EKG: pending
+
+Renal US: Bilateral moderate pelvicaliectasis, new from prior CT from 2109.  Echogenic materials in bladder, presumably blood.  No mass or stones seen.
+
+PROCEDURES:  Whistle tip foley placed and bladder was hand irrigated with 3L NS with large amount of clot removed.  Placed on Murphy drip with lightening of urine over 1 hour. 
+
+ASSESSMENT/RECOMMENDATIONS:
+81yo M with gross hematuria with clot, fever, and elevated WBC. Renal US obtained rather than CT scan b/c of elevated creatinine in diabetic patient.
+-Admit to Urology service.  Patient needs to be on cardiac monitor.
+-IV fluids: D5    NS at 100cc/hr.
+-Please obtain CXR and EKG.
+-NPO after midnight
+-hold coumadin.  Patient receiving FFP to reverse anticoagulation.
+-Will continue Levaquin (renal dosing)
+-Please send blood cultures and urine culture.
+-Will recheck chem. 7, CBC, coags in morning.
+
+
+_____________________________________________
+Evelyn Xuan, MD
+HRC Urology 59931
+
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2111-01-05" TYPE="DATE" comment="" />
+<NAME id="P1" start="57" end="70" text="Bryan, Archie" TYPE="PATIENT" comment="" />
+<ID id="P2" start="76" end="83" text="7246074" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P3" start="90" end="96" text="1/5/11" TYPE="DATE" comment="" />
+<AGE id="P4" start="120" end="122" text="81" TYPE="AGE" comment="" />
+<DATE id="P5" start="1060" end="1064" text="2059" TYPE="DATE" comment="" />
+<DATE id="P6" start="1783" end="1787" text="2109" TYPE="DATE" comment="" />
+<AGE id="P7" start="2072" end="2074" text="81" TYPE="AGE" comment="" />
+<NAME id="P8" start="2619" end="2630" text="Evelyn Xuan" TYPE="DOCTOR" comment="" />
+<LOCATION id="P9" start="2635" end="2638" text="HRC" TYPE="HOSPITAL" comment="" />
+<CONTACT id="P10" start="2647" end="2652" text="59931" TYPE="PHONE" comment="" />
+</TAGS>
+</deIdi2b2>

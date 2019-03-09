@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2074-10-17
+
+CARDIOLOGY ADMISSION NOTE
+
+
+
+Susie DIETZ									96O-776
+
+KCH 538-41-21-0
+
+Date of admission 10/17/74
+
+Ref:  Scott Fink, MD, 1480 Campanello Street, DARTMOUTH 76846
+
+
+
+This 57-yr-old female w/CP syndrome, CRFs of DM, HTN, no documented vascular disease, w/several prior evals for CP syndrome.  ETT 11/11/73:  7'8    on SBP, typical CP, nondiagnostic ECG changes interpreted as c/w but not diagnostic of ischemia.  In USH, able to walk 1 flight w/o symptoms until this AM when she had L neck pain radiating to head and down L arm lasting 2 min; also intermittent palpitations, diaphoresis, symptom complex present for some time.  On arrival in ER w/o chest symptoms, BP 174/110, P 100, no ST abnormalities.  Admitted for eval.
+
+
+
+ROS:  Denies fevers, chills, N/V, diarrhea, presyncope, claudication.  All other pertinent systems neg.
+
+
+
+PMH:  DM, HTN, panic attacks, hx of hep B, fatty liver disease, pos PPD.
+
+
+
+Meds:  aspirin 81mg qd, metformin 850mg bid, nifedipine.  Contrast allergy in record (details unknown), intolerant of lisinopril.  
+
+
+
+No family hx of premature CAD.  Does not smoke, rare alcohol.
+
+
+
+PE:  BP 113/75, P 90, comfortable lying in bed, A&A.  No JVD, carotids normal upstrokes w/o bruits, chest CTA.  ND PMI, RRR, normal intensity S1, phys split S2, no M/R/G.  Abdomen soft NT.  Extremities no C/C/E, warm to touch.  Femorals, DPs and PTs 2+, no bruit.  Power normal in all 4.  
+
+
+
+Labs:  crea 0.8, TPNI < assay, crit 40.
+
+ECG:  SR, normal axis/intervals, no diagnostic Qs, no ST or T-wave abnormalities.
+
+
+
+I&P:  Pt w/CP syndrome, CRFs including DM.  Low clinical probability of acute coronary syndrome.  Low risk status other than DM.  Plan serial cardiac TPNs and ECGs overnight.  If she remains w/o objective evidence of ischemia or high-risk features will proceed w/ETT MIBI tomorrow or as outpt.  Continue aspirin, start low-dose beta blockade, continue DM mgmt.  Fasting lipid profile.  Pt should be on an ARB if BP will tolerate.
+
+
+
+
+
+________________
+
+Paul B. Stokes, MD
+
+
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2074-10-17" TYPE="DATE" comment="" />
+<NAME id="P1" start="57" end="68" text="Susie DIETZ" TYPE="PATIENT" comment="" />
+<LOCATION id="P3" start="86" end="89" text="KCH" TYPE="HOSPITAL" comment="" />
+<ID id="P4" start="90" end="101" text="538-41-21-0" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P5" start="121" end="129" text="10/17/74" TYPE="DATE" comment="" />
+<NAME id="P6" start="137" end="147" text="Scott Fink" TYPE="DOCTOR" comment="" />
+<LOCATION id="P7" start="153" end="175" text="1480 Campanello Street" TYPE="STREET" comment="" />
+<LOCATION id="P8" start="177" end="186" text="DARTMOUTH" TYPE="CITY" comment="" />
+<LOCATION id="P9" start="187" end="192" text="76846" TYPE="ZIP" comment="" />
+<AGE id="P10" start="201" end="203" text="57" TYPE="AGE" comment="" />
+<DATE id="P11" start="326" end="334" text="11/11/73" TYPE="DATE" comment="" />
+<NAME id="P12" start="2012" end="2026" text="Paul B. Stokes" TYPE="DOCTOR" comment="" />
+</TAGS>
+</deIdi2b2>

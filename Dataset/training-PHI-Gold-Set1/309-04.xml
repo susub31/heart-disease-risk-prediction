@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2094-05-08
+
+
+
+
+
+
+
+NAME:    Wilson, Gabriel
+
+MRN:     8514931
+
+
+
+The patient is a 73-year-old woman with a history of diabetes, hypertension,
+
+hyperlipidemia and multiple other medical problems. She has a history of TIAs and
+
+was seeing the neurologist today for follow up. She has not had recent TIA symptoms
+
+but related a history of exertional chest pain and was sent up here for evaluation.
+
+Griggs was translating and the patient reports that over the past two months she
+
+has been getting chest pain and pressure with some shortness of breath after she
+
+walks about one block. The symptom is a pressure symptom which radiates to both
+
+sides of her chest. It is not severe, sharp chest pain. It does not radiate to her back.
+
+There is no associated rest pain or nocturnal pain. No PND, orthopnea or edema.
+
+The last time she had the pain was two weeks ago. She has a history of TIAs and our
+
+goal was to keep her blood pressure in the 140-160 range since they may be due to a
+
+low flow state due to her vertebrobasilar disease.
+
+
+
+She is on aspirin and Plavix.
+
+
+
+She had a negative sestamibi ETT in 2087 except she had a very low work capacity.
+
+She has not had a recent stress test.  
+
+
+
+PHYSICAL EXAM: She is a very pleasant woman in no acute distress. Her blood
+
+pressure is 160/70. Neck supple without JVD or bruits. Lungs clear without wheezes,
+
+rales or rhonchi. Cardiac: Rate regularly regular, normal S1, S2, no diastolic murmur
+
+or gallop. Abdomen soft, nontender without hepatosplenomegaly. No edema.  
+
+
+
+Her EKG shows normal sinus rhythm. 
+
+
+
+ASSESSMENT AND PLAN:  Patient with multiple cardiac risk factors and a story
+
+which sounds convincing for exertional angina. She has not had any symptoms in over
+
+two weeks. Will add low-dose Lopressor 12.5 mg p.o. b.i.d. She should stop it if she
+
+feels lightheaded on the medication. She should increase the aspirin to 325 q.d. We
+
+will schedule her for a sestamibi ETT. She will follow-up in one week.
+
+
+
+
+
+Julie Fraser, M.D.
+
+
+
+JF/crane/powell
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2094-05-08" TYPE="DATE" comment="" />
+<NAME id="P1" start="43" end="58" text="Wilson, Gabriel" TYPE="PATIENT" comment="" />
+<ID id="P2" start="69" end="76" text="8514931" TYPE="MEDICALRECORD" comment="" />
+<AGE id="P3" start="97" end="99" text="73" TYPE="AGE" comment="" />
+<NAME id="P4" start="411" end="417" text="Griggs" TYPE="PATIENT" comment="" />
+<DATE id="P5" start="1120" end="1124" text="2087" TYPE="DATE" comment="" />
+<NAME id="P6" start="1986" end="1998" text="Julie Fraser" TYPE="DOCTOR" comment="" />
+<NAME id="P7" start="2008" end="2010" text="JF" TYPE="DOCTOR" comment="" />
+<NAME id="P8" start="2011" end="2016" text="crane" TYPE="DOCTOR" comment="" />
+<NAME id="P9" start="2017" end="2023" text="powell" TYPE="DOCTOR" comment="" />
+</TAGS>
+</deIdi2b2>

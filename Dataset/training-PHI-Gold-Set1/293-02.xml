@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2077-03-03
+
+ 
+
+ 
+
+                          OFFICE NOTE
+
+ 
+
+Cora Quinley
+
+MR# 759-87-55-2
+
+March 3, 2077
+
+ 
+
+As the responsible teaching attending, I can confirm both the
+
+history and physical examination of Dr. Uriel Zapien. Briefly, the
+
+patient is a 71-year-old female with several cardiovascular risk
+
+factors. She was admitted to the hospital in January after a
+
+prolonged episode of palpitations. The patient had a tiny
+
+Troponin  elevation to 0.3, and the decision was made to manage
+
+her conservatively. The patient continues to have these episodes
+
+of palpitations, but she does not get chest pain with any
+
+exercise.
+
+ 
+
+Her current medical regimen includes aspirin, beta-blocker,
+
+statin and an ACE Inhibitor. 
+
+ 
+
+On physical examination she has 2+ carotids, which have normal
+
+upstrokes and no bruits. Her lungs are clear to auscultation. Her
+
+heart examination reveals a regular rate with a normal S1 and S2,
+
+without S3 and S4.
+
+ 
+
+Her electrocardiogram is normal.
+
+ 
+
+Assessment: I concur with Dr. Zapien in that we will increase the
+
+patient's beta-blockers to decrease her probable supraventricular
+
+tachycardia. She will be seen back here in several months.
+
+ 
+
+ 
+
+ 
+
+Vasilios C. Osborne, M.D.
+
+/varner
+
+ 
+
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2077-03-03" TYPE="DATE" comment="" />
+<NAME id="P1" start="76" end="88" text="Cora Quinley" TYPE="PATIENT" comment="" />
+<ID id="P2" start="94" end="105" text="759-87-55-2" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P3" start="107" end="120" text="March 3, 2077" TYPE="DATE" comment="" />
+<NAME id="P4" start="228" end="240" text="Uriel Zapien" TYPE="DOCTOR" comment="" />
+<AGE id="P5" start="269" end="271" text="71" TYPE="AGE" comment="" />
+<DATE id="P6" start="367" end="374" text="January" TYPE="DATE" comment="" />
+<NAME id="P7" start="1030" end="1036" text="Zapien" TYPE="DOCTOR" comment="" />
+<NAME id="P8" start="1203" end="1222" text="Vasilios C. Osborne" TYPE="DOCTOR" comment="" />
+<NAME id="P9" start="1231" end="1237" text="varner" TYPE="DOCTOR" comment="" />
+</TAGS>
+</deIdi2b2>

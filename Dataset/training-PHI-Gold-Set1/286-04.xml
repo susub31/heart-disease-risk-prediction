@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+
+
+
+
+                          OFFICE NOTE
+
+
+
+Esposito, Perla
+
+MR #146-55-23-5
+
+01/18/82
+
+
+
+Telephone:  349-3828
+
+
+
+80-year-old Chilean woman who has not been back in over a year with chief complaint of red eye.
+
+
+
+Has had a recent URI. Cough. Woke up this am with red right eye and 
+
+MEDICATIONS:  Procardia XL.  Lopressor.  Micronase.  Aspirin.
+
+
+
+ALLERGIES:  LISINOPRIL causes hyperkalemia.  
+
+
+
+FAMILY HISTORY:  No interval change.
+
+
+
+SOCIAL HISTORY:  Supportive family.  Retired.   No cigarettes. 
+
+No excess of alcohol.
+
+
+
+REVIEW OF SYSTEMS:  No chest pains.  No unusual nocturia.  Her
+
+last A1C was 6.1.  She has a history of a chronically elevated
+
+creatinine.  Her last one was 2.1 last January. The rest of the ROS is negative.
+
+  
+
+
+
+On physical examination she looks well.  
+
+================ Vital signs ================
+
+Blood Pressure:   142/62    156/60 (by myself)
+Weight:   141.5
+Pulse 68
+Skin: Unremarkable.
+
+HEENT:  EOMI. Right pupil reactive. S/p irridectomy on the left. NO retinopathy visualized although exam is limited.  The right conjunctiva is injected with minimal discharge.  Benign pharynx.  No lymphadenopathy.  No thyromegaly. Soft left carotid bruit vs. transmitted murmur. ?Mild facial droop.  Her lungs are clear. Brief II\VI systolic ejection murmur along the left sternal border radiating into the right
+
+sternal border.  Benign abdomen.  No hepatomegaly.  No
+
+splenomegaly.  No pedal edema.
+
+
+
+#1)  Conjunctivitis. Probably viral but she had more discharge this morning. Rx with Ilotycin.
+
+
+
+#2)  History of coronary disease.  No symptoms.
+
+
+
+#3)  Hypertension. She seems a little vague about her meds. She has not been back in more than a year and still has meds left. I will see her back shortly to recheck.
+
+
+
+#4)  Diabetes.  We'll check an A1C.
+
+
+
+#5)  Chronic renal insufficiency.  We'll check a creatinine.  The
+
+last value was 2.1.  
+
+
+
+#6)  General. Obtain a mammogram.
+
+
+
+
+
+
+
+Ulises J. Kelley, M.D.
+
+
+
+]]></TEXT>
+<TAGS>
+<NAME id="P0" start="48" end="63" text="Esposito, Perla" TYPE="PATIENT" comment="" />
+<ID id="P1" start="69" end="80" text="146-55-23-5" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P2" start="82" end="90" text="01/18/82" TYPE="DATE" comment="" />
+<CONTACT id="P3" start="106" end="114" text="349-3828" TYPE="PHONE" comment="" />
+<AGE id="P4" start="118" end="120" text="80" TYPE="AGE" comment="" />
+<LOCATION id="P5" start="130" end="137" text="Chilean" TYPE="COUNTRY" comment="" />
+<DATE id="P6" start="698" end="705" text="January" TYPE="DATE" comment="" />
+<NAME id="P7" start="1925" end="1941" text="Ulises J. Kelley" TYPE="DOCTOR" comment="" />
+</TAGS>
+</deIdi2b2>

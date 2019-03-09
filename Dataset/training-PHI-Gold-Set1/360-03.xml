@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2077-06-16
+
+
+
+
+HALE MEMORIAL HOSPITAL
+Internal Medicine
+600 Dearborn Street
+Rayne, MI  82978
+
+							Geiger, Xander 
+							01729440
+							06/16/77 
+
+
+Mr. Geiger is a 75 year old man with a history of hypertension, 
+hyperlipidemia and panhypopituitarism who comes in today for 
+follow up of his blood pressure.  We have been titrating up his 
+blood pressure meds over the past week.  He is gone from 50mg of 
+atenolol to 75 to 100mg with steady improvement in his blood 
+pressure.  His current regimen is atenolol 100q.d., HCTZ 25 q.d., 
+lisinopril 20mg q.d.  The patient has had no dizziness or other 
+symptoms with increasing doses of atenolol.
+
+PHYSICAL EXAMINATION:  His blood pressure is 160/94.  Heart rate 
+is 64.  Carotids 2+ without bruits.  Lungs clear to auscultation 
+bilaterally.  Cardiac exam: regular rate and rhythm, normal S1, 
+S2 with no murmurs.  Abdomen is benign.  Extremities: no edema.  
+
+Laboratories:  Cholesterol from June 11, 2077: total 171, HDL 57, 
+LDL 86. 
+
+ASSESSMENT AND PLAN:  Mr. Geiger is a very pleasant 75 year old 
+man with hypertension, hyperlipidemia.
+1. 	Hypertension.  Blood pressure still elevated.  I will increase 
+lisinopril to 30mg q.d.  Will also check a set of electrolytes 
+at his next visit in 2 weeks when his blood pressure will be 
+followed up.
+2. 	Cholesterol.  Well controlled at this time.
+3. 	Health maintenance.  The patient denies any colonoscopy in the 
+past.  I do not see one on record or in his history.  We will 
+arrange a screening colonoscopy.  The patient has had recent 
+PSA of 2.8 and a normal prostate exam by me last year.  He is 
+due for annual physical next month and will schedule this. 
+
+
+
+Nathan Whaley, M.D.
+
+NW:burns:06-74086442.doc; DD: 6/16/77; DT: 6/17/77; DV: 6/16/77 
+
+
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2077-06-16" TYPE="DATE" comment="" />
+<LOCATION id="P1" start="31" end="53" text="HALE MEMORIAL HOSPITAL" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P3" start="72" end="91" text="600 Dearborn Street" TYPE="STREET" comment="" />
+<LOCATION id="P4" start="92" end="97" text="Rayne" TYPE="CITY" comment="" />
+<LOCATION id="P5" start="99" end="101" text="MI" TYPE="STATE" comment="" />
+<LOCATION id="P6" start="103" end="108" text="82978" TYPE="ZIP" comment="" />
+<NAME id="P7" start="117" end="131" text="Geiger, Xander" TYPE="PATIENT" comment="" />
+<ID id="P8" start="140" end="148" text="01729440" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P9" start="156" end="164" text="06/16/77" TYPE="DATE" comment="" />
+<NAME id="P10" start="172" end="178" text="Geiger" TYPE="PATIENT" comment="" />
+<AGE id="P11" start="184" end="186" text="75" TYPE="AGE" comment="" />
+<DATE id="P12" start="961" end="974" text="June 11, 2077" TYPE="DATE" comment="" />
+<NAME id="P13" start="1032" end="1038" text="Geiger" TYPE="PATIENT" comment="" />
+<AGE id="P14" start="1058" end="1060" text="75" TYPE="AGE" comment="" />
+<NAME id="P15" start="1684" end="1697" text="Nathan Whaley" TYPE="DOCTOR" comment="" />
+<NAME id="P16" start="1705" end="1707" text="NW" TYPE="DOCTOR" comment="" />
+<NAME id="P17" start="1708" end="1713" text="burns" TYPE="DOCTOR" comment="" />
+<ID id="P18" start="1714" end="1725" text="06-74086442" TYPE="IDNUM" comment="" />
+<DATE id="P19" start="1735" end="1742" text="6/16/77" TYPE="DATE" comment="" />
+<DATE id="P20" start="1748" end="1755" text="6/17/77" TYPE="DATE" comment="" />
+<DATE id="P21" start="1761" end="1768" text="6/16/77" TYPE="DATE" comment="" />
+</TAGS>
+</deIdi2b2>

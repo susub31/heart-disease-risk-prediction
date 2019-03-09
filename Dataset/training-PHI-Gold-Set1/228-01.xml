@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2081-05-01
+
+ 
+ 
+ 
+ 
+ 
+May 01, 2081
+ 
+ 
+ 
+Usha Gibbons, M.D.
+CIMA
+Cooley Dickinson Hospital
+08 Pinehaven Dr.
+Schuyler, FL  76969
+ 
+ 
+RE:  Wonda Benitez
+     MR #892-76-95-4
+ 
+Dear Usha:
+ 
+I had the pleasure of seeing one of your clinic patients, Ms.
+Benitez, in my cardiovascular clinic for follow-up for palpitations,
+hypertension, and status post coronary artery bypass surgery.  As
+you know, she has been complaining of leg cramps mostly at night. 
+She has been taking quinine for this, however develops palpitations
+whenever she takes the quinine.  She has not been taking this since
+the initial two doses.  I suspect that her leg cramps are probably
+secondary to intermittent passing fluxes.  I have told her to eat
+a banana during the evening and possibly this would avoid leg
+cramps in the evening.  In the meantime, her EKG showed sinus
+bradycardia at a rate of 50 per minute.  There is borderline first
+degree AV block and anterolateral infarct by EKG which is unchanged
+from previous tracing.  We will continue her on Vasotec 10 mg bid
+as well as Lopressor 12.5 mg bid.  She will see me in follow-up in
+three months' time.
+ 
+Again, thank you for referring this patient to my cardiovascular
+clinic.
+ 
+With warm regards.
+ 
+Sincerely,
+ 
+ 
+ 
+Gordon Q. Iniguez, M.D.
+ 
+DD: 05/01/81
+DT: 05/05/81
+DV: 05/01/81
+ 
+ ******** Approved but not reviewed by Attending Provider ********
+
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2081-05-01" TYPE="DATE" comment="" />
+<DATE id="P1" start="38" end="50" text="May 01, 2081" TYPE="DATE" comment="" />
+<NAME id="P2" start="57" end="69" text="Usha Gibbons" TYPE="DOCTOR" comment="" />
+<LOCATION id="P4" start="81" end="106" text="Cooley Dickinson Hospital" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P5" start="107" end="123" text="08 Pinehaven Dr." TYPE="STREET" comment="" />
+<LOCATION id="P6" start="124" end="132" text="Schuyler" TYPE="CITY" comment="" />
+<LOCATION id="P7" start="134" end="136" text="FL" TYPE="STATE" comment="" />
+<LOCATION id="P8" start="138" end="143" text="76969" TYPE="ZIP" comment="" />
+<NAME id="P9" start="153" end="166" text="Wonda Benitez" TYPE="PATIENT" comment="" />
+<ID id="P10" start="176" end="187" text="892-76-95-4" TYPE="MEDICALRECORD" comment="" />
+<NAME id="P11" start="195" end="199" text="Usha" TYPE="DOCTOR" comment="" />
+<NAME id="P12" start="265" end="272" text="Benitez" TYPE="PATIENT" comment="" />
+<NAME id="P13" start="1263" end="1280" text="Gordon Q. Iniguez" TYPE="DOCTOR" comment="" />
+<DATE id="P14" start="1293" end="1301" text="05/01/81" TYPE="DATE" comment="" />
+<DATE id="P15" start="1306" end="1314" text="05/05/81" TYPE="DATE" comment="" />
+<DATE id="P16" start="1319" end="1327" text="05/01/81" TYPE="DATE" comment="" />
+</TAGS>
+</deIdi2b2>

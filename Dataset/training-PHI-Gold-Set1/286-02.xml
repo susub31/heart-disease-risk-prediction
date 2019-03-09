@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2078-06-15
+
+                     DISTRICT FOUR EMERGENCY DEPT VISIT
+ 
+ESPOSITO,PERLA   146-55-23-5                     VISIT DATE: 06/15/78
+PRESENTING COMPLAINT:  The patient is a 77 year old female with 
+history of coronary artery disease who presents to District Four State Hospital emergency room department with chief complaint of numbness 
+in her left upper extremity and left lower extremity after 
+awakening today.  She denies slurred speech, shortness of breath, 
+or headache. 
+HISTORY OF PRESENTING COMPLAINT: 
+REVIEW OF SYSTEMS: 
+PAST MEDICAL HISTORY:  Positive for coronary artery bypass graft. 
+MEDICATIONS:  Lopressor, aspirin, Procardia. 
+ALLERGIES:  None. 
+SOCIAL HISTORY AND FAMILY HISTORY: 
+PHYSICAL EXAMINATION:  Temperature 97, pulse 64, respiratory rate 
+18, blood pressure 192/96.  HEENT:  Normocephalic, atraumatic. 
+Pupils equal, round, and reactive to light and accommodation. 
+Positive for AV nicking.  Extraocular movements intact.  Neck: 
+Supple.  No jugular venous distension.  Chest clear to auscultation 
+and percussion.  No rales, wheezes, or rhonchi.  Heart:  Normal S1 
+and S2.  No S3 or S4 or murmur.  Abdomen:  Soft, nontender, 
+nondistended.  No masses, rebound, or organomegaly.  Extremities: 
+Grossly within normal limits.  Neurologic:  She was awake and alert 
+and oriented times three.  Normal cerebellar.  Negative Babinski. 
+Muscle strength 4/5. 
+LABORATORY EVALUATION:  The patient had a head CT scan in the 
+emergency room department which was noted to be negative. 
+THERAPY RENDERED/COURSE IN ED: 
+PROCEDURES: 
+CONSULTATIONS (including PCP): 
+FINAL DIAGNOSIS:  Rule out cerebrovascular accident. 
+DISPOSITION (including condition upon discharge):  Admit the 
+patient to medicine service for further workup and evaluation. 
+___________________________________                    DQ294/8654 
+W. TAMAR WHITEHEAD, M.D.  TW31                            D:06/15/78 
+                                                       T:06/16/78 
+Dictated by:  W. TAMAR WHITEHEAD, M.D.  TW31 
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2078-06-15" TYPE="DATE" comment="" />
+<LOCATION id="P1" start="49" end="62" text="DISTRICT FOUR" TYPE="HOSPITAL" comment="" />
+<NAME id="P2" start="86" end="100" text="ESPOSITO,PERLA" TYPE="PATIENT" comment="" />
+<ID id="P3" start="103" end="114" text="146-55-23-5" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P4" start="147" end="155" text="06/15/78" TYPE="DATE" comment="" />
+<AGE id="P5" start="196" end="198" text="77" TYPE="AGE" comment="" />
+<LOCATION id="P6" start="272" end="300" text="District Four State Hospital" TYPE="HOSPITAL" comment="" />
+<ID id="P7" start="1839" end="1849" text="DQ294/8654" TYPE="IDNUM" comment="" />
+<NAME id="P8" start="1851" end="1869" text="W. TAMAR WHITEHEAD" TYPE="DOCTOR" comment="" />
+<NAME id="P9" start="1877" end="1881" text="TW31" TYPE="USERNAME" comment="" />
+<DATE id="P10" start="1911" end="1919" text="06/15/78" TYPE="DATE" comment="" />
+<DATE id="P11" start="1978" end="1986" text="06/16/78" TYPE="DATE" comment="" />
+<NAME id="P12" start="2002" end="2020" text="W. TAMAR WHITEHEAD" TYPE="DOCTOR" comment="" />
+<NAME id="P13" start="2028" end="2032" text="TW31" TYPE="USERNAME" comment="" />
+</TAGS>
+</deIdi2b2>

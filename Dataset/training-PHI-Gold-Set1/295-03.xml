@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2080-07-11
+
+
+Vascular Surgery Admission Note
+ 
+
+
+
+
+Patient Name: Vieira, Nathan
+MRN: 0666729
+Date and Time: 7/11/2080 8:00 PM
+Attending: Henry C. Atwood, M.D.
+Fellow: Vincent Gregory, M.D.
+Junior: Donovan J. Betty Barber, M.D.
+
+
+Admitted for Left Leg Wound debridement 
+
+
+HPI: 
+Mr. Nathan Vieira is a 73yo M with PMH significant for DM2,  CAD, HTN, hyperlipidemia, hypotonic bladder GERD, psoriasis,  well known in the vascular service for PVD, s/p  LLE angio, thrombectomy 12/78, L fem-pop BPG 4/78, R fem-pop BPG 2/78, RLE angio 1/78 most recently on may LE revascularization procedures,  Popliteal exploration with graft thrombectomy, aortoiliac angiogram, left lower extremity angiogram, angioplasty of posterior tibial artery, angioplasty tibioperoneal trunk and distal anastomosis of bypass graft, stent placement for stenosis of proximal graft. 
+Mr. Vieira presented to Dr. Atwood clinic 
+today with persistent wound collection in the below knee popliteal incision. He noticed a lump approximately 3 weeks ago, underwent incision and drainage with wick placement and started a course of PO antibiotics. This has continued to drain serosanguinous fluid, apparently the overall induration and erythema with some additional fluid under moderate pressure was released. He has been seen daily by a visiting nurse and she can do the dressing, replacing the wick, and putting a sterile absorbent dressing on top of this. We will see him again in another week.
+  He is on coumadin, last dose 3.5 last night. 
+
+Denies fevers chills, SOB, cough.
+
+
+PMHx/PSHx:
+DM
+PVD
+LLE angio, thrombectomy 12/78
+L fem-pop BPG 4/78
+R fem-pop BPG 2/78
+RLE angio 1/78
+CAD s/p PTCA
+HTN
+Hyperlipidemia
+Urinary retention from hypotonic bladder - self caths, abx prophylaxis, s/p cytstoscopy/TUR
+GERD
+Psoriasis
+L shoulder surgery
+
+
+Meds: 
+Lipitor 20 qpm
+Zetia 10mg qpm
+ASA 81 qam
+Altace 10 qam
+Atenolol 50 qam
+Glyburide 10 mg BID
+Nitrofurantoin 50mg qd
+coumadin 3.5 mg QD
+
+
+All: 
+NKDA
+
+
+PE: 
+Temp:  97.7      HR  76        BP  150/62       RR  16        100^% O2 Sat  
+Gen: Awake, alet, oriented, NAD
+Resp: CTAB
+CV: RRR
+Adomen-Soft, ND, NT, no abdominal bruits
+Ext no edema bilaterally
+LLE wound collection  in the below knee popliteal incision, draining purulent fluid. surrounding erythema. The overall 
+
+Foot: R: Mild erethema proximally.
+L: erythema and mild color change of distal toes, a change from pt's baseline, (+) cap refill, no palpable pulses
+Rad Fem Pop DP PT
+R 2+ 2+ none none none 
+L 2+ 2+ none 1+ 1+ 
+
+
+A/P:
+73yo M with PMH significant for DM2,  CAD, HTN, hyperlipidemia, hypotonic bladder GERD, psoriasis,  well known in the vascular service for PVD, s/p  LLE angio, thrombectomy 12/78, L fem-pop BPG 4/78, R fem-pop BPG 2/78, RLE angio 1/78 most recently on may LE revascularization procedures,  Popliteal exploration with graft thrombectomy, aortoiliac angiogram, left lower extremity angiogram, angioplasty of posterior tibial artery, angioplasty tibioperoneal trunk and distal anastomosis of bypass graft, stent placement for stenosis of proximal graft.  
+Mr. Vieira presented to Dr. Atwood clinic 
+today with persistent wound collection in the below knee popliteal incision.
+Admitted for  Left Leg Wound debridement.
+
+
+- NPO p MN, IVF
+-CBC/INR, PTT
+-EKG
+-Electrolytes
+-CXR 
+-UA
+- Consent obtained an placed in chart
+
+
+Plan has been discussed with Vascular Fellow Dr. Gregory.
+
+
+Donovan J. Betty Barber, M.D.
+PGY-2
+Vascular Surgery.
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2080-07-11" TYPE="DATE" comment="" />
+<NAME id="P1" start="81" end="95" text="Vieira, Nathan" TYPE="PATIENT" comment="" />
+<ID id="P2" start="101" end="108" text="0666729" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P3" start="124" end="133" text="7/11/2080" TYPE="DATE" comment="" />
+<NAME id="P4" start="153" end="168" text="Henry C. Atwood" TYPE="DOCTOR" comment="" />
+<NAME id="P5" start="183" end="198" text="Vincent Gregory" TYPE="DOCTOR" comment="" />
+<NAME id="P6" start="213" end="236" text="Donovan J. Betty Barber" TYPE="DOCTOR" comment="" />
+<NAME id="P7" start="298" end="311" text="Nathan Vieira" TYPE="PATIENT" comment="" />
+<AGE id="P8" start="317" end="319" text="73" TYPE="AGE" comment="" />
+<DATE id="P9" start="490" end="495" text="12/78" TYPE="DATE" comment="" />
+<DATE id="P10" start="511" end="515" text="4/78" TYPE="DATE" comment="" />
+<DATE id="P11" start="531" end="535" text="2/78" TYPE="DATE" comment="" />
+<DATE id="P12" start="547" end="551" text="1/78" TYPE="DATE" comment="" />
+<DATE id="P13" start="569" end="572" text="may" TYPE="DATE" comment="" />
+<NAME id="P14" start="873" end="879" text="Vieira" TYPE="PATIENT" comment="" />
+<NAME id="P15" start="897" end="903" text="Atwood" TYPE="DOCTOR" comment="" />
+<DATE id="P16" start="1603" end="1608" text="12/78" TYPE="DATE" comment="" />
+<DATE id="P17" start="1623" end="1627" text="4/78" TYPE="DATE" comment="" />
+<DATE id="P18" start="1642" end="1646" text="2/78" TYPE="DATE" comment="" />
+<DATE id="P19" start="1657" end="1661" text="1/78" TYPE="DATE" comment="" />
+<AGE id="P20" start="2515" end="2517" text="73" TYPE="AGE" comment="" />
+<DATE id="P21" start="2688" end="2693" text="12/78" TYPE="DATE" comment="" />
+<DATE id="P22" start="2709" end="2713" text="4/78" TYPE="DATE" comment="" />
+<DATE id="P23" start="2729" end="2733" text="2/78" TYPE="DATE" comment="" />
+<DATE id="P24" start="2745" end="2749" text="1/78" TYPE="DATE" comment="" />
+<DATE id="P25" start="2767" end="2770" text="may" TYPE="DATE" comment="" />
+<NAME id="P26" start="3072" end="3078" text="Vieira" TYPE="PATIENT" comment="" />
+<NAME id="P27" start="3096" end="3102" text="Atwood" TYPE="DOCTOR" comment="" />
+<NAME id="P28" start="3380" end="3387" text="Gregory" TYPE="DOCTOR" comment="" />
+<NAME id="P29" start="3391" end="3414" text="Donovan J. Betty Barber" TYPE="DOCTOR" comment="" />
+</TAGS>
+</deIdi2b2>

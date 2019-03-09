@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2080-01-18
+
+
+Date 01/18/2080 TIPTREE VASCULAR SURGERY CONSULT NOTE 
+PATIENT: Massey, Ramona
+MRN: 44690336
+Attending: Andersen
+HPI: 
+
+
+The patient is a 79yF with ESRD on HD. She is being dialyzed via a right brachiocephalic fistula that was created in Nov 2075. The patient is a very poor historian and the subsequent information has been collected from the medical record. While the fistula is beng used successfully for dialysis, it has undergone aneurysmal dilatation and the patient has also developed non-healing areas over the fistula at points of access. There is note made in the chart that the patient has had difficulty with recurrent outflow stenosis and for this she seems to have undergone angioplasty at Brooks Hospital (no record in LMR) recently. The patient does not have any complaints. 
+PMH: 
+ESRD on HD; CKD; DM; HTN; HL
+PSH: 
+Right brachiocephalic AV fistula creation 11/75; right forearm loop AV graft creation 02/75; right antecubital AV fistula creation 03/74; right snuff box AV fistula creation 10/70
+MEDS (In house): 
+ASA 81mg po qday; Calcium acetate 667mg po qac; Captopril 62.5mg po tid; Colace 100mg po qday; Heparin 5000U sc tid; Metoprolol 50mg pot id; Pravastatin 40mg po qhs; amlodipine 5mg po qday; Donepezil 5mg po qday; Nephrocaps 1tab po qday; RISS
+ALL: 
+NKDA
+FH: 
+NC
+SH: 
+Lives with her daughter in Brewton, VA; goes to dialysis TThSa
+PE: 98.7 65 120/62 18 95% RA
+Elderly woman sitting up in chair with Posey jacket on; appears comfortable; focused physical exam reveals right upper arm with well-healed incisions over forearm, graft in forearm without thrill, brachiocephalic fistula with aneurysmal changes, more prominently toward antecubital fossa, skin with small non-healing ulcers, strongly palpable thrill; radial pulse 1+, hand warm
+--
+
+
+Labs 
+Chem: 136/ 4.4/ 93/ 29/ 72/ 9.6/ 170
+CBC: 7.3/ 35.3/ 208
+Coags: 14.4/ 1.1/ 27.5
+--
+
+
+ASSESSMENT / PLAN:
+79yF with ESRD on HD being dialysed via right brachiocephalic fistula that is aneurysmal. Per the record she may also have outflow stenosis.
+- Will discuss further management (fistulogram vs intervention vs follow up in clinic) with Dr. Andersen
+- We will follow with you
+--
+Discussed with Dr. Sean Ferreira, Vascular Surgery fellow, who agrees with assessment and plan. Will discuss with Dr. Andersen. 
+
+
+________________
+Gabrielle Valdez
+PGY-2
+77183
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2080-01-18" TYPE="DATE" comment="" />
+<DATE id="P1" start="34" end="44" text="01/18/2080" TYPE="DATE" comment="" />
+<LOCATION id="P2" start="45" end="52" text="TIPTREE" TYPE="HOSPITAL" comment="" />
+<NAME id="P3" start="93" end="107" text="Massey, Ramona" TYPE="PATIENT" comment="" />
+<ID id="P4" start="113" end="121" text="44690336" TYPE="MEDICALRECORD" comment="" />
+<NAME id="P5" start="133" end="141" text="Andersen" TYPE="DOCTOR" comment="" />
+<AGE id="P6" start="167" end="169" text="79" TYPE="AGE" comment="" />
+<DATE id="P7" start="267" end="275" text="Nov 2075" TYPE="DATE" comment="" />
+<LOCATION id="P8" start="733" end="748" text="Brooks Hospital" TYPE="HOSPITAL" comment="" />
+<DATE id="P9" start="904" end="909" text="11/75" TYPE="DATE" comment="" />
+<DATE id="P10" start="948" end="953" text="02/75" TYPE="DATE" comment="" />
+<DATE id="P11" start="993" end="998" text="03/74" TYPE="DATE" comment="" />
+<DATE id="P12" start="1036" end="1041" text="10/70" TYPE="DATE" comment="" />
+<LOCATION id="P13" start="1354" end="1361" text="Brewton" TYPE="CITY" comment="" />
+<LOCATION id="P14" start="1363" end="1365" text="VA" TYPE="STATE" comment="" />
+<DATE id="P15" start="1384" end="1385" text="T" TYPE="DATE" comment="" />
+<DATE id="P16" start="1385" end="1387" text="Th" TYPE="DATE" comment="" />
+<DATE id="P17" start="1387" end="1389" text="Sa" TYPE="DATE" comment="" />
+<AGE id="P18" start="1912" end="1914" text="79" TYPE="AGE" comment="" />
+<NAME id="P19" start="2149" end="2157" text="Andersen" TYPE="DOCTOR" comment="" />
+<NAME id="P20" start="2206" end="2219" text="Sean Ferreira" TYPE="DOCTOR" comment="" />
+<NAME id="P21" start="2305" end="2313" text="Andersen" TYPE="DOCTOR" comment="" />
+<NAME id="P22" start="2335" end="2351" text="Gabrielle Valdez" TYPE="DOCTOR" comment="" />
+<CONTACT id="P23" start="2358" end="2363" text="77183" TYPE="PHONE" comment="" />
+</TAGS>
+</deIdi2b2>

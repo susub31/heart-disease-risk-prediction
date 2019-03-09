@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2078-05-10
+
+
+
+Vital signs
+
+BP 140/88, P 68, Wt 172 lb 
+
+69 year old male returns with daughter and grandson for follow-up of diabetes and hypertension. he was seen here several weeks ago after a 4 month absence when he was in the UK. hgba1c and creatinine were checked at the time, and bp was to be rechecked as it was not optimally controlled. the patient returns feeling well, denies chest pain, shortness of breath, PND, orthopnea, change in exercise tolerance. he is taking medications as directed. daughter states that he saw an eye doctor in Anchorage Northeast in 11/77, had his pupils dilated, was checked for DM, was told everything was fine and he should return in 1 year
+
+VS as noted
+
+chest clear to ausc. RR 12
+
+cardiac normal s1/s2 no m/s3/s4 HR 58 reg
+
+no peripheral edema
+
+hgba1c 6.5 (decreased from 8.9 in 11/77) creatinine stable at 1.4
+
+Assessment - improved diabetic control. renal function stable. suboptimal bp control for diabetic with history of CAD; already bradycardic on atenolol 50 mg qd
+
+Plan - continue current regimen with the exception of lisinopril - will increase to 20mg qd. pt has PE scheduled 5/31/78. bp recheck at that time
+
+no ophthalmology referral was made as he appears to be up to date with eye care
+
+N. levine, MD
+
+
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2078-05-10" TYPE="DATE" comment="" />
+<AGE id="P1" start="72" end="74" text="69" TYPE="AGE" comment="" />
+<LOCATION id="P2" start="242" end="248" text="the UK" TYPE="COUNTRY" comment="" />
+<LOCATION id="P3" start="564" end="583" text="Anchorage Northeast" TYPE="CITY" comment="" />
+<DATE id="P4" start="587" end="592" text="11/77" TYPE="DATE" comment="" />
+<DATE id="P5" start="838" end="843" text="11/77" TYPE="DATE" comment="" />
+<DATE id="P6" start="1145" end="1152" text="5/31/78" TYPE="DATE" comment="" />
+<NAME id="P7" start="1260" end="1269" text="N. levine" TYPE="DOCTOR" comment="" />
+</TAGS>
+</deIdi2b2>

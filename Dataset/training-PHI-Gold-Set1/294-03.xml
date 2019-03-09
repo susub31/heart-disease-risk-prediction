@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2095-02-04
+
+
+Patient Name: SHEPHERD,AARON W [ 5613892(BMH) ] Date of Visit: 02/04/2095, 7:40 am
+
+
+
+
+Admission Note - Attending/PCP
+
+
+S-
+79 yo M etired Archive Manager with a history of recent repair of right inguinal hernia who presents to the ER with a 1-week history of  abdominal pain localizing to the right lower quadrant/groin, constipation, urinary incontinence, admitted for mod./severe urinary retention (2 liters), bilateral hydronephrosis due to severe BPH, also ARF to BUN/Cr 30/3.0. 
+
+PMH significant for :  constipation, depression, psychosis, insomnia, CAD, syncope, HTN, DMT2, carotid stenosis, PVD.
+ 
+Details per Dr. Davidson.
+ 
+Problems
+Hydronephrosis : bila. mod/severe 2/95 due to very large prostate
+Acute renal failure : 2/95 30/3.0
+Peripheral vascular disease : Ca++ celiac axis and SMA 2/95
+Coronary artery disease 
+Depression 
+Weight loss 
+Constipation 
+Inguinal hernia 
+Glaucoma 
+Syncope 
+Bradycardia 
+Benign prostatic hypertrophy 
+Nocturia 
+Psychosis 
+Diabetes mellitus type 2 
+Hyperlipidemia 
+
+
+
+
+
+
+Last Known Medications
+Aspirin (ACETYLSALICYLIC ACID) 325 MG (325MG TABLET take 1) PO QD 
+Brimonidine TARTRATE 1 DROP (0.2% DROPS ) OU BID 
+Cilostazol 100 MG (100MG TABLET take 1) PO BID 
+Dulcolax (BISACODYL) 5 MG (5MG TABLET take 1) PO QD 
+Lasix (FUROSEMIDE) 20 MG (20MG TABLET take 1) PO QD 
+Lisinopril 40 MG (40MG TABLET take 1) PO QD 
+Metformin 1000 MG (1000MG TABLET take 1) PO BID 
+Metoprolol TARTRATE 50 MG (50MG TABLET take 1) PNGT BID 
+Mvi (MULTIVITAMINS) 1 TAB PO QD 
+Norvasc (AMLODIPINE) 10 MG (5MG TABLET take 2) PO QD 
+Remeron (MIRTAZAPINE) 3.75 MG (15MG TABLET take 0.25) PO QD 
+Zocor (SIMVASTATIN) 80 MG (80MG TABLET take 1) PO QHS 
+Zyprexa (OLANZAPINE) 5 MG (5MG TABLET take 1) PO QD , Take 1 tab at bedtime 
+
+
+
+Allergies
+NKA 
+
+
+ROS
+No back or abdominal pain
+
+
+Geriatric ROS
+   Yes      No      Don't know
+Memory Intact?
+  Yes   
+Judgment Intact?
+ Yes   
+Safety Concerns? no
+Nutritional Concerns (i.e. lost wt., eats poorly)? no
+Continent of urine? no
+Ambulation:         Independent
+
+Bedbound? no
+Falls prior to this hospitalization? no
+
+
+Health Maintenance
+   Pneumonia vaccine received?  2094
+   Influenza vaccine received in last year?  yes
+ 
+Social
+Born in Bryan. Raised in Shirley, Il. Currently lives in Shirley. Married for 53 years with 6 children and 7 grandchildren.
+
+
+Advance Care Planning
+
+HCP: Wife, Ernestine is primary proxy. Alternative is daughter, Teresa Berry. 
+Code Status: Has not decided as of yet.
+
+
+ 
+O-
+Alert, NAD
+Resp.- Clear
+RRR
+GI- Soft, no masses
+GU- Indwelling cath, gross heme in urineExt- No edema
+Neuro- Cogent, non-focal
+
+
+Assessment/Plan
+
+
+Constipation- Add miralx to discharge regimen
+Urinary retention- Relieved, await urology consult 
+BPH- Per urology, op. this admission vs elective
+ARF- due to obstruction, follow as relieved.
+
+
+Disposition- Home with services
+Discussed with Dr. Davidson
+
+
+
+
+
+
+____________________________________
+Noah Joseph, M.D. #01220 for Dr. Judge/Lugo
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2095-02-04" TYPE="DATE" comment="" />
+<NAME id="P1" start="43" end="59" text="SHEPHERD,AARON W" TYPE="PATIENT" comment="" />
+<ID id="P2" start="62" end="69" text="5613892" TYPE="MEDICALRECORD" comment="" />
+<LOCATION id="P3" start="70" end="73" text="BMH" TYPE="HOSPITAL" comment="" />
+<DATE id="P4" start="92" end="102" text="02/04/2095" TYPE="DATE" comment="" />
+<AGE id="P5" start="152" end="154" text="79" TYPE="AGE" comment="" />
+<PROFESSION id="P6" start="167" end="182" text="Archive Manager" TYPE="PROFESSION" comment="" />
+<NAME id="P7" start="650" end="658" text="Davidson" TYPE="DOCTOR" comment="" />
+<DATE id="P8" start="705" end="709" text="2/95" TYPE="DATE" comment="" />
+<DATE id="P9" start="759" end="763" text="2/95" TYPE="DATE" comment="" />
+<DATE id="P10" start="826" end="830" text="2/95" TYPE="DATE" comment="" />
+<DATE id="P11" start="2150" end="2154" text="2094" TYPE="DATE" comment="" />
+<LOCATION id="P12" start="2221" end="2226" text="Bryan" TYPE="CITY" comment="" />
+<LOCATION id="P13" start="2238" end="2245" text="Shirley" TYPE="CITY" comment="" />
+<LOCATION id="P14" start="2247" end="2249" text="Il" TYPE="STATE" comment="" />
+<LOCATION id="P15" start="2270" end="2277" text="Shirley" TYPE="CITY" comment="" />
+<NAME id="P16" start="2373" end="2382" text="Ernestine" TYPE="PATIENT" comment="" />
+<NAME id="P17" start="2426" end="2438" text="Teresa Berry" TYPE="PATIENT" comment="" />
+<NAME id="P18" start="2880" end="2888" text="Davidson" TYPE="DOCTOR" comment="" />
+<NAME id="P19" start="2932" end="2943" text="Noah Joseph" TYPE="DOCTOR" comment="" />
+<CONTACT id="P20" start="2951" end="2956" text="01220" TYPE="PHONE" comment="" />
+<NAME id="P21" start="2965" end="2970" text="Judge" TYPE="DOCTOR" comment="" />
+<NAME id="P22" start="2971" end="2975" text="Lugo" TYPE="DOCTOR" comment="" />
+</TAGS>
+</deIdi2b2>

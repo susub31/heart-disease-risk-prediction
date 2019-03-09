@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2097-07-30
+
+                                                       Patient Name: FAY,BROOK  [ 11289501(CCH) ] F
+
+                                                         Date of Visit: 07/30/2097
+
+
+
+
+
+Reason for Visit
+
+Mrs. Fay is a 70 year old spanish speaking female with multiple medical problems who presents today as a follow up for her diabetes, adrenal insufficiency
+
+
+
+History of Present Illness
+
+Insulin- was having erratic dosing and hypoglycemia- changed to lantus last week, but had problems- mainly from understanding it, changed back to other, may have 
+
+ 
+
+adrenal- trying to lower prednisone. tolerating 3 mg, stopped completely on her own- feels better.
+
+ 
+
+had eyes exam- told no dbr- about two weeks ago 
+
+
+
+
+
+Review of Systems
+
+Constitutional: No fever, chills, fatigue, nightsweats, insomnia, change in weight
+
+Eyes: No double vision, blurred vision, red, dry, itchy or painful eyes. No discharge
+
+ENT/Mouth: No rhinitis, epistaxis, sinus pain, change in hearing, tinnitus, discharge from ears, ear pain oral lesions, problems chewing, dental pain, sore throat
+
+Cardiovascular: no chest pain, pressure, palpitation, PND, orthopnea, dyspnea on exertion, pedal edema, nocturia, claudication, 
+
+Respiratory: no cough, sputum, dyspnea, pleuritic pain, wheeze, loud snoring, hemoptysis
+
+Gastrointestinal: No dysphagia, odynophagia, heartburn, abdominal pain, change in the bowel habits, diarrhea, constipation, melena, hematochezia, incontinence, nausea, vomiting
+
+Genitourinary: No incontinence, dysuria, frequency, hesitancy, discharge, 
+
+Muskuloskeletal: No muscle aches, tremor, weakness, myalgia, joint pain or swelling
+
+Skin/Breasts: no rashes, moles, itch,
+
+
+
+Allergies
+
+      Penicillins    - Rash, Itching
+
+
+
+Problems
+
+      elevated cholesterol
+
+      degenerative joint disease
+
+      gastroesophageal reflux disease
+
+      Depression
+
+      Diabetes mellitus
+
+      hypertension
+
+      Low back pain
+
+      Seasonal allergies
+
+      Adrenal insufficiency
+
+      candidal esophagitis
+
+
+
+Medications
+
+      Amitriptyline Hcl   10 MG (10MG TABLET take 1) PO QHS  #60 Tablet(s)
+
+      Asa (CHILDRENS) (ACETYLSALICYLIC Acid (CHILDRENS))   81 MG (81MG TABLET take 1) PO QD  #100 Tablet(s)
+
+      ATENOLOL   50 MG (50MG TABLET take 1) PO QD  #30 Tablet(s)
+
+      Betamethasone/clotrimazole 0.05%/1%   1 APPLICATION (CREAM(GM) ) TOP BID  #45 gram(s)
+
+      CHOLECALCIFEROL   800 UNITS (400 UNIT TABLET take 2) PO Q24H  #180 Tablet(s)
+
+      Diclofenac Sodium    50   PO BID  #60 Tablet(s)
+
+      ERGOCALCIFEROL   50000 UNITS (50000 UNIT CAPSULE take 1) PO as directed , once per month  #1 Capsule(s)
+
+      Fosamax (ALENDRONATE)   70 MG (70MG TABLET take 1) PO QWEEK  #4 Tablet(s)
+
+      Lantus (INSULIN Glargine)   15 UNITS (100 U/ML VIAL  ML) SC QHS , dc previous insulin #10 ML(s)
+
+      METFORMIN   1000 MG (1000MG TABLET take 1) PO BID x 30 days #60 Tablet(s)
+
+      OMEPRAZOLE   40 MG (20MG CAPSULE DR take 2) PO QD  #60 Capsule(s)
+
+      PREDNISONE   3 MG (1MG TABLET take 3) PO QD  #90 Tablet(s)
+
+      SIMVASTATIN   40 MG (40MG TABLET take 1) PO QHS  #100 Tablet(s)
+
+      TRAMADOL   50 MG (50MG TABLET take 1) PO Q6H  #90 Tablet(s)
+
+      Zeasorb (TALC Powder)   1 APPLICATION TOP TID , to affected area #70 gram(s)
+
+
+
+Vital Signs
+
+      BLOOD PRESSURE   154/71 
+
+      PULSE   66 
+
+      WEIGHT   175 lb
+
+
+
+Physical Exam
+
+
+
+Gen: Well appearing in NAD, WD, WN
+
+
+
+
+
+Impression
+
+DM- having problems with glucometer, but based on sisters measurements not too bad. ha1c has come down 0.7%.  Hopefully with better medical management will continue to drop.  Continues to have difficulty with medications. 
+
+ 
+
+adrenal insufficiency- now off prednisone after gradual taper. 
+
+ 
+
+lipids- back on statin, will check when due.
+
+ 
+
+htn- high again today.  will plan to taper atenolol, as recent data show limits as treatment of hypertension, and add hctz/lisinopril, both are first line agents for htn. see back in two weeks.
+
+ 
+
+back pain- pt appt next week
+
+
+
+______________________________
+
+Lonnie Leroy George Zuniga, M.D.
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2097-07-30" TYPE="DATE" comment="" />
+<NAME id="P1" start="97" end="106" text="FAY,BROOK" TYPE="PATIENT" comment="" />
+<ID id="P2" start="110" end="118" text="11289501" TYPE="MEDICALRECORD" comment="" />
+<LOCATION id="P3" start="119" end="122" text="CCH" TYPE="HOSPITAL" comment="" />
+<DATE id="P4" start="201" end="211" text="07/30/2097" TYPE="DATE" comment="" />
+<NAME id="P5" start="240" end="243" text="Fay" TYPE="PATIENT" comment="" />
+<AGE id="P6" start="249" end="251" text="70" TYPE="AGE" comment="" />
+<NAME id="P7" start="4029" end="4055" text="Lonnie Leroy George Zuniga" TYPE="DOCTOR" comment="" />
+</TAGS>
+</deIdi2b2>

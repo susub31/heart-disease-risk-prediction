@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2097-11-06
+
+
+
+History of Present Illness
+
+Asked by Dr. Ehlers to consult on glycemic management for Mr. Ulysses Ehlers who has no history of DM but was noted to be hyperglycemic postop. Mr. Ehlers is POD 1, s/p C4. His family history is positive for diabetes (mother diagnosed in her 80s).  He has required a regular insulin gtt protocol intermittently postop. He is now on a full liquid diet.
+
+
+
+Max BG: 197
+
+Current BG: 145
+
+Insulin gtt off at present
+
+ 
+
+Mr. Ehlers is a 69 yo M h/o CAD s/p MI 2084 (posterolateral), HTN, hyperlipidemia, a-fib, AAA, PVD, smoking (50 pk yr) who presents for CABG. Initially presented to Bonner General Hospital 9/97 for w/u of exertional chest pain. Cardiac cath was unsuccessful via femoral approach due to presumed aortoiliac occlusion. Subsequent cath 10/18/97 revealed left main stenosis with distal occlusion, RCA proximal occlusion and diffuse LAD stenosis. Pt was transferred to BHCC on 10/19 for further evaluation by the cardiology service. On 10/21 he underwent echo which revealed EF 55% with mild AS. On 10/22, cardiac cath revealed 3 V disease. Cardiac surgery was consulted and recommended CABG after medical optimization. His anginal symptoms remained stable and he was subsequently discharged home on 10/23. He now returns for surgical revascularization. Since his discharge on 10/23, he has not experienced any new or worsening chest pain or SOB. Denies orthopnea, PND. 
+
+ 
+
+Preoperative Cardiac Status: Myocardial infarction 2084, requiring hospitalization. Myocardial infarction 2084, requiring hospitalization. The patient has a history of class I angina (no limitation of ordinary physical activity). There has been no recent angina. The patient does not have symptomatic heart failure. The patient is in normal sinus rhythm. The patient has a history of AF/flutter 
+
+ 
+
+Previous Cardiovascular Interventions: None. 
+
+ 
+
+Past Medical History: Hypertension. Peripheral vascular disease 3.6cm abdominal aortic aneurysm . Dyslipidemia. CAD Atrial fibrillation BPH Chronic back pain PVD Bicuspid aortic valve, mild AS/AI /Creatinine Clearance (estimate): 77.31 cc/min
+
+ 
+
+Past Surgical History: s/p R inguinal hernia repair 
+
+ 
+
+Family History: Coronary artery disease. Father died of CAD at age 88 
+
+ 
+
+Social History: History of tobacco use. 50 pack year cigarette smoking history. Used within the last year. History of alcohol use. 1/month. The patient is a Cardiology Technologist. 
+
+ 
+
+Allergies: Flecanide - unknown 
+
+ 
+
+Medications: lopressor 50 po bid/ ramipril 10 po daily/ aspirin 325 po daily/ atorvastatin 80 po daily/ ezetimbe 10 po daily/ 
+
+
+
+
+
+Physical Exam
+
+100.3-107-18   99% on 4L   155/65
+
+Neuro: A&O x3
+
+Edema: +BLE edema
+
+
+
+Lab Tests
+
+A1c 6.6
+
+Cr 1.2
+
+WBC 10.5
+
+
+
+Assessment and Plan
+
+Hyperglycemia uncontrolled in the setting of surgery/stress/inactivity with no history of DM and c/w impaired glucose tolerance. Regardless of etiology this pt will benefit from tight glycemic control. 
+
+
+
+Suggest:
+
+1. Nutrition consult for carbohydrate consistent diet when eating.
+
+2. Insulin gtt protocol until POD #3 or eating AND POD 2 then can trial 
+
+    Novolog SS as below.  Restart insulin gtt protocol for BG>150.
+
+3. Novolog SS ac
+
+    Give when meal in front of pt.
+
+4.  We will follow.
+
+
+
+Thank you, please call with any questions, Diabetes Center beeper # 51158.
+
+
+
+  
+
+
+
+______________________________
+
+Joyce R. Barton,N.P.
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2097-11-06" TYPE="DATE" comment="" />
+<NAME id="P1" start="71" end="77" text="Ehlers" TYPE="DOCTOR" comment="" />
+<NAME id="P2" start="120" end="134" text="Ulysses Ehlers" TYPE="PATIENT" comment="" />
+<NAME id="P3" start="206" end="212" text="Ehlers" TYPE="PATIENT" comment="" />
+<AGE id="P4" start="300" end="303" text="80s" TYPE="AGE" comment="" />
+<NAME id="P5" start="478" end="484" text="Ehlers" TYPE="PATIENT" comment="" />
+<AGE id="P6" start="490" end="492" text="69" TYPE="AGE" comment="" />
+<DATE id="P7" start="513" end="517" text="2084" TYPE="DATE" comment="" />
+<LOCATION id="P8" start="639" end="662" text="Bonner General Hospital" TYPE="HOSPITAL" comment="" />
+<DATE id="P9" start="663" end="667" text="9/97" TYPE="DATE" comment="" />
+<DATE id="P10" start="807" end="815" text="10/18/97" TYPE="DATE" comment="" />
+<LOCATION id="P11" start="938" end="942" text="BHCC" TYPE="HOSPITAL" comment="" />
+<DATE id="P12" start="946" end="951" text="10/19" TYPE="DATE" comment="" />
+<DATE id="P13" start="1005" end="1010" text="10/21" TYPE="DATE" comment="" />
+<DATE id="P14" start="1068" end="1073" text="10/22" TYPE="DATE" comment="" />
+<DATE id="P15" start="1269" end="1274" text="10/23" TYPE="DATE" comment="" />
+<DATE id="P16" start="1346" end="1351" text="10/23" TYPE="DATE" comment="" />
+<DATE id="P17" start="1495" end="1499" text="2084" TYPE="DATE" comment="" />
+<DATE id="P18" start="1550" end="1554" text="2084" TYPE="DATE" comment="" />
+<AGE id="P19" start="2265" end="2267" text="88" TYPE="AGE" comment="" />
+<PROFESSION id="P20" start="2430" end="2453" text="Cardiology Technologist" TYPE="PROFESSION" comment="" />
+<CONTACT id="P22" start="3346" end="3351" text="51158" TYPE="PHONE" comment="" />
+<NAME id="P23" start="3394" end="3409" text="Joyce R. Barton" TYPE="DOCTOR" comment="" />
+</TAGS>
+</deIdi2b2>

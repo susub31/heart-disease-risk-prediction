@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2100-10-21
+
+Johnson County Home
+
+Emergency Department Record
+
+
+
+Patient: YEO, AUSTIN             MRN: 8652895        DOB:  5/17/2060     Sex: M
+
+Registration Date/Time: 10/21/2100 9:15:00 AM            Provider: ELLEN HUNTER
+
+
+
+
+
+PMHx
+
+cad?
+
+etoh abuse
+
+Meds
+
+patient unable to recall
+
+Allergy
+
+nkda
+
+Social Hx
+
+homeless
+
+history of etOH abuse
+
+
+
+ED Attending Physician Note
+
+HPI
+
+Patient was admitted to the observation unit at JCH overnight because of his complaints of chest pain.  Plan had been to cycle enzymes and provocative testing, however, this am patient adamantly refused to stay in hospital and understanding leaving included incomplete evaluation of chest pain and risk of death, patient signed out AMA.
+
+
+
+I left the obseration unit to walk downstairs and find patient signing into the ER "I want to go to detox"
+
+Asked patient why he left OU to just come back to the hospital and he said "There is nothing wrong with my heart".
+
+
+
+Patient also reports he thought he had a place to stay but after making a few phone calls, realized he had nowhere to go to spend the night.
+
+
+
+No new complaints including no chest pain or shortness of breath
+
+ROS
+
+see above
+
+Vitals
+
+See Nursing Notes
+
+PE
+
+awake alert
+
+EOMI PERRL
+
+supple
+
+cTA
+
+RRR
+
+soft NT
+
+no edema +pulses
+
+no rashes
+
+ambulatory
+
+Medical Decision Making ED Course
+
+social services contacted and they began screening for detox.
+
+however, before screening process could be finished patient left the ED and has not returned.
+
+Condition on Discharge
+
+stable
+
+Diagnoses
+
+detox evaluation and screening
+
+
+
+This note has been electronically signed by ELLEN HUNTER, MD 10/24/2100 12:31:23 PM
+
+
+
+Clinical staff documenting in the ED note include:
+
+
+
+Attending/Nurse Practitioners(s)
+
+
+
+ELLEN HUNTER, MD
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2100-10-21" TYPE="DATE" comment="" />
+<LOCATION id="P1" start="28" end="47" text="Johnson County Home" TYPE="HOSPITAL" comment="" />
+<NAME id="P2" start="89" end="100" text="YEO, AUSTIN" TYPE="PATIENT" comment="" />
+<ID id="P3" start="118" end="125" text="8652895" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P4" start="139" end="148" text="5/17/2060" TYPE="DATE" comment="" />
+<DATE id="P5" start="185" end="195" text="10/21/2100" TYPE="DATE" comment="" />
+<NAME id="P6" start="228" end="240" text="ELLEN HUNTER" TYPE="DOCTOR" comment="" />
+<LOCATION id="P7" start="445" end="448" text="JCH" TYPE="HOSPITAL" comment="" />
+<NAME id="P10" start="1627" end="1639" text="ELLEN HUNTER" TYPE="DOCTOR" comment="" />
+<DATE id="P11" start="1644" end="1654" text="10/24/2100" TYPE="DATE" comment="" />
+<NAME id="P12" start="1760" end="1772" text="ELLEN HUNTER" TYPE="DOCTOR" comment="" />
+</TAGS>
+</deIdi2b2>

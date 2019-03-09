@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2061-10-12
+
+
+
+
+
+Joanne Elyssia Pagan, M.D.
+
+LEPROSARIUM
+
+509 Ferncroft Drive
+
+Union City, CT 33636
+
+
+
+Dear Dr. Pagan:
+
+
+
+Your patient Lauren Ferrara came into the office today for a follow-up visit.  As you know, she has a long and complex history of peripheral vascular disease with bilateral lower extremity bypass grafts.  Her left lower extremity bypass graft had occluded once previously, but was successfully restored by Dr. Tejeda.  In 02/61, we had detected a high-grade stenosis in the distal aspect of this graft by surveillance, and she underwent revision with a local patch angioplasty.  A subsequent ultrasound study done in 04/61 showed a widely patent graft and she has remained entirely asymptomatic.  She is not particularly active.  She denies any rest pain in the feet or significant claudication symptoms.  Recently, however, her husband had noticed some cyanosis of her left toes.  She remains on low dose aspirin in addition to Lipitor and her other medications.  She is a nonsmoker.
+
+
+
+On examination today, she appeared well and in good spirits.  Blood pressure was measured at 130/60 in the right arm.  Lower extremity pulses are 2+ at the femoral level bilaterally.  On the right, there is a strong, easily appreciated pulse over her popliteal to dorsalis pedis bypass graft, and the foot is warm and well perfused.  On the left, I could not appreciate a pulse over her bypass graft incisions.  The left foot is slightly cooler than the right, and there are some mild cyanotic changes on the first toe in particular.  There are no frank or impending ulcerations or areas of irreversible ischemia.  There is a strong Doppler signal obtained over the posterior tibial artery at the ankle with an occlusion pressure of approximately 100 mmHg.  This yields an ankle index of nearly 0.7 and maybe falsely elevated.  A follow-up ultrasound study was performed in the vascular laboratory today.  The right lower extremity bypass remains widely patent.  As suspected, the left lower extremity bypass has now demonstrated to be occluded.
+
+
+
+Ms. Ferrara left lower extremity bypass graft has occluded sometime during the last several months and her collateralization is clearly more marginal.  At the present time, she does not have any clear-cut symptoms of critical limb ischemia, though the slight discoloration of her toes is a clear sign.  The previous history of this graft including a prior thrombosis requiring thrombectomy and multiple revisions would not board well for any attempted thrombolysis or repeated rescue of this particular conduit.  Conversely, she has already had all of her lower extremity veins used for bypass operations and any redo bypass would be technically complicated.  I will need to review her previous angiograms from earlier this year to determine the status of her runoff and what the alternatives might be.  At the present time, however, she appears to have marginal, though reasonable collateralization and is essentially asymptomatic.  I think it would be reasonable to increase her antithrombotic therapy and I added a daily dose of Plavix to supplement a baby aspirin.  I spent sometime discussing the signs of worsening ischemia including more diffuse cyanotic skin changes of the toes, rest pain, or ulceration.  At a minimum, I will see her back in two months for reexamination, but I strongly encouraged the patient and her husband to contact us soon if there are any symptoms that suggest worsening of her circulation.  If her collateralization can remain stable, it certainly would be preferable to avoid having to consider a complex redo bypass with very limited remaining vein in this patient.
+
+
+
+Thank you again for allowing us to participate in her care.  Please do not hesitate to contact me if I can be of further assistance.
+
+
+
+Sincerely,
+
+
+
+______________________________
+
+Ricardo Jacob Updyke, MD
+
+
+
+
+
+CC: Robin U. Tejeda M.D.
+
+98 Bulova Drive, Room 625
+
+Bethlehem, CT  65189
+
+
+
+
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2061-10-12" TYPE="DATE" comment="" />
+<NAME id="P1" start="32" end="52" text="Joanne Elyssia Pagan" TYPE="DOCTOR" comment="" />
+<LOCATION id="P2" start="60" end="71" text="LEPROSARIUM" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P3" start="73" end="92" text="509 Ferncroft Drive" TYPE="STREET" comment="" />
+<LOCATION id="P4" start="94" end="104" text="Union City" TYPE="CITY" comment="" />
+<LOCATION id="P5" start="106" end="108" text="CT" TYPE="STATE" comment="" />
+<LOCATION id="P6" start="109" end="114" text="33636" TYPE="ZIP" comment="" />
+<NAME id="P7" start="127" end="132" text="Pagan" TYPE="DOCTOR" comment="" />
+<NAME id="P8" start="150" end="164" text="Lauren Ferrara" TYPE="PATIENT" comment="" />
+<NAME id="P9" start="447" end="453" text="Tejeda" TYPE="DOCTOR" comment="" />
+<DATE id="P10" start="459" end="464" text="02/61" TYPE="DATE" comment="" />
+<DATE id="P11" start="654" end="659" text="04/61" TYPE="DATE" comment="" />
+<NAME id="P12" start="2078" end="2085" text="Ferrara" TYPE="PATIENT" comment="" />
+<NAME id="P13" start="3861" end="3881" text="Ricardo Jacob Updyke" TYPE="DOCTOR" comment="" />
+<NAME id="P14" start="3895" end="3910" text="Robin U. Tejeda" TYPE="DOCTOR" comment="" />
+<LOCATION id="P15" start="3917" end="3932" text="98 Bulova Drive" TYPE="STREET" comment="" />
+<LOCATION id="P17" start="3944" end="3953" text="Bethlehem" TYPE="CITY" comment="" />
+<LOCATION id="P18" start="3955" end="3957" text="CT" TYPE="STATE" comment="" />
+<LOCATION id="P19" start="3959" end="3964" text="65189" TYPE="ZIP" comment="" />
+</TAGS>
+</deIdi2b2>

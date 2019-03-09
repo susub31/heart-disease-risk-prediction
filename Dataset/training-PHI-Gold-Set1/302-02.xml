@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2083-04-03
+
+
+Beaumont Hospital Physician Group
+090 Crowley Avenue                                    Rhodes, Yajaira
+Rutland, FL 94265                            97627182
+(153) 636-7011                                           04/03/83
+(584) 728-8734
+
+SUBJECTIVE:  The patient returns having been in Maine for
+the winter in the past five months.  Her husband visited
+ever three weeks or so.  She is walking somewhat better with
+less pain but moves very slowly.  She says that for the past
+two weeks she first had some substernal pressure which moved
+down into her abdomen and now instead of having one bowel
+movement every one or two weeks she is having a bowel
+movement three times a week which is formed and not bloody. 
+ She put herself on Pepto-Bismol and is gradually getting
+better.
+
+She has not had any chest pain, tachycardia, palpitations,
+cough or hemoptysis.  She has no visual signs.  She has not
+been seen by the ophthalmologist recently.  Her hearing is
+good.  She has mammograms yearly.  She sees her gynecologist
+on a yearly basis, Dr. Giles, having changed from Dr. Godfrey.
+ She is not sexually active.  
+
+She is not dieting and has not lost any weight.  Her back
+pain is somewhat better.  
+
+MEDICATIONS:  She is on the following medications:  
+1.  Lipitor 20 mg q.d. 
+2.  Glynase 1.5 mg b.i.d. 
+3.  Avandia 4 mg q.a.m. 
+4.  Trandate 100 mg q.d. 
+5.  Tegretol 300 mg in the a.m. and 200 the evening (changed
+to 200 mg b.i.d.).  
+6.  Neurontin 200 mg b.i.d. 
+7.  Premarin 0.625 mg 30 days a month.  
+8.  Provera 5 mg 12 days a month.  
+9.  Enteric coated aspirin 81 mg q.d.
+10. Calcium 1200 mg q.d. 
+
+REVIEW OF SYSTEMS:  Her diabetes has been poorly regulated
+and hopefully the Avandia will make her feel better.  She
+states that she takes the Avandia in the morning and she
+feels very weak at lunchtime such that she has to get an
+orange juice.  She says that her blood sugar has dropped but
+when she checks it, it has been around 100 mg%  and I
+explained to her that it is a normal blood sugar but it may
+be that the drop causes her to have symptoms.
+
+PHYSICAL EXAMINATION: She weighs 192 lbs stripped which is a
+weight gain for her.  Her blood pressure is 122/76 in the
+right arm sitting with a wide cuff.  She appears as a well
+developed, pleasant white female, grossly overweight, moving
+slowly and can only get up on the examining table with help
+because of her back pain.  There is no icterus, cyanosis or
+edema.  The pupils are round, reactive and equal and react
+equally to light and accommodation.  Nose and throat
+examination is unremarkable.  Neck veins are flat.  Carotids
+are 2+ and equal and without bruit.  Lungs are clear to P&A.
+ Breasts reveal no masses or discharge.  The heart is not
+enlarged.  There is a regular sinus rhythm and no
+significant murmurs.  S1 and S2 are of normal intensity. 
+Liver and spleen are not felt.  Bowel sounds are normal. 
+There are no abdominal masses or tenderness.  This is a
+female escutcheon.  Rectal was deferred.  She has fair
+peripheral pulses and decreased vibration sense in her feet.
+
+IMPRESSION:
+1.  Diabetes mellitus, poorly regulated.  Will check
+glycohemoglobin today.  
+2.  Diabetic neuropathy.  
+3.  L2-L3 disk with fusion.  
+4.  Hypercholesterolemia on Lipitor.
+5.  Weight management problem.
+
+
+______________________________
+Brett F. Rutherford, M.D.
+
+
+eScription document:6-015285 DOeScription
+
+DD: 04/03/83
+DT: 04/03/83
+DV: 04/03/83
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2083-04-03" TYPE="DATE" comment="" />
+<LOCATION id="P1" start="29" end="46" text="Beaumont Hospital" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P2" start="63" end="81" text="090 Crowley Avenue" TYPE="STREET" comment="" />
+<NAME id="P3" start="117" end="132" text="Rhodes, Yajaira" TYPE="PATIENT" comment="" />
+<LOCATION id="P4" start="133" end="140" text="Rutland" TYPE="CITY" comment="" />
+<LOCATION id="P5" start="142" end="144" text="FL" TYPE="STATE" comment="" />
+<LOCATION id="P6" start="145" end="150" text="94265" TYPE="ZIP" comment="" />
+<ID id="P7" start="178" end="186" text="97627182" TYPE="MEDICALRECORD" comment="" />
+<CONTACT id="P8" start="187" end="201" text="(153) 636-7011" TYPE="PHONE" comment="" />
+<DATE id="P9" start="244" end="252" text="04/03/83" TYPE="DATE" comment="" />
+<CONTACT id="P10" start="253" end="267" text="(584) 728-8734" TYPE="PHONE" comment="" />
+<LOCATION id="P11" start="317" end="322" text="Maine" TYPE="STATE" comment="" />
+<NAME id="P12" start="1069" end="1074" text="Giles" TYPE="DOCTOR" comment="" />
+<NAME id="P13" start="1100" end="1107" text="Godfrey" TYPE="DOCTOR" comment="" />
+<NAME id="P14" start="3326" end="3345" text="Brett F. Rutherford" TYPE="DOCTOR" comment="" />
+<ID id="P15" start="3374" end="3382" text="6-015285" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P16" start="3401" end="3409" text="04/03/83" TYPE="DATE" comment="" />
+<DATE id="P17" start="3414" end="3422" text="04/03/83" TYPE="DATE" comment="" />
+<DATE id="P18" start="3427" end="3435" text="04/03/83" TYPE="DATE" comment="" />
+</TAGS>
+</deIdi2b2>

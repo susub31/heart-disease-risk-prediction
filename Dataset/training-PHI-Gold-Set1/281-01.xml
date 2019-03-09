@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2157-08-27
+
+History of Present Illness	
+
+ID:Admitted from cardiac cath lab. 
+
+
+
+HPI:Mr. Doty is a  80 y.o. male with h/o HTN, DM, PVD, elevated cholesterol who presents with 6 month h/o chest and upper extremity discomfort on exertion along with SOB. He has limited his activities to prevent symptoms. He also has had a few episodes at rest in bed. 
+
+
+
+Stress test at BII showed inferoposterior ischemia at low workload---3:18 minutes HR 101 (72%) and b/p 220/80. LV EF 48%. He presents today for cardiac cath. 
+
+
+
+Full cath report not available but d/w Dr. Diamond states no intervention needed. Case complicated by back discomfort and urge to void-- Foley insertion requiring Coude. He will stay overnight and receive Abx. prophylaxis. He is pain free currently. 
+
+Son with patient. 
+
+
+
+CRF:    +  HTN        +  DM         +Chol        + FH         
+
+Tob: none over 45 years 
+
+
+
+Past Medical History	
+
+DM 
+
+HTN
+
+High cholesterol
+
+PVD- L SFA disease, + claudication at 1/4 mile. 
+
+CNIS- no significant obstruction, plague. 
+
+
+
+Past Surgical History	
+
+Denies
+
+
+
+Medications	
+
+At home:
+
+
+
+Atenolol 100 qd
+
+Lipitor 5 qd
+
+Avandia 4 qd
+
+Lisinopril 40 qd
+
+Omeprazole 20 qd
+
+Metformin 500 qid
+
+Imdur 60 qd
+
+Vit E, C, B12
+
+ASA 325 x 2 weeks
+
+
+
+Allergies	
+
+NKDA
+
+
+
+Social History	
+
+Lives alone in St. Michael. Cooks for self. Family supportive
+
+Retired-had catering business- 2 sons running now. Helps out occasionally.
+
+Wife deceased from cancer 
+
+
+
+Habits	
+
+ETOH: one drink weekly          Caffeine:  1 cup qd        
+
+Diet:  cooks well balanced meals daily             
+
+Exercise: golf daily
+
+
+
+Family History	
+
+n/a
+
+
+
+Review of Systems	
+
+Negatvie in detail except as above
+
+
+
+Physical Exam	  
+
+SR: 79          BP:   176/80        
+
+Ht: 5'8"             Wt:165#
+
+General Appearance	
+
+Lying in bed, NAD, conversing appropriately with staff. Good historian. 
+
+Neurological	
+
+CN II- XII intact, speech clear
+
+Neck	
+
+Supple, no JVP, 2+ carotid pulse with bruits.
+
+Cor/Cardiac	
+
+RRR S1, S2 2/6 murmur
+
+Chest	
+
+
+
+Clear anteriorly b/l
+
+Abdomen	
+
++ bowel sounds x 4, abd. soft NT/ND, no guarding/masses/HSM
+
+Extremity	
+
+Femoral: Right no hematoma, + bruit.
+
+Left: + brout
+
+DP: trace left, 1+ right, no edema. 
+
+
+
+External Labs	
+
+Lab
+
+EKG:
+
+
+
+Plan	
+
+80 y.o. male with c/o angina, + stress test s/p cath with no intervention needed. + PVD with claudication. 
+
+
+
+CV: Continue home medications. Speak with Dr. Diamond regarding ASA- he has only taken x 2 weeks. 
+
+
+
+PV: to return in a few weeks for PV intervention. 
+
+
+
+Endo: Hold glucophage. Start avandia  in am. Follow bid finger sticks and use sliding scale insulin prn. 
+
+
+
+Further plans per Dr. Diamond. 
+
+
+
+
+
+
+
+Adriana Buckley, NP
+
+b. 69162
+
+
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2157-08-27" TYPE="DATE" comment="" />
+<NAME id="P1" start="104" end="108" text="Doty" TYPE="PATIENT" comment="" />
+<AGE id="P2" start="115" end="117" text="80" TYPE="AGE" comment="" />
+<LOCATION id="P3" start="384" end="387" text="BII" TYPE="HOSPITAL" comment="" />
+<NAME id="P4" start="574" end="581" text="Diamond" TYPE="DOCTOR" comment="" />
+<LOCATION id="P5" start="1305" end="1316" text="St. Michael" TYPE="CITY" comment="" />
+<LOCATION id="P6" start="1365" end="1382" text="catering business" TYPE="ORGANIZATION" comment="" />
+<AGE id="P7" start="2252" end="2254" text="80" TYPE="AGE" comment="" />
+<NAME id="P8" start="2409" end="2416" text="Diamond" TYPE="DOCTOR" comment="" />
+<NAME id="P9" start="2650" end="2657" text="Diamond" TYPE="DOCTOR" comment="" />
+<NAME id="P10" start="2667" end="2682" text="Adriana Buckley" TYPE="DOCTOR" comment="" />
+<CONTACT id="P11" start="2691" end="2696" text="69162" TYPE="PHONE" comment="" />
+</TAGS>
+</deIdi2b2>

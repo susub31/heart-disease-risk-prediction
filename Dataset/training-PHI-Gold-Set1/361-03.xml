@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2066-05-09
+
+
+EDUCARE-FARGO INPATIENT DIALYSIS ADMIT NOTE
+
+
+
+Admitting Service: Renal
+Admitting/Referring MD: Oliver Napier 
+Outpatient Dialysis Unit: CMHuck FAT
+Estimated dry weight: 110 kg ?
+Dialysis access:  LAVG
+ 
+Reason for admission:N/V/D
+ 
+HPI: 45 yo M with ESRD on HD, diabetes, bilateral TMA, legally blind, admitted for N/V/D x 1 day prior to admission.  The patient reports having beef burgers that may have been the cause of his GI upset.  All sx resolved after being NPO w/ so IVF overnight, no more diarrhea.  Denies F/C/SOB/CP, had occ abd pain which resolved. Starting to advance his diet slowly this am.  Last dialysis was on Friday.
+
+
+Past Medical History: 
+ESRD on HD x 2yrs
+Type 1 DM since age 25 - +legally blind, PVD, nephropathy
+bilateral TMA
+
+
+Vascular access history: L AVG, tunneled catheter before that
+ 
+Allergies: NKDA
+Medications: (per report, can not confirm w/ pt as he does not know them) Celexa 40mg daily, Zelnorm 6mg bid, ASA 81mg daily, Lipitor 20mg qhs, Phoslo 1334mg qac, Gemfibrozil 300mg bid, Insulin, Lisinopril 40mg daily, Reglan, Toprol XL 50mg daily, Nephrocaps, Omeprazole 20mg daily, Senna, Renagel 1600mg qac, Sensipar 30mg daily
+
+
+
+
+Social History:  neg tob, neg EtOH, lives w/ elderly diabetic mother, poor social supports
+ 
+Family History: Mother also with diabetes/debilitated 
+
+
+PHYSICAL EXAM
+
+Weight: 113 kg
+Temp: 96.8
+BP: 200/90
+HR: 95
+ 
+Gen: Pleasant male in NAD
+HEENT: O&amp;P clear and moist
+Neck: supple, no LAD, JVP 10cm
+Lungs: CTA b/l
+Cor: regular, s1s2, no m/r/g
+Abd: soft, NTND, no HSM
+Ext: no edema in LE b/l, bilateral TMAs.
+Vascular access: site clean and without inflammation, systolic and diastolic bruit present
+ 
+
+LABS:
+
+
+pending this am
+
+
+ASSESSMENT AND PLAN:
+
+45 yo M with ESRD from DM, now admitted for GI upset, resolved.
+
+
+1. Reason for admission: N/V/D, resolved, the pt is now hungry and wants to advance his diet, so this illness truly seems to be self-limited, would advance diet slowly, diabetic renal diet please.
+
+
+
+2. Dialysis Adequacy: tbd
+
+
+3. BP: Suspect that this is a combination of held medication this am (and poor complainace? he does not know his meds) and volume overload.  UF 3-4L at HD today.
+
+
+4. Anemia management: Hgb below goal, on epogen.
+
+
+5. Mineral metabolism (Ca/Phos/PTH): continuing zemplar, phos binders, check phos today.
+
+
+6. Nutrition: On nephrocaps, needs low K/phos diabetic diet.
+
+
+7. Vascular access: AVG functioning well.
+ 
+8. Dialysis prescription: 4.5 h, F200, 400/800, 2K, 2.5Ca, 5L UF, 5000Units heparin.
+ 
+ 
+Dr. Napier to staff shortly.
+ 
+ 
+ 
+ 
+
+
+------------------------
+Olivia France, M.D.
+Renal fellow
+pager 69637
+
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2066-05-09" TYPE="DATE" comment="" />
+<LOCATION id="P1" start="29" end="42" text="EDUCARE-FARGO" TYPE="HOSPITAL" comment="" />
+<NAME id="P2" start="125" end="138" text="Oliver Napier" TYPE="DOCTOR" comment="" />
+<LOCATION id="P3" start="166" end="169" text="CMH" TYPE="HOSPITAL" comment="" />
+<DATE id="P4" start="173" end="174" text="F" TYPE="DATE" comment="" />
+<DATE id="P5" start="174" end="175" text="A" TYPE="DATE" comment="" />
+<DATE id="P6" start="175" end="176" text="T" TYPE="DATE" comment="" />
+<AGE id="P7" start="267" end="269" text="45" TYPE="AGE" comment="" />
+<DATE id="P8" start="658" end="664" text="Friday" TYPE="DATE" comment="" />
+<AGE id="P9" start="729" end="731" text="25" TYPE="AGE" comment="" />
+<AGE id="P10" start="1747" end="1749" text="45" TYPE="AGE" comment="" />
+<NAME id="P11" start="2547" end="2553" text="Napier" TYPE="DOCTOR" comment="" />
+<NAME id="P12" start="2607" end="2620" text="Olivia France" TYPE="DOCTOR" comment="" />
+<CONTACT id="P13" start="2646" end="2651" text="69637" TYPE="PHONE" comment="" />
+</TAGS>
+</deIdi2b2>

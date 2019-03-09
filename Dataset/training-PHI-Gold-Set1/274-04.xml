@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2079-09-14
+
+                     PINELLAS EMERGENCY DEPT VISIT
+
+ 
+
+ICKES,WILLIAM JR   810-71-62-8                   VISIT DATE: 09/14/79
+
+This patient was seen by myself and Dr. Caldwell on 9/14/79.  I 
+
+confirm that I interviewed and examined the patient, reviewed the 
+
+resident's documentation, and discussed the plan of care with the 
+
+patient.  
+
+PRESENTING COMPLAINT:  Chest pain.
+
+HISTORY OF PRESENTING COMPLAINT:  The patient is a 72 year old 
+
+gentleman who comes in with episode of chest pain described as 
+
+dull, substernal, 2-10.  He says that it comes and goes, but lasts 
+
+for 20 minutes at a time.  He states that it began this morning at 
+
+approximately 7 a.m.  There were no associated symptoms.  He states 
+
+that they are similar to his pain when he had a myocardial 
+
+infarction.  He denies any fevers, chills, or sweats.  He has had 
+
+some unchanged dyspnea on exertion.  He has no nausea, vomiting, or 
+
+diarrhea, he has had no palpitations, and he has had no lower 
+
+extremity edema.  He was referred by his primary care physician to 
+
+the emergency department.
+
+REVIEW OF SYSTEMS:  As noted on the HPI, otherwise negative.
+
+PAST MEDICAL HISTORY:  Hypertension, diabetes, coronary artery 
+
+disease, status post myocardial infarction with stents, and hernia 
+
+repairs.  
+
+MEDICATIONS:  Atenolol, Cozaar, insulin, aspirin, and Zocor.  
+
+ALLERGIES:  He has no known drug allergies.  
+
+SOCIAL HISTORY AND FAMILY HISTORY:  He is a past smoker and 
+
+occasional drinker.  He denies drug use.  He lives with his wife.  
+
+PHYSICAL EXAMINATION:  GENERAL:  He is in no acute distress and is 
+
+painfree.  VITAL SIGNS:  Temperature is 98, pulse 58, respiratory 
+
+rate 20, and blood pressure 138/83.  Oxygen saturation is 99%.  
+
+HEENT:  Unremarkable.  NECK:  Supple.  CHEST:  Clear to 
+
+auscultation.  HEART:  Regular rate and rhythm.  ABDOMEN:  Soft and 
+
+nontender.  EXTREMITIES:  Without edema.  He's got equal pulses.  
+
+NEUROLOGIC:  Grossly nonfocal.
+
+LABORATORY EVALUATION:  EKG shows sinus rhythm and nonspecific ST-T 
+
+wave changes without significant changes compared to 5/26/78.  His 
+
+CBC is normal.  SMA-7 is pending.  His INR is 1.0.  His urinalysis 
+
+is negative.  Chest x-ray shows no infiltrate, effusion, or 
+
+congestive heart failure.  
+
+THERAPY RENDERED/COURSE IN ED:  The patient got one Nitroglycerin 
+
+which took his pain away.  He also received aspirin and has 
+
+remained painfree.  
+
+FINAL DIAGNOSIS:  This is a patient with chest pain, history of 
+
+coronary artery disease, and question of acute coronary syndrome.
+
+DISPOSITION (including condition upon discharge):  He is currently 
+
+symptom-free and will be admitted in stable condition for further 
+
+evaluation and rule out for myocardial infarction.  
+
+___________________________________                    DY785/97413 
+
+JERICO WILLS, M.D.  JW97                             D:09/14/79 
+
+                                                       T:09/14/79 
+
+Dictated by:  JERICO WILLS, M.D.  JW97 
+
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2079-09-14" TYPE="DATE" comment="" />
+<LOCATION id="P1" start="49" end="57" text="PINELLAS" TYPE="HOSPITAL" comment="" />
+<NAME id="P2" start="83" end="99" text="ICKES,WILLIAM JR" TYPE="PATIENT" comment="" />
+<ID id="P3" start="102" end="113" text="810-71-62-8" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P4" start="144" end="152" text="09/14/79" TYPE="DATE" comment="" />
+<NAME id="P5" start="194" end="202" text="Caldwell" TYPE="DOCTOR" comment="" />
+<DATE id="P6" start="206" end="213" text="9/14/79" TYPE="DATE" comment="" />
+<AGE id="P7" start="455" end="457" text="72" TYPE="AGE" comment="" />
+<DATE id="P8" start="2105" end="2112" text="5/26/78" TYPE="DATE" comment="" />
+<ID id="P9" start="2812" end="2823" text="DY785/97413" TYPE="IDNUM" comment="" />
+<NAME id="P10" start="2826" end="2838" text="JERICO WILLS" TYPE="DOCTOR" comment="" />
+<NAME id="P11" start="2846" end="2850" text="JW97" TYPE="USERNAME" comment="" />
+<DATE id="P12" start="2881" end="2889" text="09/14/79" TYPE="DATE" comment="" />
+<DATE id="P13" start="2949" end="2957" text="09/14/79" TYPE="DATE" comment="" />
+<NAME id="P14" start="2974" end="2986" text="JERICO WILLS" TYPE="DOCTOR" comment="" />
+<NAME id="P15" start="2994" end="2998" text="JW97" TYPE="USERNAME" comment="" />
+</TAGS>
+</deIdi2b2>

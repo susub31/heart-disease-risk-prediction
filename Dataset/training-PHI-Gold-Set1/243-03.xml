@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2080-06-14
+
+
+
+
+
+
+
+Johnsonville Family Clinic
+
+5388 Main Street              OSBORNE, MATTISON
+
+Oroville, AL  89389                    48423663
+
+(468) 429-7459                     06/14/2080
+
+
+
+
+
+HISTORY OF PRESENT ILLNESS:  The patient is a 71-year-old male who returns to the clinic for a followup visit.  The patient has a history of diabetes mellitus and hypertension.  He also had an episode of bronchitis about 2 months ago, which was treated with antibiotics.  The patient feels improved today
+
+
+
+PHYSICAL EXAMINATION:  An elderly male in no acute distress.  Blood pressure is 142/90 and pulse is 64.  Chest is clear bilaterally.  Heart:  Regular rate and rhythm.  Positive S1 and S2.  Negative S3 and S4.  No murmur.  Abdomen is soft, nontender, positive bowel sounds.  Lower extremities, no edema, nontender.
+
+
+
+IMPRESSION AND PLAN:
+
+1.  Diabetes mellitus.  The patient reports blood sugars which have ranged from 106-158 and reports overall good control of his diabetes mellitus.  We will continue current treatment, especially in view of the fact that his most recent hemoglobin A1c in February was 6.1 and repeat hemoglobin A1c when he returns for his next visit.
+
+2.  Hypertension.  The patient's atenolol was recently decreased from 50 mg to 25 mg because of bradycardia and lisinopril was increased to 60 mg because of microalbuminuria.  The patient's heart rate is appropriate at 64 even though his blood pressure remains borderline elevated.  We will check a microalbumin today.
+
+4.  Recent TSH was mildly suppressed and we will repeat this today.
+
+5.  Regular healthcare maintenance.  A CT of the patient's chest will be repeated when he returns for his next visit as recommended by radiology.
+
+
+
+
+
+______________________________
+
+Willie Knapp, MD
+
+
+
+
+
+
+
+
+
+
+
+eScription document:9-3577639 HFFocus transcriptionists
+
+
+
+
+
+
+
+DD: 06/17/80
+
+DT: 06/17/80
+
+DV: 06/14/80
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2080-06-14" TYPE="DATE" comment="" />
+<LOCATION id="P1" start="34" end="60" text="Johnsonville Family Clinic" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P2" start="62" end="78" text="5388 Main Street" TYPE="STREET" comment="" />
+<NAME id="P3" start="92" end="109" text="OSBORNE, MATTISON" TYPE="PATIENT" comment="" />
+<LOCATION id="P4" start="111" end="119" text="Oroville" TYPE="CITY" comment="" />
+<LOCATION id="P5" start="121" end="123" text="AL" TYPE="STATE" comment="" />
+<LOCATION id="P6" start="125" end="130" text="89389" TYPE="ZIP" comment="" />
+<ID id="P7" start="150" end="158" text="48423663" TYPE="MEDICALRECORD" comment="" />
+<CONTACT id="P8" start="160" end="174" text="(468) 429-7459" TYPE="PHONE" comment="" />
+<DATE id="P9" start="195" end="205" text="06/14/2080" TYPE="DATE" comment="" />
+<AGE id="P10" start="257" end="259" text="71" TYPE="AGE" comment="" />
+<DATE id="P11" start="1112" end="1120" text="February" TYPE="DATE" comment="" />
+<NAME id="P12" start="1764" end="1776" text="Willie Knapp" TYPE="DOCTOR" comment="" />
+<ID id="P13" start="1812" end="1821" text="9-3577639" TYPE="IDNUM" comment="" />
+<DATE id="P14" start="1859" end="1867" text="06/17/80" TYPE="DATE" comment="" />
+<DATE id="P15" start="1873" end="1881" text="06/17/80" TYPE="DATE" comment="" />
+<DATE id="P16" start="1887" end="1895" text="06/14/80" TYPE="DATE" comment="" />
+</TAGS>
+</deIdi2b2>

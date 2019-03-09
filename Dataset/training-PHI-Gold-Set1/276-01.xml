@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2060-07-25
+
+EDVISIT^32707420^GIPSON, ALEC^07/25/60^YERGER, DESEAN
+
+The patient was seen with Dr. Godfrey.  I confirmed her history
+
+and physical.  I also interviewed and examined the patient. 
+
+Please see the note for more details.
+
+HISTORY OF PRESENT ILLNESS:  This is a 71-year-old gentleman with
+
+a history of hypertension, non-insulin-dependent diabetes, and 2
+
+weeks of intermittent chest pain for which he was evaluated with
+
+stress test a week prior to ED visit, which was abnormal.  The
+
+patient had a plan for cardiac catheterization the day after this
+
+ED visit but presented on this day for an episode of chest
+
+discomfort which occurred at rest, which was unlike his previous
+
+episodes of chest discomfort which usually occurred with
+
+activity.  He took nitroglycerin with relief and then presented
+
+for further evaluation and treatment.
+
+MEDICATIONS:  Metformin, Toprol, Cozaar, nitro, aspirin, and
+
+Altace.
+
+PHYSICAL EXAMINATION:  He is awake and alert, in no distress,
+
+chest pain free.  Afebrile with pulse 72, blood pressure 129/69,
+
+and O2 saturation 98% on room air.  His lungs are clear to
+
+auscultation.  Heart:  Regular rate and rhythm.  Abdomen is soft
+
+and nontender.  Extremities are warm and well perfused.  No
+
+elevated JVP.
+
+EMERGENCY DEPARTMENT COURSE:  An EKG was done revealing right
+
+bundle-branch block, but sinus rhythm at 67 with no ischemic
+
+changes.  IV access was established.  Labs were sent revealing
+
+essentially normal CBC and electrolytes.  Initial troponin was
+
+less than assay with an INR of 1.1 and chest x-ray, which was
+
+normal.  The patient has been taking aspirin prior to arrival. 
+
+Heart rate was in the 60s in the emergency room and no additional
+
+beta-blockade was given to the patient.  However, based on his
+
+story, which was suggestive for unstable angina, he was given
+
+Lovenox in the emergency room.  I spoke to the Cardiology B
+
+attending on call who agreed to take the patient on to his
+
+service for probable cardiac catheterization in the near future. 
+
+With this plan, he was admitted in stable condition with a
+
+diagnosis of unstable angina.
+
+CRITICAL CARE TIME:  50 minutes.
+
+______________________________
+
+YERGER, DESEAN MD
+
+D: 08/01/60
+
+T: 08/01/60
+
+Dictated By: YERGER, DESEAN
+
+eScription document:0-0255081 BFFocus
+
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2060-07-25" TYPE="DATE" comment="" />
+<ID id="P1" start="36" end="44" text="32707420" TYPE="MEDICALRECORD" comment="" />
+<NAME id="P2" start="45" end="57" text="GIPSON, ALEC" TYPE="PATIENT" comment="" />
+<DATE id="P3" start="58" end="66" text="07/25/60" TYPE="DATE" comment="" />
+<NAME id="P4" start="67" end="81" text="YERGER, DESEAN" TYPE="DOCTOR" comment="" />
+<NAME id="P5" start="113" end="120" text="Godfrey" TYPE="DOCTOR" comment="" />
+<AGE id="P6" start="288" end="290" text="71" TYPE="AGE" comment="" />
+<NAME id="P7" start="2189" end="2203" text="YERGER, DESEAN" TYPE="DOCTOR" comment="" />
+<DATE id="P8" start="2211" end="2219" text="08/01/60" TYPE="DATE" comment="" />
+<DATE id="P9" start="2224" end="2232" text="08/01/60" TYPE="DATE" comment="" />
+<NAME id="P10" start="2247" end="2261" text="YERGER, DESEAN" TYPE="DOCTOR" comment="" />
+<ID id="P11" start="2283" end="2292" text="0-0255081" TYPE="IDNUM" comment="" />
+</TAGS>
+</deIdi2b2>

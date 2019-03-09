@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2068-12-01
+
+                     MEDIQUIK EMERGENCY DEPT VISIT
+
+ 
+
+RUTLEDGE,XAVIER W.   539-54-14-3
+
+I was the patient's doctor during this emergency department stay.
+
+PRESENTING COMPLAINT:  Infection in the left foot. 
+
+HISTORY OF PRESENTING COMPLAINT:  The patient is a 59-year-old man 
+
+with multiple medical problems including insulin-requiring diabetes 
+
+who has a chronic, nonhealing ulcer on the plantar surface of his 
+
+left foot.  He now complains of two days of increasing pain and 
+
+redness and systemic malaise.  He denies chest pain, abdominal 
+
+pain, streaking redness up to the thigh, nausea, vomiting, 
+
+diarrhea, and dysuria.  
+
+REVIEW OF SYSTEMS:  Negative except as given above. 
+
+PAST MEDICAL HISTORY:  Hypercholesterolemia, gout, hypertension, 
+
+insulin-requiring diabetes mellitus, chronic renal insufficiency, 
+
+nephrotic syndrome, status post kidney transplant in 2059, on 
+
+cyclosporine, thrombocytopenia, CMV, and hypomagnesemia 
+
+intermittently.  Kidney transplant as noted above.
+
+MEDICATIONS:  Levaquin, cyclosporine, magnesium, Lipitor, Coumadin, 
+
+prednisone, Allopurinol, lisinopril, metoprolol, Lasix, and others 
+
+as noted on the nurses' notes.  
+
+ALLERGIES:  Codeine which caused a rash. 
+
+SOCIAL HISTORY AND FAMILY HISTORY:  Social history noncontributory. 
+
+Family history noncontributory.  
+
+PHYSICAL EXAMINATION:  GENERAL:  Awake, alert, spontaneous and 
+
+appropriate, in no distress.  VITAL SIGNS:  Normal.  HEENT:  There 
+
+was no evidence of head trauma, conjunctivae clear.  NECK:  Supple 
+
+with no lymphadenopathy and no jugulovenous distention.  CHEST:  
+
+Notable for babasilar rales with normal respiratory excursion.  
+
+HEART:  Regular with no murmurs, rubs, or gallops.  ABDOMEN:  Soft, 
+
+nontender, no masses, no organomegaly.  SKIN/EXTREMITIES:  Other 
+
+than the left foot and ankle, the skin and extremities were normal 
+
+with no clubbing, cyanosis, lesions or rashes, although there was 
+
+bilateral 1+ pitting edema in the lower extremities.  The left foot 
+
+had an approximately 1 cm ulcer on the plantar surface and the 
+
+entire left foot and ankle were quite erythematous with increased 
+
+edema relative to the remainder of the lower extremities.  He also 
+
+had tenderness on palpation of the ankle though there was no 
+
+tenderness on passive motion of the toes.  
+
+LABORATORY EVALUATION:  Pending at this time.  The patient is being 
+
+seen by the Surgery Department.  
+
+FINAL DIAGNOSIS:  Infected diabetic foot ulcer.  
+
+DISPOSITION (including condition upon discharge):  The patient will 
+
+be admitted to the Surgery Department for surgical management 
+
+and inpatient medical management.  Condition fair.  
+
+___________________________________                    OO280/953 
+
+QUINTON OSWALD, M.D.   QO05                              D:12/01/68 
+
+                                                       T:12/01/68 
+
+Dictated by:  QUINTON OSWALD, M.D.   QO05 
+
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2068-12-01" TYPE="DATE" comment="" />
+<LOCATION id="P1" start="49" end="57" text="MEDIQUIK" TYPE="HOSPITAL" comment="" />
+<NAME id="P2" start="83" end="100" text="RUTLEDGE,XAVIER W" TYPE="PATIENT" comment="" />
+<ID id="P3" start="104" end="115" text="539-54-14-3" TYPE="MEDICALRECORD" comment="" />
+<AGE id="P4" start="288" end="290" text="59" TYPE="AGE" comment="" />
+<DATE id="P5" start="904" end="908" text="2059" TYPE="DATE" comment="" />
+<ID id="P8" start="2735" end="2744" text="OO280/953" TYPE="IDNUM" comment="" />
+<NAME id="P9" start="2747" end="2761" text="QUINTON OSWALD" TYPE="DOCTOR" comment="" />
+<NAME id="P10" start="2770" end="2774" text="QO05" TYPE="USERNAME" comment="" />
+<DATE id="P11" start="2806" end="2814" text="12/01/68" TYPE="DATE" comment="" />
+<DATE id="P12" start="2874" end="2882" text="12/01/68" TYPE="DATE" comment="" />
+<NAME id="P13" start="2899" end="2913" text="QUINTON OSWALD" TYPE="DOCTOR" comment="" />
+<NAME id="P14" start="2922" end="2926" text="QO05" TYPE="USERNAME" comment="" />
+</TAGS>
+</deIdi2b2>

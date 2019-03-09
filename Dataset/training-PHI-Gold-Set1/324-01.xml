@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2065-04-28
+
+                     MEDIQUIK EMERGENCY DEPT VISIT
+ 
+RUTLEDGE,XAVIER W.   539-54-14-3               VISIT DATE: 04/28/65
+This patient was seen with Dr. Russell, medicine resident.  The 
+chief complaint, history of presenting illness, past medical 
+history, medications, allergies, social history, family history and 
+review of systems are as noted by Dr. Russell on the record, and 
+were reviewed with her and with the patient. 
+PRESENTING COMPLAINT:  Chills, temperature to 104 degrees. 
+HISTORY OF PRESENTING COMPLAINT:  Briefly, this is a 56 year old 
+man status post renal transplant, who was recently admitted to a 
+hospital for rising creatinine.  Tests showed that he had 
+cyclosporine toxicity of his graft and cyclosporine was reduced. 
+He was discharged home yesterday.  This was confirmed by biopsy. 
+He was fine overnight, but then had some chills this morning, and 
+presented to the Emergency Department with a temperature of 104 
+degrees. 
+PHYSICAL EXAMINATION:  Is as noted by Dr. Russell on the record 
+and basically does not identify a source of infection.  The chest 
+is clear to auscultation.  The abdomen is soft with the exception 
+of some tenderness over his graft site.  The wound site was 
+apparently inspected by the admitting team and was not found to 
+show any evidence of infection. 
+LABORATORY EVALUATION:  Laboratory studies are still pending. 
+Cultures were obtained of both blood and urine. 
+FINAL DIAGNOSIS:  Fevers, status post renal transplant. 
+DISPOSITION (including condition upon discharge):  Disposition - 
+admission.  Condition satisfactory.  The primary physician, Dr. 
+Oviedo, was notified. 
+___________________________________                    LX512/443 
+KYLE CONLEY, M.D.    KC70                                D:04/28/65 
+                                                       T:04/28/65 
+Dictated by:  KYLE CONLEY, M.D.    KC70 
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2065-04-28" TYPE="DATE" comment="" />
+<LOCATION id="P1" start="49" end="57" text="MEDIQUIK" TYPE="HOSPITAL" comment="" />
+<NAME id="P2" start="81" end="98" text="RUTLEDGE,XAVIER W" TYPE="PATIENT" comment="" />
+<ID id="P3" start="102" end="113" text="539-54-14-3" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P4" start="140" end="148" text="04/28/65" TYPE="DATE" comment="" />
+<NAME id="P5" start="180" end="187" text="Russell" TYPE="DOCTOR" comment="" />
+<NAME id="P6" start="383" end="390" text="Russell" TYPE="DOCTOR" comment="" />
+<AGE id="P7" start="570" end="572" text="56" TYPE="AGE" comment="" />
+<NAME id="P8" start="1024" end="1031" text="Russell" TYPE="DOCTOR" comment="" />
+<NAME id="P9" start="1640" end="1646" text="Oviedo" TYPE="DOCTOR" comment="" />
+<ID id="P10" start="1718" end="1727" text="LX512/443" TYPE="IDNUM" comment="" />
+<NAME id="P11" start="1729" end="1740" text="KYLE CONLEY" TYPE="DOCTOR" comment="" />
+<NAME id="P12" start="1750" end="1754" text="KC70" TYPE="USERNAME" comment="" />
+<DATE id="P13" start="1788" end="1796" text="04/28/65" TYPE="DATE" comment="" />
+<DATE id="P14" start="1855" end="1863" text="04/28/65" TYPE="DATE" comment="" />
+<NAME id="P15" start="1879" end="1890" text="KYLE CONLEY" TYPE="DOCTOR" comment="" />
+<NAME id="P16" start="1900" end="1904" text="KC70" TYPE="USERNAME" comment="" />
+</TAGS>
+</deIdi2b2>

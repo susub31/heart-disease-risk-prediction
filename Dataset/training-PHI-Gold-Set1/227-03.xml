@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2163-02-25
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+February 25, 2163
+
+
+
+
+
+Barbara Chavez, M.D.
+
+NMC
+
+Internal Medicine
+
+IMA 1
+
+NXO 2-359
+
+
+
+RE:  William Le
+
+MRN:  054-00-99
+
+DOB:  09/03/2089
+
+
+
+DOS:  02/25/2163
+
+
+
+Dear Dr Chavez,
+
+
+
+Mr. William Le return for follow-up in the Neurology clinic today.  He still has significant difficulty walking, and he is falling frequently at home. He has not sustained any significant injuries.  He has numbness and paresthesias of his feet, but there has been no interval change in his symptoms since his last visit in November 2162.
+
+
+
+Medications:  Neurontin 300mg TID, Lasix 40mg daily, aspirin, Atenolol 50mg daily, Zetia 10mg, Pravastatin 20mg, Nexium and multi vitamins.
+
+
+
+Examination:  reveals that strength testing in the legs is normal.  He has absent deep tendon reflexes of the ankles, trace to 1+ at the knees.  Romberg's test is positive, and the patient has difficulty standing without assistance.  Despite the degree of sensory ataxia, he is still able to feel position sense at the metatarsophalangeal joints in his feet. Vibration and pinprick sensation are diminished.
+
+
+
+Data Review:  The patient does have a persistent low concentration of monoclonal protein in the slow gamma region.  This is unchanged compared to the previous study done in February 2162. This most likely is a MGUS.
+
+
+
+Impression and Recommendation:  The patient has poorly controlled diabetes, complicated by polyneuropathy.  The monoclonal protein is an incidental finding and is probably not accounting for his peripheral neuropathy.  Given that the monoclonal protein has not changed in concentration or character I do not believe that there is a need for additional testing at this stage.  He will continue with Neurontin to manage his neuropathic symptoms.  I have urged him to try and maintain good diabetic control. Follow-up in 6 months
+
+
+
+
+
+Sincerely,
+
+
+
+
+
+
+
+Charles Tisdale      
+
+      
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2163-02-25" TYPE="DATE" comment="" />
+<DATE id="P1" start="46" end="63" text="February 25, 2163" TYPE="DATE" comment="" />
+<NAME id="P2" start="69" end="83" text="Barbara Chavez" TYPE="DOCTOR" comment="" />
+<LOCATION id="P3" start="91" end="94" text="NMC" TYPE="HOSPITAL" comment="" />
+<ID id="P5" start="122" end="131" text="NXO 2-359" TYPE="MEDICALRECORD" comment="" />
+<NAME id="P6" start="140" end="150" text="William Le" TYPE="PATIENT" comment="" />
+<ID id="P7" start="158" end="167" text="054-00-99" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P8" start="175" end="185" text="09/03/2089" TYPE="DATE" comment="" />
+<DATE id="P9" start="195" end="205" text="02/25/2163" TYPE="DATE" comment="" />
+<NAME id="P10" start="217" end="223" text="Chavez" TYPE="DOCTOR" comment="" />
+<NAME id="P11" start="232" end="242" text="William Le" TYPE="PATIENT" comment="" />
+<DATE id="P12" start="551" end="564" text="November 2162" TYPE="DATE" comment="" />
+<DATE id="P13" start="1296" end="1309" text="February 2162" TYPE="DATE" comment="" />
+<NAME id="P14" start="1892" end="1907" text="Charles Tisdale" TYPE="DOCTOR" comment="" />
+</TAGS>
+</deIdi2b2>

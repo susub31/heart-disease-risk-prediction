@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2125-07-28
+
+
+
+
+
+
+
+HOLCOMB, DENNIS
+
+83312060
+
+07/28/2125
+
+
+
+
+
+HISTORY OF PRESENT ILLNESS:  Dennis Holcomb is a lovely 57-year-old gentleman with a past medical history notable for coronary artery disease, status post myocardial infarction with known ventricular tachycardia with AICD in place.  He continues to work at Alaska Air and has multiple family obligations which are stressful to him.  He has had no exertional neck, chest, arm, or jaw pain.  He has not felt his AICD fire.  He has had no lightheadedness or weakness.  He continues on atenolol, aspirin, folate, furosemide, insulin, lisinopril, simvastatin and Viagra.
+
+
+
+PHYSICAL EXAMINATION:  On exam today, his weight is 224, heart rate is 74 and blood pressure is 120/77.  There is no increase in jugular venous pressure.  Carotids are without bruits.  Lungs are clear to auscultation throughout.  Cardiovascular exam is notable for nondisplaced PMI, S1, physiologically split S2 with systolic ejection murmur and a soft holosystolic apical murmur.  Abdomen is soft, nontender, free of organomegaly and bruits.  Extremities are warm and free of edema with symmetric pulses, motor strength, and sensation.
+
+
+
+LABORATORY DATA:  EKG is notable for sinus with evidence of prior inferior myocardial infarction.
+
+
+
+ASSESSMENT AND PLAN:  In summary, Dennis has been doing well with respect to his blood pressure control and exercise.  Given his current levels of stress, we are going to change his atenolol to 100 mg in the morning and 50 mg at night, and I have encouraged him to get to a target weight of 190 this year, and I am making no other changes in his medical regimen.
+
+
+
+
+
+______________________________
+
+Evelyn Maxwell-Johnston, M.D.
+
+
+
+
+
+
+
+
+
+
+
+eScription document:5-3853809 IFFocus
+
+
+
+
+
+
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2125-07-28" TYPE="DATE" comment="" />
+<NAME id="P1" start="34" end="49" text="HOLCOMB, DENNIS" TYPE="PATIENT" comment="" />
+<ID id="P2" start="51" end="59" text="83312060" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P3" start="61" end="71" text="07/28/2125" TYPE="DATE" comment="" />
+<NAME id="P4" start="106" end="120" text="Dennis Holcomb" TYPE="PATIENT" comment="" />
+<AGE id="P5" start="133" end="135" text="57" TYPE="AGE" comment="" />
+<LOCATION id="P6" start="334" end="344" text="Alaska Air" TYPE="ORGANIZATION" comment="" />
+<NAME id="P7" start="1321" end="1327" text="Dennis" TYPE="PATIENT" comment="" />
+<NAME id="P8" start="1687" end="1710" text="Evelyn Maxwell-Johnston" TYPE="DOCTOR" comment="" />
+<ID id="P9" start="1748" end="1757" text="5-3853809" TYPE="IDNUM" comment="" />
+</TAGS>
+</deIdi2b2>

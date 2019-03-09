@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2151-08-30
+
+ 
+76 year old mother of four - 1 grandchild.
+Retired  performer.
+Husband Nathaniel Klein
+
+
+Nodular thyroid
+
+
+HPI
+Health generally ok.
+Complex migraine.
+CAD - stent  2144. T. William is cardiologist.
+XRT - none.
+
+2150			CT scan -multiple nodules in thyroid
+				US - Multiple nodules. Largest is L lower 1.6 x 1.3 x 1.2 cm 					Hypoechoic. Smaller right nodules are also hypoechoic. Some
+				macrocalcification in the larger nodule.
+
+June 2150		FNA. Benign follicular cells and colloid.  L nodule
+
+Aug 2151		US -  Right 4 x 4 x 4 mm
+				Midpole right 9 x8 x8
+				Midpole 7 x 4 x 9
+				Lower pole 1.1 x 1 x 1.3 solid.
+				Right 8 x 5 x 1
+				Left thyroid 6 x 5 x 7
+				Midpole L 1.5 x 1.0 x 1.5 cm. 
+				Lower pole 5 x 3 x 6 mm
+
+Interim History and ROS
+
+Compared current and prior US. No change in size. L nodule has been FNA'd
+Question is whether right will need FNA. 
+Now has diabetes and is now on Metformin. Discussed stopped before contrast agents. 
+She and husband have been working on estate of friend. 
+
+ROS
+
+Constitutional:  Weight stable. Appetite normal. Tends to be hot.  Energy down.
+Head No frequent headaches. No hair loss. 
+Eye : Vision down - has cataracts. 
+Throat : No difficulty swallowing. Voice unchanged. No neck pressure
+Cardiac:  No chest pain. No palpitations.
+Respiratory : No exertional dyspnea. Increaed cough since Jan 2151. Had chest x-ray ok. Takes protonix in a.m. 
+GI: Digestion fine. No difficulty with bowel movements.
+GU: Urination without difficulty. Menopausal. 
+NM: No pain or aches - save occ ankle aches. Strength is good. 
+Psych: Difficulty sleeping - up to urinate or suddently awake or husband snoring.  Mood is fine.
+ 
+ 
+
+Medications
+Lipitor 10
+Isordil
+Verapamil 240
+Atenolol 25
+Metformin 500 x 2
+ASA
+Protonix 40 
+HCTZ 12.5 each a.m.
+Vits
+
+Allergies
+Sulfa
+Vinegar
+
+H Social History
+
+Born Estill
+Husband Nathaniel Klein - pt of mine. 
+
+Past Medical History
+
+Appendect
+D and C
+Migraine
+CAD
+Mastoid surgery at age 7 month.
+
+   
+
+
+Physical Examination
+Increased weight. blondish hair. Glasses.
+Vital Signs:  P 84     BP 140/80    Resp 12
+HEENT: PRERLA Full EOM Conj clear. No proptosis. Pharynx without lesions. 2plus carotids. No post cervical supra clavicular nodes. Thyroid: Diff feeling but probable rt lower pole nodule. Left nodule 1 plus cm. 
+
+Impression
+
+Thyroid Nodules. Multinodular thyroid.
+Compared current and prior US  - Stable but consider whether the right nodule will need an FNA.
+Review with radiology and decide.
+
+ 
+
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2151-08-30" TYPE="DATE" comment="" />
+<AGE id="P1" start="30" end="32" text="76" TYPE="AGE" comment="" />
+<PROFESSION id="P2" start="82" end="91" text="performer" TYPE="PROFESSION" comment="" />
+<NAME id="P3" start="101" end="116" text="Nathaniel Klein" TYPE="PATIENT" comment="" />
+<DATE id="P4" start="193" end="197" text="2144" TYPE="DATE" comment="" />
+<NAME id="P5" start="199" end="209" text="T. William" TYPE="DOCTOR" comment="" />
+<DATE id="P6" start="240" end="244" text="2150" TYPE="DATE" comment="" />
+<DATE id="P7" start="460" end="469" text="June 2150" TYPE="DATE" comment="" />
+<DATE id="P8" start="524" end="532" text="Aug 2151" TYPE="DATE" comment="" />
+<DATE id="P9" start="1370" end="1378" text="Jan 2151" TYPE="DATE" comment="" />
+<LOCATION id="P10" start="1859" end="1865" text="Estill" TYPE="CITY" comment="" />
+<NAME id="P11" start="1874" end="1889" text="Nathaniel Klein" TYPE="PATIENT" comment="" />
+<AGE id="P12" start="1982" end="1989" text="7 month" TYPE="AGE" comment="" />
+</TAGS>
+</deIdi2b2>

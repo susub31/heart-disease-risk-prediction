@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2081-01-04
+
+
+
+INFECTIOUS DISEASE ASSOCIATES
+CURTIS MEDICAL CENTER
+
+Reason for visit   Brucellosis
+
+History of present illness   70y/o F who presented in late May with daily fever x 2-3 months with low back pain x 2 weeks, admitted May 30 and found to have small gram negative rod bacteremia consistent with Brucellosis, which fits with her epidemiologic exposure to unpasteurized camels milk and her prolonged fever. There was initial concern for TB, but she ruled out for pulmonary tb with 3 negative smears. PPD positive. 
+
+She had an MRI of her spine that was initially read as L5/S1 diskitis/osteomyelitis with right paraspinal phlegmon . MSK radiologists felt that this actually represented degenerative change with no evidence of infection, with explanation that a large right-sided osteophyte is causing irritation. 
+
+Mrs. Iles declined a TEE on during her admission. 
+
+She was treated with streptomycin IM q daily x 2 weeks,and concurrent doxycycline 100 mg po bid plus rifampin 300 mg po tid. 
+
+She was seen in ID clinic on 7/20, 9/7, 11/9, and today (1/4/81). She has improved dramatically, and is able to walk independently without pain. She has no fevers, night sweats, weight loss, nausea, or vomiting. Her pain is well controlled minimal medications.
+
+Past medical history   -DMII (dx late 60s, last A1c = 5.6 in 2/80) 
+-HTN 
+-Hyperlipidemia 
+-Hep B sAb+, sAg+, and core Ab+ in 2067; now sAg-, sAb+, and core Ab (+) in 2/2080 ( recovery ) 
+-H/o H. pylori (+) 2068 and 2080 s/p triple therapy 
+-GERD 
+-OA 
+-H/o vitamin D deficiency 
+-H/o chronic HAs (migraines vs. tension HAs) 
+-+ PPD (in Mississippi in 2067) 
+-H/o malaria
+
+Social history   No tobacco, EtOH, illicits. Currently living with daughter in Grand Island. No pets. No known sick contacts. 
+
+Changes to Allergies
+NKA: No Known Allergies - reaction: [reviewed]
+
+Review of systems   Denies fever, rigor, night sweats, headache, SOB, cough, anorexia, nausea, vomiting, diarrhea, abdominal pain, paresthesias, or rash.
+
+Physical Exam
+General appearance   NAD
+Skin   No rashes
+HEENT   No palpable LN, no oral lesions
+Cor   S1 S2, no murmurs, no peripheral stigmata of endocarditis
+Abdomen   Non tender, BS+, No palpable organomegaly
+Extrem   No clubbing, mild edema at the ankles
+Musc skel   No tenderness on the lower back percussion. Normal gait.
+
+Assessment and plan   70 yr F with confirmed Brucella bacteremia from May 30/31 2080 and probable Brucella diskitis/osteomyelitis at the L5/S1 level. She presented with a syndrome of constitutional symptoms and back pain of 3 months duration, and has improved dramatically after 2 weeks of streptomycin IM (completed), rifampin 300 mg po tid, and doxycycline 100 mg po bid. Her antibiotics started on 6/4/80 and will be discontinued today 1/4/81 after 6 months of therapy. 
+
+She was counseled today that she is to watch out for recurrence of infection, which may include fever, night sweats, weight loss, anorexia, worsening back pain, and fatigue. She knows to contact us should this occur. 
+
+She was counseled to not drink unpasteurized camel milk.
+
+In addition, Mrs Iles is PPD positive: she has completed the required 4 months of therapy for latent TB (she had 6 months) as part of the treatment of her Brucella infection. 
+
+All Allergies Reviewed
+	
+
+Ms. Iles was seen and examined with Dr. Tillman. Her back pain, fevers, and weight loss have entirely resolved. She has finished six months of doxy/rif and should stop these medications. We asked her to return for any new back pain, fevers, or weight loss.
+
+Todd Riley, MD pager #03268
+
+cc: DANIELLE TOMPKINS, CMC Internal Medicine
+
+Signed electronically by  Todd Riley, MD
+Document Status: Final
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2081-01-04" TYPE="DATE" comment="" />
+<LOCATION id="P1" start="60" end="81" text="CURTIS MEDICAL CENTER" TYPE="HOSPITAL" comment="" />
+<AGE id="P2" start="144" end="146" text="70" TYPE="AGE" comment="" />
+<DATE id="P3" start="174" end="177" text="May" TYPE="DATE" comment="" />
+<DATE id="P4" start="247" end="253" text="May 30" TYPE="DATE" comment="" />
+<NAME id="P5" start="846" end="850" text="Iles" TYPE="PATIENT" comment="" />
+<DATE id="P6" start="1049" end="1053" text="7/20" TYPE="DATE" comment="" />
+<DATE id="P7" start="1055" end="1058" text="9/7" TYPE="DATE" comment="" />
+<DATE id="P8" start="1060" end="1064" text="11/9" TYPE="DATE" comment="" />
+<DATE id="P9" start="1077" end="1083" text="1/4/81" TYPE="DATE" comment="" />
+<DATE id="P10" start="1320" end="1323" text="60s" TYPE="DATE" comment="" />
+<DATE id="P11" start="1343" end="1347" text="2/80" TYPE="DATE" comment="" />
+<DATE id="P12" start="1408" end="1412" text="2067" TYPE="DATE" comment="" />
+<DATE id="P13" start="1449" end="1455" text="2/2080" TYPE="DATE" comment="" />
+<DATE id="P14" start="1489" end="1493" text="2068" TYPE="DATE" comment="" />
+<DATE id="P15" start="1498" end="1502" text="2080" TYPE="DATE" comment="" />
+<LOCATION id="P16" start="1619" end="1630" text="Mississippi" TYPE="STATE" comment="" />
+<DATE id="P17" start="1634" end="1638" text="2067" TYPE="DATE" comment="" />
+<LOCATION id="P18" start="1734" end="1746" text="Grand Island" TYPE="CITY" comment="" />
+<AGE id="P19" start="2358" end="2360" text="70" TYPE="AGE" comment="" />
+<DATE id="P20" start="2406" end="2420" text="May 30/31 2080" TYPE="DATE" comment="" />
+<DATE id="P21" start="2737" end="2743" text="6/4/80" TYPE="DATE" comment="" />
+<DATE id="P22" start="2775" end="2781" text="1/4/81" TYPE="DATE" comment="" />
+<NAME id="P23" start="3105" end="3109" text="Iles" TYPE="PATIENT" comment="" />
+<NAME id="P24" start="3295" end="3299" text="Iles" TYPE="PATIENT" comment="" />
+<NAME id="P25" start="3331" end="3338" text="Tillman" TYPE="DOCTOR" comment="" />
+<NAME id="P26" start="3549" end="3559" text="Todd Riley" TYPE="DOCTOR" comment="" />
+<CONTACT id="P27" start="3571" end="3576" text="03268" TYPE="PHONE" comment="" />
+<NAME id="P28" start="3582" end="3599" text="DANIELLE TOMPKINS" TYPE="DOCTOR" comment="" />
+<LOCATION id="P29" start="3601" end="3604" text="CMC" TYPE="HOSPITAL" comment="" />
+<NAME id="P31" start="3650" end="3660" text="Todd Riley" TYPE="DOCTOR" comment="" />
+</TAGS>
+</deIdi2b2>

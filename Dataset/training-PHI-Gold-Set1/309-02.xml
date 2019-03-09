@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2092-12-15
+
+NAME:    Wilson, Gabriel
+MRN:       8514931
+
+The patient is a 71-year-old woman who comes in for follow up. She has been having
+symptoms of ataxia which are difficult to understand in the sense that I cannot get a
+clear history of her symptoms. At times she reports that she feels dizzy as if she might
+fall over to her right side. There is no associated vertigo, dysarthria or other
+symptoms. She has not actually had syncope. There is no positional component to her
+symptoms. I had scheduled her for an MRA/MRI to evaluate those symptoms. The
+MRI does show some small microvascular changes in the coronal radiata, centrum
+ovale and bilateral pontine region. She had small chronic lacunar infarcts. She reports
+that she falls to the right, but the stroke seemed to be more on the right brain which
+would not necessarily correlate with her symptoms. She had some left internal carotid
+mild 30% proximal stenosis. Her vertebral arteries were patent with anti-grade flow.  
+
+PHYSICAL EXAM:  Small lacunar infarcts. Most likely related to hypertension rather
+than embolic disease. Her blood pressure has been very well controlled. In fact, today
+on exam, her blood pressure was 100/60. She brought her medications with her and
+has been taking atenolol 50 mg p.o. q.d., Cozaar 50 mg 1 tab twice a day and
+hydrochlorothiazide 12.5 mg p.o. q.d. She had not taken her medications today and
+her blood pressure here when I repeated it was 110/70 in the right arm and 120/70 in
+the left. Her neck is supple without JVD or bruits. Her lungs are clear without
+wheezes, rales or rhonchi. Her cardiac exam shows a regular rate and rhythm, normal
+S1, S2. 
+       
+ASSESSMENT AND PLAN:   History of hypertension. Now with lower blood
+pressure and some lightheadedness. We will d/c her atenolol. I would like her to get a
+repeat blood pressure in one week. I discussed her MRI/MRA findings with her.
+Long term we will need to continue to try and optimize her cholesterol levels and her
+diabetes. She will follow up in one week for a repeat blood pressure.
+    
+
+Julie Fraser, M.D.
+
+JF/crane/powell
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2092-12-15" TYPE="DATE" comment="" />
+<NAME id="P1" start="37" end="52" text="Wilson, Gabriel" TYPE="PATIENT" comment="" />
+<ID id="P2" start="64" end="71" text="8514931" TYPE="MEDICALRECORD" comment="" />
+<AGE id="P3" start="90" end="92" text="71" TYPE="AGE" comment="" />
+<NAME id="P4" start="2073" end="2085" text="Julie Fraser" TYPE="DOCTOR" comment="" />
+<NAME id="P5" start="2093" end="2095" text="JF" TYPE="DOCTOR" comment="" />
+<NAME id="P6" start="2096" end="2101" text="crane" TYPE="DOCTOR" comment="" />
+<NAME id="P7" start="2102" end="2108" text="powell" TYPE="DOCTOR" comment="" />
+</TAGS>
+</deIdi2b2>

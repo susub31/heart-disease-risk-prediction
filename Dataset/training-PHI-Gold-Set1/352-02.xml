@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2069-10-22
+
+EDVISIT^63107921^RILEY, MARY^10/22/2069^VOLLMER, NATHAN
+
+Seen by Dr. Thrasher and seen and examined by me.
+
+CHIEF COMPLAINT:  Shortness of breath.
+
+Currently, being admitted to Internal Medicine.
+
+HISTORY OF PRESENT ILLNESS:  This 66-year-old woman with a
+
+significant medical history including hypothyroidism, history of
+
+high cholesterol, diabetes type 1, hypertension and history of
+
+myocardial infarction in the past and status post cholecystectomy
+
+who presents now with palpitations and shortness of breath.  Her
+
+complaint is that for the last 5 days, she has had this bilateral
+
+neck pain with shortness of breath.  She had no significant chest
+
+pain, but complaining of dull achy pain and dull achy sensation
+
+throughout her throat.  She felt some sensation of her heart
+
+racing with her neck pain.  Mild headache.  No fevers however. 
+
+She has had no diaphoresis or nausea and vomiting.  Blood
+
+pressure initially was 212/76.  Her blood pressure has since then
+
+came down nicely, now is 161/72 and the rest of her vital signs
+
+are normal.
+
+MEDICATIONS:  As would be expected, she is on multiple
+
+medications, which includes captopril, levothyroxine, clonidine
+
+and aspirin as well as nitrates and insulin as well as albuterol
+
+and Lipitor.
+
+REVIEW OF SYSTEMS:  She has had no recent pneumonia or fevers. 
+
+Her shortness of breath is both at rest and with some exertion. 
+
+Again, she had no significant or definitive chest pain per se but
+
+gives history of some neck pain for the last 5 days with some
+
+nausea.  Her palpitations have been intermittent.
+
+PHYSICAL EXAMINATION:  She is comfortable.  Her HEENT exam is
+
+normal.  Her neck is supple without any JVP.  No bruits heard on
+
+neck exam.  Clear lungs with normal breath sounds.  No signs of
+
+failure, no rales.  Cardiac exam:  Regular rate and rhythm.  No
+
+murmurs and no rubs.  Benign abdomen with normal bowel sounds. 
+
+Soft, without any tenderness.  Extremities are normal without any
+
+pedal edema.  Rest of her exam is benign.
+
+LABORATORY DATA:  Chest x-ray was normal without any evidence of
+
+failure or any acute process.  EKG, some nonspecific T-wave
+
+changes when compared with previous EKGs, there are no new
+
+changes.  Her urinalysis is negative.  Troponin and CK are
+
+normal.  The rest of her labs are all benign.
+
+ASSESSMENT:  A 66-year-old female with shortness of breath,
+
+palpitations and 5-day history of neck pain.  Initially
+
+hypertensive but blood pressure has normalized nicely.  No
+
+widened mediastinum on chest x-ray.  No discrepancy in terms of
+
+her blood pressure in both upper extremities.  Cardiac markers
+
+are flat and EKG is unremarkable.
+
+EMERGENCY DEPARTMENT COURSE:  Treated with aspirin, nitroglycerin
+
+and beta-blocker in the ED.  She is currently symptom free.  She
+
+was also given some morphine sulfate for her pain.  She needs to
+
+ ******** Not reviewed by Attending Physician ********
+
+DIAGNOSIS:  Palpitations with shortness of breath or neck pain,
+
+possible angina.
+
+DISPOSITION:  The patient admitted in stable condition.
+
+______________________________
+
+VOLLMER, NATHAN M.D.
+
+D: 10/22/69
+
+T: 10/22/69
+
+Dictated By: VOLLMER, NATHAN
+
+eScription document:1-3286211 BFFocus
+
+
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2069-10-22" TYPE="DATE" comment="" />
+<ID id="P1" start="36" end="44" text="63107921" TYPE="MEDICALRECORD" comment="" />
+<NAME id="P2" start="45" end="56" text="RILEY, MARY" TYPE="PATIENT" comment="" />
+<DATE id="P3" start="57" end="67" text="10/22/2069" TYPE="DATE" comment="" />
+<NAME id="P4" start="68" end="83" text="VOLLMER, NATHAN" TYPE="DOCTOR" comment="" />
+<NAME id="P5" start="97" end="105" text="Thrasher" TYPE="DOCTOR" comment="" />
+<AGE id="P7" start="259" end="261" text="66" TYPE="AGE" comment="" />
+<AGE id="P8" start="2334" end="2336" text="66" TYPE="AGE" comment="" />
+<NAME id="P9" start="3088" end="3103" text="VOLLMER, NATHAN" TYPE="DOCTOR" comment="" />
+<DATE id="P10" start="3113" end="3121" text="10/22/69" TYPE="DATE" comment="" />
+<DATE id="P11" start="3126" end="3134" text="10/22/69" TYPE="DATE" comment="" />
+<NAME id="P12" start="3149" end="3164" text="VOLLMER, NATHAN" TYPE="DOCTOR" comment="" />
+<ID id="P13" start="3186" end="3195" text="1-3286211" TYPE="IDNUM" comment="" />
+</TAGS>
+</deIdi2b2>

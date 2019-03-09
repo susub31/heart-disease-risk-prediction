@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2063-01-17
+
+
+
+
+
+
+
+GIPSON, ALEXANDER
+32707420
+01/17/2063
+
+
+
+
+Ulysses Peralta, M.D.
+82 March Street
+Coalinga, FL  84635
+
+
+Dear Dr. Peralta:
+
+
+I saw your patient, Dr. Gipson, in the Cardiology Office today on a somewhat urgent basis.  He was recently in Italy last week with very difficult events concerning his father's ill health.  His father ultimately died and was a very traumatic series of days for Dr. Gipson and his family.  He developed left chest discomfort, which persisted for a number of days.  He was afraid to take nitroglycerin despite knowing that he should, and therefore remained with chest discomfort for about six days.  He was able to be reasonably active and had no exacerbation of his chest discomfort.  He had no nausea, vomiting, diaphoresis, or palpitations.  He then returned to the United States and his symptoms have resolved.  Because of these discomforts, he wanted to undergo an additional evaluation.
+
+
+We performed an exercise treadmill test with perfusion imaging two days ago for better understanding of his symptoms.  He exercised for 7 minutes and 30 seconds on the standard Bruce protocol to a peak heart rate of 122 beats per minute (84% of maximum predicted for age) and peak blood pressure of 162/80.  He stopped because of dyspnea and had some discomfort.  The discomfort resolved into recovery.  He had no ST segment changes.  His perfusion scan demonstrated normal LV size and normal tracer uptake in the lungs.  There was normal RV size as well.  There was a small-to-medium medium-sized defect of moderate intensity in the mid and basal inferior wall that was reversible.  These were no different than the prior study he had in July 2061.
+
+
+As you may remember, in January 2061, he underwent cardiac catheterization that demonstrated the presence of non-major flow-limiting obstructions and so no intervention was performed.
+
+
+His current medical regimen includes ramipril 5 mg b.i.d., aspirin 162 mg daily, Cozaar 50 mg b.i.d., Crestor 10 mg daily, fish oil 500 mg b.i.d., metformin 500 mg b.i.d., multivitamins, niacin 500 mg daily, Plavix 75 mg daily, Toprol-XL 100 mg b.i.d., HCTZ 12.5 mg daily, and Nexium.
+
+
+On exam today, he is comfortable with a blood pressure of 135/75, a heart rate of 60 and regular, and weight of 189 pounds.  Head and neck are unremarkable.  Chest is clear.  Cardiac exam shows no jugular venous distention at 30 degrees.  PMI is normal.  S1 and S2 are normal with a physiologic split.  There is an S4 and 1/6 systolic ejection murmur at the left sternal border.  Abdominal exam is unremarkable without organomegaly.  Bowel sounds are normal.  The extremities show no edema or cyanosis.  Carotid upstrokes are normal in contour and volume without bruit.  Distal pulses are normal.
+
+
+His resting 12-lead electrocardiogram demonstrates normal sinus rhythm and normal morphology.
+
+
+I think Dr. Gipson is basically doing very well.  I think his chest discomforts for six days while in Italy may be related to anxiety and perhaps the known gastroesophageal reflux disease that he has.  I think there is no evidence that the discomfort was cardiac in origin.  His exercise capacity is quite good and his perfusion is actually somewhat even improved from his prior evaluation two years ago.  I think we can maintain our current approach.  I suggest that I see him in a number of months for future evaluation.
+
+
+If any problems develop in the interim, please do not hesitate to contact me.  Thank you for allowing me to help with his care.
+
+
+Kindest regards.
+
+
+Sincerely yours,
+
+
+
+
+______________________________
+Vernon A Lozano, MD
+
+
+
+
+
+
+
+
+
+
+eScription document:9-1764070 IFFocus
+
+
+
+
+
+
+DD: 01/17/63
+DT: 01/18/63
+DV: 01/17/63
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2063-01-17" TYPE="DATE" comment="" />
+<NAME id="P1" start="34" end="51" text="GIPSON, ALEXANDER" TYPE="PATIENT" comment="" />
+<ID id="P2" start="52" end="60" text="32707420" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P3" start="61" end="71" text="01/17/2063" TYPE="DATE" comment="" />
+<NAME id="P4" start="76" end="91" text="Ulysses Peralta" TYPE="DOCTOR" comment="" />
+<LOCATION id="P5" start="98" end="113" text="82 March Street" TYPE="STREET" comment="" />
+<LOCATION id="P6" start="114" end="122" text="Coalinga" TYPE="CITY" comment="" />
+<LOCATION id="P7" start="124" end="126" text="FL" TYPE="STATE" comment="" />
+<LOCATION id="P8" start="128" end="133" text="84635" TYPE="ZIP" comment="" />
+<NAME id="P9" start="145" end="152" text="Peralta" TYPE="DOCTOR" comment="" />
+<NAME id="P10" start="180" end="186" text="Gipson" TYPE="PATIENT" comment="" />
+<LOCATION id="P11" start="267" end="272" text="Italy" TYPE="COUNTRY" comment="" />
+<NAME id="P12" start="422" end="428" text="Gipson" TYPE="PATIENT" comment="" />
+<LOCATION id="P13" start="824" end="837" text="United States" TYPE="COUNTRY" comment="" />
+<DATE id="P14" start="1689" end="1698" text="July 2061" TYPE="DATE" comment="" />
+<DATE id="P15" start="1726" end="1738" text="January 2061" TYPE="DATE" comment="" />
+<NAME id="P16" start="2882" end="2888" text="Gipson" TYPE="PATIENT" comment="" />
+<LOCATION id="P17" start="2972" end="2977" text="Italy" TYPE="COUNTRY" comment="" />
+<NAME id="P18" start="3596" end="3611" text="Vernon A Lozano" TYPE="DOCTOR" comment="" />
+<ID id="P19" start="3646" end="3655" text="9-1764070" TYPE="IDNUM" comment="" />
+<DATE id="P20" start="3674" end="3682" text="01/17/63" TYPE="DATE" comment="" />
+<DATE id="P21" start="3687" end="3695" text="01/18/63" TYPE="DATE" comment="" />
+<DATE id="P22" start="3700" end="3708" text="01/17/63" TYPE="DATE" comment="" />
+</TAGS>
+</deIdi2b2>

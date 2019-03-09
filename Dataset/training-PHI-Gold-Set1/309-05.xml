@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2097-06-28
+
+
+
+Visit Note
+
+
+
+Patient Name: WILSON, GABRIEL                        MRN: 8514931
+
+Dictated Date: 06/29/2097                      Dictated By: Julie Fraser, M.D.
+
+
+
+Date of Visit: 06/28/2097
+
+
+
+
+
+ Patient is a 76-year-old Croatian woman who came in today. Her daughter Gibbs was translating. She is a very complicated 76-year-old Croatian woman with a history of diabetes, hypertension, vertebral basilar insufficiency, chronic hepatitis B and other medical problems. She is status post a right Bell's palsy in the past. 
+
+
+
+Recently she has been sometimes living at her daughter's house and other times at her niece's house. They are trying to provide more support in terms of regulating that she takes her medication. When she stays at her daughter's Gibbs's house her daughter does check her sugars though her niece does not. Her blood pressure has been very labile recently and we recently added hydrochlorothiazide and nifedipine extended release 30 mg every day to her regimen in addition to her regular Cozaar and Toprol. Her daughter also has increased her insulin/70/30 to 48 units in the morning. She thinks that sometimes in the afternoon or late afternoon she may have some low sugars. She reports that her mother feels dizzy and has difficulty moving her left leg if her sugar gets low. She feels better if she is given orange juice or something to eat. She has had similar symptoms to that with low sugars in the past however when the daughter checks her sugars they are all in the 174 to 225 range. She has occasional sugars before bedtime that are 337 and 249. The lowest sugar she had was 88 before dinner. 
+
+
+
+The patient reports that she feels dizzy at times. She is a very difficult historian even with her daughter translating or with the other interpreters translating. She has not been having any chest pain or palpitations. Her dizziness is not related to standing up or lying down. No syncope, slurred speech, spinning dizziness, diplopia, or focal arm or leg weakness or numbness. 
+
+
+
+Of note the chest pain she had complained about on the last visit when her daughter had noted she was cleaning has resolved. 
+
+
+
+Her cardiac stress test from June 2094 showed an exercise capacity of 4 METS, EKG nondiagnostic due to submaximal heart rate response. No evidence for ischemia on the perfusion images. From March 2095 her vascular lab studies showed normal distal vertebral arteries and basilar arteries throughout its length. She also had carotid studies March 2095 that showed minimal disease of the right and left carotid. Her prior MRI from 07/95 showed chronic lacunar infarcts but no acute hemorrhage or infarct. 
+
+
+
+The patient has had chronic slow speech and there is question about whether or not she has dementia. Her daughter is giving her the Aricept though it is not clear if this is benefiting her or not. Sometimes her daughter thinks that she is actually just being stubborn or uncooperative rather than having difficulties with her memory though other times it seems as if she she does have some dementia. 
+
+
+
+She also has been followed in Glancy Memorial Hospital. 
+
+
+
+On exam she is in no acute distress. Blood pressure 124/60. Neck: Supple without JVD or bruits. Lungs: Clear without wheezes, rales, or rhonchi. Cardiac: Rate regularly regular, normal S1, S2 without S3, S4, or murmurs. Abdomen: Soft, nontender. No CCE. She has chronic right facial weakness consistent with her known Bell's palsy. Cranial nerves 2 through 12 otherwise intact though vision was not assessed. Motor 5/5. Reflexes 1+, absent ankle jerks, downgoing toes. Gait is slightly wide based which is consistent with the prior note from Dr. Hope Kincaid. Sensation intact to light touch. Distal pulses intact. 
+
+
+
+1. Hypertension which is much better controlled on current regimen. Continue same. Check Chem-7. 
+
+
+
+Type 2 diabetes. Her daughter attributes some of her lightheadedness to hypoglycemia but the documented sugars are not at all low. Ideally we would correlate her symptoms with a fingerstick sugar. 
+
+
+
+Lightheadedness and dizziness. We are going to check a Chem-7 and then repeat an MRI/MRA of her head and neck. 
+
+
+
+She should follow up in neurology and also with her counselor. She will follow up with me in a few weeks after the MRI/MRA.
+
+
+
+
+
+___________________________
+
+Julie Fraser, M.D.
+
+
+
+cc:
+
+
+
+
+
+
+
+TD: 07/01/2097 04:10:11
+
+TR: 9745226
+
+BackJob ID:  803469
+
+VoiceJob ID:  61462506
+
+
+
+
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2097-06-28" TYPE="DATE" comment="" />
+<NAME id="P1" start="58" end="73" text="WILSON, GABRIEL" TYPE="PATIENT" comment="" />
+<ID id="P2" start="102" end="109" text="8514931" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P3" start="126" end="136" text="06/29/2097" TYPE="DATE" comment="" />
+<NAME id="P4" start="171" end="183" text="Julie Fraser" TYPE="DOCTOR" comment="" />
+<DATE id="P5" start="208" end="218" text="06/28/2097" TYPE="DATE" comment="" />
+<AGE id="P6" start="238" end="240" text="76" TYPE="AGE" comment="" />
+<LOCATION id="P7" start="250" end="258" text="Croatian" TYPE="COUNTRY" comment="" />
+<NAME id="P8" start="297" end="302" text="Gibbs" TYPE="PATIENT" comment="" />
+<AGE id="P9" start="346" end="348" text="76" TYPE="AGE" comment="" />
+<LOCATION id="P10" start="358" end="366" text="Croatian" TYPE="COUNTRY" comment="" />
+<NAME id="P11" start="781" end="786" text="Gibbs" TYPE="PATIENT" comment="" />
+<DATE id="P12" start="2197" end="2206" text="June 2094" TYPE="DATE" comment="" />
+<DATE id="P13" start="2358" end="2368" text="March 2095" TYPE="DATE" comment="" />
+<DATE id="P14" start="2507" end="2517" text="March 2095" TYPE="DATE" comment="" />
+<DATE id="P15" start="2596" end="2601" text="07/95" TYPE="DATE" comment="" />
+<LOCATION id="P16" start="3108" end="3132" text="Glancy Memorial Hospital" TYPE="HOSPITAL" comment="" />
+<NAME id="P17" start="3684" end="3696" text="Hope Kincaid" TYPE="DOCTOR" comment="" />
+<NAME id="P18" start="4332" end="4344" text="Julie Fraser" TYPE="DOCTOR" comment="" />
+<DATE id="P19" start="4369" end="4379" text="07/01/2097" TYPE="DATE" comment="" />
+<ID id="P20" start="4394" end="4401" text="9745226" TYPE="IDNUM" comment="" />
+<ID id="P21" start="4416" end="4422" text="803469" TYPE="IDNUM" comment="" />
+<ID id="P22" start="4438" end="4446" text="61462506" TYPE="IDNUM" comment="" />
+</TAGS>
+</deIdi2b2>

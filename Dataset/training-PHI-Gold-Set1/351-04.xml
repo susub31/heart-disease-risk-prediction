@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2080-04-15
+
+EDVISIT^10776605^GLENN, OLIVIA^04/15/80^URIBE, HAROLD
+
+Seen by me along with Dr. Oglesby on 04/15/2080.  The history as
+
+documented by Dr. Oglesby was reviewed by me with the patient and
+
+found to be accurate and complete.  The physical exam was
+
+confirmed by my examination.  Evaluation and management was also
+
+concurred with.
+
+HISTORY OF PRESENT ILLNESS:  Briefly, this is a 66-year-old woman
+
+who enters with recent three-month history of admission for
+
+respiratory failure, pneumonia, and MSSA bacteriemia, discharged
+
+from rehab two weeks ago, presents with two to three day history
+
+of shortness of breath; dyspnea on exertion; PND; orthopnea; and
+
+leg edema, improving, but complains of occasional chest tightness
+
+lasting about an hour, worse with exertion.  No nausea and no
+
+vomiting.  Nonradiating.  Seen by VNA today, blood pressure was
+
+190/100 and sent her here for evaluation.
+
+SOCIAL HISTORY:  Does not smoke and does not drink.
+
+PAST MEDICAL HISTORY:  History of atrial fibrillation,
+
+hypertension, diabetes, CHF, asthma, and chronic renal
+
+insufficiency, the baseline creatinine is 2.5.
+
+Review of systems, allergies, and medications are as documented
+
+in the chart.  Please see the notes for details.
+
+PHYSICAL EXAMINATION:  Awake and alert, well-developed,
+
+well-nourished woman in mild respiratory distress.  Pulse 93,
+
+respirations 18 to 20, blood pressure 158/83, and O2 saturation
+
+100% on 4 liters nasal cannula.  JVP at 10 cm.  Lung exam shows
+
+rales to one-third of the way up to the lung bases. 
+
+Cardiovascularly, regular rate and rhythm.  The rest of the exam
+
+is as documented in the chart other than pedal edema.
+
+LABORATORY DATA:  EKG shows sinus rhythm and left anterior
+
+fascicular hemiblock with flattening at V2.  Chest x-ray shows
+
+pulmonary vascular congestion.
+
+EMERGENCY DEPARTMENT COURSE:  As such, she was admitted to
+
+Medicine with a diagnosis of decompensated CHF, likely secondary
+
+to hypertension.  Her blood pressure initially when she came in
+
+ ******** Not reviewed by Attending Physician ********
+
+DISPOSITION:  She was admitted on 04/15/2080.
+
+______________________________
+
+URIBE, HAROLD M.D.
+
+D: 04/15/80
+
+T: 04/16/80
+
+Dictated By: URIBE, HAROLD
+
+eScription document:0-4339350 XJ
+
+
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2080-04-15" TYPE="DATE" comment="" />
+<ID id="P1" start="36" end="44" text="10776605" TYPE="MEDICALRECORD" comment="" />
+<NAME id="P2" start="45" end="58" text="GLENN, OLIVIA" TYPE="PATIENT" comment="" />
+<DATE id="P3" start="59" end="67" text="04/15/80" TYPE="DATE" comment="" />
+<NAME id="P4" start="68" end="81" text="URIBE, HAROLD" TYPE="DOCTOR" comment="" />
+<NAME id="P5" start="109" end="116" text="Oglesby" TYPE="DOCTOR" comment="" />
+<DATE id="P6" start="120" end="130" text="04/15/2080" TYPE="DATE" comment="" />
+<NAME id="P7" start="167" end="174" text="Oglesby" TYPE="DOCTOR" comment="" />
+<AGE id="P8" start="406" end="408" text="66" TYPE="AGE" comment="" />
+<DATE id="P9" start="2112" end="2122" text="04/15/2080" TYPE="DATE" comment="" />
+<NAME id="P10" start="2157" end="2170" text="URIBE, HAROLD" TYPE="DOCTOR" comment="" />
+<DATE id="P11" start="2180" end="2188" text="04/15/80" TYPE="DATE" comment="" />
+<DATE id="P12" start="2193" end="2201" text="04/16/80" TYPE="DATE" comment="" />
+<NAME id="P13" start="2216" end="2229" text="URIBE, HAROLD" TYPE="DOCTOR" comment="" />
+<ID id="P14" start="2251" end="2263" text="0-4339350 XJ" TYPE="IDNUM" comment="" />
+</TAGS>
+</deIdi2b2>

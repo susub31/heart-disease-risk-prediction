@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2096-08-09
+
+
+
+	CARDIOLOGY
+
+	
+
+	YORK CONVALESCENT HOSPITAL
+
+	
+
+
+
+	Reason for visit:
+
+   chest pain
+
+
+
+	Interval History:
+
+   Cardiologist:  Hall
+
+
+
+Mr. Innis is a 77 y/o man with h/o CAD s/p LAD stenting (Taxus Express 3.0x16mm) in 3/95.  All other vessels had only minimal irregularities.  Since that time, he has had only mild chest discomfort which is always relieved with nitroglycerin.  
+
+
+
+This morning, he had a more severe episode of chest pain accompanied by SOB and diaphoresis that started when walking to the dock after starting his boat.  The pain was primarily in his back, similar to his angina prior to stenting.  The pain lasted for approximately 30 min despite SL NTG, although did go away eventually.  He had diaphoresis, SOB, and blurred vision associated with the pain.  He was brought to the ED by his family.  On arrival, he was pain free. P 60 BP 110/70.  He was treated with ASA and Lopressor.  EKG was unremarkable.  Two sets of markers were negative.  He is admitted to complete rule out MI and further diagnostic testing.
+
+
+
+He currently denies pain and feels back to his baseline.  He denies orthopnea, PND, LE swelling, + occasional palpitations, no syncope/near syncope.
+
+
+
+
+
+
+
+	Past medical history:
+
+   CAD as detailed above
+
+COPD - followed by Dr. Yamashita, recently treated for H influenzae PNA
+
+HTN
+
+Hyperlipidemia
+
+BPH
+
+
+
+
+
+	Medications (Confirmed):
+
+	
+
+Combivent  120/21mcg/spray inh qid
+
+doxycycline  100mg po bid x 14 days
+
+Ecotrin  325mg po daily
+
+furosemide  20mg po daily
+
+isosorbide mononitrate  30 mg sr po bid
+
+K dur  20meq po daily
+
+lisinopril  20mg po daily
+
+nitroglycerin  0.4 mg sl every 5 minutes PRN chest pain
+
+Plavix  75mg po daily
+
+Proscar  5mg po daily
+
+simvastatin  80mg po qpm
+
+Singulair  10mg po daily
+
+terazosin  10 mg po bid
+
+Toprol xl  25 mg po daily
+
+	
+
+	Allergies:
+
+	
+
+No known drug allergy
+
+
+
+	Family history:
+
+   noncontributing
+
+
+
+	Social history:
+
+   married, 5 children, former smoker - quit in 2060s, occasional EtOH
+
+
+
+	Review of systems:
+
+   + chronic cough, + BPH sx, otherwise negative in detail unless mentioned in HPI
+
+
+
+Physical examination:
+
+	
+
+-BMI: 33.4  Obese, high risk
+
+-Pulse: 60  
+
+-resp. rate: 18  93% on RA
+
+-height: 64  in.
+
+-weight: 200  lbs.
+
+-General:   No acute distress.
+
+-HEENT:   Unremarkable
+
+-Neck:   Carotids 2+ without bruits. JVP no jugular venous distention.
+
+-Chest:   Few end expiratory wheezes.  Otherwise, CTA bilaterally
+
+-Cardiac:   S4 with a  normal S1 and S2, but no S3 or murmurs.  No JVD.  Carotid upstroke is brisk bilaterally.
+
+-Abdomen:   NABS, obese, soft, NT.
+
+-Extremities:   No edema, 2  dp and pt pulses, 2+ femoral pulses without bruits.
+
+-BP: 162/55  
+
+-temp: 97.5  
+
+
+
+	EKG:
+
+   NSR, TWNL.  Unchanged compared to prior.
+
+
+
+Selected recent labs:
+
+	 Metabolic
+
+Date     NA       K        CL       CO2      BUN      CRE      GLU      CA       PHOS     MG       
+
+08/09/96 141      4.3      109      28.7     24       1.1      129      8.8      3.0      1.5      
+
+
+
+Cardiac enzymes
+
+Date     CK-MB    TROP-I   
+
+08/09/96 NEGATIVE NEGATIVE 
+
+
+
+Hematology
+
+Date     HCT      WBC      PLT      
+
+08/09/96 33.4     7.3      172      
+
+
+
+Coagulation
+
+Date     PT       PT-INR   PTT      
+
+08/09/96 11.2     0.9      27.0     
+
+
+
+
+
+	
+
+
+
+	Other Data:
+
+   CXR:  Clear lungs.
+
+
+
+	Assessment and plan:
+
+   Mr. Innis presents with a single episode of chest pain, similar to but more severe than his usual angina.  His EKG is unchanged, and his cardiac markers are negative.
+
+
+
+Plan:
+
+1.  CP/CAD - continue to rule out with third set of markers; continue ASA, Plavix, Bblocker, statin.  Telemetry.  NPO after midnight for possible stress test in am.
+
+
+
+2.  Anemia - guaiac stools, anemia labs, send blood bank sample.
+
+
+
+3.  HTN - due for pm Lisinopril dose.  Continue home meds
+
+
+
+4.  COPD - appears at baseline.  Continue home meds
+
+
+
+Further plans in AM per Dr. Hall.
+
+
+
+	
+
+Fatema B. Wilkins, MD pager #80121
+
+	
+
+Signed electronically by  Fatema B. Wilkins, MD
+
+Document Status: Final
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2096-08-09" TYPE="DATE" comment="" />
+<LOCATION id="P1" start="47" end="73" text="YORK CONVALESCENT HOSPITAL" TYPE="HOSPITAL" comment="" />
+<NAME id="P2" start="155" end="159" text="Hall" TYPE="DOCTOR" comment="" />
+<NAME id="P3" start="167" end="172" text="Innis" TYPE="PATIENT" comment="" />
+<AGE id="P4" start="178" end="180" text="77" TYPE="AGE" comment="" />
+<DATE id="P5" start="247" end="251" text="3/95" TYPE="DATE" comment="" />
+<NAME id="P6" start="1297" end="1306" text="Yamashita" TYPE="DOCTOR" comment="" />
+<DATE id="P7" start="1980" end="1985" text="2060s" TYPE="DATE" comment="" />
+<DATE id="P8" start="2898" end="2906" text="08/09/96" TYPE="DATE" comment="" />
+<DATE id="P9" start="3047" end="3055" text="08/09/96" TYPE="DATE" comment="" />
+<DATE id="P10" start="3128" end="3136" text="08/09/96" TYPE="DATE" comment="" />
+<DATE id="P11" start="3219" end="3227" text="08/09/96" TYPE="DATE" comment="" />
+<NAME id="P12" start="3335" end="3340" text="Innis" TYPE="PATIENT" comment="" />
+<NAME id="P13" start="3888" end="3892" text="Hall" TYPE="DOCTOR" comment="" />
+<NAME id="P14" start="3900" end="3917" text="Fatema B. Wilkins" TYPE="DOCTOR" comment="" />
+<CONTACT id="P15" start="3929" end="3934" text="80121" TYPE="PHONE" comment="" />
+<NAME id="P16" start="3965" end="3982" text="Fatema B. Wilkins" TYPE="DOCTOR" comment="" />
+</TAGS>
+</deIdi2b2>

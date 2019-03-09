@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2093-03-28
+
+CC: f/u visit for chest pain
+
+
+
+HPI: Mr. Hooper has not had any further episodes of chest pain.  Negative enzymes and normal EKG on 3/12.  I recommended ETT to f/u on this but he misunderstood and didn't think he needed to have it done.  He reports that Dr. Gill in neurology suggested he might be a candidate for bariatric surgery.  He is going to be seeing Naomi Newberry in nutrition, who is now at the Manamana.
+
+
+
+
+
+Problems
+
+HTN 
+
+HYPERCHOL 
+
+WEIGHT 
+
+H/O GOUT 
+
+DM 
+
+
+
+
+
+Medications
+
+ALLOPURINOL 300 MG PO QD
+
+Insulin Nph Human 22 UNITS SC QAM : 17 units qpm
+
+Elavil (AMITRIPTYLINE Hcl) 10MG, 1 Tablet(s) PO QHS
+
+ATENOLOL 50 MG PO BID
+
+LISINOPRIL 20MG, 1 Tablet(s) PO QD
+
+METFORMIN 500MG, 1 Tablet(s) PO QD
+
+Lantus (INSULIN Glargine) 40 UNITS SC QHS
+
+Pravachol (PRAVASTATIN) 40MG, 1 Tablet(s) PO QHS 
+
+
+
+
+
+Allergies
+
+NONE - NONE 
+
+
+
+ROS:
+
+CV: no chest pain, orthopnea, PND, LE edema, palps
+
+GI: no abd pain, nausea, vomiting, d/c, heartburn
+
+Musc: occ. cramping in the left calf, no edema, no color change, no coldness
+
+
+
+PE: 
+
+130/100 but recheck with large cuff BP 114/78, P 66 RR 14 refused wgt
+
+BMI 35.1 by last weight in the system
+
+General: obese, NAD
+
+CV:
+
+   JVP 5 cm
+
+   PMI normal 
+
+   no thrills
+
+   Regular rate and rhythm. no m/r/g
+
+Carotids:  no bruits
+
+Aorta: no palp enlargement or bruit
+
+Pedal pulses: 2+ DP and PT pulses bil.
+
+Extr: no clubbing, cyanosis, or edema, no calf tenderness
+
+CHEST: Respir effort normal with no use of accessory  muscles. 
+
+The chest is clear to A and P bilaterally. No rales, wheezes, rhonchi
+
+
+
+
+
+A/P:
+
+1. Chest pain: resolved.  ETT given his risk factors.  Continue asa and beta blocker.
+
+2. DM: HbA1C good.  Continue Metformin and lantus.    Microalbumin next visit.  
+
+3. Hyperlipidemia: reviewed LDL which is a little high at 106.  Continue increased dose of pravachol, recheck 2-3 months.
+
+4. Obesity: BMI 35 with risk factors. Refer to wgt. mgmt program for evaluation, not necessarily for surgery at this time though that may be an option in the future.
+
+5. HTN: under good control today.  Continue current regimen.
+
+6. f/u visit 3 months and prn
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2093-03-28" TYPE="DATE" comment="" />
+<NAME id="P1" start="69" end="75" text="Hooper" TYPE="PATIENT" comment="" />
+<DATE id="P2" start="160" end="164" text="3/12" TYPE="DATE" comment="" />
+<NAME id="P3" start="286" end="290" text="Gill" TYPE="DOCTOR" comment="" />
+<NAME id="P4" start="387" end="401" text="Naomi Newberry" TYPE="DOCTOR" comment="" />
+<LOCATION id="P5" start="434" end="442" text="Manamana" TYPE="HOSPITAL" comment="" />
+</TAGS>
+</deIdi2b2>

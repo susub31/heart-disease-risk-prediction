@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2094-09-18
+
+EDVISIT^11289501^FAY, BROOK^9/18/2094^XAYSANA, YUSEF
+
+I confirm that I have interviewed and examined the patient,
+
+reviewed the resident's documentation on the patient's chart, and
+
+discussed the evaluation, plan of care, and disposition with the
+
+patient and the resident, Dr. Vanburen.  Please see his note for
+
+full details.
+
+HISTORY OF PRESENT ILLNESS:  A 67-year-old female who presents to
+
+triage complaining of substernal chest pain, diaphoretic.  Triage
+
+note states that she is complaining of substernal chest pain
+
+radiating to the neck with this and diaphoresis.  She is cool and
+
+pale.  Her triage vital signs showed pulse of 148, up to 180s. 
+
+She was tachypneic.  Her blood pressure was unobtainable and her
+
+sats were 90% on room air.  She is hypoxic.  She was afebrile,
+
+temperature 96.  She was immediately brought back to room.  At
+
+that time, she complained of palpitations, diaphoresis, and chest
+
+pain since 10 p.m.  She has had no history of an MI.
+
+PAST MEDICAL HISTORY:  She does have history of hypertension,
+
+diabetes, and hypercholesterolemia.
+
+SOCIAL HISTORY:  She denies any tobacco or IV drugs or any other
+
+drugs.  She lives with her family who is at her bedside.
+
+PAST SURGICAL HISTORY:  She has had bilateral tubal ligation.
+
+REVIEW OF SYSTEMS:  Currently, chest pain, palpitations,
+
+diaphoresis, and shortness of breath.  Otherwise, all systems are
+
+negative.
+
+MEDICATIONS:  She is on metformin and Lipitor.
+
+ALLERGIES:  She has no known drug allergies.
+
+PHYSICAL EXAMINATION:  She is awake, alert, in moderate distress.
+
+ She is tachycardic to 180 in the monitor.  Her blood pressure is
+
+not able to be obtained at this time.  Her saturations are 100%
+
+on room air, normal interpretation.  She is alert, awake and
+
+oriented, follows commands.  Her head is atraumatic.  Her pharynx
+
+is normal.  Her neck is supple and nontender.  She is in no
+
+respiratory distress with normal breath sounds.  Her heart is
+
+tachycardic with a narrow complex tachycardia on monitor.  Her
+
+abdomen is soft and nontender.  Her skin is intact but
+
+diaphoretic.  Extremities are without pedal edema.  She is
+
+oriented x3 with no cranial nerve and no motor or sensory
+
+deficits.
+
+EMERGENCY DEPARTMENT COURSE:  She was placed on a monitor, EKG
+
+and received oxygen as well with this.  She was explained that
+
+she was going to receive adenosine 6 mg and this did break her
+
+off from her SVT.  I was present during this time.  She had an
+
+EKG that then transformed to normal sinus rhythm at 91 with an
+
+incomplete right bundle-branch block with no previous to compare.
+
+ She received aspirin, Lopressor, and nitroglycerin and remained
+
+hemodynamically stable throughout her ED stay.  For her
+
+tachycardia and chest pain, we ruled out AFib, complex
+
+tachycardia, pulmonary embolism, and acute coronary syndrome. 
+
+She was admitted for telemetry as well as a cardiac rule out. 
+
+Her white count was 12 and her hematocrit was 42.  BUN 29 and
+
+creatinine 1.2.  The d-dimer was negative.  Troponin was
+
+negative.  Her chest x-ray was negative.
+
+ ******** Not reviewed by Attending Physician ********
+
+1.  SVT.
+
+2.  Chest pain, rule out acute coronary syndrome.
+
+3.  Abnormal EKG.
+
+CRITICAL CARE TIME:  20 minutes.
+
+______________________________
+
+XAYSANA, YUSEF M.D.
+
+D: 09/20/94
+
+T: 09/21/94
+
+Dictated By: XAYSANA, YUSEF
+
+eScription document:8-5805926 BFFocus
+
+
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2094-09-18" TYPE="DATE" comment="" />
+<ID id="P1" start="36" end="44" text="11289501" TYPE="MEDICALRECORD" comment="" />
+<NAME id="P2" start="45" end="55" text="FAY, BROOK" TYPE="PATIENT" comment="" />
+<DATE id="P3" start="56" end="65" text="9/18/2094" TYPE="DATE" comment="" />
+<NAME id="P4" start="66" end="80" text="XAYSANA, YUSEF" TYPE="DOCTOR" comment="" />
+<NAME id="P5" start="306" end="314" text="Vanburen" TYPE="DOCTOR" comment="" />
+<AGE id="P6" start="388" end="390" text="67" TYPE="AGE" comment="" />
+<NAME id="P7" start="3278" end="3292" text="XAYSANA, YUSEF" TYPE="DOCTOR" comment="" />
+<DATE id="P8" start="3302" end="3310" text="09/20/94" TYPE="DATE" comment="" />
+<DATE id="P9" start="3315" end="3323" text="09/21/94" TYPE="DATE" comment="" />
+<NAME id="P10" start="3338" end="3352" text="XAYSANA, YUSEF" TYPE="DOCTOR" comment="" />
+<ID id="P11" start="3374" end="3383" text="8-5805926" TYPE="IDNUM" comment="" />
+</TAGS>
+</deIdi2b2>

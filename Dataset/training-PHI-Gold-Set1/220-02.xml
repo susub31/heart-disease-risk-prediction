@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2068-12-05
+
+Narrative History	
+
+ Patient presents for uri.  Walks -in .  Overdue for follow-up by 3 months.
+
+
+
+Started last week.   Sinus pressure, post nasal drip , headache , ears blocked.  
+
+No fevers.
+
+Slight white nasal cdischarge.
+
+
+
+Taking advil sinus only helps transiently.
+
+Not getting better or worse.
+
+No chest symptoms - coughing etc..
+
+
+
+Got flu shot already.
+
+
+
+
+
+Problems
+
+FH breast cancer : 37 yo s
+
+FH myocardial infarction : mother died 66 yo
+
+Hypertension 
+
+Uterine fibroids : u/s 2062
+
+Smoking : quit 2/67 s/p MI
+
+Hyperlipidemia : CRF mild chol, cigs, HTN, Fhx and known hx CAD in pt.
+
+borderline diabetes mellitus : 4/63 125 , follow hgbaic
+
+VPB : 2065 - ETT showed freq PVC's, bigeminy and couplets, nondx for ischemia
+
+Coronary artery disease : s/p ant SEMI + stent LAD 2/67, Dr Oakley, ETT Clarkfield 3/67 - neg scan for ischemia.
+
+Thyroid nodule : 2065, thyroid scan 2066 consistent with hot nodule and toxic multinodular goiter, saw Dr Dolan, follow TSH. 
+
+
+
+
+
+Medications
+
+Asa (ACETYLSALICYLIC Acid) 325MG, 1 Tablet(s) PO QD
+
+Nitroglycerin 1/150 (0.4 Mg) 1 TAB SL x1 PRN prn CP
+
+Norvasc (AMLODIPINE) 5MG, 1 Tablet(s) PO QD
+
+Plavix (CLOPIDOGREL) 75 MG PO QD
+
+ATENOLOL 50MG, 1 Tablet(s) PO QD
+
+Lipitor (ATORVASTATIN) 10MG, 1 Tablet(s) PO QD
+
+Hctz (HYDROCHLOROTHIAZIDE) 25MG, 1 Tablet(s) PO QD
+
+Zestril (LISINOPRIL) 40MG, 1 Tablet(s) PO QD 
+
+
+
+
+
+Allergies
+
+Ceclor (CEFACLOR) - Rash 
+
+
+
+
+
+Physical Exam	 
+
+	
+
+Vital signs  140/82  98.2
+
+Looks well,  nontoxic
+
+Sinuses - nontender
+
+TM's clear
+
+OP - negative without exudates
+
+neck- supple without increased nodes
+
+lungs - clear without wheezing on forced exp 
+
+CVS - rrrs2s2
+
+ 
+
+
+
+
+
+Assessment and Plan	
+
+1. URI - no evidence of bact sinus infection.  Needs decongestion but would like to avoid decong systemically given history CAD and ectopy in past. Will use steam, humidity, nasal decong spray for 3 days.  Call if fevers, worsens or persists.
+
+2. Hot thyroid nodule - was slightly higher last visit - will refer to Dr Dolan for discussion re treating this now especially given her history of cardiac ds in the last couple of years.
+
+3. blood pressure - slightly elevated above what would want it. Will recheck on follow-up which will be soon
+
+4. Chol- will check fastings next visit. Lfts okay in June
+
+
+
+Due for annual - will schedule next avail.
+
+
+
+Beverly Thiel MD
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2068-12-05" TYPE="DATE" comment="" />
+<AGE id="P1" start="424" end="426" text="37" TYPE="AGE" comment="" />
+<AGE id="P2" start="472" end="474" text="66" TYPE="AGE" comment="" />
+<DATE id="P3" start="517" end="521" text="2062" TYPE="DATE" comment="" />
+<DATE id="P4" start="538" end="542" text="2/67" TYPE="DATE" comment="" />
+<DATE id="P5" start="654" end="658" text="4/63" TYPE="DATE" comment="" />
+<DATE id="P6" start="686" end="690" text="2065" TYPE="DATE" comment="" />
+<DATE id="P7" start="810" end="814" text="2/67" TYPE="DATE" comment="" />
+<NAME id="P8" start="819" end="825" text="Oakley" TYPE="DOCTOR" comment="" />
+<LOCATION id="P9" start="831" end="841" text="Clarkfield" TYPE="HOSPITAL" comment="" />
+<DATE id="P10" start="842" end="846" text="3/67" TYPE="DATE" comment="" />
+<DATE id="P11" start="890" end="894" text="2065" TYPE="DATE" comment="" />
+<DATE id="P12" start="909" end="913" text="2066" TYPE="DATE" comment="" />
+<NAME id="P13" start="979" end="984" text="Dolan" TYPE="DOCTOR" comment="" />
+<NAME id="P14" start="2011" end="2016" text="Dolan" TYPE="DOCTOR" comment="" />
+<DATE id="P15" start="2290" end="2294" text="June" TYPE="DATE" comment="" />
+<NAME id="P16" start="2344" end="2357" text="Beverly Thiel" TYPE="DOCTOR" comment="" />
+</TAGS>
+</deIdi2b2>

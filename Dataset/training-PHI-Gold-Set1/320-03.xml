@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2080-06-13
+
+
+
+INFECTIOUS DISEASE ASSOCIATES
+CURTIS MEDICAL CENTER
+
+Reason for visit   Brucellosis.
+
+History of present illness   Ms. Iles is seen here two weeks after her discharge from the hospital.  She has been treated for systemic brucellosis with suspicion of osteoarticular disease given her low back pain.  She is taking rifampin, doxycycline and has been treated with streptomycin.  She feels quite a bit better and has had resolution of her fevers and chills.  She has diminished pain and is able to ambulate somewhat and goes to the bathroom more comfortably.  She still has weakness and a poor appetite.  There have been no change in her bowel habits and no fevers, chills or rash.
+
+Past medical history   -DMII (dx late 60s, last A1c = 5.6 in 2/80) 
+-HTN 
+-Hyperlipidemia 
+-Hep B sAb+, sAg+, and core Ab+ in 2067; now sAg-, sAb+, and core Ab (+) in 2/2080 ( recovery ) 
+-H/o H. pylori (+) 2068 and 2080 s/p triple therapy 
+-GERD 
+-OA 
+-H/o vitamin D deficiency 
+-H/o chronic HAs (migraines vs. tension HAs) 
+-+ PPD (in Mississippi in 2067) 
+-H/o malaria
+
+Active Medications
+ multivitamins liquid; Dir: One teaspoon daily
+ metformin hydrochloride 500 MG PO BID
+ lisinopril 20 MG PO daily
+ atenolol 50 MG PO daily
+ Zofran 4 MG PO Q8H
+ aspirin 81 MG PO daily
+ morphine sulfate immediate release PO Q4H PRN
+ Ms contin PO Q12H
+ simvastatin 40 MG PO QPM
+
+Review of systems   Denies fever, rigor, night sweats, headache, SOB, cough, anorexia, nausea, vomiting, diarrhea, abdominal pain, paresthesias, or rash.
+
+Physical Exam
+Pulse   120
+Blood pressure 160/70  
+respiratory rate   16
+weight   181 lbs., temperature 98.6.
+General appearance   Well appearing.
+Skin   No rash or jaundice.
+HEENT   No thrush.
+Nodes   None.
+Chest   Clear.
+Cor   Normal PMI.  Regular rate and rhythm, 1/6 systolic ejection murmur is unchanged.  No rub, gallop or click.
+Abdomen   Soft without hepatosplenomegaly, mass or ascites.
+Musc skel   There is some persistent tenderness in the left sacroiliac region in her lower back.
+
+Selected recent labs   Include, sodium 134, creatinine 0.6, glucose 147, calcium 9.0. SGOT 86, SGPT 75 and these are both lower than in the hospital. Iron 31, TIBC 164. Hematocrit 37, white blood cell count 4, platelets 411,000. Followup blood cultures drawn in the hospital, sterilized on therapy.
+
+Assessment and plan   .  Continue with doxycycline and rifampin for brucellosis.  Follow up with Dr. Tillman skin in one month.  Liver function test and CBC drawn today.  Low suspicion of endocarditis.  We anticipate therapy to be six months.
+
+FOLLOWUP:  One month.
+
+Todd Riley, MD
+
+Signed electronically by  Todd Riley, MD
+Document Status: Final
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2080-06-13" TYPE="DATE" comment="" />
+<LOCATION id="P1" start="60" end="81" text="CURTIS MEDICAL CENTER" TYPE="HOSPITAL" comment="" />
+<NAME id="P2" start="149" end="153" text="Iles" TYPE="PATIENT" comment="" />
+<DATE id="P3" start="748" end="751" text="60s" TYPE="DATE" comment="" />
+<DATE id="P4" start="771" end="775" text="2/80" TYPE="DATE" comment="" />
+<DATE id="P5" start="836" end="840" text="2067" TYPE="DATE" comment="" />
+<DATE id="P6" start="877" end="883" text="2/2080" TYPE="DATE" comment="" />
+<DATE id="P7" start="917" end="921" text="2068" TYPE="DATE" comment="" />
+<DATE id="P8" start="926" end="930" text="2080" TYPE="DATE" comment="" />
+<LOCATION id="P9" start="1047" end="1058" text="Mississippi" TYPE="STATE" comment="" />
+<DATE id="P10" start="1062" end="1066" text="2067" TYPE="DATE" comment="" />
+<NAME id="P11" start="2426" end="2433" text="Tillman" TYPE="DOCTOR" comment="" />
+<NAME id="P12" start="2592" end="2602" text="Todd Riley" TYPE="DOCTOR" comment="" />
+<NAME id="P13" start="2634" end="2644" text="Todd Riley" TYPE="DOCTOR" comment="" />
+</TAGS>
+</deIdi2b2>

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2092-09-18
+
+EDVISIT^14477347^Bennett, Nancy^09/20/92^NOE, NATALEY KINSLEE
+
+CHIEF COMPLAINT:  Dizzy.
+
+I confirm that I have seen and evaluated this patient, reviewed
+
+the resident's documentation, and discussed the evaluation, plan
+
+of care, and disposition with the patient.
+
+HISTORY OF PRESENT ILLNESS:  This is a 74-year-old woman with a
+
+history of diabetes and hypertension who for the last 24 hours
+
+really has had trouble getting out of bed.  She started feeling
+
+dizzy having difficulty with moving and fatigue, never really
+
+felt like this before.  She does feel a little bit dizzy when she
+
+stands up and went to North Iowa Oral Surgery Center where
+
+they discovered her to be in heart block and sent her to us.
+
+REVIEW OF SYSTEMS.  Negative for fever, chills, chest pain,
+
+shortness of breath, and abdominal pain.  She does admit to
+
+several bug bites.
+
+PAST MEDICAL HISTORY:  History of polyarteritis nodosa 30 years
+
+ago.  She is non-insulin-dependent diabetes and hypertension.
+
+MEDICINES, ALLERGIES, SOCIAL HISTORY, AND FAMILY HISTORY:  As per
+
+the chart.
+
+PHYSICAL EXAMINATION:  An obese woman awake, alert, and oriented.
+
+ She has a junctional rhythm in the 30s on the monitor with P
+
+waves marching out as well but not in sequence with her QRS.  Her
+
+blood pressure is 150 systolic.  She is awake and alert and her
+
+oropharynx is normal.  Neck is supple.  Chest is clear.  Cardiac
+
+exam is bradycardic without murmur, rub, or gallop.  Abdomen is
+
+soft and nontender.  Extremities:  Without cyanosis, clubbing, or
+
+edema.  She does have an area of erythema in her mid back,
+
+nontender, no central clearing.
+
+EMERGENCY DEPARTMENT COURSE:  The patient has an EKG that shows
+
+AV dissociation with relatively narrow complex junctional escape
+
+rhythm.  Her chest x-ray is clean.  The rest of her lab exam is
+
+ ******** Not reviewed by Attending Physician ********
+
+by the EP Service and the plan is to take her to the Cath Lab for
+
+a percutaneous transvenous pacer.
+
+DIAGNOSIS:  AV dissociation.
+
+______________________________
+
+NOE, NATALEY KINSLEE M.D.
+
+D: 09/21/92
+
+T: 09/21/92
+
+Dictated By: NOE, NATALEY KINSLEE
+
+eScription document:0-7309513 BFFocus
+
+
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2092-09-18" TYPE="DATE" comment="" />
+<ID id="P1" start="36" end="44" text="14477347" TYPE="MEDICALRECORD" comment="" />
+<NAME id="P2" start="45" end="59" text="Bennett, Nancy" TYPE="PATIENT" comment="" />
+<DATE id="P3" start="60" end="68" text="09/20/92" TYPE="DATE" comment="" />
+<NAME id="P4" start="69" end="89" text="NOE, NATALEY KINSLEE" TYPE="DOCTOR" comment="" />
+<AGE id="P5" start="331" end="333" text="74" TYPE="AGE" comment="" />
+<LOCATION id="P6" start="638" end="668" text="North Iowa Oral Surgery Center" TYPE="HOSPITAL" comment="" />
+<NAME id="P7" start="2056" end="2076" text="NOE, NATALEY KINSLEE" TYPE="DOCTOR" comment="" />
+<DATE id="P8" start="2086" end="2094" text="09/21/92" TYPE="DATE" comment="" />
+<DATE id="P9" start="2099" end="2107" text="09/21/92" TYPE="DATE" comment="" />
+<NAME id="P10" start="2122" end="2142" text="NOE, NATALEY KINSLEE" TYPE="DOCTOR" comment="" />
+<ID id="P11" start="2164" end="2173" text="0-7309513" TYPE="IDNUM" comment="" />
+</TAGS>
+</deIdi2b2>

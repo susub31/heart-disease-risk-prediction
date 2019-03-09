@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2086-11-04
+
+
+	CARDIOLOGY
+	
+
+	WETZEL COUNTY HOSPITAL
+	
+
+
+	Reason for visit:
+   Mr Qazi returns for followup of his coronary disease.
+
+
+	Interval History:
+   He has no symptoms of chest pain or pressure, no palpitations dyspnea or orthopnea.He specifically denies predictable exertional chest pressure. Thinks he may have tried one TNG inthe course of the last year
+
+He hasbeen active physically and does a considerable amount of scuba diving in addition to his duties at Mason House.
+
+He seems to be putting on some weight.
+
+He's D/Ced his HCTZ because of light headedene
+
+
+	Past medical history:
+   1. CAD:
+-Cath 1/73: 80% prox RCA stenosis w/ thrombus, mod D1 stenosis, clear Lcx.  LV gram EF 69%, normal motion. 
+-Cath 9/81: Critical proximal ramus lesion.  RCA with proximal 40% lesion, patent RCA stent. Patent left main, apical LAD with 99% lesion with L-L collaterals. Cfx 35% mid lesion. Normal LVEDP, no AS.  LVf 50-55%.
+-Also with h/o RCA stent, unclear where procedure was done and patient unable to recall details.
+He was transferred in January 2083 to the WCH after presenting to the Florida Hospital Orlando with a non ST segment elevation MI in the anterolateral zone. He underwent angioplasty and stenting of his proximal LAD using a 2.5 x 13 mm Cypher drug eluting stent.
+2. HTN
+3. Hyperlipidemia
+
+	
+
+
+	Family history:
+   Mother: deceased in 60's with leukemia
+Father: extensive CAD, with first MI in 50's.  Had MI x7, died in 70s.
+
+
+
+	Social history:
+   He runs  Mason House,a halfway home.  He has h/o drug/ETOH abuse but clean and sober x 25 years.  He is not married, no children.
+Tobacco: + for 40 years 2-4ppd.
+
+
+
+	Review of systems:
+   There are no new findings except as above.
+
+All the following a normal or negative: General: Unexpected weight gain or weight loss, night sweats fever or chills. Head and neck: Headaches, dizzy spells hoarseness. Respiratory: Cough wheezing, sputum production, hemoptysis. Cardiovascular: See history above. Gastrointestinal: Frequent heartburn or indigestion, difficulty swallowing, nausea vomiting jaundice, unusual constipation or diarrhea, black or bloody stools. Urinary: Frequent urination at night, urinary infections, kidney stones, blood in the urine. Neurologic: Transient paralysis, seizures, loss of vision in one eye, numbness or tingling in the feet. Hematologic: Easy bruising, recurrent infections. Skin: New rashes or eruptions, poor healing of foot sores, moles changing in size or color. Endocrine: Polyuria, polydipsia, heat or cold intolerance. Musculoskeletal: Low back pain, joint pains, joint swelling.
+
+
+Physical examination:
+	
+-temp:    afebrile
+-Pulse: 60  
+-resp. rate: 14  
+-weight: 190  lbs.
+-General:   No acute distress. Overweight
+-Skin:   No rashes, anicteric.
+-HEENT:   Unremarkable
+-Neck:   Carotids 2+ without bruits. JVP no jugular venous distention.
+-Chest:   Clear to auscultation and percussion.
+-Cardiac:   Left ventricular impulse discrete and nondisplaced. Regular rate and rhythm, normal S1 and S2, with no S3 or S4. There were no murmurs, clicks or rubs.
+-Abdomen:   Obese.Normal bowel sounds, soft and nontender, with no hepatosplenomegaly or masses appreciated.
+-Extremities:   No edema. 2+ PT bilateral
+-BP: 140/80  
+
+
+	EKG:
+   Normal sinus rhythm. There is incomplete right bundle branch block. There are very small Q-waves in leads V2 V3 V4 and V5 The tracing is unchanged
+
+Selected recent labs:
+	 He has not had any recent laboratory studies.Lab requisition provided
+	
+
+
+	Impression:
+
+	
+
+
+	Assessment and plan:
+     He is doing quite well at this point and has no symptoms he will remain on his present medications and I will see him again in another year
+		Medication List (confirmed)
+
+				CONFIRMED
+
+		- bupropion extended release  150mg po qam
+
+		- Ecotrin  325 mg po daily
+
+		- nitroglycerin  0.4 mg sl every 5 minutes PRN chest pain
+
+		- Plavix  75mg po daily
+
+		- simvastatin  80mg po qpm
+
+		- Toprol XL  50 mg mg po bid
+
+		- Tricor  48mg po daily
+
+			------------------------------------------------------------
+
+				STOPPED
+
+		- hydrochlorothiazide  25mg 1 po daily
+
+
+	
+	
+
+	
+Quinten B. Prado, MD pager #82910
+
+	
+Signed electronically by  Quinten B. Prado, MD
+Document Status: Final
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2086-11-04" TYPE="DATE" comment="" />
+<LOCATION id="P1" start="45" end="67" text="WETZEL COUNTY HOSPITAL" TYPE="HOSPITAL" comment="" />
+<NAME id="P2" start="97" end="101" text="Qazi" TYPE="PATIENT" comment="" />
+<LOCATION id="P3" start="486" end="497" text="Mason House" TYPE="ORGANIZATION" comment="" />
+<DATE id="P4" start="629" end="633" text="1/73" TYPE="DATE" comment="" />
+<DATE id="P5" start="737" end="741" text="9/81" TYPE="DATE" comment="" />
+<DATE id="P6" start="1064" end="1076" text="January 2083" TYPE="DATE" comment="" />
+<LOCATION id="P7" start="1084" end="1087" text="WCH" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P8" start="1112" end="1136" text="Florida Hospital Orlando" TYPE="HOSPITAL" comment="" />
+<AGE id="P9" start="1374" end="1378" text="60's" TYPE="AGE" comment="" />
+<AGE id="P10" start="1433" end="1437" text="50's" TYPE="AGE" comment="" />
+<AGE id="P11" start="1459" end="1462" text="70s" TYPE="AGE" comment="" />
+<LOCATION id="P12" start="1496" end="1507" text="Mason House" TYPE="ORGANIZATION" comment="" />
+<NAME id="P14" start="4110" end="4126" text="Quinten B. Prado" TYPE="DOCTOR" comment="" />
+<CONTACT id="P15" start="4138" end="4143" text="82910" TYPE="PHONE" comment="" />
+<NAME id="P16" start="4173" end="4189" text="Quinten B. Prado" TYPE="DOCTOR" comment="" />
+</TAGS>
+</deIdi2b2>

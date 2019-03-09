@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2080-07-03
+
+
+
+History of Present Illness
+
+POD # 3 
+
+Procedure  femoral-femoral bypass graft   
+
+Surgeon    U. Needham
+
+
+
+Narrative History
+
+This gentleman has type 2 DM diagnosed in  2078.  At that time he was seen at the ED with urinary frequency and was not feeling well. He was admitted to the hospital for BG's of 400's.  He was discharged on NPH insulin 30 units q am and 15 units q pm.  He has followed up with Dr. Xan Dunn from our Diabetes department. 
+
+His latest home DM regimen consists of NPH insulin 25 units q am and 10 units q hs.
+
+His home BG's are usually 130 or less.
+
+He has hypoglycemia unawareness.
+
+He has PVD s/p fem-fem bypass graft 6/30/80, ulcer on R big toe, (+)peripheral neuropathy.
+
+
+
+Past Medical History
+
+Morbidly obese,  + sleep apnea, +BPH, h/o gastric reflux, h/o pseudotumor cerebri, s/p hip surgery
+
+
+
+Family History
+
+no diabetes
+
+
+
+Social History
+
+Smoking (+)
+
+
+
+Medications Text
+
+Meds now:
+
+NPH insulin 25 units q am and 10 units q hs
+
+regular insulin SS 201-250--4 units
+
+simvastatin, lasix, levaquin, clindamycin, lisinopril, ECASA, lopressor, pepcid
+
+
+
+Physical Exam
+
+BP 140/73  PR 72/min    T 98.7
+
+      General Appearance
+
+morbidly obese
+
+      HEENT
+
+anicteric sclerae
+
+      Neck
+
+trachea midline
+
+      Chest
+
+CTA
+
+      Cor/Cardiac
+
+RRR
+
+      Abdomen
+
+Soft, obese
+
+      Extremity
+
+dressing intact on ulcer, R big toe
+
+      Neurological
+
+alert, oriented
+
+      Skin
+
+(+) acanthosis nigracans
+
+
+
+Laboratory Data
+
+A1c 6.1 in 03/80
+
+FS's 7/02 65 (treated with OJ)--110   91  238  165
+
+     7/03 101                         119
+
+s. creatinine 1.4
+
+LFT wnl
+
+WBC 13.7
+
+
+
+Assessment
+
+Type 2 DM complicated by PVD and neuropathy.  He was not eating well 7/01-7/02 but says his appetite has now recovered.
+
+
+
+Recommendation
+
+1.  Continue NPH insulin 25 units q am and 10 units q hs.
+
+2.  Suggest to change regular insulin sliding scale to humalog as this is more physiologic (acts faster and clears faster as well).  Give only half doses of this at hs since he will not be eating then.
+
+3.  Please get a Hemoglobin A1c.  This will help us assess blood glucose control for the past 2-3 months and can help in discharge planning.
+
+4.  He should folow-up with Dr. Dunn from Diabetes.
+
+
+
+
+
+Thank you.  
+
+
+
+U. Natalyn Gold, M.D., M.P.H.
+
+b26494
+
+
+
+(beeper for weekend:  65860)
+
+
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2080-07-03" TYPE="DATE" comment="" />
+<NAME id="P1" start="123" end="133" text="U. Needham" TYPE="DOCTOR" comment="" />
+<DATE id="P2" start="199" end="203" text="2078" TYPE="DATE" comment="" />
+<NAME id="P3" start="437" end="445" text="Xan Dunn" TYPE="DOCTOR" comment="" />
+<DATE id="P5" start="673" end="680" text="6/30/80" TYPE="DATE" comment="" />
+<DATE id="P6" start="1490" end="1495" text="03/80" TYPE="DATE" comment="" />
+<DATE id="P7" start="1502" end="1506" text="7/02" TYPE="DATE" comment="" />
+<DATE id="P8" start="1554" end="1558" text="7/03" TYPE="DATE" comment="" />
+<DATE id="P9" start="1713" end="1717" text="7/01" TYPE="DATE" comment="" />
+<DATE id="P10" start="1718" end="1722" text="7/02" TYPE="DATE" comment="" />
+<NAME id="P11" start="2219" end="2223" text="Dunn" TYPE="DOCTOR" comment="" />
+<NAME id="P13" start="2260" end="2275" text="U. Natalyn Gold" TYPE="DOCTOR" comment="" />
+<CONTACT id="P14" start="2292" end="2297" text="26494" TYPE="PHONE" comment="" />
+<CONTACT id="P15" start="2323" end="2328" text="65860" TYPE="PHONE" comment="" />
+</TAGS>
+</deIdi2b2>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2081-10-07
+
+ Ms. Greenwood is a 50yo F with DM, HTN, hidradenitis, hyperlipidemia and obesity who presents for routine follow-up.  Since her last visit, she has been to the Windsor Hospital where she was started on "sea kelp" lotion for hidradenitis and was told to bathe in salt water and keep the affected areas moist. No longer taking levofloxacin. She is encouraged about this new treatment. These doctors recommended losing 50 lbs, which could help her condition as well.  Because of this, she has been to see the nutritionist today and is eager to lose 40lb. 
+
+Diabetes: as her sugars have been high, she self increased metformin to BID. Has not noticed any side effects. Would like her sugars checked today.
+
+Social Stressors: her husband will be released from jail in November. She intends to move prior to his release. Still involved with psychiatry and passageways. Uses ativan up to 4 times a day for anxiety. Had her meds confiscated by security at Chariton airport as her PICH last name does not match her drivers license.
+
+Trauma: attacked by her cat 5 days ago on her left wrist--using topical antibiotics obtained at Montgomery Infirmary ED.
+
+SHx: volunteering for Computer Sciences Corporation and enjoying the work. Smoking has decreased to 4 per day. Home phone # 249-007-9762
+
+
+Medications
+Colace (DOCUSATE Sodium) 100 MG (100MG TABLET take 1) PO TID  
+Oxycontin (OXYCODONE Controlled Release) 10 MG (10MG TAB.SR 12H take 1) PO BID x 10 days 
+LISINOPRIL 40 MG (40MG TABLET take 1) PO QD x 30 days 
+Zocor (SIMVASTATIN) 80 MG (80MG TABLET take 1) PO QHS x 30 days, if you develop muscle pain or weakness, stop the drug immediately and call your doctor. 
+Glucotrol Xl (GLIPIZIDE Xl) 5 MG (5MG TAB SR OSM take 1) PO QD  
+METFORMIN 500 MG (500MG TABLET take 1) PO QD -->BID
+HYDROCHLOROTHIAZIDE 25 MG (25MG TABLET take 1) PO QD x 30 days 
+Toprol Xl (METOPROLOL Succinate Extended Release) 50 MG (50MG TAB.SR 24H take 1) PO QD x 30 days 
+Celexa (CITALOPRAM) 20 MG (20MG TABLET take 1) PO QD x 30 days, take 1/2 tab x 4 days and then take one tablet daily 
+Percocet 5 Mg/325 Mg  (OXYCODONE 5 Mg/acetaminophen 325 Mg) 1-2 TAB PO Q4-6H x 11 days 
+Clindamycin 1% Gel 1 APPLICATION (1% GEL ) TOP BID x 21 days, please apply to affected areas twice a day  
+OXYCODONE 5 MG (5MG TABLET take 1) PO Q6H PRN pain , to be alternated with percocet to minimize tylenol dose 
+Ativan (LORAZEPAM) 0.5 MG (0.5MG TABLET take 1) PO Q6H PRN anxiety/panic , take one tablet up to four times daily as needed for panic attacks 
+
+
+Exam
+Vital Signs BP 142/62, P 72, Wt 227 lb
+AGE 50y6.2m 
+Gen: cheerful, only slightly tearful when discussing husband and frustration with pain, desire to avoid pelvic or breast exam
+Lungs: CTA bilaterally
+CV: RRR without murmurs
+Abd: soft, nontender
+Axilla: + hidradenitis of left axilla without erythema or pustules at current time
+
+Plan
+1. Hidradenitis--Still attempting to control medically. Refilled clindamycin gel with increased supply. Avoiding oral antibiotics unless large pustules. Awaiting records from Windsor Hospital. Will start on narcotics log for percocet/oxycodone. Reevaluate supply in 3 months and consider cutting down to 90 pills of each at that time.
+
+2. Diabetes--checking HgA1C today given reported elevated sugars. Continue metformin and glipizide for now. Will call if she needs to increase metformin dose.
+
+3. HTN--still high, but improved. On HCTZ, lisinopril 40 and toprol 50. Will monitor with weight loss efforts. 
+
+4. Psychiatry--labile emotions, has psychiatry and passageway supports in place. Disability paper work in process. 
+
+5. HCM--currently refusing pap and mammogram, as it will be "too painful". Will consider it again in 3 months. Note: known family h/o ovarian/breast ca. Will continue to provide support and encourage screening examinations.
+
+
+
+
+_____________________________________________
+Brandy F. Tate, M.D., Ph.D.
+
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2081-10-07" TYPE="DATE" comment="" />
+<NAME id="P1" start="33" end="42" text="Greenwood" TYPE="PATIENT" comment="" />
+<AGE id="P2" start="48" end="50" text="50" TYPE="AGE" comment="" />
+<LOCATION id="P3" start="189" end="205" text="Windsor Hospital" TYPE="HOSPITAL" comment="" />
+<DATE id="P4" start="792" end="800" text="November" TYPE="DATE" comment="" />
+<LOCATION id="P5" start="977" end="985" text="Chariton" TYPE="CITY" comment="" />
+<LOCATION id="P6" start="1001" end="1005" text="PICH" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P7" start="1149" end="1169" text="Montgomery Infirmary" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P8" start="1197" end="1226" text="Computer Sciences Corporation" TYPE="ORGANIZATION" comment="" />
+<CONTACT id="P9" start="1299" end="1311" text="249-007-9762" TYPE="PHONE" comment="" />
+<AGE id="P10" start="2583" end="2590" text="50y6.2m" TYPE="AGE" comment="" />
+<LOCATION id="P11" start="3050" end="3066" text="Windsor Hospital" TYPE="HOSPITAL" comment="" />
+<NAME id="P12" start="3875" end="3889" text="Brandy F. Tate" TYPE="DOCTOR" comment="" />
+</TAGS>
+</deIdi2b2>

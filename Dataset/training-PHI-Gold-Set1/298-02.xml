@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2081-07-17
+
+FREDERICK JEFFERSON
+
+KRMC Unit No:  887-09-86
+
+
+
+ZUCKER HILLSIDE HOSPITAL
+
+
+
+ADULT MEDICINE
+
+
+
+
+
+Date:  July 17, 2081
+
+
+
+Weight 204 lb, up 15 lb. 
+
+
+
+Patient accompanied by wife who gives meds to patient. 
+
+
+
+Patient states does not eat much. Wife disagrees. States frequent sweets in diet, cake, doughnuts, pie a la mode, 1    cups of coffee - will have cookie with it. 
+
+
+
+MEDICATIONS:  Lasix 40 mg 1.5 tabs q.d., calcium tablet 500 mg q.d., colchicine 0.6 mg q.o.d., digoxin 0.125 mg q.o.d., isosorbide 20 mg t.i.d., Hydralazine 10 mg q.i.d., Metoprolol 50 mg b.i.d., Prednisone 5 mg q.d., Coumadin 3 mg per anticoag. 
+
+CHF/CAD. Rare cough productive of clear sputum. Denies SOB, DOE, PND, although awakens 2-3 x per night. Walks around, sits in recliner for about an hour, then back to sleep. Per wife, patient naps in chair during day. Also frequently drinks coffee at night. Patient denies CP or palpitations or difficulty with breathing. 
+
+
+
+PHYSICAL EXAM:  Weight up 15 lb. BP, RA 120/70. Chest - Clear with decreased sounds bilateral bases, decreased breath sounds. Cardiac - Regular rhythm with premature beats at 84. No murmur. Extremities - No edema on right, trace on left. 
+
+
+
+ASSESSMENT AND PLAN:  
+
+(1)	CHF/CAD. No new symptoms. However, 15 lb weight gain of concern. Consult with Dr. Hale. Check chest x-ray today, BUN and creatinine, lytes. 
+
+(2)	Obesity. Counselled patient and wife regarding d/c sweets in diet, need to focus on reducing weight. 
+
+(3)	Wife mentions patient frequently forgets things, days of week, etc. Discussed with patient mild dementia. RTC in 2 months to Dr. Hale. Continue current meds.
+
+
+
+ADDENDUM: Patient at end of visit mentioned bitter taste, acid, after eating. Apparently never got prescription for ranitidine filled. Ranitidine 150 mg, #60, 1 tab b.i.d. refilled x 3. Pt. ed. regarding decrease coffee in diet. Advised decaffeinated at h.s.
+
+
+
+
+
+Odessa Kang, RNC, ANP
+
+OK/quiggle/urie
+
+
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2081-07-17" TYPE="DATE" comment="" />
+<NAME id="P1" start="28" end="47" text="FREDERICK JEFFERSON" TYPE="PATIENT" comment="" />
+<LOCATION id="P2" start="49" end="53" text="KRMC" TYPE="HOSPITAL" comment="" />
+<ID id="P3" start="64" end="73" text="887-09-86" TYPE="MEDICALRECORD" comment="" />
+<LOCATION id="P4" start="77" end="101" text="ZUCKER HILLSIDE HOSPITAL" TYPE="HOSPITAL" comment="" />
+<DATE id="P5" start="132" end="145" text="July 17, 2081" TYPE="DATE" comment="" />
+<NAME id="P6" start="1329" end="1333" text="Hale" TYPE="DOCTOR" comment="" />
+<NAME id="P7" start="1629" end="1633" text="Hale" TYPE="DOCTOR" comment="" />
+<NAME id="P8" start="1925" end="1936" text="Odessa Kang" TYPE="DOCTOR" comment="" />
+<NAME id="P9" start="1948" end="1950" text="OK" TYPE="DOCTOR" comment="" />
+<NAME id="P10" start="1951" end="1958" text="quiggle" TYPE="DOCTOR" comment="" />
+<NAME id="P11" start="1959" end="1963" text="urie" TYPE="DOCTOR" comment="" />
+</TAGS>
+</deIdi2b2>

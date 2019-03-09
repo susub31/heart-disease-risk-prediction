@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2067-08-08
+
+Urgent visit 80 yo man with CAD, anemia.
+
+
+
+Just hospitalized while I was away on vacation with DOE and cath showed multivessel CAD. Had PTCA of his RCA and was transfused for worse anemia. Feels less dyspneic. It has been difficult to arrange a colonoscopy. Noted to have some afib but not anticoagulated secondary to anemia. Has some low back pain radiating into his thighs when he walks very far. His wife is concerned about the amount of alcohol he was drinking and Dr. Estrella at the Newton Hosp has ordered a strict limit of 1 oz.
+
+
+
+
+
+================ Medications ================
+
+ASPIRIN   325MG PO QD
+
+GLUCOTROL     PO 
+
+LISINOPRIL
+
+LASIX
+
+AMBIEN (ZOLPIDEM TARTRATE)  10MG PO HS PRN .
+
+PROCARDIA XL  120MG PO QD
+
+LIPITOR
+
+CLOPIDOGREL
+
+
+
+ALLERGIES:  None.
+
+
+
+FAMILY HISTORY:  Noncontributory.
+
+
+
+SOCIAL HISTORY:  Married.  Retired.  No cigarettes.
+
+
+
+ROS   Back pain. Thigh aching. Fatigue. Rest of ROS is negative.
+
+
+
+PE  Looks less fatigued.
+
+197   144/80    60  irreg irreg
+
+HEENT: EOMI  No scleral icterus.
+
+Lungs: Clear
+
+Cor: irreg irreg. No audible murmurs or gallops.
+
+Abd: Obese. Non tender.
+
+Ext: No edema. Trace DP pulses.
+
+
+
+
+
+================ Problems ================
+
+ANEMIA    We need to work this up quickly as his hematocrit dropped further. He has a chronic hx of mild anemia in the past. Our endoscopy service is overwhelmed at this point. Referred to the Fairfield.         
+
+         
+
+HYPERTENSION    Has had some cough. Will switch back to Cozaar.      
+
+         
+
+DIABETES (FOLLOWED AT CLAIBORNE)     Brings an A1C of 6.1. Continue Actos and Glucotrol.
+
+     
+
+PROSTATE CA        Stable.
+
+
+
+ALCOHOL   Reiterate the importance of keeping limit on alcohol.
+
+
+
+BACK/THIGH PAIN  Probable spinal stenosis. Would not advocate surgery.
+
+
+
+AF  Will check EKG today. This has been sporadic in the past.
+
+
+
+CAD  Doing well after angioplasty.
+
+
+
+Add: 12 lead EKG in the office shows him to be in AF at 52 with PRWP and T wave abnormalities. We will need to expedite his GI w/u so we can start anticoagulation.  
+
+   
+
+
+
+
+
+
+
+
+
+
+
+______________________________                              
+
+
+
+Jacobson, Isaiah Peter, M.D.
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2067-08-08" TYPE="DATE" comment="" />
+<AGE id="P1" start="41" end="43" text="80" TYPE="AGE" comment="" />
+<NAME id="P2" start="502" end="510" text="Estrella" TYPE="DOCTOR" comment="" />
+<LOCATION id="P3" start="518" end="529" text="Newton Hosp" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P4" start="1413" end="1422" text="Fairfield" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P5" start="1549" end="1558" text="CLAIBORNE" TYPE="HOSPITAL" comment="" />
+<NAME id="P6" start="2144" end="2166" text="Jacobson, Isaiah Peter" TYPE="DOCTOR" comment="" />
+</TAGS>
+</deIdi2b2>

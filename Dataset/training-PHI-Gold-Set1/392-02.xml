@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2112-01-17
+
+ CC:  Follow-up labs/MRI
+
+HPI:  49 y.o. female with h/o diabetes who had meds resumed on last visit.  She is unable to check her blood sugar due to unable to afford strips and insurance will not pay for them.  She was started on pravachol for hyperlipidemia and lisinopril for microalbuminuira on last visit without side effect to meds.  She had an MRI of hips which shows mild DJD and arterial noninvasives showing mild disease on the right and moderate on the left.  Mammogram was negative.  She continues to smoke but is done to one pack/day from two pack/day.  She denies any chest pain, shortness of breath or palpitations.  She has difficulty walking long distances due to claudication.
+
+Problems
+Peripheral vascular disease   
+Diabetes mellitus type 2   
+Hyperlipidemia   
+Claudication   
+
+Medications
+Claritin (LORATADINE) 10 MG (10MG TABLET take 1) PO QD x 30 days 
+Glipizide Xl (GLIPIZIDE Xl) 10 MG (10MG TAB OSM 24 take 1) PO QD x 30 days 
+IBUPROFEN 800 MG (800MG TABLET take 1) PO TID PRN pain x 30 days, Take with food or milk. 
+LISINOPRIL 2.5 MG (2.5MG TABLET take 1) PO QD x 30 days 
+METFORMIN 500 MG (500MG TABLET take 1) PO BID x 30 days 
+Pravastatin (PRAVASTATIN) 10 MG (10MG TABLET take 1) PO QHS x 30 days 
+Tylenol #3 (ACETAMINOPHEN W/codeine 30mg) 1 TAB PO Q6H x 21 days, Do not drive, drink alcohol with this medication. 
+
+Allergies
+NKA   
+
+Family/social History
+Coronary Artery Disease  Relative: Brother; Comments: H/o 4V CABG 
+Bone Cancer Relative: Father; Age of Onset: 53; Living: No  
+Uterine Cancer Relative: Mother; Age of Onset: 46; Living: No  
+Diabetes Mellitus Type 2 Relative: Brother;Relative: Sister;Relative: Grandfather, maternal; 
+
+Health Maint
+Smoking status 01/17/2112  Current smoker  Last Counsel date: 01/17/2112, No Of Cigarettes Smoked per Day: 10-19 CIG/DAY (1/2-1 ppd), Readiness to Change: Ready to quit now 
+Mammogram 01/11/2112 see report in Results    
+Pap Smear 09/28/99 see report in Results    
+Pneumovax 12/26/2111     
+
+Flowsheets
+BLOOD PRESSURE 110/72  
+PULSE 78  
+WEIGHT 207 lb 
+AGE 49y7.7m  
+
+EXAM:  Deferred.
+
+A/P:  1.  PVD.  Start walking program, d/c tobacco, cholesterol, diabetes and hypertension control.  Start Pletal.  Will also evaluate for CAD given multiple risk factors.  Check EKG and schedule nonexercise stress test. 
+2.  Diabetes.  Continue current meds and check labs at f/u visit in 2 months.  Referral for eye exam.
+3.  Hyperlipidemia.  Continue on Pravachol and check last at next visit.
+4.  Tobacco use.  Pt advised to d/c tobacco.  She wants to try on her own and if no success will consider supplemental therapies.
+
+
+
+
+_____________________________________________
+Grace C. Valerie-Yun, M.D.
+
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2112-01-17" TYPE="DATE" comment="" />
+<AGE id="P1" start="60" end="62" text="49" TYPE="AGE" comment="" />
+<AGE id="P2" start="1524" end="1526" text="53" TYPE="AGE" comment="" />
+<AGE id="P3" start="1588" end="1590" text="46" TYPE="AGE" comment="" />
+<DATE id="P4" start="1728" end="1738" text="01/17/2112" TYPE="DATE" comment="" />
+<DATE id="P5" start="1775" end="1785" text="01/17/2112" TYPE="DATE" comment="" />
+<DATE id="P6" start="1897" end="1907" text="01/11/2112" TYPE="DATE" comment="" />
+<DATE id="P7" start="1944" end="1952" text="09/28/99" TYPE="DATE" comment="" />
+<DATE id="P8" start="1989" end="1999" text="12/26/2111" TYPE="DATE" comment="" />
+<AGE id="P9" start="2071" end="2078" text="49y7.7m" TYPE="AGE" comment="" />
+<NAME id="P10" start="2677" end="2697" text="Grace C. Valerie-Yun" TYPE="DOCTOR" comment="" />
+</TAGS>
+</deIdi2b2>

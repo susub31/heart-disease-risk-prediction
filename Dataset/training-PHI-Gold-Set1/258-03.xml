@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2068-10-10
+
+
+Sheboygan Memorial Medical Center
+38 Aston Street                                        SCHWARTZ, XAVIER
+Helena, MD 97756                                      49921666
+(871) 720-9439                                           10/10/68
+
+
+This patient of Dr. Bridges was seen because Dr. Bridges was
+called away on an emergency basis.
+
+His major concern is results of recent vascular studies.  He has
+known diabetes and has a history of several years of exertional
+cramping and discomfort in his legs.  This occurs only with heavy
+exertion.  Dr. Bridges documented normal pedal pulses the last
+visit.
+
+His recent vascular studies showed no significant drop off and
+perfusion pressures level of the ankle.
+
+Did given his history a more inclined to suspect this might be
+pseudoclaudication due to neuropathy or spinal stenosis.  He will
+follow up with Dr. Bridges about next steps.
+
+Ret he declines a flu shot today.
+
+
+______________________________
+FRANK J. XI, M.D.
+
+eScription document:3-638570
+
+DD: 10/10/68
+DT: 10/11/68
+DV: 10/10/68
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2068-10-10" TYPE="DATE" comment="" />
+<LOCATION id="P1" start="29" end="62" text="Sheboygan Memorial Medical Center" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P2" start="63" end="78" text="38 Aston Street" TYPE="STREET" comment="" />
+<NAME id="P3" start="118" end="134" text="SCHWARTZ, XAVIER" TYPE="PATIENT" comment="" />
+<LOCATION id="P4" start="135" end="141" text="Helena" TYPE="CITY" comment="" />
+<LOCATION id="P5" start="143" end="145" text="MD" TYPE="STATE" comment="" />
+<LOCATION id="P6" start="146" end="151" text="97756" TYPE="ZIP" comment="" />
+<ID id="P7" start="189" end="197" text="49921666" TYPE="MEDICALRECORD" comment="" />
+<CONTACT id="P8" start="198" end="212" text="(871) 720-9439" TYPE="PHONE" comment="" />
+<DATE id="P9" start="255" end="263" text="10/10/68" TYPE="DATE" comment="" />
+<NAME id="P10" start="286" end="293" text="Bridges" TYPE="DOCTOR" comment="" />
+<NAME id="P11" start="315" end="322" text="Bridges" TYPE="DOCTOR" comment="" />
+<NAME id="P12" start="573" end="580" text="Bridges" TYPE="DOCTOR" comment="" />
+<NAME id="P13" start="881" end="888" text="Bridges" TYPE="DOCTOR" comment="" />
+<NAME id="P14" start="975" end="986" text="FRANK J. XI" TYPE="DOCTOR" comment="" />
+<ID id="P15" start="1014" end="1022" text="3-638570" TYPE="IDNUM" comment="" />
+<DATE id="P16" start="1028" end="1036" text="10/10/68" TYPE="DATE" comment="" />
+<DATE id="P17" start="1041" end="1049" text="10/11/68" TYPE="DATE" comment="" />
+<DATE id="P18" start="1054" end="1062" text="10/10/68" TYPE="DATE" comment="" />
+</TAGS>
+</deIdi2b2>

@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2080-05-21
+
+
+
+
+
+Vascular Surgery Admission Note
+
+
+Patient Name:  Vieira, Nathan
+MRN:  0666729
+Date and Time: 5/21/2080 8:15 PM
+Attending: Dr. Atwood
+Fellow: Dr. Godfrey
+Senior Resident: Dr. Sanders
+Junior Resident: Dr. Alford 48167
+
+
+Reason for consult: 
+Preadmit for angio 5/22/80
+
+
+HPI:  Pt is a 73yo M known to Dr. Atwood s/p multiple LE revascularization procedures. He presented to Dr. Atwood c/o new onset RLE pain, numbness, and color change, similar to previous episodes of graft thrombosis. He was evaluated at the time and a plan made for angiography and intervention. His INR was 2.9, so it was allowed to drift down and he was scheduled for a procedure on 5/22/80. He is admitted today for preoperative evaluation, anticoagulation, and renal protection.
+
+
+PMHx/PSHx:
+DM
+PVD
+LLE angio, thrombectomy 12/78
+L fem-pop BPG 4/78
+R fem-pop BPG 2/78
+RLE angio 1/78
+CAD s/p PTCA
+HTN
+Hyperlipidemia
+Urinary retention from hypotonic bladder &#8211; self caths, abx prophylaxis, s/p cytstoscopy/TUR
+GERD
+Psoriasis
+L shoulder surgery
+
+
+Meds: 
+Lipitor 20 qpm
+Zetia 10mg qpm
+ASA 81 qam
+Altace 10 qam
+Atenolol 50 qam
+Glyburide 2.5mg BID
+Nitrofurantoin 50mg qd
+Taclonex 60mg cream
+
+
+All:  
+NKDA
+
+
+PE:   
+NAD
+CTAB
+RRR
+Soft, ND, NT, no abdominal bruits
+LE: no edema bilaterally
+Foot:      R: White great toe with dry gangrene through the first interphalangeal joint.  Mild erethema proximally.
+                L: erythema and mild color change of distal toes, a change from pt&#8217;s baseline, (+) cap refill, no palpable pulses
+
+
+                Rad        Fem        Pop         DP           PT
+R             2+           2+           none       none       none                                       
+L             2+           2+           none       1+           1+           
+
+
+LABS:  
+WBC                              9.2                       (4.5-11.0)     th/cmm
+HCT                              39.2             L        (41.0-53.0)    %
+HGB                              13.4             L        (13.5-17.5)    gm/dl
+PLT                              222                       (150-400)      th/cumm
+
+
+PT                               12.4                      (10.3-13.2)    sec
+PT-INR                           1.1
+APTT                             25.3                      (22.1-34.0)    sec
+
+
+Plasma Sodium                    142                       (135-145)      mmol/L
+Plasma Potassium                 4.5                       (3.4-4.8)      mmol/L
+Plasma Chloride                  104                       (100-108)      mmol/L
+Plasma Carbon Dioxide            26.8                      (23.0-31.9)    mmol/L
+Plasma Urea Nitrogen             17                        (8-25)         mg/dl
+Plasma Creatinine                1.19                      (0.60-1.50)    mg/dl     
+Plasma Glucose                   147              H        (70-110)       mg/dl
+
+
+Calcium                          9.8                       (8.5-10.5)     mg/dl
+Phosphorus                       2.6                       (2.6-4.5)      mg/dl
+Magnesium                        1.4                       (1.4-2.0)      meq/L
+
+
+STUDIES:
+CXR: Low lung volumes.  No evidence of acute cardiopulmonary disease.
+
+
+A/P:
+73yo M preadmission for renal protection and OR for angio 5/22
+-          NPO p MN, IVF
+-          Renal protection protocol
+-          Heparin gtt
+-          Consent in chart
+
+
+________________________________
+Tessa Alford, MD, PhD 48167
+RCH Surgery
+
+
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2080-05-21" TYPE="DATE" comment="" />
+<NAME id="P1" start="81" end="95" text="Vieira, Nathan" TYPE="PATIENT" comment="" />
+<ID id="P2" start="102" end="109" text="0666729" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P3" start="125" end="134" text="5/21/2080" TYPE="DATE" comment="" />
+<NAME id="P4" start="158" end="164" text="Atwood" TYPE="DOCTOR" comment="" />
+<NAME id="P5" start="177" end="184" text="Godfrey" TYPE="DOCTOR" comment="" />
+<NAME id="P6" start="206" end="213" text="Sanders" TYPE="DOCTOR" comment="" />
+<NAME id="P7" start="235" end="241" text="Alford" TYPE="DOCTOR" comment="" />
+<CONTACT id="P8" start="242" end="247" text="48167" TYPE="PHONE" comment="" />
+<DATE id="P9" start="290" end="297" text="5/22/80" TYPE="DATE" comment="" />
+<AGE id="P10" start="314" end="316" text="73" TYPE="AGE" comment="" />
+<NAME id="P11" start="334" end="340" text="Atwood" TYPE="DOCTOR" comment="" />
+<NAME id="P12" start="407" end="413" text="Atwood" TYPE="DOCTOR" comment="" />
+<DATE id="P13" start="684" end="691" text="5/22/80" TYPE="DATE" comment="" />
+<DATE id="P14" start="826" end="831" text="12/78" TYPE="DATE" comment="" />
+<DATE id="P15" start="846" end="850" text="4/78" TYPE="DATE" comment="" />
+<DATE id="P16" start="865" end="869" text="2/78" TYPE="DATE" comment="" />
+<DATE id="P17" start="880" end="884" text="1/78" TYPE="DATE" comment="" />
+<AGE id="P18" start="3216" end="3218" text="73" TYPE="AGE" comment="" />
+<DATE id="P19" start="3274" end="3278" text="5/22" TYPE="DATE" comment="" />
+<NAME id="P20" start="3427" end="3439" text="Tessa Alford" TYPE="DOCTOR" comment="" />
+<CONTACT id="P21" start="3449" end="3454" text="48167" TYPE="PHONE" comment="" />
+<LOCATION id="P22" start="3455" end="3458" text="RCH" TYPE="HOSPITAL" comment="" />
+</TAGS>
+</deIdi2b2>

@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2076-08-10
+
+
+
+
+
+BARROW MEDICAL CENTER
+
+Johnsonville Family Clinic
+
+4897 Governors Lane
+
+Oroville, AL  89389
+
+
+
+Osborne, Mattison
+48423663
+
+08/10/76
+
+
+
+This patient is seen here in follow-up of the following medical 
+
+problems:
+
+
+
+PROBLEMS:  
+
+1.	Coronary artery disease status post coronary artery bypass 
+
+(saphenous vein) in 2072.
+
+2.	Pulmonary embolus 2074.
+
+3.	Idiopathic hypertension.
+
+
+
+SUBJECTIVE:  He is entirely asymptomatic.  He has no complaint.
+
+
+
+REVIEW OF SYSTEMS:  Negative.  There is no chest pain, shortness 
+
+of breath, cough, peripheral edema, orthopnea or PND.  All the 
+
+other review of systems is negative as well.
+
+
+
+MEDICATIONS:  He continues on lisinopril 10 mg q.d., 
+
+hydrochlorothiazide 25 mg q.d., atenolol 50 mg q.d., and Plavix 
+
+75 mg q.d.
+
+
+
+OBJECTIVE:  On examination today, the patient appears well.  He 
+
+is cheerful and feisty.  Blood pressure 138/80 in the left arm, 
+
+sitting.  Weight 175 pounds.  Apical pulse rate 80.  Cardiac 
+
+rhythm is regular without murmur, gallop, rub or click.  Breath 
+
+sounds are clear to percussion and auscultation.  No jugular 
+
+venous distension.  No peripheral edema.
+
+
+
+ASSESSMENT:  
+
+1.	New York Heart Association functional class-I ISHD, status 
+
+post CABG.
+
+2.	Well-controlled hypertension.
+
+
+
+PLAN:
+
+1.	Current regimen.
+
+2.	Please note that Lipitor was added to his regimen at his last 
+
+visit for hypercholesterolemia.  Repeat cholesterol (which had 
+
+been 263) is now 103.  He will continue the Lipitor as well.
+
+3.	He is to return prior to his planned winter sojourn in the United Kingdom in December.
+
+
+
+
+
+Oscar Nall, M.D.
+
+ON:fairchild;11-56649670.doc;DD:08/10/76;DT:08/11/76;DV:08/10/76
+
+
+
+
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2076-08-10" TYPE="DATE" comment="" />
+<LOCATION id="P1" start="32" end="53" text="BARROW MEDICAL CENTER" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P2" start="55" end="81" text="Johnsonville Family Clinic" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P3" start="83" end="102" text="4897 Governors Lane" TYPE="STREET" comment="" />
+<LOCATION id="P4" start="104" end="112" text="Oroville" TYPE="CITY" comment="" />
+<LOCATION id="P5" start="114" end="116" text="AL" TYPE="STATE" comment="" />
+<LOCATION id="P6" start="118" end="123" text="89389" TYPE="ZIP" comment="" />
+<NAME id="P7" start="127" end="144" text="Osborne, Mattison" TYPE="PATIENT" comment="" />
+<ID id="P8" start="145" end="153" text="48423663" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P9" start="155" end="163" text="08/10/76" TYPE="DATE" comment="" />
+<DATE id="P10" start="343" end="347" text="2072" TYPE="DATE" comment="" />
+<DATE id="P11" start="371" end="375" text="2074" TYPE="DATE" comment="" />
+<DATE id="P12" start="1548" end="1554" text="winter" TYPE="DATE" comment="" />
+<LOCATION id="P13" start="1566" end="1584" text="the United Kingdom" TYPE="COUNTRY" comment="" />
+<DATE id="P14" start="1588" end="1596" text="December" TYPE="DATE" comment="" />
+<NAME id="P15" start="1603" end="1613" text="Oscar Nall" TYPE="DOCTOR" comment="" />
+<NAME id="P16" start="1621" end="1623" text="ON" TYPE="DOCTOR" comment="" />
+<NAME id="P17" start="1624" end="1633" text="fairchild" TYPE="DOCTOR" comment="" />
+<ID id="P18" start="1634" end="1645" text="11-56649670" TYPE="IDNUM" comment="" />
+<DATE id="P19" start="1653" end="1661" text="08/10/76" TYPE="DATE" comment="" />
+<DATE id="P20" start="1665" end="1673" text="08/11/76" TYPE="DATE" comment="" />
+<DATE id="P21" start="1677" end="1685" text="08/10/76" TYPE="DATE" comment="" />
+</TAGS>
+</deIdi2b2>

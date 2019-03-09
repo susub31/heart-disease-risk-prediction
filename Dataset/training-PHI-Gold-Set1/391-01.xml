@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2085-09-28
+
+
+DR: Goldberg,M (25515)
+CLINIC: STANTON NURSING
+
+STANTON NURSING HOME PRIMARY CARE
+339 Balcom Street, Eighth Floor
+Oil City, VA  14172
+
+Michael Goldberg, M.D.
+
+RE:		Ordonez, Yamilex
+SNH#:	008-37-16
+
+September 28, 2085
+
+Reason for visit:  This is an initial visit on September 28th, 2085.  Yamilex is a 68-year-old woman who I know quite well status post a stroke in 2083.  
+
+In 2083 Mrs. Ordonez presented with ataxia and dizziness.  She was found to have a left vertebral stenosis and a left posterior inferior cerebellar artery distribution stroke.  She was found to be hypertensive at that time and was started on atenolol.  
+
+Mrs. Ordonez blood pressure was not well controlled on atenolol and hydrochlorothiazide.  Triamterene was added.  Unfortunately she represented with recurrent ataxia and dizziness possibly due to overtreatment of her blood pressure.  Of note, she was only mildly orthostatic at that time.  She also had an E. coli urinary tract infection which may have been complicating matters.   
+
+Mrs. Ordonez has had borderline glucose intolerance as well as an elevated alkaline/phosphatase.  She had had a hemoglobin A1C of 6% tested in 2083.  
+
+Yamilex is generally doing well.  She has no particular complaints.  She has had an active summer getting out to the beach and walks the shopping mall with her daughter with good energy.  She has had no chest pains, shortness of breath, alterations in her bowel or bladder habits.  
+
+Medications:  Coumadin 2.5 alternating with 3.75 q.d. for her history of vertebral artery stenosis and atenolol 75 q.d.  
+
+Physical examination:  Blood pressure was 170/90.  Heart rate was 82 and regular.  The HEENT examination was unremarkable.  Neck was supple without adenopathy.  There were 2+ carotids without bruits and there were no vertebral bruits.  Chest was clear to auscultation.  Cardiac exam showed an S4 gallop.  Abdomen examination was benign and extremities were without edema.  Neurological examination showed reflexes to be 2+ in the upper extremities and at the knees bilaterally with downgoing toes.  Finger-nose-finger was intact, Romberg was intact, and gait was stable with a narrow base.  
+
+Assessment and plan: 
+
+1.	Hypertension.  Mrs. Ordonez blood pressure is currently not well controlled.  She has unfortunately had inadequate follow up for her hypertension.  I will start her on 5 mg. of Zestril in addition to her standing 75 of atenolol.  
+
+2.	Neurologic.  Mrs. Ordonez is stable status post her stroke.  She will continue on Coumadin.  I will not plan any further neurological work up at this time.  
+
+3.	Primary care issues.  Mrs. Ordonez had a cholesterol in 2083 of 210.  I will test a follow up cholesterol level given that she needs good secondary prevention status post her stroke.  I will also check a random glucose level today as diabetes does run in the family and Mrs. Ordonez has had borderline elevated sugars in the past.  
+
+	I have also started Mrs. Ordonez on a multivitamin with minerals as well as 800 IU a day of vitamin E at the recommendation of Dr. Quesenberry.  I will see Mrs. Ordonez in approximately six to eight weeks to reassess her blood pressure and her response to the addition of lisinopril.
+
+The patient was seen with Richard Quesenberry, M.D. 
+
+
+
+Michael Goldberg, M.D.
+
+HH:SF:0151
+DD:9-28-85
+DT:10-03-85
+DV:9-28-85
+
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2085-09-28" TYPE="DATE" comment="" />
+<NAME id="P1" start="33" end="43" text="Goldberg,M" TYPE="DOCTOR" comment="" />
+<CONTACT id="P2" start="45" end="50" text="25515" TYPE="PHONE" comment="" />
+<LOCATION id="P3" start="60" end="75" text="STANTON NURSING" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P4" start="77" end="97" text="STANTON NURSING HOME" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P5" start="111" end="128" text="339 Balcom Street" TYPE="STREET" comment="" />
+<LOCATION id="P7" start="143" end="151" text="Oil City" TYPE="CITY" comment="" />
+<LOCATION id="P8" start="153" end="155" text="VA" TYPE="STATE" comment="" />
+<LOCATION id="P9" start="157" end="162" text="14172" TYPE="ZIP" comment="" />
+<NAME id="P10" start="164" end="180" text="Michael Goldberg" TYPE="DOCTOR" comment="" />
+<NAME id="P11" start="193" end="209" text="Ordonez, Yamilex" TYPE="PATIENT" comment="" />
+<LOCATION id="P12" start="210" end="213" text="SNH" TYPE="HOSPITAL" comment="" />
+<ID id="P13" start="216" end="225" text="008-37-16" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P14" start="227" end="245" text="September 28, 2085" TYPE="DATE" comment="" />
+<DATE id="P15" start="294" end="314" text="September 28th, 2085" TYPE="DATE" comment="" />
+<NAME id="P16" start="317" end="324" text="Yamilex" TYPE="PATIENT" comment="" />
+<AGE id="P17" start="330" end="332" text="68" TYPE="AGE" comment="" />
+<DATE id="P18" start="394" end="398" text="2083" TYPE="DATE" comment="" />
+<DATE id="P19" start="406" end="410" text="2083" TYPE="DATE" comment="" />
+<NAME id="P20" start="416" end="423" text="Ordonez" TYPE="PATIENT" comment="" />
+<NAME id="P21" start="663" end="670" text="Ordonez" TYPE="PATIENT" comment="" />
+<NAME id="P22" start="1047" end="1054" text="Ordonez" TYPE="PATIENT" comment="" />
+<DATE id="P23" start="1185" end="1189" text="2083" TYPE="DATE" comment="" />
+<NAME id="P24" start="1194" end="1201" text="Yamilex" TYPE="PATIENT" comment="" />
+<NAME id="P25" start="2240" end="2247" text="Ordonez" TYPE="PATIENT" comment="" />
+<NAME id="P26" start="2473" end="2480" text="Ordonez" TYPE="PATIENT" comment="" />
+<NAME id="P27" start="2644" end="2651" text="Ordonez" TYPE="PATIENT" comment="" />
+<DATE id="P28" start="2673" end="2677" text="2083" TYPE="DATE" comment="" />
+<NAME id="P29" start="2892" end="2899" text="Ordonez" TYPE="PATIENT" comment="" />
+<NAME id="P30" start="2977" end="2984" text="Ordonez" TYPE="PATIENT" comment="" />
+<NAME id="P31" start="3083" end="3094" text="Quesenberry" TYPE="DOCTOR" comment="" />
+<NAME id="P32" start="3113" end="3120" text="Ordonez" TYPE="PATIENT" comment="" />
+<NAME id="P33" start="3263" end="3282" text="Richard Quesenberry" TYPE="DOCTOR" comment="" />
+<NAME id="P34" start="3293" end="3309" text="Michael Goldberg" TYPE="DOCTOR" comment="" />
+<ID id="P35" start="3317" end="3327" text="HH:SF:0151" TYPE="IDNUM" comment="" />
+<DATE id="P36" start="3331" end="3338" text="9-28-85" TYPE="DATE" comment="" />
+<DATE id="P37" start="3342" end="3350" text="10-03-85" TYPE="DATE" comment="" />
+<DATE id="P38" start="3354" end="3361" text="9-28-85" TYPE="DATE" comment="" />
+</TAGS>
+</deIdi2b2>

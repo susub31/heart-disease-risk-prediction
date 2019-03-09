@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2098-03-16
+
+EDVISIT^28297534^OGRADY, MICHAEL^03/16/98^OCASIO, GEORGE OJAS
+
+I saw this patient with resident Dr. Elijah Parker.  Please see
+
+his note for further details.  I confirm that I have interviewed
+
+and examined the patient, reviewed the resident's documentation
+
+on the patient's chart, and discussed the evaluation, plan of
+
+care, and disposition with the patient.
+
+HISTORY OF PRESENT ILLNESS:  The patient is a 69-year-old male
+
+with a history of hypertension, diabetes, coronary artery
+
+disease, previous MI, and esophageal cancer with mets to lung,
+
+status post VATS, and a recent hemothorax and chest tube.  He was
+
+discharged 2 days ago, now presenting with increasing cough.  He
+
+had been seen in an outside hospital earlier today and diagnosed
+
+with a right lower lobe pneumonia.  He was also given 1 g of
+
+ceftriaxone.  His complaints prior to presentation had been chest
+
+pain as well as shortness of breath, abdominal discomfort, and
+
+palpitations.  On reviewing his chart, he had had his diltiazem
+
+and Lopressor discontinued on his last admission.  Other systems
+
+were reviewed and found to be negative including fevers, chills,
+
+hemoptysis, or difficulty swallowing.
+
+MEDICATIONS:  Reviewed.  Please see the chart.  He is currently
+
+on aspirin and took today.
+
+ALLERGIES:  IV dye and Neurontin.
+
+PHYSICAL EXAMINATION:  He is awake, alert, but cachectic
+
+appearing, and nontoxic.  Temperature 98, pulse of 111,
+
+respirations 20, blood pressure 104/61, and oxygen saturations
+
+are 95%, however, this is on 5 liters.  HEENT exam:  Mucosal
+
+membranes are dry.  Neck is supple without lymphadenopathy. 
+
+Lungs:  Crackles at the right lung.  Left lung is clear.  CVS: 
+
+Tachycardic but regular.  Abdomen:  There is some mild diffuse
+
+tenderness in the upper quadrants, no rebound or guarding, and no
+
+Murphy's.  He has normoactive bowel sounds.  Skin is warm and
+
+dry.  Back is nontender at CVA points.  He has got bilateral
+
+lower extremity edema, but no tenderness in the thighs and
+
+calves.  Neurologically, he is somewhat somnolent, but oriented
+
+without focal motor or sensory deficits.
+
+LABORATORY DATA:  White count is elevated at 19,300, 90% polys, 2
+
+bands.  Chemistries are normally slightly perhaps more dehydrated
+
+with creatinine of 1.3, which is a little above his baseline of
+
+1.2 when he was discharged.  LFTs are all normal including lipase
+
+and total bilirubin; however, his alkaline phosphatase is mildly
+
+elevated.  First set of cardiac enzymes is negative.  EKG shows a
+
+sinus tachycardia with PVCs and nonspecific inferior ST-T wave
+
+changes.  Chest x-ray shows bilateral basilar nodules, which have
+
+been there in the past.  There is a hazy opacity in the right mid
+
+hemithorax, which does not look new, however, this could
+
+represent tumor versus pneumonia.  However, no significant change
+
+prior to his discharge.
+
+EMERGENCY DEPARTMENT COURSE:  Given his dyspnea and his elevated
+
+white count, this case was discussed with Oncology.  He was
+
+admitted for dyspnea, ruling out pneumonia.  He is in stable
+
+condition.
+
+______________________________
+
+OCASIO, GEORGE OJAS MD
+
+D: 03/29/98
+
+T: 03/29/98
+
+Dictated By: OCASIO, GEORGE OJAS
+
+eScription document:8-5838264 BFFocus
+
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2098-03-16" TYPE="DATE" comment="" />
+<ID id="P1" start="36" end="44" text="28297534" TYPE="MEDICALRECORD" comment="" />
+<NAME id="P2" start="45" end="60" text="OGRADY, MICHAEL" TYPE="PATIENT" comment="" />
+<DATE id="P3" start="61" end="69" text="03/16/98" TYPE="DATE" comment="" />
+<NAME id="P4" start="70" end="89" text="OCASIO, GEORGE OJAS" TYPE="DOCTOR" comment="" />
+<NAME id="P5" start="128" end="141" text="Elijah Parker" TYPE="DOCTOR" comment="" />
+<AGE id="P6" start="437" end="439" text="69" TYPE="AGE" comment="" />
+<NAME id="P7" start="3105" end="3124" text="OCASIO, GEORGE OJAS" TYPE="DOCTOR" comment="" />
+<DATE id="P8" start="3132" end="3140" text="03/29/98" TYPE="DATE" comment="" />
+<DATE id="P9" start="3145" end="3153" text="03/29/98" TYPE="DATE" comment="" />
+<NAME id="P10" start="3168" end="3187" text="OCASIO, GEORGE OJAS" TYPE="DOCTOR" comment="" />
+<ID id="P11" start="3209" end="3218" text="8-5838264" TYPE="IDNUM" comment="" />
+</TAGS>
+</deIdi2b2>

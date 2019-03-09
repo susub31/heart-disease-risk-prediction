@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2065-04-22
+
+April 22, 2065
+
+
+Xian, Brooklyn 
+602-44-98-6
+
+
+She was last in the clinic on October 24, 2063.  She comes in today with her husband and daughter.  (Her daughter is her legal healthcare proxy.)  They come in to follow up on a recent hospitalization at Mid Coast Hospital.  In January, she was noted by her family to be agitated and confused.  She was missing her medication or taking too much medication at times, including her insulin.  She also became paranoid when efforts were made to intervene to assist her.  Her family notes that this seemed to begin after her gabapentin dose was increased to 600 mg bid.  She was also taking some other drugs at the time that affect the central nervous system, including trazodone, benzodiazepines, and narcotics for back pain.  She was admitted to the geriatric psychiatry unit at Mid Coast in January 2065.  She stayed there for almost a week.  According to the family, some medications were discontinued and donepazil was started.  Also, they think she had a brain MRI.  She improved and was ultimately discharged.  She has done much better since discharge.  She went with family to Michigan.  They report that there she was much better, playing water volleyball last week.  Her husband is now supervising her medications.  He still notices some memory loss, but this has improved since her discharge.  She has had frequent headaches.  She has noted no urinary incontinence and no worsening of her gait.
+
+
+According to available notes, drugs stopped during her hospitalization include gabapentin, trazodone, metformin, HCTZ, Hunulin, and Lispro.  She is back no the metformin and HCTZ.
+
+
+Her current medications are: aspirin 81 mg daily, Celebrex, donepazil 5 mg daily, HCTZ, linsinopril, labetalol, Crestor, insulin, pramipexole 0.125 mg qhs, Protonix, Roxicet, L-thyroxine, temazepam qhs, and metformin.  She is allergic to erythromycin.
+
+
+On examination today pulse is 60 and regular.  BP is 104/60.  She is alert and oriented to time, except the precise date.  She is aware that yesterday was Tuesday.  She is oriented to place.  Her mental and motor responses are slightly slow.  She displays an appropriate sense of humor.  She attends well.  She recites the months of the year promptly forwards and backwards. She registers 4 of 4 words.  She recalls 3/4 at one minutes and the 4th with a semantic clue with a slight error "14 Massachusetts Drive" rather than 24 Massachusetts Drive.  At 5 minutes, she recalls all 4 with only the error, "14 Massachusetts Drive" but with no need for a clue.  At 10 minutes, she recalls 2/4 without any clue, the 3rd with a semantic hint, and the 4th with a semantic hint again as "14 Massachusetts Drive."  She readily adds a simple sum in her head.  She follows multiple step commands.  She copies interlocking pentagons and a 3D cube well with only slight 3D perspective distortion.  She constructs a clock well with good planning and no neglect.  
+
+
+Visual fields are full.  Pupils are 2.5 mm and reactive.  Fundi are not well visualized.  There rest of the cranial nerves are intact.  Muscle bulk, tone, and power are normal.  There are not extrapyramidal features, and there is no paratonia.  Reflexes are damp in the arms and absent at the ankles (UE 1/4, knees 2/4, ankles 0/4) and symmetric.  Plantar responses are flexor.  Romberg is negative.  She walks without hesitation in gait initiation.  Her stride is reasonably good,  Her base is only slightly widened.  She tandem walks with moderate unsteadiness.  
+
+
+The examination has not changed much from her visit in October 2063.  She has some problems with memory by examination, but this seems to have improved greatly since her hospitalization.  Her confusion and reported paranoia seem to have gone away. Except or mild psychomotor slowing, she does not have features to suggest NPH as the cause, such as urinary incontinence or magnetic gait.  I suspect that her recent deterioration was due to adverse reaction to psychoactive medication that has now been discontinued of limited.
+
+
+We will make no change in medication today.  We will request the recent MRI from Mid Coast.  She will return in several weeks after we have gotten the MRI.
+
+
+
+
+
+
+
+
+Uriah Yousif, M.D.
+
+
+cc: Roger York, M.D.
+      454 Prospect Street
+      Sleepy Eye, NC 77659
+
+
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2065-04-22" TYPE="DATE" comment="" />
+<DATE id="P1" start="28" end="42" text="April 22, 2065" TYPE="DATE" comment="" />
+<NAME id="P2" start="45" end="59" text="Xian, Brooklyn" TYPE="PATIENT" comment="" />
+<ID id="P3" start="61" end="72" text="602-44-98-6" TYPE="MEDICALRECORD" comment="" />
+<DATE id="P4" start="105" end="121" text="October 24, 2063" TYPE="DATE" comment="" />
+<LOCATION id="P5" start="279" end="297" text="Mid Coast Hospital" TYPE="HOSPITAL" comment="" />
+<DATE id="P6" start="303" end="310" text="January" TYPE="DATE" comment="" />
+<LOCATION id="P7" start="851" end="860" text="Mid Coast" TYPE="HOSPITAL" comment="" />
+<DATE id="P8" start="864" end="876" text="January 2065" TYPE="DATE" comment="" />
+<LOCATION id="P9" start="1155" end="1163" text="Michigan" TYPE="STATE" comment="" />
+<DATE id="P10" start="2069" end="2076" text="Tuesday" TYPE="DATE" comment="" />
+<LOCATION id="P11" start="2403" end="2425" text="14 Massachusetts Drive" TYPE="STREET" comment="" />
+<LOCATION id="P12" start="2439" end="2461" text="24 Massachusetts Drive" TYPE="STREET" comment="" />
+<LOCATION id="P13" start="2518" end="2540" text="14 Massachusetts Drive" TYPE="STREET" comment="" />
+<LOCATION id="P14" start="2694" end="2716" text="14 Massachusetts Drive" TYPE="STREET" comment="" />
+<DATE id="P15" start="3589" end="3601" text="October 2063" TYPE="DATE" comment="" />
+<LOCATION id="P16" start="4143" end="4152" text="Mid Coast" TYPE="HOSPITAL" comment="" />
+<NAME id="P17" start="4226" end="4238" text="Uriah Yousif" TYPE="DOCTOR" comment="" />
+<NAME id="P18" start="4251" end="4261" text="Roger York" TYPE="DOCTOR" comment="" />
+<LOCATION id="P19" start="4274" end="4293" text="454 Prospect Street" TYPE="STREET" comment="" />
+<LOCATION id="P20" start="4300" end="4310" text="Sleepy Eye" TYPE="CITY" comment="" />
+<LOCATION id="P21" start="4312" end="4314" text="NC" TYPE="STATE" comment="" />
+<LOCATION id="P22" start="4315" end="4320" text="77659" TYPE="ZIP" comment="" />
+</TAGS>
+</deIdi2b2>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2082-04-29
+
+ 
+Vital Signs
+AGE 76y2.3m 
+BLOOD PRESSURE 128/70 
+WEIGHT 217 lb 
+O2 sat 97%
+
+76  year old patient presents for the following: follow-up of DM, hypertension
+Also presents for Physical examination and screening pelvic and pap test
+denies thirst, nocturia
+denies pelvic pain, vaginal itch, discharge. no postmenopausal bleeding
+continues to smoke, changed brands in order to help her eventually stop or cut down
+has a cough, postnasal drip. uses loratadine but not using nasal inhaler
+Medications:  per list
+Allergy:  NKA 
+Habits:  walks for exercise. eats some vegetables most days. denies ETOH/illicit substance use. takes multivits and calcium
+denies safety concerns
+
+ROS - denies weight change, fevers, chills, sweats
+denies rash or skin lesion
+denies headache, sensory disturbance, muscle weakness
+denies depression, anxiety, sleep disturbance
+denies GI distress, change in appetite or bowel habits
+denies joint pain, swelling
+denies urinary discomfort/frequency
+denies CP/SOB/PND/orthopnea/change in exercise tolerance
+denies wheezing
+PE
+VS as noted
+NAD
+alert and oriented x 3
+skin - no rash or lesion
+discs sharp, normal vascular caliber OU
+swelling beneath both eyes - inverted eye lids
+TMs intact AU
+no sinus tenderness
+no oral lesion, no pharyngeal inflammation or exudate
+no thyroid enlargement or tenderness
+no cervical/ax/ing lymphadenopathy
+chest clear to ausc RR 12
+cardiac normal s1/s2 no m/s3/s4 HR 70 reg
+breasts no mass/tend/discharge  performs BSE regularly
+abd no mass/tend/organomegaly BS+ throughout
+pelvic: vulva/vagina - normal mucosa, no discharge/ulceration  normal urinary meatus
+cervix - no motion tenderness or discharge. Pap specimen obtained
+bimanual - no uterine or adnexal mass/tend
+rectal - no hem/fissure/mass/tend  guaiac negative; normal sphincter tone
+no CCE
+no joint effusion, warmth or tenderness
+alert and oriented x 3; normal stance and gait. normal strength and tone
+femoral and carotid pulses 2+ symmetric no bruits
+DP and PT pulses 2/2 bilaterally
+feet - no ulcerations, open areas of skin on either side
+sensation on feet intact to monofilament bilaterally
+hgba1c 7.6
+urine microalb sl elevated
+Assessment - DM control has improved; we have already increased lisinopril
+inverted eye lids - requires surgery
+allergic rhinitis
+Plan - Pap test pending. call with results/plans
+pneumovax IM per LPN
+patient education regarding diet, exercise, multivits, calcium, ATOD non-use, safety; particular emphasis on tobacco cessation
+colonoscopy - schedule at next visit. Going to Oregon will return in 2-3 months
+encouraged to resume nasal steroids
+check urine microalb next visit
+pt declines eye appointment - leaving town soon. will arrange next time (to evaluate possible surgery to eye lids)
+rx's renewed and reviewed
+O. Feldman, MD
+
+
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2082-04-29" TYPE="DATE" comment="" />
+<AGE id="P1" start="46" end="53" text="76y2.3m" TYPE="AGE" comment="" />
+<AGE id="P2" start="105" end="107" text="76" TYPE="AGE" comment="" />
+<LOCATION id="P3" start="2541" end="2547" text="Oregon" TYPE="STATE" comment="" />
+<NAME id="P4" start="2783" end="2793" text="O. Feldman" TYPE="DOCTOR" comment="" />
+</TAGS>
+</deIdi2b2>

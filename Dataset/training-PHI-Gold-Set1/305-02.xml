@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deIdi2b2>
+<TEXT><![CDATA[
+
+
+Record date: 2086-02-11
+
+February 9, 2086
+
+Wesley Snow, M.D.
+
+Dept of Internal Medicine
+
+Rio Grande State Center
+
+29 Fir Street
+
+Tucson Southeast, TX  27535
+
+
+
+Re:   Neil Robison  #371-97-98
+
+
+
+Dear Wilcox,
+
+
+
+     I saw Mr. Robison today. I hadn't seen him since last year.  I'm very pleased to see how well he's done.  He has had no double vision, no staggering, and no numbness around the mouth.  His speech is a little slurred he says (unchanged).  He walks with a wide-based gait, but is otherwise steady on his feet.  There is no tremor.  His arms and legs are strong.  Extraocular movements are full.  The pupils are equal.  There is no ptosis.  His speech is fluent.
+
+
+
+     He takes one aspirin a day as well Lipitor and some vitamins (the other medicines he doesn't recall but I think you are in the know about).  
+
+
+
+     His blood pressure is 120/80.  The pulse is around 76.  There are no cervical bruits.  
+
+
+
+     From my perspective he is doing well on the aspirin and we should sit tight.  I would like to see him again in a year and at that time we should have our Dopplers again to recheck the flow in the basilar artery. The right vertebral is dominant and the left is occluded.  The left MCA stem was hard to visualize on the imaging.  It may well be occluded with collateralization. The left imaging was in 2082.  He is stable at this time.  He knows to call if he develops any symptoms.
+
+
+
+Best regards,
+
+
+
+
+
+G. Kevin Yawn, M.D.
+
+   
+
+
+
+]]></TEXT>
+<TAGS>
+<DATE id="P0" start="16" end="26" text="2086-02-11" TYPE="DATE" comment="" />
+<DATE id="P1" start="28" end="44" text="February 9, 2086" TYPE="DATE" comment="" />
+<NAME id="P2" start="46" end="57" text="Wesley Snow" TYPE="DOCTOR" comment="" />
+<LOCATION id="P4" start="92" end="115" text="Rio Grande State Center" TYPE="HOSPITAL" comment="" />
+<LOCATION id="P5" start="117" end="130" text="29 Fir Street" TYPE="STREET" comment="" />
+<LOCATION id="P6" start="132" end="148" text="Tucson Southeast" TYPE="CITY" comment="" />
+<LOCATION id="P7" start="150" end="152" text="TX" TYPE="STATE" comment="" />
+<LOCATION id="P8" start="154" end="159" text="27535" TYPE="ZIP" comment="" />
+<NAME id="P9" start="169" end="181" text="Neil Robison" TYPE="PATIENT" comment="" />
+<ID id="P10" start="184" end="193" text="371-97-98" TYPE="MEDICALRECORD" comment="" />
+<NAME id="P11" start="202" end="208" text="Wilcox" TYPE="DOCTOR" comment="" />
+<NAME id="P12" start="228" end="235" text="Robison" TYPE="PATIENT" comment="" />
+<DATE id="P13" start="1332" end="1336" text="2082" TYPE="DATE" comment="" />
+<NAME id="P14" start="1435" end="1448" text="G. Kevin Yawn" TYPE="DOCTOR" comment="" />
+</TAGS>
+</deIdi2b2>
