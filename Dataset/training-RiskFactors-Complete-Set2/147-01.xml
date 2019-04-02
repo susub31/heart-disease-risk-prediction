@@ -1,0 +1,188 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2091-08-09
+
+
+
+August 9, 2091
+
+
+
+
+
+Billie Givens, M.D.
+
+138 Cross Street
+
+Juana Diaz, CT 89568 
+
+
+
+Re:	Horn, Gregory
+
+	BCC Unit #: 977-82-23
+
+
+
+Dear Dr. Givens:
+
+
+
+I had the pleasure of seeing your patient, Mr. Horn, in follow-up regarding possible interstitial lung disease. 
+
+
+
+He has managed to lose 3 lbs. on his own personal diet plan, and feels his diabetes is coming under slightly better control.
+
+
+
+His cough is virtually gone and now has only rare cough with a little bit of phlegm, grading it as 2 out of 10 vs. 8-9 out of 10, to which his wife agrees.  They both attribute it to the Prilosec.
+
+
+
+He now sleeps well and does not use his wedge.  He has no snoring, daytime hypersomnolence, or morning headaches - no longer falls asleep at work.
+
+
+
+Allergies and nasal congestion are not evident.
+
+
+
+No lower extremity edema, swollen glands, or fevers.
+
+
+
+Mildly less prominent exertional breathlessness - He now occasionally has to go up one flight of stairs without stopping.
+
+
+
+On examination, he is well appearing.  Respiratory rate 22 and unlabored. Blood pressure 90/50 with a small cuff. Conjunctivae are clear.  Oropharynx is clear. Trachea is midline, no goiter or adenopathy. Back:  Normal configuration.  Chest:  Normal percussion note, good air movement bilaterally; fine expiratory crackles at the lateral bases.  Cardiac:  Faint left parasternal impulse, mildly prominent P2, normal S1, S2, without murmur, rub, or gallop.  JVP is 7 cm with borderline HJR.  Abdomen: Soft, nontender, no hepatosplenomegaly or mass. Extremities:  No cyanosis or edema, borderline clubbing.
+
+
+
+Pulmonary function tests today show very stable values per spirometry, a slight down-   ..  in total lung capacity, but still approximately 70% predicted, and DLCO stable in the 60% predicted range.
+
+
+
+My review of CT scan of the chest shows faint peripheral subpleural reticular pattern with cyst formation and no significant nodules.  
+
+
+
+Impression:
+
+
+
+1.	Interstitial lung disease - Mild objective impairment by functional status.  Pulmonary function tests - Overall, these were stable, and the CT scan is quite suggestive of pulmonary fibrosis.  However, as I reviewed with the patient and his wife, it is well established that 10% of the time, another disorder, such as occult hypersensitivity pneumonitis or nonspecific interstitial pneumonitis can be found on lung biopsy.  There is no evidence of a rheumatologic disorder nor any evidence of chronic aspiration, other than that associated with GE reflux, to explain his lung disease.  He would be a very reasonable candidate for gamma interferon, although this likely would necessitate low-dose steroids - the latter treatment would certainly have an impact on his diabetes.
+
+
+
+2.	GE reflux - This is the main source of his cough and is well established to be associated with pulmonary fibrosis.  If he is able to lose weight and change his lifestyle, he can have very good control of this.
+
+
+
+3.	Possible mild pulmonary hypertension related to the pulmonary fibrosis.
+
+
+
+4.	Possible sleep disorder - Currently is entirely without symptoms, now that his reflux is well controlled.
+
+
+
+5.	Chronic cough.
+
+
+
+6.	Diabetes - Better controlled.
+
+
+
+7.	Obesity - He continues to need aggressive weight loss program.  As I mentioned to him, he would not be a candidate for lung transplantation evaluation while he is at such as weight, but he is starting to make some progress.
+
+
+
+Recommendations:
+
+
+
+1.	Continue proton pump inhibitor at b.i.d. dosing, as well as lifestyle modifications, including marked decrease in caffeine intake.
+
+
+
+2.	Referral to Dr. Harry Yerger for VATS lung biopsy.
+
+
+
+3.	Cardiovascular evaluation by you, prior to his surgery, would be appreciated.
+
+
+
+It has been a pleasure to participate in his care.  Please feel free to call with any questions or comments.
+
+
+
+Sincerely, 
+
+
+
+
+
+Paul N. Tam, M.D.
+
+
+
+PNT/ivester/yanez
+
+      
+
+
+
+]]></TEXT>
+  <TAGS>
+    <OBESE id="DOC1" time="after DCT" indicator="mention">
+      <OBESE id="O0" start="3216" end="3223" text="Obesity" time="after DCT" indicator="mention" comment=""/>
+      <OBESE id="O1" start="3216" end="3224" text="Obesity " time="after DCT" indicator="mention" comment=""/>
+      <OBESE id="O2" start="3216" end="3223" text="Obesity" time="after DCT" indicator="mention" comment=""/>
+    </OBESE>
+    <OBESE id="DOC2" time="during DCT" indicator="mention">
+      <OBESE id="O3" start="3216" end="3223" text="Obesity" time="during DCT" indicator="mention" comment=""/>
+      <OBESE id="O4" start="3216" end="3224" text="Obesity " time="during DCT" indicator="mention" comment=""/>
+      <OBESE id="O5" start="3216" end="3223" text="Obesity" time="during DCT" indicator="mention" comment=""/>
+    </OBESE>
+    <OBESE id="DOC4" time="before DCT" indicator="mention">
+      <OBESE id="O6" start="3216" end="3223" text="Obesity" time="before DCT" indicator="mention" comment=""/>
+      <OBESE id="O7" start="3216" end="3224" text="Obesity " time="before DCT" indicator="mention" comment=""/>
+      <OBESE id="O8" start="3216" end="3223" text="Obesity" time="before DCT" indicator="mention" comment=""/>
+    </OBESE>
+    <FAMILY_HIST id="DOC5" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC6" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" start="3" end="9" text="Record" status="unknown" comment=""/>
+      <SMOKER id="S2" status="unknown"/>
+    </SMOKER>
+    <DIABETES id="DOC0" time="after DCT" indicator="mention">
+      <DIABETES id="D0" start="370" end="378" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D1" start="370" end="378" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D2" start="2737" end="2745" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D3" start="3180" end="3188" text="Diabetes" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC3" time="during DCT" indicator="mention">
+      <DIABETES id="D4" start="370" end="378" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D5" start="370" end="378" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D6" start="2737" end="2745" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D7" start="3180" end="3188" text="Diabetes" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC7" time="before DCT" indicator="mention">
+      <DIABETES id="D8" start="370" end="378" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D9" start="370" end="378" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D10" start="2737" end="2745" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D11" start="3180" end="3188" text="Diabetes" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+  </TAGS>
+</root>

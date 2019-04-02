@@ -1,0 +1,129 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2070-08-18
+
+                     KEKELA EMERGENCY DEPT VISIT
+ 
+DIETZ,SUSIE   538-41-21-0                    VISIT DATE: 08/18/70
+PRESENTING COMPLAINT:  Palpitations, mouth full of blood. 
+HISTORY OF PRESENTING COMPLAINT:  A 52 year old female who 
+presented complaining of palpitations and her mouth full of blood. 
+The patient states that she was awakened this morning from her 
+sleep with her mouth full of blood and what she thought was coffee 
+grounds and stated that she had some palpitations and nausea, and 
+came to the hospital to be seen.  She gives no history of ulcers. 
+She states that she had some light pressure in her chest and some 
+palpitations. 
+REVIEW OF SYSTEMS:  Upon presentation here, she has no complaints. 
+No complaint of light-headedness or dizziness, no complaint of 
+chest pain or shortness of breath here. 
+PAST MEDICAL HISTORY:  She has history of hypertension and 
+diabetes, anxiety and panic attacks, hepatitis B as well. 
+MEDICATIONS:  Alprazolam and Tolinase 
+ALLERGIES:  She has no allergies. 
+SOCIAL HISTORY AND FAMILY HISTORY:  Unremarkable.  Has a drink 
+every now and again. 
+PHYSICAL EXAMINATION:  She is afebrile with stable vital signs. 
+Pulse 98, respirations 16, blood pressure 163/112 initially.  She 
+is asymptomatic in the Emergency Department at this time.  On exam, 
+her HEENT exam is normal.  No blood in her oropharynx.  No evidence 
+of any oral trauma.  No evidence of head trauma.  Neck is supple, 
+flexion and extension normal.  Pulmonary exam - clear breath sounds 
+bilaterally.  Cardiac exam - regular rate and rhythm, a 2/6 murmur 
+heard.  Abdomen is soft, non-tender with normal bowel sounds, no 
+epigastric pain or tenderness, no hepatosplenomegaly, no masses, no 
+rebound or guarding.  Guaiac negative with normal rectal tone. 
+Pulses normal throughout.  Good full range of motion.  Neuro exam 
+normal.  Has no palpitations, chest pain or hematemesis at this 
+point. 
+LABORATORY EVALUATION:  Initial EKG shows normal sinus tach at 108, 
+but repeat was normal EKG with rate of 88.  No evidence of any 
+acute changes on EKG.  PT/PTT normal.  Troponin and CK normal. 
+Electrolytes, BUN, creatinine and blood sugar normal.  Hematocrit 
+of 42 with normal white count.  Urinalysis - 1+ blood, 1+ glucose, 
+no white cells, no red cells.  Urine pregnancy test negative and 
+chest x-ray negative. 
+THERAPY RENDERED/COURSE IN ED:  NG tube was placed with lavage, no 
+evidence of blood. 
+CLINICAL IMPRESSION:  A 52 year old female who complained of 
+palpitations and a mouth full of blood with a negative workup, no 
+evidence of a GI bleed, no evidence of any cardiac disease or acute 
+cardiac problems, normal laboratory studies. 
+FINAL DIAGNOSIS:  Palpitations. 
+DISPOSITION (including condition upon discharge):  Being discharged 
+to home.  Condition on discharge is stable. 
+___________________________________                    ZT090/110 
+URIEL XING, M.D.       UX93                           D:08/18/70 
+                                                       T:08/18/70 
+Dictated by:  URIEL XING, M.D.       UX93 
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <DIABETES id="DOC0" time="before DCT" indicator="mention">
+      <DIABETES id="D0" start="913" end="921" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D1" start="913" end="921" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D2" start="913" end="921" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <HYPERTENSION id="DOC1" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="895" end="907" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="894" end="907" text=" hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H2" start="895" end="907" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC2" time="during DCT" indicator="high bp">
+      <HYPERTENSION id="H3" start="1224" end="1246" text="blood pressure 163/112" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H4" start="1239" end="1247" text="163/112 " time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H5" start="1224" end="1256" text="blood pressure 163/112 initially" time="during DCT" indicator="high bp" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC3" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H6" start="895" end="907" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H7" start="894" end="907" text=" hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H8" start="895" end="907" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <DIABETES id="DOC4" time="during DCT" indicator="mention">
+      <DIABETES id="D3" start="913" end="921" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D4" start="913" end="921" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D5" start="913" end="921" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <HYPERTENSION id="DOC5" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H9" start="895" end="907" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H10" start="894" end="907" text=" hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H11" start="895" end="907" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <FAMILY_HIST id="DOC6" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC7" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" start="1046" end="1051" text="SOCIA" status="unknown" comment=""/>
+      <SMOKER id="S2" status="unknown"/>
+    </SMOKER>
+    <DIABETES id="DOC8" time="after DCT" indicator="mention">
+      <DIABETES id="D6" start="913" end="921" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D7" start="913" end="921" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D8" start="913" end="921" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <PHI id="P0" start="16" end="26" text="2070-08-18" TYPE="DATE"/>
+    <PHI id="P1" start="49" end="55" text="KEKELA" TYPE="HOSPITAL"/>
+    <PHI id="P2" start="79" end="90" text="DIETZ,SUSIE" TYPE="PATIENT"/>
+    <PHI id="P3" start="93" end="104" text="538-41-21-0" TYPE="MEDICALRECORD"/>
+    <PHI id="P4" start="136" end="144" text="08/18/70" TYPE="DATE"/>
+    <PHI id="P5" start="240" end="242" text="52" TYPE="AGE"/>
+    <PHI id="P6" start="2478" end="2480" text="52" TYPE="AGE"/>
+    <PHI id="P7" start="2900" end="2909" text="ZT090/110" TYPE="IDNUM"/>
+    <PHI id="P8" start="2911" end="2921" text="URIEL XING" TYPE="DOCTOR"/>
+    <PHI id="P9" start="2934" end="2938" text="UX93" TYPE="USERNAME"/>
+    <PHI id="P10" start="2967" end="2975" text="08/18/70" TYPE="DATE"/>
+    <PHI id="P11" start="3034" end="3042" text="08/18/70" TYPE="DATE"/>
+    <PHI id="P12" start="3058" end="3068" text="URIEL XING" TYPE="DOCTOR"/>
+    <PHI id="P13" start="3081" end="3085" text="UX93" TYPE="USERNAME"/>
+  </TAGS>
+</root>

@@ -1,0 +1,217 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2147-03-11
+
+Reason for consult:  65 year old man with progressive LBP, found to have heterogeneous marrow on MRI, we have been consulted to help evaluate, possibly perform a bone marrow biopsy.
+
+
+
+HPI:
+
+65 yo male with PMH significant for DM, autonomic dysfunction, CRI, depression and arthritis who was admitted for progressive lower back pain.  He has had LBP for at least three years which is located in his mid lumbar region, non radiating, worse with standing.  The pain had progressed such that he has a very poor performance status. He cannot stand but for a few minutes at a time.  He denies focal wekness.   He had an MRI of the LS spine 2/02/47 which revealed heterogeneous marrow concernig for an infiltrating process in his marrow.   He has had an SPEP which was normal, he has had a bone scan which was negatvie. He does not have an elevated protein or globulin fraction. His CRI is longstanding  and attributed to his DM.  He was set up for a outpt BM bx to evaluate the marrow process, but the pain has been so severe, he was admitted for an inpatient work up.  Of note he has longstanding anemia related to his CRI, perhaps anemia of chronic disease.  He denies any weight loss, fevers, chills, night sweats, decreased appetite. He does report fatigue which has become progressive.
+
+
+
+PMH:
+
+1. DM
+
+2. autonomic dysfunction with orthostatic hypotension
+
+3. diabetic retinopathy
+
+4. depression
+
+5. CRI
+
+6. OA
+
+7.  H/o TB 2132 
+
+8.  C7 radiculopthy with bil hand weakness and neck pain
+
+9. HL
+
+10 Seborrheic dermatitis
+
+
+
+Meds:
+
+lovastatin, fludrocortisone, celexa, reglan, proamatine, ultram, insulin, colace, ecasa
+
+
+
+All: NKDA
+
+
+
+FH: Father had Diabetes, mother died of breast cancer.
+
+
+
+SH: Worked in Foxworthy Industrials 2100-4 during which time he had multple exposures to chemicals. Retired from working in the city of Victorville 2141. He reports a 30 pyr hx of tobacco, former hx of heavy ETOH use, stopped since 12/46. Denies IV DU.
+
+
+
+PE:
+
+General: thin gentleman, in no actute distress
+
+HEENT: PERRLA< EOMI, Op without thrush, no thyromegaly, No JVD
+
+Chest: CTA bil
+
+CV: RRR nml s1, s2, no m/g/r
+
+Abd: + bs, soft, non-tender, non-distended, no hepatosplenomegaly
+
+Ext: no c/c/e
+
+neuro: strenth 5/5 throughout; absent patellar reflexes, 2+ biceps, triceps, brachioradialis, downgoing toes bilaterally
+
+
+
+Labs:
+
+Cr 1.4  Bun 25  HCT 28.6  WBC 5.5  Plt 201  MCV 87  80seg; 15l
+
+ESR 35
+
+Pt/Ptt nml
+
+SPEP 2/47: nml  T prot 6  Alb 3.4
+
+MRI 1/47: heterogenous bonemarrow uptake in vertebrae and pelvis, concerning for infiltrative process
+
+
+
+Imp/Plan:
+
+Mr. Tuttle is a 65 year old male with a three year hisotry of porgressive lower back pain, non-radicualr in nature. The pain has progressed to a significant level such that he spends most of his day in bed.  He did have an MRI of the L/S spine which was negative except it did reveal heterogeous uptake in the vertebral and pelvic bone marrow. They raised the question of multiple myeloma or another infiltrative process. He does have renal insufficiency, but no other abnormalities to suggest MM. We still need a few key pieces of data to rule this out. Other infiltrative processes such as malignancy from elsewhere should be excluded.  In addition, he has a hx of a positive PPD, unclear if he actually had active TB or was treated prophylactically. Is any of this TB?  Recommend:
+
+-- skeletal survey
+
+-- quantitative urine bence jones proteins as there are  non-secretory myelomas
+
+-- beta-2 microglobulin
+
+-- reticulocyte count
+
+-- consider chest CT to r/o lung cancer given his history of tobacco
+
+-- guaiac all stools
+
+-- Will review the MRI with radiologist to get a better differential
+
+-- Consider BM biopsy next week, unfortunately will not be able to perform today. 
+
+-- Will review smear and staff with Dr. Landry in the afternoon.
+
+Thank you for this consult.
+
+
+
+______________________________________________
+
+
+
+Ivy Whitaker, M.D.
+
+
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <HYPERLIPIDEMIA id="DOC6" time="before DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY0" start="1519" end="1521" text="HL" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY1" start="1519" end="1521" text="HL" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY2" start="1519" end="1521" text="HL" time="before DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <HYPERLIPIDEMIA id="DOC8" time="after DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY3" start="1519" end="1521" text="HL" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY4" start="1519" end="1521" text="HL" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY5" start="1519" end="1521" text="HL" time="after DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <HYPERLIPIDEMIA id="DOC15" time="during DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY6" start="1519" end="1521" text="HL" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY7" start="1519" end="1521" text="HL" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY8" start="1519" end="1521" text="HL" time="during DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <MEDICATION id="DOC0" time="before DCT" type1="statin" type2="">
+      <MEDICATION id="M0" start="1558" end="1568" text="lovastatin" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M1" start="1558" end="1568" text="lovastatin" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M2" start="1558" end="1568" text="lovastatin" time="before DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC1" time="during DCT" type1="statin" type2="">
+      <MEDICATION id="M3" start="1558" end="1568" text="lovastatin" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M4" start="1558" end="1568" text="lovastatin" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M5" start="1558" end="1568" text="lovastatin" time="during DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC2" time="during DCT" type1="aspirin" type2="">
+      <MEDICATION id="M6" start="1640" end="1645" text="ecasa" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M7" start="1640" end="1645" text="ecasa" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M8" start="1640" end="1645" text="ecasa" time="during DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC3" time="after DCT" type1="statin" type2="">
+      <MEDICATION id="M9" start="1558" end="1568" text="lovastatin" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M10" start="1558" end="1568" text="lovastatin" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M11" start="1558" end="1568" text="lovastatin" time="after DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC4" time="after DCT" type1="aspirin" type2="">
+      <MEDICATION id="M12" start="1640" end="1645" text="ecasa" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M13" start="1640" end="1645" text="ecasa" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M14" start="1640" end="1645" text="ecasa" time="after DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC11" time="before DCT" type1="aspirin" type2="">
+      <MEDICATION id="M15" start="1640" end="1645" text="ecasa" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M16" start="1640" end="1645" text="ecasa" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M17" start="1640" end="1645" text="ecasa" time="before DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC13" time="after DCT" type1="insulin" type2="">
+      <MEDICATION id="M18" start="1623" end="1630" text="insulin" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M19" start="1623" end="1630" text="insulin" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M20" start="1623" end="1630" text="insulin" time="after DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC14" time="during DCT" type1="insulin" type2="">
+      <MEDICATION id="M21" start="1623" end="1630" text="insulin" time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M22" start="1623" end="1630" text="insulin" time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M23" start="1623" end="1630" text="insulin" time="during DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC16" time="before DCT" type1="insulin" type2="">
+      <MEDICATION id="M24" start="1623" end="1630" text="insulin" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M25" start="1623" end="1630" text="insulin" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M26" start="1623" end="1630" text="insulin" time="before DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <FAMILY_HIST id="DOC12" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC5" status="current">
+      <SMOKER id="S0" start="1887" end="1907" text="30 pyr hx of tobacco" status="current" comment="???"/>
+      <SMOKER id="S1" start="1887" end="1907" text="30 pyr hx of tobacco" status="current" comment=""/>
+    </SMOKER>
+    <DIABETES id="DOC7" time="before DCT" indicator="mention">
+      <DIABETES id="D0" start="255" end="257" text="DM" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D1" start="255" end="257" text="DM" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D2" start="255" end="257" text="DM" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC9" time="after DCT" indicator="mention">
+      <DIABETES id="D3" start="255" end="257" text="DM" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D4" start="255" end="257" text="DM" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D5" start="255" end="257" text="DM" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC10" time="during DCT" indicator="mention">
+      <DIABETES id="D6" start="255" end="257" text="DM" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D7" start="255" end="257" text="DM" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D8" start="255" end="257" text="DM" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+  </TAGS>
+</root>

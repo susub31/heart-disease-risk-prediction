@@ -1,0 +1,141 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2073-07-04
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+July 04, 2073
+ 
+ 
+ 
+Jacob Bautista, M.D.
+352 Eldorado Circle
+Coeburn, WA 42646
+ 
+Re:  Umstead, Kenneth
+     MR #401-10-87-8
+ 
+Dear Jac:
+ 
+I saw your patient, Kenneth Umstead, in the Cardiology office today
+and he seems to be doing very well from a cardiovascular
+perspective.  Apparently he has had guaiac positive stools and has
+undergone a colonoscopy with the identification of four polyps. 
+Three have been removed and he then had a GI bleed.  This has been
+reevaluated and he has been stable.  The fourth polyp will need to
+be removed at a later time.  At this point, his aspirin has been
+discontinued for a number of days and the Lopid was also
+discontinued apparently because of increased liver function tests. 
+His current medications therefore include Lasix 40 mg per day,
+Metoprolol 25 mg qd, Nifedipine XL 30 mg qd.  He is aware of a
+belching and burping sensation after eating but otherwise no
+exertional or other related symptoms.  He is reasonably active but
+somewhat limited by his claudication.
+ 
+On exam today, he is comfortable with a blood pressure of 130/70,
+a heart rate of 65 and regular.  Head and neck were unremarkable. 
+Chest is clear.  Cardiac exam showed no jugular venous distension
+at 30 degrees.  PMI is normal.  S1 and S2 are normal with a
+physiologic split.  There is an S4 and a I/VI systolic ejection
+murmur at the left sternal border.  Abdominal exam was
+unremarkable.  Extremities showed no edema or cyanosis.  
+ 
+His resting 12-lead electrocardiogram demonstrates normal sinus
+rhythm with left axis deviation and a nonspecific left
+intraventricular conduction delay.
+ 
+Jacob Bautista, M.D.
+Re:  Umstead, Kenneth
+July 04, 2073
+Page 2
+ 
+ 
+I think Mr. Umstead is basically doing quite well.  It would be of
+value to repeat an exercise test since he has not had one since
+2069.  He had minimal ischemia at that time.  There are no symptoms
+that would prompt cardiac catheterization at this point and we will
+see how he does on the exercise test with the objective findings. 
+ 
+ 
+If any problems develop, please don't hesitate to contact me. 
+Thank you very much for allowing me to help with his care.
+ 
+Kindest personal regards.
+ 
+Sincerely yours,
+ 
+ 
+ 
+Marshall O. Lehman, M.D.
+ 
+DD: 07/04/73
+DT: 07/16/73
+DV: 07/04/73
+MOL/troutman
+ 
+WILSON MEDICAL CENTER
+79 Pinecrest Rd.
+Tonkawa, WA 67495
+ 
+ ******** Approved but not reviewed by Attending Provider ********
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="during DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M0" start="847" end="857" text="Nifedipine" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M1" start="846" end="861" text=" Nifedipine XL " time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M2" start="847" end="857" text="Nifedipine" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC1" time="before DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M3" start="847" end="857" text="Nifedipine" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M4" start="846" end="861" text=" Nifedipine XL " time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M5" start="847" end="857" text="Nifedipine" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC2" time="before DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M6" start="826" end="836" text="Metoprolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M7" start="826" end="836" text="Metoprolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M8" start="826" end="836" text="Metoprolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC3" time="after DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M9" start="847" end="857" text="Nifedipine" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M10" start="846" end="861" text=" Nifedipine XL " time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M11" start="847" end="857" text="Nifedipine" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC4" time="before DCT" type1="aspirin" type2="">
+      <MEDICATION id="M12" start="621" end="628" text="aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M13" start="620" end="650" text=" aspirin has been discontinued" time="before DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC5" time="after DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M14" start="826" end="836" text="Metoprolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M15" start="826" end="836" text="Metoprolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M16" start="826" end="836" text="Metoprolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC7" time="during DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M17" start="826" end="836" text="Metoprolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M18" start="826" end="836" text="Metoprolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M19" start="826" end="836" text="Metoprolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <FAMILY_HIST id="DOC8" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC6" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" status="unknown"/>
+      <SMOKER id="S2" start="3" end="9" text="Record" status="unknown" comment=""/>
+    </SMOKER>
+  </TAGS>
+</root>

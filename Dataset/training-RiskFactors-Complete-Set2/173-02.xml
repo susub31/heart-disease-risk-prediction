@@ -1,0 +1,292 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2072-12-29
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+December 30,  2072
+
+ 
+
+ 
+
+Ulanda B. Huynh, MD
+
+South Side Hospital
+
+Thoracic Surgery
+
+92 Cleveland Street
+
+Morris, MO 95412
+
+ 
+
+RE: Otis Narvaez
+
+        MR   #04561326
+
+ 
+
+Dear Dr. Huynh:
+
+ 
+
+I had the pleasure of seeing your patient Mr. Oscar Narvaez in 
+
+consultation.  As you know he is a 63-year-old gentleman with a history 
+
+of diabetes, high blood pressure and obesity.  Recently, he underwent 
+
+evaluation prior to intestinal bypass surgery in which he underwent 
+
+dobutamine stress echocardiography.  The echocardiogram revealed reduced 
+
+left ventricular dysfunction with ejection fraction of 35 to 40 percent.  
+
+There was no evidence of ischemia.  He subsequently underwent coronary 
+
+catheterization.  I do not have those results, but he claims that he was 
+
+told that he had no arterial blockages.  Symptomatically, he is 
+
+significantly short of breath with minimal exertion.  He has attributed 
+
+this to his weight.  He was started on an ACE inhibitor and diuretic, 
+
+although he has not been taking either of these medications.  Prior to 
+
+his catheterization a chest x-ray revealed a 1.5 cm nodule in the left 
+
+upper lobe of the lung that was not present in 2067.  This was confirmed 
+
+subsequently on CT scan, suggesting that this was most likely a primary 
+
+lung malignancy.  He is therefore scheduled for mediastinoscopy with 
+
+you.
+
+ 
+
+His past medical history is remarkable for diabetes, hypertension, low 
+
+back pain, and obesity.
+
+ 
+
+Current medications include glucophage 1000 mg po q.d., Ritalin 80 mg po 
+
+q.d., Celexa 10 mg po q.d., Neurontin.  No drug allergies
+
+ 
+
+Family history is remarkable for heart disease in his father.
+
+ 
+
+Social history: he works as a consultant in the Morris area.  He smoked for 
+
+40 years but quit approximately three years ago.  He drinks rarely, 
+
+although drank heavily in the past.
+
+ 
+
+RE: Otis Narvaez
+
+       MR  #04561326                                      -2-                 
+
+                       
+
+December 30,  2072                                         
+
+ 
+
+Review of systems is remarkable for shortness of breath.  He denies 
+
+gastrointestinal complaints.
+
+ 
+
+On physical exam he is obese but well appearing with a blood pressure of 
+
+140/70 and a pulse of 80 and regular.  HEENT is unremarkable, neck 
+
+supple without thyromegaly, no jugular venous distention, carotids full 
+
+without bruits, chest clear to auscultation and percussion.Cardiac exam: 
+
+regular rate and rhythm, PMI nondisplaced, normal heart sounds, no 
+
+murmurs or rubs.  Abdomen benign nontender without hepatosplenomegaly or 
+
+CVA tenderness.  No clubbing cyanosis or edema.  Pulses full.
+
+ 
+
+Impression: Mr. Narvaez has evidence of decreased left ventricular 
+
+function by echocardiogram.  By report he has no evidence of coronary 
+
+artery disease, although I have not seen this report myself.  If indeed 
+
+it is true that he has no coronary artery disease, then my guess is that 
+
+this represents a primary cardiomyopathy or cardiomyopathy secondary to 
+
+his diabetes or even his history of alcohol abuse.  In any case, this 
+
+puts them at increased risk for an operation, although probably less so 
+
+than if he had significant coronary disease.  I see no reason why you 
+
+should not proceed with the biopsy that is planned immediately.  Prior 
+
+to his operation, he should be placed on ACE inhibitor and diuretic.  
+
+I'll be happy to continue to see him should he care to transfer his care 
+
+to South Side Hospital.
+
+ 
+
+Sincerely yours,
+
+ 
+
+ 
+
+ 
+
+Kevin Y. Kirkpatrick, M.D.
+
+ 
+
+ 
+
+_______________________________
+
+Kirkpatrick,Kevin
+
+ 
+
+DD: 12/29/72
+
+DT: 12/30/72
+
+DV: 12/29/72
+
+ 
+
+ 
+
+ 
+
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <OBESE id="DOC4" time="after DCT" indicator="mention">
+      <OBESE id="O0" start="424" end="431" text="obesity" time="after DCT" indicator="mention" comment=""/>
+      <OBESE id="O1" start="424" end="431" text="obesity" time="after DCT" indicator="mention" comment=""/>
+      <OBESE id="O2" start="424" end="431" text="obesity" time="after DCT" indicator="mention" comment=""/>
+      <OBESE id="O3" start="1503" end="1510" text="obesity" time="after DCT" indicator="mention" comment=""/>
+    </OBESE>
+    <OBESE id="DOC7" time="during DCT" indicator="mention">
+      <OBESE id="O4" start="424" end="431" text="obesity" time="during DCT" indicator="mention" comment=""/>
+      <OBESE id="O5" start="424" end="431" text="obesity" time="during DCT" indicator="mention" comment=""/>
+      <OBESE id="O6" start="2220" end="2225" text="obese" time="during DCT" indicator="mention" comment=""/>
+      <OBESE id="O7" start="424" end="431" text="obesity" time="during DCT" indicator="mention" comment=""/>
+      <OBESE id="O8" start="1503" end="1510" text="obesity" time="during DCT" indicator="mention" comment=""/>
+    </OBESE>
+    <OBESE id="DOC12" time="before DCT" indicator="mention">
+      <OBESE id="O9" start="424" end="431" text="obesity" time="before DCT" indicator="mention" comment=""/>
+      <OBESE id="O10" start="424" end="431" text="obesity" time="before DCT" indicator="mention" comment=""/>
+      <OBESE id="O11" start="424" end="431" text="obesity" time="before DCT" indicator="mention" comment=""/>
+      <OBESE id="O12" start="1503" end="1510" text="obesity" time="before DCT" indicator="mention" comment=""/>
+    </OBESE>
+    <MEDICATION id="DOC0" time="during DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M0" start="1010" end="1023" text="ACE inhibitor" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M1" start="1009" end="1023" text=" ACE inhibitor" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC3" time="after DCT" type1="metformin" type2="">
+      <MEDICATION id="M2" start="1544" end="1554" text="glucophage" time="after DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M3" start="1544" end="1554" text="glucophage" time="after DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M4" start="1544" end="1554" text="glucophage" time="after DCT" type1="metformin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC5" time="during DCT" type1="metformin" type2="">
+      <MEDICATION id="M5" start="1544" end="1554" text="glucophage" time="during DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M6" start="1544" end="1554" text="glucophage" time="during DCT" type1="metformin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC9" time="before DCT" type1="metformin" type2="">
+      <MEDICATION id="M7" start="1544" end="1554" text="glucophage" time="before DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M8" start="1544" end="1554" text="glucophage" time="before DCT" type1="metformin" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC2" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="400" end="419" text="high blood pressure" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="400" end="419" text="high blood pressure" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H2" start="1468" end="1480" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC8" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H3" start="400" end="419" text="high blood pressure" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H4" start="400" end="419" text="high blood pressure" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H5" start="1468" end="1480" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H6" start="2252" end="2278" text="blood pressure of   140/70" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC11" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H7" start="400" end="419" text="high blood pressure" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H8" start="400" end="419" text="high blood pressure" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H9" start="1468" end="1480" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <FAMILY_HIST id="DOC13" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC6" status="past">
+      <SMOKER id="S0" start="1784" end="1844" text="smoked for   40 years but quit approximately three years ago" status="past" comment=""/>
+      <SMOKER id="S1" start="1810" end="1815" text="quit " status="past" comment=""/>
+    </SMOKER>
+    <DIABETES id="DOC1" time="before DCT" indicator="mention">
+      <DIABETES id="D0" start="390" end="398" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D1" start="390" end="398" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D2" start="390" end="398" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D3" start="1458" end="1466" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC10" time="during DCT" indicator="mention">
+      <DIABETES id="D4" start="390" end="398" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D5" start="390" end="398" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D6" start="390" end="398" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D7" start="1458" end="1466" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC14" time="after DCT" indicator="mention">
+      <DIABETES id="D8" start="390" end="398" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D9" start="390" end="398" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D10" start="390" end="398" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D11" start="1458" end="1466" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+  </TAGS>
+</root>

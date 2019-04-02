@@ -1,0 +1,194 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2080-06-14
+
+
+
+
+
+
+
+Johnsonville Family Clinic
+
+5388 Main Street              OSBORNE, MATTISON
+
+Oroville, AL  89389                    48423663
+
+(468) 429-7459                     06/14/2080
+
+
+
+
+
+HISTORY OF PRESENT ILLNESS:  The patient is a 71-year-old male who returns to the clinic for a followup visit.  The patient has a history of diabetes mellitus and hypertension.  He also had an episode of bronchitis about 2 months ago, which was treated with antibiotics.  The patient feels improved today
+
+
+
+PHYSICAL EXAMINATION:  An elderly male in no acute distress.  Blood pressure is 142/90 and pulse is 64.  Chest is clear bilaterally.  Heart:  Regular rate and rhythm.  Positive S1 and S2.  Negative S3 and S4.  No murmur.  Abdomen is soft, nontender, positive bowel sounds.  Lower extremities, no edema, nontender.
+
+
+
+IMPRESSION AND PLAN:
+
+1.  Diabetes mellitus.  The patient reports blood sugars which have ranged from 106-158 and reports overall good control of his diabetes mellitus.  We will continue current treatment, especially in view of the fact that his most recent hemoglobin A1c in February was 6.1 and repeat hemoglobin A1c when he returns for his next visit.
+
+2.  Hypertension.  The patient's atenolol was recently decreased from 50 mg to 25 mg because of bradycardia and lisinopril was increased to 60 mg because of microalbuminuria.  The patient's heart rate is appropriate at 64 even though his blood pressure remains borderline elevated.  We will check a microalbumin today.
+
+4.  Recent TSH was mildly suppressed and we will repeat this today.
+
+5.  Regular healthcare maintenance.  A CT of the patient's chest will be repeated when he returns for his next visit as recommended by radiology.
+
+
+
+
+
+______________________________
+
+Willie Knapp, MD
+
+
+
+
+
+
+
+
+
+
+
+eScription document:9-3577639 HFFocus transcriptionists
+
+
+
+
+
+
+
+DD: 06/17/80
+
+DT: 06/17/80
+
+DV: 06/14/80
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="during DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M0" start="1304" end="1314" text="lisinopril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M1" start="1304" end="1314" text="lisinopril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M2" start="1304" end="1314" text="lisinopril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M3" start="1304" end="1314" text="lisinopril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC1" time="before DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M4" start="1225" end="1233" text="atenolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M5" start="1225" end="1233" text="atenolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M6" start="1225" end="1233" text="atenolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <DIABETES id="DOC2" time="before DCT" indicator="mention">
+      <DIABETES id="D0" start="352" end="369" text="diabetes mellitus" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D1" start="862" end="879" text="Diabetes mellitus" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D2" start="986" end="1003" text="diabetes mellitus" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D3" start="352" end="369" text="diabetes mellitus" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D4" start="352" end="369" text="diabetes mellitus" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D5" start="352" end="369" text="diabetes mellitus" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <HYPERTENSION id="DOC3" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="374" end="386" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="1196" end="1208" text="Hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H2" start="374" end="386" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H3" start="374" end="386" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H4" start="374" end="386" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC4" time="during DCT" indicator="high bp">
+      <HYPERTENSION id="H5" start="581" end="605" text="Blood pressure is 142/90" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H6" start="580" end="606" text=" Blood pressure is 142/90 " time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H7" start="580" end="605" text=" Blood pressure is 142/90" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H8" start="581" end="605" text="Blood pressure is 142/90" time="during DCT" indicator="high bp" comment=""/>
+    </HYPERTENSION>
+    <MEDICATION id="DOC5" time="before DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M7" start="1304" end="1314" text="lisinopril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M8" start="1304" end="1314" text="lisinopril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M9" start="1304" end="1314" text="lisinopril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M10" start="1304" end="1314" text="lisinopril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC6" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H9" start="374" end="386" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H10" start="1196" end="1208" text="Hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H11" start="374" end="386" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H12" start="374" end="386" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H13" start="374" end="386" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <MEDICATION id="DOC7" time="after DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M11" start="1225" end="1233" text="atenolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M12" start="1225" end="1233" text="atenolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M13" start="1225" end="1233" text="atenolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC8" time="after DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M14" start="1304" end="1314" text="lisinopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M15" start="1304" end="1314" text="lisinopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M16" start="1304" end="1314" text="lisinopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M17" start="1304" end="1314" text="lisinopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <DIABETES id="DOC9" time="during DCT" indicator="mention">
+      <DIABETES id="D6" start="352" end="369" text="diabetes mellitus" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D7" start="862" end="879" text="Diabetes mellitus" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D8" start="986" end="1003" text="diabetes mellitus" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D9" start="352" end="369" text="diabetes mellitus" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D10" start="352" end="369" text="diabetes mellitus" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D11" start="352" end="369" text="diabetes mellitus" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <HYPERTENSION id="DOC10" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H14" start="374" end="386" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H15" start="1196" end="1208" text="Hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H16" start="374" end="386" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H17" start="374" end="386" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H18" start="374" end="386" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <FAMILY_HIST id="DOC11" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+      <FAMILY_HIST id="F3" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC12" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" status="unknown"/>
+      <SMOKER id="S2" status="unknown"/>
+      <SMOKER id="S3" status="unknown"/>
+    </SMOKER>
+    <MEDICATION id="DOC13" time="during DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M18" start="1225" end="1233" text="atenolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M19" start="1225" end="1233" text="atenolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M20" start="1225" end="1233" text="atenolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <DIABETES id="DOC14" time="after DCT" indicator="mention">
+      <DIABETES id="D12" start="352" end="369" text="diabetes mellitus" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D13" start="862" end="879" text="Diabetes mellitus" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D14" start="986" end="1003" text="diabetes mellitus" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D15" start="352" end="369" text="diabetes mellitus" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D16" start="352" end="369" text="diabetes mellitus" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D17" start="352" end="369" text="diabetes mellitus" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <PHI id="P0" start="16" end="26" text="2080-06-14" TYPE="DATE"/>
+    <PHI id="P1" start="34" end="60" text="Johnsonville Family Clinic" TYPE="HOSPITAL"/>
+    <PHI id="P2" start="62" end="78" text="5388 Main Street" TYPE="STREET"/>
+    <PHI id="P3" start="92" end="109" text="OSBORNE, MATTISON" TYPE="PATIENT"/>
+    <PHI id="P4" start="111" end="119" text="Oroville" TYPE="CITY"/>
+    <PHI id="P5" start="121" end="123" text="AL" TYPE="STATE"/>
+    <PHI id="P6" start="125" end="130" text="89389" TYPE="ZIP"/>
+    <PHI id="P7" start="150" end="158" text="48423663" TYPE="MEDICALRECORD"/>
+    <PHI id="P8" start="160" end="174" text="(468) 429-7459" TYPE="PHONE"/>
+    <PHI id="P9" start="195" end="205" text="06/14/2080" TYPE="DATE"/>
+    <PHI id="P10" start="257" end="259" text="71" TYPE="AGE"/>
+    <PHI id="P11" start="1112" end="1120" text="February" TYPE="DATE"/>
+    <PHI id="P12" start="1764" end="1776" text="Willie Knapp" TYPE="DOCTOR"/>
+    <PHI id="P13" start="1812" end="1821" text="9-3577639" TYPE="IDNUM"/>
+    <PHI id="P14" start="1859" end="1867" text="06/17/80" TYPE="DATE"/>
+    <PHI id="P15" start="1873" end="1881" text="06/17/80" TYPE="DATE"/>
+    <PHI id="P16" start="1887" end="1895" text="06/14/80" TYPE="DATE"/>
+  </TAGS>
+</root>

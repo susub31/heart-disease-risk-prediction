@@ -1,0 +1,153 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2091-03-15
+
+
+
+
+
+
+
+
+
+CHIEF COMPLAINT:
+
+Cough and followup of diabetes.
+
+
+
+SUBJECTIVE:
+
+The patient is a 63-year-old woman with 2-1/2 weeks of dry cough.  It is 
+
+occurring in spasms.  No phlegm.  Her daughter had a bad cold.
+
+
+
+Her diabetes has been managed with insulin and oral hypoglycemics.  She takes 
+
+20 units of Humulin, she is not sure what kind in the morning, and she also has 
+
+been taking Glucovance once or twice a day 5/500 mg.  She states that values 
+
+recently have gone around the 200 level at home.
+
+
+
+OBJECTIVE:
+
+Unremarkable pharynx.  Normal TMs.  Lungs:  Clear.  Normal heart sounds.  
+
+Benign abdomen.
+
+
+
+ASSESSMENT:
+
+1.	Cough, possibly viral syndrome.
+
+2.	Diabetes.
+
+
+
+PLAN:
+
+1.	Chest x-ray if not better in 48 hours.
+
+2.	Robitussin A-C, 4 ounces take 5 cc p.o. q.6h. p.r.n..
+
+3.	Refills to be called in for her insulin and Glucovance.
+
+
+
+
+
+
+
+
+
+William K. Joslin, M.D., M.P.H.
+
+
+
+
+
+WKJ/edge
+
+FI:  23755
+
+DD:  03/15/2091
+
+DT:  03/16/2091
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="after DCT" type1="sulfonylureas" type2="metformin">
+      <MEDICATION id="M0" start="417" end="427" text="Glucovance" time="after DCT" type1="sulfonylureas" type2="metformin" comment=""/>
+      <MEDICATION id="M1" start="863" end="873" text="Glucovance" time="after DCT" type1="sulfonylureas" type2="metformin" comment=""/>
+      <MEDICATION id="M2" start="417" end="427" text="Glucovance" time="after DCT" type1="sulfonylureas" type2="metformin" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC2" time="after DCT" type1="insulin" type2="">
+      <MEDICATION id="M3" start="278" end="285" text="insulin" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M4" start="335" end="342" text="Humulin" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M5" start="851" end="858" text="insulin" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M6" start="335" end="342" text="Humulin" time="after DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC3" time="during DCT" type1="sulfonylureas" type2="metformin">
+      <MEDICATION id="M7" start="417" end="427" text="Glucovance" time="during DCT" type1="sulfonylureas" type2="metformin" comment=""/>
+      <MEDICATION id="M8" start="863" end="873" text="Glucovance" time="during DCT" type1="sulfonylureas" type2="metformin" comment=""/>
+      <MEDICATION id="M9" start="417" end="427" text="Glucovance" time="during DCT" type1="sulfonylureas" type2="metformin" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC5" time="before DCT" type1="sulfonylureas" type2="metformin">
+      <MEDICATION id="M10" start="417" end="427" text="Glucovance" time="before DCT" type1="sulfonylureas" type2="metformin" comment=""/>
+      <MEDICATION id="M11" start="863" end="873" text="Glucovance" time="before DCT" type1="sulfonylureas" type2="metformin" comment=""/>
+      <MEDICATION id="M12" start="417" end="427" text="Glucovance" time="before DCT" type1="sulfonylureas" type2="metformin" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC8" time="during DCT" type1="insulin" type2="">
+      <MEDICATION id="M13" start="278" end="285" text="insulin" time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M14" start="335" end="342" text="Humulin" time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M15" start="851" end="858" text="insulin" time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M16" start="335" end="342" text="Humulin" time="during DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC10" time="before DCT" type1="insulin" type2="">
+      <MEDICATION id="M17" start="278" end="285" text="insulin" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M18" start="335" end="342" text="Humulin" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M19" start="851" end="858" text="insulin" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M20" start="335" end="342" text="Humulin" time="before DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <FAMILY_HIST id="DOC9" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC4" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" status="unknown"/>
+    </SMOKER>
+    <DIABETES id="DOC1" time="before DCT" indicator="mention">
+      <DIABETES id="D0" start="76" end="84" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D1" start="247" end="255" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D2" start="695" end="703" text="Diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D3" start="76" end="84" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC6" time="after DCT" indicator="mention">
+      <DIABETES id="D4" start="76" end="84" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D5" start="247" end="255" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D6" start="695" end="703" text="Diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D7" start="76" end="84" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC7" time="during DCT" indicator="mention">
+      <DIABETES id="D8" start="76" end="84" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D9" start="247" end="255" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D10" start="695" end="703" text="Diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D11" start="76" end="84" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+  </TAGS>
+</root>

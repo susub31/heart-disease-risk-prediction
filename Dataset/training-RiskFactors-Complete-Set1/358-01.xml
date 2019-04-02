@@ -1,0 +1,147 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2079-01-14
+
+
+PICH 9
+89 James Street, Suite 9                          GREENWOOD, NORA
+Lucerne, KY 66922                                      60005814
+(838) 627-3027                                           01/14/79
+
+
+CHIEF COMPLAINT:  Ms. Greenwood comes in to urgent care clinic for
+hives after taking Keflex.
+
+HISTORY OF PRESENT ILLNESS:  She is a 47-year-old woman with
+chronic hydradenitis suppurativa since the age of 18 in her left
+axilla and her groin.  She has been to the emergency room
+multiple times for purulent drainage around her groin.  She has
+been given multiple courses of antibiotics including Keflex and
+dicloxacillin.  She is planning to have her disease surgically
+managed in the next few months.  She most recently presented to
+the emergency room on January 7, 2079 with swelling and drainage
+of her hydradenitis in her groin.  She was given a prescription
+of Keflex.  Shortly after taking the first tablet, she developed
+itching in the hands, face, and legs and as well as hives.  She
+denied any shortness of breath, difficulty breathing or loss of
+consciousness.  She called the emergency room and was instructed
+to stop taking Keflex as this was most likely an allergic
+reaction.  So now, she is here for follow up from that.  She said
+shortly after stopping antibiotic her symptoms of hives and
+itchiness have improved very quickly.  She is still complaining
+of purulent drainage around her groin.
+
+PAST MEDICAL HISTORY:  Diabetes.
+
+MEDICATIONS:  Glucotrol, Percocet as needed for pain.
+
+ALLERGIES:  She is allergic to erythromycin and now Keflex.  She
+gets hives from both.
+
+PHYSICAL EXAMINATION:  Her left axilla looks dry.  Her bilateral
+groins looks red, swollen tender with some serous as well as some
+purulent drainage.  There is no fluctuance that I could feel.
+
+ASSESSMENT AND PLAN:  Worsening of her hydradenitis.  Given the
+recent allergy to Keflex, we will obviously need to take a
+different antibiotic.  She has been on dicloxacillin in the past
+with good result.  Despite the 15% cross allergy of dicloxacillin
+compared to Keflex, I think dicloxacillin is a good choice for
+now.  If this does not work, I think one should consider
+clindamycin for treatment.  I will go ahead and give her 14 days
+worth of dicloxacillin and I instructing her to notify M.D. if
+she develops any allergic reaction to this medicine.  I also gave
+her 60 tablets of Percocet as well as renewed her renewed her
+prescription of Glucotrol XL 2.5 mg a day.  She should see her
+PCP in two weeks.
+
+
+
+
+
+______________________________
+Byron Pham, M.D.
+
+
+Dictated By: Byron Pham
+
+
+eScription document:9-3042267 EMSSten Tel
+
+
+
+DD: 01/14/79
+DT: 01/15/79
+DV: 01/14/79
+
+
+
+]]></TEXT>
+  <TAGS>
+    <DIABETES id="DOC0" time="before DCT" indicator="mention">
+      <DIABETES id="D0" start="1466" end="1474" text="Diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D1" start="1466" end="1474" text="Diabetes" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <MEDICATION id="DOC1" time="before DCT" type1="sulfonylureas" type2="">
+      <MEDICATION id="M0" start="1491" end="1500" text="Glucotrol" time="before DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M1" start="2460" end="2472" text="Glucotrol XL" time="before DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M2" start="1491" end="1500" text="Glucotrol" time="before DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M3" start="1491" end="1500" text="Glucotrol" time="before DCT" type1="sulfonylureas" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC2" time="after DCT" type1="sulfonylureas" type2="">
+      <MEDICATION id="M4" start="1491" end="1500" text="Glucotrol" time="after DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M5" start="2460" end="2472" text="Glucotrol XL" time="after DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M6" start="1491" end="1500" text="Glucotrol" time="after DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M7" start="1491" end="1500" text="Glucotrol" time="after DCT" type1="sulfonylureas" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC3" time="during DCT" type1="sulfonylureas" type2="">
+      <MEDICATION id="M8" start="1491" end="1500" text="Glucotrol" time="during DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M9" start="2460" end="2472" text="Glucotrol XL" time="during DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M10" start="1491" end="1500" text="Glucotrol" time="during DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M11" start="1491" end="1500" text="Glucotrol" time="during DCT" type1="sulfonylureas" type2="" comment=""/>
+    </MEDICATION>
+    <DIABETES id="DOC4" time="during DCT" indicator="mention">
+      <DIABETES id="D2" start="1466" end="1474" text="Diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D3" start="1466" end="1474" text="Diabetes" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <FAMILY_HIST id="DOC5" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC6" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" status="unknown"/>
+      <SMOKER id="S2" start="329" end="336" text="HISTORY" status="unknown" comment=""/>
+    </SMOKER>
+    <DIABETES id="DOC7" time="after DCT" indicator="mention">
+      <DIABETES id="D4" start="1466" end="1474" text="Diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D5" start="1466" end="1474" text="Diabetes" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <PHI id="P0" start="16" end="26" text="2079-01-14" TYPE="DATE"/>
+    <PHI id="P1" start="29" end="33" text="PICH" TYPE="HOSPITAL"/>
+    <PHI id="P2" start="34" end="35" text="9" TYPE="ROOM"/>
+    <PHI id="P3" start="36" end="51" text="89 James Street" TYPE="STREET"/>
+    <PHI id="P4" start="59" end="60" text="9" TYPE="ROOM"/>
+    <PHI id="P5" start="86" end="101" text="GREENWOOD, NORA" TYPE="PATIENT"/>
+    <PHI id="P6" start="102" end="109" text="Lucerne" TYPE="CITY"/>
+    <PHI id="P7" start="111" end="113" text="KY" TYPE="STATE"/>
+    <PHI id="P8" start="114" end="119" text="66922" TYPE="ZIP"/>
+    <PHI id="P9" start="157" end="165" text="60005814" TYPE="MEDICALRECORD"/>
+    <PHI id="P10" start="166" end="180" text="(838) 627-3027" TYPE="PHONE"/>
+    <PHI id="P11" start="223" end="231" text="01/14/79" TYPE="DATE"/>
+    <PHI id="P12" start="256" end="265" text="Greenwood" TYPE="PATIENT"/>
+    <PHI id="P13" start="367" end="369" text="47" TYPE="AGE"/>
+    <PHI id="P14" start="440" end="442" text="18" TYPE="AGE"/>
+    <PHI id="P15" start="790" end="805" text="January 7, 2079" TYPE="DATE"/>
+    <PHI id="P16" start="2561" end="2571" text="Byron Pham" TYPE="DOCTOR"/>
+    <PHI id="P17" start="2593" end="2603" text="Byron Pham" TYPE="DOCTOR"/>
+    <PHI id="P18" start="2626" end="2635" text="9-3042267" TYPE="IDNUM"/>
+    <PHI id="P19" start="2655" end="2663" text="01/14/79" TYPE="DATE"/>
+    <PHI id="P20" start="2668" end="2676" text="01/15/79" TYPE="DATE"/>
+    <PHI id="P21" start="2681" end="2689" text="01/14/79" TYPE="DATE"/>
+  </TAGS>
+</root>

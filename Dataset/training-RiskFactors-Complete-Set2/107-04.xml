@@ -1,0 +1,157 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2095-12-21
+
+
+
+
+
+
+December 21, 2095
+
+
+
+ Attending Note
+
+
+I performed a history and neurological examination of the patient and discussed his management with the resident.  I reviewed the resident's note and agree with his documented findings and plan of care.
+
+
+The patient is a 71 year old man with HTN, DM and high cholesterol, PPM on coumadin for AF, glaucoma, who presented 4 w/a with R facial droop and dysarthria lasting &lt; 1 minute.  Was admitted for TIA w/u and CT scan was negative.  CTA was also normal.  He had had a similar episode in the UK in the past. Was started on a statin and ASA and discharged.  His wife feels he may not be that compliant but his INR was 2.3 today.  It had been 2 when he came in with the TIA&gt;
+
+
+The exam today showed:
+Acuity was 20/70 OD and Hand motions OS.
+Left APD
+Fundi with large C/D OD and diffuse pallor OS with an opticociliary shunt vessel along the nasal disc.
+Right facial weakness in the sense of eyebrow drop and less wrinkles in the forehead but smile equal.  Was not in UMN fashion.
+Motor, sensory, gait otherwise normal.
+
+
+Assessment:  
+Status post TIA possibly related to AF
+
+Left optic neuropathy with signs of chronic compression or ischemia.  The latter is more likely cause (especially since I did not see any mass lesion compressing the L optic nerve on the CT) and is proably secondary to glaucoma.
+
+
+Plan:
+Reviewed coumadin food rules with him.
+Continue 
+ASA and coumadin and statin
+Continued HTN and DM control
+Will touch base with ophthalmology regarding the left optic neuropathy
+
+Return in 6 months.
+
+
+
+
+Sincerely,
+
+
+
+
+Victor Meadows, M.D.
+Shady Brook Hospital
+Neurology
+
+745-456-4769
+vmeadows@sbhnc.org
+  
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <HYPERLIPIDEMIA id="DOC5" time="before DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY0" start="327" end="343" text="high cholesterol" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY1" start="327" end="344" text="high cholesterol," time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY2" start="327" end="343" text="high cholesterol" time="before DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <HYPERLIPIDEMIA id="DOC8" time="after DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY3" start="327" end="343" text="high cholesterol" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY4" start="327" end="344" text="high cholesterol," time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY5" start="327" end="343" text="high cholesterol" time="after DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <HYPERLIPIDEMIA id="DOC16" time="during DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY6" start="327" end="343" text="high cholesterol" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY7" start="327" end="344" text="high cholesterol," time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY8" start="327" end="343" text="high cholesterol" time="during DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <MEDICATION id="DOC0" time="before DCT" type1="statin" type2="">
+      <MEDICATION id="M0" start="1459" end="1465" text="statin" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M1" start="601" end="607" text="statin" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M2" start="1459" end="1465" text="statin" time="before DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC1" time="during DCT" type1="statin" type2="">
+      <MEDICATION id="M3" start="1459" end="1465" text="statin" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M4" start="601" end="607" text="statin" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M5" start="1459" end="1465" text="statin" time="during DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC2" time="during DCT" type1="aspirin" type2="">
+      <MEDICATION id="M6" start="1438" end="1441" text="ASA" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M7" start="612" end="615" text="ASA" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M8" start="1438" end="1441" text="ASA" time="during DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC3" time="after DCT" type1="statin" type2="">
+      <MEDICATION id="M9" start="1459" end="1465" text="statin" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M10" start="601" end="607" text="statin" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M11" start="1459" end="1465" text="statin" time="after DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC4" time="after DCT" type1="aspirin" type2="">
+      <MEDICATION id="M12" start="1438" end="1441" text="ASA" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M13" start="612" end="615" text="ASA" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M14" start="1438" end="1441" text="ASA" time="after DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC12" time="before DCT" type1="aspirin" type2="">
+      <MEDICATION id="M15" start="1438" end="1441" text="ASA" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M16" start="612" end="615" text="ASA" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M17" start="1438" end="1441" text="ASA" time="before DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC6" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="315" end="318" text="HTN" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="315" end="318" text="HTN" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H2" start="315" end="318" text="HTN" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC11" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H3" start="315" end="318" text="HTN" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H4" start="315" end="318" text="HTN" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H5" start="315" end="318" text="HTN" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC15" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H6" start="315" end="318" text="HTN" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H7" start="315" end="318" text="HTN" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H8" start="315" end="318" text="HTN" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <FAMILY_HIST id="DOC13" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC14" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" status="unknown"/>
+      <SMOKER id="S2" start="3" end="9" text="Record" status="unknown" comment=""/>
+    </SMOKER>
+    <DIABETES id="DOC7" time="before DCT" indicator="mention">
+      <DIABETES id="D0" start="320" end="322" text="DM" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D1" start="320" end="322" text="DM" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D2" start="320" end="322" text="DM" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC9" time="after DCT" indicator="mention">
+      <DIABETES id="D3" start="320" end="322" text="DM" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D4" start="320" end="322" text="DM" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D5" start="320" end="322" text="DM" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC10" time="during DCT" indicator="mention">
+      <DIABETES id="D6" start="320" end="322" text="DM" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D7" start="320" end="322" text="DM" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D8" start="320" end="322" text="DM" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+  </TAGS>
+</root>

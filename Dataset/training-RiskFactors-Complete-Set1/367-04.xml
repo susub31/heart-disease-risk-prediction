@@ -1,0 +1,262 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2084-03-05
+
+77 yo F one hour late for appt.  She is planning parathyroid surgery.  She is supposed to be taking ca and vit. D supplements.  She took the vit. D for a few days, but that is all.  She has fatigue and leg cramps attrib. to hyperparathyroidism.
+
+
+
+Medications
+
+Premarin (CONJUGATED Estrogens) 2 GM PV QHS : SIG ONE APPLICATOR FULL AT HSX 1WK THEN TWICE PER WEEK
+
+Ativan (LORAZEPAM) 0.5MG, 1 Tablet(s) PNGT QD
+
+Hydralazine Hcl 25MG, 1 Tablet(s) PO BID
+
+GLYBURIDE 5MG, 1 Tablet(s) PO QD
+
+ATENOLOL 50MG, 0.5 Tablet(s) PO QD
+
+Aspirin (CHILDRENS) (ACETYLSALICYLIC Aci... 81MG, 1 Tablet(s) PO QD
+
+Stopped cozaar b/o noncoverage, stopped nifedipine b/c did not agree w/ her.
+
+
+
+Allergies
+
+Codeine - GI upset
+
+Sulfa - Rash
+
+* lisinopril - cough
+
+Penicillins - Rash
+
+* hctz - cramps 
+
+
+
+Problems
+
+Diabetes mellitus - does not do home glucometry b/c thinks she knows what her sugar is w/o testing it.  Recent HBA1C<7%, LDL 124.
+
+Hypertension - no CP, SOB, HA, edema, dizziness.
+
+Renal cancer : incidentally discovered, s/p nephrectomy
+
+Dyspepsia/ H Pylori : unable to tolerate bismuth, TCN, metronidazole or clarithromycin and metronidazole. No sx at this time.
+
+Thyroid nodules : biopsy benign
+
+Plantar Fasciitis 
+
+Osteoporosis : bone density 9/11/2082
+
+Colonic polyps : tubular adenoma. g+ stool 5/83. Refusing f/u colo.
+
+Diverticulosis 
+
+H/O Vitamin D deficiency 
+
+
+
+SH - mostly worried about husband's health problems.
+
+
+
+PE - appears well
+
+BP 170/100
+
+HR 66
+
+Lungs clear
+
+Cor reg w/o MRG
+
+No edema
+
+
+
+IMP
+
+HyperPTH - for surgery, but we need to control her BP first.  She needs to take the supplements rec. by Dr Lawson.
+
+HTN not controlled, not adherent to rx, various barriers.
+
+DM pr. controlled, though does not check glycemia.  Needs LDL<100
+
+Anxiety
+
+Hx colon polyps, f/u is recommended.
+
+Hx renal ca, rec. f/u.
+
+H. pylori, not treated, no current sx.
+
+
+
+PLAN:
+
+Given rec. for Caltrate 600+D to take bid.
+
+Rx Benicar, ARB covered by free care.
+
+Lipitor rx.
+
+She agrees to resume furosemide, if can skip it on days she goes out, rx to RHC.
+
+F/U 1-2 mo, BP, breast check, order abd/pelvic CT surveillance s/p renal ca, f/u labs.
+
+She declines colo, despite stated risk of colon ca w/ polyps, but might consider it later.
+
+She is advised to stop the asa 10 days prior to any surgery.
+
+
+
+
+
+
+
+_____________________________________________
+
+Patricia Lund, M.D.
+
+
+
+cc:Dr Lawson
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="after DCT" type1="statin" type2="">
+      <MEDICATION id="M0" start="1974" end="1986" text="Lipitor rx. " time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M1" start="1974" end="1982" text="Lipitor " time="after DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC1" time="during DCT" type1="aspirin" type2="">
+      <MEDICATION id="M2" start="550" end="617" text="Aspirin (CHILDRENS) (ACETYLSALICYLIC Aci... 81MG, 1 Tablet(s) PO QD" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M3" start="550" end="557" text="Aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M4" start="550" end="557" text="Aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC2" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="947" end="959" text="Hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="1645" end="1648" text="HTN" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H2" start="947" end="959" text="Hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H3" start="946" end="960" text=" Hypertension " time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <DIABETES id="DOC3" time="during DCT" indicator="mention">
+      <DIABETES id="D0" start="816" end="833" text="Diabetes mellitus" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D1" start="1704" end="1706" text="DM" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D2" start="816" end="833" text="Diabetes mellitus" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D3" start="816" end="824" text="Diabetes" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <MEDICATION id="DOC4" time="after DCT" type1="aspirin" type2="">
+      <MEDICATION id="M5" start="550" end="617" text="Aspirin (CHILDRENS) (ACETYLSALICYLIC Aci... 81MG, 1 Tablet(s) PO QD" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M6" start="550" end="557" text="Aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M7" start="550" end="557" text="Aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC5" time="during DCT" indicator="high bp">
+      <HYPERTENSION id="H4" start="1463" end="1473" text="BP 170/100" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H5" start="1463" end="1473" text="BP 170/100" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H6" start="1462" end="1473" text=" BP 170/100" time="during DCT" indicator="high bp" comment=""/>
+    </HYPERTENSION>
+    <MEDICATION id="DOC6" time="after DCT" type1="sulfonylureas" type2="">
+      <MEDICATION id="M8" start="480" end="512" text="GLYBURIDE 5MG, 1 Tablet(s) PO QD" time="after DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M9" start="480" end="489" text="GLYBURIDE" time="after DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M10" start="480" end="489" text="GLYBURIDE" time="after DCT" type1="sulfonylureas" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC7" time="before DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M11" start="659" end="669" text="nifedipine" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M12" start="651" end="670" text="stopped nifedipine " time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M13" start="659" end="670" text="nifedipine " time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC8" time="during DCT" type1="sulfonylureas" type2="">
+      <MEDICATION id="M14" start="480" end="512" text="GLYBURIDE 5MG, 1 Tablet(s) PO QD" time="during DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M15" start="480" end="489" text="GLYBURIDE" time="during DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M16" start="480" end="489" text="GLYBURIDE" time="during DCT" type1="sulfonylureas" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC9" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H7" start="947" end="959" text="Hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H8" start="1645" end="1648" text="HTN" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H9" start="947" end="959" text="Hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H10" start="946" end="960" text=" Hypertension " time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <MEDICATION id="DOC10" time="after DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M17" start="514" end="548" text="ATENOLOL 50MG, 0.5 Tablet(s) PO QD" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M18" start="514" end="522" text="ATENOLOL" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M19" start="514" end="522" text="ATENOLOL" time="after DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <SMOKER id="DOC11" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" status="unknown"/>
+      <SMOKER id="S2" start="1388" end="1390" text="SH" status="unknown" comment=""/>
+    </SMOKER>
+    <DIABETES id="DOC12" time="before DCT" indicator="mention">
+      <DIABETES id="D4" start="816" end="833" text="Diabetes mellitus" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D5" start="1704" end="1706" text="DM" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D6" start="816" end="833" text="Diabetes mellitus" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D7" start="816" end="824" text="Diabetes" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <MEDICATION id="DOC13" time="after DCT" type1="ARB" type2="">
+      <MEDICATION id="M20" start="1935" end="1945" text="Rx Benicar" time="after DCT" type1="ARB" type2="" comment=""/>
+      <MEDICATION id="M21" start="1937" end="1945" text=" Benicar" time="after DCT" type1="ARB" type2="" comment=""/>
+    </MEDICATION>
+    <FAMILY_HIST id="DOC14" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <MEDICATION id="DOC15" time="before DCT" type1="aspirin" type2="">
+      <MEDICATION id="M22" start="550" end="617" text="Aspirin (CHILDRENS) (ACETYLSALICYLIC Aci... 81MG, 1 Tablet(s) PO QD" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M23" start="550" end="557" text="Aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M24" start="550" end="557" text="Aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC16" time="before DCT" type1="sulfonylureas" type2="">
+      <MEDICATION id="M25" start="480" end="512" text="GLYBURIDE 5MG, 1 Tablet(s) PO QD" time="before DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M26" start="480" end="489" text="GLYBURIDE" time="before DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M27" start="480" end="489" text="GLYBURIDE" time="before DCT" type1="sulfonylureas" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC17" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H11" start="947" end="959" text="Hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H12" start="1645" end="1648" text="HTN" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H13" start="947" end="959" text="Hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H14" start="946" end="960" text=" Hypertension " time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <MEDICATION id="DOC18" time="before DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M28" start="514" end="548" text="ATENOLOL 50MG, 0.5 Tablet(s) PO QD" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M29" start="514" end="522" text="ATENOLOL" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M30" start="514" end="522" text="ATENOLOL" time="before DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC19" time="during DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M31" start="514" end="548" text="ATENOLOL 50MG, 0.5 Tablet(s) PO QD" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M32" start="514" end="522" text="ATENOLOL" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M33" start="514" end="522" text="ATENOLOL" time="during DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <DIABETES id="DOC20" time="after DCT" indicator="mention">
+      <DIABETES id="D8" start="816" end="833" text="Diabetes mellitus" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D9" start="1704" end="1706" text="DM" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D10" start="816" end="833" text="Diabetes mellitus" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D11" start="816" end="824" text="Diabetes" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <MEDICATION id="DOC21" time="before DCT" type1="ARB" type2="">
+      <MEDICATION id="M34" start="627" end="633" text="cozaar" time="before DCT" type1="ARB" type2="" comment=""/>
+      <MEDICATION id="M35" start="619" end="633" text="Stopped cozaar" time="before DCT" type1="ARB" type2="" comment=""/>
+      <MEDICATION id="M36" start="627" end="634" text="cozaar " time="before DCT" type1="ARB" type2="" comment=""/>
+    </MEDICATION>
+    <PHI id="P0" start="16" end="26" text="2084-03-05" TYPE="DATE"/>
+    <PHI id="P1" start="28" end="30" text="77" TYPE="AGE"/>
+    <PHI id="P2" start="1262" end="1271" text="9/11/2082" TYPE="DATE"/>
+    <PHI id="P3" start="1316" end="1320" text="5/83" TYPE="DATE"/>
+    <PHI id="P4" start="1636" end="1642" text="Lawson" TYPE="DOCTOR"/>
+    <PHI id="P5" start="2364" end="2377" text="Patricia Lund" TYPE="DOCTOR"/>
+    <PHI id="P6" start="2393" end="2399" text="Lawson" TYPE="DOCTOR"/>
+  </TAGS>
+</root>

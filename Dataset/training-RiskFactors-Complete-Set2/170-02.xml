@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2147-05-03
+
+S:  66 yo man comes to clinic c/o laryngitis x 2days.  Hurts his L ear when he swallows.  Feels pain along R side of his neck when turning his head.   No cough, chills, sweats.    No wheeze, SOB, chest tightness. No HA, facial pain, earache, sore throat. Throat feels dry.  No fatigue or appetite changes. Non smoker.
+
+
+
+Problems
+
+Diabetes mellitus 
+
+
+
+
+
+Medications
+
+
+
+O: Temp 98.6
+
+bp 140/70
+
+HEENT:  PERRL, sclera, TM's w/clr fluid bilat, sinuses nt,  no rhinorrhea, O/P benign: no erythema or exudate, no lad.
+
+Lungs: clr.  RR 16
+
+Heart: reg S1S2, no m/r/g
+
+A/P: URI, prob viral.  Gargles, lozenges, decongestants prn. RTC if sx exacerbate.
+
+
+
+]]></TEXT>
+  <TAGS>
+    <HYPERTENSION id="DOC1" time="during DCT" indicator="high bp">
+      <HYPERTENSION id="H0" start="412" end="421" text="bp 140/70" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H1" start="412" end="421" text="bp 140/70" time="during DCT" indicator="high bp" comment=""/>
+    </HYPERTENSION>
+    <FAMILY_HIST id="DOC3" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC5" status="never">
+      <SMOKER id="S0" start="334" end="345" text="Non smoker." status="never" comment=""/>
+      <SMOKER id="S1" start="333" end="344" text=" Non smoker" status="never" comment=""/>
+      <SMOKER id="S2" start="334" end="344" text="Non smoker" status="never" comment=""/>
+    </SMOKER>
+    <DIABETES id="DOC0" time="before DCT" indicator="mention">
+      <DIABETES id="D0" start="358" end="377" text=" Diabetes mellitus " time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D1" start="359" end="377" text="Diabetes mellitus " time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D2" start="359" end="367" text="Diabetes" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC2" time="during DCT" indicator="mention">
+      <DIABETES id="D3" start="358" end="377" text=" Diabetes mellitus " time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D4" start="359" end="377" text="Diabetes mellitus " time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D5" start="359" end="367" text="Diabetes" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC4" time="after DCT" indicator="mention">
+      <DIABETES id="D6" start="358" end="377" text=" Diabetes mellitus " time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D7" start="359" end="377" text="Diabetes mellitus " time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D8" start="359" end="367" text="Diabetes" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+  </TAGS>
+</root>

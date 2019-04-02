@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2080-09-30
+
+ 
+ 
+                                        Ocampo, Nathan-Oliver
+                                        09/30/80
+HDH INTERNAL MEDICINE ASSOCIATES
+ 
+ 
+ 
+ 
+This 63 y.o. white male with hypertension and hypercholesterolemia
+returns for follow-up.  His cardiovascular review of systems and other
+review of systems is entirely negative.  He takes Niacin SR 500 mg po
+BID and Enalapril 5 mg po BID.  He has no complaints.
+ 
+On examination today, his weight is 188 lbs; BP is 120/70; HEENT exam
+is unremarkable; chest is clear; heart shows a soft flow murmur;
+abdominal examination is benign; rectal is guaiac negative without
+masses.
+ 
+Assessment:  The patient is in good stable health.  I will draw some
+blood tests and write him a letter.  I will see him in about nine
+months.
+ 
+ 
+ 
+ 
+ 
+Kenneth X. Sylvester, M.D.
+ 
+DD: 09/30/80
+DT: 12/29/68
+DV: 09/30/80
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <HYPERLIPIDEMIA id="DOC4" time="before DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY0" start="230" end="250" text="hypercholesterolemia" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY1" start="230" end="250" text="hypercholesterolemia" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY2" start="230" end="250" text="hypercholesterolemia" time="before DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <HYPERLIPIDEMIA id="DOC6" time="after DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY3" start="230" end="250" text="hypercholesterolemia" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY4" start="230" end="250" text="hypercholesterolemia" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY5" start="230" end="250" text="hypercholesterolemia" time="after DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <HYPERLIPIDEMIA id="DOC13" time="during DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY6" start="230" end="250" text="hypercholesterolemia" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY7" start="230" end="250" text="hypercholesterolemia" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY8" start="230" end="250" text="hypercholesterolemia" time="during DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <MEDICATION id="DOC0" time="during DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M0" start="400" end="409" text="Enalapril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M1" start="400" end="409" text="Enalapril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M2" start="400" end="409" text="Enalapril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC1" time="after DCT" type1="niacin" type2="">
+      <MEDICATION id="M3" start="372" end="378" text="Niacin" time="after DCT" type1="niacin" type2="" comment=""/>
+      <MEDICATION id="M4" start="372" end="378" text="Niacin" time="after DCT" type1="niacin" type2="" comment=""/>
+      <MEDICATION id="M5" start="372" end="378" text="Niacin" time="after DCT" type1="niacin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC3" time="after DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M6" start="400" end="409" text="Enalapril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M7" start="400" end="409" text="Enalapril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M8" start="400" end="409" text="Enalapril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC7" time="before DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M9" start="400" end="409" text="Enalapril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M10" start="400" end="409" text="Enalapril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M11" start="400" end="409" text="Enalapril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC8" time="during DCT" type1="niacin" type2="">
+      <MEDICATION id="M12" start="372" end="378" text="Niacin" time="during DCT" type1="niacin" type2="" comment=""/>
+      <MEDICATION id="M13" start="372" end="378" text="Niacin" time="during DCT" type1="niacin" type2="" comment=""/>
+      <MEDICATION id="M14" start="372" end="378" text="Niacin" time="during DCT" type1="niacin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC11" time="before DCT" type1="niacin" type2="">
+      <MEDICATION id="M15" start="372" end="378" text="Niacin" time="before DCT" type1="niacin" type2="" comment=""/>
+      <MEDICATION id="M16" start="372" end="378" text="Niacin" time="before DCT" type1="niacin" type2="" comment=""/>
+      <MEDICATION id="M17" start="372" end="378" text="Niacin" time="before DCT" type1="niacin" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC2" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="213" end="225" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="213" end="225" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H2" start="213" end="225" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC5" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H3" start="213" end="225" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H4" start="213" end="225" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H5" start="213" end="225" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC12" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H6" start="213" end="225" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H7" start="213" end="225" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H8" start="213" end="225" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <FAMILY_HIST id="DOC10" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC9" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" start="3" end="9" text="Record" status="unknown" comment=""/>
+      <SMOKER id="S2" status="unknown"/>
+    </SMOKER>
+  </TAGS>
+</root>

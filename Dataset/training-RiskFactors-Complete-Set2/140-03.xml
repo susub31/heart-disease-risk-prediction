@@ -1,0 +1,185 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2082-07-15
+
+
+Internal Medicine
+Room 4B
+39 Mosele Court                                        Xanders, Ruth
+Changchun, LA 14176                                      56419927
+(109) 932-5237                                          
+07/15/82
+
+
+DIAGNOSIS:
+1. Hypertension.
+2. Pedal edema.
+3. Diabetes.
+
+HPI: Ruth is a 42 year old woman who presents for follow
+up of medical issues as well as for new pedal edema over the
+past 2 weeks.  When I saw her a few weeks ago, she was very
+dehydrated and required a decrease in dose of her Lasix due
+to symptoms of dehydration as well as a rise in her
+creatinine and BUN.  She responded well to this and then did
+well for a week or so.  Then she saw Dr. Vuong who
+increased her dose of Lasix back to 20 mg in the evening. 
+Subsequently, she developed pedal edema which, at times, is
+up to her knees and has been very bothersome for her.  Of
+note, she started Norvasc within the past few months and it
+was gradually increased to 10 mg a day.  She reports her
+blood sugars have been under excellent control, ranging from
+90-120s-140s especially over the past couple of weeks.  She
+has had a couple of lows in the 40s over the past couple of
+months.  She again has not yet followed up with Dr. Vicki
+Klein as I had recommended for help with her diabetes.  She
+reports her blood pressure in Dr. Vuong's office was
+normal as well.  She denies any orthopnea, PND, increased
+shortness of breath or dyspnea on exertion.  No fever or
+chills.  Remainder review of systems negative.  She does
+report sweating with meals that she is unsure how long she
+has had but has noted it over the past few months. 
+
+MEDICATIONS: As noted in the record and confirmed.
+
+ALLERGIES: Lisinopril causes cough.
+
+PHYSICAL EXAMINATION: She is a pleasant woman in no acute
+distress.  Her skin is very tanned.  Blood pressure 148/62,
+on repeat it is 160/70, pulse of 88, weight of 150, weight
+is up about 6 pounds for her.  HEENT within normal limits. 
+Neck: no JVD.  Lungs clear to auscultation bilaterally, no
+crackles or rhonchi.  Cardiovascular exam: normal S1, S2,
+II/VI systolic murmur at right sternal border.  Abdomen is
+benign.  Extremities: she has 1-2+ pitting pedal edema to
+mid shin.  
+
+IMPRESSION AND PLAN: 42 year old woman with:
+1. New pedal edema.  Reviewing patient's recent lab results,
+she does have proteinuria but it is actually improved since
+the last time it was checked and also her creatinine has
+improved.  I believe the pedal edema may be related to the
+Norvasc.  Therefore, I advised her to stop the Norvasc and
+she will call me tomorrow to let me know how she is doing as
+it may take a few days to resolve.  Will consider increasing
+her Lasix based on how she responds to discontinuing the
+Norvasc and her labs.  Will check basic metabolic panel and
+urinalysis as well.
+2. Hypertension since discontinuing Norvasc.  Will start
+atenolol in a low dose but advised her not to start this for
+the next few days.  Will start at 12.5 mg a day and increase
+to 25 mg a day and she will follow up in the next few weeks
+for a repeat blood pressure check.
+3. Diabetes.  The patient is strongly encouraged to make an
+appointment with Dr. Vicki Klein regarding the diabetes to
+see if there is anything more we can do to change her
+insulin regimen.  
+
+The patient to follow up with me by phone tomorrow and
+otherwise in the next 3 weeks for a blood pressure check and
+sooner if no resolution of her pedal edema.
+
+
+______________________________
+Susan A. Donaldson, M.D.
+
+
+CC:
+
+eScription document:7-376932
+
+DD: 07/15/82
+DT: 07/17/82
+DV: 07/15/82
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC2" time="before DCT" type1="insulin" type2="">
+      <MEDICATION id="M0" start="3268" end="3275" text="insulin" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M1" start="3268" end="3276" text="insulin " time="before DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC3" time="during DCT" type1="insulin" type2="">
+      <MEDICATION id="M2" start="3268" end="3275" text="insulin" time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M3" start="3268" end="3276" text="insulin " time="during DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC7" time="before DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M4" start="913" end="920" text="Norvasc" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M5" start="913" end="920" text="Norvasc" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M6" start="2857" end="2864" text="Norvasc" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M7" start="2550" end="2557" text="Norvasc" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M8" start="2503" end="2510" text="Norvasc" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M9" start="913" end="920" text="Norvasc" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC10" time="after DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M10" start="2872" end="2956" text="start atenolol in a low dose but advised her not to start this for the next few days" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M11" start="2878" end="2886" text="atenolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC13" time="after DCT" type1="insulin" type2="">
+      <MEDICATION id="M12" start="3268" end="3275" text="insulin" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M13" start="3268" end="3276" text="insulin " time="after DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC1" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="272" end="284" text="Hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="272" end="284" text="Hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H2" start="2824" end="2836" text="Hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H3" start="2824" end="2836" text="Hypertension" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC4" time="during DCT" indicator="high bp">
+      <HYPERTENSION id="H4" start="1832" end="1877" text="Blood pressure 148/62, on repeat it is 160/70" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H5" start="1832" end="1854" text="Blood pressure 148/62," time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H6" start="1855" end="1877" text="on repeat it is 160/70" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H7" start="1871" end="1877" text="160/70" time="during DCT" indicator="high bp" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC5" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H8" start="272" end="284" text="Hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H9" start="272" end="284" text="Hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H10" start="2824" end="2836" text="Hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H11" start="2824" end="2836" text="Hypertension" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC9" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H12" start="272" end="284" text="Hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H13" start="272" end="284" text="Hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H14" start="2824" end="2836" text="Hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H15" start="2824" end="2836" text="Hypertension" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <FAMILY_HIST id="DOC6" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC11" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" status="unknown"/>
+      <SMOKER id="S2" start="3" end="10" text="Record " status="unknown" comment=""/>
+    </SMOKER>
+    <DIABETES id="DOC0" time="before DCT" indicator="mention">
+      <DIABETES id="D0" start="305" end="313" text="Diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D1" start="305" end="313" text="Diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D2" start="1296" end="1304" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D3" start="3098" end="3106" text="Diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D4" start="3202" end="3210" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D5" start="3098" end="3106" text="Diabetes" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC8" time="during DCT" indicator="mention">
+      <DIABETES id="D6" start="305" end="313" text="Diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D7" start="305" end="313" text="Diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D8" start="1296" end="1304" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D9" start="3098" end="3106" text="Diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D10" start="3202" end="3210" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D11" start="3098" end="3106" text="Diabetes" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC12" time="after DCT" indicator="mention">
+      <DIABETES id="D12" start="305" end="313" text="Diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D13" start="305" end="313" text="Diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D14" start="1296" end="1304" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D15" start="3098" end="3106" text="Diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D16" start="3202" end="3210" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D17" start="3098" end="3106" text="Diabetes" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+  </TAGS>
+</root>

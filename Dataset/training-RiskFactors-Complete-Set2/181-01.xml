@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2074-11-09
+
+                     HEARTHSTONE EMERGENCY DEPT VISIT
+ 
+LEVINE,LYDIA   813-25-60-5                   VISIT DATE: 11/10/74
+HISTORY OF PRESENTING COMPLAINT:  This patient is a 48 year old 
+female who while working at home two days ago noticed pain and 
+swelling of the left fifth finger.  The patient was also noted to 
+complain of pain, erythema and a slight amount of pus of the fifth 
+finger of the left hand.  She denies any other complaints.  There 
+is no fever, no chills, no nausea or vomiting. 
+PAST MEDICAL HISTORY:  She has a history of insulin dependent 
+diabetes mellitus. 
+MEDICATIONS:  Insulin for her diabetes. 
+ALLERGIES:  No known allergies. 
+PHYSICAL EXAMINATION:  Temperature of 99, pulse of 96, respiratory 
+rate of 16, blood pressure is 165/96.  Examination of the fifth 
+finger noted pus and erythema of the extensor surface of the fifth 
+finger of the left hand.  She was noted to have full range of 
+motion of the fifth finger of the left hand. 
+THERAPY RENDERED/COURSE IN ED:  Pus was drained from the wound, 
+approximately 1/2 cc of pus.  The patient was given Ancef 1 gram IV 
+piggyback. 
+DISPOSITION (including condition upon discharge):  She was 
+discharged home on Keflex 250 mg p.o. q.i.d. x seven days.  She was 
+also given a tetanus shot.  Condition on discharge stable. 
+___________________________________                    JD134/2915 
+D. EMON DUBOIS, M.D.  ED65                            D:11/10/74 
+                                                       T:11/10/74 
+Dictated by:  D. EMON DUBOIS, M.D.  ED65 
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC1" time="before DCT" type1="insulin" type2="">
+      <MEDICATION id="M0" start="626" end="633" text="Insulin" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M1" start="573" end="580" text="insulin" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M2" start="626" end="633" text="Insulin" time="before DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC4" time="during DCT" type1="insulin" type2="">
+      <MEDICATION id="M3" start="626" end="633" text="Insulin" time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M4" start="573" end="580" text="insulin" time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M5" start="626" end="633" text="Insulin" time="during DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC8" time="after DCT" type1="insulin" type2="">
+      <MEDICATION id="M6" start="626" end="633" text="Insulin" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M7" start="573" end="580" text="insulin" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M8" start="626" end="633" text="Insulin" time="after DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC2" time="during DCT" indicator="high bp">
+      <HYPERTENSION id="H0" start="783" end="790" text=" 165/96" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H1" start="784" end="791" text="165/96." time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H2" start="766" end="790" text="blood pressure is 165/96" time="during DCT" indicator="high bp" comment=""/>
+    </HYPERTENSION>
+    <FAMILY_HIST id="DOC5" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC6" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" start="3" end="10" text="Record " status="unknown" comment=""/>
+      <SMOKER id="S2" status="unknown"/>
+    </SMOKER>
+    <DIABETES id="DOC0" time="before DCT" indicator="mention">
+      <DIABETES id="D0" start="592" end="609" text="diabetes mellitus" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D1" start="592" end="600" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D2" start="573" end="609" text="insulin dependent  diabetes mellitus" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC3" time="during DCT" indicator="mention">
+      <DIABETES id="D3" start="592" end="609" text="diabetes mellitus" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D4" start="592" end="600" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D5" start="573" end="609" text="insulin dependent  diabetes mellitus" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC7" time="after DCT" indicator="mention">
+      <DIABETES id="D6" start="592" end="609" text="diabetes mellitus" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D7" start="592" end="600" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D8" start="573" end="609" text="insulin dependent  diabetes mellitus" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+  </TAGS>
+</root>

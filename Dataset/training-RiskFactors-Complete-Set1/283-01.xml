@@ -1,0 +1,217 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2121-05-09
+
+                     BCH EMERGENCY DEPT VISIT
+
+ 
+
+HOLCOMB,DENNIS   833-12-06-0                       VISIT DATE: 05/09/21
+
+This patient was seen, interviewed and examined by myself as well 
+
+as Dr. Petty whose I have reviewed and whose findings I have 
+
+confirmed.
+
+HISTORY OF PRESENTING COMPLAINT:  This is a 53-year-old male who 
+
+presents with complaints of palpitations, shortness of breath and a 
+
+general feeling of weakness.  The patient states he has been 
+
+feeling unwell for the past three days and has noticed his heart 
+
+racing.  He actually has had his significant other take his heart 
+
+rate and blood pressure while he was at home, and his readings have 
+
+been in the 1 teens to 120s.  The patient has had a decreased 
+
+appetite with vomiting and nausea as well as chest tightness in his 
+
+mid-chest.  The patient felt himself get worse, and he, therefore, 
+
+presents to the emergency department.
+
+REVIEW OF SYSTEMS:  As per the written note.
+
+PAST MEDICAL HISTORY:  Insulin dependent diabetes mellitus.
+
+MEDICATIONS:  Insulin.
+
+ALLERGIES:  No known drug allergies.
+
+SOCIAL HISTORY AND FAMILY HISTORY:  As per the written note.
+
+PHYSICAL EXAMINATION:  This is a well-developed, well-nourished 
+
+male in moderate distress.  Pulse 160-177, respiratory rate 40, 
+
+blood pressure is 130/68, oxygen saturation is 100% on room air.  
+
+NECK:  Supple, full range of motion, no jugular venous distension.  
+
+CARDIAC:  Regular, tachycardic, no murmur is auscultated, clear S1 
+
+and S2.  LUNGS:  Positive rales at the bases, otherwise clear, good 
+
+air movement, tachypneic.  NEURO:  Alert and oriented x 3, follows 
+
+all commands appropriate.  Further details of the exam are as per 
+
+the written note.  
+
+LABORATORY EVALUATION:  Labs are significant for a glucose of 322, 
+
+BUN of 31, creatinine of 1.8, bicarbonate of 19, CK of 186, MB of 
+
+4.0, troponin of 1.11, calcium of 9.9.  White count of 15.6, 
+
+hematocrit of 47.6, platelets of 206.  PT of 14.0, PTT of 29.0.  
+
+EKG shows wide complex, regular, tachycardia.
+
+THERAPY RENDERED/COURSE IN ED:  The patient was seen, interviewed 
+
+and examined in the emergency department with labs obtained and as 
+
+documented above.  In addition to the above studies, the patient 
+
+had a chest x-ray which shows increased pulmonary vasculature.  The 
+
+patient's EKG along with his history is concerning for a 
+
+ventricular tachycardia.  The patient, therefore, initially 
+
+received amiodarone.  The amiodarone affected no change in the 
+
+patient's heart rate.  The patient remained tachypneic and 
+
+tachycardic and generally well appearing.  The decision was made to 
+
+proceed with cardioversion.  The patient received morphine and 
+
+Ativan and had a synchronized cardioversion once at 52 volts with 
+
+immediate change to sinus tachycardia in the 1 teens.  The patient 
+
+stated that his chest tightness resolved immediately following 
+
+cardioversion.  The patient received aspirin, beta-blockers, oxygen 
+
+and heparin while in the emergency department.  He is on amiodarone 
+
+drip.  Individuals from the Cardiac Service were contacted 
+
+regarding possibly getting the patient to the catheterization lab 
+
+especially in light of his ruling in for a myocardial infarction.  
+
+The plan at this time is for the patient to be admitted to the CCU, 
+
+be observed and then to proceed to cardiac catheterization 
+
+thereafter.
+
+CONSULTATIONS (including PCP):  Cardiac Service.
+
+FINAL DIAGNOSES:
+
+1.  Myocardial infarction.
+
+2.  Ventricular tachycardia.
+
+DISPOSITION (including condition upon discharge):  The patient is 
+
+admitted in satisfactory condition.  Critical care time is 70 
+
+minutes.
+
+___________________________________                    PY989/54741 
+
+KATHLEEN IRELAND, M.D.       KI30                        D:05/09/21 
+
+                                                       T:05/10/21 
+
+Dictated by:  KATHLEEN IRELAND, M.D.       KI30 
+
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="during DCT" type1="aspirin" type2="">
+      <MEDICATION id="M0" start="2948" end="2955" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M1" start="2948" end="2955" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M2" start="2948" end="2955" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <DIABETES id="DOC1" time="after DCT" indicator="mention">
+      <DIABETES id="D0" start="1028" end="1036" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D1" start="1010" end="1046" text="Insulin dependent diabetes mellitus." time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D2" start="1010" end="1045" text="Insulin dependent diabetes mellitus" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <MEDICATION id="DOC2" time="after DCT" type1="insulin" type2="">
+      <MEDICATION id="M3" start="1062" end="1070" text="Insulin." time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M4" start="1062" end="1069" text="Insulin" time="after DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <CAD id="DOC3" time="during DCT" indicator="event">
+      <CAD id="C0" start="3465" end="3486" text="Myocardial infarction" time="during DCT" indicator="event" comment=""/>
+      <CAD id="C1" start="3465" end="3486" text="Myocardial infarction" time="during DCT" indicator="event" comment=""/>
+      <CAD id="C2" start="3221" end="3245" text="a myocardial infarction." time="during DCT" indicator="event" comment=""/>
+    </CAD>
+    <DIABETES id="DOC4" time="during DCT" indicator="mention">
+      <DIABETES id="D3" start="1028" end="1036" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D4" start="1010" end="1046" text="Insulin dependent diabetes mellitus." time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D5" start="1010" end="1045" text="Insulin dependent diabetes mellitus" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <MEDICATION id="DOC5" time="during DCT" type1="insulin" type2="">
+      <MEDICATION id="M5" start="1062" end="1070" text="Insulin." time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M6" start="1062" end="1069" text="Insulin" time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M7" start="1062" end="1069" text="Insulin" time="during DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <FAMILY_HIST id="DOC6" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC7" status="unknown">
+      <SMOKER id="S0" start="1110" end="1116" text="SOCIAL" status="unknown" comment=""/>
+      <SMOKER id="S1" status="unknown"/>
+      <SMOKER id="S2" status="unknown"/>
+    </SMOKER>
+    <MEDICATION id="DOC8" time="during DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M8" start="2957" end="2970" text="beta-blockers" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M9" start="2957" end="2970" text="beta-blockers" time="during DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <DIABETES id="DOC9" time="before DCT" indicator="mention">
+      <DIABETES id="D6" start="1028" end="1036" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D7" start="1010" end="1046" text="Insulin dependent diabetes mellitus." time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D8" start="1010" end="1045" text="Insulin dependent diabetes mellitus" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <MEDICATION id="DOC10" time="before DCT" type1="insulin" type2="">
+      <MEDICATION id="M10" start="1062" end="1070" text="Insulin." time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M11" start="1062" end="1069" text="Insulin" time="before DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <PHI id="P0" start="16" end="26" text="2121-05-09" TYPE="DATE"/>
+    <PHI id="P1" start="49" end="52" text="BCH" TYPE="HOSPITAL"/>
+    <PHI id="P2" start="78" end="92" text="HOLCOMB,DENNIS" TYPE="PATIENT"/>
+    <PHI id="P3" start="95" end="106" text="833-12-06-0" TYPE="MEDICALRECORD"/>
+    <PHI id="P4" start="141" end="149" text="05/09/21" TYPE="DATE"/>
+    <PHI id="P5" start="226" end="231" text="Petty" TYPE="DOCTOR"/>
+    <PHI id="P6" start="338" end="340" text="53" TYPE="AGE"/>
+    <PHI id="P7" start="3716" end="3727" text="PY989/54741" TYPE="IDNUM"/>
+    <PHI id="P8" start="3730" end="3746" text="KATHLEEN IRELAND" TYPE="DOCTOR"/>
+    <PHI id="P9" start="3759" end="3763" text="KI30" TYPE="USERNAME"/>
+    <PHI id="P10" start="3789" end="3797" text="05/09/21" TYPE="DATE"/>
+    <PHI id="P11" start="3857" end="3865" text="05/10/21" TYPE="DATE"/>
+    <PHI id="P12" start="3882" end="3898" text="KATHLEEN IRELAND" TYPE="DOCTOR"/>
+    <PHI id="P13" start="3911" end="3915" text="KI30" TYPE="USERNAME"/>
+  </TAGS>
+</root>

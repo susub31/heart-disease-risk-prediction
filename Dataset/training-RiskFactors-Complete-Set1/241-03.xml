@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2075-10-05
+
+                     MEC EMERGENCY DEPT VISIT
+ 
+OLIVIER,CHRISTINE   652-33-21-5                     VISIT DATE: 10/05/75
+PRESENTING COMPLAINT:  Chest pain. 
+HISTORY OF PRESENTING COMPLAINT:  The resident's note was reviewed, 
+and the patient seen and examined on arrival.  This is a 
+65-year-old female status post multiple angioplasties and stent 
+placement.  She had recurrence of her typical angina at home, took 
+three nitroglycerin with minimal relief, and activated the 911 
+system.  Her pre-hospital electrocardiogram shows a small amount of 
+ST depression, perhaps 1 mm, and flattening V3-V6.  This is 
+comparable to a previous electrocardiogram in October, which may 
+have been her most recent presentation with ischemia.  She was 
+given aspirin and nitroglycerin, and continued to have pain in the 
+Emergency Department.  The total duration of pain was approximately 
+two hours. 
+PHYSICAL EXAMINATION:  Her vital signs remained stable. 
+LABORATORY EVALUATION:  Her initial enzymes were flat. 
+THERAPY RENDERED/COURSE IN ED:  She is being taken to the Cardiac 
+Catheterization Laboratory for an urgent study to rule out acute 
+coronary syndrome. 
+FINAL DIAGNOSIS:  Rule out unstable angina. 
+DISPOSITION (including condition upon discharge):  The patient is 
+taken to the Cardiac Catheterization Laboratory.  The condition at 
+the time of this dictation is favorable. 
+___________________________________                    FK981/1979 
+RONNIE PALMER, M.D.  RP400                           D:10/05/75 
+                                                       T:10/05/75 
+Dictated by:  RONNIE PALMER, M.D.  RP400 
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="during DCT" type1="aspirin" type2="">
+      <MEDICATION id="M0" start="775" end="782" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M1" start="775" end="782" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M2" start="775" end="782" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M3" start="775" end="782" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <CAD id="DOC1" time="before DCT" indicator="event">
+      <CAD id="C0" start="343" end="386" text="multiple angioplasties and stent  placement" time="before DCT" indicator="event" comment=""/>
+      <CAD id="C1" start="331" end="386" text="status post multiple angioplasties and stent  placement" time="before DCT" indicator="event" comment=""/>
+      <CAD id="C2" start="370" end="375" text="stent" time="before DCT" indicator="event" comment=""/>
+    </CAD>
+    <FAMILY_HIST id="DOC2" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+      <FAMILY_HIST id="F3" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC3" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" status="unknown"/>
+      <SMOKER id="S2" status="unknown"/>
+      <SMOKER id="S3" status="unknown"/>
+    </SMOKER>
+    <MEDICATION id="DOC4" time="before DCT" type1="nitrate" type2="">
+      <MEDICATION id="M4" start="451" end="464" text="nitroglycerin" time="before DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M5" start="451" end="464" text="nitroglycerin" time="before DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M6" start="451" end="464" text="nitroglycerin" time="before DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M7" start="451" end="464" text="nitroglycerin" time="before DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M8" start="787" end="800" text="nitroglycerin" time="before DCT" type1="nitrate" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC5" time="during DCT" type1="nitrate" type2="">
+      <MEDICATION id="M9" start="787" end="800" text="nitroglycerin" time="during DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M10" start="787" end="800" text="nitroglycerin" time="during DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M11" start="787" end="800" text="nitroglycerin" time="during DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M12" start="451" end="464" text="nitroglycerin" time="during DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M13" start="787" end="800" text="nitroglycerin" time="during DCT" type1="nitrate" type2="" comment=""/>
+    </MEDICATION>
+    <PHI id="P0" start="16" end="26" text="2075-10-05" TYPE="DATE"/>
+    <PHI id="P1" start="49" end="52" text="MEC" TYPE="HOSPITAL"/>
+    <PHI id="P2" start="76" end="93" text="OLIVIER,CHRISTINE" TYPE="PATIENT"/>
+    <PHI id="P3" start="96" end="107" text="652-33-21-5" TYPE="MEDICALRECORD"/>
+    <PHI id="P4" start="140" end="148" text="10/05/75" TYPE="DATE"/>
+    <PHI id="P5" start="312" end="314" text="65" TYPE="AGE"/>
+    <PHI id="P6" start="685" end="692" text="October" TYPE="DATE"/>
+    <PHI id="P7" start="1461" end="1471" text="FK981/1979" TYPE="IDNUM"/>
+    <PHI id="P8" start="1473" end="1486" text="RONNIE PALMER" TYPE="DOCTOR"/>
+    <PHI id="P9" start="1494" end="1499" text="RP400" TYPE="USERNAME"/>
+    <PHI id="P10" start="1528" end="1536" text="10/05/75" TYPE="DATE"/>
+    <PHI id="P11" start="1595" end="1603" text="10/05/75" TYPE="DATE"/>
+    <PHI id="P12" start="1619" end="1632" text="RONNIE PALMER" TYPE="DOCTOR"/>
+    <PHI id="P13" start="1640" end="1645" text="RP400" TYPE="USERNAME"/>
+  </TAGS>
+</root>

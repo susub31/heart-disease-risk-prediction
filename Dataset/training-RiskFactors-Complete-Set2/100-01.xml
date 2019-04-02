@@ -1,0 +1,148 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2106-02-12
+
+Campbell Orthopedic Associates
+4 Madera Circle
+Omak, GA 28172
+ 
+Habib Valenzuela, M.D.
+ 
+ 
+                                             Valdez, Harlan Jr.  
+                                           845-41-54-4
+                                             February 12, 2106 
+Har is a 43 year old 6' 214 pound gentleman who is referred for
+consultation by Dr. Harlan Oneil.  About a week ago he slipped on
+the driveway at home and sustained an injury to his left ankle. 
+He was seen at Tri-City Hospital and was told he had a
+fracture.  He was placed in an air splint and advised to be
+partial weight bearing, and he is using a cane.  He is here for
+routine follow-up. 
+Past medical history is notable for no ankle injuries previously. 
+He has a history of diabetes and sleep apnea.  He takes Prozac,
+Cardizem, Glucophage and Amaryl.  He is also followed by Dr. Harold
+Nutter for an arrhythmia.  He does not smoke.  He drinks
+minimally.  He is a set designer at Columbia Pictures.
+ 
+On examination today he has slight tenderness of the left ankle
+about four fingerbreadths above the malleolus.  The malleolus is
+non-tender medially or laterally with no ligamentous tenderness
+either.  Dorsal flexion and plantar flexion is without pain. 
+There is no significant swelling.  There are no some skin changes
+with some small abrasions proximally.  There is no fibular
+tenderness proximally.  No anterior pain is noted.  No hindfoot,
+midfoot or forefoot tenderness is noted. 
+I would like him to use a tube sock with his air cast.  He is
+using a cane for ambulation.  His x-rays do not show a notable
+fracture pattern today, and we will await the Radiology opinion. 
+I would like him to stay in the air splint with the sock.  I will
+see him back in six weeks for review at the Boxborough office. 
+ 
+ 
+Diagnosis:  Left ankle fracture.
+ 
+ 
+ 
+ 
+ 
+__________________________________________
+Habib Valenzuela, M.D.
+ 
+HV/kuntz
+Mmedical
+ 
+cc:  Harlan Oneil, M.D.
+     
+     Harold Nutter, M.D.
+     Doctors Hospital North
+     64 Bruce St
+     Omak, GA 72196
+ 
+Habib Valenzuela, M.D.
+ 
+DD: 02/12/06
+DT: 02/17/06
+DV: 02/12/06
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="during DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M0" start="829" end="837" text="Cardizem" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M1" start="829" end="837" text="Cardizem" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M2" start="829" end="837" text="Cardizem" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC1" time="after DCT" type1="metformin" type2="">
+      <MEDICATION id="M3" start="839" end="849" text="Glucophage" time="after DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M4" start="839" end="849" text="Glucophage" time="after DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M5" start="839" end="849" text="Glucophage" time="after DCT" type1="metformin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC3" time="after DCT" type1="sulfonylureas" type2="">
+      <MEDICATION id="M6" start="854" end="860" text="Amaryl" time="after DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M7" start="854" end="860" text="Amaryl" time="after DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M8" start="854" end="860" text="Amaryl" time="after DCT" type1="sulfonylureas" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC4" time="before DCT" type1="metformin" type2="">
+      <MEDICATION id="M9" start="839" end="849" text="Glucophage" time="before DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M10" start="839" end="849" text="Glucophage" time="before DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M11" start="839" end="849" text="Glucophage" time="before DCT" type1="metformin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC5" time="during DCT" type1="metformin" type2="">
+      <MEDICATION id="M12" start="839" end="849" text="Glucophage" time="during DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M13" start="839" end="849" text="Glucophage" time="during DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M14" start="839" end="849" text="Glucophage" time="during DCT" type1="metformin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC6" time="after DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M15" start="829" end="837" text="Cardizem" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M16" start="829" end="837" text="Cardizem" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M17" start="829" end="837" text="Cardizem" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC7" time="before DCT" type1="sulfonylureas" type2="">
+      <MEDICATION id="M18" start="854" end="860" text="Amaryl" time="before DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M19" start="854" end="860" text="Amaryl" time="before DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M20" start="854" end="860" text="Amaryl" time="before DCT" type1="sulfonylureas" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC8" time="before DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M21" start="829" end="837" text="Cardizem" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M22" start="829" end="837" text="Cardizem" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M23" start="829" end="837" text="Cardizem" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC9" time="during DCT" type1="sulfonylureas" type2="">
+      <MEDICATION id="M24" start="854" end="860" text="Amaryl" time="during DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M25" start="854" end="860" text="Amaryl" time="during DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M26" start="854" end="860" text="Amaryl" time="during DCT" type1="sulfonylureas" type2="" comment=""/>
+    </MEDICATION>
+    <FAMILY_HIST id="DOC11" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC13" status="never">
+      <SMOKER id="S0" start="923" end="941" text=" He does not smoke" status="never" comment=""/>
+      <SMOKER id="S1" start="927" end="941" text="does not smoke" status="never" comment=""/>
+      <SMOKER id="S2" start="927" end="942" text="does not smoke." status="never" comment=""/>
+    </SMOKER>
+    <DIABETES id="DOC2" time="before DCT" indicator="mention">
+      <DIABETES id="D0" start="785" end="793" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D1" start="785" end="793" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D2" start="785" end="793" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC10" time="during DCT" indicator="mention">
+      <DIABETES id="D3" start="785" end="793" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D4" start="785" end="793" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D5" start="785" end="793" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC12" time="after DCT" indicator="mention">
+      <DIABETES id="D6" start="785" end="793" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D7" start="785" end="793" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D8" start="785" end="793" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+  </TAGS>
+</root>

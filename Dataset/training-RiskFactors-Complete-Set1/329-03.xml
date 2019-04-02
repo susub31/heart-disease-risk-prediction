@@ -1,0 +1,127 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2150-06-01
+
+
+
+KEYSTONE HEIGHTS HEALTH CENTER
+REDBUD COMMUNITY HOSPITAL
+
+Major Problems
+
+
+Hypertension
+BP on arrival by LPN 158/110 (lls) - though accuracy of measurement questioned by LPN. BP 140/90 by me x 2 10 and 15 min later during visit - lls. Cont labetalol 200 mg 2 tid and lisinopril 20 mg daily as well as furosemide 20 mg daily. No ha's, chest pain, dyspnea, PND or thopnia. No change in ble edema (1+/pitting). No acute distress, vital signs as noted, no jvd. Course breath sounds (L) base though no signs of consilidation. Nl pmi, rrr, nl s1 and s2. 2/6 sem at base w/o radiation. No rubs, gallops, clicks. Abd: soft, nt (+) bs no masses or hsm. 1+ pitting ble edema to distal tibiae bilaterally.      Imp: bordeline BP though technically at goal (less than 140/90) if not optimal (less than 120/80). Follow w/o any changes for now.
+
+Osteoarthritis
+C/o 2 wks of ble pain/lbp. Symptoms improved when bending forward. No spinal tenderness or si tenderness. Ble strength 5/5, dtrs 2+/=. (-) slr bilaterally. Toes downgoing. Nl gait.      Imp: symptoms and exam most c/w lumbar spinal stenosis from known djd (also has known cervical djd/spinal stenosis). We reviewed relatively benign nature of this dx however not much to offer other than pt and, if symptoms sever enough, surgey. Prefers to follow conservatively - advised using his walker and can refer to podiatry for "reverse orthodics" to try to help aleviate symptoms.
+
+Acute renal failure, HISTORY OF
+
+
+Spinal stenosis
+4/13/50 neck ct at RCH showed stable 10 mm thickening posterior to the odontoid process resulting in severe canal stenosis w/ spinal cord compression however pt asymptomatic/stable. Has been seen by neurosurgery w/ advise to cont following conservatively and use cervical collar when ambulating due to risk of injury if he should fall. Reviewed findings and poc w/ pt. Accompanied by wife and son, ursula. All are in agreeement here.
+
+Edema
+No real change in 1+ ble edema on furosemide 20 mg daily. Checking bmp today and will increase furosemide to 40 mg daily/f/u in 1 mo.
+
+Other Problems
+
+
+Health maintenance
+Has 12/10/50 cpe appt w/ me. Advised to come fasting to this appt.
+
+Changes to Medications this visitfurosemide 40 mg   1 daily (QTY:30 Refills:5) 
+
+Physical Exam
+Blood pressure 140/90  Left sitting large cuff. 
+Pulse 80  
+Weight 198  
+
+Pt education given on
+	
+  Medication use and/or side effects; med list review; diagnostic impression; test interpretation; treatment plan; reasons to call provider; provider coverage information; health maintenance issues; written med list/instructions given. 
+
+Giovanni Gabriel, MD
+Document Status: Final
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="during DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M0" start="297" end="307" text="lisinopril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M1" start="297" end="307" text="lisinopril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M2" start="297" end="307" text="lisinopril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC1" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="105" end="117" text="Hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="105" end="117" text="Hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H2" start="105" end="117" text="Hypertension" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC2" time="during DCT" indicator="high bp">
+      <HYPERTENSION id="H3" start="118" end="147" text="BP on arrival by LPN 158/110 " time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H4" start="205" end="220" text="BP 140/90 by me" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H5" start="118" end="146" text="BP on arrival by LPN 158/110" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H6" start="205" end="214" text="BP 140/90" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H7" start="2277" end="2323" text="Blood pressure 140/90  Left sitting large cuff" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H8" start="118" end="146" text="BP on arrival by LPN 158/110" time="during DCT" indicator="high bp" comment=""/>
+    </HYPERTENSION>
+    <MEDICATION id="DOC3" time="before DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M3" start="297" end="307" text="lisinopril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M4" start="297" end="307" text="lisinopril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M5" start="297" end="307" text="lisinopril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC4" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H9" start="105" end="117" text="Hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H10" start="105" end="117" text="Hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H11" start="105" end="117" text="Hypertension" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <MEDICATION id="DOC5" time="before DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M6" start="270" end="279" text="labetalol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M7" start="270" end="279" text="labetalol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M8" start="270" end="279" text="labetalol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC6" time="after DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M9" start="297" end="307" text="lisinopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M10" start="297" end="307" text="lisinopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M11" start="297" end="307" text="lisinopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC7" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H12" start="105" end="117" text="Hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H13" start="105" end="117" text="Hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H14" start="105" end="117" text="Hypertension" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <MEDICATION id="DOC8" time="after DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M12" start="270" end="279" text="labetalol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M13" start="270" end="279" text="labetalol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M14" start="270" end="279" text="labetalol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <SMOKER id="DOC9" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" status="unknown"/>
+      <SMOKER id="S2" start="88" end="102" text="Major Problems" status="unknown" comment=""/>
+    </SMOKER>
+    <MEDICATION id="DOC10" time="during DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M15" start="270" end="279" text="labetalol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M16" start="270" end="279" text="labetalol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M17" start="270" end="279" text="labetalol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <FAMILY_HIST id="DOC11" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <PHI id="P0" start="16" end="26" text="2150-06-01" TYPE="DATE"/>
+    <PHI id="P1" start="30" end="46" text="KEYSTONE HEIGHTS" TYPE="CITY"/>
+    <PHI id="P2" start="61" end="86" text="REDBUD COMMUNITY HOSPITAL" TYPE="HOSPITAL"/>
+    <PHI id="P3" start="1502" end="1509" text="4/13/50" TYPE="DATE"/>
+    <PHI id="P4" start="1521" end="1524" text="RCH" TYPE="HOSPITAL"/>
+    <PHI id="P5" start="1900" end="1906" text="ursula" TYPE="PATIENT"/>
+    <PHI id="P6" start="2118" end="2126" text="12/10/50" TYPE="DATE"/>
+    <PHI id="P7" start="2613" end="2629" text="Giovanni Gabriel" TYPE="DOCTOR"/>
+  </TAGS>
+</root>

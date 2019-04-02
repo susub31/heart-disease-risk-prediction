@@ -1,0 +1,170 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2086-08-13
+
+Reason for Visit	
+
+Annual physical exam.
+
+
+
+Problems	  
+
+breast carcinoma	      
+
+S:  The pt. is five years S/P modified radical mastectomy, with 3 of 14 nodes involved, with a poorly differentiated intra-ductal carcinoma.  She's been on Tamoxifen 10 mg. b.i.d. since that time and is being followed by Dr. Quy Cherry.  For the past several years she has been on 20 mg. of Tamoxifen b.i.d.
+
+O:  Well-healed L modified radical mastectomy.  No axillary notes noted.  R breast appears normal.  Pt. gets routine mammograms on the R breast.
+
+A:  S/P left radical mastectomy for ca. of the breast, with no evidence of recurrence.
+
+P:  No further therapy indicated.
+
+Osteoarthritis	      
+
+S:  Pt. takes Indocin intermittently for pain in her hips and hands.  She has a long history of osteoarthritis.
+
+O:  Minimal degenerative joint disease, changes in hands and legs, with some distortion of the knees.
+
+A:  Mild OA.
+
+P:  Indocin was renewed.
+
+Hypertensive heart disease	      
+
+S:  Pt. has been treated for hypertension since 2064.  When she came to me in 2084 she'd been on Accupril 5 mg. a day, but her BP was 180/80.  Since that time, despite the administration of a variety of antihypertensives, her BP has rarely been normal and she insists that her BP is a function of having come to the doctor.
+
+O:  BP 180/80.  Heart is NSR, without murmurs, gallops, clicks or ectopy.  EKG shows no LVH.  Fundi show some narrowing of the arterioles.
+
+A:  White coat hypertension?
+
+P:  Pt. told that we felt it was important to lower her BP.  She is on Accupril 20 mg. and Atican 32 mg. daily.  She finally accepted our medication to double her medication to Atican 64 and Accupril 40 mg. daily.  We will check her BP in three weeks.
+
+
+
+Vital Signs	  
+
+Pulse:	 96   
+
+Weight:	 136   Pounds
+
+Height:	 59   Inches
+
+Blood Pressure:	 180/80   
+
+
+
+Physical Exam	  
+
+HEENT	
+
+Bilateral arcus cornealis.  Pupils react = to light.  Fundi show mild narrowing of the arterioles.  Pharynx is clear.  Pt. has upper and lower dentures.  Ears negative.  
+
+Neck	
+
+No adenopathy or thyromegaly.  No bruits.
+
+Breast	
+
+R breast is free of nodules or nodes.  Axillae free of notes.  She has a L modified radical mastectomy with well-healed scar.  
+
+Chest	
+
+Chest is clear to P&A.
+
+
+
+Cor/Cardiac	
+
+Heart is NSR, without murmurs, gallops, clicks or ectopy, at 96 per minute.
+
+Abdomen	
+
+No liver, spleen or other organs or masses.  No tenderness or guarding.
+
+Extremity	
+
+Minimal DJD changes in her knees and hands.  Good peripheral pulses.  No cyanosis or clubbing.
+
+Neurological	
+
+Station and gait, cranial nerves and DTR's are all within normal limits.
+
+
+
+Disposition and Plans	
+
+Blood drawn for CBC, full profile and TSH.  Urinalysis shows a large amount of white cells; this was sent for culture.  EKG is WNL, at 100 per minute.  Pt. is to return in three weeks for a BP check.
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="during DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M0" start="1099" end="1107" text="Accupril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M1" start="1090" end="1107" text=" been on Accupril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M2" start="1099" end="1107" text="Accupril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC1" time="before DCT" type1="ARB" type2="">
+      <MEDICATION id="M3" start="1588" end="1594" text="Atican" time="before DCT" type1="ARB" type2="" comment="ATACAND"/>
+      <MEDICATION id="M4" start="1588" end="1595" text="Atican " time="before DCT" type1="ARB" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC4" time="before DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M5" start="1099" end="1107" text="Accupril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M6" start="1090" end="1107" text=" been on Accupril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M7" start="1099" end="1107" text="Accupril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC6" time="after DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M8" start="1099" end="1107" text="Accupril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M9" start="1090" end="1107" text=" been on Accupril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M10" start="1099" end="1107" text="Accupril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC11" time="during DCT" type1="ARB" type2="">
+      <MEDICATION id="M11" start="1588" end="1594" text="Atican" time="during DCT" type1="ARB" type2="" comment="ATACAND"/>
+      <MEDICATION id="M12" start="1588" end="1595" text="Atican " time="during DCT" type1="ARB" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC12" time="after DCT" type1="ARB" type2="">
+      <MEDICATION id="M13" start="1588" end="1594" text="Atican" time="after DCT" type1="ARB" type2="" comment="ATACAND"/>
+      <MEDICATION id="M14" start="1588" end="1595" text="Atican " time="after DCT" type1="ARB" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC2" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="967" end="979" text="Hypertensive" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="967" end="979" text="Hypertensive" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H2" start="1031" end="1044" text="hypertension " time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC3" time="during DCT" indicator="high bp">
+      <HYPERTENSION id="H3" start="1331" end="1340" text="BP 180/80" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H4" start="1845" end="1854" text="180/80   " time="during DCT" indicator="high bp" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC5" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H5" start="967" end="979" text="Hypertensive" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H6" start="967" end="979" text="Hypertensive" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H7" start="1031" end="1044" text="hypertension " time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC7" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H8" start="967" end="979" text="Hypertensive" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H9" start="967" end="979" text="Hypertensive" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H10" start="1031" end="1044" text="hypertension " time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC10" time="before DCT" indicator="high bp">
+      <HYPERTENSION id="H11" start="1136" end="1142" text="180/80" time="before DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H12" start="1136" end="1142" text="180/80" time="before DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H13" start="1136" end="1142" text="180/80" time="before DCT" indicator="high bp" comment=""/>
+    </HYPERTENSION>
+    <FAMILY_HIST id="DOC8" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC9" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" status="unknown"/>
+      <SMOKER id="S2" start="3" end="9" text="Record" status="unknown" comment=""/>
+    </SMOKER>
+  </TAGS>
+</root>

@@ -1,0 +1,172 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2097-11-10
+
+
+
+
+
+MAH CANCER CENTER
+
+
+
+NAME:  Danny Nielson 
+
+MAH#:  915-65-93
+
+DATE OF VISIT:  November 10, 2097
+
+
+
+REASON FOR VISIT:  
+
+
+
+Mr. Nielson is a 77-year-old gentleman with Stage IIIB diffuse large B cell non-Hodgkin s lymphoma who is status post four cycles of CHOP-R chemotherapy with persistent disease (documented by PET and biopsy).  He underwent salvage with two cycles of R-ICE and unfortunately continued to have PET avidity in the area.  As a result, we scheduled him to begin therapy with Zevalin next Monday.  He is here for a follow up physical and count check to make sure he has adequate platelets for this immunotherapy.  
+
+
+
+INTERVAL HISTORY:
+
+
+
+He describes an episode approximately one week ago of sudden onset of shortness of breath and tightness in his chest.  He sat down for approximately 10 minutes, it resolved, and has not recurred since then. However, we also have the reports of a follow up PET/CT scan which was performed yesterday which show a new accumulation of bilateral pleural effusions which the radiologist feels are most consistent with heart failure.  In addition, the scans also showe the prior area of PET avidity in the leg continues, although less avid. This area is in the medial compartment of the left thigh within the adductor muscles.  Mr. Nielson is not excited about this.  In addition, we also have results from laboratories today which show his platelets at 88,000, so  he is not eligible to begin Zevalin next week.  
+
+
+
+MEDICATIONS:  
+
+
+
+glyburide 10 mg 
+
+atorvastatin 10 mg daily
+
+furosemide 40 mg daily
+
+multiple vitamin daily
+
+prednisone 5 mg daily
+
+Tylenol p.r.n.
+
+Bactrim DS q. Sunday, Tuesday, Thursday
+
+
+
+PHYSICAL EXAMINATION:  
+
+
+
+Weight is 260 pounds, temperature is 97.1 degrees, heart rate is 120, blood pressure is 130/80, and respiratory rate is 20.  Pain index is 0/10.  Fatigue index is 5/10.  Heart rate is tachycardic with an ejection murmur and occasional missed beats.  Lungs do have reduced breath sounds bilaterally.  
+
+
+
+LABORATORY STUDIES:  
+
+
+
+White blood cell count is 3.2, hematocrit is 33.5, hemoglobin is 11.4, platelet count 88,000, neutrophil count is 2.45.  Chemistries examination reveals sodium of 141, potassium of 3, chloride of 104, carbon dioxide of 28.3, calcium of 9.1, BUN of 24, creatinine of 1.6, total protein 6.3, albumin of 3.7, total bilirubin of 0.8, alkaline phosphatase of 58, SGPT of 21, SGOT of 22, and LDH of 208.  
+
+
+
+ASSESSMENT/PLAN:  
+
+
+
+Given his current status, we have decided to transfer him to the emergency department today for further evaluation of his cardiac symptoms, particularly to rule out myocardial infarction and assess whether he is, indeed, in new heart failure  We attempted to contact cardiology for an outpatient evaluation, but we were unable to do so.Therefore, he will be transported to the emergency department for an emergent workup of his new symptoms.  I suspect he will be admitted.  Hopefully, they will be able to get his cardiac issues under control.  Unfortunately, from an oncologic point of view, it is uncertain whether his platelet count will reach at least 100,000 in order to give this man therapy.  As a potential other therapy, we will discuss the ability of radiation oncology to increase the number of cGy to that local area considering he only received 30 at the onset.  
+
+
+
+
+
+
+
+Edward Quiambao, PA-C
+
+
+
+cc:	Dr. Ulises Lopez, MAH
+
+
+
+EQ/sharpe		39-90766020.doc
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="after DCT" type1="statin" type2="">
+      <MEDICATION id="M0" start="1534" end="1546" text="atorvastatin" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M1" start="1534" end="1546" text="atorvastatin" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M2" start="1534" end="1546" text="atorvastatin" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M3" start="1534" end="1546" text="atorvastatin" time="after DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC1" time="during DCT" type1="statin" type2="">
+      <MEDICATION id="M4" start="1534" end="1546" text="atorvastatin" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M5" start="1534" end="1546" text="atorvastatin" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M6" start="1534" end="1546" text="atorvastatin" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M7" start="1534" end="1546" text="atorvastatin" time="during DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC2" time="before DCT" type1="statin" type2="">
+      <MEDICATION id="M8" start="1534" end="1546" text="atorvastatin" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M9" start="1534" end="1546" text="atorvastatin" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M10" start="1534" end="1546" text="atorvastatin" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M11" start="1534" end="1546" text="atorvastatin" time="before DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC3" time="after DCT" type1="sulfonylureas" type2="">
+      <MEDICATION id="M12" start="1516" end="1525" text="glyburide" time="after DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M13" start="1516" end="1525" text="glyburide" time="after DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M14" start="1516" end="1525" text="glyburide" time="after DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M15" start="1516" end="1525" text="glyburide" time="after DCT" type1="sulfonylureas" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC4" time="before DCT" type1="sulfonylureas" type2="">
+      <MEDICATION id="M16" start="1516" end="1525" text="glyburide" time="before DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M17" start="1516" end="1525" text="glyburide" time="before DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M18" start="1516" end="1525" text="glyburide" time="before DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M19" start="1516" end="1525" text="glyburide" time="before DCT" type1="sulfonylureas" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC5" time="during DCT" type1="sulfonylureas" type2="">
+      <MEDICATION id="M20" start="1516" end="1525" text="glyburide" time="during DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M21" start="1516" end="1525" text="glyburide" time="during DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M22" start="1516" end="1525" text="glyburide" time="during DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M23" start="1516" end="1525" text="glyburide" time="during DCT" type1="sulfonylureas" type2="" comment=""/>
+    </MEDICATION>
+    <FAMILY_HIST id="DOC6" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+      <FAMILY_HIST id="F3" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC7" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" status="unknown"/>
+      <SMOKER id="S2" status="unknown"/>
+      <SMOKER id="S3" status="unknown"/>
+    </SMOKER>
+    <PHI id="P0" start="16" end="26" text="2097-11-10" TYPE="DATE"/>
+    <PHI id="P1" start="32" end="35" text="MAH" TYPE="HOSPITAL"/>
+    <PHI id="P2" start="60" end="73" text="Danny Nielson" TYPE="PATIENT"/>
+    <PHI id="P3" start="76" end="79" text="MAH" TYPE="HOSPITAL"/>
+    <PHI id="P4" start="83" end="92" text="915-65-93" TYPE="MEDICALRECORD"/>
+    <PHI id="P5" start="110" end="127" text="November 10, 2097" TYPE="DATE"/>
+    <PHI id="P6" start="158" end="165" text="Nielson" TYPE="PATIENT"/>
+    <PHI id="P7" start="171" end="173" text="77" TYPE="AGE"/>
+    <PHI id="P8" start="537" end="543" text="Monday" TYPE="DATE"/>
+    <PHI id="P9" start="1312" end="1319" text="Nielson" TYPE="PATIENT"/>
+    <PHI id="P10" start="1661" end="1667" text="Sunday" TYPE="DATE"/>
+    <PHI id="P11" start="1669" end="1676" text="Tuesday" TYPE="DATE"/>
+    <PHI id="P12" start="1678" end="1686" text="Thursday" TYPE="DATE"/>
+    <PHI id="P13" start="3356" end="3371" text="Edward Quiambao" TYPE="DOCTOR"/>
+    <PHI id="P14" start="3389" end="3401" text="Ulises Lopez" TYPE="DOCTOR"/>
+    <PHI id="P15" start="3403" end="3406" text="MAH" TYPE="HOSPITAL"/>
+    <PHI id="P16" start="3410" end="3412" text="EQ" TYPE="DOCTOR"/>
+    <PHI id="P17" start="3413" end="3419" text="sharpe" TYPE="DOCTOR"/>
+    <PHI id="P18" start="3421" end="3432" text="39-90766020" TYPE="IDNUM"/>
+  </TAGS>
+</root>

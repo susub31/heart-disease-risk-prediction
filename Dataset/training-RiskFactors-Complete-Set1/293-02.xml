@@ -1,0 +1,171 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2077-03-03
+
+ 
+
+ 
+
+                          OFFICE NOTE
+
+ 
+
+Cora Quinley
+
+MR# 759-87-55-2
+
+March 3, 2077
+
+ 
+
+As the responsible teaching attending, I can confirm both the
+
+history and physical examination of Dr. Uriel Zapien. Briefly, the
+
+patient is a 71-year-old female with several cardiovascular risk
+
+factors. She was admitted to the hospital in January after a
+
+prolonged episode of palpitations. The patient had a tiny
+
+Troponin  elevation to 0.3, and the decision was made to manage
+
+her conservatively. The patient continues to have these episodes
+
+of palpitations, but she does not get chest pain with any
+
+exercise.
+
+ 
+
+Her current medical regimen includes aspirin, beta-blocker,
+
+statin and an ACE Inhibitor. 
+
+ 
+
+On physical examination she has 2+ carotids, which have normal
+
+upstrokes and no bruits. Her lungs are clear to auscultation. Her
+
+heart examination reveals a regular rate with a normal S1 and S2,
+
+without S3 and S4.
+
+ 
+
+Her electrocardiogram is normal.
+
+ 
+
+Assessment: I concur with Dr. Zapien in that we will increase the
+
+patient's beta-blockers to decrease her probable supraventricular
+
+tachycardia. She will be seen back here in several months.
+
+ 
+
+ 
+
+ 
+
+Vasilios C. Osborne, M.D.
+
+/varner
+
+ 
+
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="during DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M0" start="722" end="735" text="ACE Inhibitor" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M1" start="722" end="735" text="ACE Inhibitor" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M2" start="722" end="735" text="ACE Inhibitor" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC1" time="before DCT" type1="statin" type2="">
+      <MEDICATION id="M3" start="708" end="714" text="statin" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M4" start="708" end="714" text="statin" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M5" start="708" end="714" text="statin" time="before DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC2" time="during DCT" type1="statin" type2="">
+      <MEDICATION id="M6" start="708" end="714" text="statin" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M7" start="708" end="714" text="statin" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M8" start="708" end="714" text="statin" time="during DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC3" time="during DCT" type1="aspirin" type2="">
+      <MEDICATION id="M9" start="684" end="691" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M10" start="684" end="691" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M11" start="684" end="691" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC4" time="after DCT" type1="statin" type2="">
+      <MEDICATION id="M12" start="708" end="714" text="statin" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M13" start="708" end="714" text="statin" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M14" start="708" end="714" text="statin" time="after DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC5" time="after DCT" type1="aspirin" type2="">
+      <MEDICATION id="M15" start="684" end="691" text="aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M16" start="684" end="691" text="aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M17" start="684" end="691" text="aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC6" time="before DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M18" start="722" end="735" text="ACE Inhibitor" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M19" start="722" end="735" text="ACE Inhibitor" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M20" start="722" end="735" text="ACE Inhibitor" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC7" time="before DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M21" start="693" end="706" text="beta-blocker," time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M22" start="693" end="707" text="beta-blocker, " time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M23" start="693" end="707" text="beta-blocker, " time="before DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC8" time="after DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M24" start="722" end="735" text="ACE Inhibitor" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M25" start="722" end="735" text="ACE Inhibitor" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M26" start="722" end="735" text="ACE Inhibitor" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC9" time="before DCT" type1="aspirin" type2="">
+      <MEDICATION id="M27" start="684" end="691" text="aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M28" start="684" end="691" text="aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M29" start="684" end="691" text="aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC10" time="after DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M30" start="693" end="706" text="beta-blocker," time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M31" start="693" end="707" text="beta-blocker, " time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M32" start="693" end="707" text="beta-blocker, " time="after DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <SMOKER id="DOC11" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" start="3" end="9" text="Record" status="unknown" comment=""/>
+      <SMOKER id="S2" status="unknown"/>
+    </SMOKER>
+    <MEDICATION id="DOC12" time="during DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M33" start="693" end="706" text="beta-blocker," time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M34" start="693" end="707" text="beta-blocker, " time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M35" start="693" end="707" text="beta-blocker, " time="during DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <FAMILY_HIST id="DOC13" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <PHI id="P0" start="16" end="26" text="2077-03-03" TYPE="DATE"/>
+    <PHI id="P1" start="76" end="88" text="Cora Quinley" TYPE="PATIENT"/>
+    <PHI id="P2" start="94" end="105" text="759-87-55-2" TYPE="MEDICALRECORD"/>
+    <PHI id="P3" start="107" end="120" text="March 3, 2077" TYPE="DATE"/>
+    <PHI id="P4" start="228" end="240" text="Uriel Zapien" TYPE="DOCTOR"/>
+    <PHI id="P5" start="269" end="271" text="71" TYPE="AGE"/>
+    <PHI id="P6" start="367" end="374" text="January" TYPE="DATE"/>
+    <PHI id="P7" start="1030" end="1036" text="Zapien" TYPE="DOCTOR"/>
+    <PHI id="P8" start="1203" end="1222" text="Vasilios C. Osborne" TYPE="DOCTOR"/>
+    <PHI id="P9" start="1231" end="1237" text="varner" TYPE="DOCTOR"/>
+  </TAGS>
+</root>

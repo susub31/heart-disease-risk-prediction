@@ -1,0 +1,150 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2075-08-30
+
+DLC INTERNAL MEDICINE ASSOCIATES          Stephenson, Brenna
+                                              92819461
+                                              8-30-75
+ 
+ 
+ 
+HPI:  Ms. Stephenson is a 57-year old woman who has a history of multinodular 
+goiter status post a hemithyroidectomy 7 years ago, and 
+non-insulin-dependent diabetes mellitus for the past 10 years complicated 
+by diabetic retinopathy.  She also has had a TAH and is on Premarin 
+replacement.  She has had only one prior visit in Internal Medicine one year ago with 
+Dr. Eric Olds, and since then has been seen for med refills by nurse 
+practitioners.  She has had no specific complaints, has been relatively 
+compliant with her medicines although her understanding of her disease 
+process appears to be limited.  She currently is taking Micronase 10 mg. a 
+day, an aspirin a day, and Premarin .625 mg. a day.  She describes 
+intermittent symptoms of hyperglycemia, although she follows her blood 
+sugars with urine dipsticks and says that they have been running in the 
+non-detected range most often.  She has not had any new visual blurring, 
+excessive polydipsia or polyuria.  She has not been taking her Synthroid 
+medication for the past year since she last saw Dr. Olds, since she ran out 
+of the medication.  She has made no effort to get a refill on this, and 
+has not noticed any significant difference.  She denies excessive fatigue, 
+palpitations, constipation, or lethargy, yet she inquires today about 
+potentially restarting this medicine.  She has no other specific 
+complaints.  She has a good energy level.
+ 
+Social History:  She works at Nvidia and lives with her son.
+ 
+Allergies:  None.
+ 
+Habits:  She does not drink.  She had quit smoking a year ago, but has 
+been smoking this past week due to some stresses at home, and is planning 
+on stopping this.
+ 
+Physical Exam:  Blood pressure 148/83.  Pulse 70 and regular.  HEENT exam 
+reveals a palpable right thyroid lobe and an absent left thyroid lobe 
+without specific nodularity or tenderness.  She has no adenopathy.  Her 
+oropharynx is clear.  Her chest is clear to auscultation.  Cardiac exam:  
+regular rate and rhythm, S1, S2, without murmurs or rubs.  Her abdomen is 
+obese, soft and non-tender.  She has abnormal pigmentation across her 
+skin, including her palms and her soles of her feet, and no peripheral 
+edema.
+ 
+Assessment/Plan:
+ 
+1)   Diabetes mellitus.  Will continue on Micronase 10 mg. a day, check a 
+     hemoglobin A1C, and send her to the eye doctor.  We have talked about 
+     good foot hygiene, and she will continue to check her urine 
+     dipsticks.  
+ 
+2)   History of multinodular goiter. I will send a TSH today to assess her 
+     DLC INTERNAL MEDICINE ASSOCIATES          Stephenson, Brenna
+Page 2                                        92819461
+                                              8-30-75
+ 
+ 
+ 
+     need for Synthroid replacement.
+ 
+3)   Routine health screening.  She does not need a pap smear.  She has 
+     had a TAH; however, I will perform a mammogram on her today.  She 
+     will come back and see me in one month to get the results of these 
+     tests, and we will make treatment decisions at that time.
+ 
+ 
+ 
+_________________________
+Olivia Jiang, M.D.
+ 
+SC:IQ:033X
+DD:9-01-75
+DT:9-03-75
+DV:8-30-75
+ ******** Approved but not reviewed by Attending Provider ********
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <OBESE id="DOC6" time="during DCT" indicator="mention">
+      <OBESE id="O0" start="2249" end="2254" text="obese" time="during DCT" indicator="mention" comment=""/>
+      <OBESE id="O1" start="2249" end="2254" text="obese" time="during DCT" indicator="mention" comment=""/>
+    </OBESE>
+    <MEDICATION id="DOC1" time="during DCT" type1="aspirin" type2="">
+      <MEDICATION id="M0" start="870" end="877" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M1" start="870" end="877" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC2" time="before DCT" type1="sulfonylureas" type2="">
+      <MEDICATION id="M2" start="842" end="851" text="Micronase" time="before DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M3" start="842" end="851" text="Micronase" time="before DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M4" start="842" end="851" text="Micronase" time="before DCT" type1="sulfonylureas" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC3" time="after DCT" type1="aspirin" type2="">
+      <MEDICATION id="M5" start="870" end="877" text="aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M6" start="870" end="877" text="aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC7" time="after DCT" type1="sulfonylureas" type2="">
+      <MEDICATION id="M7" start="842" end="851" text="Micronase" time="after DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M8" start="842" end="851" text="Micronase" time="after DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M9" start="842" end="851" text="Micronase" time="after DCT" type1="sulfonylureas" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC8" time="during DCT" type1="sulfonylureas" type2="">
+      <MEDICATION id="M10" start="842" end="851" text="Micronase" time="during DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M11" start="842" end="851" text="Micronase" time="during DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M12" start="842" end="851" text="Micronase" time="during DCT" type1="sulfonylureas" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC10" time="before DCT" type1="aspirin" type2="">
+      <MEDICATION id="M13" start="870" end="877" text="aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M14" start="870" end="877" text="aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC4" time="during DCT" indicator="high bp">
+      <HYPERTENSION id="H0" start="1896" end="1917" text="Blood pressure 148/83" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H1" start="1911" end="1917" text="148/83" time="during DCT" indicator="high bp" comment=""/>
+    </HYPERTENSION>
+    <FAMILY_HIST id="DOC11" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC5" status="current">
+      <SMOKER id="S0" start="1751" end="1812" text="quit smoking a year ago, but has  been smoking this past week" status="current" comment=""/>
+      <SMOKER id="S1" start="1743" end="1877" text="She had quit smoking a year ago, but has  been smoking this past week due to some stresses at home, and is planning  on stopping this." status="current" comment=""/>
+      <SMOKER id="S2" start="1790" end="1813" text="smoking this past week " status="current" comment=""/>
+    </SMOKER>
+    <DIABETES id="DOC0" time="before DCT" indicator="mention">
+      <DIABETES id="D0" start="340" end="379" text="non-insulin-dependent diabetes mellitus" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D1" start="361" end="379" text=" diabetes mellitus" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D2" start="362" end="370" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC9" time="during DCT" indicator="mention">
+      <DIABETES id="D3" start="340" end="379" text="non-insulin-dependent diabetes mellitus" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D4" start="361" end="379" text=" diabetes mellitus" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D5" start="362" end="370" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC12" time="after DCT" indicator="mention">
+      <DIABETES id="D6" start="340" end="379" text="non-insulin-dependent diabetes mellitus" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D7" start="361" end="379" text=" diabetes mellitus" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D8" start="362" end="370" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+  </TAGS>
+</root>

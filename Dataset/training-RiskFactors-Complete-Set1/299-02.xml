@@ -1,0 +1,376 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2063-09-29
+
+Reason for Visit	
+
+Comprehensive physical.
+
+
+
+Problems	  
+
+Hyperlipidemia	      
+
+She is now on Lipitor per Dr. Qu.
+
+diabetes mellitus	      
+
+Blood sugars nl on Glucophage and Avandia.  I will check labs today.
+
+S/P Herpetic Neuralgia	      
+
+Still has itchiness on her chin but no pain.  
+
+Colon cancer	      
+
+Still sees Dr. Aragon Q3mos, doing well. 
+
+Coronary artery disease	      
+
+s/p right coronary stent 1/2061 after non-Q wave MI.  She had an arrest in the field on 9/05/2062 and was taken to SLH, after intubation in the field.  Emergency catheterization showed 30% LAD. 40% diagonal and a ejection fraction of 25% with antero-septal akinesis.  CPKs were neg.  Of note, a recent stress test at DCGH had shown LBBB but nl LV function, so she was diagnosed with new cardiomyopathy.  She was disch on 9/10 to Dr. Qu's care.  It is not clear that she has followed-up recently, though a echo from 09/24/62 shows an ejection fraction of 58% with no definite segmental wall motion abnormality.  She has been pain free and is able to walk a few blocks without difficulty since then.  
+
+hypothyroidism	      
+
+Continues on Synthroid.
+
+Lung cancer	      
+
+Now 5 yrs out from left lobectomy and is followed by Dr. Aragon.
+
+depression	      
+
+Seems to be doing extremely well despite her multiple med problems in recent yrs.  Remains on Paxil and also takes Ativan nightly.  
+
+
+
+Vital Signs	  
+
+Blood Pressure:	 100/50   Left Arm
+
+Pulse:	 64   Regular
+
+Weight:	 143   Pounds
+
+
+
+Physical Exam	  
+
+General Appearance	
+
+Well appearing.
+
+HEENT	
+
+No thyromegaly, no adenopathy.
+
+Breast	
+
+Without masses, good carotid upstrokes.
+
+Cor/Cardiac	
+
+Nl S1-S2.
+
+Abdomen	
+
+Benign.
+
+Rectal Exam	
+
+Heme neg brown stool, no masses.
+
+Extremity	
+
+Full pulses, no edema.
+
+Pelvis	
+
+Nl.
+
+
+
+Medications	  
+
+LORAZEPAM	 0.5MG  1 qd
+
+Synthroid	 0.05MG  QD
+
+AVANDIA (ROSIGLITAZONE)	 4MG 1 Tablet(s) PO BID
+
+LASIX (FUROSEMIDE)	 80MG 1 Tablet(s) PO 2 tabs BID
+
+PRILOSEC (OMEPRAZOLE)	 20MG 1 Capsule(s) PO BID
+
+LOPRESSOR (METOPROLOL TARTRATE)	 50MG 0.5 Tablet(s) PO BID
+
+Paxil	 20.0MG PO QD
+
+GLUCOPHAGE (METFORMIN)	 500MG 2 Tablet(s) PO BID
+
+CALTRATE 600	 1TAB PO BID
+
+FE GLUCONATE (FERROUS GLUCONATE)	 325MG 1 Tablet(s) PO TID
+
+ECASA (ASPIRIN ENTERIC COATED)	 81MG 1 Tablet(s) PO QD
+
+ATROVENT INHALER (IPRATROPIUM INHALER)	 2PUFF NAS BID
+
+SEREVENT (SALMETEROL)	 2PUFF NAS BID
+
+CALCIUM GLUCONATE	 500MG 2 Tablet(s) PO BID
+
+ACCUPRIL (QUINAPRIL)	 10MG PO QD
+
+ONE TOUCH TEST STRIPS	 BLANK  
+
+Multivitamins	 1TAB  QD
+
+OCUVITE (MULTIVITAMINS)	 1TAB PO QD
+
+Lipitor	 20MG PO 1 QD
+
+Lopid	 600MG PO BID
+
+
+
+Health Maintenance	  
+
+Influenza Vaccine	 09/29/63   given today
+
+Cholesterol	 09/29/2063 185  
+
+Mammogram	 04/12/2063 BilScrMammo  
+
+Pap Smear	 09/29/2063 See report in Results  
+
+Stool Guaiac	 07/30/2062  Done - negative 
+
+Pneumococcal Vaccine	 08/02/2060   Given today.
+
+UA-Protein	 09/06/2062 2+  
+
+HBA1C	 09/30/2063 5.40  
+
+Bone Density	 09/29/63   ordered
+
+
+
+Disposition and Plans	
+
+Return 1 yr physical.
+
+Breast Exam	 07/30/2062    Without masses. 
+
+Rectal exam	 07/30/2062    Heme negative brown stool, no masses. 
+
+Pneumovax	 08/02/2060   
+
+BSE instruction	 07/31/2061 BSE instruction reviewed today  
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="during DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M0" start="2430" end="2439" text="QUINAPRIL" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M1" start="2420" end="2428" text="ACCUPRIL" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M2" start="2420" end="2428" text="ACCUPRIL" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC1" time="after DCT" type1="statin" type2="">
+      <MEDICATION id="M3" start="124" end="131" text="Lipitor" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M4" start="124" end="131" text="Lipitor" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M5" start="124" end="132" text="Lipitor " time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M6" start="2548" end="2556" text="Lipitor " time="after DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC2" time="during DCT" type1="aspirin" type2="">
+      <MEDICATION id="M7" start="2233" end="2255" text="ASPIRIN ENTERIC COATED" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M8" start="2226" end="2231" text="ECASA" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M9" start="2226" end="2231" text="ECASA" time="during DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC3" time="after DCT" type1="metformin" type2="">
+      <MEDICATION id="M10" start="190" end="200" text="Glucophage" time="after DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M11" start="190" end="200" text="Glucophage" time="after DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M12" start="190" end="200" text="Glucophage" time="after DCT" type1="metformin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC4" time="during DCT" type1="metformin" type2="">
+      <MEDICATION id="M13" start="190" end="200" text="Glucophage" time="during DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M14" start="190" end="200" text="Glucophage" time="during DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M15" start="190" end="200" text="Glucophage" time="during DCT" type1="metformin" type2="" comment=""/>
+    </MEDICATION>
+    <DIABETES id="DOC5" time="before DCT" indicator="mention">
+      <DIABETES id="D0" start="145" end="163" text="diabetes mellitus " time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D1" start="145" end="169" text="diabetes mellitus       " time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D2" start="145" end="153" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <MEDICATION id="DOC6" time="after DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M16" start="2430" end="2439" text="QUINAPRIL" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M17" start="2420" end="2428" text="ACCUPRIL" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M18" start="2420" end="2428" text="ACCUPRIL" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC7" time="before DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M19" start="2430" end="2439" text="QUINAPRIL" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M20" start="2420" end="2428" text="ACCUPRIL" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M21" start="2420" end="2428" text="ACCUPRIL" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <DIABETES id="DOC8" time="during DCT" indicator="mention">
+      <DIABETES id="D3" start="145" end="163" text="diabetes mellitus " time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D4" start="145" end="169" text="diabetes mellitus       " time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D5" start="145" end="153" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <MEDICATION id="DOC9" time="after DCT" type1="aspirin" type2="">
+      <MEDICATION id="M22" start="2233" end="2255" text="ASPIRIN ENTERIC COATED" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M23" start="2226" end="2231" text="ECASA" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M24" start="2226" end="2231" text="ECASA" time="after DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERLIPIDEMIA id="DOC10" time="during DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY0" start="87" end="101" text="Hyperlipidemia" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY1" start="87" end="101" text="Hyperlipidemia" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY2" start="87" end="101" text="Hyperlipidemia" time="during DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <MEDICATION id="DOC11" time="after DCT" type1="fibrate" type2="">
+      <MEDICATION id="M25" start="2571" end="2576" text="Lopid" time="after DCT" type1="fibrate" type2="" comment=""/>
+      <MEDICATION id="M26" start="2571" end="2576" text="Lopid" time="after DCT" type1="fibrate" type2="" comment=""/>
+      <MEDICATION id="M27" start="2571" end="2577" text="Lopid " time="after DCT" type1="fibrate" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC12" time="before DCT" type1="thiazolidinedione" type2="">
+      <MEDICATION id="M28" start="205" end="212" text="Avandia" time="before DCT" type1="thiazolidinedione" type2="" comment=""/>
+      <MEDICATION id="M29" start="205" end="212" text="Avandia" time="before DCT" type1="thiazolidinedione" type2="" comment=""/>
+      <MEDICATION id="M30" start="205" end="212" text="Avandia" time="before DCT" type1="thiazolidinedione" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC13" time="after DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M31" start="2008" end="2017" text="LOPRESSOR" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M32" start="2008" end="2017" text="LOPRESSOR" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M33" start="2008" end="2017" text="LOPRESSOR" time="after DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <SMOKER id="DOC14" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" status="unknown"/>
+      <SMOKER id="S2" start="3" end="10" text="Record " status="unknown" comment=""/>
+    </SMOKER>
+    <CAD id="DOC15" time="after DCT" indicator="mention">
+      <CAD id="C0" start="384" end="407" text="Coronary artery disease" time="after DCT" indicator="mention" comment=""/>
+      <CAD id="C1" start="384" end="414" text="Coronary artery disease       " time="after DCT" indicator="mention" comment=""/>
+      <CAD id="C2" start="384" end="408" text="Coronary artery disease " time="after DCT" indicator="mention" comment=""/>
+    </CAD>
+    <MEDICATION id="DOC16" time="before DCT" type1="statin" type2="">
+      <MEDICATION id="M34" start="124" end="131" text="Lipitor" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M35" start="124" end="131" text="Lipitor" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M36" start="124" end="132" text="Lipitor " time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M37" start="2548" end="2556" text="Lipitor " time="before DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC17" time="during DCT" type1="statin" type2="">
+      <MEDICATION id="M38" start="124" end="131" text="Lipitor" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M39" start="124" end="131" text="Lipitor" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M40" start="124" end="132" text="Lipitor " time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M41" start="2548" end="2556" text="Lipitor " time="during DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC18" time="before DCT" type1="metformin" type2="">
+      <MEDICATION id="M42" start="190" end="200" text="Glucophage" time="before DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M43" start="190" end="200" text="Glucophage" time="before DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M44" start="190" end="200" text="Glucophage" time="before DCT" type1="metformin" type2="" comment=""/>
+    </MEDICATION>
+    <FAMILY_HIST id="DOC19" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <HYPERLIPIDEMIA id="DOC20" time="after DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY3" start="87" end="101" text="Hyperlipidemia" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY4" start="87" end="101" text="Hyperlipidemia" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY5" start="87" end="101" text="Hyperlipidemia" time="after DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <CAD id="DOC21" time="during DCT" indicator="mention">
+      <CAD id="C3" start="384" end="407" text="Coronary artery disease" time="during DCT" indicator="mention" comment=""/>
+      <CAD id="C4" start="384" end="414" text="Coronary artery disease       " time="during DCT" indicator="mention" comment=""/>
+      <CAD id="C5" start="384" end="408" text="Coronary artery disease " time="during DCT" indicator="mention" comment=""/>
+    </CAD>
+    <MEDICATION id="DOC22" time="before DCT" type1="aspirin" type2="">
+      <MEDICATION id="M45" start="2233" end="2255" text="ASPIRIN ENTERIC COATED" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M46" start="2226" end="2231" text="ECASA" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M47" start="2226" end="2231" text="ECASA" time="before DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC23" time="during DCT" type1="fibrate" type2="">
+      <MEDICATION id="M48" start="2571" end="2576" text="Lopid" time="during DCT" type1="fibrate" type2="" comment=""/>
+      <MEDICATION id="M49" start="2571" end="2576" text="Lopid" time="during DCT" type1="fibrate" type2="" comment=""/>
+      <MEDICATION id="M50" start="2571" end="2577" text="Lopid " time="during DCT" type1="fibrate" type2="" comment=""/>
+    </MEDICATION>
+    <DIABETES id="DOC24" time="after DCT" indicator="mention">
+      <DIABETES id="D6" start="145" end="163" text="diabetes mellitus " time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D7" start="145" end="169" text="diabetes mellitus       " time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D8" start="145" end="153" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <MEDICATION id="DOC25" time="during DCT" type1="thiazolidinedione" type2="">
+      <MEDICATION id="M51" start="205" end="212" text="Avandia" time="during DCT" type1="thiazolidinedione" type2="" comment=""/>
+      <MEDICATION id="M52" start="205" end="212" text="Avandia" time="during DCT" type1="thiazolidinedione" type2="" comment=""/>
+      <MEDICATION id="M53" start="205" end="212" text="Avandia" time="during DCT" type1="thiazolidinedione" type2="" comment=""/>
+    </MEDICATION>
+    <CAD id="DOC26" time="before DCT" indicator="event">
+      <CAD id="C6" start="420" end="440" text="right coronary stent" time="before DCT" indicator="event" comment=""/>
+      <CAD id="C7" start="454" end="467" text="non-Q wave MI" time="before DCT" indicator="event" comment=""/>
+      <CAD id="C8" start="454" end="467" text="non-Q wave MI" time="before DCT" indicator="event" comment=""/>
+      <CAD id="C9" start="803" end="817" text="cardiomyopathy" time="before DCT" indicator="event" comment=""/>
+      <CAD id="C10" start="465" end="467" text="MI" time="before DCT" indicator="event" comment=""/>
+    </CAD>
+    <HYPERLIPIDEMIA id="DOC27" time="before DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY6" start="87" end="101" text="Hyperlipidemia" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY7" start="87" end="101" text="Hyperlipidemia" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY8" start="87" end="101" text="Hyperlipidemia" time="before DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <MEDICATION id="DOC28" time="before DCT" type1="fibrate" type2="">
+      <MEDICATION id="M54" start="2571" end="2576" text="Lopid" time="before DCT" type1="fibrate" type2="" comment=""/>
+      <MEDICATION id="M55" start="2571" end="2576" text="Lopid" time="before DCT" type1="fibrate" type2="" comment=""/>
+      <MEDICATION id="M56" start="2571" end="2577" text="Lopid " time="before DCT" type1="fibrate" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC29" time="after DCT" type1="thiazolidinedione" type2="">
+      <MEDICATION id="M57" start="205" end="212" text="Avandia" time="after DCT" type1="thiazolidinedione" type2="" comment=""/>
+      <MEDICATION id="M58" start="205" end="212" text="Avandia" time="after DCT" type1="thiazolidinedione" type2="" comment=""/>
+      <MEDICATION id="M59" start="205" end="212" text="Avandia" time="after DCT" type1="thiazolidinedione" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC30" time="before DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M60" start="2008" end="2017" text="LOPRESSOR" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M61" start="2008" end="2017" text="LOPRESSOR" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M62" start="2008" end="2017" text="LOPRESSOR" time="before DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC31" time="during DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M63" start="2008" end="2017" text="LOPRESSOR" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M64" start="2008" end="2017" text="LOPRESSOR" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M65" start="2008" end="2017" text="LOPRESSOR" time="during DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <CAD id="DOC32" time="before DCT" indicator="mention">
+      <CAD id="C11" start="384" end="407" text="Coronary artery disease" time="before DCT" indicator="mention" comment=""/>
+      <CAD id="C12" start="384" end="414" text="Coronary artery disease       " time="before DCT" indicator="mention" comment=""/>
+      <CAD id="C13" start="384" end="408" text="Coronary artery disease " time="before DCT" indicator="mention" comment=""/>
+      <CAD id="C14" start="435" end="440" text="stent" time="before DCT" indicator="mention" comment=""/>
+    </CAD>
+    <PHI id="P0" start="16" end="26" text="2063-09-29" TYPE="DATE"/>
+    <PHI id="P1" start="140" end="142" text="Qu" TYPE="DOCTOR"/>
+    <PHI id="P2" start="356" end="362" text="Aragon" TYPE="DOCTOR"/>
+    <PHI id="P3" start="441" end="447" text="1/2061" TYPE="DATE"/>
+    <PHI id="P4" start="504" end="513" text="9/05/2062" TYPE="DATE"/>
+    <PHI id="P5" start="531" end="534" text="SLH" TYPE="HOSPITAL"/>
+    <PHI id="P6" start="733" end="737" text="DCGH" TYPE="HOSPITAL"/>
+    <PHI id="P7" start="837" end="841" text="9/10" TYPE="DATE"/>
+    <PHI id="P8" start="849" end="851" text="Qu" TYPE="DOCTOR"/>
+    <PHI id="P9" start="931" end="939" text="09/24/62" TYPE="DATE"/>
+    <PHI id="P10" start="1242" end="1248" text="Aragon" TYPE="DOCTOR"/>
+    <PHI id="P11" start="2636" end="2644" text="09/29/63" TYPE="DATE"/>
+    <PHI id="P12" start="2673" end="2683" text="09/29/2063" TYPE="DATE"/>
+    <PHI id="P13" start="2702" end="2712" text="04/12/2063" TYPE="DATE"/>
+    <PHI id="P14" start="2739" end="2749" text="09/29/2063" TYPE="DATE"/>
+    <PHI id="P15" start="2789" end="2799" text="07/30/2062" TYPE="DATE"/>
+    <PHI id="P16" start="2841" end="2851" text="08/02/2060" TYPE="DATE"/>
+    <PHI id="P17" start="2880" end="2890" text="09/06/2062" TYPE="DATE"/>
+    <PHI id="P18" start="2904" end="2914" text="09/30/2063" TYPE="DATE"/>
+    <PHI id="P19" start="2937" end="2945" text="09/29/63" TYPE="DATE"/>
+    <PHI id="P20" start="3019" end="3029" text="07/30/2062" TYPE="DATE"/>
+    <PHI id="P21" start="3064" end="3074" text="07/30/2062" TYPE="DATE"/>
+    <PHI id="P22" start="3129" end="3139" text="08/02/2060" TYPE="DATE"/>
+    <PHI id="P23" start="3161" end="3171" text="07/31/2061" TYPE="DATE"/>
+  </TAGS>
+</root>

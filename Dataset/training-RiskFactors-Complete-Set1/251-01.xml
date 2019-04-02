@@ -1,0 +1,289 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2083-08-24
+
+ 
+
+
+
+
+
+Fellow/NP
+
+None
+
+
+
+
+
+Reason for Visit:  moderately to poorly differentiated adenocarcinoma of the esophagus. Stage IVB 
+
+
+
+
+
+Diagnosis/Treatment Summary: 
+
+Stage IVB (axillary and retroperitoneal LN and very large celiac axis LN mass) 
+
+
+
+History:  Patient is a 72 year old man who began having dysphagia about 4 weeks ago.  On 8/01/83 he was scheduled for a Colonoscopy, so his PCP suggested he have an UGI Endoscopy at the same time.  The Colonoscopy demonstrated Diverticulosis and the UGI Endoscopy demonstrated a partially obstructing esophageal/gastric cardia tumor which was biopsied.  Pathology revealed moderately to poorly differentiated adenocarcinoma.  On 8/10/83 an Abd and Pelvic CT were done showing:  marked thickening of the wall of the distal esophagus (35-40cm by endoscopy - partial obstruction and circumferential) extending into the gastric cardia, consistent with biopsy proven adenocarcinoma. Also felt to be bleeding silently so placed on Fe replacement. Also, enlarged gastroepiploic, celiac and aortocaval lymph nodes consistent with metastatic disease.  On 8/10/83 a Chest CT revealed thickening of the lower esophagus extending into the chest esophageal junction.  This is associated with lymphadenopathy in the (L) axilla, gastrohepatic ligament, celiac axis and retrocrural space.  The appearance is highly suspicious for esophageal cancer and nodal spread.  There is a 3mm nodule adjacent to the (R) major fissure in the lung. PET scan confirmed axillary and abdominal involvement with cancer. The lung nodule was too small for PET to evaluate. 
+
+
+
+He remains quite asymptomatic with no weight loss and minimal symptoms when he chews his food well.
+
+
+
+ 
+
+Problems/PMH:
+
+Repair of Zenker's diverticulum in 2080
+
+Aterial stent was placed in the mid LAD in 4/80
+
+Hypercholesteremia
+
+Arthritis
+
+Borderline Diabetic
+
+Heart murmur for 50 years
+
+
+
+FH/SH:
+
+Never married
+
+No children
+
+Never smoked
+
+Rare ETOH- 6 beers per year
+
+Aerospace engineer for 40 years
+
+No family history of cancer
+
+Here with sister.
+
+
+
+
+
+Review of Systems: 
+
+
+
+General: 20 lb weight loss,  fatigue, no fevers, no chills, can't eat as much, fills up quickly
+
+Respiratory: No cough, no SOB, no DOE, no hemoptysis, no wheezing
+
+HEENT: No neck swelling, occasional (R) neck stiffness, no hoarseness, no hearing loss
+
+Cardiac: No chest pain, no palpitations( heart murmur for 50 yrs.) arrythmias, no valve disease
+
+Gastrointestinal: No nausea, no vomiting, no diarrhea, no constipation, no bleeding
+
+Neurologic: No seizures, no headache, no weakness, no numbness/tingling
+
+Lymph nodes: No enlarged lymph nodes
+
+Musculoskeletal: No back pain, no neck pain, no leg pain, no arm pain
+
+Urologic: No hematuria, no dysuria, or no obstruction
+
+Endocrine: No adrenal, no thyroid or  no parathyroid disease
+
+Hematologic: No bruising, no clotting, no bleeding
+
+
+
+Medications:
+
+Atenolol 50 mg QD
+
+Triamterene/HCTZ 50/25 QD
+
+Vitamin B Complex 100 u QD
+
+Folic Acid 1 mg QD
+
+Iron Sulfate 1 tab BID
+
+Lipitor 10 mg QHS
+
+Terazosin 5 mg QD
+
+Lisinopril 2.5 mg QHS
+
+Ducolax 2 tabs QD
+
+
+
+Allergies:
+
+Codeine-dizzy
+
+
+
+Physical Examination: 
+
+
+
+VSS AF
+
+PS=1
+
+Neck: no nodes palpable
+
+HEENT: No thrush or mucositis; EOMI; PERRL
+
+Skin: no rash
+
+Ext: without edema, clubbing
+
+Cor: S1 S2
+
+Chest: clear lungs without wheezing or crackles
+
+Abdomen: soft, NT no HSM
+
+Nodes: neg cerv, sc
+
+Neuro: grossly non-focal
+
+
+
+Data (laboratory and radiographs) 
+
+
+
+see above
+
+
+
+Assessment and Plan:
+
+
+
+72 year old man with Stage IVB metastatic esophageal cancer. He is doing quite well. Given the fairly asymptomatic nature of his cancer we have opted to start with radiation first, as his primary mass is fungating in nature and there has been evidence of blood loss. After radiation is completed in 3-4 weeks, I will see him for consideration of chemotherapy but only after re-staging. If he remains asymptomatic and there has been little progression of disease, we may opt to observe him closely without treatment. If the scans show significant progression or he becomes symptomatic, then we will start systemic treatment soon afterwards. He is not a surgical candidate given his stage of disease and lack of symptoms.
+
+
+
+RTC in 5 weeks to assess symptoms and to arrange restaging scans.
+
+
+
+_____________________________________________
+
+Xavier Otero, M.D.
+
+
+
+cc: 
+
+
+
+Dr. Geno Guidry
+
+Dr. Gregory Mcguire
+
+
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="during DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M0" start="3052" end="3062" text="Lisinopril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M1" start="3052" end="3062" text="Lisinopril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M2" start="3052" end="3062" text="Lisinopril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC1" time="before DCT" type1="statin" type2="">
+      <MEDICATION id="M3" start="3014" end="3021" text="Lipitor" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M4" start="3014" end="3021" text="Lipitor" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M5" start="3014" end="3021" text="Lipitor" time="before DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC2" time="during DCT" type1="statin" type2="">
+      <MEDICATION id="M6" start="3014" end="3021" text="Lipitor" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M7" start="3014" end="3021" text="Lipitor" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M8" start="3014" end="3021" text="Lipitor" time="during DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC3" time="after DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M9" start="3052" end="3062" text="Lisinopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M10" start="3052" end="3062" text="Lisinopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M11" start="3052" end="3062" text="Lisinopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC4" time="after DCT" type1="statin" type2="">
+      <MEDICATION id="M12" start="3014" end="3021" text="Lipitor" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M13" start="3014" end="3021" text="Lipitor" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M14" start="3014" end="3021" text="Lipitor" time="after DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERLIPIDEMIA id="DOC5" time="before DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY0" start="1827" end="1845" text="Hypercholesteremia" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY1" start="1827" end="1845" text="Hypercholesteremia" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY2" start="1827" end="1845" text="Hypercholesteremia" time="before DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <MEDICATION id="DOC6" time="before DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M15" start="2896" end="2904" text="Atenolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M16" start="2896" end="2904" text="Atenolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M17" start="2896" end="2904" text="Atenolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERLIPIDEMIA id="DOC7" time="after DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY3" start="1827" end="1845" text="Hypercholesteremia" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY4" start="1827" end="1845" text="Hypercholesteremia" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY5" start="1827" end="1845" text="Hypercholesteremia" time="after DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <MEDICATION id="DOC8" time="before DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M18" start="3052" end="3062" text="Lisinopril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M19" start="3052" end="3062" text="Lisinopril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M20" start="3052" end="3062" text="Lisinopril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC9" time="after DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M21" start="2896" end="2904" text="Atenolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M22" start="2896" end="2904" text="Atenolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M23" start="2896" end="2904" text="Atenolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC10" time="during DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M24" start="2896" end="2904" text="Atenolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M25" start="2896" end="2904" text="Atenolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M26" start="2896" end="2904" text="Atenolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERLIPIDEMIA id="DOC11" time="during DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY6" start="1827" end="1845" text="Hypercholesteremia" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY7" start="1827" end="1845" text="Hypercholesteremia" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY8" start="1827" end="1845" text="Hypercholesteremia" time="during DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <FAMILY_HIST id="DOC12" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC13" status="never">
+      <SMOKER id="S0" start="1944" end="1956" text="Never smoked" status="never" comment=""/>
+      <SMOKER id="S1" start="1944" end="1956" text="Never smoked" status="never" comment=""/>
+      <SMOKER id="S2" start="1944" end="1956" text="Never smoked" status="never" comment=""/>
+    </SMOKER>
+    <PHI id="P0" start="16" end="26" text="2083-08-24" TYPE="DATE"/>
+    <PHI id="P1" start="297" end="299" text="72" TYPE="AGE"/>
+    <PHI id="P2" start="363" end="370" text="8/01/83" TYPE="DATE"/>
+    <PHI id="P3" start="703" end="710" text="8/10/83" TYPE="DATE"/>
+    <PHI id="P4" start="1120" end="1127" text="8/10/83" TYPE="DATE"/>
+    <PHI id="P5" start="1772" end="1776" text="2080" TYPE="DATE"/>
+    <PHI id="P6" start="1821" end="1825" text="4/80" TYPE="DATE"/>
+    <PHI id="P7" start="1987" end="2005" text="Aerospace engineer" TYPE="PROFESSION"/>
+    <PHI id="P8" start="3490" end="3492" text="72" TYPE="AGE"/>
+    <PHI id="P9" start="4329" end="4341" text="Xavier Otero" TYPE="DOCTOR"/>
+    <PHI id="P10" start="4363" end="4374" text="Geno Guidry" TYPE="DOCTOR"/>
+    <PHI id="P11" start="4380" end="4395" text="Gregory Mcguire" TYPE="DOCTOR"/>
+  </TAGS>
+</root>

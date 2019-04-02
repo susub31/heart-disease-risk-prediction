@@ -1,0 +1,257 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2094-09-18
+
+EDVISIT^11289501^FAY, BROOK^9/18/2094^XAYSANA, YUSEF
+
+I confirm that I have interviewed and examined the patient,
+
+reviewed the resident's documentation on the patient's chart, and
+
+discussed the evaluation, plan of care, and disposition with the
+
+patient and the resident, Dr. Vanburen.  Please see his note for
+
+full details.
+
+HISTORY OF PRESENT ILLNESS:  A 67-year-old female who presents to
+
+triage complaining of substernal chest pain, diaphoretic.  Triage
+
+note states that she is complaining of substernal chest pain
+
+radiating to the neck with this and diaphoresis.  She is cool and
+
+pale.  Her triage vital signs showed pulse of 148, up to 180s. 
+
+She was tachypneic.  Her blood pressure was unobtainable and her
+
+sats were 90% on room air.  She is hypoxic.  She was afebrile,
+
+temperature 96.  She was immediately brought back to room.  At
+
+that time, she complained of palpitations, diaphoresis, and chest
+
+pain since 10 p.m.  She has had no history of an MI.
+
+PAST MEDICAL HISTORY:  She does have history of hypertension,
+
+diabetes, and hypercholesterolemia.
+
+SOCIAL HISTORY:  She denies any tobacco or IV drugs or any other
+
+drugs.  She lives with her family who is at her bedside.
+
+PAST SURGICAL HISTORY:  She has had bilateral tubal ligation.
+
+REVIEW OF SYSTEMS:  Currently, chest pain, palpitations,
+
+diaphoresis, and shortness of breath.  Otherwise, all systems are
+
+negative.
+
+MEDICATIONS:  She is on metformin and Lipitor.
+
+ALLERGIES:  She has no known drug allergies.
+
+PHYSICAL EXAMINATION:  She is awake, alert, in moderate distress.
+
+ She is tachycardic to 180 in the monitor.  Her blood pressure is
+
+not able to be obtained at this time.  Her saturations are 100%
+
+on room air, normal interpretation.  She is alert, awake and
+
+oriented, follows commands.  Her head is atraumatic.  Her pharynx
+
+is normal.  Her neck is supple and nontender.  She is in no
+
+respiratory distress with normal breath sounds.  Her heart is
+
+tachycardic with a narrow complex tachycardia on monitor.  Her
+
+abdomen is soft and nontender.  Her skin is intact but
+
+diaphoretic.  Extremities are without pedal edema.  She is
+
+oriented x3 with no cranial nerve and no motor or sensory
+
+deficits.
+
+EMERGENCY DEPARTMENT COURSE:  She was placed on a monitor, EKG
+
+and received oxygen as well with this.  She was explained that
+
+she was going to receive adenosine 6 mg and this did break her
+
+off from her SVT.  I was present during this time.  She had an
+
+EKG that then transformed to normal sinus rhythm at 91 with an
+
+incomplete right bundle-branch block with no previous to compare.
+
+ She received aspirin, Lopressor, and nitroglycerin and remained
+
+hemodynamically stable throughout her ED stay.  For her
+
+tachycardia and chest pain, we ruled out AFib, complex
+
+tachycardia, pulmonary embolism, and acute coronary syndrome. 
+
+She was admitted for telemetry as well as a cardiac rule out. 
+
+Her white count was 12 and her hematocrit was 42.  BUN 29 and
+
+creatinine 1.2.  The d-dimer was negative.  Troponin was
+
+negative.  Her chest x-ray was negative.
+
+ ******** Not reviewed by Attending Physician ********
+
+1.  SVT.
+
+2.  Chest pain, rule out acute coronary syndrome.
+
+3.  Abnormal EKG.
+
+CRITICAL CARE TIME:  20 minutes.
+
+______________________________
+
+XAYSANA, YUSEF M.D.
+
+D: 09/20/94
+
+T: 09/21/94
+
+Dictated By: XAYSANA, YUSEF
+
+eScription document:8-5805926 BFFocus
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="before DCT" type1="statin" type2="">
+      <MEDICATION id="M0" start="1461" end="1468" text="Lipitor" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M1" start="1461" end="1468" text="Lipitor" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M2" start="1461" end="1468" text="Lipitor" time="before DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC1" time="during DCT" type1="statin" type2="">
+      <MEDICATION id="M3" start="1461" end="1468" text="Lipitor" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M4" start="1461" end="1468" text="Lipitor" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M5" start="1461" end="1468" text="Lipitor" time="during DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC2" time="during DCT" type1="aspirin" type2="">
+      <MEDICATION id="M6" start="2620" end="2627" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M7" start="2620" end="2627" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M8" start="2620" end="2627" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC3" time="after DCT" type1="statin" type2="">
+      <MEDICATION id="M9" start="1461" end="1468" text="Lipitor" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M10" start="1461" end="1468" text="Lipitor" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M11" start="1461" end="1468" text="Lipitor" time="after DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC4" time="before DCT" type1="metformin" type2="">
+      <MEDICATION id="M12" start="1447" end="1456" text="metformin" time="before DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M13" start="1447" end="1456" text="metformin" time="before DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M14" start="1447" end="1456" text="metformin" time="before DCT" type1="metformin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC5" time="during DCT" type1="metformin" type2="">
+      <MEDICATION id="M15" start="1447" end="1456" text="metformin" time="during DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M16" start="1447" end="1456" text="metformin" time="during DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M17" start="1447" end="1456" text="metformin" time="during DCT" type1="metformin" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERLIPIDEMIA id="DOC6" time="before DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY0" start="1077" end="1098" text="hypercholesterolemia." time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY1" start="1077" end="1097" text="hypercholesterolemia" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY2" start="1077" end="1097" text="hypercholesterolemia" time="before DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <DIABETES id="DOC7" time="before DCT" indicator="mention">
+      <DIABETES id="D0" start="1063" end="1071" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D1" start="1063" end="1071" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D2" start="1063" end="1071" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <HYPERTENSION id="DOC8" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="1047" end="1060" text=" hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="1048" end="1060" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H2" start="1048" end="1060" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <MEDICATION id="DOC9" time="after DCT" type1="metformin" type2="">
+      <MEDICATION id="M18" start="1447" end="1456" text="metformin" time="after DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M19" start="1447" end="1456" text="metformin" time="after DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M20" start="1447" end="1456" text="metformin" time="after DCT" type1="metformin" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERLIPIDEMIA id="DOC10" time="after DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY3" start="1077" end="1098" text="hypercholesterolemia." time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY4" start="1077" end="1097" text="hypercholesterolemia" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY5" start="1077" end="1097" text="hypercholesterolemia" time="after DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <DIABETES id="DOC11" time="after DCT" indicator="mention">
+      <DIABETES id="D3" start="1063" end="1071" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D4" start="1063" end="1071" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D5" start="1063" end="1071" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC12" time="during DCT" indicator="mention">
+      <DIABETES id="D6" start="1063" end="1071" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D7" start="1063" end="1071" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D8" start="1063" end="1071" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <HYPERTENSION id="DOC13" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H3" start="1047" end="1060" text=" hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H4" start="1048" end="1060" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H5" start="1048" end="1060" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <FAMILY_HIST id="DOC14" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <CAD id="DOC15" time="during DCT" indicator="symptom">
+      <CAD id="C0" start="457" end="467" text="chest pain" time="during DCT" indicator="symptom" comment=""/>
+      <CAD id="C1" start="530" end="600" text="substernal chest pain  radiating to the neck with this and diaphoresis" time="during DCT" indicator="symptom" comment="not clear atr this time"/>
+    </CAD>
+    <MEDICATION id="DOC16" time="during DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M21" start="2629" end="2638" text="Lopressor" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M22" start="2629" end="2638" text="Lopressor" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M23" start="2629" end="2638" text="Lopressor" time="during DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC17" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H6" start="1047" end="1060" text=" hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H7" start="1048" end="1060" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H8" start="1048" end="1060" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERLIPIDEMIA id="DOC18" time="during DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY6" start="1077" end="1098" text="hypercholesterolemia." time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY7" start="1077" end="1097" text="hypercholesterolemia" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY8" start="1077" end="1097" text="hypercholesterolemia" time="during DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <MEDICATION id="DOC19" time="during DCT" type1="nitrate" type2="">
+      <MEDICATION id="M24" start="2644" end="2658" text="nitroglycerin " time="during DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M25" start="2644" end="2657" text="nitroglycerin" time="during DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M26" start="2644" end="2658" text="nitroglycerin " time="during DCT" type1="nitrate" type2="" comment=""/>
+    </MEDICATION>
+    <SMOKER id="DOC20" status="never">
+      <SMOKER id="S0" start="1121" end="1139" text="denies any tobacco" status="never" comment=""/>
+      <SMOKER id="S1" start="1121" end="1139" text="denies any tobacco" status="never" comment=""/>
+      <SMOKER id="S2" start="1121" end="1139" text="denies any tobacco" status="never" comment=""/>
+    </SMOKER>
+    <PHI id="P0" start="16" end="26" text="2094-09-18" TYPE="DATE"/>
+    <PHI id="P1" start="36" end="44" text="11289501" TYPE="MEDICALRECORD"/>
+    <PHI id="P2" start="45" end="55" text="FAY, BROOK" TYPE="PATIENT"/>
+    <PHI id="P3" start="56" end="65" text="9/18/2094" TYPE="DATE"/>
+    <PHI id="P4" start="66" end="80" text="XAYSANA, YUSEF" TYPE="DOCTOR"/>
+    <PHI id="P5" start="306" end="314" text="Vanburen" TYPE="DOCTOR"/>
+    <PHI id="P6" start="388" end="390" text="67" TYPE="AGE"/>
+    <PHI id="P7" start="3278" end="3292" text="XAYSANA, YUSEF" TYPE="DOCTOR"/>
+    <PHI id="P8" start="3302" end="3310" text="09/20/94" TYPE="DATE"/>
+    <PHI id="P9" start="3315" end="3323" text="09/21/94" TYPE="DATE"/>
+    <PHI id="P10" start="3338" end="3352" text="XAYSANA, YUSEF" TYPE="DOCTOR"/>
+    <PHI id="P11" start="3374" end="3383" text="8-5805926" TYPE="IDNUM"/>
+  </TAGS>
+</root>

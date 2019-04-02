@@ -1,0 +1,248 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2097-06-28
+
+
+
+Visit Note
+
+
+
+Patient Name: WILSON, GABRIEL                        MRN: 8514931
+
+Dictated Date: 06/29/2097                      Dictated By: Julie Fraser, M.D.
+
+
+
+Date of Visit: 06/28/2097
+
+
+
+
+
+ Patient is a 76-year-old Croatian woman who came in today. Her daughter Gibbs was translating. She is a very complicated 76-year-old Croatian woman with a history of diabetes, hypertension, vertebral basilar insufficiency, chronic hepatitis B and other medical problems. She is status post a right Bell's palsy in the past. 
+
+
+
+Recently she has been sometimes living at her daughter's house and other times at her niece's house. They are trying to provide more support in terms of regulating that she takes her medication. When she stays at her daughter's Gibbs's house her daughter does check her sugars though her niece does not. Her blood pressure has been very labile recently and we recently added hydrochlorothiazide and nifedipine extended release 30 mg every day to her regimen in addition to her regular Cozaar and Toprol. Her daughter also has increased her insulin/70/30 to 48 units in the morning. She thinks that sometimes in the afternoon or late afternoon she may have some low sugars. She reports that her mother feels dizzy and has difficulty moving her left leg if her sugar gets low. She feels better if she is given orange juice or something to eat. She has had similar symptoms to that with low sugars in the past however when the daughter checks her sugars they are all in the 174 to 225 range. She has occasional sugars before bedtime that are 337 and 249. The lowest sugar she had was 88 before dinner. 
+
+
+
+The patient reports that she feels dizzy at times. She is a very difficult historian even with her daughter translating or with the other interpreters translating. She has not been having any chest pain or palpitations. Her dizziness is not related to standing up or lying down. No syncope, slurred speech, spinning dizziness, diplopia, or focal arm or leg weakness or numbness. 
+
+
+
+Of note the chest pain she had complained about on the last visit when her daughter had noted she was cleaning has resolved. 
+
+
+
+Her cardiac stress test from June 2094 showed an exercise capacity of 4 METS, EKG nondiagnostic due to submaximal heart rate response. No evidence for ischemia on the perfusion images. From March 2095 her vascular lab studies showed normal distal vertebral arteries and basilar arteries throughout its length. She also had carotid studies March 2095 that showed minimal disease of the right and left carotid. Her prior MRI from 07/95 showed chronic lacunar infarcts but no acute hemorrhage or infarct. 
+
+
+
+The patient has had chronic slow speech and there is question about whether or not she has dementia. Her daughter is giving her the Aricept though it is not clear if this is benefiting her or not. Sometimes her daughter thinks that she is actually just being stubborn or uncooperative rather than having difficulties with her memory though other times it seems as if she she does have some dementia. 
+
+
+
+She also has been followed in Glancy Memorial Hospital. 
+
+
+
+On exam she is in no acute distress. Blood pressure 124/60. Neck: Supple without JVD or bruits. Lungs: Clear without wheezes, rales, or rhonchi. Cardiac: Rate regularly regular, normal S1, S2 without S3, S4, or murmurs. Abdomen: Soft, nontender. No CCE. She has chronic right facial weakness consistent with her known Bell's palsy. Cranial nerves 2 through 12 otherwise intact though vision was not assessed. Motor 5/5. Reflexes 1+, absent ankle jerks, downgoing toes. Gait is slightly wide based which is consistent with the prior note from Dr. Hope Kincaid. Sensation intact to light touch. Distal pulses intact. 
+
+
+
+1. Hypertension which is much better controlled on current regimen. Continue same. Check Chem-7. 
+
+
+
+Type 2 diabetes. Her daughter attributes some of her lightheadedness to hypoglycemia but the documented sugars are not at all low. Ideally we would correlate her symptoms with a fingerstick sugar. 
+
+
+
+Lightheadedness and dizziness. We are going to check a Chem-7 and then repeat an MRI/MRA of her head and neck. 
+
+
+
+She should follow up in neurology and also with her counselor. She will follow up with me in a few weeks after the MRI/MRA.
+
+
+
+
+
+___________________________
+
+Julie Fraser, M.D.
+
+
+
+cc:
+
+
+
+
+
+
+
+TD: 07/01/2097 04:10:11
+
+TR: 9745226
+
+BackJob ID:  803469
+
+VoiceJob ID:  61462506
+
+
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <HYPERTENSION id="DOC0" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="401" end="413" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="401" end="413" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H2" start="401" end="413" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <DIABETES id="DOC1" time="during DCT" indicator="mention">
+      <DIABETES id="D0" start="391" end="399" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D1" start="391" end="399" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D2" start="3858" end="3873" text="Type 2 diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D3" start="391" end="399" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <MEDICATION id="DOC2" time="before DCT" type1="diuretic" type2="">
+      <MEDICATION id="M0" start="928" end="947" text="hydrochlorothiazide" time="before DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M1" start="928" end="947" text="hydrochlorothiazide" time="before DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M2" start="928" end="947" text="hydrochlorothiazide" time="before DCT" type1="diuretic" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC3" time="during DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M3" start="952" end="962" text="nifedipine" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M4" start="952" end="962" text="nifedipine" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M5" start="952" end="962" text="nifedipine" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC4" time="after DCT" type1="insulin" type2="">
+      <MEDICATION id="M6" start="1093" end="1100" text="insulin" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M7" start="1093" end="1106" text="insulin/70/30" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M8" start="1093" end="1106" text="insulin/70/30" time="after DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC5" time="before DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M9" start="952" end="962" text="nifedipine" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M10" start="952" end="962" text="nifedipine" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M11" start="952" end="962" text="nifedipine" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC6" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H3" start="401" end="413" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H4" start="401" end="413" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H5" start="401" end="413" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <MEDICATION id="DOC7" time="after DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M12" start="1049" end="1055" text="Toprol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M13" start="1049" end="1055" text="Toprol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M14" start="1049" end="1055" text="Toprol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <SMOKER id="DOC8" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" status="unknown"/>
+      <SMOKER id="S2" status="unknown"/>
+    </SMOKER>
+    <DIABETES id="DOC9" time="before DCT" indicator="mention">
+      <DIABETES id="D4" start="391" end="399" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D5" start="391" end="399" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D6" start="3858" end="3873" text="Type 2 diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D7" start="391" end="399" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <MEDICATION id="DOC10" time="after DCT" type1="ARB" type2="">
+      <MEDICATION id="M15" start="1038" end="1044" text="Cozaar" time="after DCT" type1="ARB" type2="" comment=""/>
+      <MEDICATION id="M16" start="1038" end="1044" text="Cozaar" time="after DCT" type1="ARB" type2="" comment=""/>
+      <MEDICATION id="M17" start="1038" end="1044" text="Cozaar" time="after DCT" type1="ARB" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC11" time="during DCT" type1="diuretic" type2="">
+      <MEDICATION id="M18" start="928" end="947" text="hydrochlorothiazide" time="during DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M19" start="928" end="947" text="hydrochlorothiazide" time="during DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M20" start="928" end="947" text="hydrochlorothiazide" time="during DCT" type1="diuretic" type2="" comment=""/>
+    </MEDICATION>
+    <FAMILY_HIST id="DOC12" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <MEDICATION id="DOC13" time="after DCT" type1="diuretic" type2="">
+      <MEDICATION id="M21" start="928" end="947" text="hydrochlorothiazide" time="after DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M22" start="928" end="947" text="hydrochlorothiazide" time="after DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M23" start="928" end="947" text="hydrochlorothiazide" time="after DCT" type1="diuretic" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC14" time="before DCT" type1="insulin" type2="">
+      <MEDICATION id="M24" start="1093" end="1100" text="insulin" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M25" start="1093" end="1106" text="insulin/70/30" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M26" start="1093" end="1106" text="insulin/70/30" time="before DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC15" time="after DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M27" start="952" end="962" text="nifedipine" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M28" start="952" end="962" text="nifedipine" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M29" start="952" end="962" text="nifedipine" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC16" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H6" start="401" end="413" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H7" start="401" end="413" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H8" start="401" end="413" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <MEDICATION id="DOC17" time="during DCT" type1="insulin" type2="">
+      <MEDICATION id="M30" start="1093" end="1100" text="insulin" time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M31" start="1093" end="1106" text="insulin/70/30" time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M32" start="1093" end="1106" text="insulin/70/30" time="during DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC18" time="before DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M33" start="1049" end="1055" text="Toprol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M34" start="1049" end="1055" text="Toprol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M35" start="1049" end="1055" text="Toprol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC19" time="during DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M36" start="1049" end="1055" text="Toprol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M37" start="1049" end="1055" text="Toprol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M38" start="1049" end="1055" text="Toprol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <DIABETES id="DOC20" time="after DCT" indicator="mention">
+      <DIABETES id="D8" start="391" end="399" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D9" start="391" end="399" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D10" start="3858" end="3873" text="Type 2 diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D11" start="391" end="399" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <MEDICATION id="DOC21" time="during DCT" type1="ARB" type2="">
+      <MEDICATION id="M39" start="1038" end="1044" text="Cozaar" time="during DCT" type1="ARB" type2="" comment=""/>
+      <MEDICATION id="M40" start="1038" end="1044" text="Cozaar" time="during DCT" type1="ARB" type2="" comment=""/>
+      <MEDICATION id="M41" start="1038" end="1044" text="Cozaar" time="during DCT" type1="ARB" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC22" time="before DCT" type1="ARB" type2="">
+      <MEDICATION id="M42" start="1038" end="1044" text="Cozaar" time="before DCT" type1="ARB" type2="" comment=""/>
+      <MEDICATION id="M43" start="1038" end="1044" text="Cozaar" time="before DCT" type1="ARB" type2="" comment=""/>
+      <MEDICATION id="M44" start="1038" end="1044" text="Cozaar" time="before DCT" type1="ARB" type2="" comment=""/>
+    </MEDICATION>
+    <PHI id="P0" start="16" end="26" text="2097-06-28" TYPE="DATE"/>
+    <PHI id="P1" start="58" end="73" text="WILSON, GABRIEL" TYPE="PATIENT"/>
+    <PHI id="P2" start="102" end="109" text="8514931" TYPE="MEDICALRECORD"/>
+    <PHI id="P3" start="126" end="136" text="06/29/2097" TYPE="DATE"/>
+    <PHI id="P4" start="171" end="183" text="Julie Fraser" TYPE="DOCTOR"/>
+    <PHI id="P5" start="208" end="218" text="06/28/2097" TYPE="DATE"/>
+    <PHI id="P6" start="238" end="240" text="76" TYPE="AGE"/>
+    <PHI id="P7" start="250" end="258" text="Croatian" TYPE="COUNTRY"/>
+    <PHI id="P8" start="297" end="302" text="Gibbs" TYPE="PATIENT"/>
+    <PHI id="P9" start="346" end="348" text="76" TYPE="AGE"/>
+    <PHI id="P10" start="358" end="366" text="Croatian" TYPE="COUNTRY"/>
+    <PHI id="P11" start="781" end="786" text="Gibbs" TYPE="PATIENT"/>
+    <PHI id="P12" start="2197" end="2206" text="June 2094" TYPE="DATE"/>
+    <PHI id="P13" start="2358" end="2368" text="March 2095" TYPE="DATE"/>
+    <PHI id="P14" start="2507" end="2517" text="March 2095" TYPE="DATE"/>
+    <PHI id="P15" start="2596" end="2601" text="07/95" TYPE="DATE"/>
+    <PHI id="P16" start="3108" end="3132" text="Glancy Memorial Hospital" TYPE="HOSPITAL"/>
+    <PHI id="P17" start="3684" end="3696" text="Hope Kincaid" TYPE="DOCTOR"/>
+    <PHI id="P18" start="4332" end="4344" text="Julie Fraser" TYPE="DOCTOR"/>
+    <PHI id="P19" start="4369" end="4379" text="07/01/2097" TYPE="DATE"/>
+    <PHI id="P20" start="4394" end="4401" text="9745226" TYPE="IDNUM"/>
+    <PHI id="P21" start="4416" end="4422" text="803469" TYPE="IDNUM"/>
+    <PHI id="P22" start="4438" end="4446" text="61462506" TYPE="IDNUM"/>
+  </TAGS>
+</root>

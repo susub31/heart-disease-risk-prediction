@@ -1,0 +1,224 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2084-04-03
+
+Beaumont Hospital Physician Group
+467 Crowley Avenue                                    RHODES, YAJAIRA
+Rutland, FL 94265                            97627182
+(153) 636-7011                                           04/03/84
+(584) 728-8734
+
+The patient returns not having been seen since last September by
+me and at which time she had some chest pain which did not turn
+out to be anything significant.  She is followed up by Dr. Horne
+who felt that she had a lot of anxiety and she was at that time
+on lisinopril as well as her other diabetic medications.  She
+comes back from Maine.  She is on the following medications:
+1.  Lipitor 20 mg q.d.
+2.  Glynase 1.5 mg b.i.d.
+3.  Glucophage 500 mg b.i.d.
+4.  Cozaar 50 mg b.i.d.
+5.  Avandia 4 mg q.a.m.
+6.  Trandate 100 mg q.d.
+7.  Tegretol 300 mg in the a.m. 150 mg in the p.m.
+8.  Neurontin 200 mg b.i.d. (she was told she could discontinue
+this)
+9.  Premarin and Provera discontinued.
+10.  Aspirin 81 mg q.d.
+12.  Calcium 1200 mg q.d.
+
+She states today that her abdomen has been distended for the past
+5 days.  She has not had a bowel movement in 10 days.  She
+ordinarily has a bowel movement once every 2 weeks.  She takes
+nothing to move her bowels and she is extraordinarily upset about
+her daughter who is homeless.  She has provided for her daughter,
+helped her get a job, and the daughter is emotionally ill, and I
+have advised the patient that she should be in a mental
+institution.  The patient no longer care for her daughter and her
+daughter cares nothing about her father and mother.  It is a
+hopeless situation and 45 minutes were spent in discussion of the
+daughter's illness and what the patient would do about this.  I
+have told her to use some Dulcolax suppositories and Dulcolax by
+mouth for probable impacted feces, although this is not an
+uncommon thing for her and I have ordered a set of blood tests to
+check on her diabetes, kidney function, etc.  She has a good
+physician in Maine where she is planning to move in June and
+she will return to me next week for a complete physical.  She
+does have diabetic neuropathy mild and diabetic nephropathy mild.
+ Her back has healed.  She no longer uses a cane to walk except
+on climbing stairs.  She no longer has any chest pain or
+shortness of breath.  She is extraordinarily anxious and
+hopefully she will listen to the advice that I gave her.  Total
+time spent during this visit was 45 minutes.
+
+
+______________________________
+Brett F. Rutherford, M.D.
+
+eScription document:7-9689009 EMSSten Tel
+
+DD: 04/03/84
+DT: 04/03/84
+DV: 04/03/84
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="after DCT" type1="statin" type2="">
+      <MEDICATION id="M0" start="653" end="660" text="Lipitor" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M1" start="653" end="660" text="Lipitor" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M2" start="653" end="660" text="Lipitor" time="after DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC1" time="during DCT" type1="aspirin" type2="">
+      <MEDICATION id="M3" start="965" end="972" text="Aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M4" start="965" end="972" text="Aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M5" start="965" end="972" text="Aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC2" time="after DCT" type1="metformin" type2="">
+      <MEDICATION id="M6" start="702" end="712" text="Glucophage" time="after DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M7" start="702" end="712" text="Glucophage" time="after DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M8" start="702" end="712" text="Glucophage" time="after DCT" type1="metformin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC3" time="during DCT" type1="metformin" type2="">
+      <MEDICATION id="M9" start="702" end="712" text="Glucophage" time="during DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M10" start="702" end="712" text="Glucophage" time="during DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M11" start="702" end="712" text="Glucophage" time="during DCT" type1="metformin" type2="" comment=""/>
+    </MEDICATION>
+    <DIABETES id="DOC4" time="during DCT" indicator="mention">
+      <DIABETES id="D0" start="1908" end="1920" text="her diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D1" start="1912" end="1920" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <MEDICATION id="DOC5" time="after DCT" type1="aspirin" type2="">
+      <MEDICATION id="M12" start="965" end="972" text="Aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M13" start="965" end="972" text="Aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M14" start="965" end="972" text="Aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC6" time="after DCT" type1="sulfonylureas" type2="">
+      <MEDICATION id="M15" start="676" end="683" text="Glynase" time="after DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M16" start="676" end="683" text="Glynase" time="after DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M17" start="676" end="683" text="Glynase" time="after DCT" type1="sulfonylureas" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC7" time="during DCT" type1="sulfonylureas" type2="">
+      <MEDICATION id="M18" start="676" end="683" text="Glynase" time="during DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M19" start="676" end="683" text="Glynase" time="during DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M20" start="676" end="683" text="Glynase" time="during DCT" type1="sulfonylureas" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC8" time="before DCT" type1="thiazolidinedione" type2="">
+      <MEDICATION id="M21" start="755" end="762" text="Avandia" time="before DCT" type1="thiazolidinedione" type2="" comment=""/>
+      <MEDICATION id="M22" start="755" end="762" text="Avandia" time="before DCT" type1="thiazolidinedione" type2="" comment=""/>
+      <MEDICATION id="M23" start="755" end="762" text="Avandia" time="before DCT" type1="thiazolidinedione" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC9" time="after DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M24" start="779" end="787" text="Trandate" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M25" start="779" end="787" text="Trandate" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M26" start="779" end="787" text="Trandate" time="after DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <SMOKER id="DOC10" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" status="unknown"/>
+      <SMOKER id="S2" status="unknown"/>
+    </SMOKER>
+    <DIABETES id="DOC11" time="before DCT" indicator="mention">
+      <DIABETES id="D2" start="1908" end="1920" text="her diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D3" start="1912" end="1920" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <MEDICATION id="DOC12" time="after DCT" type1="ARB" type2="">
+      <MEDICATION id="M27" start="731" end="737" text="Cozaar" time="after DCT" type1="ARB" type2="" comment=""/>
+      <MEDICATION id="M28" start="731" end="737" text="Cozaar" time="after DCT" type1="ARB" type2="" comment=""/>
+      <MEDICATION id="M29" start="731" end="737" text="Cozaar" time="after DCT" type1="ARB" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC13" time="before DCT" type1="statin" type2="">
+      <MEDICATION id="M30" start="653" end="660" text="Lipitor" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M31" start="653" end="660" text="Lipitor" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M32" start="653" end="660" text="Lipitor" time="before DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC14" time="during DCT" type1="statin" type2="">
+      <MEDICATION id="M33" start="653" end="660" text="Lipitor" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M34" start="653" end="660" text="Lipitor" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M35" start="653" end="660" text="Lipitor" time="during DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC15" time="before DCT" type1="metformin" type2="">
+      <MEDICATION id="M36" start="702" end="712" text="Glucophage" time="before DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M37" start="702" end="712" text="Glucophage" time="before DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M38" start="702" end="712" text="Glucophage" time="before DCT" type1="metformin" type2="" comment=""/>
+    </MEDICATION>
+    <FAMILY_HIST id="DOC16" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <MEDICATION id="DOC17" time="before DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M39" start="529" end="539" text="lisinopril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M40" start="529" end="539" text="lisinopril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC18" time="before DCT" type1="aspirin" type2="">
+      <MEDICATION id="M41" start="965" end="972" text="Aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M42" start="965" end="972" text="Aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M43" start="965" end="972" text="Aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC19" time="during DCT" type1="thiazolidinedione" type2="">
+      <MEDICATION id="M44" start="755" end="762" text="Avandia" time="during DCT" type1="thiazolidinedione" type2="" comment=""/>
+      <MEDICATION id="M45" start="755" end="762" text="Avandia" time="during DCT" type1="thiazolidinedione" type2="" comment=""/>
+      <MEDICATION id="M46" start="755" end="762" text="Avandia" time="during DCT" type1="thiazolidinedione" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC20" time="before DCT" type1="sulfonylureas" type2="">
+      <MEDICATION id="M47" start="676" end="683" text="Glynase" time="before DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M48" start="676" end="683" text="Glynase" time="before DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M49" start="676" end="683" text="Glynase" time="before DCT" type1="sulfonylureas" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC21" time="after DCT" type1="thiazolidinedione" type2="">
+      <MEDICATION id="M50" start="755" end="762" text="Avandia" time="after DCT" type1="thiazolidinedione" type2="" comment=""/>
+      <MEDICATION id="M51" start="755" end="762" text="Avandia" time="after DCT" type1="thiazolidinedione" type2="" comment=""/>
+      <MEDICATION id="M52" start="755" end="762" text="Avandia" time="after DCT" type1="thiazolidinedione" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC22" time="before DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M53" start="779" end="787" text="Trandate" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M54" start="779" end="787" text="Trandate" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M55" start="779" end="787" text="Trandate" time="before DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC23" time="during DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M56" start="779" end="787" text="Trandate" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M57" start="779" end="787" text="Trandate" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M58" start="779" end="787" text="Trandate" time="during DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <DIABETES id="DOC24" time="after DCT" indicator="mention">
+      <DIABETES id="D4" start="1908" end="1920" text="her diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D5" start="1912" end="1920" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <MEDICATION id="DOC25" time="during DCT" type1="ARB" type2="">
+      <MEDICATION id="M59" start="731" end="737" text="Cozaar" time="during DCT" type1="ARB" type2="" comment=""/>
+      <MEDICATION id="M60" start="731" end="737" text="Cozaar" time="during DCT" type1="ARB" type2="" comment=""/>
+      <MEDICATION id="M61" start="731" end="737" text="Cozaar" time="during DCT" type1="ARB" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC26" time="before DCT" type1="ARB" type2="">
+      <MEDICATION id="M62" start="731" end="737" text="Cozaar" time="before DCT" type1="ARB" type2="" comment=""/>
+      <MEDICATION id="M63" start="731" end="737" text="Cozaar" time="before DCT" type1="ARB" type2="" comment=""/>
+      <MEDICATION id="M64" start="731" end="737" text="Cozaar" time="before DCT" type1="ARB" type2="" comment=""/>
+    </MEDICATION>
+    <PHI id="P0" start="16" end="26" text="2084-04-03" TYPE="DATE"/>
+    <PHI id="P1" start="28" end="45" text="Beaumont Hospital" TYPE="HOSPITAL"/>
+    <PHI id="P2" start="62" end="80" text="467 Crowley Avenue" TYPE="STREET"/>
+    <PHI id="P3" start="116" end="131" text="RHODES, YAJAIRA" TYPE="PATIENT"/>
+    <PHI id="P4" start="132" end="139" text="Rutland" TYPE="CITY"/>
+    <PHI id="P5" start="141" end="143" text="FL" TYPE="STATE"/>
+    <PHI id="P6" start="144" end="149" text="94265" TYPE="ZIP"/>
+    <PHI id="P7" start="177" end="185" text="97627182" TYPE="MEDICALRECORD"/>
+    <PHI id="P8" start="186" end="200" text="(153) 636-7011" TYPE="PHONE"/>
+    <PHI id="P9" start="243" end="251" text="04/03/84" TYPE="DATE"/>
+    <PHI id="P10" start="252" end="266" text="(584) 728-8734" TYPE="PHONE"/>
+    <PHI id="P11" start="320" end="329" text="September" TYPE="DATE"/>
+    <PHI id="P12" start="456" end="461" text="Horne" TYPE="DOCTOR"/>
+    <PHI id="P13" start="604" end="609" text="Maine" TYPE="STATE"/>
+    <PHI id="P14" start="1973" end="1978" text="Maine" TYPE="STATE"/>
+    <PHI id="P15" start="2012" end="2016" text="June" TYPE="DATE"/>
+    <PHI id="P16" start="2469" end="2488" text="Brett F. Rutherford" TYPE="DOCTOR"/>
+    <PHI id="P17" start="2516" end="2525" text="7-9689009" TYPE="MEDICALRECORD"/>
+    <PHI id="P18" start="2543" end="2551" text="04/03/84" TYPE="DATE"/>
+    <PHI id="P19" start="2556" end="2564" text="04/03/84" TYPE="DATE"/>
+    <PHI id="P20" start="2569" end="2577" text="04/03/84" TYPE="DATE"/>
+  </TAGS>
+</root>

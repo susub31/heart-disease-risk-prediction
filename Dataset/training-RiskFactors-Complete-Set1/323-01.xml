@@ -1,0 +1,274 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2060-08-27
+
+
+
+Glenbrook Hospital of Sleepy Eye
+
+711 Williams Ct                                  Xian, Brooklyn
+
+Sleepy Eye, NC 77659                                  60244986
+
+(918) 194-7472                                           08/27/60
+
+
+
+
+
+IDENTIFICATION:  A 65-year-old woman presents as a new patient to discuss problems with leg swelling.
+
+
+
+PAST MEDICAL HISTORY:
+
+1.  Longstanding insulin-dependent adult onset diabetes with a history of neuropathy and retinopathy.
+
+2.  History of lower extremity edema with past evaluation per patient including a normal stress echocardiogram.
+
+3.  History of low back pain due to degenerative disc disease.  The patient has been treated at the Bryan W Whitfield Memorial Hospital  with treatments including facet blocks and epidural injections.
+
+4.  Status post cholecystectomy.
+
+5.  Status post four vaginal deliveries, two cesarean sections and two miscarriages.
+
+8.  Hypothyroidism.
+
+9.  Former smoker approximately 15-pack-year history quit seven years ago.
+
+10.  Hypertension.
+
+
+
+HISTORY OF PRESENT ILLNESS:  The patient has a longstanding history of diabetes.  She has required retinal laser surgery for retinopathy.  She reports some tingling and numbness in the bottom of her feet.  She has had debilitating problems with lower extremity swelling over the last 18 months.  She notes that an extensive evaluation was initially done without a clear explanation.  Her endocrinologist had her stop her Actos which resulted in significant improvement.  Over the last six months, however, the patient has developed leg swelling again.  She denies paroxysmal nocturnal dyspnea.  She does note some exertional shortness of breath, which she attributes to her weight.  She has no history of exertional chest pain.  She has not noted a change in her abdominal girth.  She has had no calf pain or swelling.  She does note a history of sleep apnea and restless leg syndrome.  The patient notes that she had a sleep study at some point in the past two or three years ago.  A CPAP device was recommended but not tolerated by the patient.  She notes that she has significant daily low back pain.  Her average pain is 8-9/10.  This occurs while she is standing or walking any distance.  She has very little or no pain when she is sitting or lying.
+
+
+
+REVIEW OF SYSTEMS:  Otherwise, unremarkable with no fever, chills, change in bowel habits, constipation, diarrhea, black or bloody stools, dysuria, skin rash.  The patient does have exertional leg cramps.  She notes a vascular evaluation was normal and her pain was felt due to her back.
+
+
+
+MEDICATIONS:  Norvasc 5 mg q.d., Bextra 20 mg q.d., Lipitor 20 mg q.d., lisinopril 40 mg q.d., atenolol 50 mg q.d., Flonase one spray each nostril q.d., quinine 324 mg q.h.s. p.r.n., aspirin 81 mg q.d., insulin, Humulin N 40 units b.i.d., Humalog sliding scale 15 to 25 units q.a.m. 15 to 25 units before dinner, levothyroxine 150 mcg q.a.m.
+
+
+
+PHYSICAL EXAMINATION:  Vital signs: Weight 284 pounds, temperature 98.2, heart rate 68, blood pressure 140/64.  The patient is in no distress, breathing comfortably.  HEENT: Anicteric, no oral lesions.  Neck: Supple, no lymphadenopathy, no thyroid mass or nodule.  Lungs: Clear to auscultation.  No wheeze, rales or rhonchi.  Cardiac: Regular.  Distant heart sounds.  No murmur, rub or gallop.  Abdomen: Obese, soft, no mass.  Normoactive bowel tones.  Extremities: 2+ edema to the knees.  Vascular: Carotid pulses are strong and symmetric without bruit.  Radial, dorsalis pedis and posterior tibial pulses are strong and symmetric.
+
+
+
+ASSESSMENT AND PLAN:
+
+1.  Edema.  The patient's edema is likely multifactorial.  She does not have evidence of congestive heart failure today.  I reviewed her dietary sodium intake, which sounds to be acceptable.  She may benefit from additional nutrition counseling regarding this issue.  Her leg swelling may also relate to her Norvasc use.  I did not see her urine microalbumin testing and laboratory studies the patient brings with her today.  Significant proteinuria may be contributing to her edema as well.  The patient has had no reactions to sulfa medications and has never been on a thiazide diuretic to her knowledge.  I recommended initially that she stop the Norvasc and start hydrochlorothiazide 25 mg q.d.  I discussed the use and side effects of this medication.  I will see her back in the office in two or three weeks to review her progress.
+
+2.  Low back pain. I recommend the patient continue her Bextra.  We discussed other pain medications including narcotics.  We elected against using these medications today.
+
+3.  History of sleep apnea.  The patient has significant fatigue.  This may be due to her sleep apnea.  In addition, her difficulty with her weight as well as fluid retention may relate to her poorly controlled sleep apnea.  I discussed this with her today.  I would recommend that she return for a follow up sleep study.  She did not have good luck with a sleep mask but might do better with a nasal mask.  She will think about this and we will review it again on her follow up visit.
+
+
+
+
+
+
+______________________________
+
+Roger York, M.D.
+
+
+
+
+
+Dictated By: Roger York
+
+
+
+
+
+eScription document:4-6557064 Dana Vaughn
+
+
+
+
+
+
+
+DD: 08/27/60
+
+DT: 08/28/60
+
+DV: 08/27/60
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="during DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M0" start="2669" end="2680" text=" lisinopril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M1" start="2670" end="2680" text="lisinopril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M2" start="2670" end="2680" text="lisinopril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC1" time="after DCT" type1="statin" type2="">
+      <MEDICATION id="M3" start="2650" end="2657" text="Lipitor" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M4" start="2650" end="2657" text="Lipitor" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M5" start="2650" end="2657" text="Lipitor" time="after DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC2" time="during DCT" type1="aspirin" type2="">
+      <MEDICATION id="M6" start="2780" end="2788" text=" aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M7" start="2781" end="2788" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M8" start="2781" end="2788" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <SMOKER id="DOC3" status="past">
+      <SMOKER id="S0" start="955" end="968" text="Former smoker" status="past" comment=""/>
+      <SMOKER id="S1" start="955" end="968" text="Former smoker" status="past" comment=""/>
+      <SMOKER id="S2" start="955" end="969" text="Former smoker " status="past" comment=""/>
+    </SMOKER>
+    <HYPERTENSION id="DOC4" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="1032" end="1046" text="Hypertension. " time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="1032" end="1044" text="Hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H2" start="1032" end="1044" text="Hypertension" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <MEDICATION id="DOC5" time="after DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M9" start="2669" end="2680" text=" lisinopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M10" start="2670" end="2680" text="lisinopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M11" start="2670" end="2680" text="lisinopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC6" time="before DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M12" start="2669" end="2680" text=" lisinopril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M13" start="2670" end="2680" text="lisinopril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M14" start="2670" end="2680" text="lisinopril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <DIABETES id="DOC7" time="during DCT" indicator="mention">
+      <DIABETES id="D0" start="439" end="447" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D1" start="439" end="447" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <MEDICATION id="DOC8" time="after DCT" type1="aspirin" type2="">
+      <MEDICATION id="M15" start="2780" end="2788" text=" aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M16" start="2781" end="2788" text="aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M17" start="2781" end="2788" text="aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC9" time="during DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M18" start="2612" end="2620" text="Norvasc " time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M19" start="2612" end="2619" text="Norvasc" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M20" start="4251" end="4258" text="Norvasc" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M21" start="2612" end="2619" text="Norvasc" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC10" time="after DCT" type1="insulin" type2="">
+      <MEDICATION id="M22" start="2800" end="2808" text=" insulin" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M23" start="2810" end="2817" text="Humulin" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M24" start="2837" end="2844" text="Humalog" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M25" start="2801" end="2808" text="insulin" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M26" start="2810" end="2817" text="Humulin" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M27" start="2837" end="2844" text="Humalog" time="after DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC11" time="during DCT" indicator="high bp">
+      <HYPERTENSION id="H3" start="3031" end="3052" text="blood pressure 140/64" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H4" start="3031" end="3052" text="blood pressure 140/64" time="during DCT" indicator="high bp" comment=""/>
+    </HYPERTENSION>
+    <MEDICATION id="DOC12" time="before DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M28" start="2612" end="2620" text="Norvasc " time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M29" start="2612" end="2619" text="Norvasc" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M30" start="4251" end="4258" text="Norvasc" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M31" start="2612" end="2619" text="Norvasc" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M32" start="4242" end="4259" text="stop the Norvasc " time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC13" time="before DCT" type1="thiazolidinedione" type2="">
+      <MEDICATION id="M33" start="1470" end="1475" text="Actos" time="before DCT" type1="thiazolidinedione" type2="" comment=""/>
+      <MEDICATION id="M34" start="1470" end="1475" text="Actos" time="before DCT" type1="thiazolidinedione" type2="" comment=""/>
+      <MEDICATION id="M35" start="1461" end="1475" text="stop her Actos" time="before DCT" type1="thiazolidinedione" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC14" time="after DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M36" start="2693" end="2701" text="atenolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M37" start="2693" end="2701" text="atenolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <DIABETES id="DOC15" time="before DCT" indicator="mention">
+      <DIABETES id="D2" start="439" end="447" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D3" start="439" end="447" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <MEDICATION id="DOC16" time="before DCT" type1="statin" type2="">
+      <MEDICATION id="M38" start="2650" end="2657" text="Lipitor" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M39" start="2650" end="2657" text="Lipitor" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M40" start="2650" end="2657" text="Lipitor" time="before DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC17" time="during DCT" type1="statin" type2="">
+      <MEDICATION id="M41" start="2650" end="2657" text="Lipitor" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M42" start="2650" end="2657" text="Lipitor" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M43" start="2650" end="2657" text="Lipitor" time="during DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC18" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H5" start="1032" end="1046" text="Hypertension. " time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H6" start="1032" end="1044" text="Hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H7" start="1032" end="1044" text="Hypertension" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <FAMILY_HIST id="DOC19" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <MEDICATION id="DOC20" time="before DCT" type1="aspirin" type2="">
+      <MEDICATION id="M44" start="2780" end="2788" text=" aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M45" start="2781" end="2788" text="aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M46" start="2781" end="2788" text="aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC21" time="before DCT" type1="insulin" type2="">
+      <MEDICATION id="M47" start="2800" end="2808" text=" insulin" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M48" start="2810" end="2817" text="Humulin" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M49" start="2837" end="2844" text="Humalog" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M50" start="2801" end="2808" text="insulin" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M51" start="2810" end="2817" text="Humulin" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M52" start="2837" end="2844" text="Humalog" time="before DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC22" time="after DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M53" start="2612" end="2620" text="Norvasc " time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M54" start="2612" end="2619" text="Norvasc" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M55" start="4251" end="4258" text="Norvasc" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M56" start="2612" end="2619" text="Norvasc" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC23" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H8" start="1032" end="1046" text="Hypertension. " time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H9" start="1032" end="1044" text="Hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H10" start="1032" end="1044" text="Hypertension" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <MEDICATION id="DOC24" time="during DCT" type1="insulin" type2="">
+      <MEDICATION id="M57" start="2800" end="2808" text=" insulin" time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M58" start="2810" end="2817" text="Humulin" time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M59" start="2837" end="2844" text="Humalog" time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M60" start="2801" end="2808" text="insulin" time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M61" start="2810" end="2817" text="Humulin" time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M62" start="2837" end="2844" text="Humalog" time="during DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC25" time="before DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M63" start="2693" end="2701" text="atenolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M64" start="2693" end="2701" text="atenolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC26" time="during DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M65" start="2693" end="2701" text="atenolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M66" start="2693" end="2701" text="atenolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <DIABETES id="DOC27" time="after DCT" indicator="mention">
+      <DIABETES id="D4" start="439" end="447" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D5" start="439" end="447" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <PHI id="P0" start="16" end="26" text="2060-08-27" TYPE="DATE"/>
+    <PHI id="P1" start="30" end="48" text="Glenbrook Hospital" TYPE="HOSPITAL"/>
+    <PHI id="P2" start="52" end="62" text="Sleepy Eye" TYPE="CITY"/>
+    <PHI id="P3" start="64" end="79" text="711 Williams Ct" TYPE="STREET"/>
+    <PHI id="P4" start="113" end="127" text="Xian, Brooklyn" TYPE="PATIENT"/>
+    <PHI id="P5" start="129" end="139" text="Sleepy Eye" TYPE="CITY"/>
+    <PHI id="P6" start="141" end="143" text="NC" TYPE="STATE"/>
+    <PHI id="P7" start="144" end="149" text="77659" TYPE="ZIP"/>
+    <PHI id="P8" start="183" end="191" text="60244986" TYPE="MEDICALRECORD"/>
+    <PHI id="P9" start="193" end="207" text="(918) 194-7472" TYPE="PHONE"/>
+    <PHI id="P10" start="250" end="258" text="08/27/60" TYPE="DATE"/>
+    <PHI id="P11" start="283" end="285" text="65" TYPE="AGE"/>
+    <PHI id="P12" start="708" end="743" text="Bryan W Whitfield Memorial Hospital" TYPE="HOSPITAL"/>
+    <PHI id="P13" start="5138" end="5148" text="Roger York" TYPE="DOCTOR"/>
+    <PHI id="P14" start="5173" end="5183" text="Roger York" TYPE="DOCTOR"/>
+    <PHI id="P15" start="5209" end="5218" text="4-6557064" TYPE="IDNUM"/>
+    <PHI id="P16" start="5219" end="5230" text="Dana Vaughn" TYPE="DOCTOR"/>
+    <PHI id="P17" start="5242" end="5250" text="08/27/60" TYPE="DATE"/>
+    <PHI id="P18" start="5256" end="5264" text="08/28/60" TYPE="DATE"/>
+    <PHI id="P19" start="5270" end="5278" text="08/27/60" TYPE="DATE"/>
+  </TAGS>
+</root>

@@ -1,0 +1,338 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2080-01-13
+
+EDVISIT^10776605^Glenn, Olivia^01/14/80^WOODRUFF, FERNE
+
+I saw this patient in conjunction with Dr. Leyva and Dr.
+
+Forrest.  I confirm that I have interviewed and examined the
+
+patient, reviewed the resident's documentation on the patient's
+
+chart, and discussed the evaluation, plan of care, and
+
+disposition with the patient.
+
+CHIEF COMPLAINT:  A 65-year-old female with difficulty breathing.
+
+HISTORY OF PRESENT ILLNESS:  The patient with known multiple
+
+medical problems presents with difficulty breathing.  At her
+
+rehabilitation facility was noted to be hypoxic and thus was sent
+
+here.  The patient's recent past medical history is remarkable
+
+for a fall with cervical fractures, rib fractures, and subsequent
+
+hemothorax for which she was admitted to the Educare-Pullman ICU over the
+
+end of December through the beginning of January.  The patient's
+
+chest tube was withdrawn approximately 10 days ago and the
+
+patient has been doing well at rehab since.  However, today was
+
+noted to have desaturations to 80% on room air.  She had
+
+shortness of breath as well.  Her oxygen saturations improved
+
+marginally on oxygenation and have been responsive to
+
+nonrebreather treatment in the transport here.  The patient was
+
+treated with nebulizers and Lasix without significant improvement
+
+and is noted to be quite tachypneic.
+
+PAST MEDICAL HISTORY:  Remarkable for hypertension, CHF,
+
+diabetes, asthma, chronic renal insufficiency, osteoporosis,
+
+anemia, and cervical fracture.
+
+SOCIAL HISTORY, FAMILY HISTORY, AND REVIEW OF SYSTEMS:  Limited
+
+by the severity of the patient's presentation.
+
+MEDICATIONS:  Insulin, Zocor, PhosLo, calcium carbonate,
+
+Protonix, Niferex, Norvasc, Fosamax, Epogen, Lasix, lisinopril,
+
+Colace, and Xalatan.
+
+ALLERGIES:  Morphine and aspirin.
+
+PHYSICAL EXAMINATION:  The patient is awake and alert, in some
+
+degree of respiratory distress, however, able to interact and
+
+answer questions in 1-2 word sentences.  Vital signs are as
+
+documented with an elevated blood pressure of 176/96, pulse 76,
+
+and oxygen saturation is 98% on nonrebreather.  HEENT exam is
+
+atraumatic, normal to inspection.  The patient has a large tongue
+
+and her uvula is not visible at all.  Neck is immobilized in a
+
+C-collar and is obese.  Respiratory exam reveals decreased breath
+
+sounds diffusely with tachypnea and respiratory muscle accessory
+
+use.  Cardiovascular exam:  Regular rate and rhythm without
+
+murmur.  Pulses are palpable in all four extremities.  Abdomen is
+
+soft and nontender, obese, but without any organomegaly or
+
+masses, or guarding, or rebound.  Skin is intact, warm, and dry
+
+without any lesions or rash.  Musculoskeletal exam reveals
+
+tenderness over the right ribs where the patient has known rib
+
+fractures.  Neurologically, she is oriented with difficulty
+
+speaking due to respiratory distress but no focal neurologic
+
+deficit.
+
+LABORATORY STUDIES:  BNP is elevated in the 500-600 range.  White
+
+blood count is slightly elevated at 10, hematocrit 26.3, which is
+
+at the patient's baseline, and creatinine of 2.2.  LFTs within
+
+normal limit.  INR 1.2.  D-dimer significantly elevated.  EKG
+
+demonstrates sinus rhythm with nonspecific ST-T wave changes.
+
+IMAGING STUDIES:  Chest x-ray shows bilateral effusions, which
+
+are present previously but possibly slightly increased.
+
+EMERGENCY DEPARTMENT COURSE:  The patient was initially given
+
+Lasix and nitro with improvement in her blood pressure and was
+
+also started on CPAP.  She seemed to be improving clinically for
+
+some period of time but then began to decline in her mental
+
+status.  At that time an ABG was sent demonstrating hypoxia. 
+
+Prior to those results, the decision was made that the patient
+
+likely needed intubation.  We had hope to hold off to do a
+
+thoracentesis; however, the patient's clinical course declines
+
+such that it was not possible for her to sit up for the
+
+procedure.  On CPAP, the patient's oxygen saturations were stable
+
+throughout in the 90s, but she developed increasing respiratory
+
+distress.  Intubation was complicated by her inability to flex
+
+her neck, her large tongue, and her body habitus; was successful
+
+in two attempts with one episode of bag mask ventilation in
+
+between those attempts.  For full details of the procedure,
+
+please see the attached procedure note.  Thoracic Surgery was
+
+consulted.  They arrived as the patient was being intubated.  At
+
+this time their recommendation is for a CT scan of the chest to
+
+determine whether this is more likely a hemothorax or a pleural
+
+effusion and whether it is loculated.  This study will be
+
+performed and then patient will be admitted to her ready bed in
+
+the ICU.  A bedside ultrasound was also performed by myself and
+
+the resident demonstrating no obvious pericardial effusion.
+
+ ******** Not reviewed by Attending Physician ********
+
+PRIMARY DIAGNOSIS:  Bilateral pleural effusions.
+
+SECONDARY DIAGNOSIS:  Respiratory distress.
+
+TERTIARY DIAGNOSIS:  Question recurrent hemothorax versus pleural
+
+effusion.
+
+FOURTH DIAGNOSIS:  Question CHF.
+
+DISPOSITION:  Admitted to the ICU.
+
+CRITICAL CARE TIME:  75 minutes.
+
+______________________________
+
+WOODRUFF, FERNE MD
+
+D: 01/14/80
+
+T: 01/14/80
+
+Dictated By: WOODRUFF, FERNE
+
+eScription document:9-3389642 BFFocus
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="during DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M0" start="1732" end="1743" text=" lisinopril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M1" start="1733" end="1744" text="lisinopril," time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M2" start="1733" end="1743" text="lisinopril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC1" time="after DCT" type1="statin" type2="">
+      <MEDICATION id="M3" start="1646" end="1651" text="Zocor" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M4" start="1646" end="1651" text="Zocor" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M5" start="1646" end="1651" text="Zocor" time="after DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <OBESE id="DOC2" time="after DCT" indicator="mention">
+      <OBESE id="O0" start="2531" end="2536" text="obese" time="after DCT" indicator="mention" comment=""/>
+      <OBESE id="O1" start="2266" end="2271" text="obese" time="after DCT" indicator="mention" comment=""/>
+    </OBESE>
+    <HYPERTENSION id="DOC3" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="1396" end="1408" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="1396" end="1408" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H2" start="1396" end="1408" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <MEDICATION id="DOC4" time="after DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M6" start="1732" end="1743" text=" lisinopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M7" start="1733" end="1744" text="lisinopril," time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M8" start="1733" end="1743" text="lisinopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC5" time="before DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M9" start="1732" end="1743" text=" lisinopril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M10" start="1733" end="1744" text="lisinopril," time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M11" start="1733" end="1743" text="lisinopril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <DIABETES id="DOC6" time="during DCT" indicator="mention">
+      <DIABETES id="D0" start="1416" end="1424" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D1" start="1416" end="1424" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D2" start="1416" end="1424" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <MEDICATION id="DOC7" time="during DCT" type1="nitrate" type2="">
+      <MEDICATION id="M12" start="3411" end="3416" text="nitro" time="during DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M13" start="3411" end="3416" text="nitro" time="during DCT" type1="nitrate" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC8" time="during DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M14" start="1700" end="1707" text="Norvasc" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M15" start="1700" end="1707" text="Norvasc" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M16" start="1700" end="1707" text="Norvasc" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC9" time="after DCT" type1="insulin" type2="">
+      <MEDICATION id="M17" start="1636" end="1644" text=" Insulin" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M18" start="1637" end="1644" text="Insulin" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M19" start="1637" end="1644" text="Insulin" time="after DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC10" time="during DCT" indicator="high bp">
+      <HYPERTENSION id="H3" start="2037" end="2043" text="176/96" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H4" start="2037" end="2044" text="176/96," time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H5" start="2019" end="2043" text="blood pressure of 176/96" time="during DCT" indicator="high bp" comment=""/>
+    </HYPERTENSION>
+    <MEDICATION id="DOC11" time="before DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M20" start="1700" end="1707" text="Norvasc" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M21" start="1700" end="1707" text="Norvasc" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M22" start="1700" end="1707" text="Norvasc" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC12" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H6" start="1396" end="1408" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H7" start="1396" end="1408" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H8" start="1396" end="1408" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <SMOKER id="DOC13" status="unknown">
+      <SMOKER id="S0" start="1565" end="1573" text=" Limited" status="unknown" comment=""/>
+      <SMOKER id="S1" status="unknown"/>
+      <SMOKER id="S2" status="unknown"/>
+    </SMOKER>
+    <DIABETES id="DOC14" time="before DCT" indicator="mention">
+      <DIABETES id="D3" start="1416" end="1424" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D4" start="1416" end="1424" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D5" start="1416" end="1424" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <MEDICATION id="DOC15" time="before DCT" type1="statin" type2="">
+      <MEDICATION id="M23" start="1646" end="1651" text="Zocor" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M24" start="1646" end="1651" text="Zocor" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M25" start="1646" end="1651" text="Zocor" time="before DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC16" time="during DCT" type1="statin" type2="">
+      <MEDICATION id="M26" start="1646" end="1651" text="Zocor" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M27" start="1646" end="1651" text="Zocor" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M28" start="1646" end="1651" text="Zocor" time="during DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <OBESE id="DOC17" time="before DCT" indicator="mention">
+      <OBESE id="O2" start="2531" end="2536" text="obese" time="before DCT" indicator="mention" comment=""/>
+      <OBESE id="O3" start="2266" end="2271" text="obese" time="before DCT" indicator="mention" comment=""/>
+    </OBESE>
+    <MEDICATION id="DOC18" time="before DCT" type1="insulin" type2="">
+      <MEDICATION id="M29" start="1636" end="1644" text=" Insulin" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M30" start="1637" end="1644" text="Insulin" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M31" start="1637" end="1644" text="Insulin" time="before DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <OBESE id="DOC19" time="during DCT" indicator="mention">
+      <OBESE id="O4" start="2531" end="2536" text="obese" time="during DCT" indicator="mention" comment=""/>
+      <OBESE id="O5" start="2266" end="2271" text="obese" time="during DCT" indicator="mention" comment=""/>
+    </OBESE>
+    <MEDICATION id="DOC20" time="after DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M32" start="1700" end="1707" text="Norvasc" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M33" start="1700" end="1707" text="Norvasc" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M34" start="1700" end="1707" text="Norvasc" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC21" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H9" start="1396" end="1408" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H10" start="1396" end="1408" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H11" start="1396" end="1408" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <MEDICATION id="DOC22" time="during DCT" type1="insulin" type2="">
+      <MEDICATION id="M35" start="1636" end="1644" text=" Insulin" time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M36" start="1637" end="1644" text="Insulin" time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M37" start="1637" end="1644" text="Insulin" time="during DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <FAMILY_HIST id="DOC23" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <DIABETES id="DOC24" time="after DCT" indicator="mention">
+      <DIABETES id="D6" start="1416" end="1424" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D7" start="1416" end="1424" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D8" start="1416" end="1424" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <PHI id="P0" start="16" end="26" text="2080-01-13" TYPE="DATE"/>
+    <PHI id="P1" start="36" end="44" text="10776605" TYPE="MEDICALRECORD"/>
+    <PHI id="P2" start="45" end="58" text="Glenn, Olivia" TYPE="PATIENT"/>
+    <PHI id="P3" start="59" end="67" text="01/14/80" TYPE="DATE"/>
+    <PHI id="P4" start="68" end="83" text="WOODRUFF, FERNE" TYPE="DOCTOR"/>
+    <PHI id="P5" start="128" end="133" text="Leyva" TYPE="DOCTOR"/>
+    <PHI id="P6" start="143" end="150" text="Forrest" TYPE="DOCTOR"/>
+    <PHI id="P7" start="377" end="379" text="65" TYPE="AGE"/>
+    <PHI id="P8" start="791" end="806" text="Educare-Pullman" TYPE="HOSPITAL"/>
+    <PHI id="P9" start="828" end="836" text="December" TYPE="DATE"/>
+    <PHI id="P10" start="862" end="869" text="January" TYPE="DATE"/>
+    <PHI id="P11" start="5158" end="5173" text="WOODRUFF, FERNE" TYPE="DOCTOR"/>
+    <PHI id="P12" start="5181" end="5189" text="01/14/80" TYPE="DATE"/>
+    <PHI id="P13" start="5194" end="5202" text="01/14/80" TYPE="DATE"/>
+    <PHI id="P14" start="5217" end="5232" text="WOODRUFF, FERNE" TYPE="DOCTOR"/>
+    <PHI id="P15" start="5254" end="5263" text="9-3389642" TYPE="IDNUM"/>
+  </TAGS>
+</root>

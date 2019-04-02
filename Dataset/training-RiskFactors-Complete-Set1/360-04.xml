@@ -1,0 +1,261 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2079-03-13
+
+
+HMH
+null                                      GEIGER, XANDER
+Rayne, MI null                                      01729440
+null                                           03/13/79
+
+
+HISTORY OF PRESENT ILLNESS:  The patient has a known history of
+hypopituitarism and hypertension who comes in today for routine
+annual exam.  He states that he has been feeling exceptionally
+well.  No history of chest pain, angina, dyspnea on exertion,
+shortness of breath, abdominal complaints.  No difficulties in
+bowel habits, melena, BRBPR.  No prostatic symptoms of urinary
+hesitancy or slow stream.  He states that he has been carefully
+taking his prednisone and testosterone as prescribed, as well as
+his blood pressure medicines including lisinopril 40 q.d.,
+atenolol 75 q.d., and his cholesterol medicine 10 of Lipitor q.d.
+ He is no longer taking the hydrochlorothiazide that was
+prescribed to him in the past.  He also states that he has run
+out of Synthroid and has not been taking that for the past
+several weeks.
+
+The patient states that he is staying active, getting some
+exercise, continues to abstain from smoking or drinking, and has
+an appropriate diet.
+
+REVIEW OF SYSTEMS:  On full review of systems, he denies any
+current concerns except for occasional difficulty maintaining an
+erection, which he states is not a significant problem for him.
+
+MEDICATIONS:  Lipitor 10 q.d., testosterone q.3. weeks,
+prednisone 5 mg q.a.m. 2.5 mg q.p.m., lisinopril 40 mg q.d., and 
+atenolol 75 mg q.d.
+
+PAST MEDICAL HISTORY:  Panhypopituitarism secondary to
+macroadenoma resection and hypertension.
+
+HEALTH MAINTENANCE:  Last cholesterol level 06/2077, total 171
+with an HDL of 57 and LDL of 86.  The patient has not had a prior
+colonoscopy.  Last PSA was less than assay 1 year ago.
+
+PHYSICAL EXAMINATION:  Well appearing, in no acute distress. 
+Blood pressure elevated at 170/84, heart rate 60.  HEENT:  Pupils
+equal, round, reactive to light.  Extraocular movements are
+intact.  Fundi are benign.  Oropharynx is clear.  Tympanic
+membranes are clear.  Neck:  Shows no lymphadenopathy, no
+thyromegaly.  He does have a 3 x 3 cm cyst on his posterior neck
+that seems to be a lipoma.  JVP is flat.  Carotids are 2+ without
+bruits.  Lungs:  Clear to auscultation bilaterally.  Cardiac: 
+Regular rate and rhythm, S1, S2 normal, positive S4, 1/6 systolic
+murmur at the apex.  Abdomen:  Midline scar status post some type
+of cord resection.  Positive bowel sounds, soft, nontender,
+nondistended, no hepatosplenomegaly.  Aorta is nonpalpable. 
+There are no renal bruits.  Femoral arteries are without bruits. 
+GU:  Testicles appear normal.  Penis appears normal.  Rectal: 
+Guaiac negative brown stool.  Prostate is smooth and nonenlarged.
+ Extremities:  No clubbing, cyanosis or edema.  Normal sensation
+to vibratory in the feet.
+
+ASSESSMENT AND PLAN:  The patient is a very pleasant 77-year-old
+man who is overall doing extremely well except for his
+hypertension which is poorly controlled.  I am unclear as to why
+he stopped his hydrochlorothiazide, but I think that this should
+be restarted as we do not have any further room with his
+lisinopril or atenolol.  He will begin at 25 mg q.d.  I will have
+his electrolytes checked today and come back and see me in 2
+weeks' time for a repeat electrolyte check as well as blood
+pressure check, and further medication adjustment if necessary. 
+We will also check urinalysis for protein as well as an EKG at
+this time given his hypertension.
+
+Hyperlipidemia, on Lipitor.  We will recheck cholesterol today.
+
+Panhypopituitarism.  He seems to be doing well on his medications
+except that he stopped his TSH dose for unclear reasons.  I have
+instructed him to restart his Synthroid and given him new
+prescriptions.  We will recheck thyroid panel at this time.
+
+Health maintenance.  We will check a PSA and schedule a
+colonoscopy today.
+
+He will return to clinic in 2 weeks' time for a BP check.
+
+
+______________________________
+NATHAN WHALEY, M.D.
+
+eScription document:6-3377872
+
+DD: 03/13/79
+DT: 03/14/79
+DV: 03/13/79
+
+========================== Preceptor's Note ==========================
+
+
+
+
+
+========================== Preceptor's Note ==========================
+
+
+
+77 yo man here for fu pmhx of htn, panhypopit . no complaints today. he is taking all his meds except for his hctz. bp is high today. p of 60. plan to resume his hctz, check chol, tsh, psa, colonscopy. pt seen, discussed with resident, plan as above. 
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="during DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M0" start="756" end="774" text="lisinopril 40 q.d." time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M1" start="1468" end="1489" text="lisinopril 40 mg q.d." time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M2" start="3145" end="3155" text="lisinopril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M3" start="756" end="766" text="lisinopril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M4" start="1468" end="1478" text="lisinopril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC1" time="after DCT" type1="statin" type2="">
+      <MEDICATION id="M5" start="829" end="841" text="Lipitor q.d." time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M6" start="1388" end="1403" text="Lipitor 10 q.d." time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M7" start="3514" end="3521" text="Lipitor" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M8" start="829" end="836" text="Lipitor" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M9" start="829" end="836" text="Lipitor" time="after DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC2" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="293" end="305" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="1599" end="1611" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H2" start="2958" end="2970" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H3" start="3480" end="3492" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H4" start="4249" end="4252" text="htn" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H5" start="293" end="305" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H6" start="293" end="305" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <MEDICATION id="DOC3" time="after DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M10" start="756" end="774" text="lisinopril 40 q.d." time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M11" start="1468" end="1489" text="lisinopril 40 mg q.d." time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M12" start="3145" end="3155" text="lisinopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M13" start="756" end="766" text="lisinopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M14" start="1468" end="1478" text="lisinopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC4" time="before DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M15" start="756" end="774" text="lisinopril 40 q.d." time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M16" start="1468" end="1489" text="lisinopril 40 mg q.d." time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M17" start="3145" end="3155" text="lisinopril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M18" start="756" end="766" text="lisinopril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M19" start="1468" end="1478" text="lisinopril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC5" time="before DCT" type1="diuretic" type2="">
+      <MEDICATION id="M20" start="870" end="889" text="hydrochlorothiazide" time="before DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M21" start="849" end="890" text="no longer taking the hydrochlorothiazide " time="before DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M22" start="870" end="889" text="hydrochlorothiazide" time="before DCT" type1="diuretic" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERLIPIDEMIA id="DOC6" time="during DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY0" start="3495" end="3509" text="Hyperlipidemia" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY1" start="3495" end="3509" text="Hyperlipidemia" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY2" start="829" end="836" text="Lipitor" time="during DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <HYPERTENSION id="DOC7" time="during DCT" indicator="high bp">
+      <HYPERTENSION id="H7" start="1861" end="1894" text="Blood pressure elevated at 170/84" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H8" start="1888" end="1894" text="170/84" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H9" start="1888" end="1894" text="170/84" time="during DCT" indicator="high bp" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC8" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H10" start="293" end="305" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H11" start="1599" end="1611" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H12" start="2958" end="2970" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H13" start="3480" end="3492" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H14" start="4249" end="4252" text="htn" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H15" start="293" end="305" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H16" start="293" end="305" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <MEDICATION id="DOC9" time="after DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M23" start="776" end="792" text="atenolol 75 q.d." time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M24" start="1496" end="1514" text="atenolol 75 mg q.d" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M25" start="3159" end="3167" text="atenolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M26" start="776" end="784" text="atenolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M27" start="1496" end="1505" text="atenolol " time="after DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC10" time="before DCT" type1="statin" type2="">
+      <MEDICATION id="M28" start="829" end="841" text="Lipitor q.d." time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M29" start="1388" end="1403" text="Lipitor 10 q.d." time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M30" start="3514" end="3521" text="Lipitor" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M31" start="829" end="836" text="Lipitor" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M32" start="829" end="836" text="Lipitor" time="before DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC11" time="during DCT" type1="statin" type2="">
+      <MEDICATION id="M33" start="829" end="841" text="Lipitor q.d." time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M34" start="1388" end="1403" text="Lipitor 10 q.d." time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M35" start="3514" end="3521" text="Lipitor" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M36" start="829" end="836" text="Lipitor" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M37" start="829" end="836" text="Lipitor" time="during DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <FAMILY_HIST id="DOC12" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <HYPERLIPIDEMIA id="DOC13" time="after DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY3" start="3495" end="3509" text="Hyperlipidemia" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY4" start="3495" end="3509" text="Hyperlipidemia" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY5" start="829" end="836" text="Lipitor" time="after DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <MEDICATION id="DOC14" time="after DCT" type1="diuretic" type2="">
+      <MEDICATION id="M38" start="4370" end="4385" text="resume his hctz" time="after DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M39" start="3038" end="3057" text="hydrochlorothiazide" time="after DCT" type1="diuretic" type2="" comment=""/>
+    </MEDICATION>
+    <SMOKER id="DOC15" status="never">
+      <SMOKER id="S0" start="1106" end="1139" text="continues to abstain from smoking" status="never" comment=""/>
+      <SMOKER id="S1" start="1119" end="1140" text="abstain from smoking " status="never" comment=""/>
+    </SMOKER>
+    <HYPERLIPIDEMIA id="DOC16" time="before DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY6" start="3495" end="3509" text="Hyperlipidemia" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY7" start="3495" end="3509" text="Hyperlipidemia" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY8" start="829" end="836" text="Lipitor" time="before DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <HYPERTENSION id="DOC17" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H17" start="293" end="305" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H18" start="1599" end="1611" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H19" start="2958" end="2970" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H20" start="3480" end="3492" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H21" start="4249" end="4252" text="htn" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H22" start="293" end="305" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H23" start="293" end="305" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <MEDICATION id="DOC18" time="before DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M40" start="776" end="792" text="atenolol 75 q.d." time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M41" start="1496" end="1514" text="atenolol 75 mg q.d" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M42" start="3159" end="3167" text="atenolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M43" start="776" end="784" text="atenolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M44" start="1496" end="1505" text="atenolol " time="before DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC19" time="during DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M45" start="776" end="792" text="atenolol 75 q.d." time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M46" start="1496" end="1514" text="atenolol 75 mg q.d" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M47" start="3159" end="3167" text="atenolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M48" start="776" end="784" text="atenolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M49" start="1496" end="1505" text="atenolol " time="during DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <PHI id="P0" start="16" end="26" text="2079-03-13" TYPE="DATE"/>
+    <PHI id="P1" start="29" end="32" text="HMH" TYPE="HOSPITAL"/>
+    <PHI id="P2" start="75" end="89" text="GEIGER, XANDER" TYPE="PATIENT"/>
+    <PHI id="P3" start="90" end="95" text="Rayne" TYPE="CITY"/>
+    <PHI id="P4" start="97" end="99" text="MI" TYPE="STATE"/>
+    <PHI id="P5" start="142" end="150" text="01729440" TYPE="MEDICALRECORD"/>
+    <PHI id="P6" start="198" end="206" text="03/13/79" TYPE="DATE"/>
+    <PHI id="P7" start="1658" end="1665" text="06/2077" TYPE="DATE"/>
+    <PHI id="P8" start="2891" end="2893" text="77" TYPE="AGE"/>
+    <PHI id="P9" start="3977" end="3990" text="NATHAN WHALEY" TYPE="DOCTOR"/>
+    <PHI id="P10" start="4018" end="4027" text="6-3377872" TYPE="IDNUM"/>
+    <PHI id="P11" start="4033" end="4041" text="03/13/79" TYPE="DATE"/>
+    <PHI id="P12" start="4046" end="4054" text="03/14/79" TYPE="DATE"/>
+    <PHI id="P13" start="4059" end="4067" text="03/13/79" TYPE="DATE"/>
+    <PHI id="P14" start="4219" end="4221" text="77" TYPE="AGE"/>
+  </TAGS>
+</root>

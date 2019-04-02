@@ -1,0 +1,133 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2098-03-31
+
+                     GLENN HELEN EMERGENCY DEPT VISIT
+ 
+VINCENT,ROBERTA J.   380-18-32-2                    VISIT DATE: 03/31/98
+See primarily by Dr. Ulises Collier.  I also saw the patient and 
+reviewed Dr. Collier's history. 
+HISTORY OF PRESENTING COMPLAINT:  This 62 year-old woman comes from 
+dial where she developed substernal chest pain radiating to her 
+left arm near the end of the run.  She also complains of shortness 
+of breath.  She noted some nausea, but no vomiting.  She had no 
+other related symptoms.  She has had no previous history of chest 
+pain.  She was given Nitroglycerin x 3 and this eventually relieved 
+her pain. 
+PAST MEDICAL/SURGICAL HISTORY:  Includes end-stage renal disease, 
+coronary artery disease with a bypass graft but without any chest 
+pain at the time, and insulin dependent diabetes mellitus which may 
+account for her previous cardiac history without chest pain. 
+ALLERGIES:  PENICILLIN AND CODEINE 
+MEDICATIONS:  Aspirin and Xanax. 
+PHYSICAL EXAMINATION:  VITAL SIGNS:  Blood pressure 164/94, pulse 
+94, respirations 24, oxygen saturation 96%.  GENERAL:  The patient 
+is comfortable in no acute distress.  HEAD AND NECK: 
+Normocephalic, atraumatic.  Pupils equal and reactive. Pharynx 
+benign.  Tongue is of normal shape and contour.  Neck is supple. 
+No jugular venous distention.  LUNGS:  Are clear bilaterally. 
+CARDIAC:  Regular rate and rhythm.  S1, S2, with no murmurs, rubs 
+or gallops.  ABDOMEN:  Soft and non-tender with normal bowel 
+sounds.  EXTREMITIES:  No clubbing, cyanosis or edema or rash. 
+NEUROLOGICAL:  Patient is alert and oriented x 3.  She moves all 
+extremities.  Has symmetrical strength and all proximal and distal 
+upper and lower motor bilaterally.  Normal sensation to light touch 
+grossly. 
+LABORATORY:  White blood cell count 9, hematocrit 41.  Glucose was 
+high at 533.  However, she has bicarbonate of 24, so she is 
+probably not in diabetic ketoacidosis.  BUN 31, creatinine 3.8. 
+Troponin-I was 0.5.  Chest x-ray was negative.  Electrocardiogram 
+shows normal sinus rhythm with left ventricular hypertrophy and 
+non-specific ST/T wave changes.  Perhaps some ST depressions in II, 
+III and AVF, and deep S waves in V1, 2, 3, and 4. 
+TREATMENT RENDERED AND COURSE IN ED: In the hospital the patient 
+did not have further chest pain here.  She was admitted for chest 
+pain and for rule out myocardial infarction to the Medical Service. 
+FINAL DIAGNOSIS:  Rule out myocardial infarction 
+DISPOSITION (including condition upon discharge):  Admitted. 
+___________________________________                    FD008/9052 
+STEVE NUTT, M.D.       SN2                         D:03/31/98 
+                                                       T:04/01/98 
+Dictated by:  STEVE NUTT, M.D.       SN2 
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="during DCT" type1="aspirin" type2="">
+      <MEDICATION id="M0" start="985" end="992" text="Aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M1" start="985" end="992" text="Aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M2" start="985" end="992" text="Aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC3" time="after DCT" type1="aspirin" type2="">
+      <MEDICATION id="M3" start="985" end="992" text="Aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M4" start="985" end="992" text="Aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M5" start="985" end="992" text="Aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC4" time="during DCT" type1="nitrate" type2="">
+      <MEDICATION id="M6" start="611" end="624" text="Nitroglycerin" time="during DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M7" start="611" end="624" text="Nitroglycerin" time="during DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M8" start="611" end="625" text="Nitroglycerin " time="during DCT" type1="nitrate" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC10" time="before DCT" type1="aspirin" type2="">
+      <MEDICATION id="M9" start="985" end="992" text="Aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M10" start="985" end="992" text="Aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M11" start="985" end="992" text="Aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC5" time="during DCT" indicator="high bp">
+      <HYPERTENSION id="H0" start="1042" end="1063" text="Blood pressure 164/94" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H1" start="1042" end="1064" text="Blood pressure 164/94," time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H2" start="1057" end="1064" text="164/94," time="during DCT" indicator="high bp" comment=""/>
+    </HYPERTENSION>
+    <CAD id="DOC1" time="after DCT" indicator="mention">
+      <CAD id="C0" start="737" end="760" text="coronary artery disease" time="after DCT" indicator="mention" comment=""/>
+      <CAD id="C1" start="737" end="760" text="coronary artery disease" time="after DCT" indicator="mention" comment=""/>
+      <CAD id="C2" start="737" end="761" text="coronary artery disease " time="after DCT" indicator="mention" comment=""/>
+    </CAD>
+    <CAD id="DOC9" time="during DCT" indicator="mention">
+      <CAD id="C3" start="737" end="760" text="coronary artery disease" time="during DCT" indicator="mention" comment=""/>
+      <CAD id="C4" start="737" end="760" text="coronary artery disease" time="during DCT" indicator="mention" comment=""/>
+      <CAD id="C5" start="611" end="625" text="Nitroglycerin " time="during DCT" indicator="mention" comment=""/>
+      <CAD id="C6" start="737" end="761" text="coronary artery disease " time="during DCT" indicator="mention" comment=""/>
+    </CAD>
+    <CAD id="DOC12" time="before DCT" indicator="event">
+      <CAD id="C7" start="768" end="780" text="bypass graft" time="before DCT" indicator="event" comment=""/>
+      <CAD id="C8" start="767" end="781" text=" bypass graft " time="before DCT" indicator="event" comment=""/>
+    </CAD>
+    <CAD id="DOC13" time="before DCT" indicator="mention">
+      <CAD id="C9" start="737" end="760" text="coronary artery disease" time="before DCT" indicator="mention" comment=""/>
+      <CAD id="C10" start="737" end="760" text="coronary artery disease" time="before DCT" indicator="mention" comment=""/>
+      <CAD id="C11" start="737" end="761" text="coronary artery disease " time="before DCT" indicator="mention" comment=""/>
+    </CAD>
+    <FAMILY_HIST id="DOC8" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC6" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" status="unknown"/>
+      <SMOKER id="S2" start="3" end="9" text="Record" status="unknown" comment=""/>
+    </SMOKER>
+    <DIABETES id="DOC2" time="during DCT" indicator="mention">
+      <DIABETES id="D0" start="826" end="861" text="insulin dependent diabetes mellitus" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D1" start="843" end="861" text=" diabetes mellitus" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D2" start="844" end="853" text="diabetes " time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC7" time="before DCT" indicator="mention">
+      <DIABETES id="D3" start="826" end="861" text="insulin dependent diabetes mellitus" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D4" start="843" end="861" text=" diabetes mellitus" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D5" start="844" end="853" text="diabetes " time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC11" time="after DCT" indicator="mention">
+      <DIABETES id="D6" start="826" end="861" text="insulin dependent diabetes mellitus" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D7" start="843" end="861" text=" diabetes mellitus" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D8" start="844" end="853" text="diabetes " time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+  </TAGS>
+</root>

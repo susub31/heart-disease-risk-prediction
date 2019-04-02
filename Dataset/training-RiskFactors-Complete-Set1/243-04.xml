@@ -1,0 +1,260 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2082-08-01
+
+
+
+
+
+
+
+OSBORNE, MATTISON
+
+48423663
+
+08/01/2082
+
+
+
+
+
+Willie Knapp, M.D.
+
+Johnson Family Vision Care
+
+0529 Governors Lane
+
+Oroville, AL  89389
+
+
+
+Dear Dr. Knapp:
+
+
+
+It was our pleasure to care for Mr. Osborne to help with his decompensated heart failure.  He was admitted on 07/23/2082, one month after previous admission for abdominal pain.  In retrospect, that admission may have been related in part to GI symptoms of heart failure.  He came in complaining of continued GI discomfort, orthopnea, lower extremity edema, and 9 pounds of weight gain with increasing abdominal girth.  His medications at the time of admission included beta-blockers and ACE inhibitors for hypertension, with no diuretics.
+
+
+
+During his hospitalization, he underwent 7.5 kilograms of diuresis with resolution of his jugular venous pressure from approximately 25 cm to 8 cm.  His echocardiogram showed an ejection fraction of approximately 20% with LV dimension of 5.1, enlarged right ventricle with mild decrease in RV function, but severe RV pressure overload with estimated PA pressure 80 plus the right atrial pressure.  After he had his diuresis, he underwent right heart catheterization, which revealed a right atrial pressure of 8, pulmonary capillary wedge pressure of 18, PA pressure of 65/35.  He underwent a trial with IV nitroglycerin, then with sildenafil.  The IV nitroglycerin decreased his BLANK pressures only by approximately 8-10 mm but he noted a further improvement in his dyspnea.  There was no clear improvement with the sildenafil in either his symptoms or hemodynamics.  His cardiac output varied between 3.1 and 4.5 on all the medications.  The decision was just to put him on oral nitroglycerin in addition to the other standard heart failure medications.  He also underwent a MIBI looking for any evidence of active ischemia, which there was none.
+
+
+
+At the time of discharge, he is walking easily without postural change or symptoms.  His medications are Isordil 10 t.i.d., Lasix 40 mg p.o. b.i.d.  He is on Toprol-XL 12.5 daily.  His lisinopril was decreased from 40 mg to 20 mg, but should he have any problems with hypotension, this could certainly be decreased further to 10 or even 5 mg if necessary to allow him comfortable ambulation.  He is on Plavix 75 mg daily as well and simvastatin 40.  His discharge blood pressure is 102/60, jugular venous pressure is 8-9 cm.  His creatinine is 1.3 with a BUN of 44, hematocrit 40, white blood count 5000, potassium 3.9, sodium 139.
+
+
+
+It has been my great pleasure to participate in his care.  He is trying very hard to learn how to manage his disease at home, with the help of his family.  We have emphasized not only the salt restriction but also a fluid restriction to 2 liters a day, which includes all fluids,   We would encourage him to resume his daily exercise such as walking.  He has an appointment to see Dr. Anderson on 08/20/2081, and is looking forward to returning to your care. 
+
+
+
+ I would be happy to answer any further questions about it.
+
+
+
+Sincerely,
+
+
+
+
+
+______________________________
+
+Ursula Michael Troyer, MD
+
+
+
+
+
+
+
+
+
+
+
+eScription document:3-8959007 IFFocus
+
+
+
+CC: Forrest T. Anderson M.D.
+
+23 Azalea Lane
+
+Cardiovascular Division
+
+Scottsville, AL 99112
+
+
+
+
+
+DD: 08/01/82
+
+DT: 08/01/82
+
+DV: 08/01/82
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="during DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M0" start="677" end="691" text="ACE inhibitors" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M1" start="2069" end="2079" text="lisinopril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M2" start="2069" end="2079" text="lisinopril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M3" start="2069" end="2079" text="lisinopril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M4" start="2069" end="2079" text="lisinopril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC1" time="before DCT" type1="statin" type2="">
+      <MEDICATION id="M5" start="2317" end="2328" text="simvastatin" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M6" start="2317" end="2328" text="simvastatin" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M7" start="2317" end="2328" text="simvastatin" time="before DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC2" time="during DCT" type1="statin" type2="">
+      <MEDICATION id="M8" start="2317" end="2328" text="simvastatin" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M9" start="2317" end="2328" text="simvastatin" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M10" start="2317" end="2328" text="simvastatin" time="during DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC3" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="696" end="708" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="696" end="708" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H2" start="696" end="708" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H3" start="696" end="708" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <MEDICATION id="DOC4" time="after DCT" type1="statin" type2="">
+      <MEDICATION id="M11" start="2317" end="2328" text="simvastatin" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M12" start="2317" end="2328" text="simvastatin" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M13" start="2317" end="2328" text="simvastatin" time="after DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC5" time="before DCT" type1="nitrate" type2="">
+      <MEDICATION id="M14" start="1335" end="1351" text="IV nitroglycerin" time="before DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M15" start="1989" end="1996" text="Isordil" time="before DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M16" start="1338" end="1351" text="nitroglycerin" time="before DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M17" start="1989" end="1996" text="Isordil" time="before DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M18" start="1989" end="1996" text="Isordil" time="before DCT" type1="nitrate" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC6" time="during DCT" type1="thienopyridine" type2="">
+      <MEDICATION id="M19" start="2286" end="2292" text="Plavix" time="during DCT" type1="thienopyridine" type2="" comment=""/>
+      <MEDICATION id="M20" start="2286" end="2292" text="Plavix" time="during DCT" type1="thienopyridine" type2="" comment=""/>
+      <MEDICATION id="M21" start="2286" end="2292" text="Plavix" time="during DCT" type1="thienopyridine" type2="" comment=""/>
+      <MEDICATION id="M22" start="2286" end="2292" text="Plavix" time="during DCT" type1="thienopyridine" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC7" time="before DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M23" start="677" end="691" text="ACE inhibitors" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M24" start="2069" end="2079" text="lisinopril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M25" start="2069" end="2079" text="lisinopril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M26" start="677" end="691" text="ACE inhibitors" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M27" start="2069" end="2079" text="lisinopril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M28" start="2069" end="2079" text="lisinopril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC8" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H4" start="696" end="708" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H5" start="696" end="708" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H6" start="696" end="708" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H7" start="696" end="708" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <MEDICATION id="DOC9" time="before DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M29" start="659" end="672" text="beta-blockers" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M30" start="2042" end="2051" text="Toprol-XL" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M31" start="2042" end="2051" text="Toprol-XL" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M32" start="659" end="672" text="beta-blockers" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M33" start="2042" end="2051" text="Toprol-XL" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M34" start="2042" end="2051" text="Toprol-XL" time="before DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC10" time="after DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M35" start="677" end="691" text="ACE inhibitors" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M36" start="2069" end="2079" text="lisinopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M37" start="2069" end="2079" text="lisinopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M38" start="2069" end="2079" text="lisinopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M39" start="2069" end="2079" text="lisinopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC11" time="before DCT" type1="thienopyridine" type2="">
+      <MEDICATION id="M40" start="2286" end="2292" text="Plavix" time="before DCT" type1="thienopyridine" type2="" comment=""/>
+      <MEDICATION id="M41" start="2286" end="2292" text="Plavix" time="before DCT" type1="thienopyridine" type2="" comment=""/>
+      <MEDICATION id="M42" start="2286" end="2292" text="Plavix" time="before DCT" type1="thienopyridine" type2="" comment=""/>
+      <MEDICATION id="M43" start="2286" end="2292" text="Plavix" time="before DCT" type1="thienopyridine" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC12" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H8" start="696" end="708" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H9" start="696" end="708" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H10" start="696" end="708" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H11" start="696" end="708" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <MEDICATION id="DOC13" time="after DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M44" start="659" end="672" text="beta-blockers" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M45" start="2042" end="2051" text="Toprol-XL" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M46" start="2042" end="2051" text="Toprol-XL" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M47" start="2042" end="2051" text="Toprol-XL" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M48" start="2042" end="2051" text="Toprol-XL" time="after DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <SMOKER id="DOC14" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" status="unknown"/>
+      <SMOKER id="S2" status="unknown"/>
+      <SMOKER id="S3" status="unknown"/>
+    </SMOKER>
+    <MEDICATION id="DOC15" time="during DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M49" start="659" end="672" text="beta-blockers" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M50" start="2042" end="2051" text="Toprol-XL" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M51" start="2042" end="2051" text="Toprol-XL" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M52" start="2042" end="2051" text="Toprol-XL" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M53" start="2042" end="2051" text="Toprol-XL" time="during DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC16" time="after DCT" type1="nitrate" type2="">
+      <MEDICATION id="M54" start="1989" end="1996" text="Isordil" time="after DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M55" start="1713" end="1726" text="nitroglycerin" time="after DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M56" start="1989" end="1996" text="Isordil" time="after DCT" type1="nitrate" type2="" comment="I believe this is the oral nitrate they were talking about starting at dc"/>
+      <MEDICATION id="M57" start="1989" end="1996" text="Isordil" time="after DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M58" start="1989" end="1996" text="Isordil" time="after DCT" type1="nitrate" type2="" comment=""/>
+    </MEDICATION>
+    <FAMILY_HIST id="DOC17" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+      <FAMILY_HIST id="F3" indicator="not present"/>
+    </FAMILY_HIST>
+    <MEDICATION id="DOC18" time="during DCT" type1="nitrate" type2="">
+      <MEDICATION id="M59" start="1989" end="1996" text="Isordil" time="during DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M60" start="1338" end="1351" text="nitroglycerin" time="during DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M61" start="1989" end="1996" text="Isordil" time="during DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M62" start="1383" end="1396" text="nitroglycerin" time="during DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M63" start="1338" end="1351" text="nitroglycerin" time="during DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M64" start="1713" end="1726" text="nitroglycerin" time="during DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M65" start="1989" end="1996" text="Isordil" time="during DCT" type1="nitrate" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC19" time="after DCT" type1="thienopyridine" type2="">
+      <MEDICATION id="M66" start="2286" end="2292" text="Plavix" time="after DCT" type1="thienopyridine" type2="" comment=""/>
+      <MEDICATION id="M67" start="2286" end="2292" text="Plavix" time="after DCT" type1="thienopyridine" type2="" comment=""/>
+      <MEDICATION id="M68" start="2286" end="2292" text="Plavix" time="after DCT" type1="thienopyridine" type2="" comment=""/>
+      <MEDICATION id="M69" start="2286" end="2292" text="Plavix" time="after DCT" type1="thienopyridine" type2="" comment=""/>
+    </MEDICATION>
+    <PHI id="P0" start="16" end="26" text="2082-08-01" TYPE="DATE"/>
+    <PHI id="P1" start="34" end="51" text="OSBORNE, MATTISON" TYPE="PATIENT"/>
+    <PHI id="P2" start="53" end="61" text="48423663" TYPE="MEDICALRECORD"/>
+    <PHI id="P3" start="63" end="73" text="08/01/2082" TYPE="DATE"/>
+    <PHI id="P4" start="79" end="91" text="Willie Knapp" TYPE="DOCTOR"/>
+    <PHI id="P5" start="99" end="125" text="Johnson Family Vision Care" TYPE="HOSPITAL"/>
+    <PHI id="P6" start="127" end="146" text="0529 Governors Lane" TYPE="STREET"/>
+    <PHI id="P7" start="148" end="156" text="Oroville" TYPE="CITY"/>
+    <PHI id="P8" start="158" end="160" text="AL" TYPE="STATE"/>
+    <PHI id="P9" start="162" end="167" text="89389" TYPE="ZIP"/>
+    <PHI id="P10" start="180" end="185" text="Knapp" TYPE="DOCTOR"/>
+    <PHI id="P11" start="226" end="233" text="Osborne" TYPE="PATIENT"/>
+    <PHI id="P12" start="300" end="310" text="07/23/2082" TYPE="DATE"/>
+    <PHI id="P13" start="2904" end="2912" text="Anderson" TYPE="DOCTOR"/>
+    <PHI id="P14" start="2916" end="2926" text="08/20/2081" TYPE="DATE"/>
+    <PHI id="P15" start="3093" end="3114" text="Ursula Michael Troyer" TYPE="DOCTOR"/>
+    <PHI id="P16" start="3150" end="3159" text="3-8959007" TYPE="IDNUM"/>
+    <PHI id="P17" start="3175" end="3194" text="Forrest T. Anderson" TYPE="DOCTOR"/>
+    <PHI id="P18" start="3201" end="3215" text="23 Azalea Lane" TYPE="STREET"/>
+    <PHI id="P19" start="3242" end="3253" text="Scottsville" TYPE="CITY"/>
+    <PHI id="P20" start="3255" end="3257" text="AL" TYPE="STATE"/>
+    <PHI id="P21" start="3258" end="3263" text="99112" TYPE="ZIP"/>
+    <PHI id="P22" start="3273" end="3281" text="08/01/82" TYPE="DATE"/>
+    <PHI id="P23" start="3287" end="3295" text="08/01/82" TYPE="DATE"/>
+    <PHI id="P24" start="3301" end="3309" text="08/01/82" TYPE="DATE"/>
+  </TAGS>
+</root>

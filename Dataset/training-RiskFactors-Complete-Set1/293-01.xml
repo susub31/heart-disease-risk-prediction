@@ -1,0 +1,150 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2076-12-15
+
+                     STONYBROOK EMERGENCY DEPT VISIT
+
+ 
+
+QUINLEY,CORA   759-87-55-2                         VISIT DATE: 12/15/76
+
+This patient was seen by me in the emergency department on  
+
+December 15, 2076, with the resident.  Resident's note reviewed.  
+
+Patient interviewed and examined by me.  See resident's note for 
+
+further details.  Past medical history, social history, and family 
+
+history all reviewed and confirmed with the resident's note. 
+
+HISTORY OF PRESENTING COMPLAINT:  The patient is a pleasant 
+
+70-year-old female who comes in with substernal chest pressure, a 
+
+tightness involving her upper back also, two distinct discomforts.  
+
+There are no exertional symptoms, no nausea, no vomiting, no 
+
+diarrhea, no abdominal pain, and no palpitations.  The patient does 
+
+report some mild shortness of breath.  The chest pressure is not 
+
+acute in onset.  There is no exacerbation with activity.  She had a 
+
+negative exercise tolerance test four years ago.  Since being here, 
+
+she has received some improvement in her symptoms after 
+
+nitroglycerin.  She has no known coronary disease.
+
+PAST MEDICAL HISTORY:  Atrial fibrillation and insulin-dependent 
+
+diabetes mellitus.
+
+SOCIAL HISTORY AND FAMILY HISTORY:  The patient is an active smoker 
+
+and lives alone.  No family history.
+
+PHYSICAL EXAMINATION:  Patient is hemodynamically stable, nontoxic, 
+
+well appearing, resting comfortably.  NECK:  No jugulovenous 
+
+distention.  LUNGS:  Clear.  HEART:  Regular rate and rhythm.  
+
+ABDOMEN:  Soft.  NEUROLOGIC:  Nonfocal.
+
+LABORATORY EVALUATION:  White count is 7.8, hematocrit 41.  Normal 
+
+electrolyte panel.  Troponin I is 0.3 which is elevated.  CK is 160 
+
+which is normal.  The EKG shows some flattening T wave laterally 
+
+which is old.  A chest x-ray shows no effusion, infiltrate, or 
+
+pneumothorax.
+
+THERAPY RENDERED/COURSE IN ED:  The patient has a positive troponin 
+
+here and will be admitted.  She will be heparinized __________ 
+
+started.  See resident's note for details.
+
+FINAL DIAGNOSES:  
+
+1.  Rule out myocardial infarction.
+
+2.  Chest tightness.
+
+DISPOSITION (including condition upon discharge):  The patient was 
+
+admitted to the hospital in stable condition.
+
+___________________________________                    ID374/80829 
+
+CHRISTOPHER QUINTOS, M.D.       CQ07                         D:12/15/76 
+
+                                                       T:12/15/76 
+
+Dictated by:  CHRISTOPHER QUINTOS, M.D.       CQ07 
+
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <DIABETES id="DOC0" time="before DCT" indicator="mention">
+      <DIABETES id="D0" start="1184" end="1221" text="insulin-dependent   diabetes mellitus" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D1" start="1204" end="1212" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D2" start="1184" end="1221" text="insulin-dependent   diabetes mellitus" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <SMOKER id="DOC1" status="current">
+      <SMOKER id="S0" start="1278" end="1292" text="active smoker " status="current" comment=""/>
+      <SMOKER id="S1" start="1278" end="1291" text="active smoker" status="current" comment=""/>
+      <SMOKER id="S2" start="1278" end="1292" text="active smoker " status="current" comment=""/>
+    </SMOKER>
+    <FAMILY_HIST id="DOC2" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <DIABETES id="DOC3" time="during DCT" indicator="mention">
+      <DIABETES id="D3" start="1184" end="1221" text="insulin-dependent   diabetes mellitus" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D4" start="1204" end="1212" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D5" start="1184" end="1221" text="insulin-dependent   diabetes mellitus" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <CAD id="DOC4" time="during DCT" indicator="symptom">
+      <CAD id="C0" start="586" end="611" text="substernal chest pressure" time="during DCT" indicator="symptom" comment=""/>
+      <CAD id="C1" start="585" end="611" text=" substernal chest pressure" time="during DCT" indicator="symptom" comment=""/>
+    </CAD>
+    <DIABETES id="DOC5" time="after DCT" indicator="mention">
+      <DIABETES id="D6" start="1184" end="1221" text="insulin-dependent   diabetes mellitus" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D7" start="1204" end="1212" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D8" start="1184" end="1221" text="insulin-dependent   diabetes mellitus" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <MEDICATION id="DOC6" time="during DCT" type1="nitrate" type2="">
+      <MEDICATION id="M0" start="1085" end="1098" text="nitroglycerin" time="during DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M1" start="1085" end="1098" text="nitroglycerin" time="during DCT" type1="nitrate" type2="" comment=""/>
+    </MEDICATION>
+    <PHI id="P0" start="16" end="26" text="2076-12-15" TYPE="DATE"/>
+    <PHI id="P1" start="49" end="59" text="STONYBROOK" TYPE="HOSPITAL"/>
+    <PHI id="P2" start="85" end="97" text="QUINLEY,CORA" TYPE="PATIENT"/>
+    <PHI id="P3" start="100" end="111" text="759-87-55-2" TYPE="MEDICALRECORD"/>
+    <PHI id="P4" start="148" end="156" text="12/15/76" TYPE="DATE"/>
+    <PHI id="P5" start="220" end="237" text="December 15, 2076" TYPE="DATE"/>
+    <PHI id="P6" start="549" end="551" text="70" TYPE="AGE"/>
+    <PHI id="P7" start="2286" end="2297" text="ID374/80829" TYPE="IDNUM"/>
+    <PHI id="P8" start="2300" end="2319" text="CHRISTOPHER QUINTOS" TYPE="DOCTOR"/>
+    <PHI id="P9" start="2332" end="2336" text="CQ07" TYPE="USERNAME"/>
+    <PHI id="P10" start="2363" end="2371" text="12/15/76" TYPE="DATE"/>
+    <PHI id="P11" start="2431" end="2439" text="12/15/76" TYPE="DATE"/>
+    <PHI id="P12" start="2456" end="2475" text="CHRISTOPHER QUINTOS" TYPE="DOCTOR"/>
+    <PHI id="P13" start="2488" end="2492" text="CQ07" TYPE="USERNAME"/>
+  </TAGS>
+</root>

@@ -1,0 +1,200 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2091-07-24
+
+
+
+Visit Note
+
+
+Patient Name: JUSTUS, QUIANA                       MRN: 9814048
+Dictated Date: 07/27/2091                      Dictated By: Ida Xayachack, M.D.
+
+
+Date of Visit: 07/24/2091
+
+
+
+
+The patient is a 79-year-old woman with a history of diabetes, hypertension, coronary artery disease who comes in today for followup. Please see the recent note from cardiology from 06/27/2091. She is status post stenting in 03/2091 and 06/2091. Post her second procedure she also had a large hematoma which has been gradually resolving. 
+
+
+She has type 2 diabetes and her fasting sugars have been very well controlled. She is currently on metformin 1000 mg b.i.d. and glyburide 5 mg b.i.d. She is trying to watch her diet and salt intake. She has not had any symptoms of hypoglycemia. She had lost some weight after her first heart attack but her weight has been stable. 
+
+
+Her lisinopril was recently increased by cardiology. She has no exertional chest pain, PND, orthopnea, edema, or claudication. 
+
+
+She has a history of iron deficiency anemia and had refused colonoscopies in the past. At the time of her heart attack she had been intubated and had some coffee grounds noted and also required a blood transfusion. She has not noted any epigastric pain, abdominal pain, melena, or hematochezia. She does take her iron supplements and her stools are dark on the iron supplements. I had discussed with patient and daughter several times that she should get a colonoscopy to evaluate her guaiac iron deficiency anemia but she continues to refuse one. 
+
+
+Also noted on her admissions was that she had a lung nodule and possible pancreatic mass on CT from 03/2091 and 06/2091. She should get a repeat CT in 12/2091. 
+
+
+She is not having any abdominal pain. 
+
+
+She has chronic back pain and osteoarthritis pain. Of note she also had elevated parathyroid levels in the past but refuses to see Endocrinology either in Fayetteville or at United Methodist Behavioral Hospital. 
+
+
+Please see her medication list which was reviewed with the patient and her daughter. 
+
+
+PHYSICAL EXAMINATION: She is in no acute distress. Blood pressure 132/70. Neck: Supple without JVD or bruits. Lungs: Clear without wheezes, rales, or rhonchi. Cardiac: Rate regularly regular, normal S1 and S2. No S3, S4 or bruits. Abdomen: Mildly obese, soft, nontender. She still has some residual hematoma near her right groin. She has a left femoral artery bruit. The hematoma has significantly decreased in size compared to prior visit. No CCE. Distal pulses intact. 
+
+
+1. Coronary artery disease. She has no symptoms of decompensated heart failure on her current regimen. Her blood pressure is well controlled with the recent increase in the lisinopril from 20 to 40 mg daily. Check Chem-7. 
+
+
+Hypomagnesemia. Check followup magnesium level. 
+
+
+Type 2 diabetes. Her last hemoglobin A1c was 6.1 which is excellent. Continue current medications. 
+Iron deficiency anemia. She should have a colonoscopy +/- an upper endoscopy but she declines these procedures. She is aware that we have not ruled out colon cancer or adenomatous colonic polyps or other cause for her iron deficiency anemia. Check CBC. 
+
+
+History of lung nodule and possible pancreatic mass versus IPMN. These were both stable on imaging from 03/2091 and 06/2091. She needs repeat imaging in 6 months. She will follow up with me in 10/2091 so we can get a flu shot and schedule these procedures. 
+
+
+
+
+___________________________
+Ida Xayachack, M.D.
+
+
+
+
+
+
+cc:
+
+
+
+
+
+
+TD: 07/28/2091 04:38:30
+TR: 7999590
+BackJob ID:  411287
+VoiceJob ID:  17480048
+
+
+
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <OBESE id="DOC17" time="during DCT" indicator="mention">
+      <OBESE id="O0" start="2329" end="2334" text="obese" time="during DCT" indicator="mention" comment=""/>
+      <OBESE id="O1" start="2329" end="2334" text="obese" time="during DCT" indicator="mention" comment=""/>
+    </OBESE>
+    <MEDICATION id="DOC0" time="during DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M0" start="898" end="908" text="lisinopril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M1" start="898" end="908" text="lisinopril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC1" time="after DCT" type1="metformin" type2="">
+      <MEDICATION id="M2" start="659" end="668" text="metformin" time="after DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M3" start="659" end="668" text="metformin" time="after DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M4" start="659" end="668" text="metformin" time="after DCT" type1="metformin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC2" time="during DCT" type1="metformin" type2="">
+      <MEDICATION id="M5" start="659" end="668" text="metformin" time="during DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M6" start="659" end="668" text="metformin" time="during DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M7" start="659" end="668" text="metformin" time="during DCT" type1="metformin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC4" time="after DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M8" start="898" end="908" text="lisinopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M9" start="898" end="908" text="lisinopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC7" time="after DCT" type1="sulfonylureas" type2="">
+      <MEDICATION id="M10" start="688" end="697" text="glyburide" time="after DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M11" start="688" end="697" text="glyburide" time="after DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M12" start="688" end="697" text="glyburide" time="after DCT" type1="sulfonylureas" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC8" time="during DCT" type1="sulfonylureas" type2="">
+      <MEDICATION id="M13" start="688" end="697" text="glyburide" time="during DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M14" start="688" end="697" text="glyburide" time="during DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M15" start="688" end="697" text="glyburide" time="during DCT" type1="sulfonylureas" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC12" time="before DCT" type1="metformin" type2="">
+      <MEDICATION id="M16" start="659" end="668" text="metformin" time="before DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M17" start="659" end="668" text="metformin" time="before DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M18" start="659" end="668" text="metformin" time="before DCT" type1="metformin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC13" time="before DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M19" start="898" end="908" text="lisinopril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M20" start="898" end="908" text="lisinopril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC18" time="before DCT" type1="sulfonylureas" type2="">
+      <MEDICATION id="M21" start="688" end="697" text="glyburide" time="before DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M22" start="688" end="697" text="glyburide" time="before DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M23" start="688" end="697" text="glyburide" time="before DCT" type1="sulfonylureas" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC3" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="282" end="294" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="282" end="294" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H2" start="282" end="294" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC9" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H3" start="282" end="294" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H4" start="282" end="294" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H5" start="282" end="294" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC19" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H6" start="282" end="294" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H7" start="282" end="294" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H8" start="282" end="294" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <CAD id="DOC11" time="after DCT" indicator="mention">
+      <CAD id="C0" start="295" end="319" text=" coronary artery disease" time="after DCT" indicator="mention" comment=""/>
+      <CAD id="C1" start="296" end="319" text="coronary artery disease" time="after DCT" indicator="mention" comment=""/>
+      <CAD id="C2" start="296" end="319" text="coronary artery disease" time="after DCT" indicator="mention" comment=""/>
+    </CAD>
+    <CAD id="DOC14" time="during DCT" indicator="mention">
+      <CAD id="C3" start="295" end="319" text=" coronary artery disease" time="during DCT" indicator="mention" comment=""/>
+      <CAD id="C4" start="296" end="319" text="coronary artery disease" time="during DCT" indicator="mention" comment=""/>
+      <CAD id="C5" start="296" end="319" text="coronary artery disease" time="during DCT" indicator="mention" comment=""/>
+    </CAD>
+    <CAD id="DOC16" time="before DCT" indicator="event">
+      <CAD id="C6" start="419" end="464" text=" status post stenting in 03/2091 and 06/2091." time="before DCT" indicator="event" comment=""/>
+      <CAD id="C7" start="432" end="440" text="stenting" time="before DCT" indicator="event" comment=""/>
+      <CAD id="C8" start="432" end="440" text="stenting" time="before DCT" indicator="event" comment=""/>
+    </CAD>
+    <CAD id="DOC21" time="before DCT" indicator="mention">
+      <CAD id="C9" start="295" end="319" text=" coronary artery disease" time="before DCT" indicator="mention" comment=""/>
+      <CAD id="C10" start="296" end="319" text="coronary artery disease" time="before DCT" indicator="mention" comment=""/>
+      <CAD id="C11" start="296" end="319" text="coronary artery disease" time="before DCT" indicator="mention" comment=""/>
+    </CAD>
+    <FAMILY_HIST id="DOC20" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC10" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" status="unknown"/>
+      <SMOKER id="S2" start="3" end="9" text="Record" status="unknown" comment=""/>
+    </SMOKER>
+    <DIABETES id="DOC5" time="after DCT" indicator="mention">
+      <DIABETES id="D0" start="272" end="280" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D1" start="272" end="280" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D2" start="272" end="280" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC6" time="during DCT" indicator="mention">
+      <DIABETES id="D3" start="272" end="280" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D4" start="272" end="280" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D5" start="272" end="280" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC15" time="before DCT" indicator="mention">
+      <DIABETES id="D6" start="272" end="280" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D7" start="272" end="280" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D8" start="272" end="280" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+  </TAGS>
+</root>

@@ -1,0 +1,161 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2097-08-11
+
+EDVISIT^29964344^WHITAKER, VINCENT^08/11/97^TRAN, FREDDY
+
+I confirm that I have interviewed and examined the patient,
+
+reviewed the resident's documentation on the patient's chart, and
+
+discussed the evaluation, plan of care, and disposition with the
+
+patient and the resident, Dr. Nieto.  Please see her note for
+
+full details.
+
+HISTORY OF PRESENT ILLNESS:  The patient is a 65-year-old
+
+gentleman with significant past medical history of hypertension;
+
+diabetes; AFib; CHF; chronic renal insufficiency; end-stage renal
+
+disease on hemodialysis Monday, Wednesday and Friday; history
+
+of PE and cardiac arrest as well as bacteremia who presents with
+
+cough, weakness, chest pain, and palpitations.  At dialysis he
+
+was found coughing and was sent here via ambulance.  He notes
+
+decreased appetite.  He denies any fevers.  He has noted some
+
+chills, some sweats, and some shortness of breath.
+
+PHYSICAL EXAMINATION:  He is slow.  Temperature 95.9, pulse 89,
+
+respiratory rate 18, blood pressure 180/71, and saturation is 95%
+
+on 2 liters.  He looks dyspneic, dehydrated with neck that is
+
+supple.  No rales, rhonchi, or wheezing.  Heart is regular
+
+without a murmur.  Abdomen is soft, nontender, and nondistended. 
+
+Skin is intact.  He has 2+ pedal edema.  He appears to be
+
+lethargic but no focal neurologically.
+
+LABORATORY DATA:  Review of his blood work shows a BUN of 31,
+
+creatinine of 6.07, sodium of 139, potassium of 5.6 and
+
+bicarbonate of 32.  LFTs are normal.  Lipase is 63.  BNP is 501. 
+
+Lactic acid is 3.  Troponin is 0.04.  White count 5, hematocrit
+
+42, and INR 2.  Chest x-ray shows cardiomegaly, no acute
+
+pneumonia.  An EKG with rate 106, normal ST-T changes.
+
+EMERGENCY DEPARTMENT COURSE:  The patient was covered empirically
+
+with vancomycin, ceftazidime, given gentle IV fluid bolus and is
+
+being admitted to Renal Medicine.  At this time, he is
+
+hemodynamically stable.
+
+PRIMARY DIAGNOSIS:  Weakness, end-stage renal disease, and
+
+possible early infection including bacteremia.
+
+______________________________
+
+TRAN, FREDDY M.D.
+
+D: 08/11/97
+
+T: 08/11/97
+
+Dictated By: TRAN, FREDDY
+
+eScription document:1-0225776 BFFocus
+
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <DIABETES id="DOC0" time="before DCT" indicator="mention">
+      <DIABETES id="D0" start="483" end="491" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D1" start="483" end="491" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D2" start="483" end="491" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <HYPERTENSION id="DOC1" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="467" end="480" text=" hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="468" end="480" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H2" start="468" end="480" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <CAD id="DOC2" time="before DCT" indicator="event">
+      <CAD id="C0" start="623" end="638" text="cardiac arrest " time="before DCT" indicator="event" comment=""/>
+      <CAD id="C1" start="623" end="637" text="cardiac arrest" time="before DCT" indicator="event" comment=""/>
+    </CAD>
+    <HYPERTENSION id="DOC3" time="during DCT" indicator="high bp">
+      <HYPERTENSION id="H3" start="1022" end="1028" text="180/71" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H4" start="1022" end="1029" text="180/71," time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H5" start="1007" end="1027" text="blood pressure 180/7" time="during DCT" indicator="high bp" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC4" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H6" start="467" end="480" text=" hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H7" start="468" end="480" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H8" start="468" end="480" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <DIABETES id="DOC5" time="during DCT" indicator="mention">
+      <DIABETES id="D3" start="483" end="491" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D4" start="483" end="491" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D5" start="483" end="491" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <HYPERTENSION id="DOC6" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H9" start="467" end="480" text=" hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H10" start="468" end="480" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H11" start="468" end="480" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <FAMILY_HIST id="DOC7" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC8" status="unknown">
+      <SMOKER id="S0" start="3" end="9" text="Record" status="unknown" comment=""/>
+      <SMOKER id="S1" status="unknown"/>
+      <SMOKER id="S2" status="unknown"/>
+    </SMOKER>
+    <DIABETES id="DOC9" time="after DCT" indicator="mention">
+      <DIABETES id="D6" start="483" end="491" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D7" start="483" end="491" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D8" start="483" end="491" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <PHI id="P0" start="16" end="26" text="2097-08-11" TYPE="DATE"/>
+    <PHI id="P1" start="36" end="44" text="29964344" TYPE="MEDICALRECORD"/>
+    <PHI id="P2" start="45" end="62" text="WHITAKER, VINCENT" TYPE="PATIENT"/>
+    <PHI id="P3" start="63" end="71" text="08/11/97" TYPE="DATE"/>
+    <PHI id="P4" start="72" end="84" text="TRAN, FREDDY" TYPE="DOCTOR"/>
+    <PHI id="P5" start="310" end="315" text="Nieto" TYPE="DOCTOR"/>
+    <PHI id="P6" start="404" end="406" text="65" TYPE="AGE"/>
+    <PHI id="P7" start="574" end="580" text="Monday" TYPE="DATE"/>
+    <PHI id="P8" start="582" end="591" text="Wednesday" TYPE="DATE"/>
+    <PHI id="P9" start="596" end="602" text="Friday" TYPE="DATE"/>
+    <PHI id="P10" start="2062" end="2074" text="TRAN, FREDDY" TYPE="DOCTOR"/>
+    <PHI id="P11" start="2084" end="2092" text="08/11/97" TYPE="DATE"/>
+    <PHI id="P12" start="2097" end="2105" text="08/11/97" TYPE="DATE"/>
+    <PHI id="P13" start="2120" end="2132" text="TRAN, FREDDY" TYPE="DOCTOR"/>
+    <PHI id="P14" start="2154" end="2163" text="1-0225776" TYPE="IDNUM"/>
+  </TAGS>
+</root>

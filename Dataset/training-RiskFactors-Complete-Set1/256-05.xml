@@ -1,0 +1,150 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2154-07-21
+
+
+	CARDIOLOGY
+	
+
+	VALLEY COUNTY HOSPITAL
+	
+
+Eva  Newby M.D. 
+Valley County Hospital
+____
+,  
+
+Dear Dr. Newby:
+
+  I was happy to see Michelle Klein (2474410: DOB August 6, 2075) who comes along with her husband, Nathaniel, for follow up cardiac evaluation. Michelle has been stable from a cardiac point of view. She has coronary artery disease and underwent LAD stent placement in 2148. She had negative stress sestamibi study in November 2151. She has been free of angina or cardiac-related symptoms. She notes occasional orthostatic dizziness. Her prior stamina symptoms have improved greatly. She has well-controlled hypertension on stable medical regimen. Her recent diagnosis of myelofibrosis has been followed through closely by her hematology group here at Valley County and we have discussed this at length. Michelle feels far better than at her last several visits and I am very happy to see this.
+
+On clinical exam, blood pressure right arm is 130/80 mmHg, pulses are equal, normal and all well felt. First heart sound is normal to soft. Second is normal. There is a 1+/6 systolic apical murmur. No diastolic murmurs are present. No cyanosis, clubbing or edema. Thyroid is postoperative and stable. Neck veins are flat. Carotid upstrokes are normal. Lungs are clear. Abdominal exam is normal. I do not feel enlargement of the abdominal aorta.
+
+The electrocardiogram is unchanged. It continues to show minimal nonspecific ST flattening and left atrial prominence.
+
+Medications: Michelle no longer takes the verapamil, atenolol 50 mg per day, Lipitor 10 mg per day, Diovan 40 mg daily, Protonix 40 mg b.i.d., Synthroid 1.12 mg per day, vitamin B12 500 mg, B6 100 mg, magnesium 400 mg per day, and D3 2000 IU per day.
+
+If there are any questions at anytime, please call me. I am happy to see Michelle 's spirits are good and that she is feeling better and actually, her clinical exam seems excellent as well. She does not manifest tachycardia. I note that her hematocrit is 31%.  Visit duration 40 min.-half in discussion re he cardiac and hematologic issues.
+
+Best regards.
+
+Sincerely yours,
+
+	
+Tony Wilkinson, MD
+
+	
+Signed electronically by  Tony Wilkinson, MD
+Document Status: Final
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="before DCT" type1="statin" type2="">
+      <MEDICATION id="M0" start="1577" end="1584" text="Lipitor" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M1" start="1577" end="1584" text="Lipitor" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M2" start="1577" end="1584" text="Lipitor" time="before DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC1" time="during DCT" type1="statin" type2="">
+      <MEDICATION id="M3" start="1577" end="1584" text="Lipitor" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M4" start="1577" end="1584" text="Lipitor" time="during DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC2" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="646" end="658" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="646" end="658" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <MEDICATION id="DOC3" time="after DCT" type1="statin" type2="">
+      <MEDICATION id="M5" start="1577" end="1584" text="Lipitor" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M6" start="1577" end="1584" text="Lipitor" time="after DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <CAD id="DOC4" time="before DCT" indicator="event">
+      <CAD id="C0" start="374" end="413" text="underwent LAD stent placement in 2148. " time="before DCT" indicator="event" comment=""/>
+      <CAD id="C1" start="383" end="403" text=" LAD stent placement" time="before DCT" indicator="event" comment=""/>
+    </CAD>
+    <HYPERTENSION id="DOC5" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H2" start="646" end="658" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H3" start="646" end="658" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <MEDICATION id="DOC6" time="before DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M7" start="1553" end="1561" text="atenolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M8" start="1553" end="1561" text="atenolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M9" start="1553" end="1561" text="atenolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC7" time="before DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M10" start="1522" end="1551" text="no longer takes the verapamil" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M11" start="1542" end="1551" text="verapamil" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M12" start="1542" end="1551" text="verapamil" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <CAD id="DOC8" time="before DCT" indicator="mention">
+      <CAD id="C2" start="345" end="369" text=" coronary artery disease" time="before DCT" indicator="mention" comment=""/>
+      <CAD id="C3" start="346" end="369" text="coronary artery disease" time="before DCT" indicator="mention" comment=""/>
+      <CAD id="C4" start="346" end="369" text="coronary artery disease" time="before DCT" indicator="mention" comment=""/>
+    </CAD>
+    <MEDICATION id="DOC9" time="before DCT" type1="ARB" type2="">
+      <MEDICATION id="M13" start="1600" end="1606" text="Diovan" time="before DCT" type1="ARB" type2="" comment=""/>
+      <MEDICATION id="M14" start="1600" end="1606" text="Diovan" time="before DCT" type1="ARB" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC10" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H4" start="646" end="658" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H5" start="646" end="658" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <MEDICATION id="DOC11" time="after DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M15" start="1553" end="1561" text="atenolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M16" start="1553" end="1561" text="atenolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <SMOKER id="DOC12" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" status="unknown"/>
+      <SMOKER id="S2" status="unknown"/>
+    </SMOKER>
+    <MEDICATION id="DOC13" time="during DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M17" start="1553" end="1561" text="atenolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M18" start="1553" end="1561" text="atenolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <CAD id="DOC14" time="after DCT" indicator="mention">
+      <CAD id="C5" start="345" end="369" text=" coronary artery disease" time="after DCT" indicator="mention" comment=""/>
+      <CAD id="C6" start="346" end="369" text="coronary artery disease" time="after DCT" indicator="mention" comment=""/>
+      <CAD id="C7" start="346" end="369" text="coronary artery disease" time="after DCT" indicator="mention" comment=""/>
+    </CAD>
+    <MEDICATION id="DOC15" time="during DCT" type1="ARB" type2="">
+      <MEDICATION id="M19" start="1600" end="1606" text="Diovan" time="during DCT" type1="ARB" type2="" comment=""/>
+      <MEDICATION id="M20" start="1600" end="1606" text="Diovan" time="during DCT" type1="ARB" type2="" comment=""/>
+    </MEDICATION>
+    <FAMILY_HIST id="DOC16" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <MEDICATION id="DOC17" time="after DCT" type1="ARB" type2="">
+      <MEDICATION id="M21" start="1600" end="1606" text="Diovan" time="after DCT" type1="ARB" type2="" comment=""/>
+      <MEDICATION id="M22" start="1600" end="1606" text="Diovan" time="after DCT" type1="ARB" type2="" comment=""/>
+    </MEDICATION>
+    <CAD id="DOC18" time="during DCT" indicator="mention">
+      <CAD id="C8" start="345" end="369" text=" coronary artery disease" time="during DCT" indicator="mention" comment=""/>
+      <CAD id="C9" start="346" end="369" text="coronary artery disease" time="during DCT" indicator="mention" comment=""/>
+      <CAD id="C10" start="346" end="369" text="coronary artery disease" time="during DCT" indicator="mention" comment=""/>
+    </CAD>
+    <PHI id="P0" start="16" end="26" text="2154-07-21" TYPE="DATE"/>
+    <PHI id="P1" start="45" end="67" text="VALLEY COUNTY HOSPITAL" TYPE="HOSPITAL"/>
+    <PHI id="P2" start="71" end="81" text="Eva  Newby" TYPE="DOCTOR"/>
+    <PHI id="P3" start="88" end="110" text="Valley County Hospital" TYPE="HOSPITAL"/>
+    <PHI id="P4" start="130" end="135" text="Newby" TYPE="DOCTOR"/>
+    <PHI id="P5" start="159" end="173" text="Michelle Klein" TYPE="PATIENT"/>
+    <PHI id="P6" start="175" end="182" text="2474410" TYPE="MEDICALRECORD"/>
+    <PHI id="P7" start="188" end="202" text="August 6, 2075" TYPE="DATE"/>
+    <PHI id="P8" start="238" end="247" text="Nathaniel" TYPE="PATIENT"/>
+    <PHI id="P9" start="283" end="291" text="Michelle" TYPE="PATIENT"/>
+    <PHI id="P10" start="407" end="411" text="2148" TYPE="DATE"/>
+    <PHI id="P11" start="456" end="469" text="November 2151" TYPE="DATE"/>
+    <PHI id="P12" start="790" end="803" text="Valley County" TYPE="HOSPITAL"/>
+    <PHI id="P13" start="842" end="850" text="Michelle" TYPE="PATIENT"/>
+    <PHI id="P14" start="1513" end="1521" text="Michelle" TYPE="PATIENT"/>
+    <PHI id="P15" start="1825" end="1833" text="Michelle" TYPE="PATIENT"/>
+    <PHI id="P16" start="2129" end="2143" text="Tony Wilkinson" TYPE="DOCTOR"/>
+    <PHI id="P17" start="2177" end="2191" text="Tony Wilkinson" TYPE="DOCTOR"/>
+  </TAGS>
+</root>

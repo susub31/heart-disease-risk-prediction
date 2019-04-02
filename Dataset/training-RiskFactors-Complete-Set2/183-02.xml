@@ -1,0 +1,108 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2093-01-18
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+January 18, 2093
+ 
+ 
+ 
+Edward Xanthos, M.D.
+Saint Francis Outpatient Center
+744 Greatstone Drive
+Boulder, CO 72529
+ 
+RE:  Roberta Vincent
+     MR #380-18-32-2
+ 
+Dear Dr. Xanthos,
+ 
+We had the privilege of seeing your patient, Mrs. Roberta Vincent, in
+the Renal Services Clinic on January 18, 2093.  We will
+not repeat her history as you know it well. Over the past three
+months Mrs. Vincent has complained of increasing fatigue,
+occasionally sleeping more than 12 hours per night, forgetfulness
+and tingling of the fingers and toes. She has maintained a
+relatively good appetite and denies nausea, vomiting or shortness
+of breath.  An Iothalamate GFR test obtained on December 14, 2092
+revealed a glomerular infiltration rate of approximately 10 ml per
+minute, suggesting profound loss of renal function.
+ 
+On physical examination today her weight is 99.5 kilograms or 219
+pounds.  Blood pressure is 150/90, pulse is 80 and regular.  The
+lungs are clear. There is no peripheral edema. Again, there marked
+cushingoid features. Despite overall weight loss, Mrs. Vincent
+comments that she has gained facial and abdominal fat as well as
+facial hair over the past several months.
+ 
+In summary, Mrs. Vincent appears to be developing early symptoms of
+uremia.  Given her advanced azotemia we believe that she should
+undergo creation of an arteriovenous fistula so that she may start
+dialysis within the next several months. We have arranged to
+recheck her chemistries today.  We would also recommend that she
+undergo repeat work up for her cushingoid features.  Although renal
+failure may alter hormonal balance and may promote occasional
+androgenic features in woman, this is beyond ordinary.
+ 
+Thank you once again for allowing us to participate in her care.  
+ 
+Edward Xanthos, M.D.
+RE:  Roberta Vincent
+MR #380-18-32-2
+January 18, 2093
+Page #2
+ 
+ 
+Please do not hesitate to contact us if we can be of any further
+assistance.
+ 
+Sincerely,
+ 
+ 
+ 
+ 
+Elias Q. Mercado, M.D.
+ 
+ 
+ 
+S. Quenton Jolley, M.D.
+ 
+DD: 01/18/93
+DT: 01/24/93
+DV: 01/18/93
+/knox
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <HYPERTENSION id="DOC2" time="during DCT" indicator="high bp">
+      <HYPERTENSION id="H0" start="948" end="954" text="150/90" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H1" start="947" end="954" text=" 150/90" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H2" start="930" end="954" text="Blood pressure is 150/90" time="during DCT" indicator="high bp" comment=""/>
+    </HYPERTENSION>
+    <FAMILY_HIST id="DOC0" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC1" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" start="3" end="10" text="Record " status="unknown" comment=""/>
+      <SMOKER id="S2" status="unknown"/>
+    </SMOKER>
+  </TAGS>
+</root>

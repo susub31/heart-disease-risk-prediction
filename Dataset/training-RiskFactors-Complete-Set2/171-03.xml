@@ -1,0 +1,293 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2091-07-04
+
+
+
+
+
+
+
+NAME:     Usrey, John  
+
+MRN:        6762675
+
+
+
+Patient presents for follow-up visit after long hospitalization. He went in to have an
+
+AAA repair and suffered a postop MI. He was in CCU for 3-4 weeks at which time
+
+he sustained a Pseudomonas pneumonia, small bowel obstruction, and PE. He
+
+subsequently had his CABG done at the end of April and was discharged at the end
+
+of May to Grant Clinic. He did well at Grant Clinic and was discharged
+
+from there on the 10th of June, and he presents to me for follow-up today. 
+
+
+
+He states that he feels well. He denies any chest pain or trouble breathing since
+
+discharge. He does not remember anything from his hospitalization otherwise. He is
+
+mentally intact. He reports that he has not had a bowel movement for 3 days and had
+
+some pain a couple of days ago. He is passing gas, last done yesterday. No dysuria.
+
+His daughter reports that he is eating well, that he is at his baseline mental status,
+
+that he has had not had any acute complaints at home. 
+
+
+
+PAST MEDICAL HISTORY: As per HPI. Also, hypothyroidism, seizure disorder
+
+due to a congenital AVM, osteoporosis, peripheral vascular disease.
+
+
+
+ALLERGIES: No known drug allergies.
+
+
+
+CURRENT MEDICATIONS: Aspirin 325 q.d., atenolol 25 b.i.d., Zocor 20 q.h.s.,
+
+Carafate 1 gm p.o. b.i.d., Celexa 10 q.d., multivitamins, thiamine 100 q.d., Seroquel
+
+37.5 q.h.s. and 12.5 q.a.m., Flomax 0.8 q.d., Synthroid 100 q.d., Dilantin 150 p.o. t.i.d.,
+
+Colace 100 t.i.d. 
+
+
+
+VITAL SIGNS: Blood pressure 112/52. Pulse 72. Weight 162. 
+
+
+
+PHYSICAL EXAM: General - Elderly male in no acute distress. Appears well in
+
+consideration of his recent long hospitalization. Neck - No JVD or bruits noted
+
+bilaterally. Lungs - Clear to auscultation bilaterally with no wheezes or rales. CV -
+
+RRR. Normal S1, S2. No murmurs. Abdomen - Positive bowel sounds heard in all 4
+
+quadrants, although mildly decreased. Soft, mildly distended. No masses. No HSM.
+
+No fluid wave. Extremities - He has 1+ firm pitting edema to his mid-shin. 
+
+
+
+LABS: From June 13, 2091, show CBC with white count of 4.4, hemoglobin 11.2,
+
+hematocrit 32.2. Chem 7 - BUN 26, creatinine 0.7, glucose 203, Dilantin 5.6. 
+
+
+
+ASSESSMENT & PLAN: 76-year-old male, history of hypertension, hyperlipidemia,
+
+coronary artery disease, peripheral vascular disease, status post CABG in April as
+
+well as AAA repair returns after an extended hospitalization with complications of
+
+pneumonia, SBO, and PE who comes in for follow-up visit. Despite everything,
+
+patient looks well. 
+
+
+
+(1)  CV. Will continue cardiac medications at this time. Will likely change Zocor
+
+     back to Lipitor but will check his labs first. Patient would benefit from cardiac
+
+     rehab at this time. He is scheduled to see Dr. Nutter at the end of this
+
+     month. Will arrange for him to have regular cardiac care after this. He has
+
+     seen Dr. Quesnel for his postop CABG issues.
+
+
+
+(2)  PVD. Patient status post AAA repair. He has seen Dr. Uddin and is doing
+
+     well. 
+
+
+
+(3)  Neuro. Patient on Dilantin 150 t.i.d. as per Dr. Acuna. It would be okay to
+
+     decrease him to 100 t.i.d. as he was before. Will check  his levels today but
+
+     likely decrease to 100 t.i.d. Will refer back to Dr. Acuna for follow-up. 
+
+
+
+(4)  Endocrine. Will check TSH. Likely will continue current Levoxyl dose.
+
+
+
+(5)  Osteoporosis. Okay to restart Fosamax.
+
+
+
+(6)  GI. Patient with constipation. He can start Citrucel or Metamucil twice a day.
+
+     Can also use Dulcolax daily until he has a bowel movement and then decrease
+
+     to every other day as needed. Can also adjust fiber therapy as needed.
+
+     Instructed patient and daughter that if patient is passing gas, it is okay.
+
+     However, if he stops, they should call immediately. 
+
+
+
+(7)  Psych. They should continue Celexa and Seroquel for now. Will review charts
+
+     from Grant Clinic to see why medications were started and will likely
+
+     taper him off them.
+
+
+
+In general, need to review records from Grant Clinic in order to see what
+
+happened there. Will consider that in my recommendations for his further care.
+
+Return to clinic in 2 weeks. 
+
+
+
+
+
+Debra A. Rosenberg, M.D.
+
+
+
+DAR/camp/quevedo
+
+
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <HYPERLIPIDEMIA id="DOC3" time="before DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY0" start="2273" end="2287" text="hyperlipidemia" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY1" start="2273" end="2287" text="hyperlipidemia" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY2" start="2273" end="2287" text="hyperlipidemia" time="before DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <HYPERLIPIDEMIA id="DOC5" time="during DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY3" start="2273" end="2287" text="hyperlipidemia" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY4" start="2273" end="2287" text="hyperlipidemia" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY5" start="2273" end="2287" text="hyperlipidemia" time="during DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <HYPERLIPIDEMIA id="DOC13" time="after DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY6" start="2273" end="2287" text="hyperlipidemia" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY7" start="2273" end="2287" text="hyperlipidemia" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY8" start="2273" end="2287" text="hyperlipidemia" time="after DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <MEDICATION id="DOC0" time="after DCT" type1="statin" type2="">
+      <MEDICATION id="M0" start="1284" end="1289" text="Zocor" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M1" start="1284" end="1290" text="Zocor " time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M2" start="1284" end="1289" text="Zocor" time="after DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC1" time="during DCT" type1="aspirin" type2="">
+      <MEDICATION id="M3" start="1246" end="1253" text="Aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M4" start="1246" end="1254" text="Aspirin " time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M5" start="1246" end="1253" text="Aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC4" time="after DCT" type1="aspirin" type2="">
+      <MEDICATION id="M6" start="1246" end="1253" text="Aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M7" start="1246" end="1254" text="Aspirin " time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M8" start="1246" end="1253" text="Aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC7" time="after DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M9" start="1264" end="1272" text="atenolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M10" start="1263" end="1273" text=" atenolol " time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M11" start="1264" end="1272" text="atenolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC10" time="before DCT" type1="statin" type2="">
+      <MEDICATION id="M12" start="1284" end="1289" text="Zocor" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M13" start="1284" end="1290" text="Zocor " time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M14" start="1284" end="1289" text="Zocor" time="before DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC11" time="during DCT" type1="statin" type2="">
+      <MEDICATION id="M15" start="1284" end="1289" text="Zocor" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M16" start="1284" end="1290" text="Zocor " time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M17" start="1284" end="1289" text="Zocor" time="during DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC15" time="before DCT" type1="aspirin" type2="">
+      <MEDICATION id="M18" start="1246" end="1253" text="Aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M19" start="1246" end="1254" text="Aspirin " time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M20" start="1246" end="1253" text="Aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC18" time="before DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M21" start="1264" end="1272" text="atenolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M22" start="1263" end="1273" text=" atenolol " time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M23" start="1264" end="1272" text="atenolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC19" time="during DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M24" start="1264" end="1272" text="atenolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M25" start="1263" end="1273" text=" atenolol " time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M26" start="1264" end="1272" text="atenolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC2" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="2259" end="2271" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="2259" end="2271" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H2" start="2259" end="2271" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC6" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H3" start="2259" end="2271" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H4" start="2259" end="2271" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H5" start="2259" end="2271" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC17" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H6" start="2259" end="2271" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H7" start="2259" end="2271" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H8" start="2259" end="2271" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <CAD id="DOC9" time="after DCT" indicator="mention">
+      <CAD id="C0" start="2290" end="2313" text="coronary artery disease" time="after DCT" indicator="mention" comment=""/>
+      <CAD id="C1" start="2290" end="2313" text="coronary artery disease" time="after DCT" indicator="mention" comment=""/>
+      <CAD id="C2" start="2290" end="2313" text="coronary artery disease" time="after DCT" indicator="mention" comment=""/>
+    </CAD>
+    <CAD id="DOC14" time="during DCT" indicator="mention">
+      <CAD id="C3" start="2290" end="2313" text="coronary artery disease" time="during DCT" indicator="mention" comment=""/>
+      <CAD id="C4" start="2290" end="2313" text="coronary artery disease" time="during DCT" indicator="mention" comment=""/>
+      <CAD id="C5" start="2290" end="2313" text="coronary artery disease" time="during DCT" indicator="mention" comment=""/>
+    </CAD>
+    <CAD id="DOC16" time="before DCT" indicator="event">
+      <CAD id="C6" start="203" end="205" text="MI" time="before DCT" indicator="event" comment=""/>
+      <CAD id="C7" start="346" end="376" text="CABG done at the end of April " time="before DCT" indicator="event" comment=""/>
+      <CAD id="C8" start="196" end="205" text="postop MI" time="before DCT" indicator="event" comment=""/>
+      <CAD id="C9" start="346" end="350" text="CABG" time="before DCT" indicator="event" comment=""/>
+      <CAD id="C10" start="203" end="205" text="MI" time="before DCT" indicator="event" comment=""/>
+      <CAD id="C11" start="346" end="350" text="CABG" time="before DCT" indicator="event" comment=""/>
+      <CAD id="C12" start="2356" end="2360" text="CABG" time="before DCT" indicator="event" comment=""/>
+      <CAD id="C13" start="2929" end="2933" text="CABG" time="before DCT" indicator="event" comment=""/>
+    </CAD>
+    <CAD id="DOC20" time="before DCT" indicator="mention">
+      <CAD id="C14" start="2290" end="2313" text="coronary artery disease" time="before DCT" indicator="mention" comment=""/>
+      <CAD id="C15" start="2290" end="2313" text="coronary artery disease" time="before DCT" indicator="mention" comment=""/>
+      <CAD id="C16" start="2290" end="2313" text="coronary artery disease" time="before DCT" indicator="mention" comment=""/>
+    </CAD>
+    <FAMILY_HIST id="DOC12" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC8" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" start="3" end="9" text="Record" status="unknown" comment=""/>
+      <SMOKER id="S2" status="unknown"/>
+    </SMOKER>
+  </TAGS>
+</root>

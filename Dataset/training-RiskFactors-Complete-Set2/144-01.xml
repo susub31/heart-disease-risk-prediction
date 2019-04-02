@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2122-04-17
+
+                     SRH EMERGENCY DEPT VISIT
+ 
+JONES,URIEL   222-67-70-8                    VISIT DATE: 04/17/22
+HISTORY OF PRESENTING COMPLAINT:  The patient is a 48 year old 
+gentleman with a past medical history of hypertension, asthma, 
+hypercholesteremia, and hypertension who presents complaining of 
+chest pain.  The patient was seen in conjunction with the resident, 
+Dr. Simmons.  Please see her note for explicit details of the visit. 
+The patient was in his usual state of health until yesterday, when 
+he noticed increasing shortness of breath with exertion, dyspnea, 
+and diaphoresis and had an episode of chest pain radiating to his 
+left neck.  The episode recurred this morning.  The patient 
+presented to his primary care physician, who referred him to the 
+Emergency Department for evaluation.  Upon presented to the 
+Emergency Department, the patient was pain-free and symptom-free, 
+denying shortness of breath, fevers, chills, nausea, or vomiting. 
+PHYSICAL EXAMINATION:  VITAL SIGNS:  Normal.  HEENT: 
+Normocephalic, atraumatic.  NECK:  Supple.  CHEST:  Clear. 
+ABDOMEN:  Soft. 
+LABORATORY EVALUATION:  EKG showed no significant changes when 
+compared to old EKGs.  There was some confusion regarding ST 
+elevations, but they were due to lead placement.  Troponin was 
+0.42.  CPK was 175. 
+THERAPY RENDERED/COURSE IN ED:  The patient received oxygen, 
+nitropaste, aspirin, and 2 mg of morphine in the Emergency 
+Department with complete resolution of his symptoms. 
+FINAL DIAGNOSIS:  Rule out MI. 
+DISPOSITION (including condition upon discharge):  The patient will 
+be admitted to the hospital.  Condition upon admission is good. 
+___________________________________                    BE249/3185 
+ULICES ZAMUDIO, M.D.  UZ8                                D:04/17/22 
+                                                       T:04/17/22 
+Dictated by:  ULICES ZAMUDIO, M.D.  UZ8 
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <HYPERLIPIDEMIA id="DOC1" time="during DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY0" start="270" end="288" text="hypercholesteremia" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY1" start="270" end="288" text="hypercholesteremia" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY2" start="270" end="288" text="hypercholesteremia" time="during DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <HYPERLIPIDEMIA id="DOC2" time="before DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY3" start="270" end="288" text="hypercholesteremia" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY4" start="270" end="288" text="hypercholesteremia" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY5" start="270" end="288" text="hypercholesteremia" time="before DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <HYPERLIPIDEMIA id="DOC4" time="after DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY6" start="270" end="288" text="hypercholesteremia" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY7" start="270" end="288" text="hypercholesteremia" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY8" start="270" end="288" text="hypercholesteremia" time="after DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <MEDICATION id="DOC0" time="during DCT" type1="aspirin" type2="">
+      <MEDICATION id="M0" start="1415" end="1422" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M1" start="1415" end="1422" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC9" time="during DCT" type1="nitrate" type2="">
+      <MEDICATION id="M2" start="1403" end="1413" text="nitropaste" time="during DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M3" start="1403" end="1413" text="nitropaste" time="during DCT" type1="nitrate" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC3" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="247" end="259" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="247" end="259" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H2" start="294" end="306" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H3" start="247" end="259" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC5" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H4" start="247" end="259" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H5" start="247" end="259" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H6" start="294" end="306" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H7" start="247" end="259" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC8" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H8" start="247" end="259" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H9" start="247" end="259" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H10" start="294" end="306" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H11" start="247" end="259" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <FAMILY_HIST id="DOC6" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC7" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" status="unknown"/>
+      <SMOKER id="S2" start="3" end="10" text="Record " status="unknown" comment=""/>
+    </SMOKER>
+  </TAGS>
+</root>

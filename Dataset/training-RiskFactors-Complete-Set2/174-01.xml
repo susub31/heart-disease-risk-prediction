@@ -1,0 +1,112 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2074-02-22
+
+ 
+Gregg, Lloyd
+2-22-74
+ 
+                             OFFICE NOTE
+ 
+Address:  26 Burrit St, Marlborough, WI 21145
+ 
+First visit for this 51-year-old white male.
+ 
+1.  Gout.  This has been present for 7 years.  Evaluated at Mary by
+Dr. Farrar.  Treated with Colchicine.  He cut down the amount of
+organ meats and red meat that he had been eating at the time.  He has
+not had any alcohol for 11 years.  Strong family history in his father
+and all his brothers.  Continues to have 4 or 5 relatively mild flares
+a year which are frequently attributable to forgetting to take the
+Colchicine.
+ 
+PMH:  Tonsillectomy.  Cervical radiculitis.  He is a recovering
+alcoholic.  No alcohol for 11 years.  Hypertension when he was
+drinking.  Hidradenitis.  
+ 
+Meds:  Colchicine 0.6 mg q.d.  
+ 
+ALL:  None.
+ 
+FH:  Father died at 57 from an MI.  Mother at 60 in her sleep. 
+Brothers have gout, one has hypertension.
+ 
+SH:  Married for the second time.  His wife is Emily Ippolito another
+patient of mine.  They will have been married for one year in May. 
+He works as a Patternmaker for McCall in Enid.  He averages 1 1/2
+packs of cigarettes a day for the last 35 years.  No alcohol.  No drugs
+or HIV exposure.
+ 
+ROS:  Bifocals. Slightly decreased hearing in the left ear.  No chest
+pain.  Has a chronic AM cough bringing up 1/4 cup of phlegm daily.  He
+occasionally plays tennis and bicycles.  He believes his cholesterol
+was 170.  Does like high cholesterol food but has cut back because his
+wife has a problem.  He uses seat belts.
+ 
+On physical examination he is a very pleasant large white male.  His
+weight is 222 lbs., blood pressure 128/88, heart rate 72.  HEENT -
+EOMI, PERL, fundi negative.  Cerumen impacted against the TM's.  Benign
+oral cavity examination.  No lymphadenopathy or thyromegaly.  Lungs
+clear.  No murmurs or gallops.  No hepatosplenomegaly.  No testicular
+masses or hernias.  Normal prostate, guaiac negative stool.   Absent
+distal pulses.  2+ femoral pulses without any bruits.  1+ reflexes.  No
+swelling or tenderness over the first MTP's.  Neurologic exam shows
+hearing decreased to watch tick bilaterally.  Air conduction is greater
+than bone.  Weber is not lateralized.  
+ 
+Impressions and plans:  1.  Gout.  It sounds like this is really not
+much of a problem when he remembers to take the Colchicine.  I
+encouraged him to make this a regular habit.  We will check a random
+uric acid level.
+ 
+2.  Cardiac risk factors.  He is a male with a very positive family
+history who is a smoker.  He has significant cardiac risk factors.  We
+spent a long time talking about smoking today.  At his request I gave
+him a prescription for Nicoderm patches.  He will start at 21 mg for
+six weeks and then move to 14 mg for 2 weeks and 7 mg for 2 weeks.  We
+will check a cholesterol and he should be less than 200 given his risk
+factors.  I pointed out to him his evidence by history of chronic
+bronchitis and of peripheral vascular disease.  I think he found this
+sobering.
+ 
+3.  General health.  We discussed exercise, cholesterol and seat belts.
+We also discussed the use of Q-Tips which I think may also be a
+significant contributing factor to his decreased hearing and the
+impaction of cerumen.  I recommended ear drops.  We can have him tested
+formally when he becomes interested in intervention.
+ 
+ 
+ 
+ 
+Xzavior C. Welch, M.D.
+ 
+DD: 2-22-74
+DT: 02/26/74
+DV: 2-22-74
+      
+XCW/erwin
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <HYPERTENSION id="DOC0" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="719" end="731" text="Hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="719" end="732" text="Hypertension " time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H2" start="719" end="731" text="Hypertension" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <FAMILY_HIST id="DOC2" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC1" status="current">
+      <SMOKER id="S0" start="1115" end="1180" text="He averages 1 1/2 packs of cigarettes a day for the last 35 years" status="current" comment=""/>
+      <SMOKER id="S1" start="1115" end="1180" text="He averages 1 1/2 packs of cigarettes a day for the last 35 years" status="current" comment=""/>
+      <SMOKER id="S2" start="1115" end="1180" text="He averages 1 1/2 packs of cigarettes a day for the last 35 years" status="current" comment=""/>
+    </SMOKER>
+  </TAGS>
+</root>

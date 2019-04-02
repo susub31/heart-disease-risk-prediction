@@ -1,0 +1,142 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2083-11-17
+
+NORTHWEST IOWA HEALTH CENTER		        Date:	November 17, 2083
+
+RACINE, MAINE				Name:	Quiana Justus
+
+                                                NIHC #:	981-40-48
+
+PROGRESS NOTE					DOB:		
+
+
+
+
+
+
+
+Quiana is a 72-year-old woman who comes in for follow-up of her hypertension.  Please see her current medication list.  She also has a history of diabetes.  
+
+
+
+Over the past few weeks to one month she has been having intermittent right shoulder pain.  It is worse with lifting.  The pain is in her deltoid muscle and radiates a little bit across her upper back.  It is worse if she actually lies on her shoulder at night.  There is no history of trauma, no neck pain, no upper extremity numbness or weakness except for occasional left thumb numbness.  The thumb numbness resolves if she shakes her hand.
+
+
+
+She is also having bilateral knee pain when she walks.  There is no swelling or effusion or heat in her knees.  She had been on Vioxx for her spinal stenosis but stopped it because it was not helping her spinal stenosis pain.  Instead for her shoulder pain she has been taking Advil 200 mg 2 and up to 6 per day. She takes the Advil with food or milk and is not having any GI upset from it.  
+
+
+
+She is having a lot of stresses with her husband, whom she feels may have some early memory problems.  His mini-mental status on his last exam was a 30/40.  However, he makes, according to her, arbitrary decisions, does not complete projects he starts, and not as task-oriented as he used to be.  He does not complete tasks or shopping errands that she would like him to do.  We discussed that he should make a follow-up appointment to see me to repeat his mini-mental status exam, but that some of these problems are not likely to be easily resolvable, and that she might benefit from finding ways to manage her anxiety and stress level.  She does get very anxious and upset at times.  She had been considering taking Ativan p.r.n. when she gets very upset and frustrated.  She is also having stressors with her grandson, who lives next door and has a problem with substance abuse and questionable money issues.  
+
+
+
+She denies chest pain, PND, orthopnea, or edema.  She is on her diabetes medication.  She likes going to work because that gets her out of the house.
+
+
+
+ON EXAMINATION:  She is a pleasant, animated woman in no acute distress.  Her blood pressure initially was 160/80.  After discussing her situation with her husband, her blood pressure was 180/85.  Neck supple without JVD or bruits.  Lungs are clear without rales or rhonchi.  Cardiac exam shows a regular rate and rhythm and normal S1, S2 without S3, S4, or murmurs.  She has no peripheral edema.
+
+ 
+
+ASSESSMENT AND PLAN:  
+
+
+
+(1)	Hypertension, poor control.  Will increase her Zestril to 40 mg p.o. q.d.  Her daughter, Iyanna Field who is a registered nurse, will continue to monitor her blood pressure.  
+
+(2)	Right shoulder pain.  On exam she has good range of motion of her shoulder and her muscle strength and reflexes are intact.  She can continue the Advil p.r.n. but should take it with antacids or something to protect her stomach.  
+
+
+
+(3)	Adult-onset diabetes.  We will check her Hemoglobin A1c.  
+
+
+
+She will follow up for her complete physical in May.  
+
+
+
+
+
+Ida Xayachack, M.D.
+
+
+
+IX/delarosa/austin
+
+
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="during DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M0" start="2781" end="2788" text="Zestril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M1" start="2781" end="2788" text="Zestril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M2" start="2781" end="2788" text="Zestril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC4" time="before DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M3" start="2781" end="2788" text="Zestril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M4" start="2781" end="2788" text="Zestril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M5" start="2781" end="2788" text="Zestril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC6" time="after DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M6" start="2781" end="2788" text="Zestril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M7" start="2781" end="2788" text="Zestril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M8" start="2781" end="2788" text="Zestril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC2" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="292" end="304" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="292" end="304" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H2" start="292" end="304" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC3" time="during DCT" indicator="high bp">
+      <HYPERTENSION id="H3" start="2491" end="2497" text="180/85" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H4" start="2381" end="2416" text="blood pressure initially was 160/80" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H5" start="2410" end="2416" text="160/80" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H6" start="2490" end="2497" text=" 180/85" time="during DCT" indicator="high bp" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC5" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H7" start="292" end="304" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H8" start="292" end="304" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H9" start="292" end="304" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC8" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H10" start="292" end="304" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H11" start="292" end="304" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H12" start="292" end="304" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <FAMILY_HIST id="DOC9" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC10" status="unknown">
+      <SMOKER id="S0" start="3" end="9" text="Record" status="unknown" comment=""/>
+      <SMOKER id="S1" status="unknown"/>
+      <SMOKER id="S2" status="unknown"/>
+    </SMOKER>
+    <DIABETES id="DOC1" time="before DCT" indicator="mention">
+      <DIABETES id="D0" start="374" end="382" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D1" start="374" end="382" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D2" start="374" end="382" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC7" time="during DCT" indicator="mention">
+      <DIABETES id="D3" start="374" end="382" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D4" start="374" end="382" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D5" start="374" end="382" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC11" time="after DCT" indicator="mention">
+      <DIABETES id="D6" start="374" end="382" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D7" start="374" end="382" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D8" start="374" end="382" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+  </TAGS>
+</root>

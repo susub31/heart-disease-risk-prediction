@@ -1,0 +1,227 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2085-02-11
+
+NEUROLOGY  ADMIT NOTE
+
+Patient: Betty Gillis
+
+MRN: 78865189
+
+Time of admission: 7:00PM
+
+
+
+CC:  drooling
+
+HPI: 73 RHF with h/o HTN, HL, OA, prior cerebellar stroke, taking ASA 325mg QD, who p/w drooling and L hand clumsiness which began while the patient was typing a letter this morning. The patient reports that she woke up around noon after going to bed feeling just fine around midnight.  She then called a friend and realized that her speech was slurred.  She waited for her symptoms to improve, and when they did not resolve, she called a cab to take her to her CH medical office. While there, she noticed tremors of her hands b/l; she was given an additional ASA 325mg today.  She has never had similar symptoms in the past.  She denies headache, vision changes, dizziness, or difficulty walking with this episode today.  She feels otherwise well. She reports that she discovered her prior stroke when she noted she felt more dizzy and unsteady and obtained an MRI which showed an old cerebellar infarct.
+
+
+
+PMH: HTN, HL, Prior stroke-- likely cerebellar, OA, bilateral TKR, OA, GERD, h/o GIB required PRBC transfusions, psoriasis
+
+
+
+Meds:
+
+ASA 325 PO QD
+
+HCTZ 12.5 QD
+
+Zocor 20 QD
+
+Prilosec
+
+Doxepin for psoriasis
+
+NKDA 
+
+SH: denies tobacco, ETOH, illicips 
+
+
+
+FH: NC
+
+ROS: . Negative for HA, change vision, n/v, vertigo, tiinitus, numbness, tingling, difficulty with speech, swallowing or gait
+
+Exam:	 
+
+GEN:.WDWN, NAD, sitting up in bed, pleasant 				
+
+RESP: Lungs CTA b/l`                  			CV: 
+
+ABD: soft NTND					EXT:no c/c/e, excoriated scaly patches along dorsum of hands b/l
+
+NEURO: 
+
+MS:awake, alert, interactive, follows all commands. memory 3/3 items at 3 minutes. repetition intact, naming intact, comprehension slow but will correct mistakes
+
+CN: Pupils 5-->3 b/l, eomi without nystagmus, VFFTC, L UMN facial, hearing intact to finger rub b/l, tongue midline, dysarthric
+
+Motor:  nl bulk and tone, L pronator drift
+
+	Delt	Bi	Tri	Grip	IP	Q	H	Gas	EHL
+
+R	5	5	5	5	5	5	5	5	5
+
+L	4+	5	4+	5	5	5	5	5	5	
+
+
+
+Reflexes:  
+
+	Bi	Tri	BR	Knee	Ankle 
+
+R	1+	1+	1+	1	1+	
+
+L	1+	1+	1+	1+	1+
+
+Toes downgoing bilaterally
+
+Sensation: intact to LT, symmetric 
+
+Coordination:  dysmetria F-T-N L > R, symmetric RAM
+
+Gait:  not tested
+
+Data:
+
+Labs: CMP wnl, CBC wnl, U/A- LE++, 
+
+Head CT: pending
+
+MRI/MRA brain: pending
+
+
+
+A/P:  73F with h/o prior infarct, HTN, HL, who presents with new L facial droop and L arm weakness, suspicious for stroke. 
+
+1. Admit to Neurology floor service for observation and w/u including: CT/CTA, MRI/MRA, stroke labs (ESR, TSH, CRP, lipoprotein a, homocysteine), TTE with bubble study, Holter monitor placement.
+
+2. SBP 140-180 for now.
+
+3. Given that stroke may have occurred while patient was taking ASA, will administer Aggrenox.
+
+4. Cipro for UTI
+
+5. Pt reports she is eating well, therefore no need for swallow evaluation. 
+
+
+
+Plan discussed with Neurology Senior, Veleria Blackwell. 
+
+
+
+Hollis B Hughes MD
+
+B 93439
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="before DCT" type1="statin" type2="">
+      <MEDICATION id="M0" start="1204" end="1209" text="Zocor" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M1" start="1204" end="1209" text="Zocor" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M2" start="1204" end="1209" text="Zocor" time="before DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC1" time="during DCT" type1="statin" type2="">
+      <MEDICATION id="M3" start="1204" end="1209" text="Zocor" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M4" start="1204" end="1209" text="Zocor" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M5" start="1204" end="1209" text="Zocor" time="during DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC2" time="during DCT" type1="aspirin" type2="">
+      <MEDICATION id="M6" start="199" end="202" text="ASA" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M7" start="199" end="202" text="ASA" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M8" start="199" end="202" text="ASA" time="during DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC3" time="after DCT" type1="statin" type2="">
+      <MEDICATION id="M9" start="1204" end="1209" text="Zocor" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M10" start="1204" end="1209" text="Zocor" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M11" start="1204" end="1209" text="Zocor" time="after DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC4" time="during DCT" indicator="high bp">
+      <HYPERTENSION id="H0" start="2670" end="2681" text="SBP 140-180" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H1" start="2670" end="2681" text="SBP 140-180" time="during DCT" indicator="high bp" comment=""/>
+    </HYPERTENSION>
+    <SMOKER id="DOC5" status="never">
+      <SMOKER id="S0" start="1261" end="1275" text="denies tobacco" status="never" comment=""/>
+      <SMOKER id="S1" start="1257" end="1275" text="SH: denies tobacco" status="never" comment=""/>
+      <SMOKER id="S2" start="1257" end="1276" text="SH: denies tobacco," status="never" comment=""/>
+    </SMOKER>
+    <MEDICATION id="DOC6" time="before DCT" type1="aspirin" type2="">
+      <MEDICATION id="M12" start="199" end="202" text="ASA" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M13" start="199" end="202" text="ASA" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M14" start="199" end="202" text="ASA" time="before DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC7" time="after DCT" type1="aspirin" type2="">
+      <MEDICATION id="M15" start="199" end="202" text="ASA" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M16" start="199" end="202" text="ASA" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M17" start="199" end="202" text="ASA" time="after DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERLIPIDEMIA id="DOC8" time="before DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY0" start="159" end="161" text="HL" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY1" start="159" end="161" text="HL" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY2" start="159" end="161" text="HL" time="before DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <HYPERTENSION id="DOC9" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H2" start="154" end="157" text="HTN" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H3" start="154" end="157" text="HTN" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H4" start="154" end="157" text="HTN" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <FAMILY_HIST id="DOC10" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <HYPERLIPIDEMIA id="DOC11" time="after DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY3" start="159" end="161" text="HL" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY4" start="159" end="161" text="HL" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY5" start="159" end="161" text="HL" time="after DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <HYPERTENSION id="DOC12" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H5" start="154" end="157" text="HTN" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H6" start="154" end="157" text="HTN" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H7" start="154" end="157" text="HTN" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <MEDICATION id="DOC13" time="before DCT" type1="diuretic" type2="">
+      <MEDICATION id="M18" start="1190" end="1194" text="HCTZ" time="before DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M19" start="1190" end="1194" text="HCTZ" time="before DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M20" start="1190" end="1195" text="HCTZ " time="before DCT" type1="diuretic" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC14" time="after DCT" type1="diuretic" type2="">
+      <MEDICATION id="M21" start="1190" end="1194" text="HCTZ" time="after DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M22" start="1190" end="1194" text="HCTZ" time="after DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M23" start="1190" end="1195" text="HCTZ " time="after DCT" type1="diuretic" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC15" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H8" start="154" end="157" text="HTN" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H9" start="154" end="157" text="HTN" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H10" start="154" end="157" text="HTN" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERLIPIDEMIA id="DOC16" time="during DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY6" start="159" end="161" text="HL" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY7" start="159" end="161" text="HL" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY8" start="159" end="161" text="HL" time="during DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <MEDICATION id="DOC17" time="during DCT" type1="diuretic" type2="">
+      <MEDICATION id="M24" start="1190" end="1194" text="HCTZ" time="during DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M25" start="1190" end="1194" text="HCTZ" time="during DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M26" start="1190" end="1195" text="HCTZ " time="during DCT" type1="diuretic" type2="" comment=""/>
+    </MEDICATION>
+    <PHI id="P0" start="16" end="26" text="2085-02-11" TYPE="DATE"/>
+    <PHI id="P1" start="60" end="72" text="Betty Gillis" TYPE="PATIENT"/>
+    <PHI id="P2" start="79" end="87" text="78865189" TYPE="MEDICALRECORD"/>
+    <PHI id="P3" start="138" end="140" text="73" TYPE="AGE"/>
+    <PHI id="P4" start="595" end="597" text="CH" TYPE="HOSPITAL"/>
+    <PHI id="P5" start="2352" end="2354" text="73" TYPE="AGE"/>
+    <PHI id="P6" start="2924" end="2941" text="Veleria Blackwell" TYPE="DOCTOR"/>
+    <PHI id="P7" start="2947" end="2962" text="Hollis B Hughes" TYPE="DOCTOR"/>
+    <PHI id="P8" start="2969" end="2974" text="93439" TYPE="PHONE"/>
+  </TAGS>
+</root>

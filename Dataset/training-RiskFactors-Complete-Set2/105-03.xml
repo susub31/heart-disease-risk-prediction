@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2148-02-10
+
+REASON FOR VISIT:  Followup for diabetic cheiropathy.  Rule out other diabetes-related musculoskeletal syndrome.  Monitoring of Ultracet therapy and left shoulder injection.  
+
+ 
+
+INTERVAL HISTORY:  Left shoulder injection was helpful but only last short time.  Just  a week or so.  Ultracet was relieving pains but was not able to afford it.  Feels stable and not worse since last seen.  Telling me he is cutting down his medications and he is letting his doctors know about this. No acute swelling or further different joint complaints other than what was described in my previous notes.  Rest of review of systems again unchanged.   
+
+
+
+MEDICATIONS:  The medication file is same as last time, except for addition of Tylenols now.  
+
+ 
+
+PHYSICAL EXAMINATION: BP 100/70.  Other VS WNL. Wt. 170lb.  Gait:  Slow.  Cooperative.  VSS.  HEENT:  Halitosis.  Poor teeth hygiene.  Lungs:  Clear.  Heart:  Unremarkable.  Abdomen exam:  Slight sensitiveness in epigastrium.  A little low-frequency tremor in extremities.  Musculoskeletal examination:  Both shoulders with limited ROM.  Left shoulder active ROM is improved compared to the last description.  Hands with prayer's sign present.  Elbows again show lesser degree of flexion contracture.  Range of motion in both shoulders diminished, 
+
+more in the left side.  Hardening of skin on the palm side of hands.  Has atrophy of intrinsic muscles of hands.  The rest of joint examination, free of inflammation.  Unchanged from last description.  
+
+ 
+
+IMPRESSION:  Diabetic cheiropathy.  Rule out other diabetes-related musculoskeletal syndrome esp in shoulders.  Helped by Ultracet.  Osteoarthritis changes of early stage.  Status post olecranon bursitis.  Elevated creatinine.  
+
+ 
+
+PLANS:  
+
+1.  Continue Ultracet up 2 tablets prn once     twice a day; Samples given.
+
+2.  May consider low-dose narcotics, given his multiple comorbidity and sensitive renal function to nonsteroidal therapy.  3.  Close followup for diabetes care with other physicians.   
+
+DISPOSITION:  Followup in 4 months or so.  
+
+ 
+
+ 
+
+_______________________________ 
+
+Virgil Gregory, M.D.
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <FAMILY_HIST id="DOC0" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC1" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" start="3" end="9" text="Record" status="unknown" comment=""/>
+      <SMOKER id="S2" status="unknown"/>
+    </SMOKER>
+    <DIABETES id="DOC2" time="after DCT" indicator="mention">
+      <DIABETES id="D0" start="60" end="68" text="diabetic" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D1" start="60" end="68" text="diabetic" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D2" start="60" end="68" text="diabetic" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC3" time="during DCT" indicator="mention">
+      <DIABETES id="D3" start="60" end="68" text="diabetic" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D4" start="60" end="68" text="diabetic" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D5" start="60" end="68" text="diabetic" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC4" time="before DCT" indicator="mention">
+      <DIABETES id="D6" start="60" end="68" text="diabetic" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D7" start="60" end="68" text="diabetic" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D8" start="60" end="68" text="diabetic" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+  </TAGS>
+</root>

@@ -1,0 +1,318 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2080-07-03
+
+
+
+History of Present Illness
+
+POD # 3 
+
+Procedure  femoral-femoral bypass graft   
+
+Surgeon    U. Needham
+
+
+
+Narrative History
+
+This gentleman has type 2 DM diagnosed in  2078.  At that time he was seen at the ED with urinary frequency and was not feeling well. He was admitted to the hospital for BG's of 400's.  He was discharged on NPH insulin 30 units q am and 15 units q pm.  He has followed up with Dr. Xan Dunn from our Diabetes department. 
+
+His latest home DM regimen consists of NPH insulin 25 units q am and 10 units q hs.
+
+His home BG's are usually 130 or less.
+
+He has hypoglycemia unawareness.
+
+He has PVD s/p fem-fem bypass graft 6/30/80, ulcer on R big toe, (+)peripheral neuropathy.
+
+
+
+Past Medical History
+
+Morbidly obese,  + sleep apnea, +BPH, h/o gastric reflux, h/o pseudotumor cerebri, s/p hip surgery
+
+
+
+Family History
+
+no diabetes
+
+
+
+Social History
+
+Smoking (+)
+
+
+
+Medications Text
+
+Meds now:
+
+NPH insulin 25 units q am and 10 units q hs
+
+regular insulin SS 201-250--4 units
+
+simvastatin, lasix, levaquin, clindamycin, lisinopril, ECASA, lopressor, pepcid
+
+
+
+Physical Exam
+
+BP 140/73  PR 72/min    T 98.7
+
+      General Appearance
+
+morbidly obese
+
+      HEENT
+
+anicteric sclerae
+
+      Neck
+
+trachea midline
+
+      Chest
+
+CTA
+
+      Cor/Cardiac
+
+RRR
+
+      Abdomen
+
+Soft, obese
+
+      Extremity
+
+dressing intact on ulcer, R big toe
+
+      Neurological
+
+alert, oriented
+
+      Skin
+
+(+) acanthosis nigracans
+
+
+
+Laboratory Data
+
+A1c 6.1 in 03/80
+
+FS's 7/02 65 (treated with OJ)--110   91  238  165
+
+     7/03 101                         119
+
+s. creatinine 1.4
+
+LFT wnl
+
+WBC 13.7
+
+
+
+Assessment
+
+Type 2 DM complicated by PVD and neuropathy.  He was not eating well 7/01-7/02 but says his appetite has now recovered.
+
+
+
+Recommendation
+
+1.  Continue NPH insulin 25 units q am and 10 units q hs.
+
+2.  Suggest to change regular insulin sliding scale to humalog as this is more physiologic (acts faster and clears faster as well).  Give only half doses of this at hs since he will not be eating then.
+
+3.  Please get a Hemoglobin A1c.  This will help us assess blood glucose control for the past 2-3 months and can help in discharge planning.
+
+4.  He should folow-up with Dr. Dunn from Diabetes.
+
+
+
+
+
+Thank you.  
+
+
+
+U. Natalyn Gold, M.D., M.P.H.
+
+b26494
+
+
+
+(beeper for weekend:  65860)
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="during DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M0" start="1071" end="1081" text="lisinopril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M1" start="1071" end="1081" text="lisinopril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M2" start="1071" end="1081" text="lisinopril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC1" time="after DCT" type1="statin" type2="">
+      <MEDICATION id="M3" start="1028" end="1039" text="simvastatin" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M4" start="1028" end="1039" text="simvastatin" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M5" start="1028" end="1039" text="simvastatin" time="after DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC2" time="during DCT" type1="aspirin" type2="">
+      <MEDICATION id="M6" start="1083" end="1088" text="ECASA" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M7" start="1083" end="1088" text="ECASA" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M8" start="1083" end="1088" text="ECASA" time="during DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <OBESE id="DOC3" time="after DCT" indicator="mention">
+      <OBESE id="O0" start="753" end="767" text="Morbidly obese" time="after DCT" indicator="mention" comment=""/>
+      <OBESE id="O1" start="1184" end="1198" text="morbidly obese" time="after DCT" indicator="mention" comment=""/>
+      <OBESE id="O2" start="1324" end="1329" text="obese" time="after DCT" indicator="mention" comment=""/>
+      <OBESE id="O3" start="762" end="767" text="obese" time="after DCT" indicator="mention" comment=""/>
+      <OBESE id="O4" start="753" end="767" text="Morbidly obese" time="after DCT" indicator="mention" comment=""/>
+    </OBESE>
+    <MEDICATION id="DOC4" time="after DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M9" start="1071" end="1081" text="lisinopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M10" start="1071" end="1081" text="lisinopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M11" start="1071" end="1081" text="lisinopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <DIABETES id="DOC5" time="during DCT" indicator="mention">
+      <DIABETES id="D0" start="175" end="184" text="type 2 DM" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D1" start="1644" end="1653" text="Type 2 DM" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D2" start="175" end="185" text="type 2 DM " time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D3" start="182" end="184" text="DM" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <MEDICATION id="DOC6" time="after DCT" type1="aspirin" type2="">
+      <MEDICATION id="M12" start="1083" end="1088" text="ECASA" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M13" start="1083" end="1088" text="ECASA" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M14" start="1083" end="1088" text="ECASA" time="after DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC7" time="after DCT" type1="insulin" type2="">
+      <MEDICATION id="M15" start="363" end="375" text="NPH insulin " time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M16" start="517" end="528" text="NPH insulin" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M17" start="946" end="957" text="NPH insulin" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M18" start="1796" end="1807" text="NPH insulin" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M19" start="1897" end="1904" text="humalog" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M20" start="363" end="383" text="NPH insulin 30 units" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M21" start="991" end="1007" text="regular insulin " time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M22" start="950" end="957" text="insulin" time="after DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC8" time="after DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M23" start="1090" end="1099" text="lopressor" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M24" start="1090" end="1099" text="lopressor" time="after DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <DIABETES id="DOC9" time="before DCT" indicator="glucose">
+      <DIABETES id="D4" start="326" end="339" text="BG's of 400's" time="before DCT" indicator="glucose" comment=""/>
+      <DIABETES id="D5" start="326" end="339" text="BG's of 400's" time="before DCT" indicator="glucose" comment=""/>
+      <DIABETES id="D6" start="572" end="602" text="BG's are usually 130 or less. " time="before DCT" indicator="glucose" comment=""/>
+      <DIABETES id="D7" start="1497" end="1590" text="FS's 7/02 65 (treated with OJ)--110   91  238  165       7/03 101                         119" time="before DCT" indicator="glucose" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC10" time="before DCT" indicator="mention">
+      <DIABETES id="D8" start="175" end="184" text="type 2 DM" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D9" start="1644" end="1653" text="Type 2 DM" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D10" start="175" end="185" text="type 2 DM " time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D11" start="182" end="184" text="DM" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <MEDICATION id="DOC11" time="before DCT" type1="statin" type2="">
+      <MEDICATION id="M25" start="1028" end="1039" text="simvastatin" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M26" start="1028" end="1039" text="simvastatin" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M27" start="1028" end="1039" text="simvastatin" time="before DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC12" time="during DCT" type1="statin" type2="">
+      <MEDICATION id="M28" start="1028" end="1039" text="simvastatin" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M29" start="1028" end="1039" text="simvastatin" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M30" start="1028" end="1039" text="simvastatin" time="during DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <OBESE id="DOC13" time="before DCT" indicator="mention">
+      <OBESE id="O5" start="753" end="767" text="Morbidly obese" time="before DCT" indicator="mention" comment=""/>
+      <OBESE id="O6" start="1184" end="1198" text="morbidly obese" time="before DCT" indicator="mention" comment=""/>
+      <OBESE id="O7" start="1324" end="1329" text="obese" time="before DCT" indicator="mention" comment=""/>
+      <OBESE id="O8" start="762" end="767" text="obese" time="before DCT" indicator="mention" comment=""/>
+      <OBESE id="O9" start="753" end="767" text="Morbidly obese" time="before DCT" indicator="mention" comment=""/>
+    </OBESE>
+    <FAMILY_HIST id="DOC14" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <MEDICATION id="DOC15" time="before DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M31" start="1071" end="1081" text="lisinopril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M32" start="1071" end="1081" text="lisinopril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M33" start="1071" end="1081" text="lisinopril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC16" time="before DCT" type1="aspirin" type2="">
+      <MEDICATION id="M34" start="1083" end="1088" text="ECASA" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M35" start="1083" end="1088" text="ECASA" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M36" start="1083" end="1088" text="ECASA" time="before DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC17" time="before DCT" type1="insulin" type2="">
+      <MEDICATION id="M37" start="363" end="375" text="NPH insulin " time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M38" start="517" end="528" text="NPH insulin" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M39" start="946" end="957" text="NPH insulin" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M40" start="991" end="1006" text="regular insulin" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M41" start="1796" end="1807" text="NPH insulin" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M42" start="363" end="383" text="NPH insulin 30 units" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M43" start="991" end="1007" text="regular insulin " time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M44" start="950" end="957" text="insulin" time="before DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <SMOKER id="DOC18" status="current">
+      <SMOKER id="S0" start="902" end="913" text="Smoking (+)" status="current" comment=""/>
+      <SMOKER id="S1" start="902" end="913" text="Smoking (+)" status="current" comment=""/>
+      <SMOKER id="S2" start="902" end="913" text="Smoking (+)" status="current" comment=""/>
+    </SMOKER>
+    <OBESE id="DOC19" time="during DCT" indicator="mention">
+      <OBESE id="O10" start="753" end="767" text="Morbidly obese" time="during DCT" indicator="mention" comment=""/>
+      <OBESE id="O11" start="1184" end="1198" text="morbidly obese" time="during DCT" indicator="mention" comment=""/>
+      <OBESE id="O12" start="1324" end="1329" text="obese" time="during DCT" indicator="mention" comment=""/>
+      <OBESE id="O13" start="762" end="767" text="obese" time="during DCT" indicator="mention" comment=""/>
+      <OBESE id="O14" start="753" end="767" text="Morbidly obese" time="during DCT" indicator="mention" comment=""/>
+    </OBESE>
+    <MEDICATION id="DOC20" time="during DCT" type1="insulin" type2="">
+      <MEDICATION id="M45" start="363" end="375" text="NPH insulin " time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M46" start="517" end="528" text="NPH insulin" time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M47" start="946" end="957" text="NPH insulin" time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M48" start="1796" end="1807" text="NPH insulin" time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M49" start="363" end="383" text="NPH insulin 30 units" time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M50" start="991" end="1007" text="regular insulin " time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M51" start="950" end="957" text="insulin" time="during DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC21" time="before DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M52" start="1090" end="1099" text="lopressor" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M53" start="1090" end="1099" text="lopressor" time="before DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC22" time="during DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M54" start="1090" end="1099" text="lopressor" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M55" start="1090" end="1099" text="lopressor" time="during DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <DIABETES id="DOC23" time="after DCT" indicator="mention">
+      <DIABETES id="D12" start="175" end="184" text="type 2 DM" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D13" start="1644" end="1653" text="Type 2 DM" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D14" start="175" end="185" text="type 2 DM " time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D15" start="182" end="184" text="DM" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <PHI id="P0" start="16" end="26" text="2080-07-03" TYPE="DATE"/>
+    <PHI id="P1" start="123" end="133" text="U. Needham" TYPE="DOCTOR"/>
+    <PHI id="P2" start="199" end="203" text="2078" TYPE="DATE"/>
+    <PHI id="P3" start="437" end="445" text="Xan Dunn" TYPE="DOCTOR"/>
+    <PHI id="P4" start="455" end="474" text="Diabetes department" TYPE="DEPARTMENT"/>
+    <PHI id="P5" start="673" end="680" text="6/30/80" TYPE="DATE"/>
+    <PHI id="P6" start="1490" end="1495" text="03/80" TYPE="DATE"/>
+    <PHI id="P7" start="1502" end="1506" text="7/02" TYPE="DATE"/>
+    <PHI id="P8" start="1554" end="1558" text="7/03" TYPE="DATE"/>
+    <PHI id="P9" start="1713" end="1717" text="7/01" TYPE="DATE"/>
+    <PHI id="P10" start="1718" end="1722" text="7/02" TYPE="DATE"/>
+    <PHI id="P11" start="2219" end="2223" text="Dunn" TYPE="DOCTOR"/>
+    <PHI id="P12" start="2229" end="2237" text="Diabetes" TYPE="DEPARTMENT"/>
+    <PHI id="P13" start="2260" end="2275" text="U. Natalyn Gold" TYPE="DOCTOR"/>
+    <PHI id="P14" start="2292" end="2297" text="26494" TYPE="PHONE"/>
+    <PHI id="P15" start="2323" end="2328" text="65860" TYPE="PHONE"/>
+  </TAGS>
+</root>

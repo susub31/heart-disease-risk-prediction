@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2081-02-17
+
+                     WMH EMERGENCY DEPT VISIT
+ 
+JOHNSON,PEPPER E.   537-18-74-8                   VISIT DATE: 02/17/81
+Patient seen and evaluated with Dr. Collins.  I agree with Dr. Collins's 
+note. 
+HISTORY OF PRESENTING COMPLAINT:  The patient is a 51 year old male 
+with a history of a fever over the last two days.  He has had some 
+URI symptoms and increasing glucose requiring increased insulin. 
+Fever of 102 today.  He has had a cough productive of some 
+yellowish sputum but no real shortness of breath, no dysuria, no 
+urgency, no frequency, no diarrhea, no melena, no bright red blood 
+per rectum, no nausea or vomiting. 
+PAST MEDICAL HISTORY:  Diabetes. 
+MEDICATIONS:  Per the resident's note. 
+ALLERGIES:  Per the resident's note. 
+SOCIAL HISTORY AND FAMILY HISTORY:  Per the resident's note. 
+PHYSICAL EXAMINATION:  Well nourished, well developed male, 
+slightly tachycardic initially, in no acute distress.  Skin:  Warm 
+and dry without rash.  HEENT:  Normocephalic, atraumatic, 
+oropharynx clear.  Neck:  Supple, full range of motion.  Lungs: 
+Clear.  Heart:  Regular rate and rhythm.  Abdomen:  Soft. 
+LABORATORY EVALUATION:  Chest x-ray clear. 
+FINAL DIAGNOSIS:  Bronchitis, viral syndrome. 
+DISPOSITION (including condition upon discharge):  Plan is 
+Albuterol and Erythromycin, followup with PMD.  Condition on 
+discharge is stable. 
+___________________________________                    TP009/2221 
+OWEN URE, M.D.  OU98                       D:02/17/81 
+                                                       T:02/18/81 
+Dictated by:  OWEN URE, M.D.  OU98 
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC1" time="after DCT" type1="insulin" type2="">
+      <MEDICATION id="M0" start="421" end="428" text="insulin" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M1" start="421" end="428" text="insulin" time="after DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC3" time="during DCT" type1="insulin" type2="">
+      <MEDICATION id="M2" start="421" end="428" text="insulin" time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M3" start="421" end="428" text="insulin" time="during DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC7" time="before DCT" type1="insulin" type2="">
+      <MEDICATION id="M4" start="421" end="428" text="insulin" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M5" start="421" end="428" text="insulin" time="before DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <FAMILY_HIST id="DOC4" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC5" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" start="3" end="10" text="Record " status="unknown" comment=""/>
+      <SMOKER id="S2" status="unknown"/>
+    </SMOKER>
+    <DIABETES id="DOC0" time="before DCT" indicator="mention">
+      <DIABETES id="D0" start="684" end="692" text="Diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D1" start="684" end="692" text="Diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D2" start="684" end="692" text="Diabetes" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC2" time="during DCT" indicator="mention">
+      <DIABETES id="D3" start="684" end="692" text="Diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D4" start="684" end="692" text="Diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D5" start="684" end="692" text="Diabetes" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC6" time="after DCT" indicator="mention">
+      <DIABETES id="D6" start="684" end="692" text="Diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D7" start="684" end="692" text="Diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D8" start="684" end="692" text="Diabetes" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+  </TAGS>
+</root>

@@ -1,0 +1,151 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2134-02-15
+
+EDVISIT^72484104^URQUHART, WENDELL^02/15/34^MARQUEZ, RONALD
+
+I evaluated this patient independently.  I concur with findings
+
+as noted on the medical record, supervised the care as provided
+
+by the resident in the Emergency Department.
+
+HISTORY OF PRESENT ILLNESS:  In brief, this is a 61-year-old male
+
+with complaint of chest discomfort on exertion for the past six
+
+weeks after climbing upstairs.  The patient noticed symptoms
+
+again today.  He called his FLH physician who sent him to the
+
+Emergency Department for probable admission.  The patient has had
+
+a prior history of proximal RCA lesion and two stents placed in
+
+06/2128 after similar episodes.  The patient has been doing well
+
+since and recently has developed worsening symptoms.  He is
+
+followed by Dr. Ure and contacted Dr. Ure's office who
+
+sent him to the Emergency Department.  He denies chest pain at
+
+rest.  He does not have abdominal pain.  No pain radiating to the
+
+back.  No shortness of breath, dysuria, or additional symptoms.
+
+PAST MEDICAL HISTORY:  Hypertension and coronary artery disease.
+
+PAST SURGICAL HISTORY:  As noted, past surgical history is stent
+
+placement.
+
+SOCIAL HISTORY:  Past tobacco user.
+
+FAMILY HISTORY:  Noncontributory.
+
+REVIEW OF SYSTEMS:  Significant for that which is noted on the
+
+HPI.  All other symptoms are negative as noted in the medical
+
+record.
+
+MEDICATIONS:  Please refer to the chart.
+
+PHYSICAL EXAMINATION:  Vital signs are as noted in the medical
+
+record.  I examined this patient and agree with physical exam
+
+findings as noted on the record.  Please refer to the chart.  Of
+
+note, the patient has no specific physical exam findings, a
+
+benign physical examination.
+
+LABORATORY DATA:  Pending.  EKG is normal sinus rhythm with
+
+biphasic T waves in III, V6 but otherwise normal, no acute ST-T
+
+wave changes.  The patient is currently pain free.
+
+ASSESSMENT AND MEDICAL DECISION MAKING:  This is a 61-year-old
+
+male with likely stable angina that is worsening in character. 
+
+He will be admitted to Cardiology.  I discussed this case with
+
+the cardiologist on call, Dr. Maxwell.  The patient will be
+
+admitted for further workup and determination of catheterization
+
+if necessary.
+
+______________________________
+
+MARQUEZ, RONALD M.D.
+
+D: 02/15/34
+
+T: 02/15/34
+
+Dictated By: MARQUEZ, RONALD
+
+eScription document:8-9594396 IFFocus
+
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <HYPERTENSION id="DOC1" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="1056" end="1068" text="Hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="1056" end="1068" text="Hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H2" start="1056" end="1068" text="Hypertension" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC4" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H3" start="1056" end="1068" text="Hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H4" start="1056" end="1068" text="Hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H5" start="1056" end="1068" text="Hypertension" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC6" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H6" start="1056" end="1068" text="Hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H7" start="1056" end="1068" text="Hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H8" start="1056" end="1068" text="Hypertension" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <CAD id="DOC0" time="before DCT" indicator="mention">
+      <CAD id="C0" start="1073" end="1096" text="coronary artery disease" time="before DCT" indicator="mention" comment=""/>
+      <CAD id="C1" start="1073" end="1098" text="coronary artery disease. " time="before DCT" indicator="mention" comment=""/>
+      <CAD id="C2" start="1073" end="1098" text="coronary artery disease. " time="before DCT" indicator="mention" comment=""/>
+    </CAD>
+    <CAD id="DOC2" time="before DCT" indicator="event">
+      <CAD id="C3" start="597" end="685" text="history of proximal RCA lesion and two stents placed in  06/2128 after similar episodes." time="before DCT" indicator="event" comment=""/>
+      <CAD id="C4" start="631" end="642" text=" two stents" time="before DCT" indicator="event" comment=""/>
+    </CAD>
+    <CAD id="DOC5" time="during DCT" indicator="mention">
+      <CAD id="C5" start="1073" end="1096" text="coronary artery disease" time="during DCT" indicator="mention" comment=""/>
+      <CAD id="C6" start="1073" end="1098" text="coronary artery disease. " time="during DCT" indicator="mention" comment=""/>
+      <CAD id="C7" start="1073" end="1098" text="coronary artery disease. " time="during DCT" indicator="mention" comment=""/>
+    </CAD>
+    <CAD id="DOC8" time="after DCT" indicator="mention">
+      <CAD id="C8" start="1073" end="1096" text="coronary artery disease" time="after DCT" indicator="mention" comment=""/>
+      <CAD id="C9" start="1073" end="1098" text="coronary artery disease. " time="after DCT" indicator="mention" comment=""/>
+      <CAD id="C10" start="1073" end="1098" text="coronary artery disease. " time="after DCT" indicator="mention" comment=""/>
+    </CAD>
+    <FAMILY_HIST id="DOC7" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC3" status="past">
+      <SMOKER id="S0" start="1194" end="1212" text="Past tobacco user." status="past" comment=""/>
+      <SMOKER id="S1" start="1177" end="1212" text="SOCIAL HISTORY:  Past tobacco user." status="past" comment=""/>
+      <SMOKER id="S2" start="1194" end="1212" text="Past tobacco user." status="past" comment=""/>
+    </SMOKER>
+  </TAGS>
+</root>

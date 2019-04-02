@@ -1,0 +1,235 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2096-01-26
+
+S/ 56 yo female here for fu elevated BP. 2 days ago had BP checked here and was 160/88; pt. quit upset at the time. Has not connected with a psychiatrist or counselor and remains on Prozac with Klonopin prn. Feels less agitated today, calmer.
+
+Denies any problems with Atenolol which she has been on for ~10 days after her last episode of migraine.
+
+
+
+Medications
+
+Asa (ACETYLSALICYLIC Acid) 325MG, 1 Tablet(s) PO QD
+
+Cozaar (LOSARTAN) 100MG, 1 Tablet(s) PO QD
+
+Mvi (MULTIVITAMINS) 1 CAPSULE PO QD
+
+calcium 500 MG tid
+
+Prozac (FLUOXETINE Hcl) 20MG, 1 Capsule(s) PO QD
+
+Glucovance (GLYBURIDE/METFORMIN) 2.5-500MG, 2 Tablet(s) PO BID
+
+Norflex (ORPHENADRINE Citrate) 100MG, 1 Tablet(s) PO Q12H x 2 day(s) PRN .neck spasm
+
+Prilosec (OMEPRAZOLE) 20MG, 1 Capsule(s) PO BID PRN .
+
+Tylenol #3 (ACETAMINOPHEN W/codeine 30mg) 1 TAB PO q HS PRN for pain
+
+CLONAZEPAM 0.5MG, 1 Tablet(s) PO BID PRN prn anxiety, up to bid : called in to Page, michael today; Pt. to be informed she is not to miss her next appt. Hard copy faxed to pharmacy.
+
+Neurontin (GABAPENTIN) 300MG, 2 Capsule(s) PO QHS x 30 day(s)
+
+Vioxx (ROFECOXIB) 25MG, 1 Tablet(s) PO qd-bid PRN . : called in to Page, michael today; Pt. to be informed she is not to miss her next appt. Hard copy faxed to pharmacy.
+
+ATENOLOL 50MG, 1 Tablet(s) PO QD x 30 day(s) 
+
+
+
+
+
+Problems
+
+Diabetes mellitus : adult-onset
+
+Hypertension 
+
+Dyspepsia : GERD
+
+F/H Breast cancer : mother
+
+S/P tubal ligation 
+
+Neck pain : MRI C-spine(3/15/94) DJD, disc osteophyte at C5-6
+
+Complex migraine : 1. Admitted to DDCH in 2090 with transient visual changes in her left eye and superior lateral visual field, accompanied by left hand, wrist, and left upper lip numbness: No intra-cranial bleed on CT. Neg. holter, TCD's, CNI'S, cardiac TTE. MRA and MRI showed no flow defects. Hypercoag. w/u included normal PT/PTT, Prot. C (slightly elev'd) and S, anti-thrombin III, Factor V Leiden, and lupus anti-coagulant. 2. Oct. '94 w/visual and repeat face and arm sx's--Neg. head Ct, neg. prothrombin gene, normal homocysteine level, neg. ANA. CNI's with minimal disease at bilat. bifurcations. TCD's normal. 3. Evaluated by Dr. Umberto Xuan, 2/'95. 
+
+diabetic retinopathy 
+
+Obsessive compulsive disorder 
+
+depression/anxiety 
+
+hyperparathyroidism : 1/96--ca++-10.7, PTH-104 both elevated. 
+
+
+
+
+
+Allergies
+
+* SELDANE - Unknown
+
+Lipitor (ATORVASTATIN) - myalgias LE's 
+
+
+
+Has appts. for eval. of her parathyroid nodules and appt. with neuro for her back pain.
+
+
+
+O/ Pt. appears calmer
+
+BP 146/80 R  L 136/80
+
+lungs--clear
+
+AP 88 NSR
+
+
+
+A/P 1) HTN--BP elevated, partially due to increased agitation. Per consult with Dr. Ito--increase Atenolol to 50 mg QD. re-check BP next wk.
+
+       2) OCD/Depression--needs psych eval. to re-assess meds; may increase Prozac (per Dr. Ito) but disc. with pt. and decided to wait on this. Counseled pt. re benefit of having a psych. involved and she agrees to check into this with her insurance.
+
+FU 1 wk. check BP, Depression.
+
+Has FU Dr. Ito after specialists' appts.
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="during DCT" type1="aspirin" type2="">
+      <MEDICATION id="M0" start="393" end="396" text="Asa" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M1" start="393" end="396" text="Asa" time="during DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC1" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="1383" end="1395" text="Hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="1383" end="1395" text="Hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H2" start="2581" end="2584" text="HTN" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <DIABETES id="DOC2" time="during DCT" indicator="mention">
+      <DIABETES id="D0" start="1350" end="1367" text="Diabetes mellitus" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D1" start="1350" end="1358" text="Diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D2" start="1349" end="1380" text=" Diabetes mellitus : adult-onse" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <MEDICATION id="DOC3" time="after DCT" type1="aspirin" type2="">
+      <MEDICATION id="M2" start="393" end="396" text="Asa" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M3" start="393" end="396" text="Asa" time="after DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC4" time="after DCT" type1="sulfonylureas" type2="metformin">
+      <MEDICATION id="M4" start="597" end="607" text="Glucovance" time="after DCT" type1="sulfonylureas" type2="metformin" comment=""/>
+      <MEDICATION id="M5" start="597" end="659" text="Glucovance (GLYBURIDE/METFORMIN) 2.5-500MG, 2 Tablet(s) PO BID" time="after DCT" type1="sulfonylureas" type2="metformin" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC5" time="during DCT" type1="sulfonylureas" type2="metformin">
+      <MEDICATION id="M6" start="597" end="607" text="Glucovance" time="during DCT" type1="sulfonylureas" type2="metformin" comment=""/>
+      <MEDICATION id="M7" start="597" end="659" text="Glucovance (GLYBURIDE/METFORMIN) 2.5-500MG, 2 Tablet(s) PO BID" time="during DCT" type1="sulfonylureas" type2="metformin" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC6" time="during DCT" indicator="high bp">
+      <HYPERTENSION id="H3" start="2524" end="2545" text="BP 146/80 R  L 136/80" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H4" start="2524" end="2533" text="BP 146/80" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H5" start="2524" end="2535" text="BP 146/80 R" time="during DCT" indicator="high bp" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC7" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H6" start="1383" end="1395" text="Hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H7" start="1383" end="1395" text="Hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H8" start="2581" end="2584" text="HTN" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <MEDICATION id="DOC8" time="after DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M8" start="297" end="305" text="Atenolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M9" start="297" end="305" text="Atenolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M10" start="1289" end="1333" text="ATENOLOL 50MG, 1 Tablet(s) PO QD x 30 day(s)" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M11" start="2672" end="2692" text="Atenolol to 50 mg QD" time="after DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <SMOKER id="DOC9" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" status="unknown"/>
+      <SMOKER id="S2" status="unknown"/>
+    </SMOKER>
+    <DIABETES id="DOC10" time="before DCT" indicator="mention">
+      <DIABETES id="D3" start="1350" end="1367" text="Diabetes mellitus" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D4" start="1350" end="1358" text="Diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D5" start="1349" end="1380" text=" Diabetes mellitus : adult-onse" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <MEDICATION id="DOC11" time="after DCT" type1="ARB" type2="">
+      <MEDICATION id="M12" start="446" end="452" text="Cozaar" time="after DCT" type1="ARB" type2="" comment=""/>
+      <MEDICATION id="M13" start="446" end="453" text="Cozaar " time="after DCT" type1="ARB" type2="" comment=""/>
+      <MEDICATION id="M14" start="393" end="444" text="Asa (ACETYLSALICYLIC Acid) 325MG, 1 Tablet(s) PO QD" time="after DCT" type1="ARB" type2="" comment=""/>
+      <MEDICATION id="M15" start="446" end="488" text="Cozaar (LOSARTAN) 100MG, 1 Tablet(s) PO QD" time="after DCT" type1="ARB" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC12" time="before DCT" type1="sulfonylureas" type2="metformin">
+      <MEDICATION id="M16" start="597" end="607" text="Glucovance" time="before DCT" type1="sulfonylureas" type2="metformin" comment=""/>
+      <MEDICATION id="M17" start="597" end="659" text="Glucovance (GLYBURIDE/METFORMIN) 2.5-500MG, 2 Tablet(s) PO BID" time="before DCT" type1="sulfonylureas" type2="metformin" comment=""/>
+    </MEDICATION>
+    <FAMILY_HIST id="DOC13" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <MEDICATION id="DOC14" time="before DCT" type1="aspirin" type2="">
+      <MEDICATION id="M18" start="393" end="396" text="Asa" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M19" start="393" end="396" text="Asa" time="before DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC15" time="before DCT" indicator="high bp">
+      <HYPERTENSION id="H9" start="108" end="114" text="160/88" time="before DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H10" start="108" end="114" text="160/88" time="before DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H11" start="69" end="114" text="2 days ago had BP checked here and was 160/88" time="before DCT" indicator="high bp" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC16" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H12" start="1383" end="1395" text="Hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H13" start="56" end="67" text="elevated BP" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H14" start="1383" end="1395" text="Hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H15" start="2581" end="2584" text="HTN" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <MEDICATION id="DOC17" time="before DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M20" start="297" end="305" text="Atenolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M21" start="297" end="306" text="Atenolol " time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M22" start="297" end="305" text="Atenolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M23" start="1289" end="1333" text="ATENOLOL 50MG, 1 Tablet(s) PO QD x 30 day(s)" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M24" start="2672" end="2692" text="Atenolol to 50 mg QD" time="before DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC18" time="during DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M25" start="297" end="305" text="Atenolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M26" start="297" end="305" text="Atenolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M27" start="1289" end="1333" text="ATENOLOL 50MG, 1 Tablet(s) PO QD x 30 day(s)" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M28" start="2672" end="2692" text="Atenolol to 50 mg QD" time="during DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <DIABETES id="DOC19" time="after DCT" indicator="mention">
+      <DIABETES id="D6" start="1350" end="1367" text="Diabetes mellitus" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D7" start="1350" end="1358" text="Diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D8" start="1349" end="1380" text=" Diabetes mellitus : adult-onse" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <MEDICATION id="DOC20" time="during DCT" type1="ARB" type2="">
+      <MEDICATION id="M29" start="446" end="452" text="Cozaar" time="during DCT" type1="ARB" type2="" comment=""/>
+      <MEDICATION id="M30" start="446" end="453" text="Cozaar " time="during DCT" type1="ARB" type2="" comment=""/>
+      <MEDICATION id="M31" start="393" end="444" text="Asa (ACETYLSALICYLIC Acid) 325MG, 1 Tablet(s) PO QD" time="during DCT" type1="ARB" type2="" comment=""/>
+      <MEDICATION id="M32" start="446" end="488" text="Cozaar (LOSARTAN) 100MG, 1 Tablet(s) PO QD" time="during DCT" type1="ARB" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC21" time="before DCT" type1="ARB" type2="">
+      <MEDICATION id="M33" start="446" end="452" text="Cozaar" time="before DCT" type1="ARB" type2="" comment=""/>
+      <MEDICATION id="M34" start="446" end="453" text="Cozaar " time="before DCT" type1="ARB" type2="" comment=""/>
+      <MEDICATION id="M35" start="393" end="444" text="Asa (ACETYLSALICYLIC Acid) 325MG, 1 Tablet(s) PO QD" time="before DCT" type1="ARB" type2="" comment=""/>
+      <MEDICATION id="M36" start="446" end="488" text="Cozaar (LOSARTAN) 100MG, 1 Tablet(s) PO QD" time="before DCT" type1="ARB" type2="" comment=""/>
+    </MEDICATION>
+    <PHI id="P0" start="16" end="26" text="2096-01-26" TYPE="DATE"/>
+    <PHI id="P1" start="31" end="33" text="56" TYPE="AGE"/>
+    <PHI id="P2" start="951" end="964" text="Page, michael" TYPE="DOCTOR"/>
+    <PHI id="P3" start="1185" end="1198" text="Page, michael" TYPE="DOCTOR"/>
+    <PHI id="P4" start="1489" end="1496" text="3/15/94" TYPE="DATE"/>
+    <PHI id="P5" start="1562" end="1566" text="DDCH" TYPE="HOSPITAL"/>
+    <PHI id="P6" start="1570" end="1574" text="2090" TYPE="DATE"/>
+    <PHI id="P7" start="1961" end="1969" text="Oct. '94" TYPE="DATE"/>
+    <PHI id="P8" start="2168" end="2180" text="Umberto Xuan" TYPE="DOCTOR"/>
+    <PHI id="P9" start="2182" end="2187" text="2/'95" TYPE="DATE"/>
+    <PHI id="P10" start="2289" end="2293" text="1/96" TYPE="DATE"/>
+    <PHI id="P11" start="2658" end="2661" text="Ito" TYPE="DOCTOR"/>
+    <PHI id="P12" start="2808" end="2811" text="Ito" TYPE="DOCTOR"/>
+    <PHI id="P13" start="3012" end="3015" text="Ito" TYPE="DOCTOR"/>
+  </TAGS>
+</root>

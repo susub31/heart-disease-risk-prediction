@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2078-11-16
+
+DEER LODGE CLINIC
+DLC Internal Medicine Associates
+13 Willow St                             Stephenson, Brenda
+Frackville, MD  73116                             92819461
+899-2991                                      11-16-78 
+ 
+ 
+ 
+Ms. Stephenson comes in for discussion of her stress test last week, which 
+was positive.  She went 9 minutes and 11 seconds on a modified Bruce to 
+a maximum heart rate of 131, which was 81% of predicted.  She had 1mm 
+and 2mm ST depressions, which was predictive of significant coronary 
+disease.  She continues to have chest pain only when she is exercising 
+vigorously, which is rapidly walking.  She vehemently denies that she 
+has any chest pain at rest or with less exertion.
+ 
+We began a discussion of what kind of intervention she might like to 
+have, and we will continue this over time, but currently she is not 
+interested in intervention if we can manage her medically.
+ 
+PLAN:  I will start her today on atenolol 25mg and on an aspirin.  She 
+refused nitroglycerine because she did not feel that she had any need 
+for taking it.  She will come back in one week to see how her pulse is 
+on atenolol.  
+ 
+Today blood pressure was 164/82 and her pulse was 80.  
+ 
+We will increase the atenolol as tolerated.  I will continue to work 
+with her strenuously on risk factor modification.  Her other risk 
+factors include diabetes, hypertension, and hypercholesterolemia, though 
+her cholesterol is current well controlled with an LDL of 95.  Her 
+diabetes is not as well controlled, and I think I will consider sending 
+her to Olivia Orosco for further management of this.
+ 
+She will return to see me in a week's time, and she understands that hip 
+if she has increasing chest pain that she should call me or come to the 
+hospital.
+ 
+ 
+ 
+_________________________
+Peggy Chaya Quebedeaux, M.D. 
+ 
+CT:QG:8455
+DD:11-16-78 
+DT:11-18-78 
+DV:11-16-78 
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <HYPERLIPIDEMIA id="DOC4" time="before DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY0" start="1416" end="1436" text="hypercholesterolemia" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY1" start="1416" end="1436" text="hypercholesterolemia" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY2" start="1416" end="1436" text="hypercholesterolemia" time="before DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <HYPERLIPIDEMIA id="DOC7" time="after DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY3" start="1416" end="1436" text="hypercholesterolemia" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY4" start="1416" end="1436" text="hypercholesterolemia" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY5" start="1416" end="1436" text="hypercholesterolemia" time="after DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <HYPERLIPIDEMIA id="DOC14" time="during DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY6" start="1416" end="1436" text="hypercholesterolemia" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY7" start="1416" end="1436" text="hypercholesterolemia" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY8" start="1416" end="1436" text="hypercholesterolemia" time="during DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <MEDICATION id="DOC2" time="after DCT" type1="aspirin" type2="">
+      <MEDICATION id="M0" start="1002" end="1009" text="aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M1" start="1002" end="1009" text="aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M2" start="992" end="1010" text="and on an aspirin." time="after DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC11" time="after DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M3" start="978" end="986" text="atenolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M4" start="978" end="986" text="atenolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M5" start="959" end="986" text="start her today on atenolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC3" time="during DCT" indicator="high bp">
+      <HYPERTENSION id="H0" start="1202" end="1209" text="164/82 " time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H1" start="1202" end="1208" text="164/82" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H2" start="1202" end="1208" text="164/82" time="during DCT" indicator="high bp" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC5" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H3" start="1398" end="1410" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H4" start="1398" end="1410" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H5" start="1398" end="1410" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC10" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H6" start="1398" end="1410" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H7" start="1398" end="1410" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H8" start="1398" end="1410" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC13" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H9" start="1398" end="1410" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H10" start="1398" end="1410" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H11" start="1398" end="1410" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <CAD id="DOC1" time="before DCT" indicator="test">
+      <CAD id="C0" start="484" end="502" text="2mm ST depressions" time="before DCT" indicator="test" comment=""/>
+      <CAD id="C1" start="302" end="348" text="her stress test last week, which  was positive" time="before DCT" indicator="test" comment=""/>
+    </CAD>
+    <FAMILY_HIST id="DOC6" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC12" status="unknown">
+      <SMOKER id="S0" start="3" end="10" text="Record " status="unknown" comment=""/>
+      <SMOKER id="S1" status="unknown"/>
+      <SMOKER id="S2" status="unknown"/>
+    </SMOKER>
+    <DIABETES id="DOC0" time="before DCT" indicator="mention">
+      <DIABETES id="D0" start="1388" end="1396" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D1" start="1388" end="1396" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D2" start="1388" end="1396" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC8" time="after DCT" indicator="mention">
+      <DIABETES id="D3" start="1388" end="1396" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D4" start="1388" end="1396" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D5" start="1388" end="1396" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC9" time="during DCT" indicator="mention">
+      <DIABETES id="D6" start="1388" end="1396" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D7" start="1388" end="1396" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D8" start="1388" end="1396" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+  </TAGS>
+</root>

@@ -1,0 +1,245 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2079-02-02
+
+
+
+
+
+PINELLAS GENERAL HOSPITAL
+
+PINELLAS Internal Medicine Associates
+
+76 Topaz Drive
+
+Petersham, NJ  81697
+
+
+
+Ickes, Jr., William
+
+81071628
+
+02/02/79
+
+
+
+HISTORY OF PRESENT ILLNESS:  Mr. Ickes comes in with pain in his right 
+
+hip, left shoulder and for follow up of his coronary artery disease and 
+
+his left wrist.  
+
+
+
+His right hip continues to be painful at times.  A radiogram in December 
+
+showed that he has osteoarthritis in that hip.  He has been taking 
+
+Motrin twice a day and finds that he does get some relief with that.
+
+
+
+His left shoulder has been bothering him for awhile but it is actually 
+
+is somewhat better than it has been.  It hurts to abduct him more than 
+
+90 degrees or to reach behind his back.
+
+
+
+His left wrist is bothering him some now.  It is sore with most types of 
+
+motion.
+
+
+
+Regarding his diabetes, his blood sugar today was 190 early this 
+
+morning.
+
+
+
+Regarding his coronary disease, he has been walking every morning.  He 
+
+has had no chest pain pressure or discomfort.
+
+
+
+PHYSICAL EXAMINATION:  Blood pressure is 110/70, weight is 192 pounds, 
+
+pulse is 70 and regular.  He is a pleasant black man in no apparent 
+
+distress.  Neck is supple without lymphadenopathy or thyromegaly.  Chest 
+
+is clear to auscultation and percussion.  Cardiac, S1, S2, regular rate 
+
+and rhythm, no murmurs or gallops.  Abdomen is soft.  Extremities, 
+
+without edema.  Right hip, no pain with leg rolling.  Left shoulder is 
+
+able to abduct to 90 degrees with no discomfort at all and is able to 
+
+abduct completely with only minimal discomfort.  It is nontender to 
+
+palpation.  Left wrist, he is a little tender over the medial joint 
+
+line.  
+
+
+
+ASSESSMENT AND PLAN:
+
+
+
+1.	Right hip:  I think he has degenerative joint disease and I want him 
+
+to continue on the Motrin as needed.
+
+	
+
+2.	Left shoulder:  I may well have bursitis here.  He feels this has 
+
+improved a lot and he would just as soon not do anything different 
+
+for now but will let me know if it causes more problems.
+
+	
+
+
+
+
+
+	Ickes, Jr., William
+
+	81071628
+
+	02/02/79
+
+	Page 2
+
+	
+
+3.	Left wrist:  He probably also has some arthritis in his left wrist.  
+
+He is tender in the joint line today.  It is bothering him a little 
+
+bit but not enough that he would like to do anything about it.
+
+	
+
+4.	Coronary disease:  He has been doing well from this prospective.  He 
+
+has no recent chest pain, pressure or discomfort and his LDL has been 
+
+very well controlled.
+
+	
+
+5.	Diabetes:  His last hemoglobin A1c was slightly elevated and we will 
+
+check another one today.  I will have him follow up with Olga in 
+
+PIMA regarding his diabetic control.
+
+
+
+
+
+
+
+Larry Frantz, M.D.
+
+
+
+LF:jessup;33-437857.doc;DD:02/25/79;DT:02/26/79;DV:02/02/79
+
+
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <CAD id="DOC0" time="after DCT" indicator="mention">
+      <CAD id="C0" start="298" end="321" text="coronary artery disease" time="after DCT" indicator="mention" comment=""/>
+      <CAD id="C1" start="298" end="321" text="coronary artery disease" time="after DCT" indicator="mention" comment=""/>
+      <CAD id="C2" start="933" end="949" text="coronary disease" time="after DCT" indicator="mention" comment=""/>
+      <CAD id="C3" start="2312" end="2328" text="Coronary disease" time="after DCT" indicator="mention" comment=""/>
+      <CAD id="C4" start="298" end="321" text="coronary artery disease" time="after DCT" indicator="mention" comment=""/>
+    </CAD>
+    <DIABETES id="DOC1" time="before DCT" indicator="mention">
+      <DIABETES id="D0" start="854" end="862" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D1" start="853" end="862" text=" diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D2" start="2484" end="2492" text="Diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D3" start="854" end="862" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D4" start="2484" end="2492" text="Diabetes" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <CAD id="DOC2" time="before DCT" indicator="mention">
+      <CAD id="C5" start="298" end="321" text="coronary artery disease" time="before DCT" indicator="mention" comment=""/>
+      <CAD id="C6" start="298" end="321" text="coronary artery disease" time="before DCT" indicator="mention" comment=""/>
+      <CAD id="C7" start="933" end="949" text="coronary disease" time="before DCT" indicator="mention" comment=""/>
+      <CAD id="C8" start="2312" end="2328" text="Coronary disease" time="before DCT" indicator="mention" comment=""/>
+      <CAD id="C9" start="298" end="321" text="coronary artery disease" time="before DCT" indicator="mention" comment=""/>
+    </CAD>
+    <CAD id="DOC3" time="during DCT" indicator="mention">
+      <CAD id="C10" start="298" end="321" text="coronary artery disease" time="during DCT" indicator="mention" comment=""/>
+      <CAD id="C11" start="298" end="321" text="coronary artery disease" time="during DCT" indicator="mention" comment=""/>
+      <CAD id="C12" start="933" end="949" text="coronary disease" time="during DCT" indicator="mention" comment=""/>
+      <CAD id="C13" start="2312" end="2328" text="Coronary disease" time="during DCT" indicator="mention" comment=""/>
+      <CAD id="C14" start="298" end="321" text="coronary artery disease" time="during DCT" indicator="mention" comment=""/>
+    </CAD>
+    <FAMILY_HIST id="DOC4" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC5" status="unknown">
+      <SMOKER id="S0" start="3" end="9" text="Record" status="unknown" comment=""/>
+      <SMOKER id="S1" status="unknown"/>
+      <SMOKER id="S2" status="unknown"/>
+    </SMOKER>
+    <DIABETES id="DOC6" time="after DCT" indicator="mention">
+      <DIABETES id="D5" start="854" end="862" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D6" start="853" end="862" text=" diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D7" start="2484" end="2492" text="Diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D8" start="854" end="862" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D9" start="2484" end="2492" text="Diabetes" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC7" time="during DCT" indicator="mention">
+      <DIABETES id="D10" start="854" end="862" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D11" start="853" end="862" text=" diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D12" start="2484" end="2492" text="Diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D13" start="854" end="862" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D14" start="2484" end="2492" text="Diabetes" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <PHI id="P0" start="16" end="26" text="2079-02-02" TYPE="DATE"/>
+    <PHI id="P1" start="32" end="57" text="PINELLAS GENERAL HOSPITAL" TYPE="HOSPITAL"/>
+    <PHI id="P2" start="59" end="67" text="PINELLAS" TYPE="HOSPITAL"/>
+    <PHI id="P3" start="98" end="112" text="76 Topaz Drive" TYPE="STREET"/>
+    <PHI id="P4" start="114" end="123" text="Petersham" TYPE="CITY"/>
+    <PHI id="P5" start="125" end="127" text="NJ" TYPE="STATE"/>
+    <PHI id="P6" start="129" end="134" text="81697" TYPE="ZIP"/>
+    <PHI id="P7" start="138" end="157" text="Ickes, Jr., William" TYPE="PATIENT"/>
+    <PHI id="P8" start="159" end="167" text="81071628" TYPE="MEDICALRECORD"/>
+    <PHI id="P9" start="169" end="177" text="02/02/79" TYPE="DATE"/>
+    <PHI id="P10" start="214" end="219" text="Ickes" TYPE="PATIENT"/>
+    <PHI id="P11" start="413" end="421" text="December" TYPE="DATE"/>
+    <PHI id="P12" start="2043" end="2062" text="Ickes, Jr., William" TYPE="PATIENT"/>
+    <PHI id="P13" start="2065" end="2073" text="81071628" TYPE="MEDICALRECORD"/>
+    <PHI id="P14" start="2076" end="2084" text="02/02/79" TYPE="DATE"/>
+    <PHI id="P15" start="2612" end="2616" text="Olga" TYPE="DOCTOR"/>
+    <PHI id="P16" start="2622" end="2623" text="P" TYPE="HOSPITAL"/>
+    <PHI id="P17" start="2666" end="2678" text="Larry Frantz" TYPE="DOCTOR"/>
+    <PHI id="P18" start="2688" end="2690" text="LF" TYPE="DOCTOR"/>
+    <PHI id="P19" start="2691" end="2697" text="jessup" TYPE="DOCTOR"/>
+    <PHI id="P20" start="2698" end="2707" text="33-437857" TYPE="IDNUM"/>
+    <PHI id="P21" start="2715" end="2723" text="02/25/79" TYPE="DATE"/>
+    <PHI id="P22" start="2727" end="2735" text="02/26/79" TYPE="DATE"/>
+    <PHI id="P23" start="2739" end="2747" text="02/02/79" TYPE="DATE"/>
+  </TAGS>
+</root>

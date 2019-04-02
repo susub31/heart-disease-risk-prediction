@@ -1,0 +1,203 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2066-03-05
+
+
+
+
+
+INTERNAL MEDICINE ASSOCIATES
+
+OCHILTREE GENERAL HOSPITAL
+
+
+
+History of present illness   The patient is a 53year-old male returns for diabetes and evaluation of swelling in his right testicle.  He was seen on 02/20/2066, given Levaquin for orchitis versus epididymis.  The patient took the medicine and was seen by Urology.  By the time, he saw Urology on 03/04/2066, the swelling had mostly resolved.  The patient has no pain nor urinary symptoms.  Urine culture was negative.  He feels fine at this time.  No polyuria or polydipsia.  No chest pain or shortness of breath.
+
+
+
+Major Problems
+
+Impotence
+
+
+
+Degenerative arthritis
+
+
+
+Hyperlipidemia
+
+
+
+Diabetes mellitus (adult onset)
+
+
+
+
+
+Change in therapies and Renewals
+
+Viagra    PRN
+
+Avandia 4 mg 1 tab  qd
+
+Naprosyn 500 mg  bid PRN
+
+Pravachol 20 mg  QD
+
+aspirin 325 mg 1 tab  qd
+
+Levaquin 500 mg po qd x10d QTY:10 Refills:0 Start: 2/20/2066 End: 3/05/2066 - Inactivated
+
+
+
+Physical examination
+
+Blood pressure 138/90  
+
+Weight   209 pounds
+
+General appearance   No acute distress
+
+Chest   Lungs clear
+
+Cor   Regular rhythm.  S1 and S2 normal.  No murmur, S3, or S4
+
+Abdomen   Soft and nontender.  No masses
+
+Genitalia   Testicles, normal sized bilaterally.  No pain or no swelling.  No hernia
+
+Extrem   No edema
+
+
+
+Assessment and plan   Epididymis.  Resolved.  Return if symptoms recur     Type 2 diabetes mellitus.  Check hemoglobin A1c.  Continue Avandia     Hyperlipidemia.  Continue Pravachol
+
+
+
+Disposition
+
+Return in three months.
+
+
+
+Note transcribed by outside service   Transcription errors may be present.
+
+
+
+Signed electronically by   Steven  Thomson   on  Mar 10, 2066     
+
+
+
+]]></TEXT>
+  <TAGS>
+    <HYPERLIPIDEMIA id="DOC7" time="before DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY0" start="664" end="678" text="Hyperlipidemia" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY1" start="664" end="678" text="Hyperlipidemia" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY2" start="664" end="678" text="Hyperlipidemia" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY3" start="1446" end="1460" text="Hyperlipidemia" time="before DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <HYPERLIPIDEMIA id="DOC9" time="after DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY4" start="664" end="678" text="Hyperlipidemia" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY5" start="664" end="678" text="Hyperlipidemia" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY6" start="664" end="678" text="Hyperlipidemia" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY7" start="1446" end="1460" text="Hyperlipidemia" time="after DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <HYPERLIPIDEMIA id="DOC16" time="during DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY8" start="664" end="678" text="Hyperlipidemia" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY9" start="664" end="678" text="Hyperlipidemia" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY10" start="664" end="678" text="Hyperlipidemia" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY11" start="1446" end="1460" text="Hyperlipidemia" time="during DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <MEDICATION id="DOC0" time="before DCT" type1="statin" type2="">
+      <MEDICATION id="M0" start="818" end="827" text="Pravachol" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M1" start="818" end="827" text="Pravachol" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M2" start="818" end="827" text="Pravachol" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M3" start="1472" end="1481" text="Pravachol" time="before DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC1" time="during DCT" type1="statin" type2="">
+      <MEDICATION id="M4" start="818" end="827" text="Pravachol" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M5" start="818" end="827" text="Pravachol" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M6" start="818" end="827" text="Pravachol" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M7" start="1472" end="1481" text="Pravachol" time="during DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC2" time="during DCT" type1="thiazolidinedione" type2="">
+      <MEDICATION id="M8" start="768" end="775" text="Avandia" time="during DCT" type1="thiazolidinedione" type2="" comment=""/>
+      <MEDICATION id="M9" start="768" end="775" text="Avandia" time="during DCT" type1="thiazolidinedione" type2="" comment=""/>
+      <MEDICATION id="M10" start="768" end="775" text="Avandia" time="during DCT" type1="thiazolidinedione" type2="" comment=""/>
+      <MEDICATION id="M11" start="1434" end="1441" text="Avandia" time="during DCT" type1="thiazolidinedione" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC3" time="after DCT" type1="thiazolidinedione" type2="">
+      <MEDICATION id="M12" start="768" end="775" text="Avandia" time="after DCT" type1="thiazolidinedione" type2="" comment=""/>
+      <MEDICATION id="M13" start="768" end="775" text="Avandia" time="after DCT" type1="thiazolidinedione" type2="" comment=""/>
+      <MEDICATION id="M14" start="768" end="775" text="Avandia" time="after DCT" type1="thiazolidinedione" type2="" comment=""/>
+      <MEDICATION id="M15" start="1434" end="1441" text="Avandia" time="after DCT" type1="thiazolidinedione" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC4" time="after DCT" type1="statin" type2="">
+      <MEDICATION id="M16" start="818" end="827" text="Pravachol" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M17" start="818" end="827" text="Pravachol" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M18" start="818" end="827" text="Pravachol" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M19" start="1472" end="1481" text="Pravachol" time="after DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC5" time="before DCT" type1="aspirin" type2="">
+      <MEDICATION id="M20" start="839" end="846" text="aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M21" start="839" end="847" text="aspirin " time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M22" start="839" end="846" text="aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC11" time="before DCT" type1="thiazolidinedione" type2="">
+      <MEDICATION id="M23" start="768" end="775" text="Avandia" time="before DCT" type1="thiazolidinedione" type2="" comment=""/>
+      <MEDICATION id="M24" start="768" end="775" text="Avandia" time="before DCT" type1="thiazolidinedione" type2="" comment=""/>
+      <MEDICATION id="M25" start="768" end="775" text="Avandia" time="before DCT" type1="thiazolidinedione" type2="" comment=""/>
+      <MEDICATION id="M26" start="1434" end="1441" text="Avandia" time="before DCT" type1="thiazolidinedione" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC12" time="after DCT" type1="aspirin" type2="">
+      <MEDICATION id="M27" start="839" end="846" text="aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M28" start="839" end="847" text="aspirin " time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M29" start="839" end="846" text="aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC17" time="during DCT" type1="aspirin" type2="">
+      <MEDICATION id="M30" start="839" end="846" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M31" start="839" end="847" text="aspirin " time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M32" start="839" end="846" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC6" time="during DCT" indicator="high bp">
+      <HYPERTENSION id="H0" start="995" end="1002" text="138/90 " time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H1" start="980" end="1003" text="Blood pressure 138/90  " time="during DCT" indicator="high bp" comment=""/>
+    </HYPERTENSION>
+    <FAMILY_HIST id="DOC13" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC14" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" start="3" end="9" text="Record" status="unknown" comment=""/>
+      <SMOKER id="S2" status="unknown"/>
+    </SMOKER>
+    <DIABETES id="DOC8" time="before DCT" indicator="mention">
+      <DIABETES id="D0" start="166" end="174" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D1" start="166" end="174" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D2" start="682" end="714" text="Diabetes mellitus (adult onset) " time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D3" start="1375" end="1399" text="Type 2 diabetes mellitus" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D4" start="166" end="174" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC10" time="during DCT" indicator="mention">
+      <DIABETES id="D5" start="166" end="174" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D6" start="166" end="174" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D7" start="682" end="714" text="Diabetes mellitus (adult onset) " time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D8" start="1375" end="1399" text="Type 2 diabetes mellitus" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D9" start="166" end="174" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC15" time="after DCT" indicator="mention">
+      <DIABETES id="D10" start="166" end="174" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D11" start="166" end="174" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D12" start="682" end="714" text="Diabetes mellitus (adult onset) " time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D13" start="1375" end="1399" text="Type 2 diabetes mellitus" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D14" start="166" end="174" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+  </TAGS>
+</root>

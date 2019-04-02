@@ -1,0 +1,219 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2071-04-11
+
+            Burn Surgery Admission H&P 		Date/Time: 4/11/71, 9am
+****************************************************
+Name: Rivers, Karsten   
+MRN# 95718084 
+Resident: Gillis
+Attending: Michael 
+****************************************************
+CC: burn to R foot
+HPI: 
+44yo diabetic M with peripheral neuropathy, fell asleep in front of space heater approximately 3 weeks ago and noted swelling/blisters at tips of R 1st-3rd toes upon waking.  His wounds have been managed until this time by his podiatrist and his mother (a former doctor) has been doing dressing changes at home- initially with silvadene but over the past several days with ?betadine as directed by his podiatrist.  The pt is a floor covering installer, and has been bearing weight on the R foot since his injury and admits that he has not been compliant wearing a heel boot.  He has not had fever/chills, nausea/emesis and in general feels well.  He has not had pain in the foot, but does have a significant neuropathy.  His podiatrist recommended that he be evaluated by plastic/burn surgery and he presents to burn clinic for further evaluation.
+-- 
+PMHx: 
+NIDDM
+HTN
+dyslipidemia
+PSHx: 
+R shoulder
+L hip
+umbilical hernia
+Meds: 
+toprol xl 100 qd
+glucophage 1000 bid
+neurontin 400 bid
+minoxidil 10 qd
+lipitor 20 qd
+lasix 20 qd
+avalide 300/12.5 qd
+ASA 81 qd
+cipro 500 bid
+All: Augmentin- rash
+SHx: 
+smoker
+-- 
+PE: 
+General: AOx3, NAD 
+Chest: CTA B 
+Heart: RRR 
+Abdomen: obese, NT/ND  
+Extremities: wwp, +3rd degree burns with areas of grey eschar at tips of 1st-3rd toes on R extending to plantar surfaces; some areas of pink granulating tissue.  + surrounding erythema- does not extend beyond toes onto foot, most significant on 3rd toe.  +wound on lat surface of 4th toe (site of recent corn removal per pt)- clean with no erythema/drainage    
+Pulses: dp/pt 2+ bilaterally
+-- 
+Labs: 
+	pending
+	EKG: pending 
+-- 
+Imaging: 
+CXR: pending
+-- 
+Assessment: 
+44yo M with 3rd degree burn to R 1st/2nd/3rd toes and superimposed cellulitis.  
+--
+Plan:
+Admit to Michael/burn service
+triple abx, leg elevation at all times, NWB RLE
+dressing changes with silvadine/gauze bid
+OR for debridement/possible grafting when celluliltis improves; f/u labs, UA, CXR, EKG
+--
+D/W Dr. Michael, who agrees with assessment and plan.
+-- 
+Julia Gillis MD
+50741
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="after DCT" type1="statin" type2="">
+      <MEDICATION id="M0" start="1302" end="1309" text="lipitor" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M1" start="1302" end="1315" text="lipitor 20 qd" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M2" start="1302" end="1310" text="lipitor " time="after DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC1" time="during DCT" type1="aspirin" type2="">
+      <MEDICATION id="M3" start="1348" end="1351" text="ASA" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M4" start="1348" end="1357" text="ASA 81 qd" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M5" start="1348" end="1352" text="ASA " time="during DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC2" time="after DCT" type1="metformin" type2="">
+      <MEDICATION id="M6" start="1248" end="1258" text="glucophage" time="after DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M7" start="1248" end="1267" text="glucophage 1000 bid" time="after DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M8" start="1248" end="1258" text="glucophage" time="after DCT" type1="metformin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC3" time="during DCT" type1="metformin" type2="">
+      <MEDICATION id="M9" start="1248" end="1258" text="glucophage" time="during DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M10" start="1248" end="1267" text="glucophage 1000 bid" time="during DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M11" start="1248" end="1258" text="glucophage" time="during DCT" type1="metformin" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC4" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="1166" end="1169" text="HTN" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="1166" end="1169" text="HTN" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H2" start="1166" end="1169" text="HTN" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERLIPIDEMIA id="DOC5" time="before DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY0" start="1170" end="1182" text="dyslipidemia" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY1" start="1170" end="1182" text="dyslipidemia" time="before DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <DIABETES id="DOC6" time="during DCT" indicator="mention">
+      <DIABETES id="D0" start="306" end="314" text="diabetic" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D1" start="1160" end="1165" text="NIDDM" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D2" start="1160" end="1165" text="NIDDM" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <MEDICATION id="DOC7" time="after DCT" type1="aspirin" type2="">
+      <MEDICATION id="M12" start="1348" end="1351" text="ASA" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M13" start="1348" end="1357" text="ASA 81 qd" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M14" start="1348" end="1352" text="ASA " time="after DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERLIPIDEMIA id="DOC8" time="during DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY2" start="1170" end="1182" text="dyslipidemia" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY3" start="1170" end="1182" text="dyslipidemia" time="during DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <HYPERTENSION id="DOC9" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H3" start="1166" end="1169" text="HTN" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H4" start="1166" end="1169" text="HTN" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H5" start="1166" end="1169" text="HTN" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <MEDICATION id="DOC10" time="after DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M15" start="1231" end="1237" text="toprol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M16" start="1231" end="1247" text="toprol xl 100 qd" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M17" start="1231" end="1237" text="toprol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <DIABETES id="DOC11" time="before DCT" indicator="mention">
+      <DIABETES id="D3" start="306" end="314" text="diabetic" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D4" start="1160" end="1165" text="NIDDM" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D5" start="1160" end="1165" text="NIDDM" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <MEDICATION id="DOC12" time="after DCT" type1="ARB" type2="">
+      <MEDICATION id="M18" start="1328" end="1335" text="avalide" time="after DCT" type1="ARB" type2="" comment=""/>
+      <MEDICATION id="M19" start="1328" end="1347" text="avalide 300/12.5 qd" time="after DCT" type1="ARB" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC13" time="before DCT" type1="statin" type2="">
+      <MEDICATION id="M20" start="1302" end="1309" text="lipitor" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M21" start="1302" end="1315" text="lipitor 20 qd" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M22" start="1302" end="1310" text="lipitor " time="before DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC14" time="during DCT" type1="statin" type2="">
+      <MEDICATION id="M23" start="1302" end="1309" text="lipitor" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M24" start="1302" end="1315" text="lipitor 20 qd" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M25" start="1302" end="1310" text="lipitor " time="during DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC15" time="before DCT" type1="metformin" type2="">
+      <MEDICATION id="M26" start="1248" end="1258" text="glucophage" time="before DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M27" start="1248" end="1267" text="glucophage 1000 bid" time="before DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M28" start="1248" end="1258" text="glucophage" time="before DCT" type1="metformin" type2="" comment=""/>
+    </MEDICATION>
+    <FAMILY_HIST id="DOC16" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <HYPERLIPIDEMIA id="DOC17" time="after DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY4" start="1170" end="1182" text="dyslipidemia" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY5" start="1170" end="1182" text="dyslipidemia" time="after DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <MEDICATION id="DOC18" time="before DCT" type1="aspirin" type2="">
+      <MEDICATION id="M29" start="1348" end="1351" text="ASA" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M30" start="1348" end="1357" text="ASA 81 qd" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M31" start="1348" end="1352" text="ASA " time="before DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <SMOKER id="DOC19" status="current">
+      <SMOKER id="S0" start="1399" end="1405" text="smoker" status="current" comment=""/>
+      <SMOKER id="S1" start="1399" end="1405" text="smoker" status="current" comment=""/>
+      <SMOKER id="S2" start="1399" end="1405" text="smoker" status="current" comment=""/>
+    </SMOKER>
+    <OBESE id="DOC20" time="during DCT" indicator="mention">
+      <OBESE id="O0" start="1470" end="1475" text="obese" time="during DCT" indicator="mention" comment=""/>
+      <OBESE id="O1" start="1470" end="1475" text="obese" time="during DCT" indicator="mention" comment=""/>
+    </OBESE>
+    <HYPERTENSION id="DOC21" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H6" start="1166" end="1169" text="HTN" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H7" start="1166" end="1169" text="HTN" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H8" start="1166" end="1169" text="HTN" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <MEDICATION id="DOC22" time="before DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M32" start="1231" end="1237" text="toprol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M33" start="1231" end="1247" text="toprol xl 100 qd" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M34" start="1231" end="1237" text="toprol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC23" time="during DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M35" start="1231" end="1237" text="toprol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M36" start="1231" end="1247" text="toprol xl 100 qd" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M37" start="1231" end="1237" text="toprol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <DIABETES id="DOC24" time="after DCT" indicator="mention">
+      <DIABETES id="D6" start="306" end="314" text="diabetic" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D7" start="306" end="314" text="diabetic" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D8" start="1160" end="1165" text="NIDDM" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D9" start="1160" end="1165" text="NIDDM" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <MEDICATION id="DOC25" time="during DCT" type1="ARB" type2="">
+      <MEDICATION id="M38" start="1328" end="1335" text="avalide" time="during DCT" type1="ARB" type2="" comment=""/>
+      <MEDICATION id="M39" start="1328" end="1347" text="avalide 300/12.5 qd" time="during DCT" type1="ARB" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC26" time="before DCT" type1="ARB" type2="">
+      <MEDICATION id="M40" start="1328" end="1335" text="avalide" time="before DCT" type1="ARB" type2="" comment=""/>
+      <MEDICATION id="M41" start="1328" end="1347" text="avalide 300/12.5 qd" time="before DCT" type1="ARB" type2="" comment=""/>
+    </MEDICATION>
+    <PHI id="P0" start="16" end="26" text="2071-04-11" TYPE="DATE"/>
+    <PHI id="P1" start="80" end="87" text="4/11/71" TYPE="DATE"/>
+    <PHI id="P2" start="152" end="167" text="Rivers, Karsten" TYPE="PATIENT"/>
+    <PHI id="P3" start="176" end="184" text="95718084" TYPE="MEDICALRECORD"/>
+    <PHI id="P4" start="196" end="202" text="Gillis" TYPE="DOCTOR"/>
+    <PHI id="P5" start="214" end="221" text="Michael" TYPE="DOCTOR"/>
+    <PHI id="P6" start="301" end="303" text="44" TYPE="AGE"/>
+    <PHI id="P7" start="564" end="570" text="doctor" TYPE="PROFESSION"/>
+    <PHI id="P8" start="728" end="752" text="floor covering installer" TYPE="PROFESSION"/>
+    <PHI id="P9" start="1955" end="1957" text="44" TYPE="AGE"/>
+    <PHI id="P10" start="2054" end="2061" text="Michael" TYPE="DOCTOR"/>
+    <PHI id="P11" start="2263" end="2270" text="Michael" TYPE="DOCTOR"/>
+    <PHI id="P12" start="2313" end="2325" text="Julia Gillis" TYPE="DOCTOR"/>
+    <PHI id="P13" start="2329" end="2334" text="50741" TYPE="PHONE"/>
+  </TAGS>
+</root>

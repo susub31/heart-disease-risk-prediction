@@ -1,0 +1,130 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2092-03-15
+
+Medical Walk In Unit
+Kelliher Care Center
+81 Old Mill Lane 
+Devils Lake, NV 95196
+Phone: 170-574-2276   Fax: 966-221-9723 
+
+PCP: 
+
+
+Nursing Assessment:  
+WT:    Temp:    P:     BP: 
+
+Reason for visit:
+chest pain
+
+Lab Data :
+
+Allergies:      
+nka
+
+Medication: 
+ASA
+
+History of the Present Illness:                                
+67 yo male with history of CAD (known LAD lesion) with chest pain last night and today.  typically, patient able to exercise 25 minutes on an inclinced tread mill.  Able to exercise yesterday without chest pain.  Last night, has onset of Chest pressure at rest with associated nausea and light headedness.  No radiation or diaphoresis and no palpitations.  Took a nitro and releived.
+
+Today, did not exercise.  This afternoon, had onset of similar chest pressure at rest.  the pressure waxed and waned for some time and then patient took a nitro and had releif.  Again, pressure associated with nausea and lightneadedness but no diaphoresis or palpitations.
+
+prior to last night, patient cannot remember that last time that he needed to take a nitro.
+
+Pertinent PMH:  
+CADsmoker
+GERD
+
+Physical Exam:  
+
+JVP <10cm 
+Chest CTA
+RRR nl1 and s2
+abdomen soft
+
+Assessment/Plan:
+Unstable angina - History suggested accelerated angina with possible studdering nature.  Could be GERD, but releived with nitro.  Need to r/o cardiac causes and risk strat.
+
+Plan:
+To ED - cycle enxymes and EKGs and plan MIBI
+
+Follow-up:
+as above
+
+
+
+
+_____________________________________________
+Herman N. Weller, M.D.
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <CAD id="DOC0" time="before DCT" indicator="mention">
+      <CAD id="C0" start="384" end="387" text="CAD" time="before DCT" indicator="mention" comment=""/>
+      <CAD id="C1" start="1126" end="1129" text="CAD" time="before DCT" indicator="mention" comment=""/>
+      <CAD id="C2" start="372" end="387" text=" history of CAD" time="before DCT" indicator="mention" comment=""/>
+      <CAD id="C3" start="384" end="387" text="CAD" time="before DCT" indicator="mention" comment=""/>
+    </CAD>
+    <MEDICATION id="DOC1" time="during DCT" type1="aspirin" type2="">
+      <MEDICATION id="M0" start="288" end="291" text="ASA" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M1" start="288" end="291" text="ASA" time="during DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC2" time="before DCT" type1="aspirin" type2="">
+      <MEDICATION id="M2" start="288" end="291" text="ASA" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M3" start="288" end="291" text="ASA" time="before DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <FAMILY_HIST id="DOC3" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <CAD id="DOC4" time="before DCT" indicator="symptom">
+      <CAD id="C4" start="1227" end="1242" text="Unstable angina" time="before DCT" indicator="symptom" comment=""/>
+      <CAD id="C5" start="1227" end="1242" text="Unstable angina" time="before DCT" indicator="symptom" comment=""/>
+    </CAD>
+    <CAD id="DOC5" time="during DCT" indicator="mention">
+      <CAD id="C6" start="384" end="387" text="CAD" time="during DCT" indicator="mention" comment=""/>
+      <CAD id="C7" start="1126" end="1129" text="CAD" time="during DCT" indicator="mention" comment=""/>
+      <CAD id="C8" start="372" end="387" text=" history of CAD" time="during DCT" indicator="mention" comment=""/>
+      <CAD id="C9" start="384" end="387" text="CAD" time="during DCT" indicator="mention" comment=""/>
+    </CAD>
+    <MEDICATION id="DOC6" time="after DCT" type1="aspirin" type2="">
+      <MEDICATION id="M4" start="288" end="291" text="ASA" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M5" start="288" end="291" text="ASA" time="after DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <CAD id="DOC7" time="during DCT" indicator="symptom">
+      <CAD id="C10" start="1227" end="1242" text="Unstable angina" time="during DCT" indicator="symptom" comment=""/>
+      <CAD id="C11" start="1227" end="1242" text="Unstable angina" time="during DCT" indicator="symptom" comment=""/>
+    </CAD>
+    <CAD id="DOC8" time="after DCT" indicator="mention">
+      <CAD id="C12" start="384" end="387" text="CAD" time="after DCT" indicator="mention" comment=""/>
+      <CAD id="C13" start="1126" end="1129" text="CAD" time="after DCT" indicator="mention" comment=""/>
+      <CAD id="C14" start="372" end="387" text=" history of CAD" time="after DCT" indicator="mention" comment=""/>
+      <CAD id="C15" start="384" end="387" text="CAD" time="after DCT" indicator="mention" comment=""/>
+    </CAD>
+    <MEDICATION id="DOC9" time="before DCT" type1="nitrate" type2="">
+      <MEDICATION id="M6" start="721" end="726" text="nitro" time="before DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M7" start="897" end="902" text="nitro" time="before DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M8" start="721" end="726" text="nitro" time="before DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M9" start="882" end="903" text="patient took a nitro " time="before DCT" type1="nitrate" type2="" comment=""/>
+    </MEDICATION>
+    <PHI id="P0" start="16" end="26" text="2092-03-15" TYPE="DATE"/>
+    <PHI id="P1" start="49" end="69" text="Kelliher Care Center" TYPE="HOSPITAL"/>
+    <PHI id="P2" start="70" end="86" text="81 Old Mill Lane" TYPE="STREET"/>
+    <PHI id="P3" start="88" end="99" text="Devils Lake" TYPE="CITY"/>
+    <PHI id="P4" start="101" end="103" text="NV" TYPE="STATE"/>
+    <PHI id="P5" start="104" end="109" text="95196" TYPE="ZIP"/>
+    <PHI id="P6" start="117" end="129" text="170-574-2276" TYPE="PHONE"/>
+    <PHI id="P7" start="137" end="149" text="966-221-9723" TYPE="FAX"/>
+    <PHI id="P8" start="357" end="359" text="67" TYPE="AGE"/>
+    <PHI id="P9" start="1523" end="1539" text="Herman N. Weller" TYPE="DOCTOR"/>
+  </TAGS>
+</root>

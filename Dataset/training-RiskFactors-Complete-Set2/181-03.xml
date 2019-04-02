@@ -1,0 +1,157 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2080-10-11
+
+
+Hearthstone Cardiovascular Division
+CVD R5
+53 Peterborough Place                                      LEVINE, LYDIA
+Hartsville, VA 84583                                           81325605
+(201) 957-6458                                           10/11/80
+
+
+This patient was seen in combination with Dr. Lance Camacho.  His note reflects our joint assessment and plan.
+
+HISTORY OF PRESENT ILLNESS:  Briefly, Ms. Levin is a 54-year-old female with diabetes, hypertension, hypercholesterolemia, who has known coronary artery disease.  She had an exercise test in 2076 for some vague symptoms, which was positive, and led to cardiac catheterization.  This catheterization revealed 60% LAD lesion, 50% first marginal, 60% RCA, and a 70% diagonal lesion.  She was maintained on medical management with few symptoms.  She has been lost to followup from Cardiology Clinic.  She has within the last week developed increasing symptoms with minimal exertion.  She underwent a stress test in which she was able to exercise for 6 minutes and 9 seconds on the Bruce protocol.  She achieved 93% of age-predicted maximal heart rate.  At 4 minutes, she developed 2 mm ST segment depressions in the anterior leads associated with chest discomfort.  She is a vague historian, but has not had clear rest anginal symptoms.
+
+PHYSICAL EXAMINATION:  On physical examination, she is mildly obese white female.  She has no jugular venous distention.  Her carotids are 2+.  Her heart shows normal S1 and S2.  There is a 2/6 holosystolic murmur at the apex.  Lungs are clear.  Abdomen is benign.  Extremities show no cyanosis or edema.  Electrocardiogram shows normal sinus rhythm, normal axis and intervals.  There is no evidence of ischemia or infarction.
+
+ASSESSMENT:  Ms. Levin is a 55-year-old diabetic woman with progressive anginal symptoms with known moderate 3-vessel coronary artery disease from 4 years ago with at least moderate risk, positive stress test.  After discussion with Dr. Camacho, our plan will be continue her on aspirin, beta-blocker, and a low-dose ACE inhibitor through her regimen.  She refuses to take a cholesterol-lowering agent due to previous concerns with myalgias.  She will be referred for cardiac catheterization within the next several days with a goal to better define her coronary anatomy for the possibility of percutaneous coronary intervention versus cardiac bypass surgery.
+
+
+
+
+
+______________________________
+Clyde Roe, MD
+
+
+Dictated By: Clyde Roe
+
+
+eScription document:1-3896405 AFFocus
+
+
+
+DD: 10/11/80
+DT: 10/12/80
+DV: 10/11/80
+
+
+
+]]></TEXT>
+  <TAGS>
+    <HYPERLIPIDEMIA id="DOC6" time="during DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY0" start="498" end="518" text="hypercholesterolemia" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY1" start="498" end="518" text="hypercholesterolemia" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY2" start="498" end="518" text="hypercholesterolemia" time="during DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <HYPERLIPIDEMIA id="DOC12" time="after DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY3" start="498" end="518" text="hypercholesterolemia" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY4" start="498" end="518" text="hypercholesterolemia" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY5" start="498" end="518" text="hypercholesterolemia" time="after DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <HYPERLIPIDEMIA id="DOC16" time="before DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY6" start="498" end="518" text="hypercholesterolemia" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY7" start="498" end="518" text="hypercholesterolemia" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY8" start="498" end="518" text="hypercholesterolemia" time="before DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <OBESE id="DOC1" time="after DCT" indicator="mention">
+      <OBESE id="O0" start="1393" end="1398" text="obese" time="after DCT" indicator="mention" comment=""/>
+      <OBESE id="O1" start="1393" end="1398" text="obese" time="after DCT" indicator="mention" comment=""/>
+    </OBESE>
+    <OBESE id="DOC11" time="before DCT" indicator="mention">
+      <OBESE id="O2" start="1393" end="1398" text="obese" time="before DCT" indicator="mention" comment=""/>
+      <OBESE id="O3" start="1393" end="1398" text="obese" time="before DCT" indicator="mention" comment=""/>
+    </OBESE>
+    <OBESE id="DOC17" time="during DCT" indicator="mention">
+      <OBESE id="O4" start="1393" end="1398" text="obese" time="during DCT" indicator="mention" comment=""/>
+      <OBESE id="O5" start="1392" end="1399" text=" obese " time="during DCT" indicator="mention" comment=""/>
+      <OBESE id="O6" start="1393" end="1398" text="obese" time="during DCT" indicator="mention" comment=""/>
+    </OBESE>
+    <MEDICATION id="DOC0" time="during DCT" type1="aspirin" type2="">
+      <MEDICATION id="M0" start="2038" end="2045" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M1" start="2038" end="2045" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC5" time="after DCT" type1="aspirin" type2="">
+      <MEDICATION id="M2" start="2038" end="2045" text="aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M3" start="2038" end="2045" text="aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC14" time="before DCT" type1="aspirin" type2="">
+      <MEDICATION id="M4" start="2038" end="2045" text="aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M5" start="2038" end="2045" text="aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC2" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="484" end="496" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="483" end="496" text=" hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H2" start="484" end="496" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC8" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H3" start="484" end="496" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H4" start="483" end="496" text=" hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H5" start="484" end="496" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC18" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H6" start="484" end="496" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H7" start="483" end="496" text=" hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H8" start="484" end="496" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <CAD id="DOC7" time="before DCT" indicator="test">
+      <CAD id="C0" start="756" end="775" text="70% diagonal lesion" time="before DCT" indicator="test" comment=""/>
+      <CAD id="C1" start="571" end="636" text="exercise test in 2076 for some vague symptoms, which was positive" time="before DCT" indicator="test" comment=""/>
+      <CAD id="C2" start="642" end="776" text="led to cardiac catheterization.  This catheterization revealed 60% LAD lesion, 50% first marginal, 60% RCA, and a 70% diagonal lesion." time="before DCT" indicator="test" comment=""/>
+    </CAD>
+    <CAD id="DOC13" time="during DCT" indicator="mention">
+      <CAD id="C3" start="534" end="557" text="coronary artery disease" time="during DCT" indicator="mention" comment=""/>
+      <CAD id="C4" start="1877" end="1900" text="coronary artery disease" time="during DCT" indicator="mention" comment=""/>
+      <CAD id="C5" start="534" end="557" text="coronary artery disease" time="during DCT" indicator="mention" comment=""/>
+      <CAD id="C6" start="534" end="557" text="coronary artery disease" time="during DCT" indicator="mention" comment=""/>
+    </CAD>
+    <CAD id="DOC15" time="after DCT" indicator="mention">
+      <CAD id="C7" start="534" end="557" text="coronary artery disease" time="after DCT" indicator="mention" comment=""/>
+      <CAD id="C8" start="1877" end="1900" text="coronary artery disease" time="after DCT" indicator="mention" comment=""/>
+      <CAD id="C9" start="534" end="557" text="coronary artery disease" time="after DCT" indicator="mention" comment=""/>
+      <CAD id="C10" start="534" end="557" text="coronary artery disease" time="after DCT" indicator="mention" comment=""/>
+    </CAD>
+    <CAD id="DOC20" time="before DCT" indicator="mention">
+      <CAD id="C11" start="534" end="557" text="coronary artery disease" time="before DCT" indicator="mention" comment=""/>
+      <CAD id="C12" start="1877" end="1900" text="coronary artery disease" time="before DCT" indicator="mention" comment=""/>
+      <CAD id="C13" start="534" end="557" text="coronary artery disease" time="before DCT" indicator="mention" comment=""/>
+      <CAD id="C14" start="534" end="557" text="coronary artery disease" time="before DCT" indicator="mention" comment=""/>
+    </CAD>
+    <FAMILY_HIST id="DOC19" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC9" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" start="3" end="9" text="Record" status="unknown" comment=""/>
+      <SMOKER id="S2" status="unknown"/>
+    </SMOKER>
+    <DIABETES id="DOC3" time="after DCT" indicator="mention">
+      <DIABETES id="D0" start="474" end="482" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D1" start="1799" end="1807" text="diabetic" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D2" start="473" end="482" text=" diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D3" start="474" end="482" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D4" start="2047" end="2059" text="beta-blocker" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC4" time="during DCT" indicator="mention">
+      <DIABETES id="D5" start="474" end="482" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D6" start="1799" end="1807" text="diabetic" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D7" start="473" end="482" text=" diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D8" start="474" end="482" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D9" start="2047" end="2059" text="beta-blocker" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC10" time="before DCT" indicator="mention">
+      <DIABETES id="D10" start="474" end="482" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D11" start="1799" end="1807" text="diabetic" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D12" start="473" end="482" text=" diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D13" start="474" end="482" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D14" start="2047" end="2059" text="beta-blocker" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+  </TAGS>
+</root>

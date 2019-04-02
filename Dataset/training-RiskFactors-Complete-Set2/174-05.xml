@@ -1,0 +1,185 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2086-07-11
+
+Yearly visit 63 yo man with PVD and COPD.
+
+
+
+If he has to walk a long distance gets an aching pain in the left calf. ABI is .78 on that side. Has been coughing for a month. Yellow sputum. Has not gone on steroids. Every year this happens once. Viagra is working sometimes at 50 sometimes at 100. Apparently bone packing did not have the desired result of his cystic lesion but he tolerates this.
+
+
+
+PMH:
+
+He has a long hx of ischemic ulcer of the second toe of the right foot. He was admitted to the vascular service on 8/09/84 and had an arteriogram that showed complete occlusion of the SFA with reconstitution of the popliteal and single vessel run off. His pre-operative EKG raised the possibility of old ASMI although it was unchanged for a number of years. He underwent dobutamine MIBI which showed a moderate area of severe ischemia in the LAD territory. His LV was normal with EF of 59%. He underwent cath which showed complete occlusion of the LAD with collaterals from a fairly large diagonal that also had a tight stenosis. There were lower grade occlusions in the RCA territory and the LCX. He had been asymptomatic. The LAD lesion was long and totalled and not felt to be amenable to angioplasty. There were no indications to have him undergo CABG so the decision was made to PTCA the diagonal lesion to improve flow to the anterior wall. He tolerated this well. 
+
+
+
+MEDICATIONS:  Serevent.  Flovent.  Enalapril.  Colchicine. Alopurinol.
+
+Albuterol.  Viagra. Aspirin. 
+
+ 
+
+ALLERGIES:  None. 
+
+ 
+
+FAMILY HISTORY:  Father died at 57 after his 8th MI.  He had his
+
+first one at age 48.  Mother had a stroke in her early 50s.  His brother, Shields,
+
+died a miserable death with recurrent, inoperable laryngeal cancer.
+
+ 
+
+SOCIAL HISTORY:  Married.  Continues to work as a sales prepresentative.  He
+
+has an adopted child, Xiao who is now 15 and doing very well as an honor student. She is going to the Summer Institute for the Gifted. He quit smoking and drinking a number of years ago.
+
+ 
+
+ROS: No chest pains. Chronic shortness of breath. No bowel problems. No bladder problems. Off exercise since fracture.  The rest of the review of systems was negative. 
+
+
+
+PE: General: Looks well.
+
+
+
+================ Vital signs ================
+
+Blood Pressure:   130/70   [Left Arm, Sitting]
+
+Pulse:   78   [Regular, Radial]
+
+Weight:   215   [Pounds]
+
+Skin: No break down.
+
+HEENT: EOMI. PEERL. No retinopathy. No scleral icterus. Benign pharynx.
+
+Neck: No lymphadenopathy. No thyromegaly. No cartotid bruits.
+
+Lungs: Decreased breath sounds. No wheezes.
+
+Cor: JVP is normal. PMI is not displaced. Heart sounds barely audible except in epigastrium. No murmurs. No gallops.
+
+Abd: Normal bowel sounds. No hepatomegaly. No splenomegaly. No masses. No tenderness.
+
+Extremities: No pedal edema. Bounding right femoral pulse. Unable to palpate on the left.
+
+No rectal masses. No prostate nodules. Guaic negative stool.
+
+
+
+
+
+
+
+================ Problems ================
+
+PVD  Stable. F/u with Dr. Tam.
+
+
+
+BONE LESION    Stable.
+
+
+
+COPD   Coughing x 1 month. Yellow sputum. Put him on levofloxacin.
+
+       
+
+GOUT    No major flares.
+
+
+
+HYPERTENSION    Excellent.
+
+      
+
+IMPOTENCE      Better on the Viagra at 100 mg.
+
+
+
+GENERAL   Had flex sig in 2082. Colonoscopy in 2087. Check cholesterol and HDL. Check PSA. 
+
+______________________________                              
+
+
+
+Welch, Xzavior Charles, M.D.
+
+
+
+
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="during DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M0" start="1443" end="1452" text="Enalapril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M1" start="1443" end="1452" text="Enalapril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M2" start="1443" end="1452" text="Enalapril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC1" time="during DCT" type1="aspirin" type2="">
+      <MEDICATION id="M3" start="1500" end="1507" text="Aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M4" start="1500" end="1507" text="Aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC3" time="before DCT" type1="aspirin" type2="">
+      <MEDICATION id="M5" start="1500" end="1507" text="Aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M6" start="1500" end="1507" text="Aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC4" time="before DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M7" start="1443" end="1452" text="Enalapril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M8" start="1443" end="1452" text="Enalapril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M9" start="1443" end="1452" text="Enalapril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC7" time="after DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M10" start="1443" end="1452" text="Enalapril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M11" start="1443" end="1452" text="Enalapril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M12" start="1443" end="1452" text="Enalapril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC10" time="after DCT" type1="aspirin" type2="">
+      <MEDICATION id="M13" start="1500" end="1507" text="Aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M14" start="1500" end="1507" text="Aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC6" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="3158" end="3170" text="HYPERTENSION" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="1443" end="1452" text="Enalapril" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC9" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H2" start="3158" end="3170" text="HYPERTENSION" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H3" start="1443" end="1452" text="Enalapril" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC11" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H4" start="3158" end="3170" text="HYPERTENSION" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H5" start="1443" end="1452" text="Enalapril" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <CAD id="DOC2" time="before DCT" indicator="event">
+      <CAD id="C0" start="1317" end="1322" text="PTCA " time="before DCT" indicator="event" comment=""/>
+      <CAD id="C1" start="1317" end="1322" text="PTCA " time="before DCT" indicator="event" comment=""/>
+    </CAD>
+    <CAD id="DOC12" time="before DCT" indicator="test">
+      <CAD id="C2" start="804" end="1062" text="dobutamine MIBI which showed a moderate area of severe ischemia in the LAD territory. His LV was normal with EF of 59%. He underwent cath which showed complete occlusion of the LAD with collaterals from a fairly large diagonal that also had a tight stenosis." time="before DCT" indicator="test" comment=""/>
+      <CAD id="C3" start="852" end="888" text="severe ischemia in the LAD territory" time="before DCT" indicator="test" comment=""/>
+    </CAD>
+    <FAMILY_HIST id="DOC8" indicator="present">
+      <FAMILY_HIST id="F0" start="1553" end="1623" text=" Father died at 57 after his 8th MI.  He had his  first one at age 48." indicator="present" comment=""/>
+      <FAMILY_HIST id="F1" start="1554" end="1590" text="Father died at 57 after his 8th MI. " indicator="present" comment=""/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC5" status="past">
+      <SMOKER id="S0" start="1975" end="1987" text="quit smoking" status="past" comment=""/>
+      <SMOKER id="S1" start="1975" end="2024" text="quit smoking and drinking a number of years ago. " status="past" comment=""/>
+      <SMOKER id="S2" start="1975" end="1988" text="quit smoking " status="past" comment=""/>
+    </SMOKER>
+  </TAGS>
+</root>

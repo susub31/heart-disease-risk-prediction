@@ -1,0 +1,294 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2071-02-13
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+February 13, 2071
+
+ 
+
+ 
+
+ 
+
+Heather Hodges, M.D.
+
+Duluth Clinic-Floodwood
+
+Shanghai, CA  
+
+ 
+
+Re:  Peter Joshi
+
+MR #45339844
+
+ 
+
+Dear Dr. Hodges:
+
+ 
+
+I had the pleasure of seeing Peter Joshi in the Cardiovascular Clinic at the Hospital Regional Universitario.  This lovely gentleman with ischemic heart disease and 
+
+congestive heart
+
+failure has been followed in our clinic since the time of his carotid 
+
+endarterectomy and cardiac
+
+procedure.  At the present time, he notes that he has been very minimally 
+
+active because of the
+
+flooding.  He has had no paroxysms of chest discomfort.  He has had no exertional 
+
+neck, chest, arm
+
+or jaw pain.  He has had dyspnea on exertion at greater than 4 METS of 
+
+activity and he does
+
+have mild lower extremity edema.
+
+ 
+
+His medical regimen includes aspirin, Demadex, isosorbide, Lopressor, 
+
+simvastatin, Norvasc,
+
+Prevacid, multivitamins, potassium chloride and insulin.  
+
+ 
+
+On physical examination, his weight is 223 pounds.  His blood pressure is 
+
+124/60 right and left
+
+arm seated.  His heart rate is 54 and regular.  Respiratory rate is 10.  
+
+There is a mild increase in
+
+jugular venous pressure.  Carotids are without bruits.  Lungs are actually 
+
+clear to auscultation
+
+throughout.  Cardiovascular exam is notable for a systolic ejection murmur 
+
+but no gallop is
+
+present.  His abdomen is soft, nontender, free of organomegaly and bruits.  
+
+Extremities are
+
+notable for symmetric pulses somewhat diminished at the level of the 
+
+posterior tibialis and mild
+
+pitting edema to the midshin bilaterally.  
+
+ 
+
+His electrocardiogram is sinus bradycardia with inverted T waves in I and L.  
+
+No significant
+
+change from prior electrocardiograms.
+
+ 
+
+In summary, Patrick Joshi looks like he is in mild volume overload at the 
+
+present time.  He reports
+
+that he has had renal insufficiency in the past.  Before adjusting his 
+
+Demadex dosing, I will
+
+reassess his kidney profile.   
+
+ 
+
+ 
+
+Re:  Peter Joshi
+
+MR #45339844             -2-                 February 13, 2071
+
+ 
+
+ 
+
+If there are any other thoughts or questions in the care of this lovely 
+
+gentleman, please feel free
+
+to give me a call.
+
+ 
+
+Sincerely,
+
+ 
+
+ 
+
+ 
+
+Corrine James-Wagner, M.D.
+
+ 
+
+/hartman
+
+ 
+
+ 
+
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="after DCT" type1="statin" type2="">
+      <MEDICATION id="M0" start="892" end="903" text="simvastatin" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M1" start="892" end="903" text="simvastatin" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M2" start="892" end="903" text="simvastatin" time="after DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC1" time="during DCT" type1="aspirin" type2="">
+      <MEDICATION id="M3" start="849" end="856" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M4" start="849" end="856" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M5" start="849" end="856" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC2" time="after DCT" type1="aspirin" type2="">
+      <MEDICATION id="M6" start="849" end="856" text="aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M7" start="849" end="856" text="aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M8" start="849" end="856" text="aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC3" time="after DCT" type1="nitrate" type2="">
+      <MEDICATION id="M9" start="867" end="877" text="isosorbide" time="after DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M10" start="866" end="877" text=" isosorbide" time="after DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M11" start="867" end="877" text="isosorbide" time="after DCT" type1="nitrate" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC4" time="during DCT" type1="nitrate" type2="">
+      <MEDICATION id="M12" start="867" end="877" text="isosorbide" time="during DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M13" start="866" end="877" text=" isosorbide" time="during DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M14" start="867" end="877" text="isosorbide" time="during DCT" type1="nitrate" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC5" time="during DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M15" start="905" end="912" text="Norvasc" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M16" start="905" end="912" text="Norvasc" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M17" start="905" end="912" text="Norvasc" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC6" time="after DCT" type1="insulin" type2="">
+      <MEDICATION id="M18" start="963" end="970" text="insulin" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M19" start="962" end="970" text=" insulin" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M20" start="963" end="970" text="insulin" time="after DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC7" time="before DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M21" start="905" end="912" text="Norvasc" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M22" start="905" end="912" text="Norvasc" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M23" start="905" end="912" text="Norvasc" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC8" time="after DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M24" start="879" end="888" text="Lopressor" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M25" start="879" end="888" text="Lopressor" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M26" start="879" end="888" text="Lopressor" time="after DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <SMOKER id="DOC9" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" start="3" end="10" text="Record " status="unknown" comment=""/>
+      <SMOKER id="S2" status="unknown"/>
+    </SMOKER>
+    <MEDICATION id="DOC10" time="before DCT" type1="statin" type2="">
+      <MEDICATION id="M27" start="892" end="903" text="simvastatin" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M28" start="892" end="903" text="simvastatin" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M29" start="892" end="903" text="simvastatin" time="before DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC11" time="during DCT" type1="statin" type2="">
+      <MEDICATION id="M30" start="892" end="903" text="simvastatin" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M31" start="892" end="903" text="simvastatin" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M32" start="892" end="903" text="simvastatin" time="during DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <FAMILY_HIST id="DOC12" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <MEDICATION id="DOC13" time="before DCT" type1="aspirin" type2="">
+      <MEDICATION id="M33" start="849" end="856" text="aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M34" start="849" end="856" text="aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M35" start="849" end="856" text="aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC14" time="before DCT" type1="nitrate" type2="">
+      <MEDICATION id="M36" start="867" end="877" text="isosorbide" time="before DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M37" start="866" end="877" text=" isosorbide" time="before DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M38" start="867" end="877" text="isosorbide" time="before DCT" type1="nitrate" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC15" time="before DCT" type1="insulin" type2="">
+      <MEDICATION id="M39" start="963" end="970" text="insulin" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M40" start="962" end="970" text=" insulin" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M41" start="963" end="970" text="insulin" time="before DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC16" time="after DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M42" start="905" end="912" text="Norvasc" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M43" start="905" end="912" text="Norvasc" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M44" start="905" end="912" text="Norvasc" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC17" time="during DCT" type1="insulin" type2="">
+      <MEDICATION id="M45" start="963" end="970" text="insulin" time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M46" start="962" end="970" text=" insulin" time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M47" start="963" end="970" text="insulin" time="during DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC18" time="before DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M48" start="879" end="888" text="Lopressor" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M49" start="879" end="888" text="Lopressor" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M50" start="879" end="888" text="Lopressor" time="before DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC19" time="during DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M51" start="879" end="888" text="Lopressor" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M52" start="879" end="888" text="Lopressor" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M53" start="879" end="888" text="Lopressor" time="during DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <PHI id="P0" start="16" end="26" text="2071-02-13" TYPE="DATE"/>
+    <PHI id="P1" start="52" end="69" text="February 13, 2071" TYPE="DATE"/>
+    <PHI id="P2" start="80" end="94" text="Heather Hodges" TYPE="DOCTOR"/>
+    <PHI id="P3" start="102" end="125" text="Duluth Clinic-Floodwood" TYPE="HOSPITAL"/>
+    <PHI id="P4" start="127" end="135" text="Shanghai" TYPE="CITY"/>
+    <PHI id="P5" start="137" end="139" text="CA" TYPE="STATE"/>
+    <PHI id="P6" start="151" end="162" text="Peter Joshi" TYPE="PATIENT"/>
+    <PHI id="P7" start="168" end="176" text="45339844" TYPE="MEDICALRECORD"/>
+    <PHI id="P8" start="190" end="196" text="Hodges" TYPE="DOCTOR"/>
+    <PHI id="P9" start="231" end="242" text="Peter Joshi" TYPE="PATIENT"/>
+    <PHI id="P10" start="250" end="271" text="Cardiovascular Clinic" TYPE="DEPARTMENT"/>
+    <PHI id="P11" start="279" end="310" text="Hospital Regional Universitario" TYPE="HOSPITAL"/>
+    <PHI id="P12" start="586" end="594" text="flooding" TYPE="OTHER"/>
+    <PHI id="P13" start="1769" end="1782" text="Patrick Joshi" TYPE="PATIENT"/>
+    <PHI id="P14" start="2001" end="2012" text="Peter Joshi" TYPE="PATIENT"/>
+    <PHI id="P15" start="2018" end="2026" text="45339844" TYPE="MEDICALRECORD"/>
+    <PHI id="P16" start="2059" end="2076" text="February 13, 2071" TYPE="DATE"/>
+    <PHI id="P17" start="2231" end="2251" text="Corrine James-Wagner" TYPE="DOCTOR"/>
+    <PHI id="P18" start="2263" end="2270" text="hartman" TYPE="DOCTOR"/>
+  </TAGS>
+</root>

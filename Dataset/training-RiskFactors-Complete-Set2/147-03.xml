@@ -1,0 +1,230 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2093-11-20
+
+ 
+	977-82-23
+	Horn, Gregory
+
+
+
+November 20, 2093  Endocrine/Diabetes
+
+Present Illness:  
+Asked to see this 59 year old man with IPF, diagnosed in 2090, an admission to BCC last month with pneumonia, who presented with rapidly progressive respiratory distress last week and was admitted intubated to the MICU. He as treated with high dose Solumedrol and with antibiotics, and is improving nicely. He is extubated and has begun to eat. 
+
+Diabetes was diagnosed 14 years ago. He was treated with pioglitazone 45 mg qd, metformin 2000 mg in divided doses and a sulfonylurea until February of this year, when the sulfonylurea was replaced with insulin. For convenience with his travel schedule, his insulin has been 70/30 administered by pen, with 30 U before breakfast and 40 U before  supper. He tests his BS before  breakfast and supper only and reports that, since he has been more careful with his diet recently, they have been in the low 100   s and mid 100   s, respectively. His hemoglobin A1c was 7.4 % a month ago.
+Retinopathy:	He is due for his yearly appointment with his ophthalmologist. No retinopathy in the past.  
+Nephropathy:	BUN/Cr 31/1.3 today. No microalbumin/creatinine ratio in CAS.
+Neuropathy:	He has occasional paresthesias in his feet.
+Cardiac:	He is s/p stent for coronary artery disease about 8-9 years ago.
+Vascular:	No claudication.
+
+His IPF is treated with Mucomyst and gamma interferon, which he administers to himself. 
+
+Past Medical History:  
+Surgery:	Coronary stent
+	Lung biopsy at time of diagnosis of IPF 
+Medical:	Hypertension	
+	Hyperlipidemia
+	GERD
+Allergies:	No known drug allergies.
+Smoking History:	No
+Alcohol History:	No
+
+Family History:  
+There is a significant family history of diabetes, including his mother, maternal grandmother, one of his 5 siblings, and some paternal relatives as well.
+
+Social History: 
+Lives with his wife and their adopted son, who is a Recruitment Officer.
+Computer and Network Technicians for General Dynamics, covering 8 states. His job entails travel.
+
+Review of Systems: above
+Ears: Mild hearing loss. 
+Review of systems is otherwise negative.
+
+Physical Exam:	
+Very pleasant, ruddy complexioned man in no distress.
+BP:   148/78		P:   76, regular	T: 98.0
+Wt:   209 by history		Ht: 5    7.5    by history
+HEENT:	Anicteric. Full EOM's. 
+Fundi:	Not examined.
+Carotids:	Normal pulses, without bruits
+Thyroid:	Not palpable
+Chest:	Few rales anteriorly, L>R.
+Heart:	Normal S1; physiologic S2.  No gallops.  No murmurs
+Abdomen:	No hepatosplenomegaly. No masses. No tenderness. No palpable AAA. 
+Extremities:	No edema.  DP 2+ R, absent L. PT 2+,=.  Good foot care.
+Neurological:	AJ 1+,=, with normal relaxation. 
+
+Impressions and Plan:	
+59 year old man with type 2 diabetes now on steroids for IPF flare, currently down to 125 mg q12h, given at noon and MN.
+Having reviewed his recent data, would suggest that we change his current insulin to:
+NPH 40 / Regular 10+ scale qAM before  breakfast
+Regular 10+ scale qPM before  supper
+NPH 30 at bedtime
+QID Regular sliding scale
+These initial doses will need to be adjusted based on experience and on any changes in the steroid doses.
+I have no objection to resuming his pioglitazone, or substituting rosiglitazone while he is here, as long as you do not feel that volume overload is playing any role in his deterioration.
+I would prefer not to resume the metformin while is at risk for acute respiratory deterioration with risk of acidosis.
+Would change the steroid dosing to 8AM, 8 PM, hoping that we can also start to reduce the doses, PM first, if possible.
+He appears to have an anemia that has at least a component of iron deficiency. If you agree, would start iron repletion. (Note that in addition to the iron studies, his MCV, though still normal, has come down over time.)
+
+Thanks.
+
+
+				Nicholas Q. Vasquez, M.D., Ph.D.
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <HYPERLIPIDEMIA id="DOC4" time="before DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY0" start="1591" end="1605" text="Hyperlipidemia" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY1" start="1591" end="1605" text="Hyperlipidemia" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY2" start="1591" end="1605" text="Hyperlipidemia" time="before DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <HYPERLIPIDEMIA id="DOC7" time="during DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY3" start="1591" end="1605" text="Hyperlipidemia" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY4" start="1591" end="1605" text="Hyperlipidemia" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY5" start="1591" end="1605" text="Hyperlipidemia" time="during DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <HYPERLIPIDEMIA id="DOC16" time="after DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY6" start="1591" end="1605" text="Hyperlipidemia" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY7" start="1591" end="1605" text="Hyperlipidemia" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY8" start="1591" end="1605" text="Hyperlipidemia" time="after DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <MEDICATION id="DOC0" time="after DCT" type1="metformin" type2="">
+      <MEDICATION id="M0" start="544" end="553" text="metformin" time="after DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M1" start="544" end="553" text="metformin" time="after DCT" type1="metformin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC1" time="during DCT" type1="metformin" type2="">
+      <MEDICATION id="M2" start="3372" end="3401" text=" not to resume the metformin " time="during DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M3" start="544" end="553" text="metformin" time="during DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M4" start="544" end="553" text="metformin" time="during DCT" type1="metformin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC8" time="after DCT" type1="insulin" type2="">
+      <MEDICATION id="M5" start="2934" end="2938" text="NPH " time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M6" start="2983" end="2991" text="Regular " time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M7" start="667" end="674" text="insulin" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M8" start="667" end="674" text="insulin" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M9" start="722" end="729" text="insulin" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M10" start="2934" end="3063" text="NPH 40 / Regular 10+ scale qAM before  breakfast Regular 10+ scale qPM before  supper NPH 30 at bedtime QID Regular sliding scale" time="after DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC10" time="before DCT" type1="thiazolidinedione" type2="">
+      <MEDICATION id="M11" start="521" end="533" text="pioglitazone" time="before DCT" type1="thiazolidinedione" type2="" comment=""/>
+      <MEDICATION id="M12" start="521" end="534" text="pioglitazone " time="before DCT" type1="thiazolidinedione" type2="" comment=""/>
+      <MEDICATION id="M13" start="521" end="533" text="pioglitazone" time="before DCT" type1="thiazolidinedione" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC15" time="before DCT" type1="metformin" type2="">
+      <MEDICATION id="M14" start="544" end="553" text="metformin" time="before DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M15" start="544" end="553" text="metformin" time="before DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M16" start="544" end="553" text="metformin" time="before DCT" type1="metformin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC19" time="during DCT" type1="thiazolidinedione" type2="">
+      <MEDICATION id="M17" start="521" end="533" text="pioglitazone" time="during DCT" type1="thiazolidinedione" type2="" comment=""/>
+      <MEDICATION id="M18" start="521" end="534" text="pioglitazone " time="during DCT" type1="thiazolidinedione" type2="" comment=""/>
+      <MEDICATION id="M19" start="521" end="533" text="pioglitazone" time="during DCT" type1="thiazolidinedione" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC20" time="before DCT" type1="insulin" type2="">
+      <MEDICATION id="M20" start="2934" end="2938" text="NPH " time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M21" start="2983" end="2991" text="Regular " time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M22" start="667" end="674" text="insulin" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M23" start="667" end="674" text="insulin" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M24" start="722" end="729" text="insulin" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M25" start="2934" end="3063" text="NPH 40 / Regular 10+ scale qAM before  breakfast Regular 10+ scale qPM before  supper NPH 30 at bedtime QID Regular sliding scale" time="before DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC22" time="before DCT" type1="sulfonylureas" type2="">
+      <MEDICATION id="M26" start="604" end="674" text="February of this year, when the sulfonylurea was replaced with insulin" time="before DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M27" start="585" end="597" text="sulfonylurea" time="before DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M28" start="585" end="597" text="sulfonylurea" time="before DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M29" start="636" end="648" text="sulfonylurea" time="before DCT" type1="sulfonylureas" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC23" time="after DCT" type1="thiazolidinedione" type2="">
+      <MEDICATION id="M30" start="521" end="533" text="pioglitazone" time="after DCT" type1="thiazolidinedione" type2="" comment=""/>
+      <MEDICATION id="M31" start="521" end="534" text="pioglitazone " time="after DCT" type1="thiazolidinedione" type2="" comment=""/>
+      <MEDICATION id="M32" start="521" end="533" text="pioglitazone" time="after DCT" type1="thiazolidinedione" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC24" time="during DCT" type1="insulin" type2="">
+      <MEDICATION id="M33" start="2934" end="2938" text="NPH " time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M34" start="2983" end="2991" text="Regular " time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M35" start="667" end="674" text="insulin" time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M36" start="667" end="674" text="insulin" time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M37" start="722" end="729" text="insulin" time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M38" start="2934" end="3063" text="NPH 40 / Regular 10+ scale qAM before  breakfast Regular 10+ scale qPM before  supper NPH 30 at bedtime QID Regular sliding scale" time="during DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC2" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="1576" end="1588" text="Hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="1576" end="1589" text="Hypertension " time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H2" start="1576" end="1588" text="Hypertension" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC5" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H3" start="1576" end="1588" text="Hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H4" start="1576" end="1589" text="Hypertension " time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H5" start="1576" end="1588" text="Hypertension" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC9" time="during DCT" indicator="high bp">
+      <HYPERTENSION id="H6" start="2215" end="2228" text="BP:   148/78 " time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H7" start="2220" end="2229" text=" 148/78  " time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H8" start="2215" end="2228" text="BP:   148/78 " time="during DCT" indicator="high bp" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC14" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H9" start="1576" end="1588" text="Hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H10" start="1576" end="1589" text="Hypertension " time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H11" start="1576" end="1588" text="Hypertension" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <CAD id="DOC12" time="after DCT" indicator="mention">
+      <CAD id="C0" start="1313" end="1338" text=" coronary artery disease " time="after DCT" indicator="mention" comment=""/>
+      <CAD id="C1" start="1314" end="1338" text="coronary artery disease " time="after DCT" indicator="mention" comment=""/>
+      <CAD id="C2" start="1314" end="1337" text="coronary artery disease" time="after DCT" indicator="mention" comment=""/>
+    </CAD>
+    <CAD id="DOC17" time="during DCT" indicator="mention">
+      <CAD id="C3" start="1313" end="1338" text=" coronary artery disease " time="during DCT" indicator="mention" comment=""/>
+      <CAD id="C4" start="1314" end="1338" text="coronary artery disease " time="during DCT" indicator="mention" comment=""/>
+      <CAD id="C5" start="1314" end="1337" text="coronary artery disease" time="during DCT" indicator="mention" comment=""/>
+    </CAD>
+    <CAD id="DOC21" time="before DCT" indicator="event">
+      <CAD id="C6" start="1300" end="1309" text="s/p stent" time="before DCT" indicator="event" comment=""/>
+      <CAD id="C7" start="1304" end="1310" text="stent " time="before DCT" indicator="event" comment=""/>
+    </CAD>
+    <CAD id="DOC26" time="before DCT" indicator="mention">
+      <CAD id="C8" start="1313" end="1338" text=" coronary artery disease " time="before DCT" indicator="mention" comment=""/>
+      <CAD id="C9" start="1314" end="1338" text="coronary artery disease " time="before DCT" indicator="mention" comment=""/>
+      <CAD id="C10" start="1314" end="1337" text="coronary artery disease" time="before DCT" indicator="mention" comment=""/>
+    </CAD>
+    <FAMILY_HIST id="DOC25" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC11" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" status="unknown"/>
+    </SMOKER>
+    <DIABETES id="DOC3" time="before DCT" indicator="mention">
+      <DIABETES id="D0" start="464" end="499" text="Diabetes was diagnosed 14 years ago" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D1" start="88" end="96" text="Diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D2" start="88" end="96" text="Diabetes" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC6" time="during DCT" indicator="mention">
+      <DIABETES id="D3" start="464" end="499" text="Diabetes was diagnosed 14 years ago" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D4" start="88" end="96" text="Diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D5" start="88" end="96" text="Diabetes" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC13" time="before DCT" indicator="A1C">
+      <DIABETES id="D6" start="1010" end="1046" text="hemoglobin A1c was 7.4 % a month ago" time="before DCT" indicator="A1C" comment=""/>
+      <DIABETES id="D7" start="1020" end="1034" text=" A1c was 7.4 %" time="before DCT" indicator="A1C" comment=""/>
+      <DIABETES id="D8" start="1010" end="1047" text="hemoglobin A1c was 7.4 % a month ago." time="before DCT" indicator="A1C" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC18" time="after DCT" indicator="mention">
+      <DIABETES id="D9" start="464" end="499" text="Diabetes was diagnosed 14 years ago" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D10" start="88" end="96" text="Diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D11" start="88" end="96" text="Diabetes" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+  </TAGS>
+</root>

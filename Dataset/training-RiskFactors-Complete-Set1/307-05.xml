@@ -1,0 +1,176 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2060-01-20
+
+
+
+
+
+
+
+Highland Park Care Center
+
+8827 Alice Drive              KIMBROUGH, AMELIA
+
+Arvin, SC  42993                    43471375
+
+(615) 305-3068                     01/20/2060
+
+
+
+
+
+HISTORY OF PRESENT ILLNESS:  The patient is a 47-year-old female who returns to the clinic for a followup visit.  The patient has multiple medical problems including severe and extreme hypertension as well as high blood pressure and chronic renal failure for which she is currently attending dialysis sessions 3 times per week.  The patient also is currently being treated for hot flashes with Prempro.  The patient states that she ran out of her blood pressure medications including the patch 2 days ago.  She also complains of frequent popping and loss of hearing in her right ear.
+
+
+
+PHYSICAL EXAMINATION:  A middle-aged female in no acute distress.  Blood pressure is 182/94, weight is 211 pounds, and pulse is 76.  Chest is clear bilaterally.  Heart, regular rate and rhythm, positive S1, S2.  Negative S3, S4, no murmur.  Abdomen is soft, nontender, positive bowel sounds.  Lower extremities, no edema, nontender.
+
+
+
+IMPRESSION AND PLAN:
+
+1.  Chronic renal failure, on dialysis.  The patient appears to be doing much better and has stabilized on her regular dialysis sessions.  She is still waiting for donor for a renal transplant.  She will follow up with nephrology as scheduled.  She is currently being immunized for her transplant and will receive her third hepatitis B shot as well as her second hepatitis A shot today.
+
+2.  Right ear problem.  The patient has wax buildup in her right ear and I recommended that she use olive oil on a nightly basis to resolve the earwax.
+
+3.  Diabetes mellitus.  Control is much better.  There is a recent hemoglobin A1c of 6.3.
+
+4.  Severe hyperlipidemia, which has improved after the patient was started on dialysis.  Of note, was also a very high HDL.  The patient is currently on no hypolipemic medication.  We will check a fasting lipid profile at this point.
+
+5.  Severe hypertension.  Prescriptions for nifedipine and the clonidine patch were refilled.
+
+6.  Hyperparathyroidism.  We will check a PTH level today.
+
+
+
+
+
+______________________________
+
+Odell Jorgenson, MD
+
+
+
+
+
+
+
+
+
+
+
+eScription document:3-4524040 HFFocus
+
+
+
+
+
+
+
+DD: 01/20/60
+
+DT: 01/20/60
+
+DV: 01/20/60
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="during DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M0" start="2064" end="2074" text="nifedipine" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M1" start="2064" end="2074" text="nifedipine" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M2" start="2064" end="2074" text="nifedipine" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <DIABETES id="DOC1" time="before DCT" indicator="mention">
+      <DIABETES id="D0" start="1697" end="1714" text="Diabetes mellitus" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D1" start="1697" end="1714" text="Diabetes mellitus" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D2" start="1697" end="1714" text="Diabetes mellitus" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <HYPERTENSION id="DOC2" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="392" end="404" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="392" end="404" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H2" start="384" end="404" text="extreme hypertension" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC3" time="during DCT" indicator="high bp">
+      <HYPERTENSION id="H3" start="861" end="886" text="Blood pressure is 182/94," time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H4" start="879" end="885" text="182/94" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H5" start="861" end="885" text="Blood pressure is 182/94" time="during DCT" indicator="high bp" comment=""/>
+    </HYPERTENSION>
+    <HYPERLIPIDEMIA id="DOC4" time="before DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY0" start="1795" end="1810" text="hyperlipidemia," time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY1" start="1795" end="1809" text="hyperlipidemia" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY2" start="1788" end="1809" text="Severe hyperlipidemia" time="before DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <MEDICATION id="DOC5" time="before DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M3" start="2064" end="2074" text="nifedipine" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M4" start="2064" end="2074" text="nifedipine" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M5" start="2064" end="2074" text="nifedipine" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC6" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H6" start="392" end="404" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H7" start="392" end="404" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H8" start="384" end="404" text="extreme hypertension" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <MEDICATION id="DOC7" time="after DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M6" start="2064" end="2074" text="nifedipine" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M7" start="2064" end="2074" text="nifedipine" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M8" start="2064" end="2074" text="nifedipine" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERLIPIDEMIA id="DOC8" time="after DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY3" start="1795" end="1810" text="hyperlipidemia," time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY4" start="1795" end="1809" text="hyperlipidemia" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY5" start="1788" end="1809" text="Severe hyperlipidemia" time="after DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <DIABETES id="DOC9" time="during DCT" indicator="mention">
+      <DIABETES id="D3" start="1697" end="1714" text="Diabetes mellitus" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D4" start="1697" end="1714" text="Diabetes mellitus" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D5" start="1697" end="1714" text="Diabetes mellitus" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <HYPERTENSION id="DOC10" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H9" start="392" end="404" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H10" start="392" end="404" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H11" start="384" end="404" text="extreme hypertension" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <FAMILY_HIST id="DOC11" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC12" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" status="unknown"/>
+      <SMOKER id="S2" status="unknown"/>
+    </SMOKER>
+    <DIABETES id="DOC13" time="after DCT" indicator="mention">
+      <DIABETES id="D6" start="1697" end="1714" text="Diabetes mellitus" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D7" start="1697" end="1714" text="Diabetes mellitus" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D8" start="1697" end="1714" text="Diabetes mellitus" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <HYPERLIPIDEMIA id="DOC14" time="during DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY6" start="1795" end="1810" text="hyperlipidemia," time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY7" start="1795" end="1809" text="hyperlipidemia" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY8" start="1788" end="1809" text="Severe hyperlipidemia" time="during DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <PHI id="P0" start="16" end="26" text="2060-01-20" TYPE="DATE"/>
+    <PHI id="P1" start="34" end="59" text="Highland Park Care Center" TYPE="HOSPITAL"/>
+    <PHI id="P2" start="61" end="77" text="8827 Alice Drive" TYPE="STREET"/>
+    <PHI id="P3" start="91" end="108" text="KIMBROUGH, AMELIA" TYPE="PATIENT"/>
+    <PHI id="P4" start="110" end="115" text="Arvin" TYPE="CITY"/>
+    <PHI id="P5" start="117" end="119" text="SC" TYPE="STATE"/>
+    <PHI id="P6" start="121" end="126" text="42993" TYPE="ZIP"/>
+    <PHI id="P7" start="146" end="154" text="43471375" TYPE="MEDICALRECORD"/>
+    <PHI id="P8" start="156" end="170" text="(615) 305-3068" TYPE="PHONE"/>
+    <PHI id="P9" start="191" end="201" text="01/20/2060" TYPE="DATE"/>
+    <PHI id="P10" start="253" end="255" text="47" TYPE="AGE"/>
+    <PHI id="P11" start="2211" end="2226" text="Odell Jorgenson" TYPE="DOCTOR"/>
+    <PHI id="P12" start="2262" end="2271" text="3-4524040" TYPE="IDNUM"/>
+    <PHI id="P13" start="2291" end="2299" text="01/20/60" TYPE="DATE"/>
+    <PHI id="P14" start="2305" end="2313" text="01/20/60" TYPE="DATE"/>
+    <PHI id="P15" start="2319" end="2327" text="01/20/60" TYPE="DATE"/>
+  </TAGS>
+</root>

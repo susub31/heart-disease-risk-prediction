@@ -1,0 +1,284 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2067-02-12
+
+
+
+
+
+
+
+
+GUADALUPE VALLEY HOSPITAL
+
+99 Oregon Avenue
+
+Brazzaville, Nc  65818
+
+155-900-5638
+
+
+
+XIAN, BROOKLYN
+
+60244986
+
+02/12/2067
+
+
+IDENTIFICATION:  A 71-year-old woman who presents to follow up diabetes.
+
+
+
+HISTORY OF PRESENT ILLNESS:  I received the patient's recent blood work and asked her to come in for a short-term followup.  Her hemoglobin A1c is 11.1.  We discussed her current system for managing her blood sugar.  She notes 100% compliance in using her NPH insulin, 45 units in the morning, 40 in the evening.  She is taking 2 shots of Humalog, on average, in the morning and just before bedtime.  She is doing 2 fingersticks a day, in the morning fasting and before bed.  She notes recent indiscretions in terms of her calorie intake.  She checked her fingerstick this morning, but cannot remember the result.  She is fully compliant with her other medications.  She was on simvastatin in the past, which was stopped because of liver test elevations.  She was on Crestor in the past, which was stopped at the time of a hospitalization when her CK was noted to be elevated.  Today, she is having no fever, chest pain, shortness of breath, abdominal pain, dysuria, leg swelling, or leg numbness.
+
+
+Medications
+Aricept (DONEPEZIL Hcl) 5 MG (5MG TABLET Take 1) PO QPM #30 Tablet(s)
+Asa (ACETYLSALICYLIC Acid) 81MG TABLET EC Take 1 Tablet(s) PO QD #90 Tablet(s)
+Celebrex (CELECOXIB) 200 MG (200MG CAPSULE Take 1) PO QD #30 Capsule(s)
+Glucagon Emergency Kit (GLUCAGON Hcl) 1 MG (1MG VIAL Take 1) SC x1, use as needed for low blood sugar #1 VIAL
+Hctz (HYDROCHLOROTHIAZIDE) 50 MG (25MG TABLET Take 2) PO QD as directed x 30 days #60 Tablet(s)
+Humalog Insulin (INSULIN Lispro) 15 UNITS SC ac x 90 days #3 Month(s) Supply
+Insulin Nph Human 45 UNIT S AM AND 40 PM SC AM and QHS x 90 days #3 Month(s) Supply
+Labetalol Hcl 200 MG (100MG TABLET Take 2) PO BID #120 Tablet(s)
+Levothyroxine Sodium 125 MCG (125MCG TABLET Take 1) PO qd x 90 days #90 Tablet(s)
+Lisinopril 40 MG (40MG TABLET Take 1) PO QD x 30 days #30 Tablet(s)
+Mirapex (PRAMIPEXOLE) 0.125MG TABLET PO as directed PRN as directed, 1-4 tab #120 Tablet(s)
+Oxycodone 5 MG (5 MG TABLET Take 1) PO Q6H PRN pain, May increase to 2 PO QID if needed for pain. #180 Tablet(s)
+Temazepam 30 MG (30MG CAPSULE Take 1) PO QHS prn, caution causes sedation x 30 days #30 Capsule(s)
+
+
+Allergies
+Erythromycins - Itching
+SIMVASTATIN - elevates liver enzymes
+AMITRIPTYLINE HCL - urinary retention
+GABAPENTIN - memory loss
+
+
+Vital Signs
+BP 126/68 L Arm, P 69, Temp 98.0, Wt 235.0 lb
+
+
+
+
+PHYSICAL EXAMINATION:  The patient is in no distress.  Her initial blood pressure, as she walked down the hall, was 154/71.  Repeating this after sitting was 126/68.  Lungs:  Clear.  Cardiac:  Regular.  Extremities:  Trace edema.
+
+
+
+ASSESSMENT:  Uncontrolled adult onset diabetes.  Care for this will be challenging due to the patient's cognitive problems.  She does use Valley Hospital Web Services.  We discussed to start frequent communication via Web Services of test results will be helpful for me in helping her adjust insulin.  We discussed the possibility of changing from NPH to Lantus insulin, but elected to continue her NPH for now.  We discussed that her use of the ultra-fast acting insulin does not quite make sense.  She is taking an injection in the evening, long after her meal.  I asked her to describe her meals and she has carbohydrates essentially with every meal.  I think initially she can easily tolerate 10 units of Humalog with each meal.  She notes that she prefers to inject the insulin after she eats, which is acceptable as long she does it within a few minutes of the meal.  She currently is using an average of 15 units, so this will increase her total daily insulin use by just 15 units.  I asked her to check 3 fingersticks a day for me and to e-mail them on a daily basis to start.  She will check a fasting fingerstick.  She will check a fingerstick before her evening meal, which is her largest meal of the day.  She will check a fingerstick 2 hours after her evening meal.  She does not need to check a fingerstick right before bed.  She will stop using Humalog right before bed and only use the NPH at that time.  We discussed the importance of cholesterol treatment.  Her last LDL was over 100.  I would like to revisit the idea of using a statin.  I will repeat her CK level to see if this remains elevated.  Her blood pressure on recheck is acceptable.  I will see her back in the office in 2 months rather than what is booked now.  Most of our visit today took place together with her husband.  We spent a total of 25 minutes with more than half the time spent in counseling.
+
+
+
+
+
+______________________________
+
+Roger York, M.D.
+
+
+
+
+
+
+
+
+
+
+
+eScription document:6-48975237 TC567
+
+
+
+
+
+
+
+DD: 02/12/67
+
+DT: 02/12/67
+
+DV: 02/12/67
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="during DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M0" start="1982" end="1992" text="Lisinopril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M1" start="1982" end="1992" text="Lisinopril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M2" start="1982" end="1992" text="Lisinopril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <DIABETES id="DOC1" time="during DCT" indicator="A1C">
+      <DIABETES id="D0" start="364" end="386" text="hemoglobin A1c is 11.1" time="during DCT" indicator="A1C" comment=""/>
+      <DIABETES id="D1" start="375" end="386" text="A1c is 11.1" time="during DCT" indicator="A1C" comment=""/>
+    </DIABETES>
+    <MEDICATION id="DOC2" time="during DCT" type1="aspirin" type2="">
+      <MEDICATION id="M3" start="1317" end="1343" text="Asa (ACETYLSALICYLIC Acid)" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M4" start="1317" end="1320" text="Asa" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M5" start="1317" end="1320" text="Asa" time="during DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <DIABETES id="DOC3" time="before DCT" indicator="A1C">
+      <DIABETES id="D2" start="364" end="386" text="hemoglobin A1c is 11.1" time="before DCT" indicator="A1C" comment=""/>
+      <DIABETES id="D3" start="375" end="386" text="A1c is 11.1" time="before DCT" indicator="A1C" comment=""/>
+    </DIABETES>
+    <MEDICATION id="DOC4" time="before DCT" type1="aspirin" type2="">
+      <MEDICATION id="M6" start="1317" end="1343" text="Asa (ACETYLSALICYLIC Acid)" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M7" start="1317" end="1320" text="Asa" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M8" start="1317" end="1320" text="Asa" time="before DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC5" time="after DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M9" start="1982" end="1992" text="Lisinopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M10" start="1982" end="1992" text="Lisinopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M11" start="1982" end="1992" text="Lisinopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <DIABETES id="DOC6" time="during DCT" indicator="mention">
+      <DIABETES id="D4" start="222" end="230" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D5" start="2825" end="2833" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D6" start="222" end="230" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D7" start="222" end="232" text="diabetes. " time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <MEDICATION id="DOC7" time="after DCT" type1="aspirin" type2="">
+      <MEDICATION id="M12" start="1317" end="1343" text="Asa (ACETYLSALICYLIC Acid)" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M13" start="1317" end="1320" text="Asa" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M14" start="1317" end="1320" text="Asa" time="after DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC8" time="after DCT" type1="insulin" type2="">
+      <MEDICATION id="M15" start="491" end="502" text="NPH insulin" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M16" start="574" end="581" text="Humalog" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M17" start="1674" end="1706" text="Humalog Insulin (INSULIN Lispro)" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M18" start="1751" end="1768" text="Insulin Nph Human" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M19" start="3135" end="3138" text="NPH" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M20" start="3142" end="3148" text="Lantus" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M21" start="3186" end="3189" text="NPH" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M22" start="3496" end="3503" text="Humalog" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M23" start="4147" end="4154" text="Humalog" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M24" start="4189" end="4192" text="NPH" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M25" start="574" end="581" text="Humalog" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M26" start="1751" end="1763" text="Insulin Nph " time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M27" start="495" end="502" text="insulin" time="after DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC9" time="during DCT" indicator="high bp">
+      <HYPERTENSION id="H0" start="2670" end="2676" text="154/71" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H1" start="2670" end="2676" text="154/71" time="during DCT" indicator="high bp" comment=""/>
+    </HYPERTENSION>
+    <MEDICATION id="DOC10" time="after DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M28" start="1835" end="1848" text="Labetalol Hcl" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M29" start="1835" end="1844" text="Labetalol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M30" start="1835" end="1844" text="Labetalol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <SMOKER id="DOC11" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" status="unknown"/>
+      <SMOKER id="S2" start="235" end="243" text="HISTORY " status="unknown" comment=""/>
+    </SMOKER>
+    <DIABETES id="DOC12" time="before DCT" indicator="mention">
+      <DIABETES id="D8" start="222" end="230" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D9" start="2825" end="2833" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D10" start="222" end="230" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D11" start="222" end="232" text="diabetes. " time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <MEDICATION id="DOC13" time="before DCT" type1="statin" type2="">
+      <MEDICATION id="M31" start="1002" end="1009" text="Crestor" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M32" start="1002" end="1009" text="Crestor" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M33" start="913" end="924" text="simvastatin" time="before DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC14" time="during DCT" type1="diuretic" type2="">
+      <MEDICATION id="M34" start="1578" end="1604" text="Hctz (HYDROCHLOROTHIAZIDE)" time="during DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M35" start="1578" end="1582" text="Hctz" time="during DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M36" start="1578" end="1583" text="Hctz " time="during DCT" type1="diuretic" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERLIPIDEMIA id="DOC15" time="before DCT" indicator="high LDL">
+      <HYPERLIPIDEMIA id="HY0" start="4263" end="4288" text="Her last LDL was over 100" time="before DCT" indicator="high LDL" comment=""/>
+      <HYPERLIPIDEMIA id="HY1" start="4267" end="4288" text="last LDL was over 100" time="before DCT" indicator="high LDL" comment=""/>
+    </HYPERLIPIDEMIA>
+    <FAMILY_HIST id="DOC16" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <MEDICATION id="DOC17" time="before DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M37" start="1982" end="1992" text="Lisinopril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M38" start="1982" end="1992" text="Lisinopril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M39" start="1982" end="1992" text="Lisinopril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC18" time="after DCT" type1="diuretic" type2="">
+      <MEDICATION id="M40" start="1578" end="1604" text="Hctz (HYDROCHLOROTHIAZIDE)" time="after DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M41" start="1578" end="1582" text="Hctz" time="after DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M42" start="1578" end="1583" text="Hctz " time="after DCT" type1="diuretic" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC19" time="before DCT" type1="diuretic" type2="">
+      <MEDICATION id="M43" start="1578" end="1604" text="Hctz (HYDROCHLOROTHIAZIDE)" time="before DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M44" start="1578" end="1582" text="Hctz" time="before DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M45" start="1578" end="1583" text="Hctz " time="before DCT" type1="diuretic" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC20" time="before DCT" type1="insulin" type2="">
+      <MEDICATION id="M46" start="491" end="502" text="NPH insulin" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M47" start="574" end="581" text="Humalog" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M48" start="1674" end="1706" text="Humalog Insulin (INSULIN Lispro)" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M49" start="1751" end="1768" text="Insulin Nph Human" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M50" start="3135" end="3138" text="NPH" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M51" start="3142" end="3148" text="Lantus" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M52" start="3186" end="3189" text="NPH" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M53" start="3496" end="3503" text="Humalog" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M54" start="4147" end="4154" text="Humalog" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M55" start="4189" end="4192" text="NPH" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M56" start="574" end="581" text="Humalog" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M57" start="1751" end="1763" text="Insulin Nph " time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M58" start="495" end="502" text="insulin" time="before DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC21" time="during DCT" type1="insulin" type2="">
+      <MEDICATION id="M59" start="491" end="502" text="NPH insulin" time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M60" start="574" end="581" text="Humalog" time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M61" start="1674" end="1706" text="Humalog Insulin (INSULIN Lispro)" time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M62" start="1751" end="1768" text="Insulin Nph Human" time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M63" start="3135" end="3138" text="NPH" time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M64" start="3142" end="3148" text="Lantus" time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M65" start="3186" end="3189" text="NPH" time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M66" start="3496" end="3503" text="Humalog" time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M67" start="4147" end="4154" text="Humalog" time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M68" start="4189" end="4192" text="NPH" time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M69" start="574" end="581" text="Humalog" time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M70" start="1751" end="1763" text="Insulin Nph " time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M71" start="495" end="502" text="insulin" time="during DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC22" time="before DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M72" start="1835" end="1848" text="Labetalol Hcl" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M73" start="1835" end="1844" text="Labetalol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M74" start="1835" end="1844" text="Labetalol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC23" time="during DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M75" start="1835" end="1848" text="Labetalol Hcl" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M76" start="1835" end="1844" text="Labetalol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M77" start="1835" end="1844" text="Labetalol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <DIABETES id="DOC24" time="after DCT" indicator="mention">
+      <DIABETES id="D12" start="222" end="230" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D13" start="2825" end="2833" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D14" start="222" end="230" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D15" start="222" end="232" text="diabetes. " time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <PHI id="P0" start="16" end="26" text="2067-02-12" TYPE="DATE"/>
+    <PHI id="P1" start="35" end="60" text="GUADALUPE VALLEY HOSPITAL" TYPE="HOSPITAL"/>
+    <PHI id="P2" start="62" end="78" text="99 Oregon Avenue" TYPE="STREET"/>
+    <PHI id="P3" start="80" end="91" text="Brazzaville" TYPE="CITY"/>
+    <PHI id="P4" start="93" end="95" text="Nc" TYPE="STATE"/>
+    <PHI id="P5" start="97" end="102" text="65818" TYPE="ZIP"/>
+    <PHI id="P6" start="104" end="116" text="155-900-5638" TYPE="PHONE"/>
+    <PHI id="P7" start="120" end="134" text="XIAN, BROOKLYN" TYPE="PATIENT"/>
+    <PHI id="P8" start="136" end="144" text="60244986" TYPE="MEDICALRECORD"/>
+    <PHI id="P9" start="146" end="156" text="02/12/2067" TYPE="DATE"/>
+    <PHI id="P10" start="178" end="180" text="71" TYPE="AGE"/>
+    <PHI id="P11" start="2925" end="2953" text="Valley Hospital Web Services" TYPE="URL"/>
+    <PHI id="P12" start="3005" end="3017" text="Web Services" TYPE="URL"/>
+    <PHI id="P13" start="4711" end="4721" text="Roger York" TYPE="DOCTOR"/>
+    <PHI id="P14" start="4759" end="4769" text="6-48975237" TYPE="IDNUM"/>
+    <PHI id="P15" start="4770" end="4775" text="TC567" TYPE="USERNAME"/>
+    <PHI id="P16" start="4787" end="4795" text="02/12/67" TYPE="DATE"/>
+    <PHI id="P17" start="4801" end="4809" text="02/12/67" TYPE="DATE"/>
+    <PHI id="P18" start="4815" end="4823" text="02/12/67" TYPE="DATE"/>
+  </TAGS>
+</root>

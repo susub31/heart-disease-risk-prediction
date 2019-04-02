@@ -1,0 +1,330 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2150-02-06
+
+ 
+
+Neurology ED Consult Note
+
+
+
+Patient: Klein, Michelle
+
+MRN:	2474410
+
+Date: 	2/6/50
+
+Time: 	10:00 p.m.
+
+PCP:	Whitney Keller, M.D.
+
+
+
+Reason for consult: garbled speech
+
+
+
+HPI:   Patient is a 74 yo RH woman with history of HTN, hyperlipidemia, CAD s/p LAD stent (2144) who was in her USOH until this afternoon at 12:15 p.m. when she experienced sudden onset of garbled speech and difficulty "expressing myself" while cooking lunch for she and her husband.  This episode was accompanied shortly thereafter by a dull, L fronto-temporal headache that persisted for several hours.  She states she did not have word-finding difficulties but simply had trouble articulating herself.   The episode came on suddenly and lasted 1-2 hours before she resolved back to baseline.  In addition to headache, associated symptoms included generalized weakness, feeling cold and mildly nauseated.  She denied visual changes, chest pain, sob, palpitations, lightheadedness, vertigo, difficulty with swallowing, coordination or gait.  She describes having a glass of orange juice with the thought that her sugar might be low, without apparent effect.
+
+
+
+She recalls one similar episode ~ 2 years ago at which time she had her husband drive her home and she went to bed.  The speech difficulty had resolved by morning, and she apparently never told her physician or had any further work-up.  She has no known history of seizures.  Migraines occur 1-2x/year, preceeded by scintillating scotoma, associated with nausea, photophobia, relieved by sleep.  No recent fevers, chills,  weight loss or weight gain, cough, abd pain, diarrhea.  Reports regular exercise including this morning (stationary bicycle).
+
+
+
+Time of onset/Last seen normal: 12:15 pm
+
+Witnessed onset: yes
+
+Onset: acute
+
+Mode of arrival:  walk-in	
+
+Clinical Course: improving
+
+Pre-morbid neurological status: independent
+
+Code status: full code
+
+
+
+PMHx:
+
+HTN
+
+Hyperlipidemia
+
+CAD sp LAD stent (2144)
+
+Migraines (as above)
+
+Familial tremor
+
+Nephrolithiasis
+
+S/p appendectomy
+
+S/p mastoid surgery as a child
+
+"borderline dm" per patient
+
+
+
+Meds:
+
+Lipitor
+
+Atenolol
+
+ASA 325
+
+Protonix
+
+HCTZ
+
+Vitamins B12/B6
+
+MVI
+
+Ginko
+
+
+
+All: Sulfa  hives
+
+
+
+SocHx:
+
+Lives with husband in Sherman.  Mother of 4 children.  Very active at baseline, secretary of her methodist church.
+
+Tob: active for "several years" quit ~20 years ago
+
+ETOH: denies
+
+Illicit:  denies
+
+
+
+FamHx: 
+
+Father with vascular disease, asbestosis.
+
+
+
+VS:   97.2             71             146/68                 18          98% (RA)
+
+PE:  Gen: 	Pleasant woman appears younger than stated age, resting comfortably NAD
+
+HEENT: 	NC/AT, o/p clr, mmm
+
+Neck: 	supple, no LAD, no carotid or vertebral bruits
+
+CV: 	rr, nl s1s2, no m/r/g
+
+Chest: 	CTA b/l, no w/r/r anteriorly
+
+Abd: 	soft, nt/nd, +nabs
+
+Ext:	no c/c/e, distal pulses 2+, no rash
+
+
+
+Neurologic Exam:
+
+MS:	A&Ox3, appropriately interactive, normal affect 
+
+Attention: DOW, MOY backwards	 
+
+Speech: fluent w/o paraphasic errors; repetition, naming, reading, writing intact
+
+Memory: 1/3 at 5 minutes; 3/3 with prompting
+
+Calculations: serial 7s 100   93   86   79   62
+
+L/R confusion: No L/R confusion
+
+Praxis: Able to mimic saluting the flag, brushing teeth with either hand.
+
+
+
+CN: 	I--not tested
+
+II,III-Pupils equal 2.5  2 b/l, VFFC, optic discs sharp
+
+III,IV,VI-EOMI, no nystagmus, no ptosis
+
+V--sensation intact bilaterally to LT/PP/temp/vibration, masseters strong bilaterally
+
+VII--face symmetric without weakness
+
+VIII--hears finger rub bilaterally
+
+IX,X--voice normal, palate elevates symmetrically, voluntary cough
+
+XI--SCM/trapezii 5/5
+
+XII--tongue protrudes midline, no atrophy or fasciculation
+
+
+
+Motor:	Normal bulk and tone; postural tremor; no rigidity, cogwheeling or bradykinesia. 
+
+No pronator drift. 
+
+Strength:
+
+              
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="after DCT" type1="statin" type2="">
+      <MEDICATION id="M0" start="2117" end="2124" text="Lipitor" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M1" start="2117" end="2124" text="Lipitor" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M2" start="2117" end="2124" text="Lipitor" time="after DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC1" time="during DCT" type1="aspirin" type2="">
+      <MEDICATION id="M3" start="2136" end="2139" text="ASA" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M4" start="2136" end="2139" text="ASA" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M5" start="2136" end="2139" text="ASA" time="during DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC2" time="before DCT" type1="aspirin" type2="">
+      <MEDICATION id="M6" start="2136" end="2139" text="ASA" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M7" start="2136" end="2139" text="ASA" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M8" start="2136" end="2139" text="ASA" time="before DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <SMOKER id="DOC3" status="past">
+      <SMOKER id="S0" start="2369" end="2387" text="quit ~20 years ago" status="past" comment=""/>
+      <SMOKER id="S1" start="2337" end="2388" text="Tob: active for 'several years' quit ~20 years ago " status="past" comment=""/>
+      <SMOKER id="S2" start="2337" end="2387" text="Tob: active for 'several years' quit ~20 years ago" status="past" comment=""/>
+    </SMOKER>
+    <HYPERTENSION id="DOC4" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="252" end="255" text="HTN" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="252" end="255" text="HTN" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H2" start="1927" end="1930" text="HTN" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H3" start="252" end="255" text="HTN" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERLIPIDEMIA id="DOC5" time="before DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY0" start="257" end="271" text="hyperlipidemia" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY1" start="257" end="271" text="hyperlipidemia" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY2" start="1932" end="1946" text="Hyperlipidemia" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY3" start="257" end="271" text="hyperlipidemia" time="before DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <MEDICATION id="DOC6" time="before DCT" type1="diuretic" type2="">
+      <MEDICATION id="M9" start="2155" end="2159" text="HCTZ" time="before DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M10" start="2155" end="2159" text="HCTZ" time="before DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M11" start="2155" end="2159" text="HCTZ" time="before DCT" type1="diuretic" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERLIPIDEMIA id="DOC7" time="during DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY4" start="257" end="271" text="hyperlipidemia" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY5" start="257" end="271" text="hyperlipidemia" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY6" start="1932" end="1946" text="Hyperlipidemia" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY7" start="257" end="271" text="hyperlipidemia" time="during DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <HYPERTENSION id="DOC8" time="during DCT" indicator="high bp">
+      <HYPERTENSION id="H4" start="2514" end="2521" text=" 146/68" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H5" start="2515" end="2521" text="146/68" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H6" start="2515" end="2522" text="146/68 " time="during DCT" indicator="high bp" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC9" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H7" start="252" end="255" text="HTN" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H8" start="252" end="255" text="HTN" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H9" start="1927" end="1930" text="HTN" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H10" start="252" end="255" text="HTN" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <MEDICATION id="DOC10" time="after DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M12" start="2126" end="2134" text="Atenolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M13" start="2126" end="2134" text="Atenolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M14" start="2126" end="2134" text="Atenolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <CAD id="DOC11" time="after DCT" indicator="mention">
+      <CAD id="C0" start="273" end="276" text="CAD" time="after DCT" indicator="mention" comment=""/>
+      <CAD id="C1" start="273" end="276" text="CAD" time="after DCT" indicator="mention" comment=""/>
+      <CAD id="C2" start="1948" end="1951" text="CAD" time="after DCT" indicator="mention" comment=""/>
+      <CAD id="C3" start="273" end="276" text="CAD" time="after DCT" indicator="mention" comment=""/>
+    </CAD>
+    <MEDICATION id="DOC12" time="before DCT" type1="statin" type2="">
+      <MEDICATION id="M15" start="2117" end="2124" text="Lipitor" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M16" start="2117" end="2124" text="Lipitor" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M17" start="2117" end="2124" text="Lipitor" time="before DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC13" time="during DCT" type1="statin" type2="">
+      <MEDICATION id="M18" start="2117" end="2124" text="Lipitor" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M19" start="2117" end="2124" text="Lipitor" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M20" start="2117" end="2124" text="Lipitor" time="during DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC14" time="during DCT" type1="diuretic" type2="">
+      <MEDICATION id="M21" start="2155" end="2159" text="HCTZ" time="during DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M22" start="2155" end="2159" text="HCTZ" time="during DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M23" start="2155" end="2159" text="HCTZ" time="during DCT" type1="diuretic" type2="" comment=""/>
+    </MEDICATION>
+    <FAMILY_HIST id="DOC15" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <HYPERLIPIDEMIA id="DOC16" time="after DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY8" start="257" end="271" text="hyperlipidemia" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY9" start="257" end="271" text="hyperlipidemia" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY10" start="1932" end="1946" text="Hyperlipidemia" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY11" start="257" end="271" text="hyperlipidemia" time="after DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <CAD id="DOC17" time="during DCT" indicator="mention">
+      <CAD id="C4" start="273" end="276" text="CAD" time="during DCT" indicator="mention" comment=""/>
+      <CAD id="C5" start="273" end="276" text="CAD" time="during DCT" indicator="mention" comment=""/>
+      <CAD id="C6" start="1948" end="1951" text="CAD" time="during DCT" indicator="mention" comment=""/>
+      <CAD id="C7" start="273" end="276" text="CAD" time="during DCT" indicator="mention" comment=""/>
+    </CAD>
+    <MEDICATION id="DOC18" time="after DCT" type1="diuretic" type2="">
+      <MEDICATION id="M24" start="2155" end="2159" text="HCTZ" time="after DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M25" start="2155" end="2159" text="HCTZ" time="after DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M26" start="2155" end="2159" text="HCTZ" time="after DCT" type1="diuretic" type2="" comment=""/>
+    </MEDICATION>
+    <CAD id="DOC19" time="before DCT" indicator="event">
+      <CAD id="C8" start="281" end="290" text="LAD stent" time="before DCT" indicator="event" comment=""/>
+      <CAD id="C9" start="277" end="297" text="s/p LAD stent (2144)" time="before DCT" indicator="event" comment=""/>
+    </CAD>
+    <MEDICATION id="DOC20" time="after DCT" type1="aspirin" type2="">
+      <MEDICATION id="M27" start="2136" end="2139" text="ASA" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M28" start="2136" end="2139" text="ASA" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M29" start="2136" end="2139" text="ASA" time="after DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC21" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H11" start="252" end="255" text="HTN" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H12" start="252" end="255" text="HTN" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H13" start="1927" end="1930" text="HTN" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H14" start="252" end="255" text="HTN" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <MEDICATION id="DOC22" time="before DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M30" start="2126" end="2134" text="Atenolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M31" start="2126" end="2134" text="Atenolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M32" start="2126" end="2134" text="Atenolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC23" time="during DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M33" start="2126" end="2134" text="Atenolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M34" start="2126" end="2134" text="Atenolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M35" start="2126" end="2134" text="Atenolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <CAD id="DOC24" time="before DCT" indicator="mention">
+      <CAD id="C10" start="273" end="276" text="CAD" time="before DCT" indicator="mention" comment=""/>
+      <CAD id="C11" start="273" end="276" text="CAD" time="before DCT" indicator="mention" comment=""/>
+      <CAD id="C12" start="1948" end="1951" text="CAD" time="before DCT" indicator="mention" comment=""/>
+      <CAD id="C13" start="273" end="276" text="CAD" time="before DCT" indicator="mention" comment=""/>
+    </CAD>
+    <PHI id="P0" start="16" end="26" text="2150-02-06" TYPE="DATE"/>
+    <PHI id="P1" start="69" end="84" text="Klein, Michelle" TYPE="PATIENT"/>
+    <PHI id="P2" start="91" end="98" text="2474410" TYPE="MEDICALRECORD"/>
+    <PHI id="P3" start="107" end="113" text="2/6/50" TYPE="DATE"/>
+    <PHI id="P4" start="139" end="153" text="Whitney Keller" TYPE="DOCTOR"/>
+    <PHI id="P5" start="221" end="223" text="74" TYPE="AGE"/>
+    <PHI id="P6" start="292" end="296" text="2144" TYPE="DATE"/>
+    <PHI id="P7" start="1966" end="1970" text="2144" TYPE="DATE"/>
+    <PHI id="P8" start="2243" end="2250" text="Sherman" TYPE="CITY"/>
+    <PHI id="P9" start="2301" end="2310" text="secretary" TYPE="PROFESSION"/>
+    <PHI id="P10" start="2318" end="2334" text="methodist church" TYPE="ORGANIZATION"/>
+  </TAGS>
+</root>

@@ -1,0 +1,145 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2081-02-05
+
+                     LCC EMERGENCY DEPT VISIT
+ 
+XANDERS,RUTH A   564-19-92-7                   VISIT DATE: 02/05/81
+PRESENTING COMPLAINT:  Leg fracture. 
+HISTORY OF PRESENTING COMPLAINT:  This is a 41 year-old woman, 
+transferred from Otis Hospital where she presented today 
+after falling in her kitchen.  She states she lost her footing 
+while wearing some high heel shoes and fell in a twisting motion, 
+sustaining an injury to her foot and ankle.  She was seen at 
+Otis Hospital where an open tib-fib fracture was identified. 
+She denied any other injury.  She denied head injury, neck pain, 
+back pain, or chest pain. 
+PAST MEDICAL HISTORY:  Notable for insulin requiring diabetes and 
+hypertension, as well as renal insufficiency. 
+MEDICATIONS:  Insulin, Cozaar, Lipitor, Lasix, and Procan. 
+ALLERGIES:  No known drug allergies. 
+SOCIAL HISTORY AND FAMILY HISTORY:  She does admit to drinking 
+tonight and on a fairly regular basis. 
+PHYSICAL EXAMINATION:  GENERAL:  Alert and oriented.  She did have 
+the odor of alcohol on her breath.  HEAD:  Atraumatic.  NECK:  Full 
+range of motion, non-tender.  CHEST:  Clavicles and chest were 
+non-tender.  LUNGS:  Clear to auscultation.  HEART:  Normal S1 and 
+S2.  ABDOMEN:  Soft and non-tender.  PELVIS & EXTREMITIES: 
+Unremarkable with the exception of the right ankle, which is in a 
+plaster splint.  When removed laceration was seen just proximal to 
+the medial malleolus.  There was a normal pulse and capillary 
+refill in the extremity. 
+LABORATORY EVALUATION:  X-rays revealed a fracture underlying the 
+laceration of the tibia.  There was also a distal fibular fracture 
+as well.  The mortise appeared intact.  Chest x-ray was clear. 
+Electrocardiogram is pending.  Laboratory studies showed a normal 
+CBC, glucose of 291, and creatinine of 1.9 from the other facility. 
+THERAPY RENDERED/COURSE IN ED:  The patient will be taken to the 
+operating room for wash-out and open reduction and internal 
+fixation procedure. 
+FINAL DIAGNOSIS:  Open tib-fib fracture. 
+DISPOSITION (including condition upon discharge):  The patient is 
+presently in stable condition. 
+___________________________________                    SS758/93822 
+QUINTON COLON, M.D.   QC22                             D:02/05/81 
+                                                       T:02/05/81 
+Dictated by:  QUINTON COLON, M.D.   QC22 
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="before DCT" type1="statin" type2="">
+      <MEDICATION id="M0" start="797" end="804" text="Lipitor" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M1" start="797" end="804" text="Lipitor" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M2" start="797" end="804" text="Lipitor" time="before DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC1" time="during DCT" type1="statin" type2="">
+      <MEDICATION id="M3" start="797" end="804" text="Lipitor" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M4" start="797" end="804" text="Lipitor" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M5" start="797" end="804" text="Lipitor" time="during DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC2" time="after DCT" type1="insulin" type2="">
+      <MEDICATION id="M6" start="780" end="787" text="Insulin" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M7" start="687" end="694" text="insulin" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M8" start="687" end="694" text="insulin" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M9" start="780" end="787" text="Insulin" time="after DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC3" time="after DCT" type1="statin" type2="">
+      <MEDICATION id="M10" start="797" end="804" text="Lipitor" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M11" start="797" end="804" text="Lipitor" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M12" start="797" end="804" text="Lipitor" time="after DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC8" time="after DCT" type1="ARB" type2="">
+      <MEDICATION id="M13" start="789" end="795" text="Cozaar" time="after DCT" type1="ARB" type2="" comment=""/>
+      <MEDICATION id="M14" start="789" end="795" text="Cozaar" time="after DCT" type1="ARB" type2="" comment=""/>
+      <MEDICATION id="M15" start="789" end="795" text="Cozaar" time="after DCT" type1="ARB" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC10" time="during DCT" type1="insulin" type2="">
+      <MEDICATION id="M16" start="780" end="787" text="Insulin" time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M17" start="687" end="694" text="insulin" time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M18" start="687" end="694" text="insulin" time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M19" start="780" end="787" text="Insulin" time="during DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC14" time="during DCT" type1="ARB" type2="">
+      <MEDICATION id="M20" start="789" end="795" text="Cozaar" time="during DCT" type1="ARB" type2="" comment=""/>
+      <MEDICATION id="M21" start="789" end="795" text="Cozaar" time="during DCT" type1="ARB" type2="" comment=""/>
+      <MEDICATION id="M22" start="789" end="795" text="Cozaar" time="during DCT" type1="ARB" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC15" time="before DCT" type1="ARB" type2="">
+      <MEDICATION id="M23" start="789" end="795" text="Cozaar" time="before DCT" type1="ARB" type2="" comment=""/>
+      <MEDICATION id="M24" start="789" end="795" text="Cozaar" time="before DCT" type1="ARB" type2="" comment=""/>
+      <MEDICATION id="M25" start="789" end="795" text="Cozaar" time="before DCT" type1="ARB" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC16" time="before DCT" type1="insulin" type2="">
+      <MEDICATION id="M26" start="780" end="787" text="Insulin" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M27" start="687" end="694" text="insulin" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M28" start="687" end="694" text="insulin" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M29" start="780" end="787" text="Insulin" time="before DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC5" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="719" end="731" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="719" end="731" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H2" start="719" end="731" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC9" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H3" start="719" end="731" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H4" start="719" end="731" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H5" start="719" end="731" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC13" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H6" start="719" end="731" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H7" start="719" end="731" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H8" start="719" end="731" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <FAMILY_HIST id="DOC11" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC12" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" start="864" end="871" text="SOCIAL " status="unknown" comment=""/>
+      <SMOKER id="S2" status="unknown"/>
+    </SMOKER>
+    <DIABETES id="DOC4" time="during DCT" indicator="mention">
+      <DIABETES id="D0" start="705" end="713" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D1" start="705" end="713" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D2" start="705" end="713" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC6" time="before DCT" indicator="mention">
+      <DIABETES id="D3" start="705" end="713" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D4" start="705" end="713" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D5" start="705" end="713" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC7" time="after DCT" indicator="mention">
+      <DIABETES id="D6" start="705" end="713" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D7" start="705" end="713" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D8" start="705" end="713" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+  </TAGS>
+</root>

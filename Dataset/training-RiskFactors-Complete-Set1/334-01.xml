@@ -1,0 +1,217 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2132-09-28
+
+
+
+
+                                                                                                      962-85-18
+
+                                                                                                      Jain, Oliver
+
+
+September 28, 2132  Endocrine/Diabetes
+
+
+
+Present Illness:  
+
+Asked to see this 66 year old man who was transferred to LEPROSARIUM for care of an ischemic R foot. He has had a series of illness over the spring, beginning with a hospitalization for pneumonia in June. He later developed what was thought to be a splenic subcapsular hematoma (on Coumadin for chronic atrial fibrillation) and then subsequently developed LUQ pain and was found to have a splenic abscess that was drained. In the course of this illness, he also developed an ischemic R foot and was found (at what stage?) to have a popliteal aneurysm. 
+
+
+
+At the time of his admission, he was found to have diabetes. He has been treated with Lantus insulin, most recently 15 Units at bedtime, on which regimen he has had consistent overnight drops, often to hypoglycemic levels. He reports that he weighed about 200 pounds before this illness but has lost about 50 pounds. 
+
+
+
+Retinopathy:   He has had an eye exam in the recent past but I do not know any details.
+
+Nephropathy:  BUN/Cr 8/0.77
+
+Neuropathy:    Do not get a history of peripheral neuropathy
+
+Cardiac:           Aware of having atrial fibrillation for about 4 years. Not aware of any history of coronary artery disease.
+
+Vascular:         ? claudication preceding this spring&#8217;s illness.
+
+
+
+Past Medical History:  
+
+Surgery:                       R elbow surgery
+
+                                    Umbilical hernia repair
+
+Medical:                      Hypertension   
+
+                                    Hyperlipidemia
+
+                                    Chronic atrial fibrillation
+
+Allergies:                     No known drug allergies.
+
+Smoking History:        None.
+
+Alcohol History:         Occasional 6-pack for a football game
+
+
+
+Family History:  
+
+Father:             Also developed, or was found to have, diabetes in the context of another illness within the last decade and now takes insulin in his 80&#8217;s.
+
+
+
+Social History: 
+
+Lives with his wife.
+
+
+
+Review of Systems: above
+
+Review of systems is otherwise negative.
+
+
+
+
+Physical Exam:   
+
+Pleasant man in no distress, flat p angio.
+
+BP:   120-140/60-80                            P:   60&#8217;s-70&#8217;s, irregularly irregular       
+
+Wt:   about 150 by history                  Ht: about 5&#8217;9.5&#8221;
+
+HEENT:          Anicteric. Full EOM's. 
+
+Fundi:              Not examined
+
+Carotids:         Normal pulses, without bruits
+
+Chest:              Clear to auscultation anteriorly
+
+Heart:              Normal S1; physiologic S2.  No gallops.  No murmurs
+
+Abdomen:       No hepatosplenomegaly. No masses. Mild LUQ tenderness. Upper abdominal scar is well healed.
+
+Extremities:     R forefoot appears gangrenous. L foot is not ischemic but no pedal pulses are palpable.            
+
+
+
+Impressions and Plan:   
+
+
+66 year old man with gangrenous R foot and evidence for PVD on L as well.
+
+Diabetes, type 2, of uncertain duration.
+
+A1c is being checked.
+
+D/C Lantus.
+
+Start NPH 10 Units qAM.
+
+After he is through with surgical procedure, it is unlikely that he will need insulin.
+
+
+
+Thanks.
+
+
+
+                                                                        Oren S. Ip, M.D., Ph.D.
+
+
+
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <DIABETES id="DOC0" time="before DCT" indicator="mention">
+      <DIABETES id="D0" start="930" end="938" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D1" start="930" end="938" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D2" start="930" end="938" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <HYPERTENSION id="DOC1" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="1747" end="1762" text="Hypertension   " time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="1747" end="1759" text="Hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H2" start="1747" end="1759" text="Hypertension" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <MEDICATION id="DOC2" time="before DCT" type1="insulin" type2="">
+      <MEDICATION id="M0" start="965" end="979" text="Lantus insulin" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M1" start="965" end="979" text="Lantus insulin" time="before DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERLIPIDEMIA id="DOC3" time="before DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY0" start="1800" end="1815" text="Hyperlipidemia " time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY1" start="1800" end="1814" text="Hyperlipidemia" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY2" start="1800" end="1814" text="Hyperlipidemia" time="before DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <HYPERTENSION id="DOC4" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H3" start="1747" end="1762" text="Hypertension   " time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H4" start="1747" end="1759" text="Hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H5" start="1747" end="1759" text="Hypertension" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERLIPIDEMIA id="DOC5" time="after DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY3" start="1800" end="1815" text="Hyperlipidemia " time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY4" start="1800" end="1814" text="Hyperlipidemia" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY5" start="1800" end="1814" text="Hyperlipidemia" time="after DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <DIABETES id="DOC6" time="during DCT" indicator="mention">
+      <DIABETES id="D3" start="930" end="938" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D4" start="930" end="938" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D5" start="930" end="938" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <HYPERTENSION id="DOC7" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H6" start="1747" end="1762" text="Hypertension   " time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H7" start="1747" end="1759" text="Hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H8" start="1747" end="1759" text="Hypertension" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <MEDICATION id="DOC8" time="during DCT" type1="insulin" type2="">
+      <MEDICATION id="M2" start="965" end="979" text="Lantus insulin" time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M3" start="965" end="979" text="Lantus insulin" time="during DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <FAMILY_HIST id="DOC9" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <MEDICATION id="DOC10" time="after DCT" type1="insulin" type2="">
+      <MEDICATION id="M4" start="3242" end="3245" text="NPH" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M5" start="3236" end="3245" text="Start NPH" time="after DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <DIABETES id="DOC11" time="after DCT" indicator="mention">
+      <DIABETES id="D6" start="930" end="938" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D7" start="930" end="938" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D8" start="930" end="938" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <HYPERLIPIDEMIA id="DOC12" time="during DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY6" start="1800" end="1815" text="Hyperlipidemia " time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY7" start="1800" end="1814" text="Hyperlipidemia" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY8" start="1800" end="1814" text="Hyperlipidemia" time="during DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <SMOKER id="DOC13" status="never">
+      <SMOKER id="S0" start="1938" end="1966" text="Smoking History:        None" status="never" comment=""/>
+      <SMOKER id="S1" start="1938" end="1966" text="Smoking History:        None" status="never" comment=""/>
+      <SMOKER id="S2" start="1938" end="1967" text="Smoking History:        None." status="never" comment=""/>
+    </SMOKER>
+    <PHI id="P0" start="16" end="26" text="2132-09-28" TYPE="DATE"/>
+    <PHI id="P1" start="133" end="142" text="962-85-18" TYPE="MEDICALRECORD"/>
+    <PHI id="P2" start="246" end="258" text="Jain, Oliver" TYPE="PATIENT"/>
+    <PHI id="P3" start="261" end="279" text="September 28, 2132" TYPE="DATE"/>
+    <PHI id="P4" start="341" end="343" text="66" TYPE="AGE"/>
+    <PHI id="P5" start="380" end="391" text="LEPROSARIUM" TYPE="HOSPITAL"/>
+    <PHI id="P6" start="464" end="470" text="spring" TYPE="DATE"/>
+    <PHI id="P7" start="522" end="526" text="June" TYPE="DATE"/>
+    <PHI id="P8" start="1556" end="1562" text="spring" TYPE="DATE"/>
+    <PHI id="P9" start="2207" end="2209" text="80" TYPE="AGE"/>
+    <PHI id="P10" start="3083" end="3085" text="66" TYPE="AGE"/>
+    <PHI id="P11" start="3434" end="3444" text="Oren S. Ip" TYPE="DOCTOR"/>
+  </TAGS>
+</root>

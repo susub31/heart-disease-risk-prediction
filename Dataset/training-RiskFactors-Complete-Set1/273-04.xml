@@ -1,0 +1,197 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2078-06-03
+
+					
+Novolog 3-10 tid	683-51-28
+Lantus 19-20 at hs	Xuan, Wendy
+Neoral 100/100 mg bid 
+CellCept 1000 mg bid 
+Toprol XL 25 mg qd, not yet started
+Lipitor 10 mg qd
+Neurontin 600/1200 mg bid
+Tums 200 mg ii qd (should be at least bid)
+Prilosec 20 mg bid
+MVI i bid
+ASA 325 mg qd
+Quinine Sulfate 260 mg at hs
+Tylenol 1325 mg over the day for arthritis
+Wellbutrin 150 mg bid
+Androgel to leg qd
+DHEA qd
+
+Jun 03, 2078
+
+Interim History:	
+Comes to review her medical problems.
+
+Has lost weight thanks to some spring viral illnesses     she is pleased about it.
+Reports that her control has not been good and does not have records.
+No severe hypoglycemia.
+Retinopathy:	Still has not seen Dr. Aragon. No subjective change in visual acuity.
+Nephropathy:	Cr 1.7 in January. Has not seen transplant MDs in a couple of years. Formerly saw Dr. Hayes. 
+Neuropathy:	No foot discomfort.
+Cardiac:	Has occasional high substernal chest tightness, every couple of weeks, over about 6 months, unrelated to exercise. Can last up to 15 minutes. Has not become more frequent. Sees Dr. Dotson annually. Has sensation about weekly that she cannot swallow, liquids>solids. Has had this for over a year and it has not been progressive.  
+Vascular:	No claudication.
+
+Past Medical History: 
+Medications: wants to reduce costs     asks about generics for Lipitor, transplant meds. 
+
+Family History: 
+Wendee has been profiled in the media because of her work as an industrial engineer 
+
+Social History: 
+Jake is well. His parents have been ill. 
+
+Review of Systems: above
+Psych: Referred to urologist at KJH, Dr. Xayachack (? sp) because of absent libido. He made the switch from Celexa to Wellbutrin and added Androgel and DHEA. She has noted more acne or no more libido. The loss of libido precedes the Celexa and the possibility of its relationship to Neoral or CellCept has been raised. 
+She sees her gynecologist regularly.
+
+Physical Exam:	
+Looks remarkably well.
+BP:   160/98   170/88		P:   60, regular	
+Wt:   153 without shoes, down 15
+HEENT:	Anicteric. 
+Fundi:	Limited views; laser scars; some ? fibrous bands OS. No active lesions seen.
+Carotids:	Normal pulses, without bruits
+Thyroid:	20-25 grams, firm without nodules.
+Chest:	Clear to auscultation
+Heart:	Normal S1; physiologic S2.  S4.  2/6 systolic ejection murmur
+Abdomen:	No hepatosplenomegaly. No masses. No tenderness. No palpable AAA. 
+Extremities:	No edema.  Pedal pulses all 1-2+ except L PT not palpable.           Small blister, resolving L 5th toe. Small crust L medial malleolus. 
+
+Impressions and Plan:	
+Hard to assess control without data. Hopefully her weight loss does not reflect terrible control.
+BP much too high. Start Toprol 25 mg qd.
+I have no objection to switch to simvastatin from atorvastatin for  cost reasons, but she must check with the transplant MDs re: this switch because of Neoral interaction with statins.
+Her chest pain does not sound particularly cardiac but will ask Dr. Dotson whether he wants any further evaluation. 
+MUST     see Dr. Aragon, see transplant MD. Make these appointments for her today.
+Will get barium swallow because of her dysphagia - ? disorganized esophageal contractions; consider manometry with Dr. Quam.
+A1c, Electrolytes, BUN/Creatinine, Ca, P, A/G, 25-(OH) vitamin D, PTH, CBC, urinalysis. Has already taken her Neoral today.
+Fasting lipids another day.
+Stool guaiacs. Has not done them.
+
+Appointments:	NP 1 week to check BP
+	Me 3 months
+
+cc:	Xavier Dotson, M.D.
+	Transplant Clinic
+
+
+			Yacob T. Kane, M.D., Ph.D.
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="before DCT" type1="statin" type2="">
+      <MEDICATION id="M0" start="173" end="180" text="Lipitor" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M1" start="173" end="181" text="Lipitor " time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M2" start="173" end="180" text="Lipitor" time="before DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC1" time="during DCT" type1="statin" type2="">
+      <MEDICATION id="M3" start="173" end="180" text="Lipitor" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M4" start="173" end="181" text="Lipitor " time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M5" start="173" end="180" text="Lipitor" time="during DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC2" time="during DCT" type1="aspirin" type2="">
+      <MEDICATION id="M6" start="288" end="291" text="ASA" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M7" start="288" end="292" text="ASA " time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M8" start="288" end="291" text="ASA" time="during DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC3" time="before DCT" type1="insulin" type2="">
+      <MEDICATION id="M9" start="34" end="42" text="Novolog " time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M10" start="34" end="41" text="Novolog" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M11" start="61" end="67" text="Lantus" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M12" start="34" end="41" text="Novolog" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M13" start="61" end="67" text="Lantus" time="before DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC4" time="after DCT" type1="statin" type2="">
+      <MEDICATION id="M14" start="173" end="180" text="Lipitor" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M15" start="173" end="181" text="Lipitor " time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M16" start="173" end="180" text="Lipitor" time="after DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC5" time="after DCT" type1="aspirin" type2="">
+      <MEDICATION id="M17" start="288" end="291" text="ASA" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M18" start="288" end="292" text="ASA " time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M19" start="288" end="291" text="ASA" time="after DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC6" time="during DCT" indicator="high bp">
+      <HYPERTENSION id="H0" start="1966" end="1982" text="160/98   170/88 " time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H1" start="1966" end="1973" text="160/98 " time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H2" start="1975" end="1981" text="170/88" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H3" start="1960" end="1982" text="BP:   160/98   170/88 " time="during DCT" indicator="high bp" comment=""/>
+    </HYPERTENSION>
+    <MEDICATION id="DOC7" time="before DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M20" start="137" end="143" text="Toprol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M21" start="137" end="146" text="Toprol XL" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M22" start="2692" end="2698" text="Toprol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M23" start="137" end="143" text="Toprol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC8" time="before DCT" type1="aspirin" type2="">
+      <MEDICATION id="M24" start="288" end="291" text="ASA" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M25" start="288" end="292" text="ASA " time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M26" start="288" end="291" text="ASA" time="before DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC9" time="after DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M27" start="137" end="143" text="Toprol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M28" start="137" end="146" text="Toprol XL" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M29" start="2692" end="2698" text="Toprol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M30" start="137" end="143" text="Toprol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <SMOKER id="DOC10" status="unknown">
+      <SMOKER id="S0" start="1478" end="1485" text="Social " status="unknown" comment=""/>
+      <SMOKER id="S1" status="unknown"/>
+      <SMOKER id="S2" status="unknown"/>
+    </SMOKER>
+    <MEDICATION id="DOC11" time="during DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M31" start="137" end="143" text="Toprol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M32" start="137" end="146" text="Toprol XL" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M33" start="2692" end="2698" text="Toprol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M34" start="137" end="143" text="Toprol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M35" start="2692" end="2698" text="Toprol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC12" time="during DCT" type1="insulin" type2="">
+      <MEDICATION id="M36" start="34" end="42" text="Novolog " time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M37" start="34" end="41" text="Novolog" time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M38" start="61" end="67" text="Lantus" time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M39" start="34" end="41" text="Novolog" time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M40" start="61" end="67" text="Lantus" time="during DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <FAMILY_HIST id="DOC13" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <MEDICATION id="DOC14" time="after DCT" type1="insulin" type2="">
+      <MEDICATION id="M41" start="34" end="42" text="Novolog " time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M42" start="34" end="41" text="Novolog" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M43" start="61" end="67" text="Lantus" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M44" start="34" end="41" text="Novolog" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M45" start="61" end="67" text="Lantus" time="after DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <PHI id="P0" start="16" end="26" text="2078-06-03" TYPE="DATE"/>
+    <PHI id="P1" start="51" end="60" text="683-51-28" TYPE="MEDICALRECORD"/>
+    <PHI id="P2" start="80" end="91" text="Xuan, Wendy" TYPE="PATIENT"/>
+    <PHI id="P3" start="424" end="436" text="Jun 03, 2078" TYPE="DATE"/>
+    <PHI id="P4" start="526" end="532" text="spring" TYPE="DATE"/>
+    <PHI id="P5" start="708" end="714" text="Aragon" TYPE="DOCTOR"/>
+    <PHI id="P6" start="778" end="785" text="January" TYPE="DATE"/>
+    <PHI id="P7" start="854" end="859" text="Hayes" TYPE="DOCTOR"/>
+    <PHI id="P8" start="1084" end="1090" text="Dotson" TYPE="DOCTOR"/>
+    <PHI id="P9" start="1392" end="1398" text="Wendee" TYPE="PATIENT"/>
+    <PHI id="P10" start="1456" end="1475" text="industrial engineer" TYPE="PROFESSION"/>
+    <PHI id="P11" start="1495" end="1499" text="Jake" TYPE="PATIENT"/>
+    <PHI id="P12" start="1595" end="1598" text="KJH" TYPE="HOSPITAL"/>
+    <PHI id="P13" start="1604" end="1613" text="Xayachack" TYPE="DOCTOR"/>
+    <PHI id="P14" start="2962" end="2968" text="Dotson" TYPE="DOCTOR"/>
+    <PHI id="P15" start="3028" end="3034" text="Aragon" TYPE="DOCTOR"/>
+    <PHI id="P16" start="3213" end="3217" text="Quam" TYPE="DOCTOR"/>
+    <PHI id="P17" start="3460" end="3473" text="Xavier Dotson" TYPE="DOCTOR"/>
+    <PHI id="P18" start="3504" end="3517" text="Yacob T. Kane" TYPE="DOCTOR"/>
+  </TAGS>
+</root>

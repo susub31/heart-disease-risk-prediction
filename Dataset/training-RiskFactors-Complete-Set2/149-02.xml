@@ -1,0 +1,172 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2070-03-16
+
+
+
+
+NAME:    Vines, Stephen
+MRN:      1672569
+
+Stephen comes in today.  He has been feeling pretty well.  Really has no new
+complaints.  He still has 5 block claudication in his calves and he continues to smoke 
+a half pack per day.  His neuropathy is stabilized and his sugars have been good for
+the most part in the 140-150 range on insulin.  His weight has been stable.  He has
+had no shortness of breath or chest pain and his review of systems is otherwise
+negative.
+
+HABITS: Smokes about a half pack per day.  Does not drink, not really getting much
+exercise.  His legs hurt only when he walks over 5 blocks.  It doesn't hurt when he is
+working in the McCormick Company.
+
+PHYSICAL EXAM: He looks well.  His blood pressure is 142/80.  His pulse is 74
+and regular.  Respirations are 16. Lungs are clear.  No worrisome skin lesions. No
+bruits.  1+ carotids.  Abdomen is soft and nontender, no hepatosplenomegaly, no
+pulsatile masses, no bruits. Decreased pulses in the feet and decreased capillary refill
+and decreased sensation of vibration and fine touch.
+
+ASSESSMENT AND PLAN:  
+
+(1)  Diabetes.  Will check his hemoglobin A1c to see where we stand.  Continue
+     on his current regimen.  Encouraged him to increase his exercise and watch his
+     diet.  He has an eye exam scheduled.  His feet look okay, though we will have
+     to be careful given his neuropathy and peripheral vascular disease.
+
+(2)  Claudication.  Once again, talked to Mr. Vines about the absolute
+     importance of quitting smoking.  He is going to try using the Wellbutrin.  Gave
+     him a prescription for #60.  He will take one a day for 3-4 days and then go
+     up to 1 p.o. b.i.d.  He has no contraindications. I also encouraged him to use
+     the patch.  Hopefully, we will be able to get him off the cigarettes.  I also
+     encouraged him to walk until it hurts at least 3-4 x a day to try and train his
+     legs.
+
+(3)  Hypertension.  Our goal is to get his blood pressure down about 130.  Will
+     increase the Mavik to twice a day.
+
+(4)  Hyperlipidemia.  Well controlled on Lipitor.  Recheck his lipids.
+
+(5)  Neuropathy.  Stable.  He doesn't feel the need for any medication for it.
+
+(6)  HPDP.  Will check his guaiac cards.  He is not interested in a sigmoidoscopy. 
+     He has had a Pneumovax.  Patient will follow up with me in 3 months. 
+
+  
+
+Scott Phipps, M.D.
+
+SP/irons/quang
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <HYPERLIPIDEMIA id="DOC6" time="during DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY0" start="2059" end="2074" text=" Hyperlipidemia" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY1" start="2060" end="2074" text="Hyperlipidemia" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY2" start="2060" end="2074" text="Hyperlipidemia" time="during DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <HYPERLIPIDEMIA id="DOC13" time="after DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY3" start="2059" end="2074" text=" Hyperlipidemia" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY4" start="2060" end="2074" text="Hyperlipidemia" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY5" start="2060" end="2074" text="Hyperlipidemia" time="after DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <HYPERLIPIDEMIA id="DOC15" time="before DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY6" start="2059" end="2074" text=" Hyperlipidemia" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY7" start="2060" end="2074" text="Hyperlipidemia" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY8" start="2060" end="2074" text="Hyperlipidemia" time="before DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <MEDICATION id="DOC0" time="during DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M0" start="2031" end="2037" text=" Mavik" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M1" start="2032" end="2037" text="Mavik" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M2" start="2032" end="2037" text="Mavik" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC1" time="after DCT" type1="statin" type2="">
+      <MEDICATION id="M3" start="2096" end="2103" text="Lipitor" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M4" start="2096" end="2103" text="Lipitor" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M5" start="2096" end="2103" text="Lipitor" time="after DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC3" time="after DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M6" start="2031" end="2037" text=" Mavik" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M7" start="2032" end="2037" text="Mavik" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC4" time="before DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M8" start="2031" end="2037" text=" Mavik" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M9" start="2032" end="2037" text="Mavik" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC7" time="after DCT" type1="insulin" type2="">
+      <MEDICATION id="M10" start="362" end="369" text="insulin" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M11" start="362" end="369" text="insulin" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M12" start="362" end="369" text="insulin" time="after DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC11" time="before DCT" type1="statin" type2="">
+      <MEDICATION id="M13" start="2096" end="2103" text="Lipitor" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M14" start="2096" end="2103" text="Lipitor" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M15" start="2096" end="2103" text="Lipitor" time="before DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC12" time="during DCT" type1="statin" type2="">
+      <MEDICATION id="M16" start="2096" end="2103" text="Lipitor" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M17" start="2096" end="2103" text="Lipitor" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M18" start="2096" end="2103" text="Lipitor" time="during DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC14" time="before DCT" type1="insulin" type2="">
+      <MEDICATION id="M19" start="362" end="369" text="insulin" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M20" start="362" end="369" text="insulin" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M21" start="362" end="369" text="insulin" time="before DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC18" time="during DCT" type1="insulin" type2="">
+      <MEDICATION id="M22" start="362" end="369" text="insulin" time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M23" start="362" end="369" text="insulin" time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M24" start="362" end="369" text="insulin" time="during DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC2" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="1938" end="1951" text=" Hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="1939" end="1951" text="Hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H2" start="1939" end="1951" text="Hypertension" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC8" time="during DCT" indicator="high bp">
+      <HYPERTENSION id="H3" start="757" end="763" text="142/80" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H4" start="756" end="766" text=" 142/80.  " time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H5" start="735" end="763" text="His blood pressure is 142/80" time="during DCT" indicator="high bp" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC9" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H6" start="1938" end="1951" text=" Hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H7" start="1939" end="1951" text="Hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H8" start="1939" end="1951" text="Hypertension" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC17" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H9" start="1938" end="1951" text=" Hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H10" start="1939" end="1951" text="Hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H11" start="1939" end="1951" text="Hypertension" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <FAMILY_HIST id="DOC19" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC16" status="current">
+      <SMOKER id="S0" start="232" end="258" text="smoke  a half pack per day" status="current" comment=""/>
+      <SMOKER id="S1" start="219" end="258" text="continues to smoke  a half pack per day" status="current" comment=""/>
+      <SMOKER id="S2" start="219" end="258" text="continues to smoke  a half pack per day" status="current" comment=""/>
+      <SMOKER id="S3" start="507" end="539" text="Smokes about a half pack per day" status="current" comment=""/>
+    </SMOKER>
+    <DIABETES id="DOC5" time="during DCT" indicator="mention">
+      <DIABETES id="D0" start="1117" end="1125" text="Diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D1" start="1117" end="1125" text="Diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D2" start="1117" end="1125" text="Diabetes" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC10" time="before DCT" indicator="mention">
+      <DIABETES id="D3" start="1117" end="1125" text="Diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D4" start="1117" end="1125" text="Diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D5" start="1117" end="1125" text="Diabetes" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC20" time="after DCT" indicator="mention">
+      <DIABETES id="D6" start="1117" end="1125" text="Diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D7" start="1117" end="1125" text="Diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D8" start="1117" end="1125" text="Diabetes" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+  </TAGS>
+</root>

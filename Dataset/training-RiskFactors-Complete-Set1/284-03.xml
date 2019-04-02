@@ -1,0 +1,296 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2071-02-19
+
+79 yo female  
+
+post  RSH hospitalization for failure to thrive,  nursing home stay for three months. 
+
+home for one week.  ruled out for MI,  ct scan negative,  diagnosed with depression.  
+
+home  finger sticks   in the 191 per vna. 
+
+in today wiht niece from Maine.  no complaints except for knee pain at times. she uses walker. 
+
+she feels in good spirits and denies depression.
+
+Problems
+
+Hypertension 
+
+Osteoarthritis 
+
+Dizziness 
+
+amputation : 3rd left toe
+
+Depression : with psychotic features
+
+Lumbar disc disease : s/p discectomy
+
+Cholecystectomy : s/p open procedure
+
+H/O Atrial fibrillation : vs. atrial tachycardia -- s/p cardioversion 2/68
+
+Diabetes mellitus : type 2
+
+Pulmonary embolism : bilateral; tx'd at Buzan County Clinic
+
+Myocardial infarction : NQWMI with inferolateral/apical depressions 5/31/69 - 6/04/69 at Buzan County Clinic; no cath or f/u ETT done there as pt requested conservative management 
+
+pulmonary htn
+
+
+
+
+
+Medications
+
+Asa (CHILDRENS) (ACETYLSALICYLIC Acid (C... 81MG, 1 Tablet(s) PO QD
+
+Tylenol (ACETAMINOPHEN) 500MG, 2 Tablet(s) PO TID PRN arthritis pain
+
+Glucophage (METFORMIN) 500MG, 2 Tablet(s) PO BID : PLEASE MAIL TO PT
+
+Nexium 40 Mg 40 MG PO QD : PLEASE MAIL TO PT
+
+Colace (DOCUSATE Sodium) 100MG, 1 Tablet(s) PO TID PRN constip : please mail to pt
+
+Hydrocortisone 1% -topical CREAM TOP BID
+
+IBUPROFEN 600MG, 1 Tablet(s) PO Q8H PRN pain : to be taken with food
+
+Lasix (FUROSEMIDE) 40MG, 1.5 Tablet(s) PO QD PRN AND prn
+
+Zestril (LISINOPRIL) 10MG, 1 Tablet(s) PO QD : PLEASE MAIL TO PT
+
+Celexa (CITALOPRAM) 40MG, 1.5 Tablet(s) PO QD
+
+Mvi (MULTIVITAMINS) 1 CAPSULE PO QD
+
+ATENOLOL 25MG, 1 Tablet(s) PO QD : PLEASE MAIL TO PT
+
+Ritalin (METHYLPHENIDATE Hcl) 5MG, 1 Tablet(s) PO QD 
+
+
+
+
+
+Allergies
+
+* Haldol - Unknown 
+
+
+
+
+
+
+
+bp:120/70
+
+pulse76
+
+appears well
+
+obese adult
+
+cor:RRRs1s2
+
+lungs: clear
+
+abd: soft and nontender
+
+ext:  no edema
+
+knees:  thickened joints but no  erythema or effusion
+
+
+
+a/p:
+
+diabetes:  currently on 12 units of NPH.  previously on glucophage only.  will d/c insulin. have vna see her twice a week as before for finger sticks. restart glucophage at two per day for a few days and if tolerating resume previous dose of 2 tabs po bid. check hga1c.
+
+f/u wiht me next month in dr. Carrie's  absence
+
+
+
+depression:  appears to be doing well. cont with celexa and  ritalin
+
+
+
+pulm htn:  cont with  lasix.  
+
+
+
+cad:  stable with no angina or failure.
+
+  
+
+
+
+f/u one month with me  until dr. carrie's return
+
+
+
+
+
+_____________________________________________
+
+Trevor H. Vaughan, M.D.
+
+
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="during DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M0" start="1494" end="1501" text="Zestril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M1" start="1494" end="1501" text="Zestril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M2" start="1494" end="1502" text="Zestril " time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC1" time="during DCT" type1="aspirin" type2="">
+      <MEDICATION id="M3" start="985" end="988" text="Asa" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M4" start="985" end="988" text="Asa" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M5" start="985" end="988" text="Asa" time="during DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC2" time="after DCT" type1="metformin" type2="">
+      <MEDICATION id="M6" start="1124" end="1134" text="Glucophage" time="after DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M7" start="1124" end="1134" text="Glucophage" time="after DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M8" start="2029" end="2039" text="glucophage" time="after DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M9" start="2132" end="2142" text="glucophage" time="after DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M10" start="1124" end="1134" text="Glucophage" time="after DCT" type1="metformin" type2="" comment=""/>
+    </MEDICATION>
+    <OBESE id="DOC3" time="after DCT" indicator="mention">
+      <OBESE id="O0" start="1829" end="1840" text="obese adult" time="after DCT" indicator="mention" comment=""/>
+      <OBESE id="O1" start="1829" end="1840" text="obese adult" time="after DCT" indicator="mention" comment=""/>
+    </OBESE>
+    <MEDICATION id="DOC4" time="during DCT" type1="metformin" type2="">
+      <MEDICATION id="M11" start="1124" end="1134" text="Glucophage" time="during DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M12" start="1124" end="1134" text="Glucophage" time="during DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M13" start="2029" end="2039" text="glucophage" time="during DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M14" start="2132" end="2142" text="glucophage" time="during DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M15" start="1124" end="1134" text="Glucophage" time="during DCT" type1="metformin" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC5" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="421" end="433" text="Hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="421" end="433" text="Hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H2" start="421" end="433" text="Hypertension" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <MEDICATION id="DOC6" time="after DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M16" start="1494" end="1501" text="Zestril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M17" start="1494" end="1501" text="Zestril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M18" start="1494" end="1502" text="Zestril " time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <DIABETES id="DOC7" time="during DCT" indicator="mention">
+      <DIABETES id="D0" start="682" end="708" text="Diabetes mellitus : type 2" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D1" start="682" end="708" text="Diabetes mellitus : type 2" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D2" start="1973" end="1981" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D3" start="682" end="690" text="Diabetes" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <MEDICATION id="DOC8" time="after DCT" type1="aspirin" type2="">
+      <MEDICATION id="M19" start="985" end="988" text="Asa" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M20" start="985" end="988" text="Asa" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M21" start="985" end="988" text="Asa" time="after DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC9" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H3" start="421" end="433" text="Hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H4" start="421" end="433" text="Hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H5" start="421" end="433" text="Hypertension" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <MEDICATION id="DOC10" time="after DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M22" start="1644" end="1652" text="ATENOLOL" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M23" start="1644" end="1652" text="ATENOLOL" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M24" start="1644" end="1652" text="ATENOLOL" time="after DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <SMOKER id="DOC11" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" status="unknown"/>
+      <SMOKER id="S2" start="3" end="9" text="Record" status="unknown" comment=""/>
+    </SMOKER>
+    <DIABETES id="DOC12" time="before DCT" indicator="mention">
+      <DIABETES id="D4" start="682" end="708" text="Diabetes mellitus : type 2" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D5" start="682" end="708" text="Diabetes mellitus : type 2" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D6" start="1973" end="1981" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D7" start="682" end="690" text="Diabetes" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <MEDICATION id="DOC13" time="before DCT" type1="metformin" type2="">
+      <MEDICATION id="M25" start="1124" end="1134" text="Glucophage" time="before DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M26" start="1124" end="1134" text="Glucophage" time="before DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M27" start="2029" end="2039" text="glucophage" time="before DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M28" start="2132" end="2142" text="glucophage" time="before DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M29" start="1124" end="1134" text="Glucophage" time="before DCT" type1="metformin" type2="" comment=""/>
+    </MEDICATION>
+    <OBESE id="DOC14" time="before DCT" indicator="mention">
+      <OBESE id="O2" start="1829" end="1840" text="obese adult" time="before DCT" indicator="mention" comment=""/>
+      <OBESE id="O3" start="1829" end="1840" text="obese adult" time="before DCT" indicator="mention" comment=""/>
+    </OBESE>
+    <FAMILY_HIST id="DOC15" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <MEDICATION id="DOC16" time="before DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M30" start="1494" end="1501" text="Zestril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M31" start="1494" end="1501" text="Zestril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M32" start="1494" end="1502" text="Zestril " time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC17" time="before DCT" type1="aspirin" type2="">
+      <MEDICATION id="M33" start="985" end="988" text="Asa" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M34" start="985" end="988" text="Asa" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M35" start="985" end="988" text="Asa" time="before DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <CAD id="DOC18" time="before DCT" indicator="event">
+      <CAD id="C0" start="771" end="838" text="Myocardial infarction : NQWMI with inferolateral/apical depressions" time="before DCT" indicator="event" comment=""/>
+      <CAD id="C1" start="771" end="801" text="Myocardial infarction : NQWMI " time="before DCT" indicator="event" comment=""/>
+      <CAD id="C2" start="771" end="793" text="Myocardial infarction " time="before DCT" indicator="event" comment=""/>
+    </CAD>
+    <OBESE id="DOC19" time="during DCT" indicator="mention">
+      <OBESE id="O4" start="1829" end="1840" text="obese adult" time="during DCT" indicator="mention" comment=""/>
+      <OBESE id="O5" start="1829" end="1840" text="obese adult" time="during DCT" indicator="mention" comment=""/>
+      <OBESE id="O6" start="1829" end="1834" text="obese" time="during DCT" indicator="mention" comment=""/>
+    </OBESE>
+    <HYPERTENSION id="DOC20" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H6" start="421" end="433" text="Hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H7" start="421" end="433" text="Hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H8" start="421" end="433" text="Hypertension" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <MEDICATION id="DOC21" time="during DCT" type1="insulin" type2="">
+      <MEDICATION id="M36" start="1997" end="2013" text="12 units of NPH." time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M37" start="2009" end="2012" text="NPH" time="during DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC22" time="before DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M38" start="1644" end="1652" text="ATENOLOL" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M39" start="1644" end="1652" text="ATENOLOL" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M40" start="1644" end="1652" text="ATENOLOL" time="before DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC23" time="during DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M41" start="1644" end="1652" text="ATENOLOL" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M42" start="1644" end="1652" text="ATENOLOL" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M43" start="1644" end="1652" text="ATENOLOL" time="during DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <DIABETES id="DOC24" time="after DCT" indicator="mention">
+      <DIABETES id="D8" start="682" end="708" text="Diabetes mellitus : type 2" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D9" start="682" end="708" text="Diabetes mellitus : type 2" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D10" start="1973" end="1981" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D11" start="682" end="690" text="Diabetes" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <PHI id="P0" start="16" end="26" text="2071-02-19" TYPE="DATE"/>
+    <PHI id="P1" start="28" end="30" text="79" TYPE="AGE"/>
+    <PHI id="P2" start="50" end="53" text="RSH" TYPE="HOSPITAL"/>
+    <PHI id="P3" start="289" end="294" text="Maine" TYPE="STATE"/>
+    <PHI id="P4" start="676" end="680" text="2/68" TYPE="DATE"/>
+    <PHI id="P5" start="750" end="769" text="Buzan County Clinic" TYPE="HOSPITAL"/>
+    <PHI id="P6" start="839" end="846" text="5/31/69" TYPE="DATE"/>
+    <PHI id="P7" start="849" end="856" text="6/04/69" TYPE="DATE"/>
+    <PHI id="P8" start="860" end="879" text="Buzan County Clinic" TYPE="HOSPITAL"/>
+    <PHI id="P9" start="2274" end="2280" text="Carrie" TYPE="DOCTOR"/>
+    <PHI id="P10" start="2481" end="2487" text="carrie" TYPE="DOCTOR"/>
+    <PHI id="P11" start="2549" end="2566" text="Trevor H. Vaughan" TYPE="DOCTOR"/>
+  </TAGS>
+</root>

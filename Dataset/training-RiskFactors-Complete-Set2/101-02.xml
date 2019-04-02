@@ -1,0 +1,139 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2079-06-23
+
+
+
+
+MERCY CARE CENTER
+Mercy Internal Medicine Associates
+18 Newburgh Street
+Terrell, AR 72985
+
+Russell, Donna
+10418061
+06/23/79
+
+
+HISTORY OF PRESENT ILLNESS:  Ms. Russell is returning for follow 
+up.  She has had couple of further episodes of this peculiar 
+sensation in which her arm feels like it goes dead and then she 
+gets some pressure in her chest.  She gets a slight shortness of 
+breath.  It lasts 30 seconds.  She gets as many as three or four 
+a day.  The frequency has, however, decreased and she is feeling 
+better and better, as she begins to lose some weight.  I think 
+weight loss is going to be critical.  She also is less fatigued 
+as she begins to lose weight.
+
+Her hypertension has been under better control.  
+Hydrochlorothiazide seems to be helping quite a bit in addition 
+to the atenolol.
+
+PHYSICAL EXAMINATION:  Blood pressure is 146/86.  Weight has gone 
+from 200 to 196 pounds.  Respiratory rate is 20.  Pulse is 64.  
+Neck is supple.  There is no lymphadenopathy.  Chest is clear to 
+percussion and auscultation.  Cardiac exam is regularly regular 
+with no murmurs, gallops or rubs.  Abdomen is soft and nontender.  
+There is no hepatosplenomegaly.  Extremities are clear of 
+cyanosis, clubbing and edema.
+
+LABORATORY DATA:  Electrolytes are within normal limits.
+
+ASSESSMENT AND PLAN
+1.	Hypertension.  Relatively well controlled on 
+hydrochlorothiazide plus atenolol.
+2.	Weight.  Now began to lose some weight and feeling much 
+better as a result of it.
+3.	Peculiar chest pressure.  I do not think she has coronary 
+artery disease given the exercise test.  In light of this, 
+we will try to control her blood pressure and get her to 
+lose some weight.  Hopefully, this will help with the 
+resolution of her symptoms.
+
+
+
+_______________________________
+Quinn Rutledge, M.D.
+
+QR/RM5
+855930.do
+c
+DD:  
+06/27/2079
+DT:  
+06/28/2079
+DV:  
+06/23/2079
+
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="during DCT" type1="diuretic" type2="">
+      <MEDICATION id="M0" start="758" end="777" text="Hydrochlorothiazide" time="during DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M1" start="758" end="777" text="Hydrochlorothiazide" time="during DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M2" start="758" end="777" text="Hydrochlorothiazide" time="during DCT" type1="diuretic" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC1" time="before DCT" type1="diuretic" type2="">
+      <MEDICATION id="M3" start="758" end="777" text="Hydrochlorothiazide" time="before DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M4" start="758" end="777" text="Hydrochlorothiazide" time="before DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M5" start="758" end="777" text="Hydrochlorothiazide" time="before DCT" type1="diuretic" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC4" time="before DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M6" start="830" end="838" text="atenolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M7" start="830" end="838" text="atenolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M8" start="830" end="838" text="atenolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC6" time="after DCT" type1="diuretic" type2="">
+      <MEDICATION id="M9" start="758" end="777" text="Hydrochlorothiazide" time="after DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M10" start="758" end="777" text="Hydrochlorothiazide" time="after DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M11" start="758" end="777" text="Hydrochlorothiazide" time="after DCT" type1="diuretic" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC7" time="after DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M12" start="830" end="838" text="atenolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M13" start="830" end="838" text="atenolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M14" start="830" end="838" text="atenolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC9" time="during DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M15" start="830" end="838" text="atenolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M16" start="830" end="838" text="atenolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M17" start="830" end="838" text="atenolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC2" time="during DCT" indicator="high bp">
+      <HYPERTENSION id="H0" start="882" end="888" text="146/86" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H1" start="864" end="888" text="Blood pressure is 146/86" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H2" start="882" end="888" text="146/86" time="during DCT" indicator="high bp" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC3" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H3" start="712" end="724" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H4" start="712" end="724" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H5" start="712" end="724" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC5" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H6" start="712" end="724" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H7" start="712" end="724" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H8" start="712" end="724" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC10" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H9" start="712" end="724" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H10" start="712" end="724" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H11" start="712" end="724" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <FAMILY_HIST id="DOC11" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC8" status="unknown">
+      <SMOKER id="S0" start="3" end="9" text="Record" status="unknown" comment=""/>
+      <SMOKER id="S1" status="unknown"/>
+      <SMOKER id="S2" status="unknown"/>
+    </SMOKER>
+  </TAGS>
+</root>

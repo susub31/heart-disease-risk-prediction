@@ -1,0 +1,94 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2080-10-28
+
+
+
+Vital Signs
+
+BP 122/70, Temp 97.2 F, Wt 164 lb
+
+
+
+AGE 54y10.7m 
+
+
+
+54 year old female presents to follow-up recent hospitalization for coronary angiogram. denies chest pain, SOB, but is experiencing pain at the site of the catheter insertion for her angiogram and stent placement. the pain is so strong that she cannot stand and walk for longer than a few minutes. there is no discoloration at the site, but the pain is a burning pain - as if someone poured alcohol on the spot. pain travels down the right leg
+
+occasionally feels discomfort in both calves when walking for a long distance
+
+taking medications as directed but has not been able to get her insurance to pay for zetia.
+
+taking lisinopril - no cough. (had a cough with captopril in the past)
+
+VS as noted
+
+NAD
+
+carotids 2+ symmetrical
+
+chest clear to ausc. RR 12
+
+cardiac normal s1/s2 no m/s3/s4 HR 70 reg
+
+extremities no peripheral edema DP and PT full bilaterally
+
+sl tenderness at right femoral artery, scarred area corresponds to where the discomfort begins  no warmth, fluid collection, ecchymosis
+
+reviewed all data from recent hospitalization
+
+Assessment - cardiovascular status - stable
+
+r/o peripheral artery disease
+
+Plan influenza vaccine per RN
+
+samples dispensed of zetia for 6 weeks. will check fasting lipids and ALT. if effective, will contact her insurance for prior authorization
+
+non-invasive arterial studies of lower extremities
+
+continue regimen per medication list
+
+RV 12/05/80  
+
+letter for work
+
+
+
+J. Needham, MD      
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="during DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M0" start="721" end="731" text="lisinopril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M1" start="720" end="732" text=" lisinopril " time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M2" start="721" end="731" text="lisinopril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC1" time="before DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M3" start="721" end="731" text="lisinopril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M4" start="720" end="732" text=" lisinopril " time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M5" start="721" end="731" text="lisinopril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC2" time="after DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M6" start="721" end="731" text="lisinopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M7" start="720" end="732" text=" lisinopril " time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M8" start="721" end="731" text="lisinopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <FAMILY_HIST id="DOC3" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC4" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" start="3" end="10" text="Record " status="unknown" comment=""/>
+      <SMOKER id="S2" status="unknown"/>
+    </SMOKER>
+  </TAGS>
+</root>

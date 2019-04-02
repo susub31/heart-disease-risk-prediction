@@ -1,0 +1,207 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2075-07-03
+
+EDVISIT^44690336^Massey, Ramona^07/03/75^KEELER, ELIOT
+
+The patient was seen on 07/03/2075 with Dr. Ellington.  The patient
+
+was interviewed and examined by me.  Resident's note was reviewed
+
+and confirmed.  Plan of care was discussed.  Please see
+
+resident's note for details.
+
+HISTORY OF PRESENT ILLNESS:  Briefly, this is a 74-year-old woman
+
+with history of insulin-dependent diabetes and end-stage renal
+
+disease who presented to Emergency Department after an episode of
+
+confusion associated with a blood sugar in the field to 67 (per
+
+EMS) and responsive to orange juice with normal mental status
+
+upon arrival in the ED.  On further history, it seems that the
+
+patient took her usual dose of insulin this morning and ate
+
+breakfast but missed lunch and dinner because of a flood in the
+
+basement that had preoccupied her.  She has had prior episodes of
+
+hypoglycemia associated with skipping meals.  Otherwise, she has
+
+been feeling well.  No recent change in medications.
+
+PAST MEDICAL HISTORY:  Diabetes, hypertension, asthma, CVA/TIA,
+
+and end-stage renal disease (predialysis).
+
+MEDICATIONS:  Insulin, diltiazem, Nephrocaps, methyldopa,
+
+Flovent, and Pravachol.
+
+PHYSICAL EXAMINATION:  Awake, alert, sitting up in bed, and
+
+eating supper.  No acute distress.  Temperature 97.2, pulse is
+
+81, respirations 16, blood pressure 170/82, and pulse oximetry
+
+100% on room air.  Cardiovascular exam:  Regular rate and rhythm.
+
+ Lungs are clear.  Abdomen is soft and nontender.  Skin is warm
+
+and well perfused.  Neurologic:  Alert and oriented x3 and
+
+nonfocal.
+
+LABORATORY DATA:  EKG:  Without ischemia.  White count 9.4, blood
+
+glucose 93, creatinine 8.5, sodium 140, and potassium 4.9.
+
+CLINICAL IMPRESSION:  Hypoglycemia in setting of renal failure
+
+ ******** Not reviewed by Attending Physician ********
+
+PLAN:  To lower NPH dose from 30 to 25 units.  PCP, Dr. Mcgee
+
+was e-mailed.  The patient will follow up with him on Monday.
+
+______________________________
+
+KEELER, ELIOT M.D.
+
+D: 07/04/75
+
+T: 07/04/75
+
+Dictated By: KEELER, ELIOT
+
+eScription document:4-4697792 BFFocus
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="during DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M0" start="1142" end="1152" text="diltiazem," time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M1" start="1142" end="1151" text="diltiazem" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M2" start="1142" end="1151" text="diltiazem" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC1" time="before DCT" type1="statin" type2="">
+      <MEDICATION id="M3" start="1191" end="1201" text="Pravachol." time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M4" start="1191" end="1200" text="Pravachol" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M5" start="1190" end="1201" text=" Pravachol." time="before DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC2" time="during DCT" type1="statin" type2="">
+      <MEDICATION id="M6" start="1191" end="1201" text="Pravachol." time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M7" start="1191" end="1200" text="Pravachol" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M8" start="1190" end="1201" text=" Pravachol." time="during DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC3" time="after DCT" type1="insulin" type2="">
+      <MEDICATION id="M9" start="728" end="735" text="insulin" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M10" start="1133" end="1140" text="Insulin" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M11" start="1858" end="1861" text="NPH" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M12" start="1133" end="1140" text="Insulin" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M13" start="727" end="735" text=" insulin" time="after DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC4" time="after DCT" type1="statin" type2="">
+      <MEDICATION id="M14" start="1191" end="1201" text="Pravachol." time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M15" start="1191" end="1200" text="Pravachol" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M16" start="1190" end="1201" text=" Pravachol." time="after DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC5" time="during DCT" indicator="high bp">
+      <HYPERTENSION id="H0" start="1364" end="1370" text="170/82" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H1" start="1349" end="1370" text="blood pressure 170/82" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H2" start="1364" end="1370" text="170/82" time="during DCT" indicator="high bp" comment=""/>
+    </HYPERTENSION>
+    <MEDICATION id="DOC6" time="before DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M17" start="1142" end="1152" text="diltiazem," time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M18" start="1142" end="1151" text="diltiazem" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M19" start="1142" end="1151" text="diltiazem" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC7" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H3" start="1043" end="1055" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H4" start="1043" end="1055" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H5" start="1043" end="1055" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <DIABETES id="DOC8" time="before DCT" indicator="mention">
+      <DIABETES id="D0" start="389" end="416" text=" insulin-dependent diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D1" start="1033" end="1041" text="Diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D2" start="390" end="416" text="insulin-dependent diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D3" start="408" end="416" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <MEDICATION id="DOC9" time="after DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M20" start="1142" end="1152" text="diltiazem," time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M21" start="1142" end="1151" text="diltiazem" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M22" start="1142" end="1151" text="diltiazem" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <DIABETES id="DOC10" time="after DCT" indicator="mention">
+      <DIABETES id="D4" start="389" end="416" text=" insulin-dependent diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D5" start="1033" end="1041" text="Diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D6" start="390" end="416" text="insulin-dependent diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D7" start="408" end="416" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC11" time="during DCT" indicator="mention">
+      <DIABETES id="D8" start="389" end="416" text=" insulin-dependent diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D9" start="1033" end="1041" text="Diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D10" start="390" end="416" text="insulin-dependent diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D11" start="408" end="416" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <HYPERTENSION id="DOC12" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H6" start="1043" end="1055" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H7" start="1043" end="1055" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H8" start="1043" end="1055" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <MEDICATION id="DOC13" time="during DCT" type1="insulin" type2="">
+      <MEDICATION id="M23" start="728" end="735" text="insulin" time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M24" start="1133" end="1140" text="Insulin" time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M25" start="1858" end="1861" text="NPH" time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M26" start="1133" end="1140" text="Insulin" time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M27" start="727" end="735" text=" insulin" time="during DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <FAMILY_HIST id="DOC14" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC15" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" status="unknown"/>
+      <SMOKER id="S2" start="88" end="96" text="patient " status="unknown" comment=""/>
+    </SMOKER>
+    <HYPERTENSION id="DOC16" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H9" start="1043" end="1055" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H10" start="1043" end="1055" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H11" start="1043" end="1055" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <MEDICATION id="DOC17" time="before DCT" type1="insulin" type2="">
+      <MEDICATION id="M28" start="728" end="735" text="insulin" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M29" start="1133" end="1140" text="Insulin" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M30" start="1858" end="1861" text="NPH" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M31" start="1133" end="1140" text="Insulin" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M32" start="727" end="735" text=" insulin" time="before DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <PHI id="P0" start="16" end="26" text="2075-07-03" TYPE="DATE"/>
+    <PHI id="P1" start="36" end="44" text="44690336" TYPE="MEDICALRECORD"/>
+    <PHI id="P2" start="45" end="59" text="Massey, Ramona" TYPE="PATIENT"/>
+    <PHI id="P3" start="60" end="68" text="07/03/75" TYPE="DATE"/>
+    <PHI id="P4" start="69" end="82" text="KEELER, ELIOT" TYPE="DOCTOR"/>
+    <PHI id="P5" start="108" end="118" text="07/03/2075" TYPE="DATE"/>
+    <PHI id="P6" start="128" end="137" text="Ellington" TYPE="DOCTOR"/>
+    <PHI id="P7" start="355" end="357" text="74" TYPE="AGE"/>
+    <PHI id="P8" start="1898" end="1903" text="Mcgee" TYPE="DOCTOR"/>
+    <PHI id="P9" start="1959" end="1965" text="Monday" TYPE="DATE"/>
+    <PHI id="P10" start="2000" end="2013" text="KEELER, ELIOT" TYPE="DOCTOR"/>
+    <PHI id="P11" start="2023" end="2031" text="07/04/75" TYPE="DATE"/>
+    <PHI id="P12" start="2036" end="2044" text="07/04/75" TYPE="DATE"/>
+    <PHI id="P13" start="2059" end="2072" text="KEELER, ELIOT" TYPE="DOCTOR"/>
+    <PHI id="P14" start="2094" end="2103" text="4-4697792" TYPE="IDNUM"/>
+  </TAGS>
+</root>

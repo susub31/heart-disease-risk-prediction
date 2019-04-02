@@ -1,0 +1,192 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2098-01-26
+
+
+
+Reason for Visit
+
+Date/Time of Visit:
+
+ Mr. Ogrady was transferred to GSH on 1/26 from Muncy Valley Hospital, where he had presented with shortness of breath and chest pain.  Wife reports that nodules were noted on CT in lung and liver.
+
+ 
+
+Source/Reason for Referral:
+
+High risk screening evaluation for patient with hx of esophageal cancer.
+
+ 
+
+
+
+
+
+Social History
+
+Living/family situation and support system:
+
+ Hx was provided by wife.   Patient felt too sleepy to participate.    Mr. Ogrady is a 69 yo M, married 41 years.   He lives with his wife Eunice in their ranch style home in Big Lake.   Eunice is 67 and continues to work full time.  The couple has two daughters:   one very close by; the other in Vermont.
+
+ 
+
+Work/educational status:
+
+Patient retired from tilesetting after back injury approximately 15 years ago.
+
+ 
+
+Financial/insurance issues:
+
+Medicare.
+
+ 
+
+ 
+
+Brief history of current health status/co-morbidities:
+
+ DM, HTN, esophageal cancer; choly, heart disease/angina.
+
+ 
+
+Mental health history:
+
+ No mental health history.
+
+ 
+
+Alcohol/tobacco/substance history:
+
+ Quit smoking cigarettes 14 years ago.   Does not drink ETOH or use any other recreational drugs.
+
+ 
+
+Abuse/DV history:
+
+ No hx of abuse.
+
+ 
+
+Advanced Directives/HC Proxy:
+
+ Patient's wife Urbach is his HCP.
+
+ 
+
+Other risks and concerns:
+
+ 
+
+Additional Info: 
+
+
+
+
+
+Assessment
+
+Narrative: 
+
+ Mr. Ogrady presents as very sleepy, not participating in interview.   Wife reports that he has been managing fairly well at home, with sedentary lifestyle.  On good days, he visits friends or grandsons nearby.   Wife, his primary caretaker, administers the lovenox.   Wife is not alarmed by CT findings, stating that there have been nodules present for quite some time and that they are closely monitored.  Her understanding is that Mr. Ogrady is being admitted for further evaluation of chest pain.
+
+ 
+
+Patient Interventions/Education:
+
+SW met with patient and wife for evaluation and support.
+
+
+
+
+
+Plan
+
+Mr. Ogrady will be admitted to Internal Medicine. Discharge needs to be reassessed when stable.
+
+ 
+
+____________________________
+
+Yvette S. Anaya, LICSW
+
+#57913
+
+
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <CAD id="DOC0" time="before DCT" indicator="symptom">
+      <CAD id="C0" start="1014" end="1020" text="angina" time="before DCT" indicator="symptom" comment=""/>
+      <CAD id="C1" start="1896" end="1907" text="chest pain." time="before DCT" indicator="symptom" comment=""/>
+    </CAD>
+    <DIABETES id="DOC1" time="before DCT" indicator="mention">
+      <DIABETES id="D0" start="964" end="967" text=" DM" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D1" start="965" end="967" text="DM" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D2" start="965" end="967" text="DM" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <HYPERTENSION id="DOC2" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="969" end="972" text="HTN" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="969" end="972" text="HTN" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H2" start="969" end="972" text="HTN" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <SMOKER id="DOC3" status="past">
+      <SMOKER id="S0" start="1117" end="1130" text=" Quit smoking" status="past" comment=""/>
+      <SMOKER id="S1" start="1117" end="1154" text=" Quit smoking cigarettes 14 years ago" status="past" comment=""/>
+      <SMOKER id="S2" start="1118" end="1154" text="Quit smoking cigarettes 14 years ago" status="past" comment=""/>
+    </SMOKER>
+    <HYPERTENSION id="DOC4" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H3" start="969" end="972" text="HTN" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H4" start="969" end="972" text="HTN" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H5" start="969" end="972" text="HTN" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <DIABETES id="DOC5" time="during DCT" indicator="mention">
+      <DIABETES id="D3" start="964" end="967" text=" DM" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D4" start="965" end="967" text="DM" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D5" start="965" end="967" text="DM" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <HYPERTENSION id="DOC6" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H6" start="969" end="972" text="HTN" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H7" start="969" end="972" text="HTN" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H8" start="969" end="972" text="HTN" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <FAMILY_HIST id="DOC7" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <DIABETES id="DOC8" time="after DCT" indicator="mention">
+      <DIABETES id="D6" start="964" end="967" text=" DM" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D7" start="965" end="967" text="DM" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D8" start="965" end="967" text="DM" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <PHI id="P0" start="16" end="26" text="2098-01-26" TYPE="DATE"/>
+    <PHI id="P1" start="74" end="80" text="Ogrady" TYPE="PATIENT"/>
+    <PHI id="P2" start="100" end="103" text="GSH" TYPE="HOSPITAL"/>
+    <PHI id="P3" start="107" end="111" text="1/26" TYPE="DATE"/>
+    <PHI id="P4" start="117" end="138" text="Muncy Valley Hospital" TYPE="HOSPITAL"/>
+    <PHI id="P5" start="517" end="523" text="Ogrady" TYPE="PATIENT"/>
+    <PHI id="P6" start="529" end="531" text="69" TYPE="AGE"/>
+    <PHI id="P7" start="581" end="587" text="Eunice" TYPE="PATIENT"/>
+    <PHI id="P8" start="617" end="625" text="Big Lake" TYPE="CITY"/>
+    <PHI id="P9" start="629" end="635" text="Eunice" TYPE="PATIENT"/>
+    <PHI id="P10" start="639" end="641" text="67" TYPE="AGE"/>
+    <PHI id="P11" start="740" end="747" text="Vermont" TYPE="STATE"/>
+    <PHI id="P12" start="800" end="811" text="tilesetting" TYPE="PROFESSION"/>
+    <PHI id="P13" start="891" end="899" text="Medicare" TYPE="ORGANIZATION"/>
+    <PHI id="P14" start="1306" end="1312" text="Urbach" TYPE="PATIENT"/>
+    <PHI id="P15" start="1412" end="1418" text="Ogrady" TYPE="PATIENT"/>
+    <PHI id="P16" start="1845" end="1851" text="Ogrady" TYPE="PATIENT"/>
+    <PHI id="P17" start="2018" end="2024" text="Ogrady" TYPE="PATIENT"/>
+    <PHI id="P18" start="2045" end="2062" text="Internal Medicine" TYPE="DEPARTMENT"/>
+    <PHI id="P19" start="2144" end="2159" text="Yvette S. Anaya" TYPE="DOCTOR"/>
+    <PHI id="P20" start="2169" end="2174" text="57913" TYPE="PHONE"/>
+  </TAGS>
+</root>

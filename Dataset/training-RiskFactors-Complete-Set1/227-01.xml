@@ -1,0 +1,218 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2161-08-09
+
+Patient Name: LE, WILLIAM;  MRN: 0540099
+Dictated on: 08/09/2161 by WILSON RUCKER, M.D. 
+
+ 
+CHIEF COMPLAINT:  The patient presents for evaluation of chronic neck and left arm pain.  
+ 
+HPI:  This is a 71-year-old right-handed gentleman with past medical history significant for insulin-dependent diabetes, coronary artery disease, status post bypass surgery, hypertension, and bladder cancer, who presents with worsening neck and left arm pain, which is now interfering with his daily life.  The patient has had a chronic arthritic pain throughout his body, which he has been complaining of for approximately 10 years involving his 
+neck, shoulder, arms, knees, and back.  More recently in the past months to couple of years, his neck, left arm, and shoulder pain have been his predominant pain symptoms.  It has been a gradual onset.  He has had similar problems in the past.  He reports that his pain is intermittent and occurs daily.  He states the pain is burning, cramping, pins and needle, sharp, numb, shooting pain, dull achy, electric- like, throbbing, and pressure-like.  The pain involves numbness to his hands and fingers on his left arm.  His pain ranges from 10/10 at worst to 0/10 at best.  It is worse in almost all active positions including lying down, standing, sitting, walking, and driving.  Medications do not seem to help.  Relaxation and rest decreases the pain.  It is also worsened by lifting or bending his neck.  He tried physical therapy approximately 10 days ago at Manamana with minimal to no relief.  The patient has had injections to his cervical spine in the past, he has had shoulder injections, which helped in the past.  He had MRI performed of his 
+cervical spine on March 21, 2161, which documented moderate- to-severe degenerative changes throughout his cervical spine with significant right neuroforaminal narrowing at multiple levels.  There is narrowing of the left neural foramen at 
+C5-6.  
+ 
+PAST MEDICATIONS:  The patient is not clear what pain medicines he has taken in the past.  
+ 
+Current medications include Nexium, Colace, atenolol, aspirin, Neurontin 200 mg two times a day, insulin, Pravachol, glucosamine chondroitin, vitamin E, Lasix, and potassium chloride.  
+ 
+He has allergies to penicillin, Vioxx, and Lipitor.   
+Past medical history is significant for high blood pressure, heart disease, insulin-dependent diabetes, 
+hypercholesterolemia, congestive heart failure, and bladder cancer.  
+ 
+SURGICAL HISTORY:  He denies any spine surgery.  He has had two prior arthroscopic knee surgeries.  He had twice left shoulder surgery; he is not clear what this was.  He has had a TURP.  
+ 
+PSYCHOSOCIAL HISTORY:  He has high school eduction.  He is not currently engaged in regular exercise program.  His pain does limit his daily activities, especially bending over and also affects his recreational activities including regular yard work and lifting.  He also has lifting restrictions from orthopedic physician as well as yard work restrictions from his cardiac physician.  He is a retired wholesale specialist.  He worked for over 30 years in sales 
+business.  He is not currently working.  He is married and lives in Dickinson, Maryland.  He denies any history of alcoholism, detox program or current tobacco use.  He denies any history of psychologic evaluation or treatments including _____ and no history of abuse.   
+He has family history heart disease and diabetes.  
+ 
+Review of systems is negative for any unexplained weight loss, fevers, chills, recent infections, bleeding, positive bowel or bladder incontinence, numbness in the genital area.  He does report some numbness and tingling in his arms as well as legs as reported above and some generalized weakness of his muscles, particularly with his left upper extremity muscles throughout.  He denies any problems with sleep.   
+PHYSICAL EXAMINATION:  In general, he is a well-appearing gentleman appearing his stated age, slight obese, well nourished, well groomed.  Psychiatric:  Normal attention and concentration, normal mood and affect.  Eyes:  Conjunctivae anicteric, no ptosis.  Skin:  No rashes or lesions.  Heart: Regular rate and rhythm.  Lungs:  No intercostal retractions 
+or accessory muscle use.  Musculoskeletal:  Spine 
+inspection, no significant kyphoscoliosis.  Cervical range of motion is limited throughout.  Flexion 20 degrees, extension 10 degrees, rotation is 20 degrees, right and left.  The patient is unable to side bend significantly. Reflexes are 2+, bilateral biceps, triceps, brachioradialis. Manual muscle testing is 5/5, bilateral upper extremities 
+with the exception of wrist extension, shoulder abduction, and shoulder flexion and extension, and internal, external rotation.  Muscle tone is normal with the exception of asymmetry in the left hand interossei.  Sensory testing is impaired to pinprick, throughout bilateral upper extremities to the elbows.  Intact grossly to light touch per the patient's report.  Gait is steady with a cane.  The patient has signs of limited range of motion in the left shoulder, status post multiple surgeries and limited range of motion in all directions.  He has some palpation tenderness of the cervical spine, in C5-6 and C4-5 paravertebral areas on the left.   
+Medical decision making involved review of the patient's radiology reports and radiology films.  
+ 
+IMPRESSION:  The patient has a significant degenerative disease of his cervical spine.  In addition, he has multiple levels of neural foraminal narrowing and herniation in the cervical spine.  In addition to this, he has symptoms consistent with diabetic peripheral neuropathy with also prior traumatic injury to his shoulder with possible brachial plexopathy.  
+ 
+RECOMMENDATIONS:  
+1.  Given the multiple etiologies possible for his symptoms in his left arm, which are his predominant symptoms:  Brachial plexopathy versus peripheral neuropathy versus cervical radiculopathy, we have referred the patient for an EMG to delineate the cause of his symptoms.  
+2.  He will return to clinic after his EMG and from that point, we will decide the course of action for pain management.  At this time, he will continue on the Neurontin 200 mg two times a day.  We will review his medications on next visit.  We provided the patient also with education in regards to his problems and the treatment options.   
+______________________________ 
+Tyler Quinonez, M.D.  
+ 
+DD:08/09/2161 
+DT:08/10/2161 
+YG:272499    :3240 
+ 
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="after DCT" type1="statin" type2="">
+      <MEDICATION id="M0" start="2166" end="2175" text="Pravachol" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M1" start="2166" end="2175" text="Pravachol" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M2" start="2166" end="2175" text="Pravachol" time="after DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC1" time="during DCT" type1="aspirin" type2="">
+      <MEDICATION id="M3" start="2114" end="2121" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M4" start="2114" end="2122" text="aspirin," time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M5" start="2114" end="2121" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC2" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="387" end="399" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="387" end="399" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H2" start="2343" end="2362" text="high blood pressure" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H3" start="387" end="399" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <DIABETES id="DOC3" time="before DCT" indicator="mention">
+      <DIABETES id="D0" start="306" end="332" text="insulin-dependent diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D1" start="306" end="332" text="insulin-dependent diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D2" start="2379" end="2407" text="insulin-dependent diabetes, " time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D3" start="324" end="332" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <HYPERLIPIDEMIA id="DOC4" time="before DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY0" start="2408" end="2428" text="hypercholesterolemia" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY1" start="2408" end="2429" text="hypercholesterolemia," time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY2" start="2408" end="2428" text="hypercholesterolemia" time="before DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <DIABETES id="DOC5" time="during DCT" indicator="mention">
+      <DIABETES id="D4" start="306" end="332" text="insulin-dependent diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D5" start="306" end="332" text="insulin-dependent diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D6" start="2379" end="2407" text="insulin-dependent diabetes, " time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D7" start="324" end="332" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <MEDICATION id="DOC6" time="after DCT" type1="aspirin" type2="">
+      <MEDICATION id="M6" start="2114" end="2121" text="aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M7" start="2114" end="2122" text="aspirin," time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M8" start="2114" end="2121" text="aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERLIPIDEMIA id="DOC7" time="during DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY3" start="2408" end="2428" text="hypercholesterolemia" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY4" start="2408" end="2429" text="hypercholesterolemia," time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY5" start="2408" end="2428" text="hypercholesterolemia" time="during DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <MEDICATION id="DOC8" time="after DCT" type1="insulin" type2="">
+      <MEDICATION id="M9" start="2157" end="2164" text="insulin" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M10" start="2157" end="2164" text="insulin" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M11" start="2157" end="2164" text="insulin" time="after DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC9" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H4" start="387" end="399" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H5" start="387" end="399" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H6" start="2343" end="2362" text="high blood pressure" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H7" start="387" end="399" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <MEDICATION id="DOC10" time="after DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M12" start="2104" end="2112" text="atenolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M13" start="2104" end="2113" text="atenolol," time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M14" start="2104" end="2112" text="atenolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <CAD id="DOC11" time="after DCT" indicator="mention">
+      <CAD id="C0" start="334" end="358" text="coronary artery disease," time="after DCT" indicator="mention" comment=""/>
+      <CAD id="C1" start="334" end="357" text="coronary artery disease" time="after DCT" indicator="mention" comment=""/>
+      <CAD id="C2" start="2364" end="2377" text="heart disease" time="after DCT" indicator="mention" comment=""/>
+      <CAD id="C3" start="334" end="357" text="coronary artery disease" time="after DCT" indicator="mention" comment=""/>
+    </CAD>
+    <MEDICATION id="DOC12" time="before DCT" type1="statin" type2="">
+      <MEDICATION id="M15" start="2166" end="2175" text="Pravachol" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M16" start="2166" end="2175" text="Pravachol" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M17" start="2166" end="2175" text="Pravachol" time="before DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC13" time="during DCT" type1="statin" type2="">
+      <MEDICATION id="M18" start="2166" end="2175" text="Pravachol" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M19" start="2166" end="2175" text="Pravachol" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M20" start="2166" end="2175" text="Pravachol" time="during DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <FAMILY_HIST id="DOC14" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <HYPERLIPIDEMIA id="DOC15" time="after DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY6" start="2408" end="2428" text="hypercholesterolemia" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY7" start="2408" end="2429" text="hypercholesterolemia," time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY8" start="2408" end="2428" text="hypercholesterolemia" time="after DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <CAD id="DOC16" time="during DCT" indicator="mention">
+      <CAD id="C4" start="334" end="358" text="coronary artery disease," time="during DCT" indicator="mention" comment=""/>
+      <CAD id="C5" start="334" end="357" text="coronary artery disease" time="during DCT" indicator="mention" comment=""/>
+      <CAD id="C6" start="2364" end="2377" text="heart disease" time="during DCT" indicator="mention" comment=""/>
+      <CAD id="C7" start="334" end="357" text="coronary artery disease" time="during DCT" indicator="mention" comment=""/>
+    </CAD>
+    <MEDICATION id="DOC17" time="before DCT" type1="aspirin" type2="">
+      <MEDICATION id="M21" start="2114" end="2121" text="aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M22" start="2114" end="2122" text="aspirin," time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M23" start="2114" end="2121" text="aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <SMOKER id="DOC18" status="never">
+      <SMOKER id="S0" start="3274" end="3297" text=" or current tobacco use" status="never" comment=""/>
+      <SMOKER id="S1" start="3227" end="3297" text="denies any history of alcoholism, detox program or current tobacco use" status="never" comment=""/>
+      <SMOKER id="S2" start="3275" end="3297" text="or current tobacco use" status="never" comment=""/>
+    </SMOKER>
+    <DIABETES id="DOC19" time="after DCT" indicator="mention">
+      <DIABETES id="D8" start="306" end="332" text="insulin-dependent diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D9" start="306" end="332" text="insulin-dependent diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D10" start="2379" end="2407" text="insulin-dependent diabetes, " time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D11" start="324" end="332" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <MEDICATION id="DOC20" time="before DCT" type1="insulin" type2="">
+      <MEDICATION id="M24" start="2157" end="2164" text="insulin" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M25" start="2157" end="2164" text="insulin" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M26" start="2157" end="2164" text="insulin" time="before DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <CAD id="DOC21" time="before DCT" indicator="event">
+      <CAD id="C8" start="359" end="386" text="status post bypass surgery," time="before DCT" indicator="event" comment=""/>
+      <CAD id="C9" start="371" end="385" text="bypass surgery" time="before DCT" indicator="event" comment=""/>
+    </CAD>
+    <HYPERTENSION id="DOC22" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H8" start="387" end="399" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H9" start="387" end="399" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H10" start="2343" end="2362" text="high blood pressure" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H11" start="387" end="399" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <MEDICATION id="DOC23" time="during DCT" type1="insulin" type2="">
+      <MEDICATION id="M27" start="2157" end="2164" text="insulin" time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M28" start="2157" end="2164" text="insulin" time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M29" start="2157" end="2164" text="insulin" time="during DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC24" time="before DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M30" start="2104" end="2112" text="atenolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M31" start="2104" end="2113" text="atenolol," time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M32" start="2104" end="2112" text="atenolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC25" time="during DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M33" start="2104" end="2112" text="atenolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M34" start="2104" end="2113" text="atenolol," time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M35" start="2104" end="2112" text="atenolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <CAD id="DOC26" time="before DCT" indicator="mention">
+      <CAD id="C10" start="334" end="358" text="coronary artery disease," time="before DCT" indicator="mention" comment=""/>
+      <CAD id="C11" start="334" end="357" text="coronary artery disease" time="before DCT" indicator="mention" comment=""/>
+      <CAD id="C12" start="2364" end="2377" text="heart disease" time="before DCT" indicator="mention" comment=""/>
+      <CAD id="C13" start="334" end="357" text="coronary artery disease" time="before DCT" indicator="mention" comment=""/>
+    </CAD>
+    <PHI id="P0" start="16" end="26" text="2161-08-09" TYPE="DATE"/>
+    <PHI id="P1" start="42" end="53" text="LE, WILLIAM" TYPE="PATIENT"/>
+    <PHI id="P2" start="61" end="68" text="0540099" TYPE="MEDICALRECORD"/>
+    <PHI id="P3" start="82" end="92" text="08/09/2161" TYPE="DATE"/>
+    <PHI id="P4" start="96" end="109" text="WILSON RUCKER" TYPE="DOCTOR"/>
+    <PHI id="P5" start="229" end="231" text="71" TYPE="AGE"/>
+    <PHI id="P6" start="1524" end="1532" text="Manamana" TYPE="HOSPITAL"/>
+    <PHI id="P7" start="1733" end="1747" text="March 21, 2161" TYPE="DATE"/>
+    <PHI id="P8" start="3073" end="3093" text="wholesale specialist" TYPE="PROFESSION"/>
+    <PHI id="P9" start="3127" end="3132" text="sales" TYPE="PROFESSION"/>
+    <PHI id="P10" start="3202" end="3211" text="Dickinson" TYPE="CITY"/>
+    <PHI id="P11" start="3213" end="3221" text="Maryland" TYPE="STATE"/>
+    <PHI id="P12" start="6417" end="6431" text="Tyler Quinonez" TYPE="DOCTOR"/>
+    <PHI id="P13" start="6445" end="6455" text="08/09/2161" TYPE="DATE"/>
+    <PHI id="P14" start="6460" end="6470" text="08/10/2161" TYPE="DATE"/>
+    <PHI id="P15" start="6472" end="6490" text="YG:272499    :3240" TYPE="IDNUM"/>
+  </TAGS>
+</root>

@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2076-02-07
+
+                     BOWNE EMERGENCY DEPT VISIT
+
+ 
+
+GODWIN,YAIR   914-64-15-0                    VISIT DATE: 02/07/76
+
+This patient was evaluated and treated in conjunction with a 
+
+resident.  I confirm the history and physical findings as 
+
+documented on the handwritten record. 
+
+HISTORY OF PRESENTING COMPLAINT:  Briefly, this is a 70-year-old 
+
+patient with a history of mild weakness and easy fatigability who 
+
+was thought to be anemic with a hematocrit of 25 on evaluation at 
+
+an outside facility.  He was referred here for further evaluation. 
+
+PHYSICAL EXAMINATION:  GENERAL APPEARANCE:  The patient is awake, 
+
+alert, and in no acute distress.  VITAL SIGNS:  Normal, with the 
+
+exception of a low grade temperature of 99.7.  HEENT:  Benign.  
+
+LUNGS:  The breath sounds are clear.  ABDOMEN:  Soft, nontender. 
+
+LABORATORY EVALUATION:  Hematocrit is determined to be 42.  EKG is 
+
+normal.  Chest x-ray shows no evident abnormality.
+
+CONSULTATIONS (including PCP):  The patient is seen in the 
+
+emergency department by the LMC physician as well.
+
+FINAL DIAGNOSIS:  Mild progressive unexplained fatigue.
+
+DISPOSITION (including condition upon discharge):  The patient is 
+
+ultimately discharged with followup for further investigation as an 
+
+outpatient.  Condition upon discharge is stable. 
+
+___________________________________                    JZ339/6381 
+
+HECTOR V. OBRYAN, M.D.   HO78                            D:02/07/76 
+
+                                                       T:02/07/76 
+
+Dictated by:  HECTOR V. OBRYAN, M.D.   HO78 
+
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <FAMILY_HIST id="DOC0" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC1" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" status="unknown"/>
+      <SMOKER id="S2" start="3" end="9" text="Record" status="unknown" comment=""/>
+    </SMOKER>
+  </TAGS>
+</root>

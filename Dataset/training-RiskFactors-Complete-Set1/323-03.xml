@@ -1,0 +1,204 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2065-04-22
+
+April 22, 2065
+
+
+Xian, Brooklyn 
+602-44-98-6
+
+
+She was last in the clinic on October 24, 2063.  She comes in today with her husband and daughter.  (Her daughter is her legal healthcare proxy.)  They come in to follow up on a recent hospitalization at Mid Coast Hospital.  In January, she was noted by her family to be agitated and confused.  She was missing her medication or taking too much medication at times, including her insulin.  She also became paranoid when efforts were made to intervene to assist her.  Her family notes that this seemed to begin after her gabapentin dose was increased to 600 mg bid.  She was also taking some other drugs at the time that affect the central nervous system, including trazodone, benzodiazepines, and narcotics for back pain.  She was admitted to the geriatric psychiatry unit at Mid Coast in January 2065.  She stayed there for almost a week.  According to the family, some medications were discontinued and donepazil was started.  Also, they think she had a brain MRI.  She improved and was ultimately discharged.  She has done much better since discharge.  She went with family to Michigan.  They report that there she was much better, playing water volleyball last week.  Her husband is now supervising her medications.  He still notices some memory loss, but this has improved since her discharge.  She has had frequent headaches.  She has noted no urinary incontinence and no worsening of her gait.
+
+
+According to available notes, drugs stopped during her hospitalization include gabapentin, trazodone, metformin, HCTZ, Hunulin, and Lispro.  She is back no the metformin and HCTZ.
+
+
+Her current medications are: aspirin 81 mg daily, Celebrex, donepazil 5 mg daily, HCTZ, linsinopril, labetalol, Crestor, insulin, pramipexole 0.125 mg qhs, Protonix, Roxicet, L-thyroxine, temazepam qhs, and metformin.  She is allergic to erythromycin.
+
+
+On examination today pulse is 60 and regular.  BP is 104/60.  She is alert and oriented to time, except the precise date.  She is aware that yesterday was Tuesday.  She is oriented to place.  Her mental and motor responses are slightly slow.  She displays an appropriate sense of humor.  She attends well.  She recites the months of the year promptly forwards and backwards. She registers 4 of 4 words.  She recalls 3/4 at one minutes and the 4th with a semantic clue with a slight error "14 Massachusetts Drive" rather than 24 Massachusetts Drive.  At 5 minutes, she recalls all 4 with only the error, "14 Massachusetts Drive" but with no need for a clue.  At 10 minutes, she recalls 2/4 without any clue, the 3rd with a semantic hint, and the 4th with a semantic hint again as "14 Massachusetts Drive."  She readily adds a simple sum in her head.  She follows multiple step commands.  She copies interlocking pentagons and a 3D cube well with only slight 3D perspective distortion.  She constructs a clock well with good planning and no neglect.  
+
+
+Visual fields are full.  Pupils are 2.5 mm and reactive.  Fundi are not well visualized.  There rest of the cranial nerves are intact.  Muscle bulk, tone, and power are normal.  There are not extrapyramidal features, and there is no paratonia.  Reflexes are damp in the arms and absent at the ankles (UE 1/4, knees 2/4, ankles 0/4) and symmetric.  Plantar responses are flexor.  Romberg is negative.  She walks without hesitation in gait initiation.  Her stride is reasonably good,  Her base is only slightly widened.  She tandem walks with moderate unsteadiness.  
+
+
+The examination has not changed much from her visit in October 2063.  She has some problems with memory by examination, but this seems to have improved greatly since her hospitalization.  Her confusion and reported paranoia seem to have gone away. Except or mild psychomotor slowing, she does not have features to suggest NPH as the cause, such as urinary incontinence or magnetic gait.  I suspect that her recent deterioration was due to adverse reaction to psychoactive medication that has now been discontinued of limited.
+
+
+We will make no change in medication today.  We will request the recent MRI from Mid Coast.  She will return in several weeks after we have gotten the MRI.
+
+
+
+
+
+
+
+
+Uriah Yousif, M.D.
+
+
+cc: Roger York, M.D.
+      454 Prospect Street
+      Sleepy Eye, NC 77659
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="during DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M0" start="1748" end="1759" text="linsinopril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M1" start="1748" end="1759" text="linsinopril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M2" start="1748" end="1759" text="linsinopril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC1" time="after DCT" type1="statin" type2="">
+      <MEDICATION id="M3" start="1772" end="1779" text="Crestor" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M4" start="1772" end="1779" text="Crestor" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M5" start="1772" end="1779" text="Crestor" time="after DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC2" time="during DCT" type1="aspirin" type2="">
+      <MEDICATION id="M6" start="1689" end="1696" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M7" start="1689" end="1696" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M8" start="1689" end="1696" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC3" time="after DCT" type1="metformin" type2="">
+      <MEDICATION id="M9" start="1867" end="1876" text="metformin" time="after DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M10" start="1638" end="1647" text="metformin" time="after DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M11" start="1867" end="1876" text="metformin" time="after DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M12" start="1867" end="1876" text="metformin" time="after DCT" type1="metformin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC4" time="during DCT" type1="metformin" type2="">
+      <MEDICATION id="M13" start="1867" end="1876" text="metformin" time="during DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M14" start="1638" end="1647" text="metformin" time="during DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M15" start="1867" end="1876" text="metformin" time="during DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M16" start="1867" end="1876" text="metformin" time="during DCT" type1="metformin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC5" time="before DCT" type1="aspirin" type2="">
+      <MEDICATION id="M17" start="1689" end="1696" text="aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M18" start="1689" end="1696" text="aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M19" start="1689" end="1696" text="aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC6" time="after DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M20" start="1748" end="1759" text="linsinopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M21" start="1748" end="1759" text="linsinopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M22" start="1748" end="1759" text="linsinopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC7" time="before DCT" type1="diuretic" type2="">
+      <MEDICATION id="M23" start="1742" end="1746" text="HCTZ" time="before DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M24" start="1591" end="1595" text="HCTZ" time="before DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M25" start="1652" end="1656" text="HCTZ" time="before DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M26" start="1742" end="1746" text="HCTZ" time="before DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M27" start="1741" end="1746" text=" HCTZ" time="before DCT" type1="diuretic" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC8" time="after DCT" type1="insulin" type2="">
+      <MEDICATION id="M28" start="455" end="462" text="insulin" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M29" start="1781" end="1788" text="insulin" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M30" start="1781" end="1788" text="insulin" time="after DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC9" time="after DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M31" start="1761" end="1770" text="labetalol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M32" start="1761" end="1770" text="labetalol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M33" start="1761" end="1771" text="labetalol," time="after DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <SMOKER id="DOC10" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" status="unknown"/>
+      <SMOKER id="S2" start="75" end="78" text="She" status="unknown" comment=""/>
+    </SMOKER>
+    <MEDICATION id="DOC11" time="before DCT" type1="statin" type2="">
+      <MEDICATION id="M34" start="1772" end="1779" text="Crestor" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M35" start="1772" end="1779" text="Crestor" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M36" start="1772" end="1779" text="Crestor" time="before DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC12" time="during DCT" type1="statin" type2="">
+      <MEDICATION id="M37" start="1772" end="1779" text="Crestor" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M38" start="1772" end="1779" text="Crestor" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M39" start="1772" end="1779" text="Crestor" time="during DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC13" time="during DCT" type1="diuretic" type2="">
+      <MEDICATION id="M40" start="1742" end="1746" text="HCTZ" time="during DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M41" start="1652" end="1656" text="HCTZ" time="during DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M42" start="1742" end="1746" text="HCTZ" time="during DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M43" start="1741" end="1746" text=" HCTZ" time="during DCT" type1="diuretic" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC14" time="before DCT" type1="metformin" type2="">
+      <MEDICATION id="M44" start="1867" end="1876" text="metformin" time="before DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M45" start="1580" end="1589" text="metformin" time="before DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M46" start="1638" end="1647" text="metformin" time="before DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M47" start="1867" end="1876" text="metformin" time="before DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M48" start="1867" end="1876" text="metformin" time="before DCT" type1="metformin" type2="" comment=""/>
+    </MEDICATION>
+    <FAMILY_HIST id="DOC15" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <MEDICATION id="DOC16" time="before DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M49" start="1748" end="1759" text="linsinopril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M50" start="1748" end="1759" text="linsinopril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M51" start="1748" end="1759" text="linsinopril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC17" time="after DCT" type1="diuretic" type2="">
+      <MEDICATION id="M52" start="1742" end="1746" text="HCTZ" time="after DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M53" start="1652" end="1656" text="HCTZ" time="after DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M54" start="1742" end="1746" text="HCTZ" time="after DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M55" start="1741" end="1746" text=" HCTZ" time="after DCT" type1="diuretic" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC18" time="before DCT" type1="insulin" type2="">
+      <MEDICATION id="M56" start="455" end="462" text="insulin" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M57" start="1597" end="1604" text="Hunulin" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M58" start="1610" end="1616" text="Lispro" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M59" start="1781" end="1788" text="insulin" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M60" start="1781" end="1788" text="insulin" time="before DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC19" time="after DCT" type1="aspirin" type2="">
+      <MEDICATION id="M61" start="1689" end="1696" text="aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M62" start="1689" end="1696" text="aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M63" start="1689" end="1696" text="aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC20" time="during DCT" type1="insulin" type2="">
+      <MEDICATION id="M64" start="455" end="462" text="insulin" time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M65" start="1781" end="1788" text="insulin" time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M66" start="1781" end="1788" text="insulin" time="during DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC21" time="before DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M67" start="1761" end="1770" text="labetalol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M68" start="1761" end="1770" text="labetalol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M69" start="1761" end="1771" text="labetalol," time="before DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC22" time="during DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M70" start="1761" end="1770" text="labetalol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M71" start="1761" end="1770" text="labetalol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M72" start="1761" end="1771" text="labetalol," time="during DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <PHI id="P0" start="16" end="26" text="2065-04-22" TYPE="DATE"/>
+    <PHI id="P1" start="28" end="42" text="April 22, 2065" TYPE="DATE"/>
+    <PHI id="P2" start="45" end="59" text="Xian, Brooklyn" TYPE="PATIENT"/>
+    <PHI id="P3" start="61" end="72" text="602-44-98-6" TYPE="MEDICALRECORD"/>
+    <PHI id="P4" start="105" end="121" text="October 24, 2063" TYPE="DATE"/>
+    <PHI id="P5" start="279" end="297" text="Mid Coast Hospital" TYPE="HOSPITAL"/>
+    <PHI id="P6" start="303" end="310" text="January" TYPE="DATE"/>
+    <PHI id="P7" start="851" end="860" text="Mid Coast" TYPE="HOSPITAL"/>
+    <PHI id="P8" start="864" end="876" text="January 2065" TYPE="DATE"/>
+    <PHI id="P9" start="1155" end="1163" text="Michigan" TYPE="STATE"/>
+    <PHI id="P10" start="2069" end="2076" text="Tuesday" TYPE="DATE"/>
+    <PHI id="P11" start="2403" end="2425" text="14 Massachusetts Drive" TYPE="STREET"/>
+    <PHI id="P12" start="2439" end="2461" text="24 Massachusetts Drive" TYPE="STREET"/>
+    <PHI id="P13" start="2518" end="2540" text="14 Massachusetts Drive" TYPE="STREET"/>
+    <PHI id="P14" start="2694" end="2716" text="14 Massachusetts Drive" TYPE="STREET"/>
+    <PHI id="P15" start="3589" end="3601" text="October 2063" TYPE="DATE"/>
+    <PHI id="P16" start="4143" end="4152" text="Mid Coast" TYPE="HOSPITAL"/>
+    <PHI id="P17" start="4226" end="4238" text="Uriah Yousif" TYPE="DOCTOR"/>
+    <PHI id="P18" start="4251" end="4261" text="Roger York" TYPE="DOCTOR"/>
+    <PHI id="P19" start="4274" end="4293" text="454 Prospect Street" TYPE="STREET"/>
+    <PHI id="P20" start="4300" end="4310" text="Sleepy Eye" TYPE="CITY"/>
+    <PHI id="P21" start="4312" end="4314" text="NC" TYPE="STATE"/>
+    <PHI id="P22" start="4315" end="4320" text="77659" TYPE="ZIP"/>
+  </TAGS>
+</root>

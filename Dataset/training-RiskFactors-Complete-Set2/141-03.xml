@@ -1,0 +1,141 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2077-07-28
+
+
+
+Patient: HORNE,MILTON M  [ 2177024(GMH) ]  MDate of Visit: 07/28/2077
+
+
+
+
+
+
+
+
+Returns for routine follow-up.  Hospitalized 6/77 with NSTEMI and he's s/p bare metal stent to the LAD.  Denies chest pain currently and he has an initial appointment with Dr. Issa later this week.  He hopes to start cardiac rehab after that visit.  Stable otherwise, GERD is controlled with Nexiuim.  Still has nocturia x 3-5 from BPH and he's being followed by Dr. Law.  PSA has been elevated in the past and he's s/p prostate biopsy.  Using CPAP for OSA, wants to change to nasal prongs from the mask.  S/P release of 5th trigger finger and the finger works fine now.  He wants to get the shingles vaccine, his remembers his mother's shingles and he doesn't want to get shingles.  Doesn't know whether he's had chickenpox.  Medication reconciliation done.
+
+
+Problems
+Umbilical hernia 
+Gastroesophageal reflux disease 
+Benign prostatic hypertrophy 
+Trigger finger : 5th finger
+Basal cell carcinoma 
+
+
+Medications
+Aspirin (ACETYLSALICYLIC ACID) 81 MG (81MG TABLET take 1) PO QD 
+Atorvastatin 80 MG (80MG TABLET take 1) PO QHS 
+Beconase AQ (BECLOMETHASONE DIPROPIONATE NASAL) 1-2 SPRAY NAS BID , Spray into each nostril. #3 Month(s) Supply
+Nexium (ESOMEPRAZOLE) 40 MG (40MG CAPSULE DR take 1) PO QD #90 Capsule(s)
+Oxycodone 5 MG (5MG TABLET take 1) PO Q4H #40 Tablet(s)
+Proscar (FINASTERIDE (BPH)) 5 MG (5MG TABLET take 1) PO QD #90 Tablet(s)
+Uroxatral (ALFUZOSIN) 10 MG (10MG TAB.SR 24H take 1) PO QD #90 TAB.SR 
+
+
+Allergies
+NKA 
+
+
+Vital Signs  BP 110/60  P 60  Wt. 216
+
+
+EXAM
+Chest: lungs clear
+Cor: RR&amp;R, no murmurs or gallops
+Abdomen: soft without organomegaly or masses.  Unbilical hernia present
+Skin:  bruise on right leg largely resolved.
+
+
+A/P
+1.  NSTEMI, s/p stent to LAD.  Has cardiology appointment.
+2.  Hyperlipidemia.  controlled on statin.
+3.  OSA, on CPAP
+4.  GERD, controlled with Nexium
+5.  BPH, stable.
+6.  Varicella antibody today; Zostavax if positive.  PSA, free PSA today along with fasting glucose.
+7.  CPE 1/78.
+
+
+
+
+
+
+
+
+____________________________________
+Xiomara Barbara Xanthos, M.D.
+
+
+
+]]></TEXT>
+  <TAGS>
+    <HYPERLIPIDEMIA id="DOC6" time="before DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY0" start="1828" end="1843" text="Hyperlipidemia." time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY1" start="1828" end="1842" text="Hyperlipidemia" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY2" start="1828" end="1842" text="Hyperlipidemia" time="before DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <HYPERLIPIDEMIA id="DOC7" time="after DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY3" start="1828" end="1843" text="Hyperlipidemia." time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY4" start="1828" end="1842" text="Hyperlipidemia" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY5" start="1828" end="1842" text="Hyperlipidemia" time="after DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <HYPERLIPIDEMIA id="DOC11" time="during DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY6" start="1828" end="1843" text="Hyperlipidemia." time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY7" start="1828" end="1842" text="Hyperlipidemia" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY8" start="1828" end="1842" text="Hyperlipidemia" time="during DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <MEDICATION id="DOC0" time="before DCT" type1="statin" type2="">
+      <MEDICATION id="M0" start="1088" end="1100" text="Atorvastatin" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M1" start="1088" end="1100" text="Atorvastatin" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M2" start="1088" end="1100" text="Atorvastatin" time="before DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC1" time="during DCT" type1="statin" type2="">
+      <MEDICATION id="M3" start="1088" end="1100" text="Atorvastatin" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M4" start="1088" end="1100" text="Atorvastatin" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M5" start="1088" end="1100" text="Atorvastatin" time="during DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC2" time="during DCT" type1="aspirin" type2="">
+      <MEDICATION id="M6" start="1023" end="1030" text="Aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M7" start="1023" end="1030" text="Aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M8" start="1023" end="1030" text="Aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC3" time="after DCT" type1="statin" type2="">
+      <MEDICATION id="M9" start="1088" end="1100" text="Atorvastatin" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M10" start="1088" end="1100" text="Atorvastatin" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M11" start="1088" end="1100" text="Atorvastatin" time="after DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC5" time="after DCT" type1="aspirin" type2="">
+      <MEDICATION id="M12" start="1023" end="1030" text="Aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M13" start="1023" end="1030" text="Aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M14" start="1023" end="1030" text="Aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC8" time="before DCT" type1="aspirin" type2="">
+      <MEDICATION id="M15" start="1023" end="1030" text="Aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M16" start="1023" end="1030" text="Aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M17" start="1023" end="1030" text="Aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <CAD id="DOC4" time="before DCT" indicator="event">
+      <CAD id="C0" start="162" end="169" text=" NSTEMI" time="before DCT" indicator="event" comment=""/>
+      <CAD id="C1" start="193" end="200" text=" stent " time="before DCT" indicator="event" comment=""/>
+      <CAD id="C2" start="163" end="169" text="NSTEMI" time="before DCT" indicator="event" comment=""/>
+      <CAD id="C3" start="1769" end="1775" text="NSTEMI" time="before DCT" indicator="event" comment=""/>
+      <CAD id="C4" start="163" end="169" text="NSTEMI" time="before DCT" indicator="event" comment=""/>
+      <CAD id="C5" start="187" end="211" text=" metal stent to the LAD." time="before DCT" indicator="event" comment=""/>
+    </CAD>
+    <FAMILY_HIST id="DOC9" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC10" status="unknown">
+      <SMOKER id="S0" start="3" end="10" text="Record " status="unknown" comment=""/>
+      <SMOKER id="S1" status="unknown"/>
+      <SMOKER id="S2" status="unknown"/>
+    </SMOKER>
+  </TAGS>
+</root>

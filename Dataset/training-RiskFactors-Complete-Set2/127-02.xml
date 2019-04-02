@@ -1,0 +1,193 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2076-04-24
+
+EDVISIT^91464150^Godwin, Yair^04/24/76^MURRAY, MARION OSCAR
+
+The patient was interviewed and examined primarily by me.
+
+CHIEF COMPLAINT:  Right chest wall pain.
+
+HISTORY OF PRESENT ILLNESS:  The patient is a 70-year-old male
+
+who presents to Bowne Hospital Emergency Department with no
+
+one-week history of right-sided lateral chest wall pain.  The
+
+patient states the pain is worse with movement including
+
+stretching, bending, and reaching.  The patient states that
+
+patient had slept with a hot water bottle on his right chest wall
+
+for pain relief and had pain relief and was sitting in a chair. 
+
+His lying down on his right side was painful, and this morning,
+
+sat up and while getting up, exacerbated the chest wall pain. 
+
+The patient discussed this pain with his primary care physician
+
+during the past 2 weeks and who had been in agreement that it is
+
+probable muscle strain.  The patient denies any headache, visual
+
+changes, and dizziness.  Denies any neck pain.  Denies any
+
+left-sided chest pain.  Denies any nausea, vomiting, diaphoresis,
+
+or dyspnea.  Denies any abdominal pain.  He has been afebrile. 
+
+No cough.
+
+PAST MEDICAL HISTORY:  Includes hypertension and non-insulin
+
+dependent diabetes.  The patient also has exposure to asbestos
+
+and asbestos changes on CT scan previously.
+
+SOCIAL HISTORY:  Past tobacco, past ETOH, no IV drug abuse, lives
+
+with his family, and he is retired.
+
+FAMILY HISTORY:  Noncontributory.
+
+REVIEW OF SYSTEMS:  As indicated in the history of present
+
+illness, otherwise negative.
+
+MEDICATIONS:  See nursing note for full list of medications.
+
+ALLERGIES:  The patient has no known allergies to medications.
+
+PHYSICAL EXAMINATION:  The patient is awake and alert in no acute
+
+distress.  Temperature 95.4, pulse of 67, respiratory rate of 16,
+
+blood pressure 179/78, and O2 saturation 95% on room air.  HEENT
+
+is atraumatic.  ENT:  No infection.  Pharynx is normal.  Neck is
+
+supple and nontender.  Respiratory exam:  Chest wall is tender. 
+
+Patient has reproducible, palpable right-sided posterior lateral
+
+and anterior lateral chest wall tenderness.  Normal breath sounds
+
+bilaterally, no rales, rhonchi, or wheezing.  Cardiac exam: 
+
+Regular rate and rhythm, no murmur, and normal pulses throughout.
+
+ Abdomen is soft.  The patient has some minimal amount of right
+
+upper quadrant tenderness just subcostal at the infracostal
+
+margin.  No rebound or guarding.  Skin is warm, dry, and intact,
+
+no lesions, or rashes.  Extremities are nontender. Normal range
+
+of motion.  No clubbing, cyanosis or edema.  Neurologic exam: 
+
+Cranial nerves II through XII intact bilaterally.  No motor or
+
+sensory deficits.
+
+LABORATORY DATA:  Significant for white count of 10.6, hematocrit
+
+of 38.5, platelets of 244,000.  Sodium 138, potassium 4.1,
+
+chloride of 105, bicarbonate 23, BUN 38, creatinine 1.9, and
+
+glucose of 165.  ALT of 11, AST of 16, amylase of 71, and lipase
+
+61.
+
+Given the fact that the patient had some right upper quadrant
+
+pain and pain was radiating laterally to the right anterior
+
+aspect, patient received a right upper quadrant ultrasound, which
+
+was negative.  No evidence of stones or gallbladder changes,
+
+consistent with cholecystitis.  The patient had a chest x-ray,
+
+which showed no new changes from prior studies.  No evidence of
+
+ ******** Not reviewed by Attending Physician ********
+
+The patient received morphine IV, and subsequently received 2
+
+Percocet tablets, and had resolution of his pain.  Patient's case
+
+was discussed with Dr. Rivers, who is the patient's primary care
+
+physician, and who is in agreement to discharge the patient home
+
+with pain medications and muscle relaxants.  The patient is being
+
+discharged home in satisfactory condition.
+
+PRIMARY DIAGNOSIS:  Right chest wall pain.
+
+______________________________
+
+MURRAY, MARION OSCAR M.D.
+
+D: 04/24/76
+
+T: 04/25/76
+
+Dictated By: MURRAY, MARION OSCAR
+
+eScription document:8-7695417 BFFocus
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <HYPERTENSION id="DOC1" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="1191" end="1203" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="1191" end="1203" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC2" time="during DCT" indicator="high bp">
+      <HYPERTENSION id="H2" start="1834" end="1840" text="179/78" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H3" start="1819" end="1840" text="blood pressure 179/78" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H4" start="1819" end="1840" text="blood pressure 179/78" time="during DCT" indicator="high bp" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC3" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H5" start="1191" end="1203" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H6" start="1191" end="1203" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC6" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H7" start="1191" end="1203" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H8" start="1191" end="1203" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <FAMILY_HIST id="DOC7" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC4" status="ever">
+      <SMOKER id="S0" start="1347" end="1359" text="Past tobacco" status="ever" comment=""/>
+      <SMOKER id="S1" start="1346" end="1359" text=" Past tobacco" status="ever" comment=""/>
+    </SMOKER>
+    <DIABETES id="DOC0" time="before DCT" indicator="mention">
+      <DIABETES id="D0" start="1208" end="1239" text="non-insulin  dependent diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D1" start="1231" end="1239" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC5" time="during DCT" indicator="mention">
+      <DIABETES id="D2" start="1208" end="1239" text="non-insulin  dependent diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D3" start="1231" end="1239" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC8" time="after DCT" indicator="mention">
+      <DIABETES id="D4" start="1208" end="1239" text="non-insulin  dependent diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D5" start="1231" end="1239" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+  </TAGS>
+</root>

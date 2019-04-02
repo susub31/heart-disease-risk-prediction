@@ -1,0 +1,278 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2082-02-03
+
+85 yo male for follow up.
+
+c/o mainly of arthritis pain in hands.  no redness or swelling.  
+
+Sleeping well at night with no pnd or orthopnea.   sleeping in bed as opposed to couch/chair.
+
+
+
+finds reflux of small amount of food every three meals if he eats quickly.  sometimes gets rushed by family members.
+
+no dysphagia or odynophagia.
+
+
+
+
+
+PROBLEMS
+
+
+
+Congestive heart failure  
+
+Chronic obstructive pulmonary disease  
+
+Hypertension  
+
+Gout  
+
+DJD  
+
+Benign prostatic hypertrophy  
+
+Hyperlipidemia  
+
+Chronic renal dysfunction  
+
+Peripheral vascular disease  s/p right fem-tib bypass 1/78
+
+Prostatic nodule  psa 1.6 09/81.  seen by dr. hoover in 11/81 who recommended yearly follow up.
+
+
+
+
+
+MEDICATIONS
+
+
+
+PREDNISONE   5MG  1 Tablet(s) PO QD  Take as directed 
+
+COUMADIN (WARFARIN SODIUM)      1 Tablet(s) PO QPM  Take as directed per anticoag
+
+HYDRALAZINE HCL   10MG  1 Tablet(s) PO QID  Take as directed 
+
+ISORDIL (ISOSORBIDE DINITRATE)   20MG  1 Tablet(s) PO TID  Take as directed 
+
+ALLOPURINOL   100MG  1 Tablet(s) PO QD  Take as directed 
+
+K-DUR (KCL SLOW REL.)   20MEQ  1 Tablet(s) PO QD  Take as directed 
+
+CALCIUM CARBONATE (500 MG ELEMENTAL CA  )   500MG  1 Tablet(s) PO QD  Take as directed 
+
+DIGOXIN   0.125MG  1 Tablet(s) PO QOD  Take as directed 
+
+COLCHICINE   0.6MG  1 Tablet(s) PO QOD  Take as directed 
+
+PRILOSEC (OMEPRAZOLE)   20MG  1 Capsule(s) PO QD 
+
+METOPROLOL TARTRATE   50MG  1 Tablet(s) PO BID  Take as directed 
+
+LASIX (FUROSEMIDE)   40MG  1 Tablet(s) PO BID  Take as directed 
+
+CELEBREX (CELECOXIB)   200MG  1 Capsule(s) PO QD  Take as directed 
+
+
+
+
+
+ALLERGY
+
+
+
+Penicillins  Unknown  
+
+
+
+exam: weight 192(down 8 lbs)
+
+bp 130/70
+
+pulse  72
+
+appears well
+
+lungs:slight rales at bases with diminished sounds throughout but no wheeze.
+
+abd: obese soft and nontender
+
+ext: no edema.  hands: no redness or swelling 
+
+
+
+a/p
+
+chf: stable.   lung exam at baseline.   follow  present management.
+
+
+
+copd: stable.
+
+
+
+htn: stable.
+
+
+
+Gerd:   tertiary contractions on barium swallow in october.  advised to eat slowly, taking his time and cutting food in small pieces.
+
+
+
+prostatic nodule:   seen by dr. hoover on 11/27/81 and found asymmetry with left > right.   his plan is yearly exam.
+
+
+
+guaiac positive stool:   Will be having colonoscopy in the next month.
+
+
+
+arthritis:   asked him to call arthritis clinic: dr. quijada for follow up. continue with prednisone. 
+
+
+
+HEALTH MAINTENANCE
+
+
+
+Influenza 10/02/2081   
+
+Cholesterol 10/03/2081 217  DESIRABLE: less then 200
+
+Rectal exam 10/02/2081   
+
+Stool Guaiac 12/05/2081 one trace postiive out of three Done - positive 
+
+Pneumovax 11/07/75  Done 
+
+Smoking status 10/02/2081  Never a smoker 
+
+UA-Protein 08/31/2081 1+  
+
+check tsh
+
+follow up in three months. 
+
+______________________________________________
+
+
+
+David S. Hale, M.D.
+
+
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="before DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M0" start="1403" end="1413" text="METOPROLOL" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M1" start="1403" end="1413" text="METOPROLOL" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M2" start="1403" end="1413" text="METOPROLOL" time="before DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC1" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="452" end="464" text="Hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="452" end="464" text="Hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H2" start="452" end="464" text="Hypertension" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <OBESE id="DOC2" time="before DCT" indicator="mention">
+      <OBESE id="O0" start="1795" end="1800" text="obese" time="before DCT" indicator="mention" comment=""/>
+      <OBESE id="O1" start="1795" end="1800" text="obese" time="before DCT" indicator="mention" comment=""/>
+    </OBESE>
+    <MEDICATION id="DOC3" time="before DCT" type1="nitrate" type2="">
+      <MEDICATION id="M3" start="940" end="947" text="ISORDIL" time="before DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M4" start="940" end="947" text="ISORDIL" time="before DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M5" start="940" end="947" text="ISORDIL" time="before DCT" type1="nitrate" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERLIPIDEMIA id="DOC4" time="before DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY0" start="515" end="529" text="Hyperlipidemia" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY1" start="515" end="531" text="Hyperlipidemia  " time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY2" start="515" end="529" text="Hyperlipidemia" time="before DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <MEDICATION id="DOC5" time="after DCT" type1="nitrate" type2="">
+      <MEDICATION id="M6" start="940" end="947" text="ISORDIL" time="after DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M7" start="940" end="947" text="ISORDIL" time="after DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M8" start="940" end="947" text="ISORDIL" time="after DCT" type1="nitrate" type2="" comment=""/>
+    </MEDICATION>
+    <OBESE id="DOC6" time="during DCT" indicator="mention">
+      <OBESE id="O2" start="1795" end="1800" text="obese" time="during DCT" indicator="mention" comment=""/>
+      <OBESE id="O3" start="1795" end="1800" text="obese" time="during DCT" indicator="mention" comment=""/>
+      <OBESE id="O4" start="1795" end="1800" text="obese" time="during DCT" indicator="mention" comment=""/>
+    </OBESE>
+    <HYPERTENSION id="DOC7" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H3" start="452" end="464" text="Hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H4" start="452" end="464" text="Hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H5" start="452" end="464" text="Hypertension" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERLIPIDEMIA id="DOC8" time="after DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY3" start="515" end="529" text="Hyperlipidemia" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY4" start="515" end="531" text="Hyperlipidemia  " time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY5" start="515" end="529" text="Hyperlipidemia" time="after DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <HYPERTENSION id="DOC9" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H6" start="452" end="464" text="Hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H7" start="452" end="464" text="Hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H8" start="452" end="464" text="Hypertension" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <OBESE id="DOC10" time="after DCT" indicator="mention">
+      <OBESE id="O5" start="1795" end="1800" text="obese" time="after DCT" indicator="mention" comment=""/>
+      <OBESE id="O6" start="1795" end="1800" text="obese" time="after DCT" indicator="mention" comment=""/>
+    </OBESE>
+    <MEDICATION id="DOC11" time="after DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M9" start="1403" end="1413" text="METOPROLOL" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M10" start="1403" end="1413" text="METOPROLOL" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M11" start="1403" end="1413" text="METOPROLOL" time="after DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC12" time="during DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M12" start="1403" end="1413" text="METOPROLOL" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M13" start="1403" end="1413" text="METOPROLOL" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M14" start="1403" end="1413" text="METOPROLOL" time="during DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERLIPIDEMIA id="DOC13" time="during DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY6" start="515" end="529" text="Hyperlipidemia" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY7" start="515" end="531" text="Hyperlipidemia  " time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY8" start="515" end="529" text="Hyperlipidemia" time="during DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <FAMILY_HIST id="DOC14" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <MEDICATION id="DOC15" time="during DCT" type1="nitrate" type2="">
+      <MEDICATION id="M15" start="940" end="947" text="ISORDIL" time="during DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M16" start="940" end="947" text="ISORDIL" time="during DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M17" start="940" end="947" text="ISORDIL" time="during DCT" type1="nitrate" type2="" comment=""/>
+    </MEDICATION>
+    <SMOKER id="DOC16" status="never">
+      <SMOKER id="S0" start="2673" end="2687" text="Never a smoker" status="never" comment=""/>
+      <SMOKER id="S1" start="2673" end="2688" text="Never a smoker " status="never" comment=""/>
+      <SMOKER id="S2" start="2673" end="2688" text="Never a smoker " status="never" comment=""/>
+    </SMOKER>
+    <PHI id="P0" start="16" end="26" text="2082-02-03" TYPE="DATE"/>
+    <PHI id="P1" start="28" end="30" text="85" TYPE="AGE"/>
+    <PHI id="P2" start="616" end="620" text="1/78" TYPE="DATE"/>
+    <PHI id="P3" start="648" end="653" text="09/81" TYPE="DATE"/>
+    <PHI id="P4" start="668" end="674" text="hoover" TYPE="DOCTOR"/>
+    <PHI id="P5" start="678" end="683" text="11/81" TYPE="DATE"/>
+    <PHI id="P6" start="2031" end="2038" text="october" TYPE="DATE"/>
+    <PHI id="P7" start="2149" end="2155" text="hoover" TYPE="DOCTOR"/>
+    <PHI id="P8" start="2159" end="2167" text="11/27/81" TYPE="DATE"/>
+    <PHI id="P9" start="2364" end="2371" text="quijada" TYPE="DOCTOR"/>
+    <PHI id="P10" start="2449" end="2459" text="10/02/2081" TYPE="DATE"/>
+    <PHI id="P11" start="2476" end="2486" text="10/03/2081" TYPE="DATE"/>
+    <PHI id="P12" start="2530" end="2540" text="10/02/2081" TYPE="DATE"/>
+    <PHI id="P13" start="2558" end="2568" text="12/05/2081" TYPE="DATE"/>
+    <PHI id="P14" start="2629" end="2637" text="11/07/75" TYPE="DATE"/>
+    <PHI id="P15" start="2661" end="2671" text="10/02/2081" TYPE="DATE"/>
+    <PHI id="P16" start="2701" end="2711" text="08/31/2081" TYPE="DATE"/>
+    <PHI id="P17" start="2808" end="2821" text="David S. Hale" TYPE="DOCTOR"/>
+  </TAGS>
+</root>

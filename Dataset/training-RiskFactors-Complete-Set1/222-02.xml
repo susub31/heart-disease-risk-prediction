@@ -1,0 +1,142 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2095-03-27
+
+Wt 198  146/84
+72 yo male with few months of cardiac problems, including need for ablation of
+arrhythmia focus, done 1/95.   Has hx CAD with MI 2062 and 2086, with echo 1/95
+showing 40-45% EF with posterior and apical hypokinesis.   No CHF sx, tho has
+moderate fluid retention at times.  Takes lasix 40mg PRN (about 1-2 times per
+wk, when edematous, tho even with periph edema, no signif SOB/CHF sx.).
+     
+For past 6 wks has been on atenolol 25 qd (has not been able to tolerate
+amiodarone, lisinopril in past), but has felt very malaised, weak, lacking in
+energy, "weak" in the legs.  Feels his appetite was also affected and he lost 8
+pounds.  He got fed up and 2 days ago on his own, he stopped the atenolol and
+since then has felt nearly back to usual self.  HE says that he will not go
+back on atenolol.   At last visit, was encouraged by Dr Corona to try to
+continue with atenolol.
+     
+DM on glucophage 1500mg qd (500 AM, 1000PM), without signif poly sx, with
+recent fingerstick of 180 in AM and 220 in PM.
+     
+EXAM:   Lungs are clear.  Extrem 3+ edema.
+ 
+IMP:    Side effects from atenolol.
+        AICD/ventricular arrhythmia, controlled recently.
+        Fluid retention.  PRN lasix not ideal.
+        DM not as well controlled as desirable.
+        LDL 138, should be lower, tho he is so intolerant of meds.
+ 
+PLAN:   Will discuss with Dr Corona about unwillingness to take beta blocker
+          and if any other agent indicated.  BP not ideally controlled.
+        Encouraged regular lasix use of 20mg twice per wk, salt restriction
+        Consider lipitor for LDL 138, but next visit.
+        Increase metformin to 1000 BID.
+        Pneumovax today.
+Patricia Islam MD
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="after DCT" type1="metformin" type2="">
+      <MEDICATION id="M0" start="930" end="940" text="glucophage" time="after DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M1" start="930" end="940" text="glucophage" time="after DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M2" start="1650" end="1659" text="metformin" time="after DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M3" start="930" end="940" text="glucophage" time="after DCT" type1="metformin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC1" time="during DCT" type1="metformin" type2="">
+      <MEDICATION id="M4" start="930" end="940" text="glucophage" time="during DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M5" start="930" end="940" text="glucophage" time="during DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M6" start="1650" end="1659" text="metformin" time="during DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M7" start="930" end="940" text="glucophage" time="during DCT" type1="metformin" type2="" comment=""/>
+    </MEDICATION>
+    <DIABETES id="DOC2" time="during DCT" indicator="mention">
+      <DIABETES id="D0" start="924" end="926" text="DM" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D1" start="924" end="927" text="DM " time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D2" start="1245" end="1247" text="DM" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D3" start="924" end="926" text="DM" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <HYPERTENSION id="DOC3" time="during DCT" indicator="high bp">
+      <HYPERTENSION id="H0" start="36" end="42" text="146/84" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H1" start="35" end="42" text=" 146/84" time="during DCT" indicator="high bp" comment=""/>
+    </HYPERTENSION>
+    <DIABETES id="DOC4" time="before DCT" indicator="glucose">
+      <DIABETES id="D4" start="998" end="1043" text="recent fingerstick of 180 in AM and 220 in PM" time="before DCT" indicator="glucose" comment=""/>
+      <DIABETES id="D5" start="1020" end="1029" text="180 in AM" time="before DCT" indicator="glucose" comment=""/>
+      <DIABETES id="D6" start="1034" end="1044" text="220 in PM." time="before DCT" indicator="glucose" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC5" time="before DCT" indicator="mention">
+      <DIABETES id="D7" start="924" end="926" text="DM" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D8" start="924" end="927" text="DM " time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D9" start="1245" end="1247" text="DM" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D10" start="924" end="926" text="DM" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <MEDICATION id="DOC6" time="before DCT" type1="metformin" type2="">
+      <MEDICATION id="M8" start="930" end="940" text="glucophage" time="before DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M9" start="930" end="940" text="glucophage" time="before DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M10" start="1650" end="1659" text="metformin" time="before DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M11" start="930" end="940" text="glucophage" time="before DCT" type1="metformin" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERLIPIDEMIA id="DOC7" time="before DCT" indicator="high LDL">
+      <HYPERLIPIDEMIA id="HY0" start="1292" end="1300" text=" LDL 138" time="before DCT" indicator="high LDL" comment=""/>
+      <HYPERLIPIDEMIA id="HY1" start="1293" end="1300" text="LDL 138" time="before DCT" indicator="high LDL" comment=""/>
+      <HYPERLIPIDEMIA id="HY2" start="1291" end="1300" text="  LDL 138" time="before DCT" indicator="high LDL" comment=""/>
+    </HYPERLIPIDEMIA>
+    <CAD id="DOC8" time="after DCT" indicator="mention">
+      <CAD id="C0" start="157" end="164" text="hx CAD " time="after DCT" indicator="mention" comment=""/>
+      <CAD id="C1" start="160" end="164" text="CAD " time="after DCT" indicator="mention" comment=""/>
+      <CAD id="C2" start="160" end="163" text="CAD" time="after DCT" indicator="mention" comment=""/>
+    </CAD>
+    <CAD id="DOC9" time="during DCT" indicator="mention">
+      <CAD id="C3" start="157" end="164" text="hx CAD " time="during DCT" indicator="mention" comment=""/>
+      <CAD id="C4" start="160" end="164" text="CAD " time="during DCT" indicator="mention" comment=""/>
+      <CAD id="C5" start="160" end="163" text="CAD" time="during DCT" indicator="mention" comment=""/>
+    </CAD>
+    <SMOKER id="DOC10" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" status="unknown"/>
+      <SMOKER id="S2" start="3" end="9" text="Record" status="unknown" comment=""/>
+    </SMOKER>
+    <FAMILY_HIST id="DOC11" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <DIABETES id="DOC12" time="after DCT" indicator="mention">
+      <DIABETES id="D11" start="924" end="926" text="DM" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D12" start="924" end="927" text="DM " time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D13" start="1245" end="1247" text="DM" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D14" start="924" end="926" text="DM" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <CAD id="DOC13" time="before DCT" indicator="event">
+      <CAD id="C6" start="168" end="186" text=" MI 2062 and 2086," time="before DCT" indicator="event" comment=""/>
+      <CAD id="C7" start="169" end="185" text="MI 2062 and 2086" time="before DCT" indicator="event" comment=""/>
+      <CAD id="C8" start="169" end="171" text="MI" time="before DCT" indicator="event" comment=""/>
+    </CAD>
+    <MEDICATION id="DOC14" time="before DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M12" start="463" end="471" text="atenolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M13" start="463" end="472" text="atenolol " time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M14" start="463" end="471" text="atenolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <CAD id="DOC15" time="before DCT" indicator="mention">
+      <CAD id="C9" start="157" end="164" text="hx CAD " time="before DCT" indicator="mention" comment=""/>
+      <CAD id="C10" start="160" end="164" text="CAD " time="before DCT" indicator="mention" comment=""/>
+      <CAD id="C11" start="160" end="163" text="CAD" time="before DCT" indicator="mention" comment=""/>
+    </CAD>
+    <PHI id="P0" start="16" end="26" text="2095-03-27" TYPE="DATE"/>
+    <PHI id="P1" start="43" end="45" text="72" TYPE="AGE"/>
+    <PHI id="P2" start="145" end="149" text="1/95" TYPE="DATE"/>
+    <PHI id="P3" start="172" end="176" text="2062" TYPE="DATE"/>
+    <PHI id="P4" start="181" end="185" text="2086" TYPE="DATE"/>
+    <PHI id="P5" start="197" end="201" text="1/95" TYPE="DATE"/>
+    <PHI id="P6" start="877" end="883" text="Corona" TYPE="DOCTOR"/>
+    <PHI id="P7" start="1383" end="1389" text="Corona" TYPE="DOCTOR"/>
+    <PHI id="P8" start="1698" end="1712" text="Patricia Islam" TYPE="DOCTOR"/>
+  </TAGS>
+</root>

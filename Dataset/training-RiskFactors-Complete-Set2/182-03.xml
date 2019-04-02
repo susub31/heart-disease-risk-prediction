@@ -1,0 +1,172 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2131-04-12
+
+66-year-old gentleman presents for follow-up of hypertension.  The nurse who visits home as documented multiple elevated blood pressures over the past month or two.  He notes no headaches, chest pain, nausea, vomiting, shortness of breath.
+
+
+
+Review of systems is otherwise negative.  
+
+
+
+Past Medical History:
+
+
+
+Gallstones : 2074
+
+Hyperlipidemia 
+
+Pancreatitis : 2110
+
+Dermatitis : seborrheic
+
+Nevus : mole
+
+Chronic fatigue syndrome 
+
+Schizophrenia : personality disorder
+
+Humerus fracture : L arm. s/p fall
+
+Tonsillectomy 
+
+Adenomatous polyp : tubular adenoma with high grade dysplasia. To repeat in 2130 per Dr. Echeverria
+
+Skin cancer : Basal cell CA. L cheek. S/P MOHs, 2129
+
+abnormal SPEP : needs recheck in spring 2131 
+
+
+
+
+
+Allergies
+
+NKA 
+
+
+
+
+
+Medications
+
+Zyprexa (OLANZAPINE) take 1 Tablet(s) PO QHS , Take as directed 
+
+Aspirin (CHILDRENS) (ACETYLSALICYLIC ACI... 81MG TABLET take 1 Tablet(s) PO QD 
+
+Aspirin (CHILDRENS) (ACETYLSALICYLIC ACI... 81MG TABLET take 1 Tablet(s) PO QD 
+
+Vitamin B12 (CYANOCOBALAMIN) 1000 MCG PO QD 
+
+Lipitor (ATORVASTATIN) 10MG TABLET take 1 Tablet(s) PO QD , Take as directed 
+
+
+
+
+
+Physical exam: in no acute distress.  Initial blood pressure is 144/90.  Repeat blood pressure is 150/95.  Weight is 230.  HEENT: Pupils equal round reactive to light.  Oropharynx is moist without erythema or exudate.  Neck: Supple without JVD.  Lungs: Clear to auscultation bilaterally without wheezes, rhonchi or rhales.  Cardiac exam: Regular rate and rhythm, Normal S1 and S2 without murmurs, rubs or gallops.  Abdomen:  Soft, nondistended, nontender.  Positive bowel sounds.  Extremities: Without clubbing, cyanosis or edema.  Distal pulses 2+ palpable.  
+
+
+
+Assessment and plan: 66-year-old gentleman presenting with hypertension.  Blood pressure has been elevated on several occasions.  Planning to initiate therapy with antihypertensive medication.  Prescribed hydrochlorothiazide at today's visit, 25 mg daily.  I will see him in follow-up in the month.  Will need to check renal function and electrolytes at that time
+
+
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <HYPERLIPIDEMIA id="DOC7" time="before DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY0" start="361" end="375" text="Hyperlipidemia" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY1" start="361" end="376" text="Hyperlipidemia " time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY2" start="361" end="375" text="Hyperlipidemia" time="before DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <HYPERLIPIDEMIA id="DOC9" time="after DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY3" start="361" end="375" text="Hyperlipidemia" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY4" start="361" end="376" text="Hyperlipidemia " time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY5" start="361" end="375" text="Hyperlipidemia" time="after DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <HYPERLIPIDEMIA id="DOC15" time="during DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY6" start="361" end="375" text="Hyperlipidemia" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY7" start="361" end="376" text="Hyperlipidemia " time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY8" start="361" end="375" text="Hyperlipidemia" time="during DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <MEDICATION id="DOC0" time="before DCT" type1="statin" type2="">
+      <MEDICATION id="M0" start="1069" end="1076" text="Lipitor" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M1" start="1069" end="1076" text="Lipitor" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M2" start="1069" end="1076" text="Lipitor" time="before DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC1" time="during DCT" type1="statin" type2="">
+      <MEDICATION id="M3" start="1069" end="1076" text="Lipitor" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M4" start="1069" end="1076" text="Lipitor" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M5" start="1069" end="1076" text="Lipitor" time="during DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC2" time="during DCT" type1="aspirin" type2="">
+      <MEDICATION id="M6" start="861" end="868" text="Aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M7" start="861" end="869" text="Aspirin " time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M8" start="861" end="868" text="Aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M9" start="942" end="949" text="Aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC3" time="after DCT" type1="diuretic" type2="">
+      <MEDICATION id="M10" start="1920" end="1939" text=" hydrochlorothiazid" time="after DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M11" start="1921" end="1940" text="hydrochlorothiazide" time="after DCT" type1="diuretic" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC4" time="after DCT" type1="statin" type2="">
+      <MEDICATION id="M12" start="1069" end="1076" text="Lipitor" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M13" start="1069" end="1076" text="Lipitor" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M14" start="1069" end="1076" text="Lipitor" time="after DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC5" time="after DCT" type1="aspirin" type2="">
+      <MEDICATION id="M15" start="861" end="868" text="Aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M16" start="861" end="869" text="Aspirin " time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M17" start="861" end="868" text="Aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M18" start="942" end="949" text="Aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC11" time="before DCT" type1="aspirin" type2="">
+      <MEDICATION id="M19" start="861" end="868" text="Aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M20" start="861" end="869" text="Aspirin " time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M21" start="861" end="868" text="Aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M22" start="942" end="949" text="Aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC6" time="during DCT" indicator="high bp">
+      <HYPERTENSION id="H0" start="1249" end="1256" text=" 150/95" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H1" start="1198" end="1222" text="blood pressure is 144/90" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H2" start="1232" end="1256" text="blood pressure is 150/95" time="during DCT" indicator="high bp" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC8" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H3" start="76" end="88" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H4" start="76" end="88" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H5" start="76" end="88" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H6" start="1775" end="1787" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC10" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H7" start="76" end="88" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H8" start="76" end="88" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H9" start="76" end="88" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H10" start="1775" end="1787" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC14" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H11" start="76" end="88" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H12" start="76" end="88" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H13" start="76" end="88" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H14" start="1775" end="1787" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <FAMILY_HIST id="DOC12" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC13" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" start="3" end="9" text="Record" status="unknown" comment=""/>
+      <SMOKER id="S2" status="unknown"/>
+    </SMOKER>
+  </TAGS>
+</root>

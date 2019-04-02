@@ -1,0 +1,110 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2066-05-20
+
+
+
+
+
+RANKIN GENERAL HOSPITAL
+Arthritis Center
+49 Autumn Glen Circle 					Rivers, Ida
+Brazzaville, UT  33953 					71701456
+(963) 403-5583						05/20/66
+
+
+1.	Sjogren's.
+2.	Diabetes.
+
+HPI:  Is now getting her diabetes care through the HMC.  Very impressed by 
+their detail.  Is getting better control for blood sugar.
+
+Is getting physical therapy for her knee where she has internal derangement.  
+Is wearing a brace which appears to help her instability.
+
+Noting some discomfort involving her feet.  Has a history of arterial 
+insufficiency.
+
+Remains on colchicine 0.6 per day for pseudogout and has had no recurrent 
+episodes.
+
+Sjogren's the same, no change in symptoms.
+
+PHYSICAL EXAMINATION:  OA of DIP and PIP joints and thumbs.  No active 
+synovitis of MCP joints, wrists, elbows, shoulders, or hips.  Right knee: 
+small cool effusion, instability noted, quadriceps laxity noted.  Left knee: 
+full motion.  Ankles and feet nontender.  Proximal muscle strength normal.  
+Peripheral pulses diminished, particularly left foot, intact right.
+
+ASSESSMENT:  
+1.	Sjogren's.
+2.	Chondrocalcinosis with probable pseudogout.
+3.	Diabetes.
+4.	Internal derangement.
+5.	Vascular insufficiency.
+
+PLAN:  
+1.	Baby aspirin.
+2.	Needs Primary Care Doctor.
+3.	Quadriceps-strengthening exercises.
+4.	Colchicine to block further episodes of pseudogout.
+5.	Follow-up six months.
+
+
+
+_______________________________
+Richard F. Vidal, M.D.
+
+DD: 05/20/66
+DT: 05/21/66
+DV: 05/20/66
+/turpin
+
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC2" time="after DCT" type1="aspirin" type2="">
+      <MEDICATION id="M0" start="1221" end="1234" text="Baby aspirin." time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M1" start="1221" end="1234" text="Baby aspirin." time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M2" start="1226" end="1233" text="aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <FAMILY_HIST id="DOC3" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC4" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" start="3" end="9" text="Record" status="unknown" comment=""/>
+      <SMOKER id="S2" status="unknown"/>
+    </SMOKER>
+    <DIABETES id="DOC0" time="before DCT" indicator="mention">
+      <DIABETES id="D0" start="197" end="205" text="Diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D1" start="197" end="205" text="Diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D2" start="197" end="205" text="Diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D3" start="233" end="241" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D4" start="1147" end="1155" text="Diabetes" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC1" time="during DCT" indicator="mention">
+      <DIABETES id="D5" start="197" end="205" text="Diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D6" start="197" end="205" text="Diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D7" start="197" end="205" text="Diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D8" start="233" end="241" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D9" start="1147" end="1155" text="Diabetes" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC5" time="after DCT" indicator="mention">
+      <DIABETES id="D10" start="197" end="205" text="Diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D11" start="197" end="205" text="Diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D12" start="197" end="205" text="Diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D13" start="233" end="241" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D14" start="1147" end="1155" text="Diabetes" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+  </TAGS>
+</root>

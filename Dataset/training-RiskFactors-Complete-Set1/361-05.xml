@@ -1,0 +1,376 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2068-07-06
+
+
+Dialysis Fellow Consult Note 
+
+
+
+Date of Admission: 7/6/2068
+Team: Internal Medicine
+Fellow: Wise
+Renal Attending: Leonard
+
+
+Reason for Consult: HD needs while inpt
+
+
+HPI:
+ 48 Spanish speaking M (interviewed with assistance of interpreter services staff) w/ESKD on HD 2/2 T2DM (nephrop, retinop, bilat TMA), HTN, admitted for LLQ pain. Patient recenlty admitted to PROMPTCARE for refractory constipation with discharge 7/01. During the admission he was noted to have inadequate HD and underwent AVF fistulogram and subsequent dilation of stensosis.
+The patient attended his outpatient HD on Fri and Sun. He developed abdominal pain , back pain and difficulty breathing on morning of admission he called EMS and was found to be hypertension with BP &gt;240/110mmHg. He was given SL nitroglycerine with relief of symptoms but not of hypertension. 
+He continued to have HTN in ED and underwent a CT angiogram whihc did not reveal dissection only bilateral pleural effusions. His Trop -T was 0.1 and ECG faied to shw ischemia.
+ 
+He was admitted for managment of Hypertensive urgency
+ 
+ROS: Full review of 12 point ROS negative other than abnormalities noted in HPI.
+
+
+PMHx:
+DM, diagnosed 20 years ago, complicated by retinopathy 5 years ago, nephropathy 5 years ago, and bilateral TMA 8 years ago
+ 
+ESRD on HD, started HD 5 years ago, on MWF schedule at Cochran Memorial Hospital
+
+Bilateral blindness, started 5 years ago
+
+Hypertension
+
+Hyperlipidemia
+
+DepressionGERD/Gastritis
+
+s/p bilateral TMA 8 years ago, complicated by osteomyelitis of right foot in 2065 and 2068
+
+
+
+
+s/p cholecystectomy
+
+
+
+
+Meds: per recent d/c summary.
+1. Aspirin 81 mg p.o. daily. 
+2. Amlodipine 10 mg p.o. daily.
+3. Cinacalcet 30 mg p.o. at bedtime.
+4. Clonidine 0.2 mg p.o. b.i.d.
+5. Diphenhydramine oral 25 mg p.o. 3 times a week, Monday,
+Wednesday, Friday.
+6. Docusate sodium 100 mg p.o. b.i.d.
+7. Duloxetine 20 mg p.o. b.i.d.
+8. Insulin Lispro mix 75/25 12 units subcutaneous every night.
+9. Insulin Lispro mix 75/25 25 units subcutaneous before meals.
+10. Lisinopril 40 mg p.o. daily.
+11. Reglan 5 mg p.o. q.i.d.
+12. Metoprolol succinate extended release 150 mg p.o. daily.
+13. MiraLax 17 grams 2 caps a day titrate to bowel movement.
+14. Senna 17.2 mg p.o. b.i.d.
+15. Sevelamer 2400 mg p.o. t.i.d.
+16. Simvastatin 20 mg p.o. bedtime.
+17. Sodium polystyrene sulfonate 15 grams p.o. 4 times a week,
+Monday, Wednesday, Friday, Sunday.
+
+
+
+Allerg:
+
+NKDA
+
+
+FHx:
+
+DM
+
+
+SHx:
+
+
+(per note from previous admission 3/10/68)
+ 
+Originally from Panama City. Lives with his mother in Needville. Never married, no children.
+
+
+Tobacco: Quit 8 years ago, used to smoke 1/2 PPD
+
+
+
+EtOH: Quit 8 years ago, used to be a heavy drinker
+
+
+Illicits: Never
+
+ 
+P/E:
+Vitals Temp 98. HR 74, BP 160/70, RR 18, SaO2 97% on 2L n/c
+General: Obese male, mildly somnolent
+HEENT: Thick neck, JVP 6cm, moist mucosa
+RESP: Diminished breath sounds at bases Left &gt; Right
+CVS: HS1-2, RRR, no gallops or murmus
+Abdo: No distention or tenderness.
+Ext: AVF on Left forearm bounding pulse, minimal lower extremity edema
+Neuro: able to move all 4 extremites
+Pysch: No abnormal affect noted
+ 
+Labs predialysis
+Na 136, K 5.4, Cl 95, HCO3 23, BUN 42, Cr 9.39
+Ca 11.2, PO4 2.8, PTH 1112
+Hg 11, Fe 23, Ferrtin 1336, TIBC 121
+ 
+ECG: SR, LVH, no ischemia.
+ 
+A/P
+48M with ESRD presents in Hypertensive emergency, concern for medical noncompliance with possible volume overlod as etiology though appears by record to attend HD though elevated Cr perhaps suggest inadequate HD. Alos possible is non-compliance with volume restriction and marked intra-dialytic wieght gain as cause of today' presentation.
+ 
+Plan
+ 
+ESRD
+HD today 
+4hrs, UF 3kg, Bath Na 140, K 2.0, Ca 2.5, HCO3 25
+ 
+Anemia:
+Hg 11, Ferritin 1336, no Fe supplementation avoid EPO while HTN urgency
+ 
+Metabolic bone disease:
+PTH 1112, Ca 11.3 on paricalcitrol at HD
+continue sevelamer AC
+ 
+HTN:
+Will attempt agressive UF while inpatient to reduce EDW, continue medical managment as reduced EDW is attempted.
+ 
+Access:
+AVF with recent fistuloplasty good flows achieved at HD
+ 
+Case discussed with Dr N Leonard
+ 
+Howard Wise MD 
+39607
+EDUCARE-FARGO Renal  Fellow
+ 
+
+ 
+ 
+ 
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="during DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M0" start="2063" end="2074" text="Lisinopril " time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M1" start="2063" end="2090" text="Lisinopril 40 mg p.o. daily" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M2" start="2063" end="2073" text="Lisinopril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC1" time="after DCT" type1="statin" type2="">
+      <MEDICATION id="M3" start="2310" end="2321" text="Simvastatin" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M4" start="2310" end="2340" text="Simvastatin 20 mg p.o. bedtime" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M5" start="2310" end="2321" text="Simvastatin" time="after DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC2" time="during DCT" type1="aspirin" type2="">
+      <MEDICATION id="M6" start="1656" end="1664" text="Aspirin " time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M7" start="1656" end="1681" text="Aspirin 81 mg p.o. daily." time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M8" start="1656" end="1663" text="Aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <SMOKER id="DOC3" status="past">
+      <SMOKER id="S0" start="2626" end="2642" text="Quit 8 years ago" status="past" comment=""/>
+      <SMOKER id="S1" start="2617" end="2665" text="Tobacco: Quit 8 years ago, used to smoke 1/2 PPD" status="past" comment=""/>
+      <SMOKER id="S2" start="2617" end="2665" text="Tobacco: Quit 8 years ago, used to smoke 1/2 PPD" status="past" comment=""/>
+    </SMOKER>
+    <HYPERTENSION id="DOC4" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="337" end="340" text="HTN" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="337" end="340" text="HTN" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H2" start="756" end="768" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H3" start="860" end="872" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H4" start="896" end="899" text="HTN" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H5" start="1448" end="1460" text="Hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H6" start="3803" end="3806" text="HTN" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H7" start="3906" end="3909" text="HTN" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H8" start="337" end="340" text="HTN" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <MEDICATION id="DOC5" time="after DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M9" start="2063" end="2074" text="Lisinopril " time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M10" start="2063" end="2090" text="Lisinopril 40 mg p.o. daily" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M11" start="2063" end="2073" text="Lisinopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC6" time="before DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M12" start="2063" end="2074" text="Lisinopril " time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M13" start="2063" end="2090" text="Lisinopril 40 mg p.o. daily" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M14" start="2063" end="2073" text="Lisinopril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <DIABETES id="DOC7" time="during DCT" indicator="mention">
+      <DIABETES id="D0" start="303" end="306" text="DM " time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D1" start="1199" end="1201" text="DM" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D2" start="2465" end="2467" text="DM" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D3" start="301" end="305" text="T2DM" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <MEDICATION id="DOC8" time="after DCT" type1="aspirin" type2="">
+      <MEDICATION id="M15" start="1656" end="1664" text="Aspirin " time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M16" start="1656" end="1681" text="Aspirin 81 mg p.o. daily." time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M17" start="1656" end="1663" text="Aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERLIPIDEMIA id="DOC9" time="during DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY0" start="1462" end="1476" text="Hyperlipidemia" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY1" start="1462" end="1476" text="Hyperlipidemia" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY2" start="1462" end="1476" text="Hyperlipidemia" time="during DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <MEDICATION id="DOC10" time="during DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M18" start="1686" end="1696" text="Amlodipine" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M19" start="1686" end="1714" text="Amlodipine 10 mg p.o. daily." time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M20" start="1686" end="1696" text="Amlodipine" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC11" time="after DCT" type1="insulin" type2="">
+      <MEDICATION id="M21" start="1934" end="1942" text=" Insulin" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M22" start="1935" end="1968" text="Insulin Lispro mix 75/25 12 units" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M23" start="1998" end="2031" text="Insulin Lispro mix 75/25 25 units" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M24" start="1934" end="1959" text=" Insulin Lispro mix 75/25" time="after DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC12" time="during DCT" indicator="high bp">
+      <HYPERTENSION id="H9" start="2769" end="2778" text="BP 160/70" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H10" start="774" end="792" text="BP &amp;gt;240/110mmHg" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H11" start="2769" end="2778" text="BP 160/70" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H12" start="2769" end="2778" text="BP 160/70" time="during DCT" indicator="high bp" comment=""/>
+    </HYPERTENSION>
+    <MEDICATION id="DOC13" time="before DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M25" start="1686" end="1696" text="Amlodipine" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M26" start="1686" end="1714" text="Amlodipine 10 mg p.o. daily." time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M27" start="1686" end="1696" text="Amlodipine" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC14" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H13" start="337" end="340" text="HTN" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H14" start="337" end="340" text="HTN" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H15" start="756" end="768" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H16" start="860" end="872" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H17" start="896" end="899" text="HTN" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H18" start="1448" end="1460" text="Hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H19" start="3803" end="3806" text="HTN" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H20" start="3906" end="3909" text="HTN" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H21" start="337" end="340" text="HTN" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <MEDICATION id="DOC15" time="after DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M28" start="2125" end="2135" text="etoprolol " time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M29" start="2124" end="2180" text="Metoprolol succinate extended release 150 mg p.o. daily." time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M30" start="2124" end="2134" text="Metoprolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <DIABETES id="DOC16" time="before DCT" indicator="mention">
+      <DIABETES id="D4" start="303" end="306" text="DM " time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D5" start="1199" end="1201" text="DM" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D6" start="2465" end="2467" text="DM" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D7" start="301" end="305" text="T2DM" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <MEDICATION id="DOC17" time="before DCT" type1="statin" type2="">
+      <MEDICATION id="M31" start="2310" end="2321" text="Simvastatin" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M32" start="2310" end="2340" text="Simvastatin 20 mg p.o. bedtime" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M33" start="2310" end="2321" text="Simvastatin" time="before DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC18" time="during DCT" type1="statin" type2="">
+      <MEDICATION id="M34" start="2310" end="2321" text="Simvastatin" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M35" start="2310" end="2340" text="Simvastatin 20 mg p.o. bedtime" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M36" start="2310" end="2321" text="Simvastatin" time="during DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <FAMILY_HIST id="DOC19" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <HYPERLIPIDEMIA id="DOC20" time="after DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY3" start="1462" end="1476" text="Hyperlipidemia" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY4" start="1462" end="1476" text="Hyperlipidemia" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY5" start="1462" end="1476" text="Hyperlipidemia" time="after DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <MEDICATION id="DOC21" time="before DCT" type1="aspirin" type2="">
+      <MEDICATION id="M37" start="1656" end="1664" text="Aspirin " time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M38" start="1656" end="1681" text="Aspirin 81 mg p.o. daily." time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M39" start="1656" end="1663" text="Aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC22" time="before DCT" indicator="high bp">
+      <HYPERTENSION id="H22" start="781" end="788" text="240/110" time="before DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H23" start="773" end="792" text=" BP &amp;gt;240/110mmHg" time="before DCT" indicator="high bp" comment=""/>
+    </HYPERTENSION>
+    <MEDICATION id="DOC23" time="before DCT" type1="nitrate" type2="">
+      <MEDICATION id="M40" start="810" end="824" text="nitroglycerine" time="before DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M41" start="810" end="824" text="nitroglycerine" time="before DCT" type1="nitrate" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC24" time="before DCT" type1="insulin" type2="">
+      <MEDICATION id="M42" start="1934" end="1942" text=" Insulin" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M43" start="1935" end="1968" text="Insulin Lispro mix 75/25 12 units" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M44" start="1998" end="2031" text="Insulin Lispro mix 75/25 25 units" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M45" start="1934" end="1959" text=" Insulin Lispro mix 75/25" time="before DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERLIPIDEMIA id="DOC25" time="before DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY6" start="1462" end="1476" text="Hyperlipidemia" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY7" start="1462" end="1476" text="Hyperlipidemia" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY8" start="1462" end="1476" text="Hyperlipidemia" time="before DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <MEDICATION id="DOC26" time="after DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M46" start="1686" end="1696" text="Amlodipine" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M47" start="1686" end="1714" text="Amlodipine 10 mg p.o. daily." time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M48" start="1686" end="1696" text="Amlodipine" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC27" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H24" start="337" end="340" text="HTN" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H25" start="337" end="340" text="HTN" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H26" start="756" end="768" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H27" start="860" end="872" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H28" start="896" end="899" text="HTN" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H29" start="1448" end="1460" text="Hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H30" start="3803" end="3806" text="HTN" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H31" start="3906" end="3909" text="HTN" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H32" start="337" end="340" text="HTN" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <MEDICATION id="DOC28" time="during DCT" type1="insulin" type2="">
+      <MEDICATION id="M49" start="1934" end="1942" text=" Insulin" time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M50" start="1935" end="1968" text="Insulin Lispro mix 75/25 12 units" time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M51" start="1998" end="2031" text="Insulin Lispro mix 75/25 25 units" time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M52" start="1934" end="1959" text=" Insulin Lispro mix 75/25" time="during DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC29" time="before DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M53" start="2125" end="2135" text="etoprolol " time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M54" start="2124" end="2180" text="Metoprolol succinate extended release 150 mg p.o. daily." time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M55" start="2124" end="2134" text="Metoprolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC30" time="during DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M56" start="2125" end="2135" text="etoprolol " time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M57" start="2124" end="2180" text="Metoprolol succinate extended release 150 mg p.o. daily." time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M58" start="2124" end="2134" text="Metoprolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <DIABETES id="DOC31" time="after DCT" indicator="mention">
+      <DIABETES id="D8" start="303" end="306" text="DM " time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D9" start="1199" end="1201" text="DM" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D10" start="2465" end="2467" text="DM" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D11" start="301" end="305" text="T2DM" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <PHI id="P0" start="16" end="26" text="2068-07-06" TYPE="DATE"/>
+    <PHI id="P1" start="81" end="89" text="7/6/2068" TYPE="DATE"/>
+    <PHI id="P2" start="96" end="113" text="Internal Medicine" TYPE="DEPARTMENT"/>
+    <PHI id="P3" start="122" end="126" text="Wise" TYPE="DOCTOR"/>
+    <PHI id="P4" start="144" end="151" text="Leonard" TYPE="DOCTOR"/>
+    <PHI id="P5" start="202" end="204" text="48" TYPE="AGE"/>
+    <PHI id="P6" start="394" end="404" text="PROMPTCARE" TYPE="HOSPITAL"/>
+    <PHI id="P7" start="448" end="452" text="7/01" TYPE="DATE"/>
+    <PHI id="P8" start="620" end="623" text="Fri" TYPE="DATE"/>
+    <PHI id="P9" start="628" end="631" text="Sun" TYPE="DATE"/>
+    <PHI id="P10" start="1363" end="1364" text="M" TYPE="DATE"/>
+    <PHI id="P11" start="1364" end="1365" text="W" TYPE="DATE"/>
+    <PHI id="P12" start="1365" end="1366" text="F" TYPE="DATE"/>
+    <PHI id="P13" start="1379" end="1404" text="Cochran Memorial Hospital" TYPE="HOSPITAL"/>
+    <PHI id="P14" start="1581" end="1585" text="2065" TYPE="DATE"/>
+    <PHI id="P15" start="1590" end="1594" text="2068" TYPE="DATE"/>
+    <PHI id="P16" start="1835" end="1841" text="Monday" TYPE="DATE"/>
+    <PHI id="P17" start="1843" end="1852" text="Wednesday" TYPE="DATE"/>
+    <PHI id="P18" start="1854" end="1860" text="Friday" TYPE="DATE"/>
+    <PHI id="P19" start="2405" end="2411" text="Monday" TYPE="DATE"/>
+    <PHI id="P20" start="2413" end="2422" text="Wednesday" TYPE="DATE"/>
+    <PHI id="P21" start="2424" end="2430" text="Friday" TYPE="DATE"/>
+    <PHI id="P22" start="2432" end="2438" text="Sunday" TYPE="DATE"/>
+    <PHI id="P23" start="2511" end="2518" text="3/10/68" TYPE="DATE"/>
+    <PHI id="P24" start="2538" end="2549" text="Panama City" TYPE="CITY"/>
+    <PHI id="P25" start="2576" end="2585" text="Needville" TYPE="CITY"/>
+    <PHI id="P26" start="3319" end="3321" text="48" TYPE="AGE"/>
+    <PHI id="P27" start="4115" end="4124" text="N Leonard" TYPE="DOCTOR"/>
+    <PHI id="P28" start="4127" end="4138" text="Howard Wise" TYPE="DOCTOR"/>
+    <PHI id="P29" start="4143" end="4148" text="39607" TYPE="PHONE"/>
+    <PHI id="P30" start="4149" end="4162" text="EDUCARE-FARGO" TYPE="HOSPITAL"/>
+  </TAGS>
+</root>

@@ -1,0 +1,155 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2085-07-25
+
+EDVISIT^51639357^NOONAN, FRANCE^07/25/85^ELROD, RYLEY
+
+This patient was seen with Dr. Ussery.  I confirm that I have
+
+interviewed and examined the patient, reviewed the resident's
+
+documentation on the patient's chart, and discussed the
+
+evaluation, plan of care, and disposition with the patient.
+
+HISTORY OF PRESENT ILLNESS:  This is a 73-year-old male with a
+
+history of cough and pleuritic type chest pain.  The patient
+
+denies any nausea or vomiting.  He does have history of MI as
+
+well as multiple risk factors for coronary artery disease.  He
+
+also reports lower extremities swelling worse than usual, and has
+
+left greater than right edema at baseline due to a reconstructive
+
+surgery following motor vehicle collision.  Of note, the
+
+patient's medications include Coumadin, which he is on for atrial
+
+fibrillation.
+
+PHYSICAL EXAMINATION:  The patient is awake, alert, and in no
+
+distress.  His vital signs show heart rate of 70, respiratory
+
+rate of 24, blood pressure 112/72, and oxygen saturation 96% on
+
+room air and 98% on 2 liters.  His lungs are clear and heart is
+
+irregularly irregular.  This is somewhat limited due to body
+
+habitus.  The abdomen is soft and there is a chronic left upper
+
+quadrant tenderness.  The back shows left CVA tenderness.
+
+LABORATORY DATA:  The laboratory analysis shows a hematocrit of
+
+42.1 and a white blood cell count of 7.6.  Cardiac biomarkers are
+
+negative, and the troponin is less than 0.1.  A d-dimer is less
+
+than 200.  The INR is 1.7.  UA is pending.  ECG shows an atrial
+
+fibrillation with some nonspecific T-wave changes in leads V3
+
+through V6.
+
+IMAGING STUDIES:  A chest radiograph was a markedly limited due
+
+to patient's habitus.
+
+DECISION MAKING AND EMERGENCY DEPARTMENT COURSE:  There was no
+
+clear etiology to the patient's shortness of breath.  Given his
+
+anticoagulation and a negative d-dimer, we feel that this is
+
+unlikely to be PE.  It is clearly possible to be cardiac, given
+
+the history of coronary artery disease and a slightly abnormal
+
+electrocardiogram.  This may be pneumonia, and the chest x-ray is
+
+not terribly helpful.  We are obtaining a CT scan of the chest
+
+without IV contrast to better delineate the pulmonary
+
+architecture, and are admitting the patient to the Medicine
+
+Service for monitoring and cycling of enzymes and ECGs.
+
+DIAGNOSES:
+
+1.  Shortness of breath.
+
+2.  T-wave inversions on electrocardiogram.
+
+______________________________
+
+ELROD, RYLEY M.D.
+
+D: 07/25/85
+
+T: 07/25/85
+
+Dictated By: ELROD, RYLEY
+
+eScription document:5-9812947 BFFocus
+
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <CAD id="DOC0" time="before DCT" indicator="mention">
+      <CAD id="C0" start="1993" end="2017" text="coronary artery disease " time="before DCT" indicator="mention" comment=""/>
+      <CAD id="C1" start="550" end="573" text="coronary artery disease" time="before DCT" indicator="mention" comment=""/>
+      <CAD id="C2" start="1993" end="2016" text="coronary artery disease" time="before DCT" indicator="mention" comment=""/>
+    </CAD>
+    <CAD id="DOC1" time="before DCT" indicator="event">
+      <CAD id="C3" start="498" end="512" text="history of MI " time="before DCT" indicator="event" comment=""/>
+      <CAD id="C4" start="509" end="511" text="MI" time="before DCT" indicator="event" comment=""/>
+      <CAD id="C5" start="509" end="511" text="MI" time="before DCT" indicator="event" comment=""/>
+    </CAD>
+    <CAD id="DOC2" time="during DCT" indicator="mention">
+      <CAD id="C6" start="1993" end="2017" text="coronary artery disease " time="during DCT" indicator="mention" comment=""/>
+      <CAD id="C7" start="550" end="573" text="coronary artery disease" time="during DCT" indicator="mention" comment=""/>
+      <CAD id="C8" start="1993" end="2016" text="coronary artery disease" time="during DCT" indicator="mention" comment=""/>
+    </CAD>
+    <FAMILY_HIST id="DOC3" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC4" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" status="unknown"/>
+      <SMOKER id="S2" status="unknown"/>
+    </SMOKER>
+    <CAD id="DOC5" time="after DCT" indicator="mention">
+      <CAD id="C9" start="1993" end="2017" text="coronary artery disease " time="after DCT" indicator="mention" comment=""/>
+      <CAD id="C10" start="550" end="573" text="coronary artery disease" time="after DCT" indicator="mention" comment=""/>
+      <CAD id="C11" start="1993" end="2016" text="coronary artery disease" time="after DCT" indicator="mention" comment=""/>
+    </CAD>
+    <PHI id="P0" start="16" end="26" text="2085-07-25" TYPE="DATE"/>
+    <PHI id="P1" start="36" end="44" text="51639357" TYPE="MEDICALRECORD"/>
+    <PHI id="P2" start="45" end="59" text="NOONAN, FRANCE" TYPE="PATIENT"/>
+    <PHI id="P3" start="60" end="68" text="07/25/85" TYPE="DATE"/>
+    <PHI id="P4" start="69" end="81" text="ELROD, RYLEY" TYPE="DOCTOR"/>
+    <PHI id="P5" start="114" end="120" text="Ussery" TYPE="DOCTOR"/>
+    <PHI id="P6" start="366" end="368" text="73" TYPE="AGE"/>
+    <PHI id="P7" start="2461" end="2473" text="ELROD, RYLEY" TYPE="DOCTOR"/>
+    <PHI id="P8" start="2483" end="2491" text="07/25/85" TYPE="DATE"/>
+    <PHI id="P9" start="2496" end="2504" text="07/25/85" TYPE="DATE"/>
+    <PHI id="P10" start="2519" end="2531" text="ELROD, RYLEY" TYPE="DOCTOR"/>
+    <PHI id="P11" start="2553" end="2562" text="5-9812947" TYPE="IDNUM"/>
+  </TAGS>
+</root>

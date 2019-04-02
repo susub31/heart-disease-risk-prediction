@@ -1,0 +1,201 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2094-12-24
+
+SECTIONS OF THIS NOTE WERE CREATED WITH A 'COPY AND PASTE' ACTION.  THESE SECTIONS MAY NOT HAVE COPIED COMPLETELY.  PLEASE USE CAUTION WHEN RENDERING CLINICAL JUDGMENT BASED ON THE INFORMATION IN THIS NOTE.
+Urology Consult Note
+
+
+Patient Name:  Michael Yee
+PH#:  69044681
+Date/Time:  12/24/94; 2:30 PM
+Attending:  Dr. Quintrell Ferreira
+
+
+CC:          presumed UTI in the setting of indwelling B ureteral stents
+
+
+HPI:          77M w/ multiple medical problems including muscular dystrophy and B ureteral obstruction (diagnosed 10/93 in the setting of B hydroureteronephrosis and ARF) managed initially with B ureteral stents (most recently changed 2/26/94), currently admitted to the medical service 12/23/94 with FTT, anemia, hyperkalemia, and a presumed UTI.
+
+
+He was brought to the PH ED yesterday by his wife, who noted that he was lethargic and confused for 3 days (reportedly similar to previous UTI presentations).  She felt that his urine output had decreased at home, and that his urine had been foul-smelling for two days.  He was treated empirically with levofloxacin and transfused 2U PRBC for HCT 26.  His Cr was elevated at 3.1, and his K was 6.4.  He was admitted to a telemetry bed on the medical service for management of the above issues.  The patient has been hemodynamically stable, and his only subjective complaint has been general malaise.
+
+
+We are consulted with the question of whether his stents may be changed during his current admission.
+
+
+PMH:        Duchenne&#8217;s muscular dystrophy, COPD (2.5L home O2), IDDM, recurrent UTIs w/ previous Candida tropicalis fungemia (followed by Dr. Phoebe Abreu), B ureteral obstruction s/p ureteral stent placement, CAD s/p CABG, PVD, SZ disorder, hyperkalemia secondary to hyperaldosteronemia (type III RTA), CRI (baseline 1.5)
+
+
+PSH:        CABG; cystoscopy, B RPG, B ureteral stent placement 11/93; cystoscopy, B ureteral stent change 2/94
+
+
+MED:        vancomycin, ceftriaxone, fluconazole, lactulose, senna, kayexalate, tramadol, sarna, nystatin, paxil, lipitor, lantus, humalog ISS, keppra, labetalol, meclizine, prilosec
+
+
+ALL:        PCN
+
+
+PE:           AVSS
+                NAD; alert, responsive, and interactive
+                S/NT/ND
+                Phallus uncircumcised w/ easily retractible foreskin; meatus WNL
+                Testes descended bilaterally and nontender
+                Foley to gravity draining clear urine with sediment
+
+
+LABS:      Chem7 (12/24) &#8211; 137/6.0/108/16/83/2.7/79
+                CBC (12/24) &#8211; 6.4/33.4/233
+                Coags (12/24) &#8211; 13/58/1.1
+                U/A (12/23) &#8211; 305W, &gt;100R, tr LE, neg NIT, 1+ bac, + pro, lg heme
+                UCx (12/23) &#8211; NGSF
+
+
+RADS:     CT A/P W/O CONTRAST &#8211; pending
+
+
+A/P:  77M w/ multiple medical problems including muscular dystrophy and B ureteral obstruction, now admitted w/ ARF, hyperkalemia, anemia, and a presumed UTI.  His U/A and UCx are not overwhelmingly c/w a UTI, but his clinical presentation was reportedly similar to prior UTI presentations.  He is being managed by ID.  His ureteral stents were last changed 2/94, but he has never obtained a diagnosis for his B ureteral obstruction.  His abdominal CT is pending.  He remains clinically stable, with significantly improved cognition and awareness since admission.  As such, we recommend:
+--F/U UCx and ID recs, as you are doing.
+--F/U CT A/P to assess for recurrent hydronephrosis.  Depending on the results of this study, we will consider ureteral stent change vs. staged removal.  Regardless of his eventual stent plan, he should be medically cleared for an operative procedure, which would entail stabilization of his hyperkalemia prior to undergoing anaesthesia.
+
+
+D/w Dr. Ferreira, who agrees with above plan.  Thank you for allowing us to continue our involvement in the care of this unfortunate patient.
+
+
+
+
+
+
+                                                                                                                                                                                                
+                                                                                                                Leo Richard Edward, III, M.D.
+                                                                                                                PGY-4 Urology Consult Resident
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="before DCT" type1="statin" type2="">
+      <MEDICATION id="M0" start="2057" end="2064" text="lipitor" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M1" start="2057" end="2064" text="lipitor" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M2" start="2057" end="2064" text="lipitor" time="before DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC1" time="during DCT" type1="statin" type2="">
+      <MEDICATION id="M3" start="2057" end="2064" text="lipitor" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M4" start="2057" end="2064" text="lipitor" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M5" start="2057" end="2064" text="lipitor" time="during DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC2" time="after DCT" type1="insulin" type2="">
+      <MEDICATION id="M6" start="2066" end="2072" text="lantus" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M7" start="2074" end="2081" text="humalog" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M8" start="2066" end="2072" text="lantus" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M9" start="2074" end="2081" text="humalog" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M10" start="2066" end="2072" text="lantus" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M11" start="2074" end="2081" text="humalog" time="after DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC3" time="after DCT" type1="statin" type2="">
+      <MEDICATION id="M12" start="2057" end="2064" text="lipitor" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M13" start="2057" end="2064" text="lipitor" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M14" start="2057" end="2064" text="lipitor" time="after DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <DIABETES id="DOC4" time="during DCT" indicator="mention">
+      <DIABETES id="D0" start="1568" end="1572" text="IDDM" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D1" start="1568" end="1572" text="IDDM" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <CAD id="DOC5" time="before DCT" indicator="event">
+      <CAD id="C0" start="1722" end="1726" text="CABG" time="before DCT" indicator="event" comment=""/>
+      <CAD id="C1" start="1841" end="1845" text="CABG" time="before DCT" indicator="event" comment=""/>
+      <CAD id="C2" start="1722" end="1726" text="CABG" time="before DCT" indicator="event" comment=""/>
+      <CAD id="C3" start="1718" end="1726" text="s/p CABG" time="before DCT" indicator="event" comment=""/>
+    </CAD>
+    <DIABETES id="DOC6" time="before DCT" indicator="mention">
+      <DIABETES id="D2" start="1568" end="1572" text="IDDM" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D3" start="1568" end="1572" text="IDDM" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <MEDICATION id="DOC7" time="before DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M15" start="2095" end="2104" text="labetalol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M16" start="2095" end="2104" text="labetalol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M17" start="2095" end="2104" text="labetalol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <DIABETES id="DOC8" time="after DCT" indicator="mention">
+      <DIABETES id="D4" start="1568" end="1572" text="IDDM" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D5" start="1568" end="1572" text="IDDM" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <CAD id="DOC9" time="before DCT" indicator="mention">
+      <CAD id="C4" start="1714" end="1717" text="CAD" time="before DCT" indicator="mention" comment=""/>
+      <CAD id="C5" start="1714" end="1717" text="CAD" time="before DCT" indicator="mention" comment=""/>
+      <CAD id="C6" start="1714" end="1717" text="CAD" time="before DCT" indicator="mention" comment=""/>
+    </CAD>
+    <CAD id="DOC10" time="during DCT" indicator="mention">
+      <CAD id="C7" start="1714" end="1717" text="CAD" time="during DCT" indicator="mention" comment=""/>
+      <CAD id="C8" start="1714" end="1717" text="CAD" time="during DCT" indicator="mention" comment=""/>
+      <CAD id="C9" start="1714" end="1717" text="CAD" time="during DCT" indicator="mention" comment=""/>
+    </CAD>
+    <MEDICATION id="DOC11" time="during DCT" type1="insulin" type2="">
+      <MEDICATION id="M18" start="2066" end="2072" text="lantus" time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M19" start="2074" end="2081" text="humalog" time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M20" start="2066" end="2072" text="lantus" time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M21" start="2074" end="2081" text="humalog" time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M22" start="2066" end="2072" text="lantus" time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M23" start="2074" end="2081" text="humalog" time="during DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC12" time="after DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M24" start="2095" end="2104" text="labetalol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M25" start="2095" end="2104" text="labetalol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M26" start="2095" end="2104" text="labetalol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <SMOKER id="DOC13" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" status="unknown"/>
+      <SMOKER id="S2" status="unknown"/>
+    </SMOKER>
+    <MEDICATION id="DOC14" time="during DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M27" start="2095" end="2104" text="labetalol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M28" start="2095" end="2104" text="labetalol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M29" start="2095" end="2104" text="labetalol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <CAD id="DOC15" time="after DCT" indicator="mention">
+      <CAD id="C10" start="1714" end="1717" text="CAD" time="after DCT" indicator="mention" comment=""/>
+      <CAD id="C11" start="1714" end="1717" text="CAD" time="after DCT" indicator="mention" comment=""/>
+      <CAD id="C12" start="1714" end="1717" text="CAD" time="after DCT" indicator="mention" comment=""/>
+    </CAD>
+    <FAMILY_HIST id="DOC16" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <MEDICATION id="DOC17" time="before DCT" type1="insulin" type2="">
+      <MEDICATION id="M30" start="2066" end="2072" text="lantus" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M31" start="2074" end="2081" text="humalog" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M32" start="2066" end="2072" text="lantus" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M33" start="2074" end="2081" text="humalog" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M34" start="2066" end="2072" text="lantus" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M35" start="2074" end="2081" text="humalog" time="before DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <PHI id="P0" start="16" end="26" text="2094-12-24" TYPE="DATE"/>
+    <PHI id="P1" start="273" end="284" text="Michael Yee" TYPE="PATIENT"/>
+    <PHI id="P2" start="285" end="287" text="PH" TYPE="HOSPITAL"/>
+    <PHI id="P3" start="291" end="299" text="69044681" TYPE="MEDICALRECORD"/>
+    <PHI id="P4" start="312" end="320" text="12/24/94" TYPE="DATE"/>
+    <PHI id="P5" start="346" end="364" text="Quintrell Ferreira" TYPE="DOCTOR"/>
+    <PHI id="P6" start="456" end="458" text="77" TYPE="AGE"/>
+    <PHI id="P7" start="556" end="561" text="10/93" TYPE="DATE"/>
+    <PHI id="P8" start="677" end="684" text="2/26/94" TYPE="DATE"/>
+    <PHI id="P9" start="729" end="737" text="12/23/94" TYPE="DATE"/>
+    <PHI id="P10" start="814" end="816" text="PH" TYPE="HOSPITAL"/>
+    <PHI id="P11" start="1646" end="1658" text="Phoebe Abreu" TYPE="DOCTOR"/>
+    <PHI id="P12" start="1893" end="1898" text="11/93" TYPE="DATE"/>
+    <PHI id="P13" start="1936" end="1940" text="2/94" TYPE="DATE"/>
+    <PHI id="P14" start="2473" end="2478" text="12/24" TYPE="DATE"/>
+    <PHI id="P15" start="2534" end="2539" text="12/24" TYPE="DATE"/>
+    <PHI id="P16" start="2585" end="2590" text="12/24" TYPE="DATE"/>
+    <PHI id="P17" start="2631" end="2636" text="12/23" TYPE="DATE"/>
+    <PHI id="P18" start="2722" end="2727" text="12/23" TYPE="DATE"/>
+    <PHI id="P19" start="2798" end="2800" text="77" TYPE="AGE"/>
+    <PHI id="P20" start="3150" end="3154" text="2/94" TYPE="DATE"/>
+    <PHI id="P21" start="3769" end="3777" text="Ferreira" TYPE="DOCTOR"/>
+    <PHI id="P22" start="4214" end="4237" text="Leo Richard Edward, III" TYPE="DOCTOR"/>
+  </TAGS>
+</root>

@@ -1,0 +1,226 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2096-12-29
+
+EDVISIT^28297534^OGRADY, MICHAEL^12/29/96^AVILA, KRISTOPHER
+
+CHIEF COMPLAINT:  Chest pressure.
+
+Mr. Ogrady is seen by the resident and also seen and examined by
+
+me.  He is a transfer from an outside hospital to be admitted
+
+because of his chest pain.
+
+HISTORY OF PRESENT ILLNESS:  This is a 67-year-old man who was
+
+loading some luggage in a car this morning at about 4:30 a.m.  At
+
+that time, he experienced acute onset of squeezing, chest pain,
+
+and chest pressure associated with shortness of breath.  He
+
+described his pain as being very intense about 9/10, described
+
+heaviness across his chest and shortness of breath.  He stated
+
+that while he was walking into his place his chest pain got worse
+
+and since then it was intermittent and stuttering in nature.  He
+
+was taken to Muncy Valley Hospital where he was seen, treated,
+
+and transferred here.  He is currently pain free.  At Oakridge State his troponin was negative.  His CPK was
+
+negative.  His EKG showed a Q-wave in III and aVF and had no
+
+acute ST elevation or ST depression on his cardiogram which
+
+correlates with our cardiogram here.
+
+PAST MEDICAL HISTORY:  His history, however, is significant in
+
+that he has a cardiac catheterization that was done in 06/2093. 
+
+At that time, he had proximal LAD lesion of 30%, left main was
+
+30%, and left circumflex was also 30%.  He had an RCA lesion
+
+which was 100%, RCA proximal lesion, with good collateral flow. 
+
+His last echocardiogram was in 03/2093.  At that time, his LV
+
+function was normal and he had an EF of 55% to 60%.  His past
+
+medical history is significant for diabetes and hypertension as
+
+well as high cholesterol, had an myocardial infarction in 2084,
+
+history of metastatic esophageal cancer and history of DVT in his
+
+left lower extremity in 2090.
+
+PAST SURGICAL HISTORY:  He has had an esophagectomy.  He
+
+underwent fem-pop bypass surgery in 2088.  He has also had a
+
+cholecystectomy and appendectomy.
+
+SOCIAL HISTORY:  He is a 40-pack-year smoker.
+
+FAMILY HISTORY:  Also, has a strong family history of cardiac
+
+disease.
+
+MEDICATIONS:  He is now pain free but described his pain this
+
+morning as squeezing, pressure like, and heaviness in his chest.
+
+PHYSICAL EXAMINATION:  His vital signs here are normal.  His
+
+HEENT exam is benign.  His neck is supple with clear lungs
+
+bilaterally.  He has a 3/6 systolic murmur.  He has no rubs or
+
+gallops.  His pulses are normal, well perfused throughout and
+
+warm extremities.  Abdomen is soft without any masses, good bowel
+
+sounds.  Extremities are normal.
+
+LABORATORY DATA:  EKG as described above again, a Q in III and
+
+aVF, otherwise no acute changes on his cardiogram.  His CK is 33
+
+and his troponin is negative.  His creatinine is 1.9 with a BUN
+
+of 27.  All other labs are normal including his blood sugar which
+
+is 156.
+
+EMERGENCY DEPARTMENT COURSE:  The patient's cardiologist is Dr.
+
+ ******** Not reviewed by Attending Physician ********
+
+rule out and maybe even need another cardiac catheterization if
+
+necessary.
+
+DIAGNOSIS:  Chest pain and chest pressure with history of an MI
+
+and history of coronary artery disease.
+
+______________________________
+
+AVILA, KRISTOPHER M.D.
+
+D: 12/29/96
+
+T: 12/29/96
+
+Dictated By: AVILA, KRISTOPHER
+
+eScription document:3-0867902 BFFocus
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <CAD id="DOC0" time="before DCT" indicator="mention">
+      <CAD id="C0" start="3113" end="3137" text="coronary artery disease." time="before DCT" indicator="mention" comment=""/>
+      <CAD id="C1" start="3102" end="3136" text="history of coronary artery disease" time="before DCT" indicator="mention" comment=""/>
+      <CAD id="C2" start="3102" end="3137" text="history of coronary artery disease." time="before DCT" indicator="mention" comment=""/>
+    </CAD>
+    <HYPERTENSION id="DOC1" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="1630" end="1642" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="1629" end="1642" text=" hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H2" start="1630" end="1642" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <CAD id="DOC2" time="before DCT" indicator="event">
+      <CAD id="C3" start="1680" end="1701" text="myocardial infarction" time="before DCT" indicator="event" comment=""/>
+      <CAD id="C4" start="1680" end="1701" text="myocardial infarction" time="before DCT" indicator="event" comment=""/>
+      <CAD id="C5" start="1673" end="1709" text="had an myocardial infarction in 2084" time="before DCT" indicator="event" comment=""/>
+      <CAD id="C6" start="3094" end="3096" text="MI" time="before DCT" indicator="event" comment=""/>
+    </CAD>
+    <HYPERLIPIDEMIA id="DOC3" time="before DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY0" start="1655" end="1671" text="high cholesterol" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY1" start="1655" end="1672" text="high cholesterol," time="before DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <SMOKER id="DOC4" status="ever">
+      <SMOKER id="S0" start="1990" end="2010" text="40-pack-year smoker." status="ever" comment=""/>
+      <SMOKER id="S1" start="2003" end="2009" text="smoker" status="ever" comment=""/>
+      <SMOKER id="S2" start="1982" end="2011" text="He is a 40-pack-year smoker. " status="ever" comment=""/>
+    </SMOKER>
+    <DIABETES id="DOC5" time="before DCT" indicator="mention">
+      <DIABETES id="D0" start="1617" end="1625" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D1" start="1617" end="1626" text="diabetes " time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D2" start="1617" end="1625" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <HYPERTENSION id="DOC6" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H3" start="1630" end="1642" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H4" start="1629" end="1642" text=" hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H5" start="1630" end="1642" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <FAMILY_HIST id="DOC7" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+    </FAMILY_HIST>
+    <HYPERLIPIDEMIA id="DOC8" time="after DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY2" start="1655" end="1671" text="high cholesterol" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY3" start="1655" end="1672" text="high cholesterol," time="after DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <DIABETES id="DOC9" time="after DCT" indicator="mention">
+      <DIABETES id="D3" start="1617" end="1625" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D4" start="1617" end="1626" text="diabetes " time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D5" start="1617" end="1625" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <CAD id="DOC10" time="during DCT" indicator="mention">
+      <CAD id="C7" start="3113" end="3137" text="coronary artery disease." time="during DCT" indicator="mention" comment=""/>
+      <CAD id="C8" start="3102" end="3136" text="history of coronary artery disease" time="during DCT" indicator="mention" comment=""/>
+      <CAD id="C9" start="3102" end="3137" text="history of coronary artery disease." time="during DCT" indicator="mention" comment=""/>
+    </CAD>
+    <HYPERTENSION id="DOC11" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H6" start="1630" end="1642" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H7" start="1629" end="1642" text=" hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H8" start="1630" end="1642" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <CAD id="DOC12" time="after DCT" indicator="mention">
+      <CAD id="C10" start="3113" end="3137" text="coronary artery disease." time="after DCT" indicator="mention" comment=""/>
+      <CAD id="C11" start="3102" end="3136" text="history of coronary artery disease" time="after DCT" indicator="mention" comment=""/>
+      <CAD id="C12" start="3102" end="3137" text="history of coronary artery disease." time="after DCT" indicator="mention" comment=""/>
+    </CAD>
+    <HYPERLIPIDEMIA id="DOC13" time="during DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY4" start="1655" end="1671" text="high cholesterol" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY5" start="1655" end="1672" text="high cholesterol," time="during DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <DIABETES id="DOC14" time="during DCT" indicator="mention">
+      <DIABETES id="D6" start="1617" end="1625" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D7" start="1617" end="1626" text="diabetes " time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D8" start="1617" end="1625" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <PHI id="P0" start="16" end="26" text="2096-12-29" TYPE="DATE"/>
+    <PHI id="P1" start="36" end="44" text="28297534" TYPE="MEDICALRECORD"/>
+    <PHI id="P2" start="45" end="60" text="OGRADY, MICHAEL" TYPE="PATIENT"/>
+    <PHI id="P3" start="61" end="69" text="12/29/96" TYPE="DATE"/>
+    <PHI id="P4" start="70" end="87" text="AVILA, KRISTOPHER" TYPE="DOCTOR"/>
+    <PHI id="P5" start="128" end="134" text="Ogrady" TYPE="PATIENT"/>
+    <PHI id="P6" start="320" end="322" text="67" TYPE="AGE"/>
+    <PHI id="P7" start="812" end="833" text="Muncy Valley Hospital" TYPE="HOSPITAL"/>
+    <PHI id="P8" start="917" end="931" text="Oakridge State" TYPE="HOSPITAL"/>
+    <PHI id="P9" start="1253" end="1260" text="06/2093" TYPE="DATE"/>
+    <PHI id="P10" start="1487" end="1494" text="03/2093" TYPE="DATE"/>
+    <PHI id="P11" start="1705" end="1709" text="2084" TYPE="DATE"/>
+    <PHI id="P12" start="1803" end="1807" text="2090" TYPE="DATE"/>
+    <PHI id="P13" start="1904" end="1908" text="2088" TYPE="DATE"/>
+    <PHI id="P14" start="3171" end="3188" text="AVILA, KRISTOPHER" TYPE="DOCTOR"/>
+    <PHI id="P15" start="3198" end="3206" text="12/29/96" TYPE="DATE"/>
+    <PHI id="P16" start="3211" end="3219" text="12/29/96" TYPE="DATE"/>
+    <PHI id="P17" start="3234" end="3251" text="AVILA, KRISTOPHER" TYPE="DOCTOR"/>
+    <PHI id="P18" start="3273" end="3282" text="3-0867902" TYPE="IDNUM"/>
+  </TAGS>
+</root>

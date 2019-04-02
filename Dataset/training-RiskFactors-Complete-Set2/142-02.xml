@@ -1,0 +1,137 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2078-12-16
+
+
+	CARDIOLOGY
+	
+
+	PREAKNESS HEALTHCARE CENTER
+	
+
+
+	Reason for visit:
+
+	
+
+
+	Interval History:
+   Roger Easterling, M.D. 
+27 Caroll St, #734 
+Bluefield, ME 12111 
+
+Dear Dr. Easterling: 
+
+We had the pleasure of seeing Brian Martin in the Cardiology Service for follow up of rapid heart action. At his last visit we gave him a 30-day loop event recorder for arrhythmia surveillance due to palpitations. Since that point he has transmitted events showing rapid atrial fibrillation up to 160 Bpm associated with chest discomfort, jaw pain and chest thumping. These episodes occur on a random basis and last up to 45 minutes. He does not identify any precipitating factors and symptoms resolve spontaneously. He denies dyspnea, PND, orthopnea, lightheadedness, pre syncope or syncope. He reportedly has had a negative stress test and echocardiogram. He is not on any medications. He has never been on Coumadin. 
+
+
+	Past medical history:
+   1. Paroxysmal Atrial Fibrillation 
+2. Nonalcoholic steatotic hepatitis 
+3. Palpitations 
+4. Rotator cuff surgery in 2071
+
+	
+
+	Changes to Allergies
+	
+NKA: No Known Allergies - reaction: [reviewed]
+
+
+	Medications (Confirmed):
+
+	
+
+
+	Family history:
+   Mother died at age 62 of a heart attack. He has four siblings, all in good health. 
+
+
+	Social history:
+   He is married with two sons, age 21 and 18, both of whom are in good health. He works as an Revenue Officer for Springfield Armory Inc in Picture Rocks, Maine. 
+
+Habits: He has never used street drugs. He does not smoke tobacco. He drinks 6 beers/alcohol per week and 2 cups of coffee per day.
+
+
+	Review of systems:
+   Negative in detail as detailed on his questionnaire and confirmed during the office visit.
+
+Physical examination:
+	
+-BMI: 29.3  Overweight, moderate risk
+-Pulse: 64  BPM regular
+-resp. rate: 16  unlabored
+-height: 68  in.
+-weight: 192  lbs.
+-General:   Alert, pleasant and cooperative
+-Skin:   Warm, dry and intact
+-HEENT:   Normocephalic and atraumatic
+-Neck:   Trachea is midline, no thyromegaly, no lymphadenopathy, carotid pulses are 2+ equal bilaterally without bruits. 
+-Chest:   Clear to auscultation anteriorly and posteriorly.  
+-Cardiac:   S1S2 without murmurs, rubs, gallops, thrills or heaves.  PMI is at 5th ICS, MCL.  JVP is at 5 cm water. 
+-Extremities:   No peripheral edema.  DP/PT pulses 2+ equal and strong.  
+-BP: 140/90  
+
+
+	EKG:
+   Sinus Rhythm 64 Bpm. PR Interval 134 ms, QRS 90 ms, QT/QTc 392/404 ms. 
+
+
+	Assessment and plan:
+   Mr. Martin is a 52-year-old male with paroxysmal atrial fibrillation. We have discussed the physiology of the electrical conduction system and the pathophysiology of atrial fibrillation. We have discussed treatment options including rate control, rhythm control or pulmonary vein isolation. We have scheduled him for nuclear stress test to R/O ischemia given his symptoms of chest discomfort and new onset of atrial fibrillation and will send him for echocardiogram to R/O structural heart disease. 
+
+We have had a long discussion regarding Cryo Ablation and if his diagnostic testing is within normal limits he would like to possibly consider this as an option for treatment. We have started him on Toprol XL 50 mg daily. If his diagnostic testing is within normal limits we will proceed initially with starting Class IC antiarrhythmic for the treatment of his atrial fibrillation. We will continue a discussion regarding Cryo Ablation and continue medical management. He has a CHAD2 Score of 0. We will therefore recommend treating with Aspirin 325 mg daily for prophylactic embolic protection and would not recommend coumadin at this time. 
+
+We will complete diagnostic testing, follow up with the results and then proceed. We have encouraged him to call with any questions, concerns, or changes in health status. Please do not hesitate to contact us with any questions in regard to his care. 
+
+Vonda Tara Ulloa, NP 
+
+The patient was seen by Dr. Ivers who reviewed the history, physical examination and relevant diagnostic test reports and determined the assessment and plan. 
+
+Norman C. Ivers, M.D.
+
+Changes to Medications this visit
+	
+Toprol XL 50 mg  po daily QTY:30 Start: 12/16/2078
+
+	
+Vonda T. Ulloa, NP
+
+	
+Norman C. Ivers, MD
+
+	
+Signed electronically by  Vonda T. Ulloa, NP; Norman C. Ivers, MD
+Document Status: Final
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC2" time="after DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M0" start="3187" end="3196" text="Toprol XL" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M1" start="3187" end="3193" text="Toprol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC3" time="during DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M2" start="3187" end="3196" text="Toprol XL" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M3" start="3187" end="3193" text="Toprol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M4" start="4127" end="4133" text="Toprol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC0" time="during DCT" indicator="high bp">
+      <HYPERTENSION id="H0" start="2363" end="2376" text="-BP: 140/90  " time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H1" start="2363" end="2376" text="-BP: 140/90  " time="during DCT" indicator="high bp" comment=""/>
+    </HYPERTENSION>
+    <FAMILY_HIST id="DOC1" indicator="present">
+      <FAMILY_HIST id="F0" start="1208" end="1248" text=" Mother died at age 62 of a heart attack" indicator="present" comment=""/>
+      <FAMILY_HIST id="F1" start="1228" end="1249" text="62 of a heart attack." indicator="present" comment=""/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC4" status="never">
+      <SMOKER id="S0" start="1516" end="1542" text=" He does not smoke tobacco" status="never" comment=""/>
+      <SMOKER id="S1" start="1520" end="1536" text="does not smoke t" status="never" comment=""/>
+      <SMOKER id="S2" start="1520" end="1542" text="does not smoke tobacco" status="never" comment=""/>
+    </SMOKER>
+  </TAGS>
+</root>

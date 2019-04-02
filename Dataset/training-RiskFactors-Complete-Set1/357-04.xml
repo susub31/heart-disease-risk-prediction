@@ -1,0 +1,207 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2080-01-18
+
+
+Date 01/18/2080 TIPTREE VASCULAR SURGERY CONSULT NOTE 
+PATIENT: Massey, Ramona
+MRN: 44690336
+Attending: Andersen
+HPI: 
+
+
+The patient is a 79yF with ESRD on HD. She is being dialyzed via a right brachiocephalic fistula that was created in Nov 2075. The patient is a very poor historian and the subsequent information has been collected from the medical record. While the fistula is beng used successfully for dialysis, it has undergone aneurysmal dilatation and the patient has also developed non-healing areas over the fistula at points of access. There is note made in the chart that the patient has had difficulty with recurrent outflow stenosis and for this she seems to have undergone angioplasty at Brooks Hospital (no record in LMR) recently. The patient does not have any complaints. 
+PMH: 
+ESRD on HD; CKD; DM; HTN; HL
+PSH: 
+Right brachiocephalic AV fistula creation 11/75; right forearm loop AV graft creation 02/75; right antecubital AV fistula creation 03/74; right snuff box AV fistula creation 10/70
+MEDS (In house): 
+ASA 81mg po qday; Calcium acetate 667mg po qac; Captopril 62.5mg po tid; Colace 100mg po qday; Heparin 5000U sc tid; Metoprolol 50mg pot id; Pravastatin 40mg po qhs; amlodipine 5mg po qday; Donepezil 5mg po qday; Nephrocaps 1tab po qday; RISS
+ALL: 
+NKDA
+FH: 
+NC
+SH: 
+Lives with her daughter in Brewton, VA; goes to dialysis TThSa
+PE: 98.7 65 120/62 18 95% RA
+Elderly woman sitting up in chair with Posey jacket on; appears comfortable; focused physical exam reveals right upper arm with well-healed incisions over forearm, graft in forearm without thrill, brachiocephalic fistula with aneurysmal changes, more prominently toward antecubital fossa, skin with small non-healing ulcers, strongly palpable thrill; radial pulse 1+, hand warm
+--
+
+
+Labs 
+Chem: 136/ 4.4/ 93/ 29/ 72/ 9.6/ 170
+CBC: 7.3/ 35.3/ 208
+Coags: 14.4/ 1.1/ 27.5
+--
+
+
+ASSESSMENT / PLAN:
+79yF with ESRD on HD being dialysed via right brachiocephalic fistula that is aneurysmal. Per the record she may also have outflow stenosis.
+- Will discuss further management (fistulogram vs intervention vs follow up in clinic) with Dr. Andersen
+- We will follow with you
+--
+Discussed with Dr. Sean Ferreira, Vascular Surgery fellow, who agrees with assessment and plan. Will discuss with Dr. Andersen. 
+
+
+________________
+Gabrielle Valdez
+PGY-2
+77183
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="during DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M0" start="1108" end="1117" text="Captopril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M1" start="1108" end="1117" text="Captopril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M2" start="1108" end="1118" text="Captopril " time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC1" time="after DCT" type1="statin" type2="">
+      <MEDICATION id="M3" start="1201" end="1213" text="Pravastatin " time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M4" start="1201" end="1212" text="Pravastatin" time="after DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC2" time="during DCT" type1="aspirin" type2="">
+      <MEDICATION id="M5" start="1060" end="1063" text="ASA" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M6" start="1060" end="1063" text="ASA" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M7" start="1060" end="1063" text="ASA" time="during DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC3" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="847" end="851" text=" HTN" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="848" end="851" text="HTN" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H2" start="848" end="851" text="HTN" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <MEDICATION id="DOC4" time="after DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M8" start="1108" end="1117" text="Captopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M9" start="1108" end="1117" text="Captopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC5" time="before DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M10" start="1108" end="1117" text="Captopril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M11" start="1108" end="1117" text="Captopril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <DIABETES id="DOC6" time="during DCT" indicator="mention">
+      <DIABETES id="D0" start="844" end="846" text="DM" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D1" start="844" end="846" text="DM" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D2" start="844" end="846" text="DM" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <MEDICATION id="DOC7" time="after DCT" type1="aspirin" type2="">
+      <MEDICATION id="M12" start="1060" end="1063" text="ASA" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M13" start="1060" end="1063" text="ASA" time="after DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERLIPIDEMIA id="DOC8" time="during DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY0" start="853" end="855" text="HL" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY1" start="853" end="855" text="HL" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY2" start="853" end="855" text="HL" time="during DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <MEDICATION id="DOC9" time="during DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M14" start="1226" end="1236" text="amlodipine" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M15" start="1226" end="1236" text="amlodipine" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M16" start="1226" end="1236" text="amlodipine" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC10" time="before DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M17" start="1226" end="1236" text="amlodipine" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M18" start="1226" end="1236" text="amlodipine" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC11" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H3" start="847" end="851" text=" HTN" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H4" start="848" end="851" text="HTN" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H5" start="848" end="851" text="HTN" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <MEDICATION id="DOC12" time="after DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M19" start="1177" end="1187" text="Metoprolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M20" start="1177" end="1187" text="Metoprolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <SMOKER id="DOC13" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" status="unknown"/>
+      <SMOKER id="S2" start="1322" end="1324" text="SH" status="unknown" comment=""/>
+    </SMOKER>
+    <DIABETES id="DOC14" time="before DCT" indicator="mention">
+      <DIABETES id="D3" start="844" end="846" text="DM" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D4" start="844" end="846" text="DM" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D5" start="844" end="846" text="DM" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <MEDICATION id="DOC15" time="before DCT" type1="statin" type2="">
+      <MEDICATION id="M21" start="1201" end="1213" text="Pravastatin " time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M22" start="1201" end="1212" text="Pravastatin" time="before DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC16" time="during DCT" type1="statin" type2="">
+      <MEDICATION id="M23" start="1201" end="1213" text="Pravastatin " time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M24" start="1201" end="1212" text="Pravastatin" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M25" start="1201" end="1212" text="Pravastatin" time="during DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <FAMILY_HIST id="DOC17" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <HYPERLIPIDEMIA id="DOC18" time="after DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY3" start="853" end="855" text="HL" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY4" start="853" end="855" text="HL" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY5" start="853" end="855" text="HL" time="after DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <MEDICATION id="DOC19" time="before DCT" type1="aspirin" type2="">
+      <MEDICATION id="M26" start="1060" end="1063" text="ASA" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M27" start="1060" end="1063" text="ASA" time="before DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERLIPIDEMIA id="DOC20" time="before DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY6" start="853" end="855" text="HL" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY7" start="853" end="855" text="HL" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY8" start="853" end="855" text="HL" time="before DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <MEDICATION id="DOC21" time="after DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M28" start="1226" end="1236" text="amlodipine" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M29" start="1226" end="1236" text="amlodipine" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC22" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H6" start="847" end="851" text=" HTN" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H7" start="848" end="851" text="HTN" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H8" start="848" end="851" text="HTN" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <MEDICATION id="DOC23" time="during DCT" type1="insulin" type2="">
+      <MEDICATION id="M30" start="1298" end="1302" text="RISS" time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M31" start="1298" end="1302" text="RISS" time="during DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC24" time="before DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M32" start="1177" end="1187" text="Metoprolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M33" start="1177" end="1187" text="Metoprolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC25" time="during DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M34" start="1177" end="1187" text="Metoprolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M35" start="1177" end="1187" text="Metoprolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M36" start="1177" end="1187" text="Metoprolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <DIABETES id="DOC26" time="after DCT" indicator="mention">
+      <DIABETES id="D6" start="844" end="846" text="DM" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D7" start="844" end="846" text="DM" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D8" start="844" end="846" text="DM" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <PHI id="P0" start="16" end="26" text="2080-01-18" TYPE="DATE"/>
+    <PHI id="P1" start="34" end="44" text="01/18/2080" TYPE="DATE"/>
+    <PHI id="P2" start="45" end="52" text="TIPTREE" TYPE="HOSPITAL"/>
+    <PHI id="P3" start="93" end="107" text="Massey, Ramona" TYPE="PATIENT"/>
+    <PHI id="P4" start="113" end="121" text="44690336" TYPE="MEDICALRECORD"/>
+    <PHI id="P5" start="133" end="141" text="Andersen" TYPE="DOCTOR"/>
+    <PHI id="P6" start="167" end="169" text="79" TYPE="AGE"/>
+    <PHI id="P7" start="267" end="275" text="Nov 2075" TYPE="DATE"/>
+    <PHI id="P8" start="733" end="748" text="Brooks Hospital" TYPE="HOSPITAL"/>
+    <PHI id="P9" start="904" end="909" text="11/75" TYPE="DATE"/>
+    <PHI id="P10" start="948" end="953" text="02/75" TYPE="DATE"/>
+    <PHI id="P11" start="993" end="998" text="03/74" TYPE="DATE"/>
+    <PHI id="P12" start="1036" end="1041" text="10/70" TYPE="DATE"/>
+    <PHI id="P13" start="1354" end="1361" text="Brewton" TYPE="CITY"/>
+    <PHI id="P14" start="1363" end="1365" text="VA" TYPE="STATE"/>
+    <PHI id="P15" start="1384" end="1385" text="T" TYPE="DATE"/>
+    <PHI id="P16" start="1385" end="1387" text="Th" TYPE="DATE"/>
+    <PHI id="P17" start="1387" end="1389" text="Sa" TYPE="DATE"/>
+    <PHI id="P18" start="1912" end="1914" text="79" TYPE="AGE"/>
+    <PHI id="P19" start="2149" end="2157" text="Andersen" TYPE="DOCTOR"/>
+    <PHI id="P20" start="2206" end="2219" text="Sean Ferreira" TYPE="DOCTOR"/>
+    <PHI id="P21" start="2305" end="2313" text="Andersen" TYPE="DOCTOR"/>
+    <PHI id="P22" start="2335" end="2351" text="Gabrielle Valdez" TYPE="DOCTOR"/>
+    <PHI id="P23" start="2358" end="2363" text="77183" TYPE="PHONE"/>
+  </TAGS>
+</root>

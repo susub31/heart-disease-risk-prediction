@@ -1,0 +1,147 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2078-07-15
+
+Reason for Visit	
+
+Owen is 61 y/o male c/o difficulty loosing weight. Tries to watch diet. Walks QOD. 2- Occ soreness in ears. No change hearing. No dc. 3- Occ soreness left knee. Had major trauma and surgery in past. Other joints are fine. 
+
+PMH: OA,HTN,Prior skin ulcer, partially severed LLE, appendectomy, cholecystectomy,irridectomy, past smoker.
+
+Medications	    
+
+ATENOLOL	 25MG PO QD
+
+VITAMIN E	    PO QD
+
+ASA	    PO 
+
+AMPICILLIN	    PO 
+
+
+
+Allergies	    
+
+NKDA	 NONE
+
+
+
+Family History	
+
+CVA,HTN.
+
+
+
+Social History	
+
+LIves with mother. Conference and Event Planner.
+
+
+
+Habits	
+
+No cigs. Occ ETOH.
+
+
+
+Review of Systems	
+
+GEN-sleep is fine. No depression. No complaints related to HENT. Eye exam 8/77. NO complaints related to neck. Occ wheeze otherwise no pulm symptoms. No CVS, GI, GU, or CNS
+
+
+
+Physical Exam	
+
+BP 146/90' WT-244; P-84; NAD,WD,WN. HEENT-no tenderness; sclera and conj unremarkable, EOMI,PERLA, fundi-discs sharp; canals clear with normal TMs and landmarks. no lesions, exudate, erythema of M&T. Neck- supple with no lymphadenopathy, thyromegaly, bruit, JVD, Chest-clear A&P; Cor- reg rhythm, S1S2 normal with no murmer or gallop; Abdo- normal BS,soft with no mass,HSM or tenderness. DRE_ normal sized prostate with no nodules. Ext- hyperpig LLE; + edema LLE; No crepitus , or DROM. DP +1 bilat. 
+
+
+
+Assessment	
+
+Borderline BP but very excited. Knee pain due to prior trauma. Chr derm changes LLE. Overweight.
+
+
+
+Disposition and Plans	
+
+Diet educ. FOBT. PSA. Cont meds. RTC 6 mon or PRN.
+
+
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="during DCT" type1="aspirin" type2="">
+      <MEDICATION id="M0" start="442" end="445" text="ASA" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M1" start="442" end="446" text="ASA " time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M2" start="442" end="452" text="ASA     PO" time="during DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC1" time="before DCT" type1="aspirin" type2="">
+      <MEDICATION id="M3" start="442" end="445" text="ASA" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M4" start="442" end="446" text="ASA " time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M5" start="442" end="452" text="ASA     PO" time="before DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC2" time="during DCT" indicator="high bp">
+      <HYPERTENSION id="H0" start="848" end="857" text="BP 146/90" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H1" start="848" end="857" text="BP 146/90" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H2" start="848" end="857" text="BP 146/90" time="during DCT" indicator="high bp" comment=""/>
+    </HYPERTENSION>
+    <SMOKER id="DOC3" status="past">
+      <SMOKER id="S0" start="367" end="378" text="past smoker" status="past" comment=""/>
+      <SMOKER id="S1" start="367" end="380" text="past smoker. " status="past" comment=""/>
+      <SMOKER id="S2" start="367" end="378" text="past smoker" status="past" comment=""/>
+      <SMOKER id="S3" start="614" end="621" text="No cigs" status="past" comment=""/>
+    </SMOKER>
+    <HYPERTENSION id="DOC4" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H3" start="279" end="282" text="HTN" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H4" start="279" end="282" text="HTN" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H5" start="279" end="282" text="HTN" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <MEDICATION id="DOC5" time="before DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M6" start="399" end="407" text="ATENOLOL" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M7" start="399" end="407" text="ATENOLOL" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M8" start="399" end="419" text="ATENOLOL  25MG PO QD" time="before DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC6" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H6" start="279" end="282" text="HTN" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H7" start="279" end="282" text="HTN" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H8" start="279" end="282" text="HTN" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <MEDICATION id="DOC7" time="after DCT" type1="aspirin" type2="">
+      <MEDICATION id="M9" start="442" end="445" text="ASA" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M10" start="442" end="446" text="ASA " time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M11" start="442" end="452" text="ASA     PO" time="after DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC8" time="after DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M12" start="399" end="407" text="ATENOLOL" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M13" start="399" end="407" text="ATENOLOL" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M14" start="399" end="419" text="ATENOLOL  25MG PO QD" time="after DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC9" time="during DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M15" start="399" end="407" text="ATENOLOL" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M16" start="399" end="407" text="ATENOLOL" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M17" start="399" end="419" text="ATENOLOL  25MG PO QD" time="during DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC10" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H9" start="279" end="282" text="HTN" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H10" start="279" end="282" text="HTN" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H11" start="279" end="282" text="HTN" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <FAMILY_HIST id="DOC11" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <PHI id="P0" start="16" end="26" text="2078-07-15" TYPE="DATE"/>
+    <PHI id="P1" start="47" end="51" text="Owen" TYPE="PATIENT"/>
+    <PHI id="P2" start="55" end="57" text="61" TYPE="AGE"/>
+    <PHI id="P3" start="572" end="600" text="Conference and Event Planner" TYPE="PROFESSION"/>
+    <PHI id="P4" start="730" end="734" text="8/77" TYPE="DATE"/>
+  </TAGS>
+</root>

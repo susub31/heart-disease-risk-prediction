@@ -1,0 +1,196 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2163-02-25
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+February 25, 2163
+
+
+
+
+
+Barbara Chavez, M.D.
+
+NMC
+
+Internal Medicine
+
+IMA 1
+
+NXO 2-359
+
+
+
+RE:  William Le
+
+MRN:  054-00-99
+
+DOB:  09/03/2089
+
+
+
+DOS:  02/25/2163
+
+
+
+Dear Dr Chavez,
+
+
+
+Mr. William Le return for follow-up in the Neurology clinic today.  He still has significant difficulty walking, and he is falling frequently at home. He has not sustained any significant injuries.  He has numbness and paresthesias of his feet, but there has been no interval change in his symptoms since his last visit in November 2162.
+
+
+
+Medications:  Neurontin 300mg TID, Lasix 40mg daily, aspirin, Atenolol 50mg daily, Zetia 10mg, Pravastatin 20mg, Nexium and multi vitamins.
+
+
+
+Examination:  reveals that strength testing in the legs is normal.  He has absent deep tendon reflexes of the ankles, trace to 1+ at the knees.  Romberg's test is positive, and the patient has difficulty standing without assistance.  Despite the degree of sensory ataxia, he is still able to feel position sense at the metatarsophalangeal joints in his feet. Vibration and pinprick sensation are diminished.
+
+
+
+Data Review:  The patient does have a persistent low concentration of monoclonal protein in the slow gamma region.  This is unchanged compared to the previous study done in February 2162. This most likely is a MGUS.
+
+
+
+Impression and Recommendation:  The patient has poorly controlled diabetes, complicated by polyneuropathy.  The monoclonal protein is an incidental finding and is probably not accounting for his peripheral neuropathy.  Given that the monoclonal protein has not changed in concentration or character I do not believe that there is a need for additional testing at this stage.  He will continue with Neurontin to manage his neuropathic symptoms.  I have urged him to try and maintain good diabetic control. Follow-up in 6 months
+
+
+
+
+
+Sincerely,
+
+
+
+
+
+
+
+Charles Tisdale      
+
+      
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="before DCT" type1="statin" type2="">
+      <MEDICATION id="M0" start="664" end="675" text="Pravastatin" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M1" start="664" end="675" text="Pravastatin" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M2" start="664" end="675" text="Pravastatin" time="before DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC1" time="during DCT" type1="statin" type2="">
+      <MEDICATION id="M3" start="664" end="675" text="Pravastatin" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M4" start="664" end="675" text="Pravastatin" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M5" start="664" end="675" text="Pravastatin" time="during DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC2" time="during DCT" type1="aspirin" type2="">
+      <MEDICATION id="M6" start="622" end="630" text="aspirin," time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M7" start="622" end="629" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M8" start="622" end="629" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC3" time="after DCT" type1="ezetimibe" type2="">
+      <MEDICATION id="M9" start="652" end="658" text="Zetia " time="after DCT" type1="ezetimibe" type2="" comment=""/>
+      <MEDICATION id="M10" start="652" end="657" text="Zetia" time="after DCT" type1="ezetimibe" type2="" comment=""/>
+      <MEDICATION id="M11" start="652" end="657" text="Zetia" time="after DCT" type1="ezetimibe" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC4" time="after DCT" type1="statin" type2="">
+      <MEDICATION id="M12" start="664" end="675" text="Pravastatin" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M13" start="664" end="675" text="Pravastatin" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M14" start="664" end="675" text="Pravastatin" time="after DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC5" time="before DCT" type1="ezetimibe" type2="">
+      <MEDICATION id="M15" start="652" end="658" text="Zetia " time="before DCT" type1="ezetimibe" type2="" comment=""/>
+      <MEDICATION id="M16" start="652" end="657" text="Zetia" time="before DCT" type1="ezetimibe" type2="" comment=""/>
+      <MEDICATION id="M17" start="652" end="657" text="Zetia" time="before DCT" type1="ezetimibe" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC6" time="after DCT" type1="aspirin" type2="">
+      <MEDICATION id="M18" start="622" end="630" text="aspirin," time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M19" start="622" end="629" text="aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M20" start="622" end="629" text="aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC7" time="before DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M21" start="630" end="640" text=" Atenolol " time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M22" start="631" end="639" text="Atenolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M23" start="631" end="639" text="Atenolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <DIABETES id="DOC8" time="after DCT" indicator="mention">
+      <DIABETES id="D0" start="1408" end="1416" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D1" start="1408" end="1416" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <MEDICATION id="DOC9" time="during DCT" type1="ezetimibe" type2="">
+      <MEDICATION id="M24" start="652" end="658" text="Zetia " time="during DCT" type1="ezetimibe" type2="" comment=""/>
+      <MEDICATION id="M25" start="652" end="657" text="Zetia" time="during DCT" type1="ezetimibe" type2="" comment=""/>
+      <MEDICATION id="M26" start="652" end="657" text="Zetia" time="during DCT" type1="ezetimibe" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC10" time="before DCT" type1="aspirin" type2="">
+      <MEDICATION id="M27" start="622" end="630" text="aspirin," time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M28" start="622" end="629" text="aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M29" start="622" end="629" text="aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC11" time="after DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M30" start="630" end="640" text=" Atenolol " time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M31" start="631" end="639" text="Atenolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M32" start="631" end="639" text="Atenolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <SMOKER id="DOC12" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" status="unknown"/>
+      <SMOKER id="S2" start="3" end="9" text="Record" status="unknown" comment=""/>
+    </SMOKER>
+    <MEDICATION id="DOC13" time="during DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M33" start="630" end="640" text=" Atenolol " time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M34" start="631" end="639" text="Atenolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M35" start="631" end="639" text="Atenolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <DIABETES id="DOC14" time="before DCT" indicator="mention">
+      <DIABETES id="D2" start="1408" end="1416" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D3" start="1408" end="1416" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <FAMILY_HIST id="DOC15" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <DIABETES id="DOC16" time="during DCT" indicator="mention">
+      <DIABETES id="D4" start="1408" end="1416" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D5" start="1408" end="1416" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <PHI id="P0" start="16" end="26" text="2163-02-25" TYPE="DATE"/>
+    <PHI id="P1" start="46" end="63" text="February 25, 2163" TYPE="DATE"/>
+    <PHI id="P2" start="69" end="83" text="Barbara Chavez" TYPE="DOCTOR"/>
+    <PHI id="P3" start="91" end="94" text="NMC" TYPE="HOSPITAL"/>
+    <PHI id="P4" start="119" end="120" text="1" TYPE="ROOM"/>
+    <PHI id="P5" start="122" end="131" text="NXO 2-359" TYPE="MEDICALRECORD"/>
+    <PHI id="P6" start="140" end="150" text="William Le" TYPE="PATIENT"/>
+    <PHI id="P7" start="158" end="167" text="054-00-99" TYPE="MEDICALRECORD"/>
+    <PHI id="P8" start="175" end="185" text="09/03/2089" TYPE="DATE"/>
+    <PHI id="P9" start="195" end="205" text="02/25/2163" TYPE="DATE"/>
+    <PHI id="P10" start="217" end="223" text="Chavez" TYPE="DOCTOR"/>
+    <PHI id="P11" start="232" end="242" text="William Le" TYPE="PATIENT"/>
+    <PHI id="P12" start="551" end="564" text="November 2162" TYPE="DATE"/>
+    <PHI id="P13" start="1296" end="1309" text="February 2162" TYPE="DATE"/>
+    <PHI id="P14" start="1892" end="1907" text="Charles Tisdale" TYPE="DOCTOR"/>
+  </TAGS>
+</root>

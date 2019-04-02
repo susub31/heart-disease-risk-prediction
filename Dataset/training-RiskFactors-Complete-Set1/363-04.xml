@@ -1,0 +1,186 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2097-11-02
+
+EDOBS^14477347^BENNETT, NANCY^11/02/97^OAKLEY, ALBERT
+
+This is a shared visit with resident, Dr. Cantrell.
+
+HISTORY OF PRESENT ILLNESS:  Briefly, this is a 79-year-old
+
+female with a past history of insulin-dependent diabetes,
+
+bronchitis, congestive heart failure with an ejection fraction of
+
+65%, COPD, and polyarteritis presenting here with some
+
+generalized weakness since yesterday.  She has no focal deficits.
+
+ She had no fall, no fevers, no chest pain, no shortness of
+
+breath, no abdominal pain, no nausea, no vomiting, and no
+
+diarrhea.  She is able to ambulate with a walker.  She denies
+
+headache.  She was feeling well until yesterday.  She had no
+
+recent medication changes.  She has chronic lower extremity
+
+edema, left greater than right.  She has stable 2-pillow
+
+orthopnea.  She is followed by Dr. Whitman of Cardiology.  She
+
+takes Lasix 80 mg twice daily among other medications and the
+
+status was stable.  She had a normal cardiac stress test
+
+approximately 4 months ago.
+
+PHYSICAL EXAMINATION:  She presents with a heart rate of 84,
+
+respiratory rate of 16, blood pressure initially of 220/90,
+
+systolic pressure decreased to 175 without treatment shortly
+
+after arrival, and oxygen saturation of 99% on room air with
+
+temperature of 98.5.  She is awake and alert.  She is in no acute
+
+distress.  She has moist mucous membranes.  Her neck is supple
+
+with full range of motion.  She has mild left-sided facial droop,
+
+which she states is old.  She has clear and equal breath sounds
+
+bilaterally and no respiratory distress.  Heart is regular
+
+without murmurs.  She has soft, nontender belly.  She has
+
+asymmetric lower extremity edema with 2-3+ pitting edema to the
+
+left and 1+ pitting edema to the right, which she states is
+
+chronic and unchanged from baseline.  She has 5/5 strength
+
+throughout.  She has no pronator drift.  She is able to ambulate
+
+with a walker.
+
+LABORATORY DATA:  Basic laboratory testing shows an unremarkable
+
+CBC and Chem-7.  A set of cardiac marker shows a troponin of
+
+0.06, which is decreased from her most recent baseline, which has
+
+been elevated over the past several months.  Her BNP was 112. 
+
+Her urinalysis was unremarkable.  Her EKG was a paced rhythm. 
+
+Chest x-ray was unremarkable.
+
+EMERGENCY DEPARTMENT COURSE:  The patient was discussed with Dr.
+
+Whitman who recommended the patient be admitted to the
+
+Observation Unit for another set of cardiac markers to ____
+
+troponin as well as observation.  He will see the patient in the
+
+morning.  If the patient's ____ set of cardiac markers are not
+
+increasing and she feels well enough to go home, she will likely
+
+be discharged after Dr. Whitman sees her and makes any
+
+medication adjustments that are necessary.
+
+PRIMARY DIAGNOSIS:  Hypertension.
+
+SECONDARY DIAGNOSIS:  Generalized weakness.
+
+DISPOSITION:  Observation Unit.
+
+______________________________
+
+OAKLEY, ALBERT M.D.
+
+D: 11/02/97
+
+T: 11/02/97
+
+Dictated By: OAKLEY, ALBERT
+
+eScription document:1-98167165 BFFocus
+
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <DIABETES id="DOC0" time="before DCT" indicator="mention">
+      <DIABETES id="D0" start="227" end="253" text="insulin-dependent diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D1" start="227" end="253" text="insulin-dependent diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D2" start="245" end="253" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <HYPERTENSION id="DOC1" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="2754" end="2787" text="PRIMARY DIAGNOSIS:  Hypertension." time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="2774" end="2786" text="Hypertension" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC2" time="during DCT" indicator="high bp">
+      <HYPERTENSION id="H2" start="1110" end="1146" text="blood pressure initially of 220/90, " time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H3" start="1147" end="1221" text="systolic pressure decreased to 175 without treatment shortly  after arriva" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H4" start="1110" end="1144" text="blood pressure initially of 220/90" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H5" start="1138" end="1144" text="220/90" time="during DCT" indicator="high bp" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC3" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H6" start="2754" end="2787" text="PRIMARY DIAGNOSIS:  Hypertension." time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H7" start="2774" end="2786" text="Hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H8" start="2774" end="2786" text="Hypertension" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <DIABETES id="DOC4" time="during DCT" indicator="mention">
+      <DIABETES id="D3" start="227" end="253" text="insulin-dependent diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D4" start="227" end="253" text="insulin-dependent diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D5" start="245" end="253" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <HYPERTENSION id="DOC5" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H9" start="2754" end="2787" text="PRIMARY DIAGNOSIS:  Hypertension." time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H10" start="2774" end="2786" text="Hypertension" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <FAMILY_HIST id="DOC6" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC7" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" status="unknown"/>
+      <SMOKER id="S2" start="136" end="144" text="HISTORY " status="unknown" comment=""/>
+    </SMOKER>
+    <DIABETES id="DOC8" time="after DCT" indicator="mention">
+      <DIABETES id="D6" start="227" end="253" text="insulin-dependent diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D7" start="227" end="253" text="insulin-dependent diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D8" start="245" end="253" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <PHI id="P0" start="16" end="26" text="2097-11-02" TYPE="DATE"/>
+    <PHI id="P1" start="34" end="42" text="14477347" TYPE="MEDICALRECORD"/>
+    <PHI id="P2" start="43" end="57" text="BENNETT, NANCY" TYPE="PATIENT"/>
+    <PHI id="P3" start="58" end="66" text="11/02/97" TYPE="DATE"/>
+    <PHI id="P4" start="67" end="81" text="OAKLEY, ALBERT" TYPE="DOCTOR"/>
+    <PHI id="P5" start="125" end="133" text="Cantrell" TYPE="DOCTOR"/>
+    <PHI id="P6" start="184" end="186" text="79" TYPE="AGE"/>
+    <PHI id="P7" start="845" end="852" text="Whitman" TYPE="DOCTOR"/>
+    <PHI id="P8" start="2341" end="2348" text="Whitman" TYPE="DOCTOR"/>
+    <PHI id="P9" start="2678" end="2685" text="Whitman" TYPE="DOCTOR"/>
+    <PHI id="P10" start="2899" end="2913" text="OAKLEY, ALBERT" TYPE="DOCTOR"/>
+    <PHI id="P11" start="2923" end="2931" text="11/02/97" TYPE="DATE"/>
+    <PHI id="P12" start="2936" end="2944" text="11/02/97" TYPE="DATE"/>
+    <PHI id="P13" start="2959" end="2973" text="OAKLEY, ALBERT" TYPE="DOCTOR"/>
+    <PHI id="P14" start="2995" end="3005" text="1-98167165" TYPE="IDNUM"/>
+  </TAGS>
+</root>

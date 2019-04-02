@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2080-05-17
+
+                     WMH EMERGENCY DEPT VISIT
+ 
+JOHNSON,PEPPER E.   537-18-74-8                   VISIT DATE: 05/17/80
+PRESENTING COMPLAINT:  This patient is a 50-year-old male that 
+presents to Wausau Memorial Hospital Department of Emergency 
+Medicine with complaints of noticing a small amount of blood on his 
+underwear this a.m. 
+HISTORY OF PRESENTING COMPLAINT:  He also noted a similar effect at 
+1400 hours today while at work.  He denies any fevers, chills, he 
+denies any burning or urgency on urination, he denies having a new 
+sexual partner.  He denies of having a past medical history of this 
+problem. 
+PAST MEDICAL HISTORY:  Diabetes since 2068. 
+MEDICATIONS:  Insulin for diabetes. 
+ALLERGIES:  None known. 
+PHYSICAL EXAMINATION:  HEENT:  Normocephalic, atraumatic.  Pupils: 
+Equal, round, reactive.  Fundi positive for AV nicking.  Neck was 
+supple, no JVD.  Chest was clear to auscultation and percussion, no 
+rales, wheeze, or rhonchi.  Heart:  Normal S1, S2, no S3, S4, no 
+murmur.  Abdomen was soft, benign, nontender without masses, 
+guarding, rebound, or organomegaly.  Extremities:  Grossly within 
+normal limits.  The patient was noted to have negative flank pain. 
+Examination of the penis noted a circumcised male, there were no 
+abrasions, erosions, or penile discharge noted.  There was no 
+tenderness noted.  There was no blood noted at the meatus. 
+LABORATORY EVALUATION:  The patient had a UA done in the ED.  The 
+UA was noted to be negative.  However, it was positive for 2+ 
+glucose but it was negative for blood.  The patient also had a set 
+of electrolytes done to monitor kidney function and he was found to 
+have a glucose of 176, BUN 11, creatinine of 0.9, sodium of 140, 
+potassium 4.2, chloride 102, and a CO2 of 27. 
+FINAL DIAGNOSIS:  Gross hematuria, resolved. 
+DISPOSITION (including condition upon discharge):  The plan is to 
+discharge the patient home, to place him on Bactrim 1 tab p.o. 
+b.i.d. and have him followed up by his PMD.  Condition on discharge 
+is satisfactory. 
+___________________________________                    MQ775/2509 
+H. U. HEBERT, M.D.  UH02                            D:05/17/80 
+                                                       T:05/19/80 
+Dictated by:  H. U. HEBERT, M.D.  UH02 
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC1" time="before DCT" type1="insulin" type2="">
+      <MEDICATION id="M0" start="705" end="712" text="Insulin" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M1" start="704" end="712" text=" Insulin" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M2" start="705" end="712" text="Insulin" time="before DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC3" time="during DCT" type1="insulin" type2="">
+      <MEDICATION id="M3" start="705" end="712" text="Insulin" time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M4" start="704" end="712" text=" Insulin" time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M5" start="705" end="712" text="Insulin" time="during DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC7" time="after DCT" type1="insulin" type2="">
+      <MEDICATION id="M6" start="705" end="712" text="Insulin" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M7" start="704" end="712" text=" Insulin" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M8" start="705" end="712" text="Insulin" time="after DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <FAMILY_HIST id="DOC4" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC5" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" start="2" end="9" text=" Record" status="unknown" comment=""/>
+      <SMOKER id="S2" status="unknown"/>
+    </SMOKER>
+    <DIABETES id="DOC0" time="after DCT" indicator="mention">
+      <DIABETES id="D0" start="668" end="689" text=" Diabetes since 2068." time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D1" start="668" end="677" text=" Diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D2" start="669" end="677" text="Diabetes" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC2" time="during DCT" indicator="mention">
+      <DIABETES id="D3" start="668" end="689" text=" Diabetes since 2068." time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D4" start="668" end="677" text=" Diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D5" start="669" end="677" text="Diabetes" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC6" time="before DCT" indicator="mention">
+      <DIABETES id="D6" start="668" end="689" text=" Diabetes since 2068." time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D7" start="668" end="677" text=" Diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D8" start="669" end="677" text="Diabetes" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+  </TAGS>
+</root>

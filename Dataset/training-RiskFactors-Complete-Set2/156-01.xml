@@ -1,0 +1,167 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2074-07-20
+
+                                              7-20-74
+ 
+ 
+ 
+PROBLEMS:
+1.   Multinodular goiter.
+2.   Noninsulin dependent diabetes mellitus.
+3.   Diabetic retinopathy.
+4.   History of smoking.
+ 
+MEDICATIONS:  Ecotrin, 1 q.d., Synthroid, 0.5 mg. q.d.  Patient has not 
+been taking in 3 months after running out of prescription.  Micronaise 5 
+mg. q.d.  Premarin 0.625 mg. q.d.
+ 
+HPI:  Mrs. Stephenson returns for her follow-up visit for her diabetes and 
+multinodular goiter.  She says that she has no new complaints since the 
+last visit.  She denies any episodes of pyuria, dyspnea, weight loss or 
+weight gain.  She denies any shortness of breath, chest pain and ankle 
+edema.  She has seen her ophthalmologist several months ago and has 
+another visit today.
+ 
+PHYSICAL EXAM:  Blood pressure is 125/90.  There are no new changes on 
+exam.
+ 
+IMPRESSION AND PLAN:
+1.   Adult onset diabetes mellitus.  Patient's hemoglobin A1c in 2/74 
+     was 10.8.  Will recheck hemoglobin on this visit as well as the UA 
+          ketones and hemoglobin once she remains elevated on the 
+     present dose of Micronase will consider increasing.
+ 
+2.   Multinodular goiter.  Patient's right hemithyroid has unchanged on 
+     exam.  She has been off of her Synthroid for 3 months.  We will 
+     refill her prescription and reassess her goiter after 6 months of 
+     treatment.
+ 
+3.   Diabetic retinopathy.  Ophthalmology follow-up today.
+ 
+4.   Smoking history.  Patient quit smoking in 2/74 after using a 
+     Habitrol patch and has not smoked since.
+ 
+5.   Hypercholesteremia.  Patient had an elevated cholesterol of 319 and 
+     triglycerides of 751.  Although these were not fasting levels.  It 
+     is suspected the patient will need to have medications to control 
+     her hypoglycemia.  Will set her up with the Nutrition department 
+     for now for a modified diet.
+                                              7-20-74
+ 
+ 
+ 
+6.   Elevated blood pressure.  Blood pressure is borderline at this 
+     point.  Will recheck and have the patient adhere to her no-added 
+     salt diet.
+ 
+Patient will follow up in 10/74.  Will call the patient if her Micronase 
+dose needs to be increased.  She will have an appointment with the 
+nutritionist in order to start a no-added salt and low cholesterol diet.
+ 
+ 
+ 
+_________________________
+Eric Olds, M.D.
+ 
+ND:FH:9739
+DD:7-20-74
+DT:7-21-74
+DV:7-20-74
+ ******** Approved but not reviewed by Attending Provider ********
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <HYPERLIPIDEMIA id="DOC2" time="before DCT" indicator="high chol.">
+      <HYPERLIPIDEMIA id="HY0" start="1610" end="1640" text="an elevated cholesterol of 319" time="before DCT" indicator="high chol." comment=""/>
+      <HYPERLIPIDEMIA id="HY1" start="1613" end="1641" text="elevated cholesterol of 319 " time="before DCT" indicator="high chol." comment=""/>
+      <HYPERLIPIDEMIA id="HY2" start="1637" end="1640" text="319" time="before DCT" indicator="high chol." comment=""/>
+    </HYPERLIPIDEMIA>
+    <HYPERLIPIDEMIA id="DOC5" time="before DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY3" start="1577" end="1595" text="Hypercholesteremia" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY4" start="1577" end="1595" text="Hypercholesteremia" time="before DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <HYPERLIPIDEMIA id="DOC8" time="after DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY5" start="1577" end="1595" text="Hypercholesteremia" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY6" start="1577" end="1595" text="Hypercholesteremia" time="after DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <HYPERLIPIDEMIA id="DOC15" time="during DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY7" start="1577" end="1595" text="Hypercholesteremia" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY8" start="1577" end="1595" text="Hypercholesteremia" time="during DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <MEDICATION id="DOC1" time="during DCT" type1="aspirin" type2="">
+      <MEDICATION id="M0" start="237" end="244" text="Ecotrin" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M1" start="237" end="244" text="Ecotrin" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M2" start="236" end="244" text=" Ecotrin" time="during DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC3" time="after DCT" type1="sulfonylureas" type2="">
+      <MEDICATION id="M3" start="356" end="366" text="Micronaise" time="after DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M4" start="2177" end="2187" text="Micronase " time="after DCT" type1="sulfonylureas" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC4" time="before DCT" type1="aspirin" type2="">
+      <MEDICATION id="M5" start="237" end="244" text="Ecotrin" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M6" start="237" end="244" text="Ecotrin" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M7" start="236" end="244" text=" Ecotrin" time="before DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC7" time="before DCT" type1="sulfonylureas" type2="">
+      <MEDICATION id="M8" start="356" end="366" text="Micronaise" time="before DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M9" start="2177" end="2187" text="Micronase " time="before DCT" type1="sulfonylureas" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC9" time="during DCT" type1="sulfonylureas" type2="">
+      <MEDICATION id="M10" start="356" end="366" text="Micronaise" time="during DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M11" start="2177" end="2187" text="Micronase " time="during DCT" type1="sulfonylureas" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC12" time="after DCT" type1="aspirin" type2="">
+      <MEDICATION id="M12" start="237" end="244" text="Ecotrin" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M13" start="237" end="244" text="Ecotrin" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M14" start="236" end="244" text=" Ecotrin" time="after DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC6" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="1961" end="1984" text="Elevated blood pressure" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="1961" end="1984" text="Elevated blood pressure" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC11" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H2" start="1961" end="1984" text="Elevated blood pressure" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H3" start="1961" end="1984" text="Elevated blood pressure" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC14" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H4" start="1961" end="1984" text="Elevated blood pressure" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H5" start="1961" end="1984" text="Elevated blood pressure" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <FAMILY_HIST id="DOC13" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC17" status="past">
+      <SMOKER id="S0" start="1461" end="1569" text=" Smoking history.  Patient quit smoking in 2/74 after using a       Habitrol patch and has not smoked since." status="past" comment=""/>
+      <SMOKER id="S1" start="1488" end="1500" text="quit smoking" status="past" comment=""/>
+    </SMOKER>
+    <DIABETES id="DOC0" time="before DCT" indicator="mention">
+      <DIABETES id="D0" start="129" end="167" text="Noninsulin dependent diabetes mellitus" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D1" start="150" end="167" text="diabetes mellitus" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D2" start="150" end="158" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC10" time="after DCT" indicator="mention">
+      <DIABETES id="D3" start="129" end="167" text="Noninsulin dependent diabetes mellitus" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D4" start="150" end="167" text="diabetes mellitus" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D5" start="150" end="158" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC16" time="before DCT" indicator="A1C">
+      <DIABETES id="D6" start="940" end="977" text="hemoglobin A1c in 2/74       was 10.8" time="before DCT" indicator="A1C" comment=""/>
+      <DIABETES id="D7" start="939" end="978" text=" hemoglobin A1c in 2/74       was 10.8." time="before DCT" indicator="A1C" comment=""/>
+      <DIABETES id="D8" start="973" end="977" text="10.8" time="before DCT" indicator="A1C" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC18" time="during DCT" indicator="mention">
+      <DIABETES id="D9" start="129" end="167" text="Noninsulin dependent diabetes mellitus" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D10" start="150" end="167" text="diabetes mellitus" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D11" start="150" end="158" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+  </TAGS>
+</root>

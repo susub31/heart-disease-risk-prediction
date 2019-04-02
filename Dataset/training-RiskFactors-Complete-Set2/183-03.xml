@@ -1,0 +1,123 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2096-04-10
+
+                     GLENN HELEN EMERGENCY DEPT VISIT
+ 
+VINCENT,ROBERTA J.   380-18-32-2
+HISTORY OF PRESENTING COMPLAINT:  The patient is a 59-year-old 
+female who is status post renal transplant with history of 
+hypertension and diabetes who presents complaining of recurrent 
+shortness of breath.  She had a renal transplant in 2093 with 
+history of chronic renal insufficiency.  She was last admitted here 
+on February 23 for shortness of breath.  The patient has had sore 
+throat and URI symptoms now for a few days.  No nausea and 
+vomiting.  No sweating.  No chest pain or dizziness. 
+PAST MEDICAL HISTORY:  Complicated by hypertension, diabetes, pedal 
+neuropathy, hernia, and hysterectomy. 
+MEDICATIONS:  Premarin, insulin, Prilosec, prednisone, and sodium 
+bicarbonate.  She is also on Lasix, hydralazine, and Talwin. 
+PHYSICAL EXAMINATION:  She is afebrile.  Vital signs are normal. 
+Oxygen saturation 97%.  Initial blood pressure is 214/118.  The 
+second blood pressure is 188/100.  HEENT:  Normal.  Cardiac:  No 
+murmurs or rubs.  Lungs:  Crackles bilaterally, but no wheezing. 
+Abdomen:  Soft and nontender with good bowel sounds.  Extremities: 
+Trace pedal edema 1+ throughout.  Neuro:  Intact. 
+LABORATORY EVALUATION:  Electrolytes here are normal.  Creatinine 
+is pretty good.  She was 4.4 on February 26.  She is 3.3 now, so 
+she has improved in creatinine.  White count is 12.9 and hematocrit 
+of 36.  EKG showed sinus rhythm at 97, old left ventricular 
+hypertrophy, and no acute changes.  Chest x-ray shows increased 
+chronic pulmonary edema and old small right pleural fluid seen. 
+CONSULTATIONS (including PCP):  The Renal fellow is here.  The case 
+has been discussed with the Renal fellow. 
+ADMITTING DIAGNOSIS:  Congestive heart failure and hypertension. 
+DISPOSITION (including condition upon discharge):  The patient is 
+going to be admitted to the Renal Service, admitted to Dr. Elias 
+Mercado.  Admitted in stable condition. 
+___________________________________                    VC341/8846 
+DEXTER N. JOHNSON, M.D.  DJ50                             D:04/10/96 
+                                                       T:04/10/96 
+Dictated by:  DEXTER N. JOHNSON, M.D.  DJ50 
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC1" time="before DCT" type1="insulin" type2="">
+      <MEDICATION id="M0" start="751" end="758" text="insulin" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M1" start="751" end="758" text="insulin" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M2" start="751" end="758" text="insulin" time="before DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC7" time="during DCT" type1="insulin" type2="">
+      <MEDICATION id="M3" start="751" end="758" text="insulin" time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M4" start="751" end="758" text="insulin" time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M5" start="751" end="758" text="insulin" time="during DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC11" time="after DCT" type1="insulin" type2="">
+      <MEDICATION id="M6" start="751" end="758" text="insulin" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M7" start="751" end="758" text="insulin" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M8" start="751" end="758" text="insulin" time="after DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC2" time="during DCT" indicator="high bp">
+      <HYPERTENSION id="H0" start="972" end="1019" text="214/118.  The  second blood pressure is 188/100" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H1" start="946" end="979" text="Initial blood pressure is 214/118" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H2" start="994" end="1019" text="blood pressure is 188/100" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H3" start="972" end="979" text="214/118" time="during DCT" indicator="high bp" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC3" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H4" start="241" end="253" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H5" start="241" end="253" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H6" start="657" end="669" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H7" start="1794" end="1806" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H8" start="241" end="253" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC6" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H9" start="241" end="253" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H10" start="241" end="253" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H11" start="657" end="669" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H12" start="1794" end="1806" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H13" start="241" end="253" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC9" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H14" start="241" end="253" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H15" start="241" end="253" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H16" start="657" end="669" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H17" start="1794" end="1806" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H18" start="241" end="253" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <FAMILY_HIST id="DOC8" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC4" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" status="unknown"/>
+      <SMOKER id="S2" start="3" end="9" text="Record" status="unknown" comment=""/>
+    </SMOKER>
+    <DIABETES id="DOC0" time="before DCT" indicator="mention">
+      <DIABETES id="D0" start="258" end="266" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D1" start="258" end="266" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D2" start="671" end="679" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D3" start="258" end="266" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC5" time="during DCT" indicator="mention">
+      <DIABETES id="D4" start="258" end="266" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D5" start="258" end="266" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D6" start="671" end="679" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D7" start="258" end="266" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC10" time="after DCT" indicator="mention">
+      <DIABETES id="D8" start="258" end="266" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D9" start="258" end="266" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D10" start="671" end="679" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D11" start="258" end="266" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+  </TAGS>
+</root>

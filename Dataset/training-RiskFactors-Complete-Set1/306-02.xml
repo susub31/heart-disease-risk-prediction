@@ -1,0 +1,359 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2115-12-14
+
+Physical exam:
+
+
+
+CC:
+
+
+
+
+
+HPI: Accompanied by sister in law Amelia Travis 220-523-4413 (h); 199-683-8353 (cell).
+
+54 y/o female with uncontrolled DM, HTN, hyperlipidemia, left breast suspicious masses, CVD, and recent hospitalization for CVA, here for follow up and adjustment of her meds.  She does not bring in her glucometer or log book.  She does bring in some of her meds.
+
+
+
+Denies change in appetite, problems sleeping, night sweats, fevers, headaches, visual changes, dysphagia, shortness of breath, orthopnea, PND, cough, chest pain, lower extremity edema, abdominal pain, nausea, vomiting, diarrhea, constipation, blood in stool, black stool, dysuria, nocturia, urinary or fecal incontinence, rashes, joint pain, or depressed mood. no vaginal discharge, no pelvic pain. 
+
+
+
+
+
+Problems
+
+s/p left leg surgery 2097 
+
+Diabetes mellitus type 2 
+
+Cerebrovascular disease : Multiple strokes on MRI
+
+Cerebrovascular accident : 11/15
+
+Hypertension 
+
+Hyperlipidemia 
+
+knowlege deficits 
+
+multiinfarct dementia? 
+
+sedentary lifestyle 
+
+poor dentition : multiple cavities 
+
+
+
+
+
+Medications
+
+Fragmin (DALTEPARIN SODIUM) 8500 UNITS SC Q12H , Anticoagulation as per Neurology- Thomas Javier MD. Stop on 12/17, 12/18,12/19, 12/20 for breast biopsy on 12/20.
+
+Metformin 500 mg po BID
+
+Lopressor 50 mg po BID
+
+
+
+Allergies
+
+NKA 
+
+
+
+
+
+SOCIAL HX:
+
+No tobacco, alcohol, or drug use.  Denies domestic violence.  Uses seat belts. Living with sister in law Amelia Travis and mother.
+
+
+
+PE:
+
+
+
+ 
+
+BP: 142/84    P-72
+
+
+
+GEN: Pleasant female in NAD.
+
+HEENT:  PERRL, no icterus or scleral injection
+
+OP: clear, no erythema or exudate
+
+Neck: supple, no lymph nodes, no thyromegaly, no thyroid nodules, no masses
+
+Lungs: CTA bilaterally
+
+LNs: no cervical lymphadenopathy.
+
+Heart: RRR, no MRG.  
+
+Abdomen: soft, non-tender, non-distended, BS present, no HSM, no Masses
+
+Extremities: No C/C/E
+
+Skin: no rashes, no irregular moles
+
+Neuro: EOMI, visual fields intact, CN II-XII intact, UE and LE reflexes 2+ and symmetrical.  Nonfocal.
+
+
+
+Labs:
+
+None.   
+
+
+
+Impression and Plan:
+
+
+
+1) Uncontrolled DM: Add Glipizide 5 mg po BID. Cont. Metformin 500 mg po BID. Check microalbumin. Re-emphasized importance of bringing in glucometer and BG log book along with all meds to each and every visit.  Check on referrals to ophthalmologist, podiatry, diabetic teaching nurse, nutrition.
+
+
+
+2) HTN: Add Lisinopril 5 mg po qd. 
+
+
+
+3) CVD s/p CVA: Stable. Cont. Fragmin 8500 units SQ BID as per neurology.  Follow up with neurology.
+
+
+
+4) Hyperlipidemia: Add lipitor 20 mg po qhs.
+
+
+
+5) Left breast masses: Biopsy on 12/20/15.  She is to stop Fragmin on 12/17/15 for this. 
+
+
+
+6)Poor dentition: Referral to dentistry.
+
+
+
+7) HM:
+
+
+
+Health Maintenance
+
+Cholesterol 11/25/2115 207 DESIRABLE: <200
+
+M-alb/creat ratio 12/14/2115 47.8 
+
+Mammogram 11/27/2115 BilDigDxMamoAll 
+
+Pap Smear 10/05/2115 2000
+
+Smoking status 10/05/2115 as teen-once
+
+UA-Protein 11/25/2115 NEGATIVE 
+
+HBA1C 12/14/2115 11.80 
+
+Urine Culture 11/25/2115 see report in Results 
+
+Triglycerides 11/25/2115 131 
+
+Cholesterol-LDL 11/25/2115 121 DESIRABLE: <130
+
+Microalbumin 12/14/2115 6.5 
+
+Bone Density 11/30/2115 BMD-Hip 
+
+Hct (Hematocrit) 11/27/2115 37.3 
+
+Domestic Violence Screening 10/05/2115 denies
+
+Complete Physical Exam 10/05/2115 Unremarkable
+
+Cholesterol-HDL 11/25/2115 60 
+
+Hgb (Hemoglobin) 11/27/2115 12.9 
+
+
+
+ 
+
+RTC 6 weeks
+
+
+
+
+
+_____________________________________________
+
+Richard A. Verlin-Urbina, M.D.
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <DIABETES id="DOC0" time="during DCT" indicator="A1C">
+      <DIABETES id="D0" start="2962" end="2985" text="HBA1C 12/14/2115 11.80 " time="during DCT" indicator="A1C" comment=""/>
+      <DIABETES id="D1" start="2962" end="2984" text="HBA1C 12/14/2115 11.80" time="during DCT" indicator="A1C" comment=""/>
+    </DIABETES>
+    <MEDICATION id="DOC1" time="after DCT" type1="statin" type2="">
+      <MEDICATION id="M0" start="2551" end="2558" text="lipitor" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M1" start="2551" end="2558" text="lipitor" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M2" start="2551" end="2558" text="lipitor" time="after DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC2" time="after DCT" type1="metformin" type2="">
+      <MEDICATION id="M3" start="1282" end="1291" text="Metformin" time="after DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M4" start="2139" end="2148" text="Metformin" time="after DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M5" start="1282" end="1291" text="Metformin" time="after DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M6" start="1282" end="1291" text="Metformin" time="after DCT" type1="metformin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC3" time="during DCT" type1="metformin" type2="">
+      <MEDICATION id="M7" start="1282" end="1291" text="Metformin" time="during DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M8" start="2139" end="2148" text="Metformin" time="during DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M9" start="1282" end="1291" text="Metformin" time="during DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M10" start="1282" end="1291" text="Metformin" time="during DCT" type1="metformin" type2="" comment=""/>
+    </MEDICATION>
+    <SMOKER id="DOC4" status="past">
+      <SMOKER id="S0" start="2889" end="2927" text="Smoking status 10/05/2115 as teen-once" status="past" comment=""/>
+      <SMOKER id="S1" start="1366" end="1376" text="No tobacco" status="past" comment=""/>
+      <SMOKER id="S2" start="2889" end="2927" text="Smoking status 10/05/2115 as teen-once" status="past" comment=""/>
+    </SMOKER>
+    <HYPERTENSION id="DOC5" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="179" end="182" text="HTN" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="179" end="182" text="HTN" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H2" start="965" end="977" text="Hypertension" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <MEDICATION id="DOC6" time="after DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M11" start="2397" end="2407" text="Lisinopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M12" start="2397" end="2407" text="Lisinopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M13" start="2397" end="2407" text="Lisinopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <DIABETES id="DOC7" time="during DCT" indicator="mention">
+      <DIABETES id="D2" start="175" end="177" text="DM" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D3" start="175" end="177" text="DM" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D4" start="853" end="877" text="Diabetes mellitus type 2" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <HYPERLIPIDEMIA id="DOC8" time="during DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY0" start="184" end="198" text="hyperlipidemia" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY1" start="184" end="198" text="hyperlipidemia" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY2" start="980" end="994" text="Hyperlipidemia" time="during DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <HYPERTENSION id="DOC9" time="during DCT" indicator="high bp">
+      <HYPERTENSION id="H3" start="1510" end="1520" text="BP: 142/84" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H4" start="1510" end="1520" text="BP: 142/84" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H5" start="1514" end="1521" text="142/84 " time="during DCT" indicator="high bp" comment=""/>
+    </HYPERTENSION>
+    <MEDICATION id="DOC10" time="after DCT" type1="sulfonylureas" type2="">
+      <MEDICATION id="M14" start="2110" end="2119" text="Glipizide" time="after DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M15" start="2110" end="2119" text="Glipizide" time="after DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M16" start="2110" end="2119" text="Glipizide" time="after DCT" type1="sulfonylureas" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC11" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H6" start="179" end="182" text="HTN" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H7" start="179" end="182" text="HTN" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H8" start="965" end="977" text="Hypertension" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <MEDICATION id="DOC12" time="after DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M17" start="1307" end="1316" text="Lopressor" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M18" start="1307" end="1316" text="Lopressor" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M19" start="1307" end="1316" text="Lopressor" time="after DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <DIABETES id="DOC13" time="before DCT" indicator="mention">
+      <DIABETES id="D5" start="175" end="177" text="DM" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D6" start="175" end="177" text="DM" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D7" start="853" end="877" text="Diabetes mellitus type 2" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <MEDICATION id="DOC14" time="before DCT" type1="metformin" type2="">
+      <MEDICATION id="M20" start="1282" end="1291" text="Metformin" time="before DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M21" start="2139" end="2148" text="Metformin" time="before DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M22" start="1282" end="1291" text="Metformin" time="before DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M23" start="1282" end="1291" text="Metformin" time="before DCT" type1="metformin" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERLIPIDEMIA id="DOC15" time="before DCT" indicator="high LDL">
+      <HYPERLIPIDEMIA id="HY3" start="3067" end="3098" text="Cholesterol-LDL 11/25/2115 121 " time="before DCT" indicator="high LDL" comment=""/>
+      <HYPERLIPIDEMIA id="HY4" start="3067" end="3097" text="Cholesterol-LDL 11/25/2115 121" time="before DCT" indicator="high LDL" comment=""/>
+      <HYPERLIPIDEMIA id="HY5" start="3067" end="3097" text="Cholesterol-LDL 11/25/2115 121" time="before DCT" indicator="high LDL" comment=""/>
+    </HYPERLIPIDEMIA>
+    <FAMILY_HIST id="DOC16" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <HYPERLIPIDEMIA id="DOC17" time="after DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY6" start="184" end="198" text="hyperlipidemia" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY7" start="184" end="198" text="hyperlipidemia" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY8" start="980" end="994" text="Hyperlipidemia" time="after DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <HYPERLIPIDEMIA id="DOC18" time="before DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY9" start="184" end="198" text="hyperlipidemia" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY10" start="184" end="198" text="hyperlipidemia" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY11" start="980" end="994" text="Hyperlipidemia" time="before DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <HYPERTENSION id="DOC19" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H9" start="179" end="182" text="HTN" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H10" start="179" end="182" text="HTN" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H11" start="965" end="977" text="Hypertension" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <MEDICATION id="DOC20" time="before DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M24" start="1307" end="1316" text="Lopressor" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M25" start="1307" end="1316" text="Lopressor" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M26" start="1307" end="1316" text="Lopressor" time="before DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC21" time="during DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M27" start="1307" end="1316" text="Lopressor" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M28" start="1307" end="1316" text="Lopressor" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M29" start="1307" end="1316" text="Lopressor" time="during DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <DIABETES id="DOC22" time="after DCT" indicator="mention">
+      <DIABETES id="D8" start="175" end="177" text="DM" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D9" start="175" end="177" text="DM" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D10" start="853" end="877" text="Diabetes mellitus type 2" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <PHI id="P0" start="16" end="26" text="2115-12-14" TYPE="DATE"/>
+    <PHI id="P1" start="89" end="102" text="Amelia Travis" TYPE="PATIENT"/>
+    <PHI id="P2" start="103" end="115" text="220-523-4413" TYPE="PHONE"/>
+    <PHI id="P3" start="121" end="133" text="199-683-8353" TYPE="PHONE"/>
+    <PHI id="P4" start="143" end="145" text="54" TYPE="AGE"/>
+    <PHI id="P5" start="846" end="850" text="2097" TYPE="DATE"/>
+    <PHI id="P6" start="958" end="963" text="11/15" TYPE="DATE"/>
+    <PHI id="P7" start="1201" end="1214" text="Thomas Javier" TYPE="DOCTOR"/>
+    <PHI id="P8" start="1227" end="1232" text="12/17" TYPE="DATE"/>
+    <PHI id="P9" start="1234" end="1239" text="12/18" TYPE="DATE"/>
+    <PHI id="P10" start="1240" end="1245" text="12/19" TYPE="DATE"/>
+    <PHI id="P11" start="1247" end="1252" text="12/20" TYPE="DATE"/>
+    <PHI id="P12" start="1274" end="1279" text="12/20" TYPE="DATE"/>
+    <PHI id="P13" start="1471" end="1484" text="Amelia Travis" TYPE="PATIENT"/>
+    <PHI id="P14" start="2609" end="2617" text="12/20/15" TYPE="DATE"/>
+    <PHI id="P15" start="2646" end="2654" text="12/17/15" TYPE="DATE"/>
+    <PHI id="P16" start="2755" end="2765" text="11/25/2115" TYPE="DATE"/>
+    <PHI id="P17" start="2805" end="2815" text="12/14/2115" TYPE="DATE"/>
+    <PHI id="P18" start="2833" end="2843" text="11/27/2115" TYPE="DATE"/>
+    <PHI id="P19" start="2872" end="2882" text="10/05/2115" TYPE="DATE"/>
+    <PHI id="P20" start="2904" end="2914" text="10/05/2115" TYPE="DATE"/>
+    <PHI id="P21" start="2940" end="2950" text="11/25/2115" TYPE="DATE"/>
+    <PHI id="P22" start="2968" end="2978" text="12/14/2115" TYPE="DATE"/>
+    <PHI id="P23" start="3001" end="3011" text="11/25/2115" TYPE="DATE"/>
+    <PHI id="P24" start="3050" end="3060" text="11/25/2115" TYPE="DATE"/>
+    <PHI id="P25" start="3083" end="3093" text="11/25/2115" TYPE="DATE"/>
+    <PHI id="P26" start="3128" end="3138" text="12/14/2115" TYPE="DATE"/>
+    <PHI id="P27" start="3158" end="3168" text="11/30/2115" TYPE="DATE"/>
+    <PHI id="P28" start="3196" end="3206" text="11/27/2115" TYPE="DATE"/>
+    <PHI id="P29" start="3242" end="3252" text="10/05/2115" TYPE="DATE"/>
+    <PHI id="P30" start="3284" end="3294" text="10/05/2115" TYPE="DATE"/>
+    <PHI id="P31" start="3325" end="3335" text="11/25/2115" TYPE="DATE"/>
+    <PHI id="P32" start="3358" end="3368" text="11/27/2115" TYPE="DATE"/>
+    <PHI id="P33" start="3445" end="3469" text="Richard A. Verlin-Urbina" TYPE="DOCTOR"/>
+  </TAGS>
+</root>

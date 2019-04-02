@@ -1,0 +1,159 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2067-01-28
+
+
+
+
+
+INTERNAL MEDICINE ASSOCIATES
+
+OCHILTREE GENERAL HOSPITAL
+
+
+
+Reason for visit   URI
+
+
+
+History of present illness   Pt has URI with cough for several weeks.  The majority of this 25 minute visit was spent in counseling about hid drinking.
+
+
+
+Major Problems
+
+Diabetes mellitus (adult onset)
+
+No sx. HB A1c was good last month.
+
+Hyperlipidemia
+
+has started lipitor without problem about a month ago.  Not fasting today.
+
+
+
+Other Problems
+
+Cough
+
+Pt had uri about a month ago. He has continued to have disturbing cough after acute symptoms resolved.  He describes cough worse in cold air, starting after he gets into the weather. No scarf. No history of asthma.  No supine sx. Exam neg. Offered alupent inhaler and instructed to use muffler for probable dx of cold induced asthma.
+
+Depression
+
+Subject came up re asking about drinking (potential relation to cough).  He drank heavily after Korea (field nurse) and had depression at that time.  He had SI about 18 months ago.  Now seeing Navarro (rx) and Lacey Frost (Tx) ans is on two drugs paxil and another.  States they reliably cause him to vomit if he drinks.  States drinks two rums and diet coke a night.  Thinks he should stop; discussed; needs to bring this up with his tx.  Not si now, states mood stable.
+
+
+
+Change in therapies and Renewals
+
+Proventil  two puffs inhaled qid QTY:1 cannister Refills:3 Start: 01/28/2067 prn
+
+
+
+Habits
+
+Alcohol use status: major  
+
+
+
+Physical examination
+
+Pulse 70   
+
+Blood pressure 160/90  
+
+Weight 210  216 pounds
+
+General appearance   Well developed, well nourished, in no acute distress
+
+Skin   Clear
+
+Heent   Eyes, nonicteric.  Nose clear.  Pharynx normal.  Ears normal
+
+Neck   No masses
+
+Chest   Lungs are clear
+
+Cor   Regular rhythm.  S1 and S2 normal.  No murmur, S3, or S4
+
+temperature 98.0  
+
+
+
+Disposition
+
+return in two months; obtain fasting lipids before then.
+
+
+
+Signed electronically by Miranda, James R on Jan 29, 2067     
+
+
+
+]]></TEXT>
+  <TAGS>
+    <HYPERLIPIDEMIA id="DOC4" time="before DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY0" start="358" end="372" text="Hyperlipidemia" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY1" start="358" end="372" text="Hyperlipidemia" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY2" start="358" end="372" text="Hyperlipidemia" time="before DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <HYPERLIPIDEMIA id="DOC6" time="after DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY3" start="358" end="372" text="Hyperlipidemia" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY4" start="358" end="372" text="Hyperlipidemia" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY5" start="358" end="372" text="Hyperlipidemia" time="after DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <HYPERLIPIDEMIA id="DOC11" time="during DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY6" start="358" end="372" text="Hyperlipidemia" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY7" start="358" end="372" text="Hyperlipidemia" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY8" start="358" end="372" text="Hyperlipidemia" time="during DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <MEDICATION id="DOC0" time="before DCT" type1="statin" type2="">
+      <MEDICATION id="M0" start="386" end="393" text="lipitor" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M1" start="386" end="393" text="lipitor" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M2" start="385" end="393" text=" lipitor" time="before DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC1" time="during DCT" type1="statin" type2="">
+      <MEDICATION id="M3" start="386" end="393" text="lipitor" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M4" start="386" end="393" text="lipitor" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M5" start="385" end="393" text=" lipitor" time="during DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC2" time="after DCT" type1="statin" type2="">
+      <MEDICATION id="M6" start="386" end="393" text="lipitor" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M7" start="386" end="393" text="lipitor" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M8" start="385" end="393" text=" lipitor" time="after DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC3" time="during DCT" indicator="high bp">
+      <HYPERTENSION id="H0" start="1489" end="1512" text="Blood pressure 160/90  " time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H1" start="1489" end="1512" text="Blood pressure 160/90  " time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H2" start="1503" end="1512" text=" 160/90  " time="during DCT" indicator="high bp" comment=""/>
+    </HYPERTENSION>
+    <FAMILY_HIST id="DOC8" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC9" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" status="unknown"/>
+      <SMOKER id="S2" start="1415" end="1421" text="Habits" status="unknown" comment=""/>
+    </SMOKER>
+    <DIABETES id="DOC5" time="before DCT" indicator="mention">
+      <DIABETES id="D0" start="289" end="320" text="Diabetes mellitus (adult onset)" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D1" start="289" end="320" text="Diabetes mellitus (adult onset)" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D2" start="289" end="298" text="Diabetes " time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC7" time="during DCT" indicator="mention">
+      <DIABETES id="D3" start="289" end="320" text="Diabetes mellitus (adult onset)" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D4" start="289" end="320" text="Diabetes mellitus (adult onset)" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D5" start="289" end="298" text="Diabetes " time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC10" time="after DCT" indicator="mention">
+      <DIABETES id="D6" start="289" end="320" text="Diabetes mellitus (adult onset)" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D7" start="289" end="320" text="Diabetes mellitus (adult onset)" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D8" start="289" end="298" text="Diabetes " time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+  </TAGS>
+</root>

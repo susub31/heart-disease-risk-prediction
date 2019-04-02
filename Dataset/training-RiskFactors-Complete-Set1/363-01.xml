@@ -1,0 +1,173 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2092-09-18
+
+EDVISIT^14477347^Bennett, Nancy^09/20/92^NOE, NATALEY KINSLEE
+
+CHIEF COMPLAINT:  Dizzy.
+
+I confirm that I have seen and evaluated this patient, reviewed
+
+the resident's documentation, and discussed the evaluation, plan
+
+of care, and disposition with the patient.
+
+HISTORY OF PRESENT ILLNESS:  This is a 74-year-old woman with a
+
+history of diabetes and hypertension who for the last 24 hours
+
+really has had trouble getting out of bed.  She started feeling
+
+dizzy having difficulty with moving and fatigue, never really
+
+felt like this before.  She does feel a little bit dizzy when she
+
+stands up and went to North Iowa Oral Surgery Center where
+
+they discovered her to be in heart block and sent her to us.
+
+REVIEW OF SYSTEMS.  Negative for fever, chills, chest pain,
+
+shortness of breath, and abdominal pain.  She does admit to
+
+several bug bites.
+
+PAST MEDICAL HISTORY:  History of polyarteritis nodosa 30 years
+
+ago.  She is non-insulin-dependent diabetes and hypertension.
+
+MEDICINES, ALLERGIES, SOCIAL HISTORY, AND FAMILY HISTORY:  As per
+
+the chart.
+
+PHYSICAL EXAMINATION:  An obese woman awake, alert, and oriented.
+
+ She has a junctional rhythm in the 30s on the monitor with P
+
+waves marching out as well but not in sequence with her QRS.  Her
+
+blood pressure is 150 systolic.  She is awake and alert and her
+
+oropharynx is normal.  Neck is supple.  Chest is clear.  Cardiac
+
+exam is bradycardic without murmur, rub, or gallop.  Abdomen is
+
+soft and nontender.  Extremities:  Without cyanosis, clubbing, or
+
+edema.  She does have an area of erythema in her mid back,
+
+nontender, no central clearing.
+
+EMERGENCY DEPARTMENT COURSE:  The patient has an EKG that shows
+
+AV dissociation with relatively narrow complex junctional escape
+
+rhythm.  Her chest x-ray is clean.  The rest of her lab exam is
+
+ ******** Not reviewed by Attending Physician ********
+
+by the EP Service and the plan is to take her to the Cath Lab for
+
+a percutaneous transvenous pacer.
+
+DIAGNOSIS:  AV dissociation.
+
+______________________________
+
+NOE, NATALEY KINSLEE M.D.
+
+D: 09/21/92
+
+T: 09/21/92
+
+Dictated By: NOE, NATALEY KINSLEE
+
+eScription document:0-7309513 BFFocus
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <DIABETES id="DOC0" time="before DCT" indicator="mention">
+      <DIABETES id="D0" start="368" end="376" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D1" start="368" end="376" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D2" start="958" end="988" text="non-insulin-dependent diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D3" start="368" end="376" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <HYPERTENSION id="DOC1" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="381" end="393" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="381" end="393" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H2" start="993" end="1005" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H3" start="381" end="393" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <OBESE id="DOC2" time="after DCT" indicator="mention">
+      <OBESE id="O0" start="1113" end="1118" text="obese" time="after DCT" indicator="mention" comment=""/>
+      <OBESE id="O1" start="1113" end="1118" text="obese" time="after DCT" indicator="mention" comment=""/>
+    </OBESE>
+    <HYPERTENSION id="DOC3" time="during DCT" indicator="high bp">
+      <HYPERTENSION id="H4" start="1302" end="1315" text="150 systolic." time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H5" start="1284" end="1314" text="blood pressure is 150 systolic" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H6" start="1284" end="1314" text="blood pressure is 150 systolic" time="during DCT" indicator="high bp" comment=""/>
+    </HYPERTENSION>
+    <OBESE id="DOC4" time="during DCT" indicator="mention">
+      <OBESE id="O2" start="1113" end="1118" text="obese" time="during DCT" indicator="mention" comment=""/>
+      <OBESE id="O3" start="1113" end="1118" text="obese" time="during DCT" indicator="mention" comment=""/>
+      <OBESE id="O4" start="1113" end="1118" text="obese" time="during DCT" indicator="mention" comment=""/>
+    </OBESE>
+    <HYPERTENSION id="DOC5" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H7" start="381" end="393" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H8" start="381" end="393" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H9" start="993" end="1005" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H10" start="381" end="393" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <DIABETES id="DOC6" time="during DCT" indicator="mention">
+      <DIABETES id="D4" start="368" end="376" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D5" start="368" end="376" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D6" start="958" end="988" text="non-insulin-dependent diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D7" start="368" end="376" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <HYPERTENSION id="DOC7" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H11" start="381" end="393" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H12" start="381" end="393" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H13" start="993" end="1005" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H14" start="381" end="393" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <OBESE id="DOC8" time="before DCT" indicator="mention">
+      <OBESE id="O5" start="1113" end="1118" text="obese" time="before DCT" indicator="mention" comment=""/>
+      <OBESE id="O6" start="1113" end="1118" text="obese" time="before DCT" indicator="mention" comment=""/>
+    </OBESE>
+    <FAMILY_HIST id="DOC9" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC10" status="unknown">
+      <SMOKER id="S0" start="1030" end="1036" text="SOCIAL" status="unknown" comment=""/>
+      <SMOKER id="S1" status="unknown"/>
+      <SMOKER id="S2" status="unknown"/>
+    </SMOKER>
+    <DIABETES id="DOC11" time="after DCT" indicator="mention">
+      <DIABETES id="D8" start="368" end="376" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D9" start="368" end="376" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D10" start="958" end="988" text="non-insulin-dependent diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D11" start="368" end="376" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <PHI id="P0" start="16" end="26" text="2092-09-18" TYPE="DATE"/>
+    <PHI id="P1" start="36" end="44" text="14477347" TYPE="MEDICALRECORD"/>
+    <PHI id="P2" start="45" end="59" text="Bennett, Nancy" TYPE="PATIENT"/>
+    <PHI id="P3" start="60" end="68" text="09/20/92" TYPE="DATE"/>
+    <PHI id="P4" start="69" end="89" text="NOE, NATALEY KINSLEE" TYPE="DOCTOR"/>
+    <PHI id="P5" start="331" end="333" text="74" TYPE="AGE"/>
+    <PHI id="P6" start="638" end="668" text="North Iowa Oral Surgery Center" TYPE="HOSPITAL"/>
+    <PHI id="P7" start="2056" end="2076" text="NOE, NATALEY KINSLEE" TYPE="DOCTOR"/>
+    <PHI id="P8" start="2086" end="2094" text="09/21/92" TYPE="DATE"/>
+    <PHI id="P9" start="2099" end="2107" text="09/21/92" TYPE="DATE"/>
+    <PHI id="P10" start="2122" end="2142" text="NOE, NATALEY KINSLEE" TYPE="DOCTOR"/>
+    <PHI id="P11" start="2164" end="2173" text="0-7309513" TYPE="IDNUM"/>
+  </TAGS>
+</root>

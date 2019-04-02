@@ -1,0 +1,191 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2114-03-16
+
+ 
+ 
+March 16, 2114
+ 
+Brice Short, M.D.
+671 Foundation Street
+Lambertville, OK  66399
+ 
+RE:Craft, Lloyd
+MRN:26649180
+ 
+Dear Dr. Short:
+ 
+Today I had the delight of seeing your patient Mr. Craft for the 
+possibility of central nervous system vasculitis.  As you know, he 
+is a 64 year old, right-handed man with an extensive past medical 
+history for a rheumatological disease.  His past medical history, 
+briefly, is that he was diagnosed with lupus in 2103 and at that 
+time he had a butterfly rash, he complained of chronic fatigue and 
+he also had what was considered temporal lobe seizures which were 
+characterized as complex partial type events, and elevated double-
+stranded DNA of 1:80 and ANA of 1:512 with a homogenous pattern.  
+All of these suggested that the patient did have lupus.  He was 
+treated for approximately three years with prednisone and he notes 
+that after medications were added by Dr. Taliyah Hoffman, his 
+symptoms and seizures went away.  Since that time, he has had a 
+recurrence of symptoms which includes fullness of his face and 
+neck, pressure within his head.  He considers himself to have 
+vascular headaches with facial weakness, ringing in his ears, 
+numbness and tingling of his left hand and arm, excessive 
+salivation and increased appetite. In describing his headache, he 
+noted that it is primarily a headache which is there every day and 
+has a combination of throbbing sensation as well as throbbing 
+quality.  It is worse in the frontal temporal area and is not 
+associated with nausea, vomiting or paraesthesias.  There is no 
+family history of migraines as well.  Also during his headache 
+events, he does not notice any decrease in his appetite or any 
+nausea or vomiting.
+ 
+Past medical history:  As per above.  Medicval issues include 
+bipolar II with ____________ diagnosed in 2110, hypothalamic 
+gonadism, hypothalamic hypothyroidism and questionable history of 
+migraine headaches.  
+ 
+His current medications include Lamictal, Risperdal, testolactone, 
+chromisene, Levoxyl, Altace for hypertension, ibuprofen p.r.n. and 
+prednisone p.r.n.  
+ 
+He is allergic to penicillin, Lozol, bee stings and allopurinol.  
+There is a questionable history to Aricept which he feels that the 
+use of this medication made his current symptoms come out of 
+remission.
+ 
+ 
+Brice Short, M.D.
+RE:Craft, Lloyd
+MRN:26649180
+3-16-14
+Page 2
+ 
+ 
+ 
+Family history is remarkable for insulin dependent diabetes 
+mellitus in father and father also had heart disease.  
+ 
+Social history:  He is a former stage manager.  
+ 
+Neurological exam:  He was awake, alert, oriented x 3.  Attention 
+was normal.  Speech was fluent, without dysarthria or paraphasic 
+errors.  There is no memory deficit or agnosia.  The patient gave 
+a very detailed history of events and no further detailed mental 
+status testing was performed.  Cranial nerves:  Bilateral visual 
+fields were full.  Disks were sharp.  Fundus was clear.  
+Extraocular movements were intact.  There was no nystagmus.  He 
+had normal facial sensation and symmetry.  Hearing was grossly 
+normal.  Uvula, tongue and palate were midline.  Motor examination 
+revealed normal tone and bulk with normal strength.  Deep tendon 
+reflexes were symmetrical.  There was no upper motor neuron sign.  
+Coordination and gait were normal.  
+ 
+Overall impression:  64 year old, right-handed male with a history 
+of lupus in the past.  His recent blood work shows that his 
+double-stranded DNA was negative.  Taking into consideration his 
+current constellation of symptoms and his MRI reports that I 
+evaluated which were completely normal except for small vascular 
+disease, at this time he does not fit with the diagnosis of 
+central nervous system vasculitis.  He was told that he is at a 
+high risk for having a stroke secondary to (1) having high blood 
+pressure and (2) having an elevated cholesterol.  If it is 
+possible to maintain his blood pressure in good control and start 
+a cholesterol-lowering agent, he is to discuss this with you, and 
+also consider starting aspirin 81mg PO q.d. for primary prevention 
+of heart disease.  He was informed that it is possible that there 
+is some element of his immune system fluctuations and possibly his 
+hormonal therapies may be contributing to some of his 
+symptomatology but the diagnosis or etiology of these symptoms is 
+not clear.  
+ 
+Thank you for letting me take part in your patient's healthcare.
+ 
+Sincerely, 
+ 
+ 
+ 
+Clarence K. Hart, M.D. 
+ 
+ 
+Brice Short, M.D.
+RE:Craft, Lloyd
+MRN:26649180
+3-16-14
+Page 3
+ 
+ 
+ 
+cc:
+Mr. Lloyd Craft
+009 Buchanan St
+Opp, OK  21785
+ 
+YF:LN:4843/DD:3-16-14/DT:3-22-14 
+ 
+ 
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <HYPERLIPIDEMIA id="DOC5" time="before DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY0" start="3879" end="3899" text="elevated cholesterol" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY1" start="3879" end="3899" text="elevated cholesterol" time="before DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <HYPERLIPIDEMIA id="DOC6" time="after DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY2" start="3879" end="3899" text="elevated cholesterol" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY3" start="3879" end="3899" text="elevated cholesterol" time="after DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <HYPERLIPIDEMIA id="DOC10" time="during DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY4" start="3879" end="3899" text="elevated cholesterol" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY5" start="3879" end="3899" text="elevated cholesterol" time="during DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <MEDICATION id="DOC0" time="during DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M0" start="2058" end="2064" text="Altace" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M1" start="2058" end="2065" text="Altace " time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M2" start="2058" end="2064" text="Altace" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC2" time="after DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M3" start="2058" end="2064" text="Altace" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M4" start="2058" end="2065" text="Altace " time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M5" start="2058" end="2064" text="Altace" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC3" time="before DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M6" start="2058" end="2064" text="Altace" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M7" start="2058" end="2065" text="Altace " time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M8" start="2058" end="2064" text="Altace" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC1" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="2069" end="2081" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="2069" end="2081" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H2" start="2069" end="2081" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC4" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H3" start="2069" end="2081" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H4" start="2069" end="2081" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H5" start="2069" end="2081" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC7" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H6" start="2069" end="2081" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H7" start="2069" end="2081" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H8" start="2069" end="2081" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <FAMILY_HIST id="DOC8" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC9" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" start="3" end="10" text="Record " status="unknown" comment=""/>
+      <SMOKER id="S2" status="unknown"/>
+    </SMOKER>
+  </TAGS>
+</root>

@@ -1,0 +1,185 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2088-04-19
+
+
+
+
+Internal Medicine
+714 Riverview Circle              ROBISON, NEIL
+St. Peter, TX  89615                    82302673
+(660) 857-3335                     04/19/2088
+
+
+HISTORY OF PRESENT ILLNESS:  Neil comes in today to follow up on multiple medical issues, the first of which is his benign prostatic hypertrophy.  He states that since beginning the Flomax that we started him on in January, his symptoms are at least 50% better.  He is only getting up once per night to go to the bathroom and is not having any hesitancy or difficulty passing his urine.  He is also following up on his elevated cholesterol, his hypertension.  He states that he has been trying to follow a better diet, but does state that he has not been particularly good about getting regular exercise.  He is also following up on his diabetes.  He is not having any difficulty with his medications.  He did not schedule his colonoscopy that I had referred him for in January but states that he would be willing to do so after the spring.  He is also following up on his COPD.  He states that he has been using the Pulmicort and the Spiriva as well as the Serevent Diskus on a daily basis.  He states that his breathing has been good.  He is hardly wheezing at all and he has better exercise tolerance than before.  He is also noted to have hepatitis C as well as fatty liver.  A recent ultrasound also demonstrated gallstones.  He does not have any postprandial symptoms of right upper quadrant pain, nausea or vomiting.  He does question whether or not he is a candidate for treatment of hepatitis C.
+
+PAST MEDICAL HISTORY:  Significant for B-cell lymphoma, pontine stroke, basilar artery stent, herpes zoster, graft versus host disease, hypertension, hyperlipidemia, hyperhomocysteinemia, Pseudomonas pneumonia, COPD, diabetes, heart murmur, BPH and hepatitis C as well as gallstones and fatty liver.
+
+MEDICATIONS:  Serevent Diskus, metformin, folate, Flomax, Spiriva, albuterol, Lopressor, Combivent, Pulmicort, vitamin B12, vitamin B6, magnesium and aspirin.
+
+ALLERGIES:  He has an allergy to ACE inhibitors, dapsone, ganciclovir, sulfa, and Bactrim.
+
+PHYSICAL EXAMINATION:  Blood pressure is 140/90, on repeat 148/90, pulse is 64, temperature 97.1 and weight is 259 pounds.  In general, he is in no acute distress.  The HEENT exam demonstrates no icterus and no injection.  The oropharynx is clear.  Neck is supple.  There is no lymphadenopathy.  Lungs are clear to auscultation bilaterally with no wheezes and no rales.  Heart is regular rate and rhythm with no murmurs, rubs or gallops.  The abdomen is soft, nondistended, and nontender.  There is no hepatosplenomegaly.  The extremities show no edema.
+
+ASSESSMENT AND PLAN:
+1.  Diabetes, his most recent hemoglobin A1c was 6.5 and this does not need to be done again until July.  He was advised again to continue to follow a healthy diet and offered again referral to a nutritionist, currently declines at this time.  He is up-to-date with his Ophthalmology exam.
+2.  BPH.  We will increase his Flomax to 0.8 mg to see if we can further improve his symptoms.  Fortunately they are responding quite well to this.
+3.  Hypertension.  This is not adequate control with his current regimen, however, we are increasing his Flomax today so I would like to see how he does in terms of his blood pressure when I see him back in a month.  If his blood pressure is still elevated, we will then modify his antihypertensive regimen to improve this.
+4.  COPD.  Currently, he is doing well with his current regimen.  He has no evidence of a flare at this time and he is advised to continue getting as much exercise as possible.
+5.  Elevated cholesterol.  His LDL goal should be less than 100 if not less than 70 given his multiple medical issues.  If his LDL is greater than 70 on this most recent check we may try him on a small dose of simvastatin to see if we can get him under goal without an elevation in his liver function tests.
+6.  Abnormal liver function tests.  These are a combination of his hepatitis C and the fatty liver.  It is reasonable to have him seen in Hepatology to see if he would be a candidate for treatment of the hepatitis C.  For now, we will work on his diabetes, weight loss and management of his cholesterol and we will refer him to Hepatology.  Follow up with me is in one month.
+
+
+______________________________
+Grace Knapp, M.D.
+
+
+
+
+
+eScription document:1-5138285 CSSten Tel
+
+
+
+DD: 04/23/88
+DT: 04/23/88
+DV: 04/19/88
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="during DCT" type1="aspirin" type2="">
+      <MEDICATION id="M0" start="2051" end="2058" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M1" start="2051" end="2058" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M2" start="2051" end="2058" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC1" time="after DCT" type1="metformin" type2="">
+      <MEDICATION id="M3" start="1932" end="1941" text="metformin" time="after DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M4" start="1932" end="1941" text="metformin" time="after DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M5" start="1932" end="1941" text="metformin" time="after DCT" type1="metformin" type2="" comment=""/>
+    </MEDICATION>
+    <DIABETES id="DOC2" time="before DCT" indicator="A1C">
+      <DIABETES id="D0" start="2770" end="2781" text="A1c was 6.5" time="before DCT" indicator="A1C" comment=""/>
+      <DIABETES id="D1" start="2770" end="2781" text="A1c was 6.5" time="before DCT" indicator="A1C" comment=""/>
+    </DIABETES>
+    <HYPERTENSION id="DOC3" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="1736" end="1748" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="639" end="651" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H2" start="635" end="651" text="his hypertension" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERLIPIDEMIA id="DOC4" time="before DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY0" start="1750" end="1764" text="hyperlipidemia" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY1" start="613" end="634" text="elevated cholesterol," time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY2" start="613" end="633" text="elevated cholesterol" time="before DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <DIABETES id="DOC5" time="during DCT" indicator="mention">
+      <DIABETES id="D2" start="1817" end="1825" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D3" start="831" end="839" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D4" start="827" end="839" text="his diabetes" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <MEDICATION id="DOC6" time="after DCT" type1="aspirin" type2="">
+      <MEDICATION id="M6" start="2051" end="2058" text="aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M7" start="2051" end="2058" text="aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M8" start="2051" end="2058" text="aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERLIPIDEMIA id="DOC7" time="during DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY3" start="1750" end="1764" text="hyperlipidemia" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY4" start="613" end="634" text="elevated cholesterol," time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY5" start="613" end="633" text="elevated cholesterol" time="during DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <HYPERTENSION id="DOC8" time="during DCT" indicator="high bp">
+      <HYPERTENSION id="H3" start="2194" end="2200" text="140/90" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H4" start="2212" end="2218" text="148/90" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H5" start="2212" end="2218" text="148/90" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H6" start="2176" end="2200" text="Blood pressure is 140/90" time="during DCT" indicator="high bp" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC9" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H7" start="1736" end="1748" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H8" start="639" end="651" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H9" start="635" end="651" text="his hypertension" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <MEDICATION id="DOC10" time="after DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M9" start="1979" end="1988" text="Lopressor" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M10" start="1979" end="1988" text="Lopressor" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M11" start="1979" end="1988" text="Lopressor" time="after DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <SMOKER id="DOC11" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" status="unknown"/>
+      <SMOKER id="S2" status="unknown"/>
+    </SMOKER>
+    <DIABETES id="DOC12" time="before DCT" indicator="mention">
+      <DIABETES id="D5" start="1817" end="1825" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D6" start="831" end="839" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D7" start="827" end="839" text="his diabetes" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <MEDICATION id="DOC13" time="during DCT" type1="metformin" type2="">
+      <MEDICATION id="M12" start="1932" end="1941" text="metformin" time="during DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M13" start="1932" end="1941" text="metformin" time="during DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M14" start="1932" end="1941" text="metformin" time="during DCT" type1="metformin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC14" time="before DCT" type1="metformin" type2="">
+      <MEDICATION id="M15" start="1932" end="1941" text="metformin" time="before DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M16" start="1932" end="1941" text="metformin" time="before DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M17" start="1932" end="1941" text="metformin" time="before DCT" type1="metformin" type2="" comment=""/>
+    </MEDICATION>
+    <FAMILY_HIST id="DOC15" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <HYPERLIPIDEMIA id="DOC16" time="after DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY6" start="1750" end="1764" text="hyperlipidemia" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY7" start="613" end="634" text="elevated cholesterol," time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY8" start="613" end="633" text="elevated cholesterol" time="after DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <MEDICATION id="DOC17" time="before DCT" type1="aspirin" type2="">
+      <MEDICATION id="M18" start="2051" end="2058" text="aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M19" start="2051" end="2058" text="aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M20" start="2051" end="2058" text="aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC18" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H10" start="1736" end="1748" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H11" start="639" end="651" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H12" start="635" end="651" text="his hypertension" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <MEDICATION id="DOC19" time="before DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M21" start="1979" end="1988" text="Lopressor" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M22" start="1979" end="1988" text="Lopressor" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M23" start="1979" end="1988" text="Lopressor" time="before DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC20" time="during DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M24" start="1979" end="1988" text="Lopressor" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M25" start="1979" end="1988" text="Lopressor" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M26" start="1979" end="1988" text="Lopressor" time="during DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <DIABETES id="DOC21" time="after DCT" indicator="mention">
+      <DIABETES id="D8" start="1817" end="1825" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D9" start="831" end="839" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D10" start="827" end="839" text="his diabetes" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <PHI id="P0" start="16" end="26" text="2088-04-19" TYPE="DATE"/>
+    <PHI id="P1" start="49" end="69" text="714 Riverview Circle" TYPE="STREET"/>
+    <PHI id="P2" start="83" end="96" text="ROBISON, NEIL" TYPE="PATIENT"/>
+    <PHI id="P3" start="97" end="106" text="St. Peter" TYPE="CITY"/>
+    <PHI id="P4" start="108" end="110" text="TX" TYPE="STATE"/>
+    <PHI id="P5" start="112" end="117" text="89615" TYPE="ZIP"/>
+    <PHI id="P6" start="137" end="145" text="82302673" TYPE="MEDICALRECORD"/>
+    <PHI id="P7" start="146" end="160" text="(660) 857-3335" TYPE="PHONE"/>
+    <PHI id="P8" start="181" end="191" text="04/19/2088" TYPE="DATE"/>
+    <PHI id="P9" start="223" end="227" text="Neil" TYPE="PATIENT"/>
+    <PHI id="P10" start="409" end="416" text="January" TYPE="DATE"/>
+    <PHI id="P11" start="964" end="971" text="January" TYPE="DATE"/>
+    <PHI id="P12" start="1027" end="1033" text="spring" TYPE="DATE"/>
+    <PHI id="P13" start="2828" end="2832" text="July" TYPE="DATE"/>
+    <PHI id="P14" start="4385" end="4396" text="Grace Knapp" TYPE="DOCTOR"/>
+    <PHI id="P15" start="4428" end="4437" text="1-5138285" TYPE="IDNUM"/>
+    <PHI id="P16" start="4456" end="4464" text="04/23/88" TYPE="DATE"/>
+    <PHI id="P17" start="4469" end="4477" text="04/23/88" TYPE="DATE"/>
+    <PHI id="P18" start="4482" end="4490" text="04/19/88" TYPE="DATE"/>
+  </TAGS>
+</root>

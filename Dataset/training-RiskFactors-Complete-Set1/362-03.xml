@@ -1,0 +1,168 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2074-10-17
+
+CARDIOLOGY ADMISSION NOTE
+
+
+
+Susie DIETZ									96O-776
+
+KCH 538-41-21-0
+
+Date of admission 10/17/74
+
+Ref:  Scott Fink, MD, 1480 Campanello Street, DARTMOUTH 76846
+
+
+
+This 57-yr-old female w/CP syndrome, CRFs of DM, HTN, no documented vascular disease, w/several prior evals for CP syndrome.  ETT 11/11/73:  7'8    on SBP, typical CP, nondiagnostic ECG changes interpreted as c/w but not diagnostic of ischemia.  In USH, able to walk 1 flight w/o symptoms until this AM when she had L neck pain radiating to head and down L arm lasting 2 min; also intermittent palpitations, diaphoresis, symptom complex present for some time.  On arrival in ER w/o chest symptoms, BP 174/110, P 100, no ST abnormalities.  Admitted for eval.
+
+
+
+ROS:  Denies fevers, chills, N/V, diarrhea, presyncope, claudication.  All other pertinent systems neg.
+
+
+
+PMH:  DM, HTN, panic attacks, hx of hep B, fatty liver disease, pos PPD.
+
+
+
+Meds:  aspirin 81mg qd, metformin 850mg bid, nifedipine.  Contrast allergy in record (details unknown), intolerant of lisinopril.  
+
+
+
+No family hx of premature CAD.  Does not smoke, rare alcohol.
+
+
+
+PE:  BP 113/75, P 90, comfortable lying in bed, A&A.  No JVD, carotids normal upstrokes w/o bruits, chest CTA.  ND PMI, RRR, normal intensity S1, phys split S2, no M/R/G.  Abdomen soft NT.  Extremities no C/C/E, warm to touch.  Femorals, DPs and PTs 2+, no bruit.  Power normal in all 4.  
+
+
+
+Labs:  crea 0.8, TPNI < assay, crit 40.
+
+ECG:  SR, normal axis/intervals, no diagnostic Qs, no ST or T-wave abnormalities.
+
+
+
+I&P:  Pt w/CP syndrome, CRFs including DM.  Low clinical probability of acute coronary syndrome.  Low risk status other than DM.  Plan serial cardiac TPNs and ECGs overnight.  If she remains w/o objective evidence of ischemia or high-risk features will proceed w/ETT MIBI tomorrow or as outpt.  Continue aspirin, start low-dose beta blockade, continue DM mgmt.  Fasting lipid profile.  Pt should be on an ARB if BP will tolerate.
+
+
+
+
+
+________________
+
+Paul B. Stokes, MD
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="during DCT" type1="aspirin" type2="">
+      <MEDICATION id="M0" start="947" end="962" text="aspirin 81mg qd" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M1" start="1863" end="1870" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M2" start="945" end="954" text="  aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M3" start="947" end="954" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC1" time="after DCT" type1="metformin" type2="">
+      <MEDICATION id="M4" start="964" end="983" text="metformin 850mg bid" time="after DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M5" start="964" end="973" text="metformin" time="after DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M6" start="964" end="973" text="metformin" time="after DCT" type1="metformin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC2" time="during DCT" type1="metformin" type2="">
+      <MEDICATION id="M7" start="964" end="983" text="metformin 850mg bid" time="during DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M8" start="964" end="973" text="metformin" time="during DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M9" start="964" end="973" text="metformin" time="during DCT" type1="metformin" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC3" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="245" end="248" text="HTN" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="245" end="248" text="HTN" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <DIABETES id="DOC4" time="during DCT" indicator="mention">
+      <DIABETES id="D0" start="241" end="243" text="DM" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D1" start="241" end="243" text="DM" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <MEDICATION id="DOC5" time="after DCT" type1="aspirin" type2="">
+      <MEDICATION id="M10" start="947" end="962" text="aspirin 81mg qd" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M11" start="1863" end="1870" text="aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M12" start="945" end="954" text="  aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M13" start="947" end="954" text="aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC6" time="during DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M14" start="985" end="995" text="nifedipine" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M15" start="985" end="995" text="nifedipine" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M16" start="985" end="995" text="nifedipine" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC7" time="before DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M17" start="985" end="995" text="nifedipine" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M18" start="985" end="995" text="nifedipine" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M19" start="985" end="995" text="nifedipine" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC8" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H2" start="245" end="248" text="HTN" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H3" start="245" end="248" text="HTN" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <MEDICATION id="DOC9" time="after DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M20" start="1887" end="1900" text="beta blockade" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M21" start="1871" end="1900" text=" start low-dose beta blockade" time="after DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <DIABETES id="DOC10" time="before DCT" indicator="mention">
+      <DIABETES id="D2" start="241" end="243" text="DM" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D3" start="241" end="243" text="DM" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <MEDICATION id="DOC11" time="before DCT" type1="metformin" type2="">
+      <MEDICATION id="M22" start="964" end="983" text="metformin 850mg bid" time="before DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M23" start="964" end="973" text="metformin" time="before DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M24" start="964" end="973" text="metformin" time="before DCT" type1="metformin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC12" time="before DCT" type1="aspirin" type2="">
+      <MEDICATION id="M25" start="947" end="962" text="aspirin 81mg qd" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M26" start="1863" end="1870" text="aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M27" start="945" end="954" text="  aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M28" start="947" end="954" text="aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <SMOKER id="DOC13" status="never">
+      <SMOKER id="S0" start="1107" end="1121" text="Does not smoke" status="never" comment=""/>
+      <SMOKER id="S1" start="1107" end="1121" text="Does not smoke" status="never" comment=""/>
+      <SMOKER id="S2" start="1107" end="1121" text="Does not smoke" status="never" comment=""/>
+    </SMOKER>
+    <MEDICATION id="DOC14" time="after DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M29" start="985" end="995" text="nifedipine" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M30" start="985" end="995" text="nifedipine" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M31" start="985" end="995" text="nifedipine" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC15" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H4" start="245" end="248" text="HTN" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H5" start="245" end="248" text="HTN" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <FAMILY_HIST id="DOC16" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <DIABETES id="DOC17" time="after DCT" indicator="mention">
+      <DIABETES id="D4" start="241" end="243" text="DM" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D5" start="241" end="243" text="DM" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <PHI id="P0" start="16" end="26" text="2074-10-17" TYPE="DATE"/>
+    <PHI id="P1" start="57" end="68" text="Susie DIETZ" TYPE="PATIENT"/>
+    <PHI id="P2" start="77" end="84" text="96O-776" TYPE="ROOM"/>
+    <PHI id="P3" start="86" end="89" text="KCH" TYPE="HOSPITAL"/>
+    <PHI id="P4" start="90" end="101" text="538-41-21-0" TYPE="MEDICALRECORD"/>
+    <PHI id="P5" start="121" end="129" text="10/17/74" TYPE="DATE"/>
+    <PHI id="P6" start="137" end="147" text="Scott Fink" TYPE="DOCTOR"/>
+    <PHI id="P7" start="153" end="175" text="1480 Campanello Street" TYPE="STREET"/>
+    <PHI id="P8" start="177" end="186" text="DARTMOUTH" TYPE="CITY"/>
+    <PHI id="P9" start="187" end="192" text="76846" TYPE="ZIP"/>
+    <PHI id="P10" start="201" end="203" text="57" TYPE="AGE"/>
+    <PHI id="P11" start="326" end="334" text="11/11/73" TYPE="DATE"/>
+    <PHI id="P12" start="2012" end="2026" text="Paul B. Stokes" TYPE="DOCTOR"/>
+  </TAGS>
+</root>

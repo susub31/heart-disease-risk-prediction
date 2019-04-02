@@ -1,0 +1,119 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2089-04-14
+
+ ID Sign off  Note
+
+Kong, Catherine
+MR# 6746781
+
+Original ID Consult: 4/6/89
+Sign off Date: 4/14/89
+
+ID issues : GBS AV endocarditis
+
+Brief History:  See initial ID consult note for greater detail.  Briefly, 70 yo F w HTN, DM2, stable angina who is transferred to NSH on 4/3/89 with aortic valve endocarditis complicated by AI and CHF.   She was in her USOH until ~2/8/89 when she had an episode of shingles on R arm for which she took Valtrex.  Soon after she began to feel fatigued and febrile and was found to have a 2/2 bottles positive for Group B streptococcus on 2/21 (PCN MIC 0.125) for which her PCP treated her with 2 week course of amoxicillin.  On 4/3 she presents with SOB, orthopnea, and PND.  she developed DOE, PND, orthopnea, worsening fatigue and malaise.  CXR at OSH notable for pulm edema and TTE demonstrated  vegetation on the aortic valve.   
+
+She was transferred to NSH where she was started on  ampicillin 1gm IV q8h and gentamicin 120 mg TID.  TTE 4/4 showed a mobile mass of echoes attached to the valve c/w vegetation.  The right coronary leaflet appears flail, and there was prolapse of the non-coronary cusp as well.  There was evidence of at least moderate aortic insufficiency by color and spectral Doppler.   She went to the OR on 4/5 CABG, TEE, Homograft aortic root placement oIn the OR the aortic valve was severely damaged. There was perforation of the right  coronary leaflet and  there were numerous vegetations, which appeared to be rolled up aortic valve tissue on predominantly the right and noncoronary leaflets. Underneath the annulus of the right coronary, there was an area of early abscess
+formation.   Gram stain of tissues was negative for organisms and cultures were negative.  Pathology was notable for Numerous degenerated bacterial coccal forms present on silver stain consistent with Streptococcus.  Occasional residual gram positive cocci present on Brown-Hopps stain.
+
+She was started on PCN 3 million units q4h and Gentamicin 60 mg q12h on 4/6 with plan to  complete 6 weeks of PCN, and 2 weeks of genatmicin.  
+
+Her hospital course was c/b by heart block for which she received a PPM on 4/12.
+
+Recommendations:  
+Gentamicin 60 mg IV q12h)  will end on 4/20
+Please check gent peak/trough early next week. ( goal peak 3-5, trough <1)
+PCN 3 million units q4h until 5/18
+ID f/u scheduled on 5/22 with me on Beckett 10 at 10:00am
+Weekly safety labs: Lfts, Chem 7 and CBC/diff.  Fax labs to # below Attn: Natashia Rosa
+
+Will sign off for now.  Please call with questions.
+
+
+______________________
+Natashia Rosa
+Infectious Disease Fellow  
+Office #  470-119-6124
+Fax #   664-577-0339    
+Pager # 27960
+
+
+
+]]></TEXT>
+  <TAGS>
+    <DIABETES id="DOC0" time="before DCT" indicator="mention">
+      <DIABETES id="D0" start="251" end="253" text="DM" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D1" start="251" end="255" text="DM2," time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D2" start="251" end="254" text="DM2" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <HYPERTENSION id="DOC1" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="246" end="249" text="HTN" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="246" end="249" text="HTN" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H2" start="246" end="249" text="HTN" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC2" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H3" start="246" end="249" text="HTN" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H4" start="246" end="249" text="HTN" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H5" start="246" end="249" text="HTN" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <CAD id="DOC3" time="before DCT" indicator="symptom">
+      <CAD id="C0" start="263" end="269" text="angina" time="before DCT" indicator="symptom" comment=""/>
+      <CAD id="C1" start="256" end="269" text="stable angina" time="before DCT" indicator="symptom" comment=""/>
+      <CAD id="C2" start="256" end="269" text="stable angina" time="before DCT" indicator="symptom" comment=""/>
+    </CAD>
+    <DIABETES id="DOC4" time="during DCT" indicator="mention">
+      <DIABETES id="D3" start="251" end="253" text="DM" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D4" start="251" end="255" text="DM2," time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D5" start="251" end="254" text="DM2" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <HYPERTENSION id="DOC5" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H6" start="246" end="249" text="HTN" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H7" start="246" end="249" text="HTN" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H8" start="246" end="249" text="HTN" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <FAMILY_HIST id="DOC6" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC7" status="unknown">
+      <SMOKER id="S0" start="3" end="9" text="Record" status="unknown" comment=""/>
+      <SMOKER id="S1" status="unknown"/>
+      <SMOKER id="S2" status="unknown"/>
+    </SMOKER>
+    <DIABETES id="DOC8" time="after DCT" indicator="mention">
+      <DIABETES id="D6" start="251" end="253" text="DM" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D7" start="251" end="255" text="DM2," time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D8" start="251" end="254" text="DM2" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <PHI id="P0" start="16" end="26" text="2089-04-14" TYPE="DATE"/>
+    <PHI id="P1" start="48" end="63" text="Kong, Catherine" TYPE="PATIENT"/>
+    <PHI id="P2" start="68" end="75" text="6746781" TYPE="MEDICALRECORD"/>
+    <PHI id="P3" start="98" end="104" text="4/6/89" TYPE="DATE"/>
+    <PHI id="P4" start="120" end="127" text="4/14/89" TYPE="DATE"/>
+    <PHI id="P5" start="236" end="238" text="70" TYPE="AGE"/>
+    <PHI id="P6" start="292" end="295" text="NSH" TYPE="HOSPITAL"/>
+    <PHI id="P7" start="299" end="305" text="4/3/89" TYPE="DATE"/>
+    <PHI id="P8" start="393" end="399" text="2/8/89" TYPE="DATE"/>
+    <PHI id="P9" start="598" end="602" text="2/21" TYPE="DATE"/>
+    <PHI id="P10" start="688" end="691" text="4/3" TYPE="DATE"/>
+    <PHI id="P11" start="918" end="921" text="NSH" TYPE="HOSPITAL"/>
+    <PHI id="P12" start="1002" end="1005" text="4/4" TYPE="DATE"/>
+    <PHI id="P13" start="1292" end="1295" text="4/5" TYPE="DATE"/>
+    <PHI id="P14" start="2025" end="2028" text="4/6" TYPE="DATE"/>
+    <PHI id="P15" start="2173" end="2177" text="4/12" TYPE="DATE"/>
+    <PHI id="P16" start="2238" end="2242" text="4/20" TYPE="DATE"/>
+    <PHI id="P17" start="2348" end="2352" text="5/18" TYPE="DATE"/>
+    <PHI id="P18" start="2373" end="2377" text="5/22" TYPE="DATE"/>
+    <PHI id="P19" start="2389" end="2399" text="Beckett 10" TYPE="ROOM"/>
+    <PHI id="P20" start="2485" end="2498" text="Natashia Rosa" TYPE="DOCTOR"/>
+    <PHI id="P21" start="2577" end="2590" text="Natashia Rosa" TYPE="DOCTOR"/>
+    <PHI id="P22" start="2629" end="2641" text="470-119-6124" TYPE="PHONE"/>
+    <PHI id="P23" start="2650" end="2662" text="664-577-0339" TYPE="FAX"/>
+    <PHI id="P24" start="2675" end="2680" text="27960" TYPE="PHONE"/>
+  </TAGS>
+</root>

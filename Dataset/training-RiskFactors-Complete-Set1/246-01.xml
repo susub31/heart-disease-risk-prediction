@@ -1,0 +1,167 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2100-10-21
+
+Johnson County Home
+
+Emergency Department Record
+
+
+
+Patient: YEO, AUSTIN             MRN: 8652895        DOB:  5/17/2060     Sex: M
+
+Registration Date/Time: 10/21/2100 9:15:00 AM            Provider: ELLEN HUNTER
+
+
+
+
+
+PMHx
+
+cad?
+
+etoh abuse
+
+Meds
+
+patient unable to recall
+
+Allergy
+
+nkda
+
+Social Hx
+
+homeless
+
+history of etOH abuse
+
+
+
+ED Attending Physician Note
+
+HPI
+
+Patient was admitted to the observation unit at JCH overnight because of his complaints of chest pain.  Plan had been to cycle enzymes and provocative testing, however, this am patient adamantly refused to stay in hospital and understanding leaving included incomplete evaluation of chest pain and risk of death, patient signed out AMA.
+
+
+
+I left the obseration unit to walk downstairs and find patient signing into the ER "I want to go to detox"
+
+Asked patient why he left OU to just come back to the hospital and he said "There is nothing wrong with my heart".
+
+
+
+Patient also reports he thought he had a place to stay but after making a few phone calls, realized he had nowhere to go to spend the night.
+
+
+
+No new complaints including no chest pain or shortness of breath
+
+ROS
+
+see above
+
+Vitals
+
+See Nursing Notes
+
+PE
+
+awake alert
+
+EOMI PERRL
+
+supple
+
+cTA
+
+RRR
+
+soft NT
+
+no edema +pulses
+
+no rashes
+
+ambulatory
+
+Medical Decision Making ED Course
+
+social services contacted and they began screening for detox.
+
+however, before screening process could be finished patient left the ED and has not returned.
+
+Condition on Discharge
+
+stable
+
+Diagnoses
+
+detox evaluation and screening
+
+
+
+This note has been electronically signed by ELLEN HUNTER, MD 10/24/2100 12:31:23 PM
+
+
+
+Clinical staff documenting in the ED note include:
+
+
+
+Attending/Nurse Practitioners(s)
+
+
+
+ELLEN HUNTER, MD
+
+
+
+]]></TEXT>
+  <TAGS>
+    <CAD id="DOC0" time="before DCT" indicator="mention">
+      <CAD id="C0" start="252" end="255" text="cad" time="before DCT" indicator="mention" comment=""/>
+      <CAD id="C1" start="252" end="255" text="cad" time="before DCT" indicator="mention" comment=""/>
+      <CAD id="C2" start="252" end="255" text="cad" time="before DCT" indicator="mention" comment=""/>
+    </CAD>
+    <CAD id="DOC1" time="during DCT" indicator="mention">
+      <CAD id="C3" start="252" end="255" text="cad" time="during DCT" indicator="mention" comment=""/>
+      <CAD id="C4" start="252" end="255" text="cad" time="during DCT" indicator="mention" comment=""/>
+      <CAD id="C5" start="252" end="255" text="cad" time="during DCT" indicator="mention" comment=""/>
+    </CAD>
+    <FAMILY_HIST id="DOC2" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+      <FAMILY_HIST id="F3" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC3" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" status="unknown"/>
+      <SMOKER id="S2" status="unknown"/>
+      <SMOKER id="S3" status="unknown"/>
+    </SMOKER>
+    <CAD id="DOC4" time="after DCT" indicator="mention">
+      <CAD id="C6" start="252" end="255" text="cad" time="after DCT" indicator="mention" comment=""/>
+      <CAD id="C7" start="252" end="255" text="cad" time="after DCT" indicator="mention" comment=""/>
+      <CAD id="C8" start="252" end="255" text="cad" time="after DCT" indicator="mention" comment=""/>
+    </CAD>
+    <PHI id="P0" start="16" end="26" text="2100-10-21" TYPE="DATE"/>
+    <PHI id="P1" start="28" end="47" text="Johnson County Home" TYPE="HOSPITAL"/>
+    <PHI id="P2" start="89" end="100" text="YEO, AUSTIN" TYPE="PATIENT"/>
+    <PHI id="P3" start="118" end="125" text="8652895" TYPE="MEDICALRECORD"/>
+    <PHI id="P4" start="139" end="148" text="5/17/2060" TYPE="DATE"/>
+    <PHI id="P5" start="185" end="195" text="10/21/2100" TYPE="DATE"/>
+    <PHI id="P6" start="228" end="240" text="ELLEN HUNTER" TYPE="DOCTOR"/>
+    <PHI id="P7" start="445" end="448" text="JCH" TYPE="HOSPITAL"/>
+    <PHI id="P8" start="748" end="763" text="obseration unit" TYPE="DEPARTMENT"/>
+    <PHI id="P9" start="871" end="873" text="OU" TYPE="DEPARTMENT"/>
+    <PHI id="P10" start="1627" end="1639" text="ELLEN HUNTER" TYPE="DOCTOR"/>
+    <PHI id="P11" start="1644" end="1654" text="10/24/2100" TYPE="DATE"/>
+    <PHI id="P12" start="1760" end="1772" text="ELLEN HUNTER" TYPE="DOCTOR"/>
+  </TAGS>
+</root>

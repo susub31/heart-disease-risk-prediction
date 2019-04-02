@@ -1,0 +1,241 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2077-01-29
+
+					
+
+Novolog 3-7 tid	683-51-28
+
+Lantus 19-20 at hs	Xuan, Wendy
+
+Neoral 100/100 mg bid 
+
+CellCept 1000 mg bid 
+
+Lopressor 25/12.5 mg bid
+
+Captopril 12.5 mg bid
+
+Lipitor 10 mg qd
+
+Neurontin 600/1200 mg bid
+
+Tums 200 mg ii bid (often forgets)
+
+Prilosec 20 mg bid
+
+MVI i bid
+
+ASA 325 mg qd
+
+Quinine Sulfate 260 mg at hs
+
+Senekot
+
+
+
+January 29, 2077
+
+
+
+Interim History:	
+
+Comes to review her medical problems.
+
+Her ETT showed mild distal anterior and antero-apical ischemia. The last p-CABG ETT was done in September, 2074, and did not included nuclear images. The electrocardiographic portion of both tests was considered to be uninterpretable because of inadequate elevation of the heart rate. Dr. Dotson asked her to double the atenolol dose. Since she has had low BP in the past, we increased it to only 25/12.5. BP 80/50-90/60 at home and she has not felt so well, tired. Not sure whether the dyspnea on exertion that led us to get the ETT has changed since she has not challenged it. 
+
+
+
+Home Blood Tests:  Not very good by history. A1c over 9%. She still has trouble focusing on it. 
+
+Retinopathy:	Visions stable.
+
+Nephropathy:	Cr slightly up to 1.5
+
+Cardiac:	above
+
+Vascular:	No claudication
+
+
+
+Past Medical History: 
+
+Has had flu shot this year.
+
+
+
+Review of Systems: above
+
+
+
+Physical Exam:	
+
+Looks well.
+
+BP:   110/76   120/80 by me (not sure she took meds this AM)		P:   72, regular	
+
+Wt:   167 without shoes, up 4
+
+Neck:	No JVD
+
+Chest:	Clear to auscultation
+
+Heart:	Normal S1; ? physiologic S2.  No gallops.  No murmurs
+
+Extremities:	No edema.            
+
+
+
+
+
+Impressions and Plan:	
+
+Reduce the captopril to 6.25 mg bid.
+
+Report back BP; may have room to go up to 25 mg bid on the atenolol.
+
+She does have some hypoglycemia and symptoms are sometimes subtle. Stressed the likely greater difficulty in perceiving hypoglycemia on beta blockers. 
+
+Electrolytes, BUN/Creatinine
+
+
+
+Appointments:	As scheduled
+
+
+
+cc:	Xavier Dotson, M.D.
+
+
+
+
+
+			Yacob T. Kane, M.D., Ph.D.
+
+      
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="during DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M0" start="167" end="177" text="Captopril " time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M1" start="1634" end="1643" text="captopril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M2" start="167" end="176" text="Captopril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M3" start="1634" end="1643" text="captopril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M4" start="167" end="177" text="Captopril " time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC1" time="after DCT" type1="statin" type2="">
+      <MEDICATION id="M5" start="190" end="197" text="Lipitor" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M6" start="190" end="197" text="Lipitor" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M7" start="190" end="197" text="Lipitor" time="after DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC2" time="during DCT" type1="aspirin" type2="">
+      <MEDICATION id="M8" start="302" end="305" text="ASA" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M9" start="302" end="305" text="ASA" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M10" start="302" end="305" text="ASA" time="during DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <DIABETES id="DOC3" time="before DCT" indicator="A1C">
+      <DIABETES id="D0" start="1064" end="1075" text="A1c over 9%" time="before DCT" indicator="A1C" comment=""/>
+      <DIABETES id="D1" start="1064" end="1075" text="A1c over 9%" time="before DCT" indicator="A1C" comment=""/>
+      <DIABETES id="D2" start="1064" end="1075" text="A1c over 9%" time="before DCT" indicator="A1C" comment=""/>
+    </DIABETES>
+    <MEDICATION id="DOC4" time="after DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M11" start="167" end="177" text="Captopril " time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M12" start="1634" end="1643" text="captopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M13" start="167" end="176" text="Captopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M14" start="1634" end="1643" text="captopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M15" start="167" end="177" text="Captopril " time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC5" time="after DCT" type1="aspirin" type2="">
+      <MEDICATION id="M16" start="302" end="305" text="ASA" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M17" start="302" end="305" text="ASA" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M18" start="302" end="305" text="ASA" time="after DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC6" time="after DCT" type1="insulin" type2="">
+      <MEDICATION id="M19" start="35" end="42" text="Novolog" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M20" start="62" end="68" text="Lantus" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M21" start="35" end="42" text="Novolog" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M22" start="62" end="68" text="Lantus" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M23" start="35" end="42" text="Novolog" time="after DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC7" time="after DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M24" start="141" end="150" text="Lopressor" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M25" start="141" end="150" text="Lopressor" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M26" start="756" end="764" text="atenolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M27" start="1720" end="1728" text="atenolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M28" start="141" end="150" text="Lopressor" time="after DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <SMOKER id="DOC8" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" status="unknown"/>
+      <SMOKER id="S2" start="3" end="10" text="Record " status="unknown" comment=""/>
+    </SMOKER>
+    <MEDICATION id="DOC9" time="before DCT" type1="statin" type2="">
+      <MEDICATION id="M29" start="190" end="197" text="Lipitor" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M30" start="190" end="197" text="Lipitor" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M31" start="190" end="197" text="Lipitor" time="before DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC10" time="during DCT" type1="statin" type2="">
+      <MEDICATION id="M32" start="190" end="197" text="Lipitor" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M33" start="190" end="197" text="Lipitor" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M34" start="190" end="197" text="Lipitor" time="during DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <FAMILY_HIST id="DOC11" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <MEDICATION id="DOC12" time="before DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M35" start="167" end="177" text="Captopril " time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M36" start="1634" end="1643" text="captopril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M37" start="167" end="176" text="Captopril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M38" start="1634" end="1643" text="captopril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M39" start="167" end="177" text="Captopril " time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC13" time="before DCT" type1="aspirin" type2="">
+      <MEDICATION id="M40" start="302" end="305" text="ASA" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M41" start="302" end="305" text="ASA" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M42" start="302" end="305" text="ASA" time="before DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC14" time="before DCT" type1="insulin" type2="">
+      <MEDICATION id="M43" start="35" end="42" text="Novolog" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M44" start="62" end="68" text="Lantus" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M45" start="35" end="42" text="Novolog" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M46" start="62" end="68" text="Lantus" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M47" start="35" end="42" text="Novolog" time="before DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC15" time="during DCT" type1="insulin" type2="">
+      <MEDICATION id="M48" start="35" end="42" text="Novolog" time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M49" start="62" end="68" text="Lantus" time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M50" start="35" end="42" text="Novolog" time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M51" start="62" end="68" text="Lantus" time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M52" start="35" end="42" text="Novolog" time="during DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC16" time="before DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M53" start="141" end="150" text="Lopressor" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M54" start="141" end="150" text="Lopressor" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M55" start="756" end="764" text="atenolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M56" start="1720" end="1728" text="atenolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M57" start="141" end="150" text="Lopressor" time="before DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC17" time="during DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M58" start="141" end="150" text="Lopressor" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M59" start="141" end="150" text="Lopressor" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M60" start="756" end="764" text="atenolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M61" start="1720" end="1728" text="atenolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M62" start="141" end="150" text="Lopressor" time="during DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <PHI id="P0" start="16" end="26" text="2077-01-29" TYPE="DATE"/>
+    <PHI id="P1" start="51" end="60" text="683-51-28" TYPE="MEDICALRECORD"/>
+    <PHI id="P2" start="81" end="92" text="Xuan, Wendy" TYPE="PATIENT"/>
+    <PHI id="P3" start="358" end="374" text="January 29, 2077" TYPE="DATE"/>
+    <PHI id="P4" start="532" end="547" text="September, 2074" TYPE="DATE"/>
+    <PHI id="P5" start="725" end="731" text="Dotson" TYPE="DOCTOR"/>
+    <PHI id="P6" start="1950" end="1963" text="Xavier Dotson" TYPE="DOCTOR"/>
+    <PHI id="P7" start="1978" end="1991" text="Yacob T. Kane" TYPE="DOCTOR"/>
+  </TAGS>
+</root>

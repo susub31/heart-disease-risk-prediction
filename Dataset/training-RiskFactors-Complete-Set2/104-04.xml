@@ -1,0 +1,267 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2097-07-19
+
+
+
+
+
+
+
+NAME:     Booker, Jennifer
+
+MRN:      7275714   
+
+
+
+OFFICE VISIT                                                                 
+
+
+
+Here for f/u. 
+
+
+
+Feeling better since using capsaicin yesterday, and notes relief!  
+
+
+
+Dr. Prater decreased atenolol bid.
+
+
+
+Problems
+
+Hepatitis C : liver biopsy 2093 with chronic hepatitis, stage III/IV, bridging fibrosis, failed interferon
+
+Hypothyroidism 
+
+Hypertension 
+
+Bipolar disease 
+
+Smoking 
+
+otalgia : possible neuralgia
+
+Diabetes mellitus 
+
+Obsessive compulsive disorder 
+
+
+
+Medications
+
+Synthroid (LEVOTHYROXINE SODIUM) PO QD (175MCG TABLET take 1 Tablet(s) x 90 days)
+
+Tegretol (CARBAMAZEPINE) PO TID (100MG TABLET CHEWABLE take 1 Tablet(s)), 2 Tablets QAM, 3 Tablets QPM
+
+Wellbutrin (BUPROPION HCL) PO QD (75MG TABLET take 1 Tablet(s))
+
+Ativan (LORAZEPAM) PO TID (0.5MG TABLET take 1 Tablet(s))
+
+Ativan (LORAZEPAM) PO QHS (1MG TABLET take 1 Tablet(s))
+
+Triazolam PO QHS (0.25MG TABLET take 0.5 -1 Tablet(s)), Must stop PM dose of Ativan as per Dr.Good
+
+Neurontin (GABAPENTIN) PO TID (600MG TABLET take 1 Tablet(s)), take 1 1/2 at bedtime
+
+Xalatan (LATANOPROST) 1DROP OU QAM 
+
+Flonase (FLUTICASONE NASAL SPRAY) 1-2SPRAY NAS QD 
+
+Humulin 70/30 (INSULIN 70/30 (HUMAN)) 20U QPM, 18 U QPM SC BID 
+
+Lisinopril PO QD (5MG TABLET take 1 Tablet(s))
+
+Timolol MALEATE 0.5% 1DROP OS QPM 
+
+Albuterol INHALER 2PUFF INH QID PRN prn 
+
+Oxycodone PO 4-5 x per day PRN pain in back, ribs (5MG TABLET take 1 Tablet(s)), had adverse reaction to duragesic, oxycontin makes nauseated. Has returned patches to me - Dr. Tapia
+
+Albuterol NEBULIZER 2.5MG NEB Q4-6H , premixed vials
+
+Insulin REGULAR HUMULIN ( Sliding Scale SC , use as directed 
+
+
+
+
+
+
+
+Allergies
+
+Aspirin - Unknown
+
+Sulfa - Unknown
+
+Codeine - Unknown : tolerates oxycodone 
+
+
+
+LMP 6/97.
+
+
+
+PHYSICAL EXAM:  Well-appearing female, overweigh, coughing frequently.
+
+
+
+Vital signs
+
+Wt. declined P 80 BP 100/70
+
+
+
+Lungs clear, 
+
+Cor RRR S1S2
+
+
+
+
+
+ASSESSMENT:  
+
+
+
+1.  Arthritis: cpasacin, oxycodone
+
+
+
+
+
+2.  DM : FS 278, on lantus 46u, increase to 50 u QHS.
+
+
+
+3.  
+
+
+
+4.  HMC- needs Td.
+
+
+
+
+
+
+
+RTC 8/97
+
+
+
+_____________________________________________
+
+Mia E. Tapia, M.D.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="during DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M0" start="1277" end="1287" text="Lisinopril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M1" start="1277" end="1287" text="Lisinopril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M2" start="1277" end="1287" text="Lisinopril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC2" time="after DCT" type1="insulin" type2="">
+      <MEDICATION id="M3" start="1212" end="1219" text="Humulin" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M4" start="1212" end="1219" text="Humulin" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M5" start="1212" end="1225" text="Humulin 70/30" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M6" start="1640" end="1663" text="Insulin REGULAR HUMULIN" time="after DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC3" time="before DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M7" start="1277" end="1287" text="Lisinopril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M8" start="1277" end="1287" text="Lisinopril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M9" start="1277" end="1287" text="Lisinopril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC6" time="before DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M10" start="277" end="285" text="atenolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M11" start="277" end="285" text="atenolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M12" start="1325" end="1332" text="Timolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC7" time="after DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M13" start="1277" end="1287" text="Lisinopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M14" start="1277" end="1287" text="Lisinopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M15" start="1277" end="1287" text="Lisinopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC11" time="during DCT" type1="insulin" type2="">
+      <MEDICATION id="M16" start="1212" end="1219" text="Humulin" time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M17" start="1212" end="1219" text="Humulin" time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M18" start="1212" end="1225" text="Humulin 70/30" time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M19" start="1640" end="1663" text="Insulin REGULAR HUMULIN" time="during DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC12" time="after DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M20" start="277" end="285" text="atenolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M21" start="277" end="285" text="atenolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M22" start="1325" end="1332" text="Timolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC13" time="during DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M23" start="277" end="285" text="atenolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M24" start="277" end="285" text="atenolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M25" start="1325" end="1332" text="Timolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC16" time="before DCT" type1="insulin" type2="">
+      <MEDICATION id="M26" start="1212" end="1219" text="Humulin" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M27" start="1212" end="1219" text="Humulin" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M28" start="1212" end="1225" text="Humulin 70/30" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M29" start="1640" end="1663" text="Insulin REGULAR HUMULIN" time="before DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC5" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="429" end="441" text="Hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="429" end="441" text="Hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H2" start="429" end="441" text="Hypertension" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC10" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H3" start="429" end="441" text="Hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H4" start="429" end="441" text="Hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H5" start="429" end="441" text="Hypertension" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC14" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H6" start="429" end="441" text="Hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H7" start="429" end="441" text="Hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H8" start="429" end="441" text="Hypertension" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <FAMILY_HIST id="DOC15" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC4" status="current">
+      <SMOKER id="S0" start="462" end="469" text="Smoking" status="current" comment=""/>
+      <SMOKER id="S1" start="462" end="469" text="Smoking" status="current" comment=""/>
+      <SMOKER id="S2" start="462" end="469" text="Smoking" status="current" comment=""/>
+    </SMOKER>
+    <DIABETES id="DOC1" time="before DCT" indicator="mention">
+      <DIABETES id="D0" start="502" end="510" text="Diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D1" start="502" end="519" text="Diabetes mellitus" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D2" start="502" end="520" text="Diabetes mellitus " time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC8" time="after DCT" indicator="mention">
+      <DIABETES id="D3" start="502" end="510" text="Diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D4" start="502" end="519" text="Diabetes mellitus" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D5" start="502" end="520" text="Diabetes mellitus " time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC9" time="during DCT" indicator="mention">
+      <DIABETES id="D6" start="502" end="510" text="Diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D7" start="502" end="519" text="Diabetes mellitus" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D8" start="502" end="520" text="Diabetes mellitus " time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+  </TAGS>
+</root>

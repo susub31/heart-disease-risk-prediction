@@ -1,0 +1,230 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2068-12-01
+
+                     MEDIQUIK EMERGENCY DEPT VISIT
+
+ 
+
+RUTLEDGE,XAVIER W.   539-54-14-3
+
+I was the patient's doctor during this emergency department stay.
+
+PRESENTING COMPLAINT:  Infection in the left foot. 
+
+HISTORY OF PRESENTING COMPLAINT:  The patient is a 59-year-old man 
+
+with multiple medical problems including insulin-requiring diabetes 
+
+who has a chronic, nonhealing ulcer on the plantar surface of his 
+
+left foot.  He now complains of two days of increasing pain and 
+
+redness and systemic malaise.  He denies chest pain, abdominal 
+
+pain, streaking redness up to the thigh, nausea, vomiting, 
+
+diarrhea, and dysuria.  
+
+REVIEW OF SYSTEMS:  Negative except as given above. 
+
+PAST MEDICAL HISTORY:  Hypercholesterolemia, gout, hypertension, 
+
+insulin-requiring diabetes mellitus, chronic renal insufficiency, 
+
+nephrotic syndrome, status post kidney transplant in 2059, on 
+
+cyclosporine, thrombocytopenia, CMV, and hypomagnesemia 
+
+intermittently.  Kidney transplant as noted above.
+
+MEDICATIONS:  Levaquin, cyclosporine, magnesium, Lipitor, Coumadin, 
+
+prednisone, Allopurinol, lisinopril, metoprolol, Lasix, and others 
+
+as noted on the nurses' notes.  
+
+ALLERGIES:  Codeine which caused a rash. 
+
+SOCIAL HISTORY AND FAMILY HISTORY:  Social history noncontributory. 
+
+Family history noncontributory.  
+
+PHYSICAL EXAMINATION:  GENERAL:  Awake, alert, spontaneous and 
+
+appropriate, in no distress.  VITAL SIGNS:  Normal.  HEENT:  There 
+
+was no evidence of head trauma, conjunctivae clear.  NECK:  Supple 
+
+with no lymphadenopathy and no jugulovenous distention.  CHEST:  
+
+Notable for babasilar rales with normal respiratory excursion.  
+
+HEART:  Regular with no murmurs, rubs, or gallops.  ABDOMEN:  Soft, 
+
+nontender, no masses, no organomegaly.  SKIN/EXTREMITIES:  Other 
+
+than the left foot and ankle, the skin and extremities were normal 
+
+with no clubbing, cyanosis, lesions or rashes, although there was 
+
+bilateral 1+ pitting edema in the lower extremities.  The left foot 
+
+had an approximately 1 cm ulcer on the plantar surface and the 
+
+entire left foot and ankle were quite erythematous with increased 
+
+edema relative to the remainder of the lower extremities.  He also 
+
+had tenderness on palpation of the ankle though there was no 
+
+tenderness on passive motion of the toes.  
+
+LABORATORY EVALUATION:  Pending at this time.  The patient is being 
+
+seen by the Surgery Department.  
+
+FINAL DIAGNOSIS:  Infected diabetic foot ulcer.  
+
+DISPOSITION (including condition upon discharge):  The patient will 
+
+be admitted to the Surgery Department for surgical management 
+
+and inpatient medical management.  Condition fair.  
+
+___________________________________                    OO280/953 
+
+QUINTON OSWALD, M.D.   QO05                              D:12/01/68 
+
+                                                       T:12/01/68 
+
+Dictated by:  QUINTON OSWALD, M.D.   QO05 
+
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="during DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M0" start="1120" end="1130" text="lisinopril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M1" start="1120" end="1130" text="lisinopril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M2" start="1120" end="1130" text="lisinopril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC1" time="before DCT" type1="statin" type2="">
+      <MEDICATION id="M3" start="1074" end="1081" text="Lipitor" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M4" start="1074" end="1081" text="Lipitor" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M5" start="1074" end="1081" text="Lipitor" time="before DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC2" time="during DCT" type1="statin" type2="">
+      <MEDICATION id="M6" start="1074" end="1081" text="Lipitor" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M7" start="1074" end="1081" text="Lipitor" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M8" start="1074" end="1081" text="Lipitor" time="during DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC3" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="767" end="779" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="767" end="779" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H2" start="767" end="779" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <MEDICATION id="DOC4" time="after DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M9" start="1120" end="1130" text="lisinopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M10" start="1120" end="1130" text="lisinopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M11" start="1120" end="1130" text="lisinopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC5" time="after DCT" type1="statin" type2="">
+      <MEDICATION id="M12" start="1074" end="1081" text="Lipitor" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M13" start="1074" end="1081" text="Lipitor" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M14" start="1074" end="1081" text="Lipitor" time="after DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERLIPIDEMIA id="DOC6" time="before DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY0" start="739" end="759" text="Hypercholesterolemia" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY1" start="739" end="759" text="Hypercholesterolemia" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY2" start="739" end="759" text="Hypercholesterolemia" time="before DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <DIABETES id="DOC7" time="before DCT" indicator="mention">
+      <DIABETES id="D0" start="347" end="373" text="insulin-requiring diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D1" start="783" end="818" text="insulin-requiring diabetes mellitus" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D2" start="347" end="373" text="insulin-requiring diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D3" start="365" end="373" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <HYPERTENSION id="DOC8" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H3" start="767" end="779" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H4" start="767" end="779" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H5" start="767" end="779" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <MEDICATION id="DOC9" time="before DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M15" start="1132" end="1142" text="metoprolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M16" start="1132" end="1142" text="metoprolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERLIPIDEMIA id="DOC10" time="after DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY3" start="739" end="759" text="Hypercholesterolemia" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY4" start="739" end="759" text="Hypercholesterolemia" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY5" start="739" end="759" text="Hypercholesterolemia" time="after DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <MEDICATION id="DOC11" time="before DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M17" start="1120" end="1130" text="lisinopril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M18" start="1120" end="1130" text="lisinopril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M19" start="1120" end="1130" text="lisinopril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <DIABETES id="DOC12" time="during DCT" indicator="mention">
+      <DIABETES id="D4" start="347" end="373" text="insulin-requiring diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D5" start="783" end="818" text="insulin-requiring diabetes mellitus" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D6" start="347" end="373" text="insulin-requiring diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D7" start="365" end="373" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <HYPERTENSION id="DOC13" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H6" start="767" end="779" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H7" start="767" end="779" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H8" start="767" end="779" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <MEDICATION id="DOC14" time="after DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M20" start="1132" end="1142" text="metoprolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M21" start="1132" end="1142" text="metoprolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <SMOKER id="DOC15" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" status="unknown"/>
+      <SMOKER id="S2" start="1277" end="1291" text="Social history" status="unknown" comment=""/>
+    </SMOKER>
+    <MEDICATION id="DOC16" time="during DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M22" start="1132" end="1142" text="metoprolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M23" start="1132" end="1142" text="metoprolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <DIABETES id="DOC17" time="after DCT" indicator="mention">
+      <DIABETES id="D8" start="347" end="373" text="insulin-requiring diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D9" start="783" end="818" text="insulin-requiring diabetes mellitus" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D10" start="347" end="373" text="insulin-requiring diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D11" start="365" end="373" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <HYPERLIPIDEMIA id="DOC18" time="during DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY6" start="739" end="759" text="Hypercholesterolemia" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY7" start="739" end="759" text="Hypercholesterolemia" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY8" start="739" end="759" text="Hypercholesterolemia" time="during DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <FAMILY_HIST id="DOC19" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <PHI id="P0" start="16" end="26" text="2068-12-01" TYPE="DATE"/>
+    <PHI id="P1" start="49" end="57" text="MEDIQUIK" TYPE="HOSPITAL"/>
+    <PHI id="P2" start="83" end="100" text="RUTLEDGE,XAVIER W" TYPE="PATIENT"/>
+    <PHI id="P3" start="104" end="115" text="539-54-14-3" TYPE="MEDICALRECORD"/>
+    <PHI id="P4" start="288" end="290" text="59" TYPE="AGE"/>
+    <PHI id="P5" start="904" end="908" text="2059" TYPE="DATE"/>
+    <PHI id="P6" start="2418" end="2436" text="Surgery Department" TYPE="DEPARTMENT"/>
+    <PHI id="P7" start="2581" end="2599" text="Surgery Department" TYPE="DEPARTMENT"/>
+    <PHI id="P8" start="2735" end="2744" text="OO280/953" TYPE="IDNUM"/>
+    <PHI id="P9" start="2747" end="2761" text="QUINTON OSWALD" TYPE="DOCTOR"/>
+    <PHI id="P10" start="2770" end="2774" text="QO05" TYPE="USERNAME"/>
+    <PHI id="P11" start="2806" end="2814" text="12/01/68" TYPE="DATE"/>
+    <PHI id="P12" start="2874" end="2882" text="12/01/68" TYPE="DATE"/>
+    <PHI id="P13" start="2899" end="2913" text="QUINTON OSWALD" TYPE="DOCTOR"/>
+    <PHI id="P14" start="2922" end="2926" text="QO05" TYPE="USERNAME"/>
+  </TAGS>
+</root>

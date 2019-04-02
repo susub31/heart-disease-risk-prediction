@@ -1,0 +1,193 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2067-03-09
+
+TRIBAL HEALTH DEPARTMENT
+Tribal Internal Medicine Associates
+32 Cambridge St                             Hart, Matthew
+Lonaconing, CT  91197                             46103196
+829-1293                                      3-09-67
+ 
+ 
+ 
+HPI:  The patient is a 43 year old man with multiple medical problems 
+who presents for routine follow up.
+ 
+CURRENT ISSUES:
+1.   Adult onset diabetes mellitus.  The patient had a hemoglobin A1C 
+     approximately a month and a half ago, which was 9.5.  We discussed 
+     this in the office today, with the general concept that someone who 
+     is taking three injections of insulin a day should have much 
+     tighter control.  He states he has been following his finger 
+     sticks, though admits that occasionally forgets to do this. His 
+     current regimen is 35 units of NPH in the morning with 20 units of 
+     regular.  At bedtime, he is taking 35 units of NPH and 6 units of 
+     regular at dinnertime.  He denies any symptoms of hypoglycemia.
+2.   Hypercholesterolemia.  Of note, the patient recently experienced a 
+     rash to his simvastatin.  This resolved on the discontinuation of 
+     the simvastatin.  Of note, his most recent cholesterol was 314 in 
+     January, 2067.  He has met with the dietician to discuss the 
+     institution of a low-fat diet, and states that he tries to avoid 
+     fats.
+3.   Venous insufficiency secondary to deep venous thrombosis.  The 
+     patient states he is doing better since the institution of a 
+     Jobst stocking.  He still notes significant edema when he doesn't 
+     wear this, but notes an improvement in ambulation when he is 
+     compliant with the stocking.
+ 
+PHYSICAL EXAMINATION:  Blood pressure:  130/90.  Heart rate:  76.  
+Respiratory rate:  12 and unlabored.  Cardiac exam:  Regular rate and 
+rhythm, normal S1 and S2, no murmurs.  Lungs are clear to auscultation.  
+Abdomen:  Soft, non-tender, obese, with active bowel sounds.  
+Extremities show no clubbing or cyanosis.  There is 1+ pedal edema of 
+the right lower extremity, which is covered with a Jobst stocking.  Foot 
+care remains excellent.
+ 
+IMPRESSION:                         
+1.   Adult onset diabetes mellitus.  We will increase the patient's 
+     morning NPH dose to 40 units.  He will once again try to become 
+     more compliant with his diet.  He will be scheduled for a follow up 
+     ophthalmologic examination.
+2.   Hypercholesterolemia.  We will hold off re-starting therapy given 
+     his recent rash to simvastin.  We will re-check a fasting lipid 
+     profile as well as a set of LFT's.
+TRIBAL HEALTH DEPARTMENT
+Tribal Internal Medicine Associates
+01 Cambridge St                             Hart, Matthew
+Lonaconing, CT  91197                             46103196
+829-1293                                      3-09-67
+ 
+ 
+ 
+PAGE 2
+ 
+3.   General health maintenance.  We will once again schedule a follow 
+     up examination with the dietician as well as the ophthalmologist.  
+     He will keep a log of his sugars and follow up with me in the 
+     clinic in approximately one to two months.
+ 
+ 
+ 
+_________________________
+Michael Uecker, M.D.
+ 
+GG:XO:4403
+DD:3-27-67
+DT:3-27-67
+DV:3-09-67
+----------------------------------------------------------------------------
+Preceptor HINES,ALEXANDER SAMMY,M.D. Note:
+Pt seen with Dr. Uecker.  Rash resolved off simvastatin.  Blood sugar and BP
+sub-optimally controlled.  Agree with plan to increase BP meds and moniotr
+FSGs more closely.  Fasting lipid profile prior to restarting statin.
+Alexander Hines, MD
+ ******** Approved by Attending HINES,ALEXANDER SAMMY,M.D. ********
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <HYPERLIPIDEMIA id="DOC2" time="before DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY0" start="1032" end="1052" text="Hypercholesterolemia" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY1" start="2439" end="2459" text="Hypercholesterolemia" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY2" start="1032" end="1052" text="Hypercholesterolemia" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY3" start="1032" end="1052" text="Hypercholesterolemia" time="before DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <HYPERLIPIDEMIA id="DOC4" time="during DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY4" start="1032" end="1052" text="Hypercholesterolemia" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY5" start="2439" end="2459" text="Hypercholesterolemia" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY6" start="1032" end="1052" text="Hypercholesterolemia" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY7" start="1032" end="1052" text="Hypercholesterolemia" time="during DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <HYPERLIPIDEMIA id="DOC10" time="after DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY8" start="1032" end="1052" text="Hypercholesterolemia" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY9" start="2439" end="2459" text="Hypercholesterolemia" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY10" start="1032" end="1052" text="Hypercholesterolemia" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY11" start="1032" end="1052" text="Hypercholesterolemia" time="after DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <HYPERLIPIDEMIA id="DOC13" time="before DCT" indicator="high chol.">
+      <HYPERLIPIDEMIA id="HY12" start="1208" end="1239" text="most recent cholesterol was 314" time="before DCT" indicator="high chol." comment=""/>
+      <HYPERLIPIDEMIA id="HY13" start="1236" end="1239" text="314" time="before DCT" indicator="high chol." comment=""/>
+    </HYPERLIPIDEMIA>
+    <OBESE id="DOC0" time="after DCT" indicator="mention">
+      <OBESE id="O0" start="1945" end="1950" text="obese" time="after DCT" indicator="mention" comment=""/>
+      <OBESE id="O1" start="1945" end="1950" text="obese" time="after DCT" indicator="mention" comment=""/>
+    </OBESE>
+    <OBESE id="DOC9" time="before DCT" indicator="mention">
+      <OBESE id="O2" start="1945" end="1950" text="obese" time="before DCT" indicator="mention" comment=""/>
+      <OBESE id="O3" start="1945" end="1950" text="obese" time="before DCT" indicator="mention" comment=""/>
+    </OBESE>
+    <OBESE id="DOC12" time="during DCT" indicator="mention">
+      <OBESE id="O4" start="1945" end="1950" text="obese" time="during DCT" indicator="mention" comment=""/>
+      <OBESE id="O5" start="1945" end="1950" text="obese" time="during DCT" indicator="mention" comment=""/>
+      <OBESE id="O6" start="1945" end="1950" text="obese" time="during DCT" indicator="mention" comment=""/>
+    </OBESE>
+    <MEDICATION id="DOC5" time="after DCT" type1="insulin" type2="">
+      <MEDICATION id="M0" start="644" end="651" text="insulin" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M1" start="849" end="852" text="NPH" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M2" start="938" end="941" text="NPH" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M3" start="644" end="651" text="insulin" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M4" start="849" end="852" text="NPH" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M5" start="643" end="651" text=" insulin" time="after DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC8" time="before DCT" type1="statin" type2="">
+      <MEDICATION id="M6" start="1117" end="1128" text="simvastatin" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M7" start="1181" end="1192" text="simvastatin" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M8" start="2530" end="2539" text="simvastin" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M9" start="1117" end="1128" text="simvastatin" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M10" start="1117" end="1128" text="simvastatin" time="before DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC11" time="before DCT" type1="insulin" type2="">
+      <MEDICATION id="M11" start="644" end="651" text="insulin" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M12" start="849" end="852" text="NPH" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M13" start="938" end="941" text="NPH" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M14" start="644" end="651" text="insulin" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M15" start="849" end="852" text="NPH" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M16" start="643" end="651" text=" insulin" time="before DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC14" time="during DCT" type1="insulin" type2="">
+      <MEDICATION id="M17" start="644" end="651" text="insulin" time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M18" start="849" end="852" text="NPH" time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M19" start="938" end="941" text="NPH" time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M20" start="644" end="651" text="insulin" time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M21" start="849" end="852" text="NPH" time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M22" start="643" end="651" text=" insulin" time="during DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <FAMILY_HIST id="DOC15" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC6" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" status="unknown"/>
+      <SMOKER id="S2" start="3" end="9" text="Record" status="unknown" comment=""/>
+    </SMOKER>
+    <DIABETES id="DOC1" time="before DCT" indicator="A1C">
+      <DIABETES id="D0" start="446" end="518" text="hemoglobin A1C       approximately a month and a half ago, which was 9.5" time="before DCT" indicator="A1C" comment=""/>
+      <DIABETES id="D1" start="515" end="518" text="9.5" time="before DCT" indicator="A1C" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC3" time="during DCT" indicator="mention">
+      <DIABETES id="D2" start="396" end="425" text="Adult onset diabetes mellitus" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D3" start="2193" end="2222" text="Adult onset diabetes mellitus" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D4" start="408" end="425" text="diabetes mellitus" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D5" start="408" end="416" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC7" time="before DCT" indicator="mention">
+      <DIABETES id="D6" start="396" end="425" text="Adult onset diabetes mellitus" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D7" start="2193" end="2222" text="Adult onset diabetes mellitus" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D8" start="408" end="425" text="diabetes mellitus" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D9" start="408" end="416" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC16" time="after DCT" indicator="mention">
+      <DIABETES id="D10" start="396" end="425" text="Adult onset diabetes mellitus" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D11" start="2193" end="2222" text="Adult onset diabetes mellitus" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D12" start="408" end="425" text="diabetes mellitus" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D13" start="408" end="416" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+  </TAGS>
+</root>

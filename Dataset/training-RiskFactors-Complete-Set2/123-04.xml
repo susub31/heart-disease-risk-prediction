@@ -1,0 +1,144 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2088-12-22
+
+                                                       Patient Name: ULIBARRI,YVETTE [ MRN: 9654616MC ]
+
+                                                         Date of Visit: 12/22/2088
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+													
+
+Dr. Wilma Field
+
+MC
+
+
+
+Dear Wil,
+
+
+
+INTERVAL HISTORY:
+
+Mrs. Ulibarri returned today for follow-up of coronary artery disease, post recent CABG.  As you know, her course was complicated by heparin induced thrombocytopenia, and she has been continued on Coumadin anticoagulation.  She has done relatively well in five weeks since surgery and her energy level has improved.  The major ongoing symptoms is aching in the upper part of the sternum, and an opening in the lower part of the incision which drains some purulent material.  She also has a suture and her leg which has worked its way to the surface and causes some discomfort.  Her breathing is much better than preoperatively, and she has had no chest pain.  She has very mild residual dyspnea.  She has had mild edema at times, but it has largely resolved.  She has had no fever.
+
+
+
+Review of Systems:                                                                                                  .
+
+All of the following are normal or negative.  GENERAL:  night sweats, fever and chills.  HEAD AND NECK: headaches, hoarseness.  RESPIRATORY: cough, coughing up blood.  CARDIOVASCULAR: see history above.  GASTROINTESTINAL: frequent heartburn or indigestion, difficulty swallowing, black or tarry stools, nausea/vomiting.  URINARY: frequent urination at night, urinary tract infections, blood in urine.  NEUROLOGIC: transient paralysis, seizures, visual loss in one eye.  HEMATOLOGIC: easy bruising.  SKIN: new rashes or eruptions, poor healing of foot sores, moles that are changing size.  ENDOCRINE: elevated blood sugars, thyroid problems.  MUSCULOSKELETAL: low back pain, joint pains, joint swelling.
+
+
+
+Family and Social History:
+
+Family and social history have not changed.  There is no pertinent new information which has bearing on the current problems.
+
+
+
+Physical Examination: .
+
+She looks quite well.  Her blood pressure is 160/80.  Central venous pressure is normal and lungs are clear.  There is mild tenderness with no redness or swelling over the upper end of the sternum, and there is a 1 cm in diameter opening of the incision at the lower end, with sero-purulent drainage.  Lungs are clear.  Heart shows regular rhythm and I hear no rub or murmur.  Liver is not palpable and there is no edema.  There was a small end of a suture from the small leg incision, which I clipped off.
+
+
+
+Electrocardiogram: .
+
+Normal sinus rhythm.  Anterior T-wave inversion, somewhat to tracing.  Before the operation.
+
+
+
+Overall, Mrs. Ulibarri is improved.  I asked him concerns about possible smoldering infection of her sternum.  I will send her to Trevino made to for the surgical team to violate this, and will then a CT scan of her chest and sternum looking for any collection of pus.
+
+
+
+I have encouraged her to continue to be active.  Her walking is limited by pain, which limits or exercise.  She has already returned to her part-time work.
+
+
+
+I made no change in her regimen today.  Our plan to see her again a couple of months and she will continue on Coumadin anticoagulation.  I'll keep you posted.
+
+
+
+							Sincerely yours,
+
+
+
+
+
+
+
+							William C. Sargent, M.D.
+
+
+
+WCS(vann/bradshaw)
+
+cc: Dr. Yahya Yoo
+
+
+
+Prepared by computer speech recognition.  Please excuse transcription errors.
+
+				
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <HYPERTENSION id="DOC2" time="during DCT" indicator="high bp">
+      <HYPERTENSION id="H0" start="2138" end="2144" text="160/80" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H1" start="2138" end="2144" text="160/80" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H2" start="2120" end="2144" text="blood pressure is 160/80" time="during DCT" indicator="high bp" comment=""/>
+    </HYPERTENSION>
+    <CAD id="DOC0" time="after DCT" indicator="mention">
+      <CAD id="C0" start="347" end="370" text="coronary artery disease" time="after DCT" indicator="mention" comment=""/>
+      <CAD id="C1" start="347" end="370" text="coronary artery disease" time="after DCT" indicator="mention" comment=""/>
+      <CAD id="C2" start="347" end="370" text="coronary artery disease" time="after DCT" indicator="mention" comment=""/>
+    </CAD>
+    <CAD id="DOC1" time="before DCT" indicator="event">
+      <CAD id="C3" start="372" end="388" text="post recent CABG" time="before DCT" indicator="event" comment=""/>
+      <CAD id="C4" start="384" end="388" text="CABG" time="before DCT" indicator="event" comment=""/>
+      <CAD id="C5" start="377" end="388" text="recent CABG" time="before DCT" indicator="event" comment=""/>
+    </CAD>
+    <CAD id="DOC3" time="during DCT" indicator="mention">
+      <CAD id="C6" start="347" end="370" text="coronary artery disease" time="during DCT" indicator="mention" comment=""/>
+      <CAD id="C7" start="347" end="370" text="coronary artery disease" time="during DCT" indicator="mention" comment=""/>
+      <CAD id="C8" start="347" end="370" text="coronary artery disease" time="during DCT" indicator="mention" comment=""/>
+    </CAD>
+    <CAD id="DOC6" time="before DCT" indicator="mention">
+      <CAD id="C9" start="347" end="370" text="coronary artery disease" time="before DCT" indicator="mention" comment=""/>
+      <CAD id="C10" start="347" end="370" text="coronary artery disease" time="before DCT" indicator="mention" comment=""/>
+      <CAD id="C11" start="347" end="370" text="coronary artery disease" time="before DCT" indicator="mention" comment=""/>
+    </CAD>
+    <FAMILY_HIST id="DOC4" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC5" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" start="1922" end="1929" text="Social " status="unknown" comment=""/>
+      <SMOKER id="S2" status="unknown"/>
+    </SMOKER>
+  </TAGS>
+</root>

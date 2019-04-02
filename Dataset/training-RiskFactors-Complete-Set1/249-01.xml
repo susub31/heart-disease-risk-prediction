@@ -1,0 +1,150 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2071-11-20
+
+Patient Name: LILLY, LARRY;  MRN: 2155941
+Dictated on: 11/20/2071 by ANDRE-ISRAEL SANTIAGO, M.D. 
+
+ 
+DIAGNOSIS:  Bilateral, right greater than left, carpal tunnel syndrome.  
+ 
+HISTORY:  This is a first office visit for this 77-year-old, right-hand-dominant, founder of Bed Bath and Beyond, who comes for evaluation of right greater than left hand and wrist pain.  The patient reports having a longstanding history of greater than four months of worsening pain, paresthesias, and "numbness" on the right worse than left hand.  This is worse at night and does occasionally wake him up from sleep.  Also bothers him during prolonged activity.  He also reports recently over the past few months noting difficulty with the key pinch, grasp, and fine motor function.  Previous evaluation consisted of cervical spine MRI as well as EMG nerve conduction studies demonstrating findings significant for severe compression neuropathy of the median nerve at the level of wrist.  He now comes for evaluation for potential carpal tunnel surgery release.   
+PAST MEDICAL HISTORY:  Glucose intolerance, history of previous CVA, status post CABG, hypertension, GER.   
+MEDICATIONS:  Lopressor, Zocor, Ecotrin, Effexor, and Nexium.  
+ 
+ALLERGIES:  None.  
+ 
+PHYSICAL EXAMINATION:  On examination today, he is very pleasant, well appearing in no apparent distress.  
+Examination of the right hand demonstrates marked thenar atrophy.  There is no active abductor pollicis brevis and 
+very weak opponens.  He has a positive Tinel's, positive Phalen's, and positive median nerve compression test at the wrist.  His interossei and extensors are full.  Sensation is intact throughout.  
+ 
+EMG studies from 11/09/2071, performed here at Folsom Convalescent Hospital, significant for right worse than left median nerve compression neuropathy at the wrists.   
+IMPRESSION:  The patient is seen and examined with Dr. Santiago.  At this time, we feel that Larry has indeed a significant, right worse than left, bilateral carpal tunnel syndrome.  Given the amount of weakness and thenar wasting, he has difficulty with abductor pollicis, we have recommended proceeding with both carpal tunnel release as well as 
+possible FTS of ring finger to thumb tendon transfer.  We discussed with Larry the risks and benefits of this procedure and he is in agreement of the plan.  We will try to schedule him to proceed with surgery at some point in the near future.  We filled out both history and physical, as well as a surgical consent form today in the office.   
+__________________________ 
+Andre-Israel Santiago, M.D.  
+ 
+CC:  
+Stephen Mccullough, M.D.  
+Folsom Convalescent 
+Dictated by: _____ 
+ 
+DD:11/20/2071 
+DT:11/22/2071 
+CH:18306     :0077 
+ 
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="after DCT" type1="statin" type2="">
+      <MEDICATION id="M0" start="1206" end="1211" text="Zocor" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M1" start="1206" end="1211" text="Zocor" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M2" start="1206" end="1211" text="Zocor" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M3" start="1206" end="1211" text="Zocor" time="after DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC1" time="during DCT" type1="statin" type2="">
+      <MEDICATION id="M4" start="1206" end="1211" text="Zocor" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M5" start="1206" end="1211" text="Zocor" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M6" start="1206" end="1211" text="Zocor" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M7" start="1206" end="1211" text="Zocor" time="during DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC2" time="during DCT" type1="aspirin" type2="">
+      <MEDICATION id="M8" start="1195" end="1204" text="Lopressor" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M9" start="1213" end="1220" text="Ecotrin" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M10" start="1213" end="1220" text="Ecotrin" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M11" start="1213" end="1220" text="Ecotrin" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M12" start="1213" end="1220" text="Ecotrin" time="during DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC3" time="before DCT" type1="statin" type2="">
+      <MEDICATION id="M13" start="1206" end="1211" text="Zocor" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M14" start="1206" end="1211" text="Zocor" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M15" start="1206" end="1211" text="Zocor" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M16" start="1206" end="1211" text="Zocor" time="before DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <CAD id="DOC4" time="before DCT" indicator="event">
+      <CAD id="C0" start="1141" end="1157" text="status post CABG" time="before DCT" indicator="event" comment=""/>
+      <CAD id="C1" start="1141" end="1157" text="status post CABG" time="before DCT" indicator="event" comment=""/>
+      <CAD id="C2" start="1141" end="1157" text="status post CABG" time="before DCT" indicator="event" comment=""/>
+    </CAD>
+    <MEDICATION id="DOC5" time="after DCT" type1="aspirin" type2="">
+      <MEDICATION id="M17" start="1195" end="1204" text="Lopressor" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M18" start="1213" end="1220" text="Ecotrin" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M19" start="1213" end="1220" text="Ecotrin" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M20" start="1213" end="1220" text="Ecotrin" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M21" start="1213" end="1220" text="Ecotrin" time="after DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC6" time="before DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M22" start="1195" end="1204" text="Lopressor" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M23" start="1195" end="1204" text="Lopressor" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M24" start="1195" end="1204" text="Lopressor" time="before DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC7" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="1159" end="1171" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="1159" end="1171" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H2" start="1159" end="1171" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <MEDICATION id="DOC8" time="after DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M25" start="1195" end="1204" text="Lopressor" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M26" start="1195" end="1204" text="Lopressor" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M27" start="1195" end="1204" text="Lopressor" time="after DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC9" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H3" start="1159" end="1171" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H4" start="1159" end="1171" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H5" start="1159" end="1171" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <MEDICATION id="DOC10" time="before DCT" type1="aspirin" type2="">
+      <MEDICATION id="M28" start="1195" end="1204" text="Lopressor" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M29" start="1213" end="1220" text="Ecotrin" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M30" start="1213" end="1220" text="Ecotrin" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M31" start="1213" end="1220" text="Ecotrin" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M32" start="1213" end="1220" text="Ecotrin" time="before DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <FAMILY_HIST id="DOC11" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+      <FAMILY_HIST id="F3" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC12" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" status="unknown"/>
+      <SMOKER id="S2" status="unknown"/>
+      <SMOKER id="S3" status="unknown"/>
+    </SMOKER>
+    <MEDICATION id="DOC13" time="during DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M33" start="1195" end="1204" text="Lopressor" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M34" start="1195" end="1204" text="Lopressor" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M35" start="1195" end="1204" text="Lopressor" time="during DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC14" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H6" start="1159" end="1171" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H7" start="1159" end="1171" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H8" start="1159" end="1171" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <PHI id="P0" start="16" end="26" text="2071-11-20" TYPE="DATE"/>
+    <PHI id="P1" start="42" end="54" text="LILLY, LARRY" TYPE="PATIENT"/>
+    <PHI id="P2" start="62" end="69" text="2155941" TYPE="MEDICALRECORD"/>
+    <PHI id="P3" start="83" end="93" text="11/20/2071" TYPE="DATE"/>
+    <PHI id="P4" start="97" end="118" text="ANDRE-ISRAEL SANTIAGO" TYPE="DOCTOR"/>
+    <PHI id="P5" start="253" end="255" text="77" TYPE="AGE"/>
+    <PHI id="P6" start="298" end="317" text="Bed Bath and Beyond" TYPE="ORGANIZATION"/>
+    <PHI id="P7" start="1711" end="1721" text="11/09/2071" TYPE="DATE"/>
+    <PHI id="P8" start="1741" end="1769" text="Folsom Convalescent Hospital" TYPE="HOSPITAL"/>
+    <PHI id="P9" start="1918" end="1926" text="Santiago" TYPE="DOCTOR"/>
+    <PHI id="P10" start="1956" end="1961" text="Larry" TYPE="PATIENT"/>
+    <PHI id="P11" start="2285" end="2290" text="Larry" TYPE="PATIENT"/>
+    <PHI id="P12" start="2584" end="2605" text="Andre-Israel Santiago" TYPE="DOCTOR"/>
+    <PHI id="P13" start="2622" end="2640" text="Stephen Mccullough" TYPE="DOCTOR"/>
+    <PHI id="P14" start="2649" end="2668" text="Folsom Convalescent" TYPE="HOSPITAL"/>
+    <PHI id="P15" start="2695" end="2705" text="11/20/2071" TYPE="DATE"/>
+    <PHI id="P16" start="2710" end="2720" text="11/22/2071" TYPE="DATE"/>
+    <PHI id="P17" start="2722" end="2740" text="CH:18306     :0077" TYPE="IDNUM"/>
+  </TAGS>
+</root>

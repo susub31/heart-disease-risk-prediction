@@ -1,0 +1,219 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2069-11-01
+
+                                                       Patient Name: HORNE,MILTON [ MRN: 2177024GMH ]
+
+                                                         Date of Visit: 11/01/2069
+
+
+
+
+
+
+
+
+
+Personal Data and Overall Health	
+
+56 yo male
+
+
+
+Chief Complaint	
+
+The patient is scheduled for  excision of invasive squamous cell carcinoma of lower lip on 11/11/69.
+
+
+
+History of Present Illness	
+
+The patient complains of lower lip lesion since 7/69.
+
+
+
+Past Surgical History	
+
+Prior surgery includes:  
+
+tosillectomy
+
+no anesthetic complications
+
+
+
+Family History	
+
+There in no family history of adverse reactions to general anesthesia.
+
+
+
+Past Medical History	
+
+Current medical problems include:  
+
+BPH
+
+nasal polyps
+
+GERD
+
+umbilical hernia
+
+
+
+Social History	
+
+Smoking: quit 30 yrs ago, exposed to significant 2nd hand smoke
+
+Alcohol use: no history of excessive use
+
+Substance abuse: none
+
+
+
+Review of Systems	
+
+Medications:
+
+flomax
+
+prilosec
+
+vancenase
+
+Allergies:  none
+
+Cardiovascular:  no history of hypertension, no MI; denies CP, +DOE, no syncope, no ankle edema.  Pt does not exercise; can walk up a flight of stairs carrying a package with some SOB.
+
+Respiratory: no history of asthma or chronic lung disease; denies unusual shortness of breath.  +NASAL POLYPS
+
+Neurological: no history of neurological problems
+
+Gastrointestinal: +GERD, + positionasl componet, up to neck and sour taste in mouth.
+
+Hepatobiliary: no history of liver disease; denies jaundice or hepatitis
+
+Renal/Genitourinary: no history of renal failure; denies hematuria, dysuria, obstructive uropathy
+
+Musculoskeletal: denies pain or limitation of movement
+
+Endocrine/metabolic: no history of diabetes, no endocrinopathy 
+
+Heme/Onc:  PT STATES HE IS SLOW TO STOP BLEEDING AND BRUISES CAN LAST >1MONTH, no chemotherapy or radiation therap
+
+Psychiatric: no significant psychiatric problems
+
+
+
+
+
+Exam	
+
+SaO2:96
+
+Ht:5'8"
+
+Wt:216
+
+BP:124/73
+
+P:85
+
+
+
+HEEN&T:  POOR AO ext, no masses, neck veins flat, no bruits
+
+Airway:  Mallampatti Class IV, large tongue
+
+Teeth:  in good repair
+
+Lungs:  clear bilaterally
+
+Heart:  regular rhythm, no murmurs, S1=S2, no gallop
+
+Abdomen:  obese, umbilical hernia
+
+Extremities:  not examined
+
+
+
+Assessment	
+
+ASA Physical Status:  II
+
+Well prepared for surgery.  56 yo male with poor exercise tolerance, yet no objective evidence of significant CV/pulm disease.  Pt has a MAllampati Class IV airway and poor AO extension.
+
+
+
+Plan	
+
+Proposed Anesthetic: general anesthesia, awake fiberoptic?
+
+Monitors:  standard
+
+Pain Management:  standard
+
+Autologous blood:  none
+
+Premedication:  none
+
+Usual Medications:  take on day of surgery
+
+Medications to be held on day of surgery:  none
+
+Diabetic medications:  not applicable
+
+NSAIDS:  avoid for 3 days before surgery
+
+Aspirin:  avoid for 7 days before surgery
+
+NPO: after midnight 
+
+
+
+External Labs	
+
+EKG- NSR, vent rate 77, Q III, aVF no change from tracings of 6/66 and 6/68.
+
+
+
+Attending Anesthesiologist Reassessment Note	
+
+I have reviewed this preanesthetic assessment and concur with the assessment and recommended plan with the following exceptions:
+
+
+
+
+
+
+
+______________________________                              
+
+
+
+Frederick, Uriah C., M.D.
+
+
+
+]]></TEXT>
+  <TAGS>
+    <OBESE id="DOC1" time="during DCT" indicator="mention">
+      <OBESE id="O0" start="2173" end="2178" text="obese" time="during DCT" indicator="mention" comment=""/>
+      <OBESE id="O1" start="2173" end="2178" text="obese" time="during DCT" indicator="mention" comment=""/>
+    </OBESE>
+    <FAMILY_HIST id="DOC0" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC2" status="past">
+      <SMOKER id="S0" start="789" end="852" text="Smoking: quit 30 yrs ago, exposed to significant 2nd hand smoke" status="past" comment=""/>
+      <SMOKER id="S1" start="789" end="814" text="Smoking: quit 30 yrs ago," status="past" comment=""/>
+      <SMOKER id="S2" start="798" end="813" text="quit 30 yrs ago" status="past" comment=""/>
+    </SMOKER>
+  </TAGS>
+</root>

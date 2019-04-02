@@ -1,0 +1,216 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2085-12-07
+
+
+
+
+ZASTROW, IRENE
+42521583
+12/07/2085
+
+
+DATE OF ADMISSION:  12/06/2085.
+
+This 66-year-old woman phoned my office complaining of exertional chest discomfort.  We instructed her to presented to the Emergency Department at Davis Monthan Hospital.  She had experienced multiple episodes of chest pressure with exertion lasting 5-10 minutes and radiating to her left axilla.
+
+On 10/30/2085, she suffered non-ST segment elevation myocardial infarction in Pennsylvania and was managed with percutaneous coronary intervention.
+
+Chest discomfort recurred and on 11/03/2085, she was recatheterized at Davis Monthan Hospital where her mid LAD stent was expanded.
+
+She has had worsening substernal chest discomfort over the past two to three days.  Her discomfort is relieved with nitroglycerin.  Overnight, she had on and off chest discomfort with anterior T-wave lability.  She was placed on intravenous heparin and intravenous nitroglycerin.
+
+She suffered pulmonary embolism in 2074.   That is when I first met her.  She has gastroesophageal reflux disease.
+
+She is married; her husband works at 24 Hour Fitness as a personal trainer in the weight room.  She does not smoke cigarettes.  She has four children.
+
+Home medications include aspirin 325 mg daily, atenolol 25 mg daily, Lipitor 80 mg daily, Plavix 75 mg daily, insulin, and sublingual nitroglycerin as needed.
+
+The review of systems is negative other than the above.
+
+On physical examination, she appears well.  Afebrile, blood pressure 126/82 mmHg, heart rate 72 and regular, and respiratory rate 13 per minute.  HEENT is normal.  The neck veins are not distended.  The chest is clear.  On cardiac examination, she has a regular rhythm with a normal S1, single S2, and no murmur, rub, or gallop.  Abdomen has no masses or hepatomegaly.  The legs have no clubbing or cyanosis, but there is right leg greater than left leg edema.  The skin has no rash.
+
+My assessment is that Irene Zastrow has "small vessel" coronary artery disease in addition to epicardial coronary artery disease.  We will intensify her medical regimen by prescribing higher doses of beta blockade and by initiating a long-acting nitrate.  We will also repeat the chest CT scan to make sure she has not suffered from recurrent pulmonary embolism.
+
+I discussed this plan with her, her husband, and the medical house staff.
+
+
+______________________________
+Victor Z. Qazi, M.D.
+
+
+
+
+
+eScription document:5-9929422 IFFocus
+
+
+
+DD: 12/07/85
+DT: 12/07/85
+DV: 12/07/85
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="after DCT" type1="statin" type2="">
+      <MEDICATION id="M0" start="1299" end="1306" text="Lipitor" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M1" start="1299" end="1306" text="Lipitor" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M2" start="1299" end="1306" text="Lipitor" time="after DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC1" time="during DCT" type1="aspirin" type2="">
+      <MEDICATION id="M3" start="1255" end="1262" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M4" start="1255" end="1262" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC2" time="during DCT" type1="thienopyridine" type2="">
+      <MEDICATION id="M5" start="1320" end="1326" text="Plavix" time="during DCT" type1="thienopyridine" type2="" comment=""/>
+      <MEDICATION id="M6" start="1320" end="1327" text="Plavix " time="during DCT" type1="thienopyridine" type2="" comment=""/>
+      <MEDICATION id="M7" start="1320" end="1326" text="Plavix" time="during DCT" type1="thienopyridine" type2="" comment=""/>
+    </MEDICATION>
+    <CAD id="DOC3" time="before DCT" indicator="symptom">
+      <CAD id="C0" start="156" end="184" text="exertional chest discomfort." time="before DCT" indicator="symptom" comment=""/>
+      <CAD id="C1" start="315" end="397" text="hest pressure with exertion lasting 5-10 minutes and radiating to her left axilla." time="before DCT" indicator="symptom" comment=""/>
+    </CAD>
+    <MEDICATION id="DOC4" time="after DCT" type1="aspirin" type2="">
+      <MEDICATION id="M8" start="1255" end="1262" text="aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M9" start="1255" end="1262" text="aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC5" time="after DCT" type1="nitrate" type2="">
+      <MEDICATION id="M10" start="2178" end="2185" text="nitrate" time="after DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M11" start="1353" end="1377" text="sublingual nitroglycerin" time="after DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M12" start="1363" end="1377" text=" nitroglycerin" time="after DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M13" start="946" end="959" text="nitroglycerin" time="after DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M14" start="1364" end="1377" text="nitroglycerin" time="after DCT" type1="nitrate" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC6" time="during DCT" type1="nitrate" type2="">
+      <MEDICATION id="M15" start="933" end="959" text=" intravenous nitroglycerin" time="during DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M16" start="1353" end="1377" text="sublingual nitroglycerin" time="during DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M17" start="1363" end="1377" text=" nitroglycerin" time="during DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M18" start="946" end="959" text="nitroglycerin" time="during DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M19" start="1364" end="1377" text="nitroglycerin" time="during DCT" type1="nitrate" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC7" time="after DCT" type1="insulin" type2="">
+      <MEDICATION id="M20" start="1340" end="1347" text="insulin" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M21" start="1339" end="1347" text=" insulin" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M22" start="1340" end="1347" text="insulin" time="after DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC8" time="after DCT" type1="thienopyridine" type2="">
+      <MEDICATION id="M23" start="1320" end="1326" text="Plavix" time="after DCT" type1="thienopyridine" type2="" comment=""/>
+      <MEDICATION id="M24" start="1320" end="1327" text="Plavix " time="after DCT" type1="thienopyridine" type2="" comment=""/>
+      <MEDICATION id="M25" start="1320" end="1326" text="Plavix" time="after DCT" type1="thienopyridine" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC9" time="after DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M26" start="1277" end="1285" text="atenolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M27" start="1277" end="1286" text="atenolol " time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M28" start="1277" end="1285" text="atenolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <CAD id="DOC10" time="after DCT" indicator="mention">
+      <CAD id="C2" start="1987" end="2010" text="coronary artery disease" time="after DCT" indicator="mention" comment=""/>
+      <CAD id="C3" start="1363" end="1377" text=" nitroglycerin" time="after DCT" indicator="mention" comment=""/>
+      <CAD id="C4" start="2037" end="2060" text="coronary artery disease" time="after DCT" indicator="mention" comment=""/>
+      <CAD id="C5" start="1987" end="2010" text="coronary artery disease" time="after DCT" indicator="mention" comment=""/>
+      <CAD id="C6" start="2026" end="2060" text="epicardial coronary artery disease" time="after DCT" indicator="mention" comment=""/>
+    </CAD>
+    <MEDICATION id="DOC11" time="before DCT" type1="statin" type2="">
+      <MEDICATION id="M29" start="1299" end="1306" text="Lipitor" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M30" start="1299" end="1306" text="Lipitor" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M31" start="1299" end="1306" text="Lipitor" time="before DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC12" time="during DCT" type1="statin" type2="">
+      <MEDICATION id="M32" start="1299" end="1306" text="Lipitor" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M33" start="1299" end="1306" text="Lipitor" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M34" start="1299" end="1306" text="Lipitor" time="during DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <CAD id="DOC13" time="during DCT" indicator="mention">
+      <CAD id="C7" start="1987" end="2010" text="coronary artery disease" time="during DCT" indicator="mention" comment="or should this be before as well and therefore 'continuing'???"/>
+      <CAD id="C8" start="1363" end="1377" text=" nitroglycerin" time="during DCT" indicator="mention" comment=""/>
+      <CAD id="C9" start="2037" end="2060" text="coronary artery disease" time="during DCT" indicator="mention" comment=""/>
+      <CAD id="C10" start="1987" end="2010" text="coronary artery disease" time="during DCT" indicator="mention" comment=""/>
+      <CAD id="C11" start="2026" end="2060" text="epicardial coronary artery disease" time="during DCT" indicator="mention" comment=""/>
+    </CAD>
+    <MEDICATION id="DOC14" time="before DCT" type1="aspirin" type2="">
+      <MEDICATION id="M35" start="1255" end="1262" text="aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M36" start="1255" end="1262" text="aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC15" time="before DCT" type1="nitrate" type2="">
+      <MEDICATION id="M37" start="797" end="810" text="nitroglycerin" time="before DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M38" start="1353" end="1377" text="sublingual nitroglycerin" time="before DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M39" start="1363" end="1377" text=" nitroglycerin" time="before DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M40" start="946" end="959" text="nitroglycerin" time="before DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M41" start="1364" end="1377" text="nitroglycerin" time="before DCT" type1="nitrate" type2="" comment=""/>
+    </MEDICATION>
+    <FAMILY_HIST id="DOC16" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC17" status="never">
+      <SMOKER id="S0" start="1177" end="1203" text=" does not smoke cigarettes" status="never" comment=""/>
+      <SMOKER id="S1" start="1183" end="1203" text="not smoke cigarettes" status="never" comment=""/>
+      <SMOKER id="S2" start="1174" end="1203" text="She does not smoke cigarettes" status="never" comment=""/>
+    </SMOKER>
+    <MEDICATION id="DOC18" time="before DCT" type1="insulin" type2="">
+      <MEDICATION id="M42" start="1340" end="1347" text="insulin" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M43" start="1339" end="1347" text=" insulin" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M44" start="1340" end="1347" text="insulin" time="before DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <CAD id="DOC19" time="before DCT" indicator="event">
+      <CAD id="C12" start="427" end="473" text="non-ST segment elevation myocardial infarction" time="before DCT" indicator="event" comment=""/>
+      <CAD id="C13" start="648" end="678" text="her mid LAD stent was expanded" time="before DCT" indicator="event" comment=""/>
+      <CAD id="C14" start="452" end="473" text="myocardial infarction" time="before DCT" indicator="event" comment=""/>
+      <CAD id="C15" start="427" end="473" text="non-ST segment elevation myocardial infarction" time="before DCT" indicator="event" comment=""/>
+    </CAD>
+    <MEDICATION id="DOC20" time="before DCT" type1="thienopyridine" type2="">
+      <MEDICATION id="M45" start="1320" end="1326" text="Plavix" time="before DCT" type1="thienopyridine" type2="" comment=""/>
+      <MEDICATION id="M46" start="1320" end="1327" text="Plavix " time="before DCT" type1="thienopyridine" type2="" comment=""/>
+      <MEDICATION id="M47" start="1320" end="1326" text="Plavix" time="before DCT" type1="thienopyridine" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC21" time="during DCT" type1="insulin" type2="">
+      <MEDICATION id="M48" start="1340" end="1347" text="insulin" time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M49" start="1339" end="1347" text=" insulin" time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M50" start="1340" end="1347" text="insulin" time="during DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC22" time="before DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M51" start="1277" end="1285" text="atenolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M52" start="1277" end="1286" text="atenolol " time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M53" start="1277" end="1285" text="atenolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC23" time="during DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M54" start="1277" end="1285" text="atenolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M55" start="1277" end="1286" text="atenolol " time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M56" start="1277" end="1285" text="atenolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <CAD id="DOC24" time="before DCT" indicator="mention">
+      <CAD id="C16" start="511" end="545" text="percutaneous coronary intervention" time="before DCT" indicator="mention" comment=""/>
+      <CAD id="C17" start="1363" end="1377" text=" nitroglycerin" time="before DCT" indicator="mention" comment=""/>
+      <CAD id="C18" start="2037" end="2060" text="coronary artery disease" time="before DCT" indicator="mention" comment=""/>
+      <CAD id="C19" start="1987" end="2010" text="coronary artery disease" time="before DCT" indicator="mention" comment=""/>
+      <CAD id="C20" start="2026" end="2060" text="epicardial coronary artery disease" time="before DCT" indicator="mention" comment=""/>
+    </CAD>
+    <PHI id="P0" start="16" end="26" text="2085-12-07" TYPE="DATE"/>
+    <PHI id="P1" start="31" end="45" text="ZASTROW, IRENE" TYPE="PATIENT"/>
+    <PHI id="P2" start="46" end="54" text="42521583" TYPE="MEDICALRECORD"/>
+    <PHI id="P3" start="55" end="65" text="12/07/2085" TYPE="DATE"/>
+    <PHI id="P4" start="88" end="98" text="12/06/2085" TYPE="DATE"/>
+    <PHI id="P5" start="106" end="108" text="66" TYPE="AGE"/>
+    <PHI id="P6" start="248" end="270" text="Davis Monthan Hospital" TYPE="HOSPITAL"/>
+    <PHI id="P7" start="402" end="412" text="10/30/2085" TYPE="DATE"/>
+    <PHI id="P8" start="477" end="489" text="Pennsylvania" TYPE="STATE"/>
+    <PHI id="P9" start="581" end="591" text="11/03/2085" TYPE="DATE"/>
+    <PHI id="P10" start="619" end="641" text="Davis Monthan Hospital" TYPE="HOSPITAL"/>
+    <PHI id="P11" start="997" end="1001" text="2074" TYPE="DATE"/>
+    <PHI id="P12" start="1115" end="1130" text="24 Hour Fitness" TYPE="ORGANIZATION"/>
+    <PHI id="P13" start="1136" end="1152" text="personal trainer" TYPE="PROFESSION"/>
+    <PHI id="P14" start="1160" end="1171" text="weight room" TYPE="ORGANIZATION"/>
+    <PHI id="P15" start="1954" end="1967" text="Irene Zastrow" TYPE="PATIENT"/>
+    <PHI id="P16" start="2403" end="2417" text="Victor Z. Qazi" TYPE="DOCTOR"/>
+    <PHI id="P17" start="2449" end="2458" text="5-9929422" TYPE="IDNUM"/>
+    <PHI id="P18" start="2474" end="2482" text="12/07/85" TYPE="DATE"/>
+    <PHI id="P19" start="2487" end="2495" text="12/07/85" TYPE="DATE"/>
+    <PHI id="P20" start="2500" end="2508" text="12/07/85" TYPE="DATE"/>
+  </TAGS>
+</root>

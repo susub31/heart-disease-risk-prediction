@@ -1,0 +1,260 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2092-11-19
+
+
+
+Reason for Visit
+
+Nancy is a 74 y/o womanhere for evaluationof TH and DM treatment. Also, c/o pain in right knnee with weight bearing.  Hashad for about 11 months.  Naproxen helped in past. No swell red or hot. With AM stiffness. NO other joint complaints. 
+
+
+
+Problems
+
+      Glaucoma
+
+      Diabetes mellitus type 2
+
+      Hypertension
+
+      Osteoarthritis
+
+      Polyarteritis    : 20 years ago.
+
+
+
+Medications
+
+      Dyazide  (TRIAMTERENE 37.5 Mg/hydrochlorthiazide 25 Mg)    1 CAPSULE PO QD 
+
+      LISINOPRIL   10MG TABLET take 1 Tablet(s) PO QD 
+
+      GLYBURIDE   5 MG (5MG TABLET take 1) PO BID 
+
+      Prevacid (LANSOPRAZOLE)    30 MG (30MG CAPSULE DR take 1) PO QD 
+
+      Alphagan (BRIMONIDINE Tartrate)    1 DROP OU BID 
+
+      METFORMIN   850 MG (850MG TABLET take 1) PO TID 
+
+      PHENOBARBITAL   32.5 MG PO QD 
+
+      ATENOLOL   25MG TABLET take 1 Tablet(s) PO QD 
+
+
+
+Allergies
+
+      Penicillins    - Unknown
+
+
+
+Narrative History
+
+Takes meds. No SEs.  Nocturia x 2 ; polys-uria  ;  
+
+Eyes- no complaints. Last exam - 10/92.  Feet- no pain, numbness, burning. 
+
+Cor- No chest pain.  No SOB.  No  palpitations.  No lighthead.  No PND.  No orthopnea.  No claudicatioin.  No edema.  No  nausea
+
+GI- No nausea.  No  vomitting. No  dyspepsia.  No  reflux.  No abdo pain.  No diarrhea but has loose stool.  No constipation.  No melena.  No BRBPR.
+
+Neuro- No headache.  No vision change.  NO  hearing change.  No numbness.  Hands, feet with tingling.  No loss of strength. No seizures.  No loss of balance.
+
+ETOH/drugs-   no
+
+Cigs- no
+
+Diet-no
+
+Exercise-no
+
+Home glu-100's
+
+Hypoglycemia-no
+
+Other complaints-no 
+
+
+
+Vital Signs
+
+      BLOOD PRESSURE   134/64
+
+      PULSE   88
+
+      TEMPERATURE   98.8
+
+      WEIGHT   219
+
+
+
+Exam
+
+NAD,WD,WN
+
+Eyes- conj & sclera not injected; EOMI,PERLA
+
+M&T- lips and gums unremarkable. Good dentition. Moist; no erythema; no exudate; no lesions
+
+Neck- supple.  No JVD.  No bruit.  No LAN.  No thyromegaly
+
+Cor- reg rhyhm. S1S2 normal. No gallop.  No rub.  NO murmer.
+
+Pulm-  NO accessory muscle use. Percussion- normal.  Palpation-normal. Auscultation-clear. 
+
+Abdo- normal BS;soft with no HSM.  No mass.  No tenderness
+
+Ext/ feet:  no edema; pulses intact and symmetric. Skin intact. Monofilament intact but less right foot.
+
+Right knee- FROM with minimal crepitus. RIght thich <leeft.
+
+
+
+Assessment
+
+Good BP. DM. OA but had CVA affecting right side so right side is weak. 
+
+
+
+Disposition and Plans
+
+PT_ strengthening RLE. BMP,HgB AIC. Try Celebrex 100mg BID. RTC 4 month orPRN.
+
+______________________________
+
+Nicholas Curtis Judd, M.D.
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="during DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M0" start="535" end="545" text="LISINOPRIL" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M1" start="535" end="582" text="LISINOPRIL   10MG TABLET take 1 Tablet(s) PO QD" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M2" start="535" end="545" text="LISINOPRIL" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC1" time="after DCT" type1="metformin" type2="">
+      <MEDICATION id="M3" start="772" end="781" text="METFORMIN" time="after DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M4" start="772" end="819" text="METFORMIN   850 MG (850MG TABLET take 1) PO TID" time="after DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M5" start="772" end="781" text="METFORMIN" time="after DCT" type1="metformin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC2" time="during DCT" type1="metformin" type2="">
+      <MEDICATION id="M6" start="772" end="781" text="METFORMIN" time="during DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M7" start="772" end="819" text="METFORMIN   850 MG (850MG TABLET take 1) PO TID" time="during DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M8" start="772" end="781" text="METFORMIN" time="during DCT" type1="metformin" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC3" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="355" end="367" text="Hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="355" end="367" text="Hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H2" start="353" end="367" text="  Hypertension" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <MEDICATION id="DOC4" time="after DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M9" start="535" end="545" text="LISINOPRIL" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M10" start="535" end="582" text="LISINOPRIL   10MG TABLET take 1 Tablet(s) PO QD" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M11" start="535" end="545" text="LISINOPRIL" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <DIABETES id="DOC5" time="during DCT" indicator="mention">
+      <DIABETES id="D0" start="100" end="102" text="DM" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D1" start="323" end="347" text="Diabetes mellitus type 2" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D2" start="2387" end="2389" text="DM" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D3" start="100" end="103" text="DM " time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <MEDICATION id="DOC6" time="before DCT" type1="diuretic" type2="">
+      <MEDICATION id="M12" start="452" end="459" text="Dyazide" time="before DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M13" start="452" end="507" text="Dyazide  (TRIAMTERENE 37.5 Mg/hydrochlorthiazide 25 Mg)" time="before DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M14" start="452" end="459" text="Dyazide" time="before DCT" type1="diuretic" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC7" time="after DCT" type1="sulfonylureas" type2="">
+      <MEDICATION id="M15" start="591" end="600" text="GLYBURIDE" time="after DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M16" start="591" end="636" text="GLYBURIDE   5 MG (5MG TABLET take 1) PO BID  " time="after DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M17" start="590" end="600" text=" GLYBURIDE" time="after DCT" type1="sulfonylureas" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC8" time="during DCT" type1="sulfonylureas" type2="">
+      <MEDICATION id="M18" start="591" end="600" text="GLYBURIDE" time="during DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M19" start="591" end="636" text="GLYBURIDE   5 MG (5MG TABLET take 1) PO BID  " time="during DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M20" start="590" end="600" text=" GLYBURIDE" time="during DCT" type1="sulfonylureas" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC9" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H3" start="355" end="367" text="Hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H4" start="355" end="367" text="Hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H5" start="353" end="367" text="  Hypertension" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <MEDICATION id="DOC10" time="after DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M21" start="866" end="874" text="ATENOLOL" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M22" start="865" end="912" text="ATENOLOL   25MG TABLET take 1 Tablet(s) PO QD " time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M23" start="866" end="874" text="ATENOLOL" time="after DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <DIABETES id="DOC11" time="before DCT" indicator="mention">
+      <DIABETES id="D4" start="100" end="102" text="DM" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D5" start="323" end="347" text="Diabetes mellitus type 2" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D6" start="2387" end="2389" text="DM" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D7" start="100" end="103" text="DM " time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <MEDICATION id="DOC12" time="during DCT" type1="diuretic" type2="">
+      <MEDICATION id="M24" start="452" end="459" text="Dyazide" time="during DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M25" start="452" end="507" text="Dyazide  (TRIAMTERENE 37.5 Mg/hydrochlorthiazide 25 Mg)" time="during DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M26" start="452" end="459" text="Dyazide" time="during DCT" type1="diuretic" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC13" time="before DCT" type1="metformin" type2="">
+      <MEDICATION id="M27" start="772" end="781" text="METFORMIN" time="before DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M28" start="772" end="819" text="METFORMIN   850 MG (850MG TABLET take 1) PO TID" time="before DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M29" start="772" end="781" text="METFORMIN" time="before DCT" type1="metformin" type2="" comment=""/>
+    </MEDICATION>
+    <FAMILY_HIST id="DOC14" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <MEDICATION id="DOC15" time="before DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M30" start="535" end="545" text="LISINOPRIL" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M31" start="535" end="582" text="LISINOPRIL   10MG TABLET take 1 Tablet(s) PO QD" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M32" start="535" end="545" text="LISINOPRIL" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC16" time="after DCT" type1="diuretic" type2="">
+      <MEDICATION id="M33" start="452" end="459" text="Dyazide" time="after DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M34" start="452" end="507" text="Dyazide  (TRIAMTERENE 37.5 Mg/hydrochlorthiazide 25 Mg)" time="after DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M35" start="452" end="459" text="Dyazide" time="after DCT" type1="diuretic" type2="" comment=""/>
+    </MEDICATION>
+    <SMOKER id="DOC17" status="never">
+      <SMOKER id="S0" start="1567" end="1575" text="Cigs- no" status="never" comment=""/>
+      <SMOKER id="S1" start="1567" end="1575" text="Cigs- no" status="never" comment=""/>
+      <SMOKER id="S2" start="1567" end="1575" text="Cigs- no" status="never" comment=""/>
+    </SMOKER>
+    <MEDICATION id="DOC18" time="before DCT" type1="sulfonylureas" type2="">
+      <MEDICATION id="M36" start="591" end="600" text="GLYBURIDE" time="before DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M37" start="591" end="636" text="GLYBURIDE   5 MG (5MG TABLET take 1) PO BID  " time="before DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M38" start="590" end="600" text=" GLYBURIDE" time="before DCT" type1="sulfonylureas" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC19" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H6" start="355" end="367" text="Hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H7" start="355" end="367" text="Hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H8" start="353" end="367" text="  Hypertension" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <MEDICATION id="DOC20" time="before DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M39" start="866" end="874" text="ATENOLOL" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M40" start="865" end="912" text="ATENOLOL   25MG TABLET take 1 Tablet(s) PO QD " time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M41" start="866" end="874" text="ATENOLOL" time="before DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC21" time="during DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M42" start="866" end="874" text="ATENOLOL" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M43" start="865" end="912" text="ATENOLOL   25MG TABLET take 1 Tablet(s) PO QD " time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M44" start="866" end="874" text="ATENOLOL" time="during DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <DIABETES id="DOC22" time="after DCT" indicator="mention">
+      <DIABETES id="D8" start="100" end="102" text="DM" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D9" start="323" end="347" text="Diabetes mellitus type 2" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D10" start="2387" end="2389" text="DM" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D11" start="100" end="103" text="DM " time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <PHI id="P0" start="16" end="26" text="2092-11-19" TYPE="DATE"/>
+    <PHI id="P1" start="48" end="53" text="Nancy" TYPE="PATIENT"/>
+    <PHI id="P2" start="59" end="61" text="74" TYPE="AGE"/>
+    <PHI id="P3" start="1066" end="1071" text="10/92" TYPE="DATE"/>
+    <PHI id="P4" start="2589" end="2609" text="Nicholas Curtis Judd" TYPE="DOCTOR"/>
+  </TAGS>
+</root>

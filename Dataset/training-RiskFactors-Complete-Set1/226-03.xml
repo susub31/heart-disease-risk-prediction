@@ -1,0 +1,237 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2137-06-01
+
+
+
+
+
+
+
+
+LAW, ELLEN
+
+26659527
+
+06/01/2137
+
+
+
+
+
+Margaret Alvarez, M.D.
+
+Marianjoy Rehabilitation Hospital, Internal Medicine
+
+96 Burton Drive, Suite 659
+
+Kings Mountain, MT  11361
+
+
+
+Dear Margaret,
+
+
+
+I had the pleasure of seeing this patient in the Cardiology Clinic at the Marianjoy Rehabilitation Hospital.  Since I last saw Ms. Law, she underwent a 3-vessel coronary artery bypass surgery, internal mammary to the left anterior descending artery, free right radial graft to the obtuse marginal branch of the left circumflex, and reverse saphenous vein graft to the posterior descending branch of the right coronary artery.  She tolerated the surgery quite well and had a short rehab stay.  Currently, she is doing some walking, but is still feeling quite tired and a bit deconditioned.  However, her breathing does feel better than prior to the surgery.  She has some residual sternal wound pain, but it has improved since her discharge.
+
+
+
+Current Medications:
+
+1.  Aspirin 325 mg daily.
+
+2.  DuoNeb.
+
+3.  Diltiazem 300 mg p.o. t.i.d.
+
+4.  Furosemide 40 mg p.o. daily.
+
+5.  K-Dur 20 mEq p.o. daily.
+
+6.  Metolazone 2.5 mg daily.
+
+7.  Toprol 100 mg p.o. b.i.d.
+
+8.  Pravastatin 20 mg p.o. daily.
+
+9.  Furosemide 40 mg p.o. daily.
+
+10.  Colace, ferrous sulfate, ibuprofen, senna.
+
+
+
+Adverse Medication Reactions:
+
+1.  Azithromycin.
+
+2.  ACE inhibitor, cough.
+
+3.  Latex, angioedema.
+
+
+
+On physical examination, heart rate 81, blood pressure 106/75, and weight of 246.  In general, she is well appearing, in no apparent distress.  Jugular venous pressure is 6 cm of water.  Carotids are 2+, no bruits.  The chest is clear to auscultation and percussion, a well-healed median sternotomy, regular rate and rhythm.  No significant murmurs, gallops, or rubs.  Abdomen:  Soft, nontender, nondistended, no masses, bruits, organomegaly.  Extremities:  1-2+ edema.
+
+
+
+Review of labs dated 05/28/2134, potassium 4.3, creatinine 0.9, ALT 16, AST 16, total cholesterol 125, triglycerides 106, HDL 36, and LDL 68.
+
+
+
+In summary, the patient is a 62-year-old woman status post CABG, doing well.  She does appear to be mildly volume overloaded today, therefore I will make the following medication adjustments.  As far as her cardiac meds, they will change to aspirin 81 mg daily, potassium 20 mEq daily, Lasix 40 mg p.o. b.i.d., metoprolol succinate 100 mg p.o. daily, and pravastatin 20 mg p.o. daily.
+
+
+
+I will titrate her Lasix on an outpatient basis to have her lose 5-7 pounds to improve her shortness of breath as well as her edema.  We will ask VNA to draw labs as well.
+
+
+
+I will see her again in 2 weeks' time.  Please feel free to contact me with any questions.
+
+
+
+Warmest regards,
+
+
+
+
+
+______________________________
+
+Anthony Uphoff, M.D.
+
+
+
+
+
+
+
+
+
+
+
+eScription document:8-77995324 IFFocus
+
+
+
+
+
+
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="during DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M0" start="1036" end="1045" text="Diltiazem" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M1" start="1036" end="1045" text="Diltiazem" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M2" start="1036" end="1045" text="Diltiazem" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC1" time="before DCT" type1="statin" type2="">
+      <MEDICATION id="M3" start="1195" end="1206" text="Pravastatin" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M4" start="1194" end="1206" text=" Pravastatin" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M5" start="2386" end="2398" text=" pravastatin" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M6" start="1195" end="1206" text="Pravastatin" time="before DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC2" time="during DCT" type1="statin" type2="">
+      <MEDICATION id="M7" start="1195" end="1206" text="Pravastatin" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M8" start="1194" end="1206" text=" Pravastatin" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M9" start="2386" end="2398" text=" pravastatin" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M10" start="1195" end="1206" text="Pravastatin" time="during DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC3" time="during DCT" type1="aspirin" type2="">
+      <MEDICATION id="M11" start="996" end="1003" text="Aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M12" start="996" end="1003" text="Aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M13" start="2273" end="2280" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M14" start="996" end="1003" text="Aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC4" time="after DCT" type1="statin" type2="">
+      <MEDICATION id="M15" start="1195" end="1206" text="Pravastatin" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M16" start="1194" end="1206" text=" Pravastatin" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M17" start="2386" end="2398" text=" pravastatin" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M18" start="1195" end="1206" text="Pravastatin" time="after DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <CAD id="DOC5" time="before DCT" indicator="event">
+      <CAD id="C0" start="387" end="417" text="coronary artery bypass surgery" time="before DCT" indicator="event" comment=""/>
+      <CAD id="C1" start="378" end="417" text="3-vessel coronary artery bypass surgery" time="before DCT" indicator="event" comment=""/>
+      <CAD id="C2" start="2079" end="2096" text="status post CABG," time="before DCT" indicator="event" comment=""/>
+      <CAD id="C3" start="378" end="417" text="3-vessel coronary artery bypass surgery" time="before DCT" indicator="event" comment=""/>
+    </CAD>
+    <MEDICATION id="DOC6" time="after DCT" type1="aspirin" type2="">
+      <MEDICATION id="M19" start="996" end="1003" text="Aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M20" start="996" end="1003" text="Aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M21" start="2273" end="2280" text="aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M22" start="996" end="1003" text="Aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC7" time="before DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M23" start="1036" end="1045" text="Diltiazem" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M24" start="1036" end="1045" text="Diltiazem" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M25" start="1036" end="1045" text="Diltiazem" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC8" time="before DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M26" start="1164" end="1171" text="Toprol " time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M27" start="1164" end="1171" text="Toprol " time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M28" start="2343" end="2364" text="metoprolol succinate " time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M29" start="1164" end="1170" text="Toprol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC9" time="after DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M30" start="1036" end="1045" text="Diltiazem" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M31" start="1036" end="1045" text="Diltiazem" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M32" start="1036" end="1045" text="Diltiazem" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <FAMILY_HIST id="DOC10" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <MEDICATION id="DOC11" time="before DCT" type1="aspirin" type2="">
+      <MEDICATION id="M33" start="996" end="1003" text="Aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M34" start="996" end="1003" text="Aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M35" start="2273" end="2280" text="aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M36" start="996" end="1003" text="Aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC12" time="after DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M37" start="1164" end="1171" text="Toprol " time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M38" start="1164" end="1171" text="Toprol " time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M39" start="2343" end="2364" text="metoprolol succinate " time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M40" start="1164" end="1170" text="Toprol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M41" start="2342" end="2363" text=" metoprolol succinate" time="after DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <SMOKER id="DOC13" status="unknown">
+      <SMOKER id="S0" start="3" end="9" text="Record" status="unknown" comment=""/>
+      <SMOKER id="S1" status="unknown"/>
+      <SMOKER id="S2" status="unknown"/>
+    </SMOKER>
+    <MEDICATION id="DOC14" time="during DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M42" start="1164" end="1171" text="Toprol " time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M43" start="1164" end="1171" text="Toprol " time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M44" start="2343" end="2364" text="metoprolol succinate " time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M45" start="1164" end="1170" text="Toprol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <PHI id="P0" start="16" end="26" text="2137-06-01" TYPE="DATE"/>
+    <PHI id="P1" start="35" end="45" text="LAW, ELLEN" TYPE="PATIENT"/>
+    <PHI id="P2" start="47" end="55" text="26659527" TYPE="MEDICALRECORD"/>
+    <PHI id="P3" start="57" end="67" text="06/01/2137" TYPE="DATE"/>
+    <PHI id="P4" start="73" end="89" text="Margaret Alvarez" TYPE="DOCTOR"/>
+    <PHI id="P5" start="97" end="130" text="Marianjoy Rehabilitation Hospital" TYPE="HOSPITAL"/>
+    <PHI id="P6" start="132" end="149" text="Internal Medicine" TYPE="DEPARTMENT"/>
+    <PHI id="P7" start="151" end="166" text="96 Burton Drive" TYPE="STREET"/>
+    <PHI id="P8" start="168" end="177" text="Suite 659" TYPE="ROOM"/>
+    <PHI id="P9" start="179" end="193" text="Kings Mountain" TYPE="CITY"/>
+    <PHI id="P10" start="195" end="197" text="MT" TYPE="STATE"/>
+    <PHI id="P11" start="199" end="204" text="11361" TYPE="ZIP"/>
+    <PHI id="P12" start="213" end="221" text="Margaret" TYPE="DOCTOR"/>
+    <PHI id="P13" start="300" end="333" text="Marianjoy Rehabilitation Hospital" TYPE="HOSPITAL"/>
+    <PHI id="P14" start="357" end="360" text="Law" TYPE="PATIENT"/>
+    <PHI id="P15" start="1908" end="1918" text="05/28/2134" TYPE="DATE"/>
+    <PHI id="P16" start="2061" end="2063" text="62" TYPE="AGE"/>
+    <PHI id="P17" start="2743" end="2757" text="Anthony Uphoff" TYPE="DOCTOR"/>
+    <PHI id="P18" start="2795" end="2805" text="8-77995324" TYPE="IDNUM"/>
+  </TAGS>
+</root>

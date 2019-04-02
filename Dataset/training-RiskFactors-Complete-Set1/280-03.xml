@@ -1,0 +1,270 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2086-04-18
+
+
+
+
+
+
+
+ZASTROW, IRENE
+
+42521583
+
+04/18/2086
+
+
+
+
+Iva Hall, M.D.
+
+Internal Medicine
+
+Davis Monthan Hospital
+
+39 Gleneagle Drive
+
+Naples, OK  73257
+
+
+
+Dear Iva:
+
+
+
+Irene Zastrow, 66 years old, returned for followup of coronary artery disease and non-ST segment elevation myocardial infarction that she suffered in Pennsylvania on 10/29/2085.  At that time, she had a drug-eluting stent placed in her left anterior descending coronary artery.  On 11/03/2085, she had repeat percutaneous coronary intervention because of persistent chest pain and required an additional inflation and reexpansion of the drug-eluting stent.  On 12/07/2085, she had repeated cardiac catheterization because of chest pain but no additional percutaneous coronary intervention was required.
+
+
+
+She feels that she is having less chest discomfort as we have "ramped up" her cardiac medications.  She has no shortness of breath.  She does get occasional abdominal pulsations.  She does get epigastric discomfort.
+
+
+
+Current medications include ranolazine 1000 mg twice daily, aspirin 325 mg once daily, Plavix 75 mg once daily, isosorbide mononitrate 30 mg once daily, Lipitor 20 mg daily, and insulin.
+
+
+
+The review of systems is negative other than the above.
+
+
+
+On physical examination, she appears well.  Weight 165 pounds, blood pressure 109/73 mmHg, heart rate 77 and regular, respiratory rate 14.  HEENT:  Normal.  The neck veins are not distended.  The chest is clear.  On cardiac examination, she has a regular rhythm with a normal S1, single S2, and no murmur, rub, or gallop.  Abdomen has no masses or hepatomegaly.  The legs have no clubbing, cyanosis, or edema.  The skin has no rash.
+
+
+
+Irene Zastrow is improving from the clinical cardiovascular view point.
+
+
+
+I will obtain an exercise treadmill test using the standard Bruce protocol to obtain additional objective data.
+
+
+
+Although theoretically she should not have acid secretion due to pernicious anemia, I do suspect she has acid reflux, and I am reinstituting today Prilosec 20 mg twice daily.
+
+
+
+I am prescribing physical therapy for her "stiff neck."
+
+
+
+I am ordering an abdominal ultrasound to exclude abdominal aortic aneurysm due to her complaint of episodic abdominal severe pulsations.
+
+
+
+I reassured her and told her she is clinically improving.  I will plan to see her again in about four months.
+
+
+
+Best personal regards.
+
+
+
+Sincerely yours,
+
+
+
+
+
+______________________________
+
+Victor Z. Qazi, M.D.
+
+
+
+
+
+
+
+
+
+
+
+eScription document:2-2223674 IFFocus
+
+
+
+
+
+
+
+DD: 04/18/86
+
+DT: 04/18/86
+
+DV: 04/18/86
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="after DCT" type1="statin" type2="">
+      <MEDICATION id="M0" start="1166" end="1173" text="Lipitor" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M1" start="1166" end="1173" text="Lipitor" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M2" start="1166" end="1173" text="Lipitor" time="after DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC1" time="during DCT" type1="aspirin" type2="">
+      <MEDICATION id="M3" start="1073" end="1080" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M4" start="1073" end="1080" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M5" start="1073" end="1081" text="aspirin " time="during DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC2" time="during DCT" type1="thienopyridine" type2="">
+      <MEDICATION id="M6" start="1100" end="1106" text="Plavix" time="during DCT" type1="thienopyridine" type2="" comment=""/>
+      <MEDICATION id="M7" start="1100" end="1106" text="Plavix" time="during DCT" type1="thienopyridine" type2="" comment=""/>
+      <MEDICATION id="M8" start="1099" end="1107" text=" Plavix " time="during DCT" type1="thienopyridine" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC3" time="after DCT" type1="aspirin" type2="">
+      <MEDICATION id="M9" start="1073" end="1080" text="aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M10" start="1073" end="1080" text="aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M11" start="1073" end="1081" text="aspirin " time="after DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC4" time="after DCT" type1="nitrate" type2="">
+      <MEDICATION id="M12" start="1125" end="1147" text="isosorbide mononitrate" time="after DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M13" start="1125" end="1148" text="isosorbide mononitrate " time="after DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M14" start="1124" end="1147" text=" isosorbide mononitrate" time="after DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M15" start="1041" end="1051" text="ranolazine" time="after DCT" type1="nitrate" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC5" time="during DCT" type1="nitrate" type2="">
+      <MEDICATION id="M16" start="1125" end="1147" text="isosorbide mononitrate" time="during DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M17" start="1125" end="1148" text="isosorbide mononitrate " time="during DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M18" start="1124" end="1147" text=" isosorbide mononitrate" time="during DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M19" start="1041" end="1051" text="ranolazine" time="during DCT" type1="nitrate" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC6" time="after DCT" type1="insulin" type2="">
+      <MEDICATION id="M20" start="1191" end="1198" text="insulin" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M21" start="1191" end="1198" text="insulin" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M22" start="1191" end="1198" text="insulin" time="after DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC7" time="after DCT" type1="thienopyridine" type2="">
+      <MEDICATION id="M23" start="1100" end="1106" text="Plavix" time="after DCT" type1="thienopyridine" type2="" comment=""/>
+      <MEDICATION id="M24" start="1100" end="1106" text="Plavix" time="after DCT" type1="thienopyridine" type2="" comment=""/>
+      <MEDICATION id="M25" start="1099" end="1107" text=" Plavix " time="after DCT" type1="thienopyridine" type2="" comment=""/>
+    </MEDICATION>
+    <SMOKER id="DOC8" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" status="unknown"/>
+      <SMOKER id="S2" status="unknown"/>
+    </SMOKER>
+    <CAD id="DOC9" time="after DCT" indicator="mention">
+      <CAD id="C0" start="242" end="266" text="coronary artery disease " time="after DCT" indicator="mention" comment=""/>
+      <CAD id="C1" start="242" end="265" text="coronary artery disease" time="after DCT" indicator="mention" comment=""/>
+      <CAD id="C2" start="242" end="265" text="coronary artery disease" time="after DCT" indicator="mention" comment=""/>
+      <CAD id="C3" start="1124" end="1147" text=" isosorbide mononitrate" time="after DCT" indicator="mention" comment=""/>
+      <CAD id="C4" start="1099" end="1107" text=" Plavix " time="after DCT" indicator="mention" comment=""/>
+      <CAD id="C5" start="1041" end="1051" text="ranolazine" time="after DCT" indicator="mention" comment=""/>
+    </CAD>
+    <MEDICATION id="DOC10" time="before DCT" type1="statin" type2="">
+      <MEDICATION id="M26" start="1166" end="1173" text="Lipitor" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M27" start="1166" end="1173" text="Lipitor" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M28" start="1166" end="1173" text="Lipitor" time="before DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC11" time="during DCT" type1="statin" type2="">
+      <MEDICATION id="M29" start="1166" end="1173" text="Lipitor" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M30" start="1166" end="1173" text="Lipitor" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M31" start="1166" end="1173" text="Lipitor" time="during DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <CAD id="DOC12" time="during DCT" indicator="mention">
+      <CAD id="C6" start="242" end="266" text="coronary artery disease " time="during DCT" indicator="mention" comment=""/>
+      <CAD id="C7" start="242" end="265" text="coronary artery disease" time="during DCT" indicator="mention" comment=""/>
+      <CAD id="C8" start="242" end="265" text="coronary artery disease" time="during DCT" indicator="mention" comment=""/>
+      <CAD id="C9" start="1124" end="1147" text=" isosorbide mononitrate" time="during DCT" indicator="mention" comment=""/>
+      <CAD id="C10" start="1099" end="1107" text=" Plavix " time="during DCT" indicator="mention" comment=""/>
+      <CAD id="C11" start="1041" end="1051" text="ranolazine" time="during DCT" indicator="mention" comment=""/>
+    </CAD>
+    <MEDICATION id="DOC13" time="before DCT" type1="aspirin" type2="">
+      <MEDICATION id="M32" start="1073" end="1080" text="aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M33" start="1073" end="1080" text="aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M34" start="1073" end="1081" text="aspirin " time="before DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC14" time="before DCT" type1="nitrate" type2="">
+      <MEDICATION id="M35" start="1125" end="1147" text="isosorbide mononitrate" time="before DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M36" start="1125" end="1148" text="isosorbide mononitrate " time="before DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M37" start="1124" end="1147" text=" isosorbide mononitrate" time="before DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M38" start="1041" end="1051" text="ranolazine" time="before DCT" type1="nitrate" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC15" time="before DCT" type1="insulin" type2="">
+      <MEDICATION id="M39" start="1191" end="1198" text="insulin" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M40" start="1191" end="1198" text="insulin" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M41" start="1191" end="1198" text="insulin" time="before DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <CAD id="DOC16" time="before DCT" indicator="event">
+      <CAD id="C12" start="270" end="317" text="non-ST segment elevation myocardial infarction " time="before DCT" indicator="event" comment=""/>
+      <CAD id="C13" start="497" end="531" text="percutaneous coronary intervention" time="before DCT" indicator="event" comment=""/>
+      <CAD id="C14" start="270" end="316" text="non-ST segment elevation myocardial infarction" time="before DCT" indicator="event" comment=""/>
+      <CAD id="C15" start="391" end="416" text="drug-eluting stent placed" time="before DCT" indicator="event" comment=""/>
+      <CAD id="C16" start="295" end="316" text="myocardial infarction" time="before DCT" indicator="event" comment=""/>
+      <CAD id="C17" start="403" end="410" text=" stent " time="before DCT" indicator="event" comment=""/>
+    </CAD>
+    <MEDICATION id="DOC17" time="before DCT" type1="thienopyridine" type2="">
+      <MEDICATION id="M42" start="1100" end="1106" text="Plavix" time="before DCT" type1="thienopyridine" type2="" comment=""/>
+      <MEDICATION id="M43" start="1100" end="1106" text="Plavix" time="before DCT" type1="thienopyridine" type2="" comment=""/>
+      <MEDICATION id="M44" start="1099" end="1107" text=" Plavix " time="before DCT" type1="thienopyridine" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC18" time="during DCT" type1="insulin" type2="">
+      <MEDICATION id="M45" start="1191" end="1198" text="insulin" time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M46" start="1191" end="1198" text="insulin" time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M47" start="1191" end="1198" text="insulin" time="during DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <FAMILY_HIST id="DOC19" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <CAD id="DOC20" time="before DCT" indicator="mention">
+      <CAD id="C18" start="242" end="266" text="coronary artery disease " time="before DCT" indicator="mention" comment=""/>
+      <CAD id="C19" start="242" end="265" text="coronary artery disease" time="before DCT" indicator="mention" comment=""/>
+      <CAD id="C20" start="242" end="265" text="coronary artery disease" time="before DCT" indicator="mention" comment=""/>
+      <CAD id="C21" start="1124" end="1147" text=" isosorbide mononitrate" time="before DCT" indicator="mention" comment=""/>
+      <CAD id="C22" start="1099" end="1107" text=" Plavix " time="before DCT" indicator="mention" comment=""/>
+      <CAD id="C23" start="1041" end="1051" text="ranolazine" time="before DCT" indicator="mention" comment=""/>
+    </CAD>
+    <PHI id="P0" start="16" end="26" text="2086-04-18" TYPE="DATE"/>
+    <PHI id="P1" start="34" end="48" text="ZASTROW, IRENE" TYPE="PATIENT"/>
+    <PHI id="P2" start="50" end="58" text="42521583" TYPE="MEDICALRECORD"/>
+    <PHI id="P3" start="60" end="70" text="04/18/2086" TYPE="DATE"/>
+    <PHI id="P4" start="75" end="83" text="Iva Hall" TYPE="DOCTOR"/>
+    <PHI id="P5" start="91" end="108" text="Internal Medicine" TYPE="DEPARTMENT"/>
+    <PHI id="P6" start="110" end="132" text="Davis Monthan Hospital" TYPE="HOSPITAL"/>
+    <PHI id="P7" start="134" end="152" text="39 Gleneagle Drive" TYPE="STREET"/>
+    <PHI id="P8" start="154" end="160" text="Naples" TYPE="CITY"/>
+    <PHI id="P9" start="162" end="164" text="OK" TYPE="STATE"/>
+    <PHI id="P10" start="166" end="171" text="73257" TYPE="ZIP"/>
+    <PHI id="P11" start="180" end="183" text="Iva" TYPE="DOCTOR"/>
+    <PHI id="P12" start="188" end="201" text="Irene Zastrow" TYPE="PATIENT"/>
+    <PHI id="P13" start="203" end="205" text="66" TYPE="AGE"/>
+    <PHI id="P14" start="338" end="350" text="Pennsylvania" TYPE="STATE"/>
+    <PHI id="P15" start="354" end="364" text="10/29/2085" TYPE="DATE"/>
+    <PHI id="P16" start="470" end="480" text="11/03/2085" TYPE="DATE"/>
+    <PHI id="P17" start="649" end="659" text="12/07/2085" TYPE="DATE"/>
+    <PHI id="P18" start="1698" end="1711" text="Irene Zastrow" TYPE="PATIENT"/>
+    <PHI id="P19" start="2458" end="2472" text="Victor Z. Qazi" TYPE="DOCTOR"/>
+    <PHI id="P20" start="2510" end="2519" text="2-2223674" TYPE="IDNUM"/>
+    <PHI id="P21" start="2539" end="2547" text="04/18/86" TYPE="DATE"/>
+    <PHI id="P22" start="2553" end="2561" text="04/18/86" TYPE="DATE"/>
+    <PHI id="P23" start="2567" end="2575" text="04/18/86" TYPE="DATE"/>
+  </TAGS>
+</root>

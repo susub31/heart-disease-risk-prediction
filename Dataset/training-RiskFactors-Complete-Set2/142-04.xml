@@ -1,0 +1,188 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2079-01-24
+
+
+	CARDIOLOGY
+	
+
+	PREAKNESS HEALTHCARE CENTER
+	
+
+
+	Reason for visit:
+   52 y.o. admit s/p stenting of Mid LAD and RAMUS
+
+
+	Interval History:
+   Please refer to detailed Cardiology note per V. Ulloa, reviewed and agreed with. 
+Cath revealing: right dominant, LM normal, LAD w/tandem 85%and 65% mid vessel, and minimal irregularities distally -RAMUS 80% proximal stenosis - LAD minimal irregularities, RCA 30% mid  Stenting of native Mid LAD was successful. Stent Cypher 3.0 - 28, - Stenting of distal third of Mid LAD  Stent Cypher 3.0 - 28,  Stenting of proximal third of Ramus was successful. 12, Stent Cypher 2.5 - 18
+
+
+	Past medical history:
+   1. Paroxysmal Atrial Fibrillation 
+2. Nonalcoholic steatotic hepatitis 
+3. Palpitations 
+4. Rotator cuff surgery in 2071
+
+
+	Medications (Confirmed):
+
+	
+aspirin  81 mg po daily
+Toprol XL  50 mg po daily
+
+
+	Social history:
+   He is married with two sons, age 21 and 18, both of whom are in good health. He works as an Revenue Officer for Springfield Armory Inc in Picture Rocks, Maine. 
+
+Habits: He has never used street drugs. He does not smoke tobacco. He drinks 6 beers/alcohol per week and 2 cups of coffee per day.
+
+Physical examination:
+	
+-Pulse: 58  
+-resp. rate: 20  
+-height: 68  in.
+-weight: 189  lbs.
+-General:   No acute distress.
+-Skin:   No rashes, anicteric.
+-HEENT:   Unremarkable
+-Neck:    JVP no jugular venous distention.
+-Chest:   Clear to auscultation 
+-Cardiac:   Regular rate and rhythm, normal S1 and S2, with no S3 or S4. There were no murmurs, clicks or rubs.
+-Abdomen:   soft, nontender, without organomegaly or other masses.
+-Extremities:   right groin no ooze, no hematoma
+-Neuro:   A + O times three, MAE, no focal deficit
+-BP: 135/70  
+
+
+	EKG:
+
+	
+
+Selected recent labs:
+
+	 Metabolic
+Date     NA       K        CL       CO2      BUN      CRE      GLU      CA       
+01/20/79 136      4.3      99       28.0     13       1.0      241      9.4      
+
+Liver and Pancreatic Enzymes
+Date     ALB      TP       ALKP     TBILI    ALT/SGPT AST/SGOT 
+01/20/79 4.6      8.2      81       0.8      46       32       
+
+Lipid/Thyroid
+Date     TSH      
+01/20/79 2.11     
+
+Hematology
+Date     HCT      RBC      WBC      PLT      
+01/20/79 48.8     5.51     6.4      269      
+
+Coagulation
+Date     PT       PT-INR   
+01/20/79 12.0     1.0      
+
+Urinalysis
+Date     UA-COLOR UA-APP   UA-GLUC  UA-BILI  UA-SPGR  UA-BLD   UA-PH    UA-PROT  UA-UROBI UA-NIT   
+01/20/79 Yellow   Clear    3+       NEGATIVE 1.023    NEGATIVE 6.0      NEGATIVE NEGATIVE NEGATIVE 
+
+24 hr Urine
+Date     CRE      
+01/20/79 1.0      
+
+other
+Date     GLOB     HGB      MCV      MCH      MCHC     RDW      UA-KET   UA-WBC   
+01/20/79 3.6      16.8     89       30.4     34.3     12.9     NEGATIVE NEGATIVE 
+
+
+	
+
+
+	Assessment and plan:
+   52 y.o. with PAF and +ETT. Cath today with stenting of his LAD Mr. Martin is a 52-year-old male with paroxysmal atrial fibrillation and ischemia noted on recent SESTA MIBI. He is now s/p cath with stenting of LAD times two and RAMUS.  
+
+-ASA and plavix
+-cont BB, hr and BP well controlled
+-will add statin, check fasting lipids, baseline LFT's
+-nutrition consult
+-Cardiac rehab consult
+-monitor for further episodes of AF
+-further plans per Dr Ivers
+
+
+                                           Victoria Xing NP
+
+	
+Victoria Xing, RN
+
+	
+Transcribed by: Victoria Xing
+
+	
+Signed electronically by  Victoria Xing, RN
+Document Status: Final
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="during DCT" type1="aspirin" type2="">
+      <MEDICATION id="M0" start="827" end="834" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M1" start="827" end="835" text="aspirin " time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M2" start="827" end="834" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M3" start="3038" end="3041" text="ASA" time="during DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC1" time="during DCT" type1="thienopyridine" type2="">
+      <MEDICATION id="M4" start="3046" end="3052" text="plavix" time="during DCT" type1="thienopyridine" type2="" comment=""/>
+      <MEDICATION id="M5" start="3046" end="3052" text="plavix" time="during DCT" type1="thienopyridine" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC2" time="after DCT" type1="aspirin" type2="">
+      <MEDICATION id="M6" start="827" end="834" text="aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M7" start="827" end="835" text="aspirin " time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M8" start="827" end="834" text="aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M9" start="3038" end="3041" text="ASA" time="after DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC3" time="before DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M10" start="851" end="861" text="Toprol XL " time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M11" start="851" end="857" text="Toprol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M12" start="851" end="857" text="Toprol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC4" time="before DCT" type1="thienopyridine" type2="">
+      <MEDICATION id="M13" start="3046" end="3052" text="plavix" time="before DCT" type1="thienopyridine" type2="" comment=""/>
+      <MEDICATION id="M14" start="3046" end="3052" text="plavix" time="before DCT" type1="thienopyridine" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC5" time="before DCT" type1="aspirin" type2="">
+      <MEDICATION id="M15" start="827" end="834" text="aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M16" start="827" end="835" text="aspirin " time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M17" start="827" end="834" text="aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M18" start="3038" end="3041" text="ASA" time="before DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC6" time="after DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M19" start="851" end="861" text="Toprol XL " time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M20" start="851" end="857" text="Toprol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M21" start="851" end="857" text="Toprol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC7" time="during DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M22" start="851" end="861" text="Toprol XL " time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M23" start="851" end="857" text="Toprol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M24" start="851" end="857" text="Toprol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC10" time="after DCT" type1="thienopyridine" type2="">
+      <MEDICATION id="M25" start="3046" end="3052" text="plavix" time="after DCT" type1="thienopyridine" type2="" comment=""/>
+      <MEDICATION id="M26" start="3046" end="3052" text="plavix" time="after DCT" type1="thienopyridine" type2="" comment=""/>
+    </MEDICATION>
+    <FAMILY_HIST id="DOC9" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC8" status="never">
+      <SMOKER id="S0" start="1101" end="1127" text="He does not smoke tobacco." status="never" comment=""/>
+      <SMOKER id="S1" start="1104" end="1118" text="does not smoke" status="never" comment=""/>
+      <SMOKER id="S2" start="1104" end="1126" text="does not smoke tobacco" status="never" comment=""/>
+    </SMOKER>
+  </TAGS>
+</root>

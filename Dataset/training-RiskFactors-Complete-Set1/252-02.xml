@@ -1,0 +1,115 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2069-05-06
+
+                     INDEPENDENT EMERGENCY DEPT VISIT
+
+ 
+
+JOSHI,KATHY   158-42-11-2
+
+The resident's note was reviewed.  The patient was interviewed and 
+
+examined by me.  I concur with the workup and evaluation of the 
+
+patient in the emergency department.  For a more detailed note on 
+
+this patient, please review the resident's note.  Please review the 
+
+resident's note for past medical history, surgical history, review 
+
+of systems, medications, allergies, social history and family 
+
+history. 
+
+HISTORY OF PRESENTING COMPLAINT:  This patient is a 63-year-old 
+
+female who presents to Independent Living Center Emergency Department with complaints of dyspnea on exertion.  The 
+
+patient also complains of paroxysmal nocturnal dyspnea.  She also 
+
+complains of a cough.  She also complains of having fluid on her 
+
+lower extremities.  She denies any other acute complaints.  She 
+
+denies chest pain.  She denies nausea or vomiting or diaphoresis.
+
+PHYSICAL EXAMINATION:  HEENT:  Normocephalic, atraumatic.  Pupils 
+
+are equal, round and reactive.  Fundi was positive for AV-nicking.  
+
+NECK:  Mild jugular venous distention.  CHEST:  Rales audible 
+
+bilaterally.  HEART:  Normal S1, S2.  No S3, S4.  No murmur.  
+
+ABDOMEN:  Benign, soft, nontender.  No masses, guarding, rebound or 
+
+organomegaly.  EXTREMITIES:  Grossly within normal limits.  
+
+NEUROLOGICAL:  Awake, alert, able to follow all commands.  Negative 
+
+Babinski. 
+
+LABORATORY EVALUATION:  Chest x-ray, electrocardiogram, CK, 
+
+troponin I are all pending.  Electrocardiogram in the emergency 
+
+department notes a second degree AV block of mobic type I.  She is 
+
+also noted to have a rate of 69.
+
+FINAL DIAGNOSIS:  Most likely congestive failure.
+
+DISPOSITION (including condition upon discharge):  The plan is an 
+
+IV, 60 of Lasix IV, chest x-ray, CK, troponin, CBC, electrolytes, 
+
+further workup and evaluation and most likely admission.  The 
+
+patient is currently in stable condition. 
+
+___________________________________                    JJ418/48466 
+
+F. JORDAN FUCHS, M.D.       JF43                       D:05/06/69 
+
+                                                       T:05/06/69 
+
+Dictated by:  F. JORDAN FUCHS, M.D.       JF43 
+
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <FAMILY_HIST id="DOC0" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC1" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" status="unknown"/>
+      <SMOKER id="S2" status="unknown"/>
+    </SMOKER>
+    <PHI id="P0" start="16" end="26" text="2069-05-06" TYPE="DATE"/>
+    <PHI id="P1" start="49" end="60" text="INDEPENDENT" TYPE="HOSPITAL"/>
+    <PHI id="P2" start="86" end="97" text="JOSHI,KATHY" TYPE="PATIENT"/>
+    <PHI id="P3" start="100" end="111" text="158-42-11-2" TYPE="MEDICALRECORD"/>
+    <PHI id="P4" start="582" end="584" text="63" TYPE="AGE"/>
+    <PHI id="P5" start="619" end="644" text="Independent Living Center" TYPE="HOSPITAL"/>
+    <PHI id="P6" start="645" end="665" text="Emergency Department" TYPE="DEPARTMENT"/>
+    <PHI id="P7" start="2042" end="2053" text="JJ418/48466" TYPE="IDNUM"/>
+    <PHI id="P8" start="2056" end="2071" text="F. JORDAN FUCHS" TYPE="DOCTOR"/>
+    <PHI id="P9" start="2084" end="2088" text="JF43" TYPE="USERNAME"/>
+    <PHI id="P10" start="2113" end="2121" text="05/06/69" TYPE="DATE"/>
+    <PHI id="P11" start="2181" end="2189" text="05/06/69" TYPE="DATE"/>
+    <PHI id="P12" start="2206" end="2221" text="F. JORDAN FUCHS" TYPE="DOCTOR"/>
+    <PHI id="P13" start="2234" end="2238" text="JF43" TYPE="USERNAME"/>
+  </TAGS>
+</root>

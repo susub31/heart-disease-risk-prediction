@@ -1,0 +1,106 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2083-08-28
+
+
+Beaumont Hospital Physician Group
+131 Crowley Avenue                                    Rhodes, Yajaira
+Rutland, FL 94265                            97627182
+(153) 636-7011                                           
+(584) 728-8734
+
+SUBJECTIVE:  The patient comes in stating that she has had 5
+days of substernal pain like a "ball pressing in on her
+chest."  She has also had abdominal pain and has felt quite
+poorly.  She did call this service this past weekend she
+states and never received a call back.  She called me this
+morning, and I saw her immediately.  The pain has not gone
+down her arms and it is mostly located in her chest.  She
+feels occasionally like she is going to throw up, and she
+says that her blood sugars have been quite high.  She does
+have diabetes.
+
+PHYSICAL EXAMINATION:  Her lungs are clear to P&A.  Her
+blood pressure is 130/80 in the right arm sitting with a
+pulse of 64.  Her neck veins are flat, carotids 2+ and equal
+without bruit.  Heart is not enlarged.  There is a regular
+sinus rhythm, and no significant murmurs.  Liver and spleen
+are not felt.  EKG taken shows a possible old anterior
+myocardial infarction, which is a distinct change from her
+last EKG with poor progression of the R waves across the
+precordium.
+
+IMPRESSION AND PLAN:  Question myocardial infarction. 
+Because of her prolonged pain and changes in the EKG, I
+think that she should be observed in the BH emergency
+ward and attend her there.
+
+
+______________________________
+Brett F. Rutherford, M.D.
+
+
+eScription document:7-351769 RFFocus
+
+DD: 08/28/83
+DT: 08/28/83
+DV: 08/28/83
+
+
+
+]]></TEXT>
+  <TAGS>
+    <DIABETES id="DOC0" time="before DCT" indicator="mention">
+      <DIABETES id="D0" start="793" end="801" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D1" start="793" end="801" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D2" start="793" end="801" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <CAD id="DOC1" time="during DCT" indicator="symptom">
+      <CAD id="C0" start="330" end="384" text="substernal pain like a 'ball pressing in on her chest." time="during DCT" indicator="symptom" comment=""/>
+      <CAD id="C1" start="330" end="345" text="substernal pain" time="during DCT" indicator="symptom" comment=""/>
+    </CAD>
+    <CAD id="DOC2" time="before DCT" indicator="symptom">
+      <CAD id="C2" start="330" end="383" text="substernal pain like a 'ball pressing in on her chest" time="before DCT" indicator="symptom" comment=""/>
+      <CAD id="C3" start="330" end="345" text="substernal pain" time="before DCT" indicator="symptom" comment=""/>
+    </CAD>
+    <DIABETES id="DOC3" time="during DCT" indicator="mention">
+      <DIABETES id="D3" start="793" end="801" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D4" start="793" end="801" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D5" start="793" end="801" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <FAMILY_HIST id="DOC4" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC5" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" status="unknown"/>
+      <SMOKER id="S2" status="unknown"/>
+    </SMOKER>
+    <DIABETES id="DOC6" time="after DCT" indicator="mention">
+      <DIABETES id="D6" start="793" end="801" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D7" start="793" end="801" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D8" start="793" end="801" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <PHI id="P0" start="16" end="26" text="2083-08-28" TYPE="DATE"/>
+    <PHI id="P1" start="29" end="46" text="Beaumont Hospital" TYPE="HOSPITAL"/>
+    <PHI id="P2" start="63" end="81" text="131 Crowley Avenue" TYPE="STREET"/>
+    <PHI id="P3" start="117" end="132" text="Rhodes, Yajaira" TYPE="PATIENT"/>
+    <PHI id="P4" start="133" end="140" text="Rutland" TYPE="CITY"/>
+    <PHI id="P5" start="142" end="144" text="FL" TYPE="STATE"/>
+    <PHI id="P6" start="145" end="150" text="94265" TYPE="ZIP"/>
+    <PHI id="P7" start="178" end="186" text="97627182" TYPE="MEDICALRECORD"/>
+    <PHI id="P8" start="187" end="201" text="(153) 636-7011" TYPE="PHONE"/>
+    <PHI id="P9" start="245" end="259" text="(584) 728-8734" TYPE="PHONE"/>
+    <PHI id="P10" start="1433" end="1435" text="BH" TYPE="HOSPITAL"/>
+    <PHI id="P11" start="1506" end="1525" text="Brett F. Rutherford" TYPE="DOCTOR"/>
+    <PHI id="P12" start="1554" end="1562" text="7-351769" TYPE="MEDICALRECORD"/>
+    <PHI id="P13" start="1576" end="1584" text="08/28/83" TYPE="DATE"/>
+    <PHI id="P14" start="1589" end="1597" text="08/28/83" TYPE="DATE"/>
+    <PHI id="P15" start="1602" end="1610" text="08/28/83" TYPE="DATE"/>
+  </TAGS>
+</root>

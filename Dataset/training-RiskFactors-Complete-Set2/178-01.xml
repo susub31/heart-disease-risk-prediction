@@ -1,0 +1,292 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2118-09-26
+
+
+
+Reason for Visit
+
+Patient presents today for a routine physical; her last one was in 12.
+
+She has the following concerns that she would like to have addressed:
+
+concerned about allergies
+
+needs PT for recently fractured humerus
+
+
+
+Past Medical History
+
+The patient has no history of cancer, CAD, HTN, Diabetes, or immune disorder.
+
+
+
+Past Surgical History
+
+0
+
+
+
+Family History
+
+Father: age 78 prostate cancer; diabetes
+
+Mother: age 40 + uterine cancer
+
+Siblings:1b
+
+Marital status:m
+
+Children:1F - 14
+
+FH is notable for the presence (+) or absence(-) of CAD   ;Cancer ++  ;diabetes +  ;HTN     ; genetic disorder
+
+
+
+Social History
+
+Smokes:1ppd
+
+Alcohol:1-2
+
+Occupation:butcher
+
+Exercise:0
+
+
+
+OB/GYN History
+
+Menopausal - 8 years ago
+
+
+
+Review of Systems
+
+CONSITUTIONAL :
+
+no fever, chills, weight change
+
+EYES : no blurring, visual changes, pain, diplopia, or discharge
+
+EARS : no hearing loss, dizziness, tinnitus, ear pain or discharge
+
+NECK : no sore throat, dysphagia, swelling or lumps
+
+CVS:no chest pain on exertion
+
+    no shortness of breath
+
+    no palpitations
+
+    no ankle swelling
+
+    no cough
+
+GI: no anorexia
+
+    no nausea
+
+    no heartburn
+
+    no abdominal pain
+
+    no bowel dysfunction
+
+    no blood in stool
+
+GU: no dysuria
+
+    no nocturia
+
+    no frequency or poor stream
+
+    no incontinence
+
+    
+
+CNS:no headaches
+
+    no dizziness
+
+    no diplopia
+
+    no memory disorder
+
+    no weakness
+
+    no seizures
+
+MUSCULUSKELETAL:no pains or limitation of mobility
+
+SKIN:no hives, rashes, changing moles
+
+ 
+
+
+
+Vital Signs
+
+      BLOOD PRESSURE   102/80
+
+      HEIGHT   63.5 in.
+
+      WEIGHT   162 lb
+
+
+
+Physical Exam
+
+CONSTITUTIONAL: well developed, in no acute distress
+
+EYES:conjuntiva clear; no icterus; EOM full; no strabismus or nystagmus; fundi normal
+
+ENT: no wax; membranes intact;hearing grossly normal; nose no obvious abnormality;sinuses not tender; pharynx no exudate
+
+NECK: supple; no thyromegaly; no lymphadenopathy; carotids palpable with no bruits 
+
+BREASTS: no masses or tenderness; no nipple abnormality or discharge; no adenopathy
+
+CARDIOVASCULAR SYSTEM: pulse 68 per min., regular ;  no cardiomegaly ; heart sounds 1 and 2 only;  no murmurs     no rubs    no gallop
+
+pedal pulses- absent left leg; bruit over right femoral
+
+no edema or varicosities
+
+RESPIRATORY : Chest expansion - normal
+
+     Percussion -normal
+
+     Auscultation - clear without rales or rhonchi
+
+ABDOMEN : no visceromegaly
+
+          no masses   no tenderness
+
+          hernial orifices normal
+
+          WILL SEE GYNE
+
+         
+
+CENTRAL NERVOUS SYSTEM:
+
+alert and oriented
+
+ cranial nerves
+
+  pupils -equal, reactive          
+
+  fundi -  no papilledema
+
+  tone - normal
+
+  power - normal
+
+  coordination - normal
+
+  reflexes normal
+
+JOINTS: no evidence of arthritis
+
+Spine no tenderness
+
+SKIN: no rashes, hives, changing moles normal 
+
+
+
+     
+
+
+
+Recommendation
+
+Based on history and examination today the following tests were ordered: 
+
+lipid profile
+
+glucose
+
+stool HOB
+
+flex sig.....to set up
+
+mammogram....5/18
+
+bone density scan....to set up
+
+EKG
+
+cxr
+
+Diet
+
+Exercise
+
+Stop smoking
+
+Further recommendations will be made on the basis of the results obtained
+
+Follow up advised with vascular surgeon to evaluate peripheral vas disease
+
+Given sample of allegra 180
+
+referred for PT
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <HYPERTENSION id="DOC1" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="326" end="329" text="HTN" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="326" end="329" text="HTN" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC3" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H2" start="326" end="329" text="HTN" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H3" start="326" end="329" text="HTN" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC7" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H4" start="326" end="329" text="HTN" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H5" start="326" end="329" text="HTN" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <CAD id="DOC0" time="before DCT" indicator="mention">
+      <CAD id="C0" start="321" end="324" text="CAD" time="before DCT" indicator="mention" comment=""/>
+      <CAD id="C1" start="321" end="324" text="CAD" time="before DCT" indicator="mention" comment=""/>
+    </CAD>
+    <CAD id="DOC6" time="during DCT" indicator="mention">
+      <CAD id="C2" start="321" end="324" text="CAD" time="during DCT" indicator="mention" comment=""/>
+      <CAD id="C3" start="321" end="324" text="CAD" time="during DCT" indicator="mention" comment=""/>
+    </CAD>
+    <CAD id="DOC9" time="after DCT" indicator="mention">
+      <CAD id="C4" start="321" end="324" text="CAD" time="after DCT" indicator="mention" comment=""/>
+      <CAD id="C5" start="321" end="324" text="CAD" time="after DCT" indicator="mention" comment=""/>
+    </CAD>
+    <FAMILY_HIST id="DOC8" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC2" status="current">
+      <SMOKER id="S0" start="662" end="673" text="Smokes:1ppd" status="current" comment=""/>
+      <SMOKER id="S1" start="662" end="668" text="Smokes" status="current" comment=""/>
+    </SMOKER>
+    <DIABETES id="DOC4" time="before DCT" indicator="mention">
+      <DIABETES id="D0" start="331" end="339" text="Diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D1" start="331" end="339" text="Diabetes" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC5" time="after DCT" indicator="mention">
+      <DIABETES id="D2" start="331" end="339" text="Diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D3" start="331" end="339" text="Diabetes" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC10" time="during DCT" indicator="mention">
+      <DIABETES id="D4" start="331" end="339" text="Diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D5" start="331" end="339" text="Diabetes" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+  </TAGS>
+</root>

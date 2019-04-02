@@ -1,0 +1,297 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2089-10-07
+
+Medications:
+
+Prilosec 20 - 2
+
+Atenolol 50 
+
+Cozaar 50
+
+Lipitor 10
+
+Valium 2 - 
+
+Advair 2i puff bid
+
+Alupent prn
+
+
+
+
+
+Problem #1: GERD
+
+No heart burn on Prilosec. He does note attacks of ss chest pain radiating to L arm relieved by valium and Gaviscon and attributed by Y. Ullrich to reflux (Ted says). No exertional trigger to these.
+
+Problem #2: CAD
+
+No exertional chest pain, dizzy spells or episodes of dizziness. Thallium stress last year to METS 13 showed normal ECG but a small anteroseptal zone of ischemia with reperfusion. Has not really engaged in fitness program as recommended by Y Ullrich
+
+Problem # 3 .HT
+
+BP's 150/80 range at home
+
+Problem #4 Hyperlipidemia
+
+Last chol169  TG 270  HDL 35  LDL 79  (9/88)
+
+Problem # 5 Asthma
+
+Intensifies seasonally  (now) controlled with inhalants
+
+Problem # 6  Recurrent sinusitis
+
+He describes stuffiness of sinuses, at times has been treated by his ENT physician with cipro. May need drainage surgery
+
+
+
+Social History  Unchanged
+
+
+
+ROS
+
+HEENT: No hearing or visual problems.
+
+Resp:    See above
+
+CV:       See above
+
+Abd:      No nausea, vomiting, pain, bowel disturbance, hematochezia, melena
+
+GU:        No dysuria, hematuria, flank pain.
+
+NM:      No sensory, gait, strength deficits. No syncope, seizures.
+
+Endoc:  No polyuria, polydipsia, heat or cold intolerance.
+
+BMJ:     No myalgias, arthralgias.
+
+Other:    No wt loss, fever, fatigue, sleep difficulty.
+
+ 
+
+Physical Examination
+
+
+
+
+
+BP 170/70 (!)  P 56 RSR  
+
+
+
+HEENT  PERLA.  Pharynx benign
+
+
+
+Neck:  Supple.  Thyroid not enlarged.  No carotid bruit
+
+
+
+LN'S:   No lymphadenopathy
+
+
+
+Lungs:   Clear to percussion and auscultation
+
+
+
+Heart:  Not enlarged. No murmurs
+
+
+
+Abdomen:   Soft.  No organomegaly, masses. tenderness. 
+
+
+
+Rectal: Prostate 2x enlarged, symm, no masses
+
+
+
+Extremities:  Full ROM.  No edema.  Pedal pulses intact
+
+
+
+Neurological:  Grossly normal
+
+
+
+
+
+Impression and plan:
+
+
+
+GERD - same program
+
+CAD - Repeat lipids; make appt to see Y Ullrich
+
+HT  Add dyazide 1 qd to program
+
+Hyperlipidemia - consider doubling Lipitor - as per Yosef Ullrich
+
+
+
+ Forty minutes spent with patient in counsselling and coordinating care.
+
+
+
+
+
+
+
+______________________________                              
+
+
+
+Ulysses Gilbert
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="after DCT" type1="statin" type2="">
+      <MEDICATION id="M0" start="84" end="91" text="Lipitor" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M1" start="84" end="92" text="Lipitor " time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M2" start="84" end="91" text="Lipitor" time="after DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC1" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="645" end="647" text="HT" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="645" end="647" text="HT" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H2" start="645" end="647" text="HT" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H3" start="2006" end="2008" text="HT" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERLIPIDEMIA id="DOC2" time="before DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY0" start="687" end="701" text="Hyperlipidemia" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY1" start="686" end="701" text=" Hyperlipidemia" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY2" start="687" end="701" text="Hyperlipidemia" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY3" start="2039" end="2053" text="Hyperlipidemia" time="before DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <CAD id="DOC3" time="before DCT" indicator="test">
+      <CAD id="C0" start="446" end="559" text="Thallium stress last year to METS 13 showed normal ECG but a small anteroseptal zone of ischemia with reperfusion" time="before DCT" indicator="test" comment=""/>
+      <CAD id="C1" start="490" end="542" text="normal ECG but a small anteroseptal zone of ischemia" time="before DCT" indicator="test" comment=""/>
+    </CAD>
+    <HYPERLIPIDEMIA id="DOC4" time="during DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY4" start="687" end="701" text="Hyperlipidemia" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY5" start="686" end="701" text=" Hyperlipidemia" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY6" start="687" end="701" text="Hyperlipidemia" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY7" start="2039" end="2053" text="Hyperlipidemia" time="during DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <HYPERTENSION id="DOC5" time="during DCT" indicator="high bp">
+      <HYPERTENSION id="H4" start="1474" end="1483" text="BP 170/70" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H5" start="1474" end="1483" text="BP 170/70" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H6" start="1474" end="1483" text="BP 170/70" time="during DCT" indicator="high bp" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC6" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H7" start="645" end="647" text="HT" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H8" start="645" end="647" text="HT" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H9" start="645" end="647" text="HT" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H10" start="2006" end="2008" text="HT" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <MEDICATION id="DOC7" time="after DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M3" start="59" end="67" text="Atenolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M4" start="58" end="68" text=" Atenolol " time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M5" start="59" end="67" text="Atenolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <SMOKER id="DOC8" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" start="3" end="9" text="Record" status="unknown" comment=""/>
+      <SMOKER id="S2" status="unknown"/>
+    </SMOKER>
+    <CAD id="DOC9" time="after DCT" indicator="mention">
+      <CAD id="C2" start="376" end="379" text="CAD" time="after DCT" indicator="mention" comment=""/>
+      <CAD id="C3" start="376" end="379" text="CAD" time="after DCT" indicator="mention" comment=""/>
+      <CAD id="C4" start="376" end="379" text="CAD" time="after DCT" indicator="mention" comment=""/>
+      <CAD id="C5" start="1957" end="1960" text="CAD" time="after DCT" indicator="mention" comment=""/>
+    </CAD>
+    <MEDICATION id="DOC10" time="after DCT" type1="ARB" type2="">
+      <MEDICATION id="M6" start="73" end="79" text="Cozaar" time="after DCT" type1="ARB" type2="" comment=""/>
+      <MEDICATION id="M7" start="73" end="80" text="Cozaar " time="after DCT" type1="ARB" type2="" comment=""/>
+      <MEDICATION id="M8" start="73" end="80" text="Cozaar " time="after DCT" type1="ARB" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC11" time="before DCT" type1="statin" type2="">
+      <MEDICATION id="M9" start="84" end="91" text="Lipitor" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M10" start="84" end="92" text="Lipitor " time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M11" start="84" end="91" text="Lipitor" time="before DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC12" time="during DCT" type1="statin" type2="">
+      <MEDICATION id="M12" start="84" end="91" text="Lipitor" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M13" start="84" end="92" text="Lipitor " time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M14" start="84" end="91" text="Lipitor" time="during DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <FAMILY_HIST id="DOC13" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <HYPERLIPIDEMIA id="DOC14" time="after DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY8" start="687" end="701" text="Hyperlipidemia" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY9" start="686" end="701" text=" Hyperlipidemia" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY10" start="687" end="701" text="Hyperlipidemia" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY11" start="2039" end="2053" text="Hyperlipidemia" time="after DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <CAD id="DOC15" time="during DCT" indicator="mention">
+      <CAD id="C6" start="376" end="379" text="CAD" time="during DCT" indicator="mention" comment=""/>
+      <CAD id="C7" start="376" end="379" text="CAD" time="during DCT" indicator="mention" comment=""/>
+      <CAD id="C8" start="376" end="379" text="CAD" time="during DCT" indicator="mention" comment=""/>
+      <CAD id="C9" start="1957" end="1960" text="CAD" time="during DCT" indicator="mention" comment=""/>
+    </CAD>
+    <MEDICATION id="DOC16" time="after DCT" type1="diuretic" type2="">
+      <MEDICATION id="M15" start="2010" end="2021" text="Add dyazide" time="after DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M16" start="2009" end="2022" text=" Add dyazide " time="after DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M17" start="2013" end="2021" text=" dyazide" time="after DCT" type1="diuretic" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC17" time="before DCT" indicator="high bp">
+      <HYPERTENSION id="H11" start="649" end="673" text="BP's 150/80 range at hom" time="before DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H12" start="654" end="660" text="150/80" time="before DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H13" start="649" end="660" text="BP's 150/80" time="before DCT" indicator="high bp" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC18" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H14" start="645" end="647" text="HT" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H15" start="645" end="647" text="HT" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H16" start="645" end="647" text="HT" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H17" start="2006" end="2008" text="HT" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <MEDICATION id="DOC19" time="before DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M18" start="59" end="67" text="Atenolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M19" start="58" end="68" text=" Atenolol " time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M20" start="59" end="67" text="Atenolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC20" time="during DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M21" start="59" end="67" text="Atenolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M22" start="58" end="68" text=" Atenolol " time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M23" start="59" end="67" text="Atenolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <CAD id="DOC21" time="before DCT" indicator="mention">
+      <CAD id="C10" start="376" end="379" text="CAD" time="before DCT" indicator="mention" comment=""/>
+      <CAD id="C11" start="376" end="379" text="CAD" time="before DCT" indicator="mention" comment=""/>
+      <CAD id="C12" start="376" end="379" text="CAD" time="before DCT" indicator="mention" comment=""/>
+      <CAD id="C13" start="1957" end="1960" text="CAD" time="before DCT" indicator="mention" comment=""/>
+    </CAD>
+    <MEDICATION id="DOC22" time="during DCT" type1="ARB" type2="">
+      <MEDICATION id="M24" start="73" end="79" text="Cozaar" time="during DCT" type1="ARB" type2="" comment=""/>
+      <MEDICATION id="M25" start="73" end="80" text="Cozaar " time="during DCT" type1="ARB" type2="" comment=""/>
+      <MEDICATION id="M26" start="73" end="80" text="Cozaar " time="during DCT" type1="ARB" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC23" time="before DCT" type1="ARB" type2="">
+      <MEDICATION id="M27" start="73" end="79" text="Cozaar" time="before DCT" type1="ARB" type2="" comment=""/>
+      <MEDICATION id="M28" start="73" end="80" text="Cozaar " time="before DCT" type1="ARB" type2="" comment=""/>
+      <MEDICATION id="M29" start="73" end="80" text="Cozaar " time="before DCT" type1="ARB" type2="" comment=""/>
+    </MEDICATION>
+    <PHI id="P0" start="16" end="26" text="2089-10-07" TYPE="DATE"/>
+    <PHI id="P1" start="298" end="308" text="Y. Ullrich" TYPE="DOCTOR"/>
+    <PHI id="P2" start="320" end="323" text="Ted" TYPE="PATIENT"/>
+    <PHI id="P3" start="621" end="630" text="Y Ullrich" TYPE="DOCTOR"/>
+    <PHI id="P4" start="742" end="746" text="9/88" TYPE="DATE"/>
+    <PHI id="P5" start="1995" end="2004" text="Y Ullrich" TYPE="DOCTOR"/>
+    <PHI id="P6" start="2091" end="2104" text="Yosef Ullrich" TYPE="DOCTOR"/>
+    <PHI id="P7" start="2252" end="2267" text="Ulysses Gilbert" TYPE="DOCTOR"/>
+  </TAGS>
+</root>

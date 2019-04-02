@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2085-05-27
+
+ 
+Mr. Ostrander is here for follow-up of his thyroid situation, however due to 
+scheduling difficulties he is only having his thyroid uptake and scan 
+currently.  He took the tracer and he had his first scan now and the 
+testing wont be done until tomorrow.  Thyroid function tests were 
+completely normal.  His chest x-ray is completely normal except for 
+tracheal deviation I believe which is due to his goida.  I talked to him 
+that if the nodule were cold we will need a fine needle aspirate.  I also 
+said to him that he made need to see a thyroid specialist.  Though 
+slightly anxious he is agreeable to this.
+ 
+He did not bring with him the pathology final report of his lymph node 
+biopsy but he was told it was a reaction to an infection and no further 
+follow-up or treatment was necessary.
+We then talked about smoking cessation and he and his live-in have picked 
+a date namely Jun 8th to quit .I tried to give him as much encouragement 
+for that as I could.
+ 
+Leroy X. Oshea, M.D.
+ 
+ 
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <FAMILY_HIST id="DOC0" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC1" status="current">
+      <SMOKER id="S0" start="850" end="867" text="smoking cessation" status="current" comment=""/>
+      <SMOKER id="S1" start="850" end="858" text="smoking " status="current" comment=""/>
+      <SMOKER id="S2" start="850" end="867" text="smoking cessation" status="current" comment=""/>
+    </SMOKER>
+  </TAGS>
+</root>

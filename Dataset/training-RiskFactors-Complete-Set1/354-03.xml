@@ -1,0 +1,242 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2096-09-17
+
+ Medicine Admission Note
+
+
+Patient Name:  Fay, Brook
+MRN: 11289501
+Date: 9/16/96
+Admitting Staff: Tellez
+Location:  59H
+
+Reason for Admission:  Dysphagia
+
+HPI: Ms. Fay is a 69 year-old woman with diabetes who presented from home with an approximately 2 month history of progressive dysphagia, solid and liquid. About that time she was prescribed Amoxicillin and Metronidazole, presumably for H. pylori eradication (not confirmed); she reports an adverse reaction to amoxicillin with rash and facial swelling. The meds were discontinued and she started a course of oral methylprednisolone. She stopped this several weeks ago because it made her jittery. Approximately the same time she began to notice that food and pills would feel stuck in the throat; on further questioning, she also may have noted the presence of white spots in the mouth around this time as well. No fevers, chills, night sweats, nausea, vomiting, chest pain, palpitations, headache, lightheadedness, vertigo, rash or new joint pain; no recent travel. She does note that her blood sugars at home have been consistently elevated to the 200-300 range.
+
+In the ED, Ms. Fay was afebrile and hemodynamically stable. She was evaluated by the GI department. A screening HIV test was negative. She was found to have mild hyponatremia and mild hyperkalemia, as well as a question of subtle ECG changes. The above findings prompted admission for further workup.
+
+ROS: Pertinent positives and negatives above.
+
+PMH/PSH:   
+Diabetes mellitus
+Hypertension
+Hyperlipidemia
+Obesity
+GERD
+Osteoarthritis and low back pain
+H/o AVNRT (2094)
+
+ALLERGIES: Reported rash and facial swelling with Amoxicillin
+
+MEDICATIONS: 
+Atenolol 50mg daily
+Diclofenac 75 mg Q8 prn
+Metformin 500mg PO BID
+Pantoprazole 40 mg daily
+Loratadine
+Albuterol MDI
+Meclizine 25mg PRN
+Aledronate 70mg weekly
+
+FAMILY HISTORY: Noncontributory
+
+SOCIAL HISTORY:  Lives alone; family heavily involved in her care and assist with secondary ADLs. No alcohol, tobacco or drug use. Born in Peru, last visit about one year ago.
+
+PHYSICAL EXAM:	
+Gen: Alert, NAD
+VS:  Afebrile   82   100/54   18   100% RA
+HEENT:  Conjunctivae clear, anicteric, NP clear, OP with mild thrush, upper dentures; no sinus tenderness
+Neck:  Supple, no adenopathy; no palpable thyromegaly
+Heart: RRR, s1s2 without murmur
+Lungs: CTA bilaterally without wheeze/rales
+ABD: Soft, nontender, nondistended, nabs, no mass
+EXT:  Warm, no edema
+Skin: No rash or petechiae
+Neuro: A&Ox3, no focal deficits
+       
+LABORATORY:
+15.6 > 42.3 < 487   (77 poly, 17 lymph)
+130 / 5.3 / 99 / 21 / 38 / 1.1 < 375   eGFR 48
+ALT/AST normal
+CK/MG/Troponin normal x 2 sets
+UA: 3+ glucose, otherwise negative
+
+MICROBIOLOGY: Urine culture pending
+
+RADIOLOGY: None
+
+ECG: NSR, incomplete RBBB; T wave flattening/inversion in V2-V3 that was not noted on 2094 ECG
+
+IMPRESSION and PLAN: 66 year-old woman with solid/liquid dysphagia, oral candidiasis, and poorly controlled diabetes mellitus. The presence of thrush raises suspicion for esophageal candidiasis, though she does not report odynophagia. Mechanical obstruction should be ruled out. The presence of mild hyponatremia and hyperkalemia is likely attributable to the fact that she abruptly discontinued exogenous corticosteroids after a several week course; she is hemodynamically stable. Finally, there is little here to suggest acute coronary syndrome, though she falls into a subgroup of patients more likely to present with minimal symptoms. ECG warrants following. Diabetes is poorly controlled and may require initiation of insulin therapy; though sugars here may have been confounded by the dose of steroids given in ED.
+
+CV: CR monitor overnight; cycle ECG and cardiac biomarkers; aspirin, continue beta blocker
+Pulm: No issues; albuterol prn
+GI: Upper endoscopy tentatively planned for the morning; NPO after midnight; continue home ppi
+Endocrine: Sliding scale insulin, metformin; consider diabetes education, and discuss with PCP whether initiation of insulin is warranted. Check HbA1c, TFTs
+FEN: Monitor lytes; lowfat ADA diet
+Infectious Disease: Following EGD, fluconazole for candidiasis; leukocytosis is unexplained, but not focal evidence of infection
+PPx: Enoxaparin may be started after EGD
+Social work consult to assess support network and assist with discharge planning
+
+Terry Iyer will assume care in the morning. Please page Dr. Iyer directly at 00450 with questions arising after 8:00am.
+
+
+________________________________
+Paul Gardner, MD
+Pager 48272
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="after DCT" type1="metformin" type2="">
+      <MEDICATION id="M0" start="1742" end="1751" text="Metformin" time="after DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M1" start="3921" end="3930" text="metformin" time="after DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M2" start="1742" end="1751" text="Metformin" time="after DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M3" start="1742" end="1751" text="Metformin" time="after DCT" type1="metformin" type2="" comment=""/>
+    </MEDICATION>
+    <OBESE id="DOC1" time="after DCT" indicator="mention">
+      <OBESE id="O0" start="1557" end="1564" text="Obesity" time="after DCT" indicator="mention" comment=""/>
+      <OBESE id="O1" start="1557" end="1564" text="Obesity" time="after DCT" indicator="mention" comment=""/>
+    </OBESE>
+    <MEDICATION id="DOC2" time="during DCT" type1="metformin" type2="">
+      <MEDICATION id="M4" start="1742" end="1751" text="Metformin" time="during DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M5" start="3921" end="3930" text="metformin" time="during DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M6" start="1742" end="1751" text="Metformin" time="during DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M7" start="1742" end="1751" text="Metformin" time="during DCT" type1="metformin" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC3" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="1529" end="1541" text="Hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="1529" end="1541" text="Hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H2" start="1529" end="1541" text="Hypertension" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERLIPIDEMIA id="DOC4" time="before DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY0" start="1542" end="1556" text="Hyperlipidemia" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY1" start="1542" end="1556" text="Hyperlipidemia" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY2" start="1542" end="1556" text="Hyperlipidemia" time="before DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <DIABETES id="DOC5" time="during DCT" indicator="mention">
+      <DIABETES id="D0" start="224" end="232" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D1" start="1511" end="1528" text="Diabetes mellitus" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D2" start="2956" end="2973" text="diabetes mellitus" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D3" start="3511" end="3519" text="Diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D4" start="224" end="232" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D5" start="1511" end="1528" text="Diabetes mellitus" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <HYPERLIPIDEMIA id="DOC6" time="during DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY3" start="1542" end="1556" text="Hyperlipidemia" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY4" start="1542" end="1556" text="Hyperlipidemia" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY5" start="1542" end="1556" text="Hyperlipidemia" time="during DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <MEDICATION id="DOC7" time="after DCT" type1="insulin" type2="">
+      <MEDICATION id="M8" start="3898" end="3919" text="Sliding scale insulin" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M9" start="3898" end="3919" text="Sliding scale insulin" time="after DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC8" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H3" start="1529" end="1541" text="Hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H4" start="1529" end="1541" text="Hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H5" start="1529" end="1541" text="Hypertension" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <MEDICATION id="DOC9" time="after DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M10" start="1698" end="1706" text="Atenolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M11" start="3748" end="3760" text="beta blocker" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M12" start="1698" end="1706" text="Atenolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M13" start="1698" end="1706" text="Atenolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <DIABETES id="DOC10" time="before DCT" indicator="glucose">
+      <DIABETES id="D6" start="1074" end="1147" text="blood sugars at home have been consistently elevated to the 200-300 range" time="before DCT" indicator="glucose" comment=""/>
+      <DIABETES id="D7" start="1074" end="1147" text="blood sugars at home have been consistently elevated to the 200-300 range" time="before DCT" indicator="glucose" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC11" time="before DCT" indicator="mention">
+      <DIABETES id="D8" start="224" end="232" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D9" start="1511" end="1528" text="Diabetes mellitus" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D10" start="2956" end="2973" text="diabetes mellitus" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D11" start="3511" end="3519" text="Diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D12" start="224" end="232" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D13" start="1511" end="1528" text="Diabetes mellitus" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <MEDICATION id="DOC12" time="before DCT" type1="metformin" type2="">
+      <MEDICATION id="M14" start="1742" end="1751" text="Metformin" time="before DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M15" start="3921" end="3930" text="metformin" time="before DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M16" start="1742" end="1751" text="Metformin" time="before DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M17" start="1742" end="1751" text="Metformin" time="before DCT" type1="metformin" type2="" comment=""/>
+    </MEDICATION>
+    <OBESE id="DOC13" time="before DCT" indicator="mention">
+      <OBESE id="O2" start="1557" end="1564" text="Obesity" time="before DCT" indicator="mention" comment=""/>
+      <OBESE id="O3" start="1557" end="1564" text="Obesity" time="before DCT" indicator="mention" comment=""/>
+      <OBESE id="O4" start="1557" end="1564" text="Obesity" time="before DCT" indicator="mention" comment=""/>
+    </OBESE>
+    <FAMILY_HIST id="DOC14" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <HYPERLIPIDEMIA id="DOC15" time="after DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY6" start="1542" end="1556" text="Hyperlipidemia" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY7" start="1542" end="1556" text="Hyperlipidemia" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY8" start="1542" end="1556" text="Hyperlipidemia" time="after DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <SMOKER id="DOC16" status="never">
+      <SMOKER id="S0" start="1989" end="2008" text="No alcohol, tobacco" status="never" comment=""/>
+      <SMOKER id="S1" start="1989" end="2009" text="No alcohol, tobacco " status="never" comment=""/>
+    </SMOKER>
+    <OBESE id="DOC17" time="during DCT" indicator="mention">
+      <OBESE id="O5" start="1557" end="1564" text="Obesity" time="during DCT" indicator="mention" comment=""/>
+      <OBESE id="O6" start="1557" end="1564" text="Obesity" time="during DCT" indicator="mention" comment=""/>
+    </OBESE>
+    <HYPERTENSION id="DOC18" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H6" start="1529" end="1541" text="Hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H7" start="1529" end="1541" text="Hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H8" start="1529" end="1541" text="Hypertension" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <MEDICATION id="DOC19" time="during DCT" type1="insulin" type2="">
+      <MEDICATION id="M18" start="3898" end="3919" text="Sliding scale insulin" time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M19" start="3912" end="3920" text="insulin," time="during DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC20" time="before DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M20" start="1698" end="1706" text="Atenolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M21" start="3748" end="3760" text="beta blocker" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M22" start="1698" end="1706" text="Atenolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M23" start="1698" end="1706" text="Atenolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC21" time="during DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M24" start="1698" end="1706" text="Atenolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M25" start="3748" end="3760" text="beta blocker" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M26" start="1698" end="1706" text="Atenolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M27" start="1698" end="1706" text="Atenolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <DIABETES id="DOC22" time="after DCT" indicator="mention">
+      <DIABETES id="D14" start="224" end="232" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D15" start="1511" end="1528" text="Diabetes mellitus" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D16" start="2956" end="2973" text="diabetes mellitus" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D17" start="3511" end="3519" text="Diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D18" start="224" end="232" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D19" start="1511" end="1528" text="Diabetes mellitus" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <PHI id="P0" start="16" end="26" text="2096-09-17" TYPE="DATE"/>
+    <PHI id="P1" start="70" end="80" text="Fay, Brook" TYPE="PATIENT"/>
+    <PHI id="P2" start="86" end="94" text="11289501" TYPE="MEDICALRECORD"/>
+    <PHI id="P3" start="101" end="108" text="9/16/96" TYPE="DATE"/>
+    <PHI id="P4" start="126" end="132" text="Tellez" TYPE="DOCTOR"/>
+    <PHI id="P5" start="144" end="147" text="59H" TYPE="ROOM"/>
+    <PHI id="P6" start="192" end="195" text="Fay" TYPE="PATIENT"/>
+    <PHI id="P7" start="201" end="203" text="69" TYPE="AGE"/>
+    <PHI id="P8" start="1165" end="1168" text="Fay" TYPE="PATIENT"/>
+    <PHI id="P9" start="1235" end="1248" text="GI department" TYPE="DEPARTMENT"/>
+    <PHI id="P10" start="1614" end="1618" text="2094" TYPE="DATE"/>
+    <PHI id="P11" start="2030" end="2034" text="Peru" TYPE="COUNTRY"/>
+    <PHI id="P12" start="2838" end="2842" text="2094" TYPE="DATE"/>
+    <PHI id="P13" start="2869" end="2871" text="66" TYPE="AGE"/>
+    <PHI id="P14" start="4332" end="4342" text="Terry Iyer" TYPE="DOCTOR"/>
+    <PHI id="P15" start="4392" end="4396" text="Iyer" TYPE="DOCTOR"/>
+    <PHI id="P16" start="4409" end="4414" text="00450" TYPE="PHONE"/>
+    <PHI id="P17" start="4487" end="4499" text="Paul Gardner" TYPE="DOCTOR"/>
+    <PHI id="P18" start="4510" end="4515" text="48272" TYPE="PHONE"/>
+  </TAGS>
+</root>

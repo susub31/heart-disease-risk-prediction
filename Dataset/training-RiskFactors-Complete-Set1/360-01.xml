@@ -1,0 +1,204 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2076-09-25
+
+ 
+
+ 
+
+OLIVIA PATTY HOPKINS, M.D.
+
+ 
+
+HALE MEMORIAL HOSPITAL
+
+Internal Medicine
+
+699 Burrit St
+
+Rayne,  MI  82978
+
+Xander Geiger
+
+01729440
+
+9/25/76
+
+Office Visit:
+
+ 
+
+F/U for panhypopituitarism.  Had recent hospitalization for vomiting and 
+
+bring unable to take meds.  Has been doing well since then. Was drawing 
+
+up testo himself and there was a question as to whether he was using too 
+
+much so now on prefilled syringes which means he has to pick them up 
+
+every 3 wks.  He had an injection one week ago and does not feel that 
+
+his sexual function is as god as his prior baseline. He is taking 
+
+prednisone 5 mg am and 2.5 mg in pm, Levoxyl 0.137 mg/dy, testo 200 mg 
+
+IM q 3 wks, Atenolol 25 mg qd and Lisinopril 10 mg po qd.
+
+ 
+
+ROS:
+
+No chest pain, change in bowels, trouble with urination
+
+ 
+
+SH:
+
+Lives with wife
+
+Decorator for income
+
+Neither using ETOH
+
+ 
+
+EXAM:
+
+BP 142/60 P 80 wt 174 lbs
+
+Appears well
+
+Eyes- no lid lag, full motion, full fields, Neck- small thyroid, Lungs-
+
+clear, Cor0RR S1 S2 S4, Abd- +BS, no masses, non tender, Rectal-nl 
+
+appearance, no masses palpable, prostate smooth, Stool-heme negative 
+
+Neuro-OX3, in good spirits, relfexes- 2/2
+
+ 
+
+IMPRESSION:
+
+Panhypopit on replacement rx
+
+Hypertension-controlled (cannot take diuretic)
+
+ 
+
+PLAN:
+
+Pt will schedule appt with Helen Morris, RN to review adrenal teaching 
+
+and review testo inj technique
+
+Check testo level now 1 wk post injection.
+
+Has appt next week with new primary Dr. Whaley
+
+Return 4 mos
+
+ 
+
+ 
+
+ 
+
+________________________
+
+Olivia P. Hopkins, MD
+
+ 
+
+Cc: Dr. Whaley, SH
+
+ 
+
+ 
+
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="during DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M0" start="736" end="746" text="Lisinopril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M1" start="736" end="746" text="Lisinopril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M2" start="736" end="760" text="Lisinopril 10 mg po qd. " time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC1" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="904" end="913" text="BP 142/60" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="1247" end="1260" text="Hypertension-" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC2" time="during DCT" indicator="high bp">
+      <HYPERTENSION id="H2" start="907" end="913" text="142/60" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H3" start="904" end="913" text="BP 142/60" time="during DCT" indicator="high bp" comment=""/>
+    </HYPERTENSION>
+    <MEDICATION id="DOC3" time="before DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M3" start="736" end="746" text="Lisinopril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M4" start="736" end="746" text="Lisinopril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M5" start="736" end="760" text="Lisinopril 10 mg po qd. " time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC4" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H4" start="904" end="913" text="BP 142/60" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H5" start="1247" end="1260" text="Hypertension-" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <MEDICATION id="DOC5" time="before DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M6" start="714" end="722" text="Atenolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M7" start="714" end="722" text="Atenolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M8" start="714" end="731" text="Atenolol 25 mg qd" time="before DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC6" time="after DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M9" start="736" end="746" text="Lisinopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M10" start="736" end="746" text="Lisinopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M11" start="736" end="760" text="Lisinopril 10 mg po qd. " time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC7" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H6" start="904" end="913" text="BP 142/60" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H7" start="1247" end="1260" text="Hypertension-" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <MEDICATION id="DOC8" time="after DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M12" start="714" end="722" text="Atenolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M13" start="714" end="722" text="Atenolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M14" start="714" end="731" text="Atenolol 25 mg qd" time="after DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <SMOKER id="DOC9" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" start="830" end="833" text="SH:" status="unknown" comment=""/>
+      <SMOKER id="S2" status="unknown"/>
+    </SMOKER>
+    <MEDICATION id="DOC10" time="during DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M15" start="714" end="722" text="Atenolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M16" start="714" end="722" text="Atenolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M17" start="714" end="731" text="Atenolol 25 mg qd" time="during DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <FAMILY_HIST id="DOC11" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <PHI id="P0" start="16" end="26" text="2076-09-25" TYPE="DATE"/>
+    <PHI id="P1" start="34" end="54" text="OLIVIA PATTY HOPKINS" TYPE="DOCTOR"/>
+    <PHI id="P2" start="65" end="87" text="HALE MEMORIAL HOSPITAL" TYPE="HOSPITAL"/>
+    <PHI id="P3" start="89" end="106" text="Internal Medicine" TYPE="DEPARTMENT"/>
+    <PHI id="P4" start="108" end="121" text="699 Burrit St" TYPE="STREET"/>
+    <PHI id="P5" start="123" end="128" text="Rayne" TYPE="CITY"/>
+    <PHI id="P6" start="131" end="133" text="MI" TYPE="STATE"/>
+    <PHI id="P7" start="135" end="140" text="82978" TYPE="ZIP"/>
+    <PHI id="P8" start="142" end="155" text="Xander Geiger" TYPE="PATIENT"/>
+    <PHI id="P9" start="157" end="165" text="01729440" TYPE="MEDICALRECORD"/>
+    <PHI id="P10" start="167" end="174" text="9/25/76" TYPE="DATE"/>
+    <PHI id="P11" start="852" end="861" text="Decorator" TYPE="PROFESSION"/>
+    <PHI id="P12" start="1332" end="1344" text="Helen Morris" TYPE="DOCTOR"/>
+    <PHI id="P13" start="1494" end="1500" text="Whaley" TYPE="DOCTOR"/>
+    <PHI id="P14" start="1551" end="1568" text="Olivia P. Hopkins" TYPE="DOCTOR"/>
+    <PHI id="P15" start="1585" end="1591" text="Whaley" TYPE="DOCTOR"/>
+    <PHI id="P16" start="1593" end="1595" text="SH" TYPE="HOSPITAL"/>
+  </TAGS>
+</root>

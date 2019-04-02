@@ -1,0 +1,141 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2069-07-03
+
+R foot ulcer - Present for several months. Being followed by Dr. Vetter. Being fitted with for special shoes tomorrow.
+
+
+
+AODM - Meds reviewed. Will check HgbA1c today. Last eye exam 09/25/68. Cataracts noted by Dr. Gaines.
+
+
+
+HBP - Borderline high. Will increase Atenolol to 50 mg qd. No hypoglycemic rxn's.
+
+
+
+
+
+Problems
+
+Foot ulcer 
+
+Diabetes 
+
+Hearing impairment : AD 
+
+
+
+PE: WD/WN in NAD
+
+
+
+Flowsheets
+
+BP 144/70 Left Arm
+
+P 72 Regular
+
+Ht 68 in.
+
+Wt 245 lb
+
+ 
+
+R foot - Ulcer on ball of L foot clean and granulating
+
+
+
+Plan: Increase atenolol to 50 mg qd
+
+         RTC 3 months 30 min
+
+         Call with BP readings
+
+         Check HgbA1c
+
+
+
+
+
+_____________________________________________
+
+Yan D. Ball, MD
+
+
+
+]]></TEXT>
+  <TAGS>
+    <DIABETES id="DOC0" time="before DCT" indicator="mention">
+      <DIABETES id="D0" start="150" end="154" text="AODM" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D1" start="365" end="374" text="Diabetes " time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D2" start="365" end="373" text="Diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D3" start="150" end="155" text="AODM " time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <HYPERTENSION id="DOC1" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="255" end="258" text="HBP" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="255" end="259" text="HBP " time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC2" time="during DCT" indicator="high bp">
+      <HYPERTENSION id="H2" start="436" end="454" text="BP 144/70 Left Arm" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H3" start="436" end="445" text="BP 144/70" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H4" start="439" end="445" text="144/70" time="during DCT" indicator="high bp" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC3" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H5" start="255" end="258" text="HBP" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H6" start="255" end="259" text="HBP " time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <MEDICATION id="DOC4" time="before DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M0" start="292" end="300" text="Atenolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M1" start="568" end="576" text="atenolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M2" start="292" end="300" text="Atenolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M3" start="292" end="301" text="Atenolol " time="before DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <DIABETES id="DOC5" time="during DCT" indicator="mention">
+      <DIABETES id="D4" start="150" end="154" text="AODM" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D5" start="365" end="374" text="Diabetes " time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D6" start="365" end="373" text="Diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D7" start="150" end="155" text="AODM " time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <HYPERTENSION id="DOC6" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H7" start="255" end="258" text="HBP" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H8" start="255" end="259" text="HBP " time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <MEDICATION id="DOC7" time="after DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M4" start="292" end="300" text="Atenolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M5" start="568" end="576" text="atenolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M6" start="292" end="300" text="Atenolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M7" start="292" end="301" text="Atenolol " time="after DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <SMOKER id="DOC8" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" status="unknown"/>
+      <SMOKER id="S2" start="3" end="9" text="Record" status="unknown" comment=""/>
+    </SMOKER>
+    <MEDICATION id="DOC9" time="during DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M8" start="292" end="300" text="Atenolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M9" start="568" end="576" text="atenolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M10" start="292" end="300" text="Atenolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M11" start="292" end="301" text="Atenolol " time="during DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <DIABETES id="DOC10" time="after DCT" indicator="mention">
+      <DIABETES id="D8" start="150" end="154" text="AODM" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D9" start="365" end="374" text="Diabetes " time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D10" start="365" end="373" text="Diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D11" start="150" end="155" text="AODM " time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <FAMILY_HIST id="DOC11" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <PHI id="P0" start="16" end="26" text="2069-07-03" TYPE="DATE"/>
+    <PHI id="P1" start="93" end="99" text="Vetter" TYPE="DOCTOR"/>
+    <PHI id="P2" start="211" end="219" text="09/25/68" TYPE="DATE"/>
+    <PHI id="P3" start="244" end="250" text="Gaines" TYPE="DOCTOR"/>
+    <PHI id="P4" start="726" end="737" text="Yan D. Ball" TYPE="DOCTOR"/>
+  </TAGS>
+</root>

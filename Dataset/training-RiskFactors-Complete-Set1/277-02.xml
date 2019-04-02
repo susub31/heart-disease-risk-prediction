@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2079-01-06
+
+EDVISIT^52402461^Ervin, Quindarrius^01/06/79^MEDINA, LUTHER
+
+Seen on 01/06/2079 with Dr. Delaney.  I confirmed that I have
+
+interviewed and examined the patient, reviewed the resident's
+
+documentation on the patient's chart, and discussed the
+
+evaluation, plan of care, and disposition with the patient. 
+
+Please see the resident's note for details.
+
+HISTORY OF PRESENT ILLNESS:  Briefly, this is a 68-year-old
+
+gentleman who presents from rehab with 1 week of diaphoresis and
+
+2 days of shortness of breath and nonproductive cough.  He has a
+
+history of diabetes, hypertension, spinal stenosis, atrial
+
+fibrillation, CHF, CABG, and aortic valve replacement.
+
+PHYSICAL EXAMINATION:  He is profoundly diaphoretic and is in
+
+mild respiratory distress.  Pulse 82, respirations 20, blood
+
+pressure 145/95, pulse oximetry 98% on room air, and his
+
+temperature is 95.9.  He has crackles and bronchial breath sounds
+
+in his right middle and upper lung fields.  He has a regular rate
+
+and rhythm with a 2/6 systolic murmur.
+
+LABORATORY DATA:  His chest x-ray shows right upper lobe
+
+infiltrate.  Sodium is 135.  His white count is 9.8 with left
+
+shift.
+
+CLINICAL IMPRESSION:  Pneumonia.
+
+ ******** Not reviewed by Attending Physician ********
+
+PLAN:  Admission for IV antibiotics.
+
+______________________________
+
+MEDINA, LUTHER M.D.
+
+D: 01/07/79
+
+T: 01/07/79
+
+Dictated By: MEDINA, LUTHER
+
+eScription document:9-5046707 BFFocus
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <DIABETES id="DOC0" time="before DCT" indicator="mention">
+      <DIABETES id="D0" start="583" end="591" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D1" start="583" end="591" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D2" start="583" end="591" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <HYPERTENSION id="DOC1" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="593" end="605" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="593" end="606" text="hypertension," time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H2" start="593" end="605" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <CAD id="DOC2" time="before DCT" indicator="event">
+      <CAD id="C0" start="651" end="655" text="CABG" time="before DCT" indicator="event" comment=""/>
+      <CAD id="C1" start="651" end="655" text="CABG" time="before DCT" indicator="event" comment=""/>
+      <CAD id="C2" start="651" end="655" text="CABG" time="before DCT" indicator="event" comment=""/>
+    </CAD>
+    <HYPERTENSION id="DOC3" time="during DCT" indicator="high bp">
+      <HYPERTENSION id="H3" start="822" end="828" text="145/95" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H4" start="822" end="828" text="145/95" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H5" start="806" end="828" text="blood  pressure 145/95" time="during DCT" indicator="high bp" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC4" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H6" start="593" end="605" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H7" start="593" end="606" text="hypertension," time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H8" start="593" end="605" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <DIABETES id="DOC5" time="during DCT" indicator="mention">
+      <DIABETES id="D3" start="583" end="591" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D4" start="583" end="591" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D5" start="583" end="591" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <HYPERTENSION id="DOC6" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H9" start="593" end="605" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H10" start="593" end="606" text="hypertension," time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H11" start="593" end="605" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <FAMILY_HIST id="DOC7" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC8" status="unknown">
+      <SMOKER id="S0" start="3" end="9" text="Record" status="unknown" comment=""/>
+      <SMOKER id="S1" status="unknown"/>
+      <SMOKER id="S2" status="unknown"/>
+    </SMOKER>
+    <DIABETES id="DOC9" time="after DCT" indicator="mention">
+      <DIABETES id="D6" start="583" end="591" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D7" start="583" end="591" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D8" start="583" end="591" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <PHI id="P0" start="16" end="26" text="2079-01-06" TYPE="DATE"/>
+    <PHI id="P1" start="36" end="44" text="52402461" TYPE="MEDICALRECORD"/>
+    <PHI id="P2" start="45" end="63" text="Ervin, Quindarrius" TYPE="PATIENT"/>
+    <PHI id="P3" start="64" end="72" text="01/06/79" TYPE="DATE"/>
+    <PHI id="P4" start="73" end="87" text="MEDINA, LUTHER" TYPE="DOCTOR"/>
+    <PHI id="P5" start="97" end="107" text="01/06/2079" TYPE="DATE"/>
+    <PHI id="P6" start="117" end="124" text="Delaney" TYPE="DOCTOR"/>
+    <PHI id="P7" start="427" end="429" text="68" TYPE="AGE"/>
+    <PHI id="P8" start="1334" end="1348" text="MEDINA, LUTHER" TYPE="DOCTOR"/>
+    <PHI id="P9" start="1358" end="1366" text="01/07/79" TYPE="DATE"/>
+    <PHI id="P10" start="1371" end="1379" text="01/07/79" TYPE="DATE"/>
+    <PHI id="P11" start="1394" end="1408" text="MEDINA, LUTHER" TYPE="DOCTOR"/>
+    <PHI id="P12" start="1430" end="1439" text="9-5046707" TYPE="IDNUM"/>
+  </TAGS>
+</root>

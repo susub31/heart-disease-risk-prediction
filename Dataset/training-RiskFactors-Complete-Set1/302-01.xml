@@ -1,0 +1,208 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2082-07-04
+
+
+Beaumont Hospital Physician Group
+229 Crowley Avenue                                    Rhodes, Yajaira
+Rutland, FL 94265                            97627182
+(153) 636-7011                                           07/04/82
+(584) 728-8734
+
+SUBJECTIVE: The patient returns.  She has had three
+operations on her back, finally ending with a fusion of
+L2-L3 and a laminectomy in that area for recurrent disk
+disease  at L2-L3.  She still is having severe pain going
+down her right leg and anterior knee which is unchanged or
+perhaps somewhat better.  She sees Dr. Herring with
+regularity.  She has seen Dr. Oscar Riggs.  She has
+nothing wrong with her hips and she has had multiple CT
+scans showing the numerous operations and fusion.  
+
+MEDICATIONS:  
+1.  Lipitor 20 mg q.d. 
+2.  Glynase 1.5 mg b.i.d. 
+3.  Trandate 100 mg q.d.  
+4.  Tegretol 300 mg in a.m., 200 mg in the p.m.  
+5.  Premarin 0.625 mg 30 days a month.  
+6.  Provera 5 mg 12 days a month.
+7.  Enteric-coated aspirin 81 mg q.d. 
+8.  Calcium 1200 mg q.d. 
+
+She is in physiotherapy presently. She is not smoking nor
+drinking.  She has been eating and has gained considerable
+weight.
+
+She has no cardiopulmonary, GI or GU complaints.  She is to
+see Dr. Bruce Godfrey's replacement in August and to get a
+mammogram at that time.  Hopefully, she will be able to lie
+on the table when that occurs.  She is now able to drive a
+car, but walks with a cane and cannot lie down with any
+degree of ease.
+
+PHYSICAL EXAMINATION:  She weighs 192 lbs stripped and her
+blood pressure is 160/90 in the left arm standing, pulse is
+72 and regular.  She appears as a well developed, overweight
+white female in pain, having to hold on while standing,
+easily weeping, but pleasant.  There is no icterus, cyanosis
+or edema.  The eyes reveal 2+ arcus.  Pupils are round,
+reactive and equal.  Nose and throat examination is
+unremarkable.  Neck veins are flat.  Carotids are 2+ and
+equal and without bruit.  Thyroid small and smooth.  Lungs
+are clear to P&A. The heart is not enlarged.  There is a
+regular sinus rhythm and no significant murmurs.  S1 and S2
+are normal.  Liver and spleen cannot be felt.  She has good
+peripheral pulses.
+
+IMPRESSION:  
+1.  Diabetes mellitus type 2.  She has had an eye exam at
+Mitchel Memorial Hospital this past year, but her diabetes is poorly
+controlled as her blood sugars have been in the 150-200
+range.  I have told her to increase her Glynase to 3 mg
+twice a day until she is able to diet.
+2.  L2-L3 disk with fusion. 
+3.  Mild hypertension, on no medication.  Will not start any
+until she loses weight.
+
+
+______________________________
+Brett F. Rutherford, M.D.
+
+
+CC:
+
+eScription document:0-532059
+
+DD: 07/04/82
+DT: 07/05/82
+DV: 07/04/82
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="after DCT" type1="statin" type2="">
+      <MEDICATION id="M0" start="782" end="789" text="Lipitor" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M1" start="782" end="789" text="Lipitor" time="after DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC1" time="during DCT" type1="aspirin" type2="">
+      <MEDICATION id="M2" start="1000" end="1007" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M3" start="985" end="1007" text="Enteric-coated aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC2" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="2532" end="2544" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="2525" end="2544" text="  Mild hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H2" start="2527" end="2544" text="Mild hypertension" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <DIABETES id="DOC3" time="during DCT" indicator="mention">
+      <DIABETES id="D0" start="2220" end="2244" text="Diabetes mellitus type 2" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D1" start="2220" end="2244" text="Diabetes mellitus type 2" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D2" start="2220" end="2244" text="Diabetes mellitus type 2" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <MEDICATION id="DOC4" time="after DCT" type1="aspirin" type2="">
+      <MEDICATION id="M4" start="1000" end="1007" text="aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M5" start="985" end="1007" text="Enteric-coated aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC5" time="during DCT" indicator="high bp">
+      <HYPERTENSION id="H3" start="1561" end="1567" text="160/90" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H4" start="1543" end="1583" text="blood pressure is 160/90 in the left arm" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H5" start="1561" end="1567" text="160/90" time="during DCT" indicator="high bp" comment=""/>
+    </HYPERTENSION>
+    <MEDICATION id="DOC6" time="after DCT" type1="sulfonylureas" type2="">
+      <MEDICATION id="M6" start="806" end="813" text="Glynase" time="after DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M7" start="806" end="813" text="Glynase" time="after DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M8" start="806" end="813" text="Glynase" time="after DCT" type1="sulfonylureas" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC7" time="during DCT" type1="sulfonylureas" type2="">
+      <MEDICATION id="M9" start="806" end="813" text="Glynase" time="during DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M10" start="806" end="813" text="Glynase" time="during DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M11" start="806" end="813" text="Glynase" time="during DCT" type1="sulfonylureas" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC8" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H6" start="2532" end="2544" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H7" start="2525" end="2544" text="  Mild hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H8" start="2527" end="2544" text="Mild hypertension" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <MEDICATION id="DOC9" time="after DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M12" start="833" end="841" text="Trandate" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M13" start="833" end="841" text="Trandate" time="after DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <DIABETES id="DOC10" time="before DCT" indicator="mention">
+      <DIABETES id="D3" start="2220" end="2244" text="Diabetes mellitus type 2" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D4" start="2220" end="2244" text="Diabetes mellitus type 2" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D5" start="2220" end="2244" text="Diabetes mellitus type 2" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <MEDICATION id="DOC11" time="before DCT" type1="statin" type2="">
+      <MEDICATION id="M14" start="782" end="789" text="Lipitor" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M15" start="782" end="789" text="Lipitor" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M16" start="782" end="789" text="Lipitor" time="before DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC12" time="during DCT" type1="statin" type2="">
+      <MEDICATION id="M17" start="782" end="789" text="Lipitor" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M18" start="782" end="789" text="Lipitor" time="during DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <FAMILY_HIST id="DOC13" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <MEDICATION id="DOC14" time="before DCT" type1="aspirin" type2="">
+      <MEDICATION id="M19" start="1000" end="1007" text="aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M20" start="1000" end="1007" text="aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M21" start="985" end="1007" text="Enteric-coated aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <SMOKER id="DOC15" status="never">
+      <SMOKER id="S0" start="1089" end="1100" text="not smoking" status="never" comment=""/>
+      <SMOKER id="S1" start="1089" end="1100" text="not smoking" status="never" comment=""/>
+      <SMOKER id="S2" start="1089" end="1100" text="not smoking" status="never" comment=""/>
+    </SMOKER>
+    <MEDICATION id="DOC16" time="before DCT" type1="sulfonylureas" type2="">
+      <MEDICATION id="M22" start="806" end="813" text="Glynase" time="before DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M23" start="806" end="813" text="Glynase" time="before DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M24" start="806" end="813" text="Glynase" time="before DCT" type1="sulfonylureas" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC17" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H9" start="2532" end="2544" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H10" start="2525" end="2544" text="  Mild hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H11" start="2527" end="2544" text="Mild hypertension" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <MEDICATION id="DOC18" time="before DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M25" start="833" end="841" text="Trandate" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M26" start="833" end="841" text="Trandate" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M27" start="833" end="841" text="Trandate" time="before DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC19" time="during DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M28" start="833" end="841" text="Trandate" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M29" start="833" end="841" text="Trandate" time="during DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <DIABETES id="DOC20" time="after DCT" indicator="mention">
+      <DIABETES id="D6" start="2220" end="2244" text="Diabetes mellitus type 2" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D7" start="2220" end="2244" text="Diabetes mellitus type 2" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D8" start="2220" end="2244" text="Diabetes mellitus type 2" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <PHI id="P0" start="16" end="26" text="2082-07-04" TYPE="DATE"/>
+    <PHI id="P1" start="29" end="46" text="Beaumont Hospital" TYPE="HOSPITAL"/>
+    <PHI id="P2" start="63" end="81" text="229 Crowley Avenue" TYPE="STREET"/>
+    <PHI id="P3" start="117" end="132" text="Rhodes, Yajaira" TYPE="PATIENT"/>
+    <PHI id="P4" start="133" end="140" text="Rutland" TYPE="CITY"/>
+    <PHI id="P5" start="142" end="144" text="FL" TYPE="STATE"/>
+    <PHI id="P6" start="145" end="150" text="94265" TYPE="ZIP"/>
+    <PHI id="P7" start="178" end="186" text="97627182" TYPE="MEDICALRECORD"/>
+    <PHI id="P8" start="187" end="201" text="(153) 636-7011" TYPE="PHONE"/>
+    <PHI id="P9" start="244" end="252" text="07/04/82" TYPE="DATE"/>
+    <PHI id="P10" start="253" end="267" text="(584) 728-8734" TYPE="PHONE"/>
+    <PHI id="P11" start="589" end="596" text="Herring" TYPE="DOCTOR"/>
+    <PHI id="P12" start="632" end="643" text="Oscar Riggs" TYPE="DOCTOR"/>
+    <PHI id="P13" start="1241" end="1254" text="Bruce Godfrey" TYPE="DOCTOR"/>
+    <PHI id="P14" start="1272" end="1278" text="August" TYPE="DATE"/>
+    <PHI id="P15" start="2274" end="2299" text="Mitchel Memorial Hospital" TYPE="HOSPITAL"/>
+    <PHI id="P16" start="2641" end="2660" text="Brett F. Rutherford" TYPE="DOCTOR"/>
+    <PHI id="P17" start="2694" end="2702" text="0-532059" TYPE="MEDICALRECORD"/>
+    <PHI id="P18" start="2708" end="2716" text="07/04/82" TYPE="DATE"/>
+    <PHI id="P19" start="2721" end="2729" text="07/05/82" TYPE="DATE"/>
+    <PHI id="P20" start="2734" end="2742" text="07/04/82" TYPE="DATE"/>
+  </TAGS>
+</root>

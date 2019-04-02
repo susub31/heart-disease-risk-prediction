@@ -1,0 +1,164 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2086-10-19
+
+                                              10-19-86
+ 
+ 
+ 
+This patient was seen with Dr. Nabor Jacoby.
+ 
+HISTORY OF PRESENT ILLNESS:  This is a 29 year old woman with diabetes and 
+obesity.  Her problems are as follows:
+ 
+1.   Diabetes.  She was sent to me from OB/GYN because of her high glucose 
+     and she was put on insulin by me.  Xitlali Xia followed her in 
+     order to get her on a good dose but then she was lost to follow up as 
+     she did not come to her appointments and did not return phone calls.  
+     She finally comes back and I am relieved, but she has not brought any 
+     list of her blood sugars.  She says she does take them about twice a 
+     day and she did write them down but her daughter ripped them up and 
+     threw them away.  She says that they never go higher than 200; that 
+     they usually are about 110.  It was 101 this morning before 
+     breakfast, she says.  She says it does get as low as 19 and five or 
+     six times it has been below 50.  She does say she eats three regular 
+     meals but then later in the morning when I asked her if she had eaten 
+     breakfast she said no.  She is seeing a nutritionist this morning.
+ 
+     I will check a hemoglobin A1C today.  I expressed to her again how 
+     important it is that she eat three regular meals, but not sweets.  
+     She had been eating a lot of chocolate.  She says she has gotten off 
+     of a lot of this although she does have cravings for it and eats it 
+     then.  She is going to a nutritionist today and I hope that she will 
+     help her with her diet.  If her diet does get better, maybe we can 
+     wean her off the insulin and try Micronase.  I explained to her, too, 
+     that if she both had a good diet and lost some weight that we might 
+     be able to get her off the insulin.  This seemed to be something that 
+     she would like to do.  Hopefully the nutritionist can help.  I also 
+     told her that in order to find out what was going on that I need her 
+     to take her blood sugar before breakfast, lunch, dinner and sleep, 
+     and then come back in a week and a half so that we can see what was 
+     really going on and whether they are getting too low.  She denies any 
+     kind of symptoms with even as low a blood sugar as 19.  I am 
+     wondering if she is remembering all these blood sugars correctly.  
+     She had no shakiness, no loss of consciousness, no dizziness, no 
+     nothing.  She felt totally normal.  So hopefully she will really 
+     record these and we will get a better idea.  She said this always 
+     happens in the morning.  She kept contradicting herself and had no 
+     documentation.  I went over with her the symptoms of hypoglycemia.  
+     Once she had a low blood sugar by fingerstick.  She does drink juice, 
+     but I went over the symptoms again with her.  She will call me if she 
+     does have any.
+                                              10-19-86
+ 
+ 
+ 
+2.   Left ankle pain.  I sent her to the orthopedist as she requested.  
+     She said that she may do some surgery on her.
+ 
+3.   Dysuria.  She says this is totally resolved after giving her the 
+     Bactrim.
+ 
+4.   Yeast infection.  She said this has also resolved.
+ 
+5.   She complains of headache.  She says these have been going on for two 
+     or three months; that light and noise bother her when she has some.  
+     She has had nausea and vomited once.  This happened pretty much every 
+     day and it can be at any time of the day.  Tylenol and Advil did not 
+     help.  She knows she is going to have a headache because it starts in 
+     the back of her left ear very faintly and then it spreads from there.  
+     But she has no further prodrome.  She says it is a banging kind of 
+     pain that is rhythmic.  She also says she does see stars in front of 
+     her eyes when it happens.  I asked her if she had any hearing loss, 
+     and she said that she hears voices but people are not there 
+     sometimes.  It has been happening for a couple of weeks.  I discussed 
+     this with Dr. Jacoby and we both agreed that these do sound like 
+     migraines.  I will not image her head now as there is no evidence 
+     that this would be something to do with brain tumor.  Her neuro exam 
+     was totally normal.  Cranial nerves II-XII were checked and intact.  
+     Her gait was normal.  Light touch was touched.  Her toes were 
+     downgoing.  Her reflexes were symmetric bilaterally.  Her disks were 
+     sharp.  EOMI, PERRL.  I gave her a prescription for Motrin, 600 mg PO 
+     t.i.d. and told her to take one the minute she got the pain behind 
+     her left ear.  I will see her in a week and a half to reassess this.
+ 
+6.   Health maintenance.  I thought that since she is diabetic and obese 
+     that she might benefit from a flu shot.  She has no interest in this 
+     at all.  Her blood pressure was 110/70 in the left arm with a thigh 
+     cuff.  Her pulse was 96.  Her blood sugar was 151 and her weight was 
+     285.
+ 
+ 
+ 
+ 
+_________________________
+Xitlali Crane, M.D.
+ 
+CCL:FG:1879
+DD:10-19-86
+DT:10-21-86
+DV:10-19-86
+ ******** Approved but not reviewed by Attending Provider ********
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <OBESE id="DOC2" time="after DCT" indicator="mention">
+      <OBESE id="O0" start="212" end="219" text="obesity" time="after DCT" indicator="mention" comment=""/>
+      <OBESE id="O1" start="212" end="219" text="obesity" time="after DCT" indicator="mention" comment=""/>
+      <OBESE id="O2" start="212" end="219" text="obesity" time="after DCT" indicator="mention" comment=""/>
+    </OBESE>
+    <OBESE id="DOC4" time="during DCT" indicator="mention">
+      <OBESE id="O3" start="212" end="219" text="obesity" time="during DCT" indicator="mention" comment=""/>
+      <OBESE id="O4" start="212" end="219" text="obesity" time="during DCT" indicator="mention" comment=""/>
+      <OBESE id="O5" start="212" end="219" text="obesity" time="during DCT" indicator="mention" comment=""/>
+    </OBESE>
+    <OBESE id="DOC6" time="before DCT" indicator="mention">
+      <OBESE id="O6" start="212" end="219" text="obesity" time="before DCT" indicator="mention" comment=""/>
+      <OBESE id="O7" start="212" end="219" text="obesity" time="before DCT" indicator="mention" comment=""/>
+      <OBESE id="O8" start="212" end="219" text="obesity" time="before DCT" indicator="mention" comment=""/>
+    </OBESE>
+    <MEDICATION id="DOC1" time="before DCT" type1="insulin" type2="">
+      <MEDICATION id="M0" start="352" end="361" text=" insulin " time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M1" start="353" end="360" text="insulin" time="before DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC3" time="during DCT" type1="insulin" type2="">
+      <MEDICATION id="M2" start="352" end="361" text=" insulin " time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M3" start="353" end="360" text="insulin" time="during DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC10" time="after DCT" type1="insulin" type2="">
+      <MEDICATION id="M4" start="352" end="361" text=" insulin " time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M5" start="353" end="360" text="insulin" time="after DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <FAMILY_HIST id="DOC7" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC8" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" start="2" end="10" text=" Record " status="unknown" comment=""/>
+      <SMOKER id="S2" status="unknown"/>
+    </SMOKER>
+    <DIABETES id="DOC0" time="after DCT" indicator="mention">
+      <DIABETES id="D0" start="198" end="206" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D1" start="198" end="207" text="diabetes " time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D2" start="198" end="206" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC5" time="during DCT" indicator="mention">
+      <DIABETES id="D3" start="198" end="206" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D4" start="198" end="207" text="diabetes " time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D5" start="198" end="206" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC9" time="before DCT" indicator="mention">
+      <DIABETES id="D6" start="198" end="206" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D7" start="198" end="207" text="diabetes " time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D8" start="198" end="206" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+  </TAGS>
+</root>

@@ -1,0 +1,202 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2077-10-11
+
+                     PINELLAS EMERGENCY DEPT VISIT
+
+ 
+
+ICKES,WILLIAM JR   810-71-62-8
+
+PRESENTING COMPLAINT: This is a 70-year-old man who presented by 
+
+ambulance with epigastric pain. 
+
+HISTORY OF PRESENTING COMPLAINT: This is a 70-year-old man who 
+
+presented with some chest pain and chest pressure after breakfast 
+
+this morning.  He took a walk at about 11:30.  The pain got 
+
+intense, he went back home, called and ambulance and presented 
+
+here.  The patient presents here now and, after being put in the 
+
+room emergently, became pale and diaphoretic and clammy with mild 
+
+hypertension and an EKG showing an acute MI.  There is ST elevation 
+
+in inferior leads and lateral leads and ST depression in anterior 
+
+leads.  The patient was immediately given aspirin, beta blocker and 
+
+heparinized as well as a nitro drip.  The second EKG showed some 
+
+resolving of his ST elevation and ST depression.  His pain has 
+
+subsided now to about a 1/10.  Blood pressure 102/56, pulse rate of 
+
+58.  Chest x-ray, portable, was done and is also pending. 
+
+Cardiology is aware.  The cath lab team has been called and has 
+
+been mobilized immediately.  Medications that he has gotten so far 
+
+are aspirin, morphine sulfate, nitro paste, sublingual 
+
+nitroglycerine.  He is currently on an IV nitroglycerine drip. 
+
+Three IV lines have been placed.  Portable chest x-ray done.  Cards 
+
+fellow is here and the cath team is aware. 
+
+PAST MEDICAL HISTORY: Only significant for hypertension. 
+
+MEDICATIONS: Atenolol for his blood pressure medicine and recently 
+
+put on quinine sulfate for pain in his legs. 
+
+REVIEW OF SYSTEMS: Otherwise negative.  Never had any angina, never 
+
+had an acute MI and never had any pain like this before.  He denies 
+
+any interscapular pain and denies any other problems or 
+
+complications at this point. 
+
+PHYSICAL EXAMINATION: Lungs are clear.  Cardiac exam: No murmurs 
+
+heard, no rubs or gallops.  No JVD, no bruits heard.  Abdomen is 
+
+soft and nontender.  Rectal exam: Guaiac-negative with normal tone. 
+
+THERAPY RENDERED/COURSE IN ED: Currently in stable condition. 
+
+Blood pressure normal.  Oxygen saturation 95% and a pulse rate of 
+
+58.  He received 2.5 of Lopressor and is almost pain free at this 
+
+point and doing well.  Seen by the cards fellow.  Cath lab team 
+
+mobilized.  The patient is going to the cath lab. 
+
+FINAL DIAGNOSIS: Acute MI. 
+
+DISPOSITION (including condition upon discharge): Family member has 
+
+been called and message was left for his wife on her machine.  She 
+
+is probably on the way to the hospital and we will inform her. 
+
+Condition stable. 
+
+DIAGNOSIS: Acute MI in a 70-year-old male, going to the cath lab. 
+
+___________________________________                    EC508/03905 
+
+PAUL VALENTINE, M.D.   PV46                               D:10/11/77 
+
+                                                       T:10/11/77 
+
+Dictated by:  PAUL VALENTINE, M.D.   PV46 
+
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="during DCT" type1="aspirin" type2="">
+      <MEDICATION id="M0" start="791" end="798" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M1" start="1220" end="1227" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M2" start="791" end="798" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M3" start="1220" end="1227" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M4" start="791" end="798" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <CAD id="DOC1" time="during DCT" indicator="test">
+      <CAD id="C0" start="631" end="654" text="EKG showing an acute MI" time="during DCT" indicator="test" comment=""/>
+      <CAD id="C1" start="635" end="654" text="showing an acute MI" time="during DCT" indicator="test" comment=""/>
+    </CAD>
+    <CAD id="DOC2" time="during DCT" indicator="event">
+      <CAD id="C2" start="2396" end="2406" text="Acute MI. " time="during DCT" indicator="event" comment=""/>
+      <CAD id="C3" start="2643" end="2651" text="Acute MI" time="during DCT" indicator="event" comment=""/>
+      <CAD id="C4" start="646" end="654" text="acute MI" time="during DCT" indicator="event" comment=""/>
+      <CAD id="C5" start="2396" end="2406" text="Acute MI. " time="during DCT" indicator="event" comment=""/>
+      <CAD id="C6" start="2643" end="2651" text="Acute MI" time="during DCT" indicator="event" comment=""/>
+    </CAD>
+    <HYPERTENSION id="DOC3" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="1496" end="1508" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="611" end="623" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H2" start="611" end="623" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H3" start="1496" end="1508" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <MEDICATION id="DOC4" time="before DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M5" start="1525" end="1533" text="Atenolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M6" start="1525" end="1533" text="Atenolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M7" start="2217" end="2226" text="Lopressor" time="before DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC5" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H4" start="1496" end="1508" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H5" start="611" end="623" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H6" start="611" end="623" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H7" start="1496" end="1508" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <MEDICATION id="DOC6" time="after DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M8" start="1525" end="1533" text="Atenolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M9" start="1525" end="1533" text="Atenolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M10" start="2217" end="2226" text="Lopressor" time="after DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <SMOKER id="DOC7" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" status="unknown"/>
+      <SMOKER id="S2" start="3" end="10" text="Record " status="unknown" comment=""/>
+    </SMOKER>
+    <MEDICATION id="DOC8" time="during DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M11" start="800" end="813" text="beta blocker " time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M12" start="1525" end="1533" text="Atenolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M13" start="2217" end="2226" text="Lopressor" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M14" start="1525" end="1533" text="Atenolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M15" start="2217" end="2226" text="Lopressor" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M16" start="800" end="812" text="beta blocker" time="during DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC9" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H8" start="1496" end="1508" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H9" start="611" end="623" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H10" start="611" end="623" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H11" start="1496" end="1508" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <FAMILY_HIST id="DOC10" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <MEDICATION id="DOC11" time="during DCT" type1="nitrate" type2="">
+      <MEDICATION id="M17" start="844" end="854" text="nitro drip" time="during DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M18" start="1247" end="1259" text="nitro paste," time="during DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M19" start="1260" end="1287" text="sublingual   nitroglycerine" time="during DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M20" start="1312" end="1334" text="IV nitroglycerine drip" time="during DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M21" start="1273" end="1287" text="nitroglycerine" time="during DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M22" start="1315" end="1329" text="nitroglycerine" time="during DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M23" start="844" end="849" text="nitro" time="during DCT" type1="nitrate" type2="" comment=""/>
+    </MEDICATION>
+    <PHI id="P0" start="16" end="26" text="2077-10-11" TYPE="DATE"/>
+    <PHI id="P1" start="49" end="57" text="PINELLAS" TYPE="HOSPITAL"/>
+    <PHI id="P2" start="83" end="99" text="ICKES,WILLIAM JR" TYPE="PATIENT"/>
+    <PHI id="P3" start="102" end="113" text="810-71-62-8" TYPE="MEDICALRECORD"/>
+    <PHI id="P4" start="147" end="149" text="70" TYPE="AGE"/>
+    <PHI id="P5" start="259" end="261" text="70" TYPE="AGE"/>
+    <PHI id="P6" start="2657" end="2659" text="70" TYPE="AGE"/>
+    <PHI id="P7" start="2755" end="2766" text="EC508/03905" TYPE="IDNUM"/>
+    <PHI id="P8" start="2769" end="2783" text="PAUL VALENTINE" TYPE="DOCTOR"/>
+    <PHI id="P9" start="2792" end="2796" text="PV46" TYPE="USERNAME"/>
+    <PHI id="P10" start="2829" end="2837" text="10/11/77" TYPE="DATE"/>
+    <PHI id="P11" start="2897" end="2905" text="10/11/77" TYPE="DATE"/>
+    <PHI id="P12" start="2922" end="2936" text="PAUL VALENTINE" TYPE="DOCTOR"/>
+    <PHI id="P13" start="2945" end="2949" text="PV46" TYPE="USERNAME"/>
+  </TAGS>
+</root>

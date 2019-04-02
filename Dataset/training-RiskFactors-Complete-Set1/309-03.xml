@@ -1,0 +1,297 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2093-10-18
+
+NAME:     Wilson, Gabriel
+
+MRN:     8514931
+
+
+
+HISTORY OF PRESENT ILLNESS:  Gabriel Wilson is a 72-year-old Croatian
+
+female, referred by Dr. Fraser for evaluation of complaints of dizziness. Her daughter,
+
+who is a Library Manager here, accompanies her mother today. Apparently, for
+
+many years, perhaps as many as five, her mother has complained of "feeling pulled"
+
+when she walks. This never occurs when lying down or sitting. It is only when she is
+
+walking that she feels she is being pulled, either to the right, left, forward or
+
+backward. At times, she does visibly veer when she walks. She has had one fall a
+
+number of months ago when she broke her wrist. She has not had any subsequent
+
+falls. There is no associated true spinning vertigo, no associated visual change,
+
+numbness, weakness, change in gait, change in speech and no headache. She actually
+
+feels that over the past few weeks, it has been a little better, though prior to that, it
+
+was a little more severe. Unable to associate this with any clear intervention.
+
+Unaware of any precipitating or alleviating symptoms. 
+
+
+
+Review of other systems notable for general fatigue. Otherwise unremarkable. No
+
+chest pain, shortness of breath or abdominal pain. 
+
+
+
+PAST MEDICAL HISTORY: Hepatitis B, diabetes, hypertension, GE reflux,
+
+hyperlipidemia, depression, cataracts. 
+
+
+
+MEDICATIONS:  Aspirin, Colace, Cozaar, Flonase, Fosamax, hydrochlorothiazide,
+
+Lopid, meclizine p.r.n., Protonix, Prozac, Vioxx. 
+
+
+
+FAMILY HISTORY: Negative for neurologic disease. 
+
+
+
+SOCIAL HISTORY:  She is widowed and lives with her niece. She neither drinks nor
+
+smokes. 
+
+
+
+PHYSICAL EXAMINATION: On exam, she is a pleasant, quiet, soft-spoken,
+
+72-year-old female. BP 140/84. Cranial nerves II through XII intact to detailed exam,
+
+except for decreased hearing on the left. On motor exam, no rigidity, no drift. Good
+
+power throughout upper and lower extremities. She does, however, seem mildly
+
+bradykinetic diffusely. Finger tapping was slow bilaterally and symmetric. Amplitude
+
+is normal for finger tapping. Power in the lower extremities 5/5. Sensory exam with
+
+mild vibratory loss in the toes. Finger-to-nose testing intact. Foot-tapping decreased
+
+bilaterally. Romberg sway. Her gait is slightly wide-based, with occasional veering to
+
+either side. She is unable to perform tandem. DTR's 2+ throughout, except for 1+
+
+ankle jerks. Babinski flexor bilaterally. 
+
+
+
+DATA: MRI/MRA of the brain 8/30 shows mild to moderate white matter
+
+hyperintensity in the corona radiata, centrum semiovale and moderate bilateral
+
+pontine involvement and multifocal lacunar infarcts of the lentiform nuclei, right
+
+internal capsule and bilateral thalami. Intracranial atherosclerosis is seen involving the
+
+anterior middle cerebral arteries with a greater degree of involvement of the
+
+posterior cerebral arteries and intermittent development of moderate mid-segment
+
+stenosis of the basilar artery. Bloodwork 2/27: SMA7 normal, except glucose 134. 8/30
+
+bili, total protein, albumin, globulin within normal limits. LFT's normal except SGOT
+
+elevated at 46. 
+
+
+
+IMPRESSION: 72-year-old female with diabetes, chronic hepatitis C and
+
+hypertension, complaining of basically veering of her gait and feeling unsteady. She is
+
+symptomatic only when she walks. Her exam is notable for mild vibratory loss in the
+
+toes, likely due to diabetic neuropathy, bilateral lower-extremity dysmetria and the
+
+wide-based, at times veering gait. It appears that her gait difficulties with veering  are
+
+multifactorial, due to history of multiple lacunar infarcts and peripheral neuropathy.
+
+It does not appear that these episodes are due to transient ischemic attacks, given
+
+that she veered in the office while walking and stated that this was the symptom she
+
+is concerned about.  However, given her mid-segment basilar stenosis seen on MRI,
+
+she certainly could become symptomatic from this down the road, particularly if she
+
+became hypotensive. As she was unable to tolerate Aggrenox, will try adding
+
+Persantine at a lower dose at 25 mg b.i.d., along with an aspirin per day, to see if she
+
+can tolerate gradually increased doses of Persantine. I will see her in follow up in two
+
+months to see how she is doing. May also consider checking CBC, given her
+
+symptoms of fatigue and other bloodwork should these symptoms persist. 
+
+
+
+Hope Kincaid, M.D.
+
+
+
+CC: Julie Fraser, M.D.
+
+
+
+HK/crane/kang
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="during DCT" type1="aspirin" type2="">
+      <MEDICATION id="M0" start="1388" end="1395" text="Aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M1" start="1388" end="1395" text="Aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M2" start="1388" end="1395" text="Aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC1" time="after DCT" type1="aspirin" type2="">
+      <MEDICATION id="M3" start="1388" end="1395" text="Aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M4" start="1388" end="1395" text="Aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M5" start="4116" end="4123" text="aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M6" start="1388" end="1395" text="Aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC2" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="1305" end="1317" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="1305" end="1317" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H2" start="1305" end="1317" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERLIPIDEMIA id="DOC3" time="before DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY0" start="1331" end="1345" text="hyperlipidemia" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY1" start="1331" end="1345" text="hyperlipidemia" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY2" start="1331" end="1345" text="hyperlipidemia" time="before DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <DIABETES id="DOC4" time="during DCT" indicator="mention">
+      <DIABETES id="D0" start="1295" end="1303" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D1" start="1295" end="1303" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D2" start="1295" end="1303" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <MEDICATION id="DOC5" time="before DCT" type1="diuretic" type2="">
+      <MEDICATION id="M7" start="1431" end="1450" text="hydrochlorothiazide" time="before DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M8" start="1431" end="1450" text="hydrochlorothiazide" time="before DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M9" start="1431" end="1450" text="hydrochlorothiazide" time="before DCT" type1="diuretic" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERLIPIDEMIA id="DOC6" time="during DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY3" start="1331" end="1345" text="hyperlipidemia" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY4" start="1331" end="1345" text="hyperlipidemia" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY5" start="1331" end="1345" text="hyperlipidemia" time="during DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <HYPERTENSION id="DOC7" time="during DCT" indicator="high bp">
+      <HYPERTENSION id="H3" start="1745" end="1755" text="BP 140/84." time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H4" start="1748" end="1754" text="140/84" time="during DCT" indicator="high bp" comment=""/>
+    </HYPERTENSION>
+    <MEDICATION id="DOC8" time="after DCT" type1="fibrate" type2="">
+      <MEDICATION id="M10" start="1453" end="1458" text="Lopid" time="after DCT" type1="fibrate" type2="" comment=""/>
+      <MEDICATION id="M11" start="1453" end="1458" text="Lopid" time="after DCT" type1="fibrate" type2="" comment=""/>
+      <MEDICATION id="M12" start="1453" end="1458" text="Lopid" time="after DCT" type1="fibrate" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC9" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H5" start="1305" end="1317" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H6" start="1305" end="1317" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H7" start="1305" end="1317" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <DIABETES id="DOC10" time="before DCT" indicator="mention">
+      <DIABETES id="D3" start="1295" end="1303" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D4" start="1295" end="1303" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D5" start="1295" end="1303" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <MEDICATION id="DOC11" time="after DCT" type1="ARB" type2="">
+      <MEDICATION id="M13" start="1405" end="1411" text="Cozaar" time="after DCT" type1="ARB" type2="" comment=""/>
+      <MEDICATION id="M14" start="1405" end="1411" text="Cozaar" time="after DCT" type1="ARB" type2="" comment=""/>
+      <MEDICATION id="M15" start="1405" end="1411" text="Cozaar" time="after DCT" type1="ARB" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC12" time="during DCT" type1="diuretic" type2="">
+      <MEDICATION id="M16" start="1431" end="1450" text="hydrochlorothiazide" time="during DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M17" start="1431" end="1450" text="hydrochlorothiazide" time="during DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M18" start="1431" end="1450" text="hydrochlorothiazide" time="during DCT" type1="diuretic" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERLIPIDEMIA id="DOC13" time="after DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY6" start="1331" end="1345" text="hyperlipidemia" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY7" start="1331" end="1345" text="hyperlipidemia" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY8" start="1331" end="1345" text="hyperlipidemia" time="after DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <MEDICATION id="DOC14" time="before DCT" type1="aspirin" type2="">
+      <MEDICATION id="M19" start="1388" end="1395" text="Aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M20" start="1388" end="1395" text="Aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M21" start="1388" end="1395" text="Aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <SMOKER id="DOC15" status="never">
+      <SMOKER id="S0" start="1618" end="1650" text="She neither drinks nor  smokes. " status="never" comment=""/>
+      <SMOKER id="S1" start="1618" end="1648" text="She neither drinks nor  smokes" status="never" comment=""/>
+      <SMOKER id="S2" start="1622" end="1648" text="neither drinks nor  smokes" status="never" comment=""/>
+    </SMOKER>
+    <MEDICATION id="DOC16" time="during DCT" type1="fibrate" type2="">
+      <MEDICATION id="M22" start="1453" end="1458" text="Lopid" time="during DCT" type1="fibrate" type2="" comment=""/>
+      <MEDICATION id="M23" start="1453" end="1458" text="Lopid" time="during DCT" type1="fibrate" type2="" comment=""/>
+      <MEDICATION id="M24" start="1453" end="1458" text="Lopid" time="during DCT" type1="fibrate" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC17" time="after DCT" type1="diuretic" type2="">
+      <MEDICATION id="M25" start="1431" end="1450" text="hydrochlorothiazide" time="after DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M26" start="1431" end="1450" text="hydrochlorothiazide" time="after DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M27" start="1431" end="1450" text="hydrochlorothiazide" time="after DCT" type1="diuretic" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC18" time="before DCT" type1="fibrate" type2="">
+      <MEDICATION id="M28" start="1453" end="1458" text="Lopid" time="before DCT" type1="fibrate" type2="" comment=""/>
+      <MEDICATION id="M29" start="1453" end="1458" text="Lopid" time="before DCT" type1="fibrate" type2="" comment=""/>
+      <MEDICATION id="M30" start="1453" end="1458" text="Lopid" time="before DCT" type1="fibrate" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC19" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H8" start="1305" end="1317" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H9" start="1305" end="1317" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H10" start="1305" end="1317" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <FAMILY_HIST id="DOC20" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <DIABETES id="DOC21" time="after DCT" indicator="mention">
+      <DIABETES id="D6" start="1295" end="1303" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D7" start="1295" end="1303" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D8" start="1295" end="1303" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <MEDICATION id="DOC22" time="during DCT" type1="ARB" type2="">
+      <MEDICATION id="M31" start="1405" end="1411" text="Cozaar" time="during DCT" type1="ARB" type2="" comment=""/>
+      <MEDICATION id="M32" start="1405" end="1411" text="Cozaar" time="during DCT" type1="ARB" type2="" comment=""/>
+      <MEDICATION id="M33" start="1405" end="1411" text="Cozaar" time="during DCT" type1="ARB" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC23" time="before DCT" type1="ARB" type2="">
+      <MEDICATION id="M34" start="1405" end="1411" text="Cozaar" time="before DCT" type1="ARB" type2="" comment=""/>
+      <MEDICATION id="M35" start="1405" end="1411" text="Cozaar" time="before DCT" type1="ARB" type2="" comment=""/>
+      <MEDICATION id="M36" start="1405" end="1411" text="Cozaar" time="before DCT" type1="ARB" type2="" comment=""/>
+    </MEDICATION>
+    <PHI id="P0" start="16" end="26" text="2093-10-18" TYPE="DATE"/>
+    <PHI id="P1" start="38" end="53" text="Wilson, Gabriel" TYPE="PATIENT"/>
+    <PHI id="P2" start="64" end="71" text="8514931" TYPE="MEDICALRECORD"/>
+    <PHI id="P3" start="104" end="118" text="Gabriel Wilson" TYPE="PATIENT"/>
+    <PHI id="P4" start="124" end="126" text="72" TYPE="AGE"/>
+    <PHI id="P5" start="136" end="144" text="Croatian" TYPE="COUNTRY"/>
+    <PHI id="P6" start="170" end="176" text="Fraser" TYPE="DOCTOR"/>
+    <PHI id="P7" start="244" end="259" text="Library Manager" TYPE="PROFESSION"/>
+    <PHI id="P8" start="1725" end="1727" text="72" TYPE="AGE"/>
+    <PHI id="P9" start="2478" end="2482" text="8/30" TYPE="DATE"/>
+    <PHI id="P10" start="2979" end="2983" text="2/27" TYPE="DATE"/>
+    <PHI id="P11" start="3018" end="3022" text="8/30" TYPE="DATE"/>
+    <PHI id="P12" start="3143" end="3145" text="72" TYPE="AGE"/>
+    <PHI id="P13" start="4388" end="4400" text="Hope Kincaid" TYPE="DOCTOR"/>
+    <PHI id="P14" start="4414" end="4426" text="Julie Fraser" TYPE="DOCTOR"/>
+    <PHI id="P15" start="4436" end="4438" text="HK" TYPE="DOCTOR"/>
+    <PHI id="P16" start="4439" end="4444" text="crane" TYPE="DOCTOR"/>
+    <PHI id="P17" start="4445" end="4449" text="kang" TYPE="DOCTOR"/>
+  </TAGS>
+</root>

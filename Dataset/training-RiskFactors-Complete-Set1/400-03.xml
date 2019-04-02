@@ -1,0 +1,119 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2066-10-14
+
+HPI; pt was seen at her pulmonary specialist yesterday &amp; noted to have high BP 188/100. She denies any headache, change in vision, lightheadedness or dizziness. She reports that she has been hospitalized twice for hypertension &amp; both times she was asymptomatic. Is on avapro 300mg, labetalol 300mg bid &amp; norvasc 10mg. Dr. Rosas her PCP has tried diuretic &amp; pt developed hyponatremia. Pt has been advised in the past to restrict her intake of free water.
+
+
+VS 
+BP R arm 168/84 168/78, L arm 150/88  HR 80
+
+
+PE
+Lungs ctab
+Cardiac rrr no r/m/g
+LE some edema
+
+
+Assessment/Plan HTN, repeat chem 7, referred back to Dr. Marvin Zigler 
+pt discussed with Dr. Gregory Rosas
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="during DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M0" start="344" end="351" text="norvasc" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M1" start="344" end="351" text="norvasc" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M2" start="344" end="351" text="norvasc" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC1" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="246" end="258" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="617" end="620" text="HTN" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H2" start="617" end="620" text="HTN" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC2" time="during DCT" indicator="high bp">
+      <HYPERTENSION id="H3" start="504" end="540" text="BP R arm 168/84 168/78, L arm 150/88" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H4" start="108" end="118" text="BP 188/100" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H5" start="504" end="519" text="BP R arm 168/84" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H6" start="520" end="526" text="168/78" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H7" start="528" end="540" text="L arm 150/88" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H8" start="504" end="519" text="BP R arm 168/84" time="during DCT" indicator="high bp" comment=""/>
+    </HYPERTENSION>
+    <MEDICATION id="DOC3" time="before DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M3" start="344" end="351" text="norvasc" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M4" start="344" end="351" text="norvasc" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M5" start="344" end="351" text="norvasc" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC4" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H9" start="246" end="258" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H10" start="617" end="620" text="HTN" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H11" start="617" end="620" text="HTN" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <MEDICATION id="DOC5" time="before DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M6" start="318" end="327" text="labetalol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M7" start="318" end="327" text="labetalol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M8" start="318" end="327" text="labetalol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC6" time="after DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M9" start="344" end="351" text="norvasc" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M10" start="344" end="351" text="norvasc" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M11" start="344" end="351" text="norvasc" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <FAMILY_HIST id="DOC7" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <MEDICATION id="DOC8" time="after DCT" type1="ARB" type2="">
+      <MEDICATION id="M12" start="304" end="310" text="avapro" time="after DCT" type1="ARB" type2="" comment=""/>
+      <MEDICATION id="M13" start="304" end="310" text="avapro" time="after DCT" type1="ARB" type2="" comment=""/>
+      <MEDICATION id="M14" start="304" end="310" text="avapro" time="after DCT" type1="ARB" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC9" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H12" start="246" end="258" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H13" start="617" end="620" text="HTN" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H14" start="617" end="620" text="HTN" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <MEDICATION id="DOC10" time="before DCT" type1="diuretic" type2="">
+      <MEDICATION id="M15" start="386" end="394" text="diuretic" time="before DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M16" start="386" end="394" text="diuretic" time="before DCT" type1="diuretic" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC11" time="after DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M17" start="318" end="327" text="labetalol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M18" start="318" end="327" text="labetalol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M19" start="318" end="327" text="labetalol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <SMOKER id="DOC12" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" status="unknown"/>
+      <SMOKER id="S2" status="unknown"/>
+    </SMOKER>
+    <MEDICATION id="DOC13" time="during DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M20" start="318" end="327" text="labetalol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M21" start="318" end="327" text="labetalol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M22" start="318" end="327" text="labetalol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC14" time="during DCT" type1="ARB" type2="">
+      <MEDICATION id="M23" start="304" end="310" text="avapro" time="during DCT" type1="ARB" type2="" comment=""/>
+      <MEDICATION id="M24" start="304" end="310" text="avapro" time="during DCT" type1="ARB" type2="" comment=""/>
+      <MEDICATION id="M25" start="304" end="310" text="avapro" time="during DCT" type1="ARB" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC15" time="before DCT" indicator="high bp">
+      <HYPERTENSION id="H15" start="107" end="118" text=" BP 188/100" time="before DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H16" start="103" end="118" text="high BP 188/100" time="before DCT" indicator="high bp" comment=""/>
+    </HYPERTENSION>
+    <MEDICATION id="DOC16" time="before DCT" type1="ARB" type2="">
+      <MEDICATION id="M26" start="304" end="310" text="avapro" time="before DCT" type1="ARB" type2="" comment=""/>
+      <MEDICATION id="M27" start="304" end="310" text="avapro" time="before DCT" type1="ARB" type2="" comment=""/>
+      <MEDICATION id="M28" start="304" end="310" text="avapro" time="before DCT" type1="ARB" type2="" comment=""/>
+    </MEDICATION>
+    <PHI id="P0" start="16" end="26" text="2066-10-14" TYPE="DATE"/>
+    <PHI id="P1" start="362" end="367" text="Rosas" TYPE="DOCTOR"/>
+    <PHI id="P2" start="658" end="671" text="Marvin Zigler" TYPE="DOCTOR"/>
+    <PHI id="P3" start="695" end="708" text="Gregory Rosas" TYPE="DOCTOR"/>
+  </TAGS>
+</root>

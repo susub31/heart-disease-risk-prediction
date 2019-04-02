@@ -1,0 +1,125 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2080-06-13
+
+                           OFFICE NOTE
+ 
+Gregg, Lloyd
+MR #657-72-75-7
+06/14/80
+ 
+A follow up visit of a 57-year-old white male.  Unfortunately, he
+arrived 24 hours late.  
+ 
+He is gradually recovering from a recent flare of his COPD.  This
+started with an upper respiratory infection.  He called over the
+weekend and was started on prednisone.  He continued to have a
+stuttering course over the course of that following week and came
+to urgent care the following weekend.  There he was treated with
+nebulizers.  He reports that today he was finally able to blow 350
+on his peak flow meter.  He is still bringing up lots of junk.  His
+gout has been quiescent.  
+ 
+Medications:  Albuterol.  Azmacort.  Colchicine.  Enalapril.  
+ 
+Allergies:  None.
+ 
+Social History:  Married.  His adoption of a 10-year-old girl named
+Xiao has been finalized.  He is employed as a sales representative and that
+requires a lot of lifting and carrying.  He quit smoking three and
+a half years ago.  He drinks no alcohol.
+ 
+Physical Examination:  Looks well.  His weight is 222 pounds.  His
+blood pressure is 124/82.  Pulse 76.  HEENT:  EOMI.  No scleral
+icterus.  No lymphadenopathy.  His lungs are completely clear
+posteriorly and anteriorly.  Distant heart sounds without any
+audible murmurs.  Benign abdomen without any hepatomegaly.  No
+rectal masses.  Normal prostate.  Guaiac negative stool.  No pedal
+edema.  
+ 
+Oxygen saturation on room air is 97 percent.  Peak flow is 320. 
+ 
+Impression: 
+1.  COPD.  We discussed this at length.  I think the crucial
+component to his treatment will be to anticipate when he is going
+to have a flare and responding quickly in a preventative fashion. 
+We will have him check his peak flows at the same time every day. 
+When he is feeling well his peak flows are always in the 350 range
+and he reports that they never go to 300.  When it hits 300 he
+should call me or if it is the weekend, he should start immediately
+on prednisone 40 mg a day.  
+2.  Gout.  Doing well on colchicine.  
+3.  Hypertension.  Well controlled.  I will check a creatinine.
+4.  General health.  We will check a cholesterol.  His cholesterols
+have been good in the past but he has a slightly low HDL.
+ 
+ 
+ 
+Gregg, Lloyd
+MR #657-72-75-7
+06/14/80
+page 2
+ 
+Xzavior C. Welch, M.D.
+ 
+ 
+ 
+ 
+DD: 06/14/80
+DT: 06/16/80
+DV: 06/14/80
+ 
+/ignacio
+ 
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="during DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M0" start="741" end="750" text="Enalapril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M1" start="741" end="750" text="Enalapril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M2" start="741" end="750" text="Enalapril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC2" time="before DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M3" start="741" end="750" text="Enalapril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M4" start="741" end="750" text="Enalapril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M5" start="741" end="750" text="Enalapril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC5" time="after DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M6" start="741" end="750" text="Enalapril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M7" start="741" end="750" text="Enalapril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M8" start="741" end="750" text="Enalapril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC1" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="2037" end="2049" text="Hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="2037" end="2049" text="Hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H2" start="2037" end="2049" text="Hypertension" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC4" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H3" start="2037" end="2049" text="Hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H4" start="2037" end="2049" text="Hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H5" start="2037" end="2049" text="Hypertension" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC6" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H6" start="2037" end="2049" text="Hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H7" start="2037" end="2049" text="Hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H8" start="2037" end="2049" text="Hypertension" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <FAMILY_HIST id="DOC7" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC3" status="past">
+      <SMOKER id="S0" start="964" end="1003" text="quit smoking three and a half years ago" status="past" comment=""/>
+      <SMOKER id="S1" start="964" end="1005" text="quit smoking three and a half years ago. " status="past" comment=""/>
+      <SMOKER id="S2" start="964" end="976" text="quit smoking" status="past" comment=""/>
+    </SMOKER>
+  </TAGS>
+</root>

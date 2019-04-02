@@ -1,0 +1,192 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2074-11-12
+
+EDVISIT^85588852^Louis, Robert^11/12/74^HANEY, ULYSSES
+
+I have interviewed and examined the patient, reviewed the
+
+resident's, Dr. Burton', documentation, and concur except as
+
+noted.
+
+HISTORY OF PRESENT ILLNESS:  This is a 71-year-old male who
+
+presents complaining of acute onset of chest pain and shortness
+
+of breath.  The patient has a history of hypertension, diabetes,
+
+and a prior MRI who was brought in by Emergency Medical Services
+
+for waking at 6:00 a.m. with chest pain radiating to the left arm
+
+associated with shortness of breath.  Denied nausea or vomiting,
+
+had no fevers or chills.  He received by EMS 2 baby aspirin as
+
+well as 40 of Lasix for bibasilar crackles noted by them in the
+
+Emergency Department.  The patient's old chart was evaluated
+
+which revealed an echo on 11/06/2074 with an EF of 25%, cardiac
+
+catheterization in October 2072 with 30% RCA lesion, and Holter
+
+in January 2072 which showed atrial tachycardia runs.
+
+SOCIAL HISTORY, FAMILY HISTORY, REVIEW OF SYSTEMS, MEDICATIONS,
+
+AND ALLERGIES:  As noted.  Of note, the patient is an active
+
+smoker.
+
+PHYSICAL EXAMINATION:  In the Emergency Department, the patient
+
+was awake and alert, moderately ill appearing in mild-to-moderate
+
+discomfort.  Pulse 90, respirations 20, blood pressure 157/90,
+
+and saturating 97%.  HEENT:  Atraumatic, normocephalic. 
+
+Oropharynx clear, moist mucous membranes.  Neck:  Supple with no
+
+meningismus.  Flat neck veins.  Respirations showed crackles
+
+third of the way up bilaterally with no rhonchi, rales, or
+
+wheezes.  Cardiovascularly, regular rate and rhythm without
+
+murmurs, rubs, or gallops, 2+ pulses in all extremities.  Rectal:
+
+ Heme-negative brown stool.  Abdomen:  Soft and nontender without
+
+rebound or guarding.  Skin:  Warm, well perfused without
+
+petechiae or lesions.  No edema, no calf or thigh tenderness, and
+
+no CVA tenderness.  Neurologically, alert and oriented x3, normal
+
+mood and affect, and no sensory or motor deficits.
+
+LABORATORY DATA:  In the Emergency Department, the patient had an
+
+EKG, which was sinus with ST elevations in leads II, III, and
+
+aVF; when compared with prior, these were new.  Additionally, he
+
+had T wave inversions in leads I and aVL.
+
+The Cardiac Catheterization fellow was notified at 7:55.  Dr.
+
+Brock was at the bedside at 8:03.  The patient received aspirin,
+
+no beta-blockers given, he has apparent heart failure, and
+
+ ******** Not reviewed by Attending Physician ********
+
+ST elevation MI.
+
+______________________________
+
+HANEY, ULYSSES
+
+D: 11/12/74
+
+T: 11/12/74
+
+Dictated By: HANEY, ULYSSES
+
+eScription document:7-9722432 BFFocus
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <DIABETES id="DOC0" time="after DCT" indicator="mention">
+      <DIABETES id="D0" start="394" end="402" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D1" start="394" end="402" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D2" start="394" end="402" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D3" start="394" end="402" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <MEDICATION id="DOC1" time="during DCT" type1="aspirin" type2="">
+      <MEDICATION id="M0" start="651" end="663" text="baby aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M1" start="656" end="663" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M2" start="656" end="663" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M3" start="2355" end="2362" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <DIABETES id="DOC2" time="before DCT" indicator="mention">
+      <DIABETES id="D4" start="394" end="402" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D5" start="394" end="402" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D6" start="394" end="402" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D7" start="394" end="402" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <HYPERTENSION id="DOC3" time="during DCT" indicator="high bp">
+      <HYPERTENSION id="H0" start="1288" end="1309" text="blood pressure 157/90" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H1" start="1287" end="1311" text=" blood pressure 157/90, " time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H2" start="1288" end="1310" text="blood pressure 157/90," time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H3" start="1288" end="1311" text="blood pressure 157/90, " time="during DCT" indicator="high bp" comment=""/>
+    </HYPERTENSION>
+    <SMOKER id="DOC4" status="current">
+      <SMOKER id="S0" start="1099" end="1113" text="active  smoker" status="current" comment=""/>
+      <SMOKER id="S1" start="1099" end="1115" text="active  smoker. " status="current" comment=""/>
+      <SMOKER id="S2" start="1099" end="1113" text="active  smoker" status="current" comment=""/>
+      <SMOKER id="S3" start="1099" end="1113" text="active  smoker" status="current" comment=""/>
+    </SMOKER>
+    <HYPERTENSION id="DOC5" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H4" start="380" end="392" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H5" start="380" end="392" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H6" start="380" end="392" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H7" start="380" end="392" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <CAD id="DOC6" time="during DCT" indicator="event">
+      <CAD id="C0" start="2481" end="2496" text="ST elevation MI" time="during DCT" indicator="event" comment=""/>
+      <CAD id="C1" start="2481" end="2498" text="ST elevation MI. " time="during DCT" indicator="event" comment=""/>
+      <CAD id="C2" start="2481" end="2497" text="ST elevation MI." time="during DCT" indicator="event" comment=""/>
+    </CAD>
+    <DIABETES id="DOC7" time="during DCT" indicator="mention">
+      <DIABETES id="D8" start="394" end="402" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D9" start="394" end="402" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D10" start="394" end="402" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D11" start="394" end="402" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <HYPERTENSION id="DOC8" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H8" start="380" end="392" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H9" start="380" end="392" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H10" start="380" end="392" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H11" start="380" end="392" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC9" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H12" start="380" end="392" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H13" start="380" end="392" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H14" start="380" end="392" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H15" start="380" end="392" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <FAMILY_HIST id="DOC10" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+      <FAMILY_HIST id="F3" indicator="not present"/>
+    </FAMILY_HIST>
+    <PHI id="P0" start="16" end="26" text="2074-11-12" TYPE="DATE"/>
+    <PHI id="P1" start="36" end="44" text="85588852" TYPE="MEDICALRECORD"/>
+    <PHI id="P2" start="45" end="58" text="Louis, Robert" TYPE="PATIENT"/>
+    <PHI id="P3" start="59" end="67" text="11/12/74" TYPE="DATE"/>
+    <PHI id="P4" start="68" end="82" text="HANEY, ULYSSES" TYPE="DOCTOR"/>
+    <PHI id="P5" start="159" end="165" text="Burton" TYPE="DOCTOR"/>
+    <PHI id="P6" start="252" end="254" text="71" TYPE="AGE"/>
+    <PHI id="P7" start="821" end="831" text="11/06/2074" TYPE="DATE"/>
+    <PHI id="P8" start="879" end="891" text="October 2072" TYPE="DATE"/>
+    <PHI id="P9" start="928" end="940" text="January 2072" TYPE="DATE"/>
+    <PHI id="P10" start="2299" end="2304" text="Brock" TYPE="DOCTOR"/>
+    <PHI id="P11" start="2531" end="2545" text="HANEY, ULYSSES" TYPE="DOCTOR"/>
+    <PHI id="P12" start="2550" end="2558" text="11/12/74" TYPE="DATE"/>
+    <PHI id="P13" start="2563" end="2571" text="11/12/74" TYPE="DATE"/>
+    <PHI id="P14" start="2586" end="2600" text="HANEY, ULYSSES" TYPE="DOCTOR"/>
+    <PHI id="P15" start="2622" end="2631" text="7-9722432" TYPE="IDNUM"/>
+  </TAGS>
+</root>

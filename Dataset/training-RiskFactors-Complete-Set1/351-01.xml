@@ -1,0 +1,155 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2079-05-25
+
+
+
+Cocke County Baptist Hospital
+
+1666 Keats Street                                      GLENN, OLIVIA
+
+Whitewater, NC 13662                                      10776605
+
+(545) 266-9272                                           05/25/79
+
+
+
+
+
+The patient returns for a follow up visit on her diabetes mellitus and chronic renal failure.  She is regularly being followed by Dr. Jarvis, Nephrologist at Salvation Army Hospital, was seen there about two months ago and will return there in June.  She is also treated for her chronic anemia with darbopoetin.  The patient recently has noticed that her blood sugars have decreased progressively, and she has had several episodes of near hypoglycemia.  Blood sugars are often 60 or less.  The patient also complains of pain in her right middle finger and right shoulder pain.
+
+
+
+Physical examination reveals an elderly female in no acute distress.  Blood pressure is 142/60, weight is 176 pounds, and pulse is 96.  Glucose done in the exam room today was 110.  Chest is clear bilaterally.  Heart: Regular rate and rhythm, positive S1, S2, negative S3, S4, and no murmur.  Abdomen is soft, nontender, and positive bowel sounds.  Lower extremities: No edema and nontender.  Right hand tenderness in the first metacarpophalangeal joint and the overlying tendon and also tenderness diffusely in the right shoulder pain with grossly normal range of motion.
+
+
+
+IMPRESSION AND PLAN:
+
+1.  Diabetes mellitus.  The patient's blood sugars have been dropping.  The patient has decreased her glipizide already from 20 mg daily to 10 mg daily.  I will further decrease it to 5 mg daily.  Check hemoglobin A1c today as well as ALT, AST, and creatinine.
+
+2.  Chronic renal failure.  The patient's creatinine clearance is about 15-17, and the patient is approaching end-stage renal failure.  She is being followed by the Renal Department at Salvation Army Hospital, and dialysis is being considered for the midterm management of the patient.
+
+3.  Tendonitis, right middle finger.  After the patient's informed consent was obtained, the area was prepared in the usual sterile fashion, and 1% lidocaine along with 0.2 cc of Depo-Medrol was injected in the area of the flexor POLLICIS longus tendon sheath.  The patient tolerated the procedure well.
+
+4.  Anemia.  This is obviously due to the patient's chronic renal disease.  She has been receiving darbepoetin injections, initially weekly, then every other week, and now every three weeks.  We will check CBC today.
+
+5.  Right shoulder pain.  The patient cannot take nonsteroidals due to her renal problem, so I have given her a prescription for Tylenol with Codeine, of which she may take one or one-half tablet as needed to control the pain.
+
+6.  Regular healthcare maintenance.  The patient will follow up with me in about two months.
+
+
+
+
+
+
+
+
+
+
+
+______________________________
+
+Infant Brewer, MD
+
+
+
+
+
+Dictated By: Infant Brewer
+
+
+
+
+
+eScription document:2-5091452 EMSSten Tel
+
+
+
+
+
+
+
+DD: 05/25/79
+
+DT: 05/26/79
+
+DV: 05/25/79
+
+
+
+]]></TEXT>
+  <TAGS>
+    <DIABETES id="DOC0" time="before DCT" indicator="mention">
+      <DIABETES id="D0" start="319" end="336" text="diabetes mellitus" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D1" start="319" end="328" text="diabetes " time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D2" start="319" end="336" text="diabetes mellitus" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D3" start="1451" end="1469" text=" Diabetes mellitus" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <MEDICATION id="DOC1" time="before DCT" type1="sulfonylureas" type2="">
+      <MEDICATION id="M0" start="1550" end="1559" text="glipizide" time="before DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M1" start="1550" end="1559" text="glipizide" time="before DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M2" start="1550" end="1559" text="glipizide" time="before DCT" type1="sulfonylureas" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC2" time="during DCT" indicator="high bp">
+      <HYPERTENSION id="H0" start="920" end="944" text="Blood pressure is 142/60" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H1" start="938" end="944" text="142/60" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H2" start="938" end="945" text="142/60," time="during DCT" indicator="high bp" comment=""/>
+    </HYPERTENSION>
+    <MEDICATION id="DOC3" time="after DCT" type1="sulfonylureas" type2="">
+      <MEDICATION id="M3" start="1550" end="1559" text="glipizide" time="after DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M4" start="1550" end="1559" text="glipizide" time="after DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M5" start="1550" end="1559" text="glipizide" time="after DCT" type1="sulfonylureas" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC4" time="during DCT" type1="sulfonylureas" type2="">
+      <MEDICATION id="M6" start="1550" end="1559" text="glipizide" time="during DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M7" start="1550" end="1559" text="glipizide" time="during DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M8" start="1550" end="1559" text="glipizide" time="during DCT" type1="sulfonylureas" type2="" comment=""/>
+    </MEDICATION>
+    <DIABETES id="DOC5" time="during DCT" indicator="mention">
+      <DIABETES id="D4" start="319" end="336" text="diabetes mellitus" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D5" start="319" end="328" text="diabetes " time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D6" start="319" end="336" text="diabetes mellitus" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D7" start="1451" end="1469" text=" Diabetes mellitus" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <FAMILY_HIST id="DOC6" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC7" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" status="unknown"/>
+      <SMOKER id="S2" status="unknown"/>
+    </SMOKER>
+    <DIABETES id="DOC8" time="after DCT" indicator="mention">
+      <DIABETES id="D8" start="319" end="336" text="diabetes mellitus" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D9" start="319" end="328" text="diabetes " time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D10" start="319" end="336" text="diabetes mellitus" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D11" start="1451" end="1469" text=" Diabetes mellitus" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <PHI id="P0" start="16" end="26" text="2079-05-25" TYPE="DATE"/>
+    <PHI id="P1" start="30" end="59" text="Cocke County Baptist Hospital" TYPE="HOSPITAL"/>
+    <PHI id="P2" start="61" end="78" text="1666 Keats Street" TYPE="STREET"/>
+    <PHI id="P3" start="116" end="129" text="GLENN, OLIVIA" TYPE="PATIENT"/>
+    <PHI id="P4" start="131" end="141" text="Whitewater" TYPE="CITY"/>
+    <PHI id="P5" start="143" end="145" text="NC" TYPE="STATE"/>
+    <PHI id="P6" start="146" end="151" text="13662" TYPE="ZIP"/>
+    <PHI id="P7" start="189" end="197" text="10776605" TYPE="MEDICALRECORD"/>
+    <PHI id="P8" start="199" end="213" text="(545) 266-9272" TYPE="PHONE"/>
+    <PHI id="P9" start="256" end="264" text="05/25/79" TYPE="DATE"/>
+    <PHI id="P10" start="404" end="410" text="Jarvis" TYPE="DOCTOR"/>
+    <PHI id="P11" start="428" end="451" text="Salvation Army Hospital" TYPE="HOSPITAL"/>
+    <PHI id="P12" start="514" end="518" text="June" TYPE="DATE"/>
+    <PHI id="P13" start="1895" end="1918" text="Salvation Army Hospital" TYPE="HOSPITAL"/>
+    <PHI id="P14" start="2884" end="2897" text="Infant Brewer" TYPE="DOCTOR"/>
+    <PHI id="P15" start="2920" end="2933" text="Infant Brewer" TYPE="DOCTOR"/>
+    <PHI id="P16" start="2959" end="2968" text="2-5091452" TYPE="IDNUM"/>
+    <PHI id="P17" start="2992" end="3000" text="05/25/79" TYPE="DATE"/>
+    <PHI id="P18" start="3006" end="3014" text="05/26/79" TYPE="DATE"/>
+    <PHI id="P19" start="3020" end="3028" text="05/25/79" TYPE="DATE"/>
+  </TAGS>
+</root>

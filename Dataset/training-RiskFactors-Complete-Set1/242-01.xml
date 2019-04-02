@@ -1,0 +1,268 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2070-10-28
+
+ID - 67 yo m recent NQWMI and newly diagnosed CHF.
+
+
+
+HPI - 67 yo m c h/o htn, heavy EtOH use, and smoking who presented on 10/12/70 to LGH c CP.  BP on admit was 200/110.  Pt ruled in c peak CK 362 c MB fraction of 51.  no EKG changes.  Echo revealed ef 25-30%.  Pt was started on ecasa, atenolol, lasix, lisinopril, amlodipine and taken off HCTZ and terazosin (however cont'd to take terazosin.)  Cath revealed minimal RCA stenoses.
+
+Since then has had no more CP.  c/o DOE after 1 block of walking, where 2-3 mo's ago he was able to walk > 20 blocks.  + 2 pillow orthopnea, + PND, - LE swelling.  Has stopped drinking EtOH and cut down on cigs.
+
+BP by CDH:  148/90 (10/20) and 110/80 (10/22)
+
+
+
+PMH - htn, EtOH, cigs, COPD, BPH
+
+
+
+Alls - none
+
+
+
+Meds - Atenolol 100 qd, ECASA 325 qd, Lasix 20 qd, lisinopril 40 qd, amlodipine 5 qd, terazosin 4 qd, MVI, thiamine, folate
+
+
+
+PE - 130/80,  80
+
+JVP 7
+
+RRR S1 S2, no S3
+
+minimal bibasilar rales
+
+distended abd but says has not changed recently, no fluid wave/organomegaly, NT
+
+no LE swelling, warm and well perfused
+
+
+
+A/P - 67 yo m c h/o htn, heavy EtOH use and smoking who presented c CHF in setting of NQWMI.  Most likely had background of EtOHic CMP acutely worsened by decreased cardiac function secopndary to NQWMI.
+
+-cont'd BB, ACEi, ECASA, Lasix and amlodipine - advised pt to stop taking alpha block
+
+-checking BMP today to monitor renal function and k c recent addition of ACEi and lasix - will hold off titrating up until results are back.
+
+-checking LFTs and lipid panel.  started pt on zocor.
+
+-referral to nutrition for advice re salt and fluid intake
+
+-referral to cardiac rehab
+
+-stressed improtance of smoking cessation and continued avoidance of EtOH - declined nicotine patch
+
+
+
+-Pt will f/u c Dr. E. Bird and Dr. Everson in one week. 
+
+
+
+
+
+______________________________                              
+
+
+
+Kitchen, Willie, M.D.
+
+========================== Preceptor's Note ==========================
+
+67 yo with recent NQWMI and dx cmp, also h/o tob, copd, bph, htn.  Since MI, has been doing well on atenolol, asa, lasix, lisinopril, and amlidopine.  BP 130/80, hr 80.  Still smoking.  Counseled re: smoking cessation. Will check lipids as pt likely to benefit from statin.  Check lytes. Refer to cardiac rehab.  Had been taking terazosin, will stop that. He will f/u next week, if bp up can increase atenolol. Kylee Compton
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="during DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M0" start="334" end="344" text="lisinopril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M1" start="334" end="344" text="lisinopril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M2" start="828" end="838" text="lisinopril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M3" start="2117" end="2127" text="lisinopril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M4" start="334" end="344" text="lisinopril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M5" start="334" end="344" text="lisinopril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC1" time="after DCT" type1="statin" type2="">
+      <MEDICATION id="M6" start="1561" end="1580" text="started pt on zocor" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M7" start="1575" end="1580" text="zocor" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M8" start="1575" end="1580" text="zocor" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M9" start="1575" end="1580" text="zocor" time="after DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC2" time="during DCT" type1="aspirin" type2="">
+      <MEDICATION id="M10" start="310" end="315" text="ecasa" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M11" start="310" end="315" text="ecasa" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M12" start="801" end="806" text="ECASA" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M13" start="1317" end="1322" text="ECASA" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M14" start="2105" end="2108" text="asa" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M15" start="310" end="315" text="ecasa" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M16" start="310" end="315" text="ecasa" time="during DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC3" time="before DCT" type1="diuretic" type2="">
+      <MEDICATION id="M17" start="361" end="375" text="taken off HCTZ" time="before DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M18" start="371" end="375" text="HCTZ" time="before DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M19" start="371" end="375" text="HCTZ" time="before DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M20" start="371" end="375" text="HCTZ" time="before DCT" type1="diuretic" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC4" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="102" end="105" text="htn" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="102" end="105" text="htn" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H2" start="732" end="735" text="htn" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H3" start="1115" end="1118" text="htn" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H4" start="2056" end="2059" text="htn" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H5" start="102" end="105" text="htn" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H6" start="102" end="105" text="htn" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <MEDICATION id="DOC5" time="after DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M21" start="334" end="344" text="lisinopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M22" start="334" end="344" text="lisinopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M23" start="828" end="838" text="lisinopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M24" start="2117" end="2127" text="lisinopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M25" start="334" end="344" text="lisinopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M26" start="334" end="344" text="lisinopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC6" time="after DCT" type1="aspirin" type2="">
+      <MEDICATION id="M27" start="310" end="315" text="ecasa" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M28" start="310" end="315" text="ecasa" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M29" start="801" end="806" text="ECASA" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M30" start="1317" end="1322" text="ECASA" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M31" start="2105" end="2108" text="asa" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M32" start="310" end="315" text="ecasa" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M33" start="310" end="315" text="ecasa" time="after DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC7" time="during DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M34" start="346" end="356" text="amlodipine" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M35" start="346" end="356" text="amlodipine" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M36" start="846" end="856" text="amlodipine" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M37" start="1334" end="1344" text="amlodipine" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M38" start="2133" end="2143" text="amlidopine" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M39" start="346" end="356" text="amlodipine" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M40" start="346" end="356" text="amlodipine" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC8" time="before DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M41" start="346" end="356" text="amlodipine" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M42" start="346" end="356" text="amlodipine" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M43" start="846" end="856" text="amlodipine" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M44" start="1334" end="1344" text="amlodipine" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M45" start="2133" end="2143" text="amlidopine" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M46" start="346" end="356" text="amlodipine" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M47" start="346" end="356" text="amlodipine" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC9" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H7" start="102" end="105" text="htn" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H8" start="102" end="105" text="htn" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H9" start="732" end="735" text="htn" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H10" start="1115" end="1118" text="htn" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H11" start="2056" end="2059" text="htn" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H12" start="102" end="105" text="htn" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H13" start="102" end="105" text="htn" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <MEDICATION id="DOC10" time="after DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M48" start="317" end="325" text="atenolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M49" start="317" end="325" text="atenolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M50" start="784" end="792" text="Atenolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M51" start="2095" end="2103" text="atenolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M52" start="317" end="325" text="atenolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M53" start="317" end="325" text="atenolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <FAMILY_HIST id="DOC11" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+      <FAMILY_HIST id="F3" indicator="not present"/>
+    </FAMILY_HIST>
+    <MEDICATION id="DOC12" time="before DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M54" start="334" end="344" text="lisinopril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M55" start="334" end="344" text="lisinopril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M56" start="828" end="838" text="lisinopril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M57" start="2117" end="2127" text="lisinopril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M58" start="334" end="344" text="lisinopril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M59" start="334" end="344" text="lisinopril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC13" time="before DCT" type1="aspirin" type2="">
+      <MEDICATION id="M60" start="310" end="315" text="ecasa" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M61" start="310" end="315" text="ecasa" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M62" start="801" end="806" text="ECASA" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M63" start="1317" end="1322" text="ECASA" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M64" start="2105" end="2108" text="asa" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M65" start="310" end="315" text="ecasa" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M66" start="310" end="315" text="ecasa" time="before DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC14" time="before DCT" indicator="high bp">
+      <HYPERTENSION id="H14" start="175" end="198" text="BP on admit was 200/110" time="before DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H15" start="688" end="704" text=" 148/90 (10/20) " time="before DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H16" start="175" end="198" text="BP on admit was 200/110" time="before DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H17" start="175" end="198" text="BP on admit was 200/110" time="before DCT" indicator="high bp" comment=""/>
+    </HYPERTENSION>
+    <CAD id="DOC15" time="before DCT" indicator="event">
+      <CAD id="C0" start="41" end="53" text="recent NQWMI" time="before DCT" indicator="event" comment=""/>
+      <CAD id="C1" start="1181" end="1186" text="NQWMI" time="before DCT" indicator="event" comment=""/>
+      <CAD id="C2" start="1291" end="1297" text="NQWMI." time="before DCT" indicator="event" comment=""/>
+      <CAD id="C3" start="2013" end="2018" text="NQWMI" time="before DCT" indicator="event" comment=""/>
+      <CAD id="C4" start="48" end="53" text="NQWMI" time="before DCT" indicator="event" comment=""/>
+      <CAD id="C5" start="48" end="53" text="NQWMI" time="before DCT" indicator="event" comment=""/>
+    </CAD>
+    <SMOKER id="DOC16" status="current">
+      <SMOKER id="S0" start="127" end="134" text="smoking" status="current" comment=""/>
+      <SMOKER id="S1" start="127" end="134" text="smoking" status="current" comment=""/>
+      <SMOKER id="S2" start="743" end="747" text="cigs" status="current" comment=""/>
+      <SMOKER id="S3" start="1139" end="1146" text="smoking" status="current" comment=""/>
+      <SMOKER id="S4" start="2036" end="2043" text="h/o tob" status="current" comment=""/>
+      <SMOKER id="S5" start="2165" end="2178" text="Still smoking" status="current" comment=""/>
+      <SMOKER id="S6" start="127" end="134" text="smoking" status="current" comment=""/>
+      <SMOKER id="S7" start="127" end="134" text="smoking" status="current" comment=""/>
+    </SMOKER>
+    <MEDICATION id="DOC17" time="after DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M67" start="346" end="356" text="amlodipine" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M68" start="346" end="356" text="amlodipine" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M69" start="846" end="856" text="amlodipine" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M70" start="1334" end="1344" text="amlodipine" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M71" start="2133" end="2143" text="amlidopine" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M72" start="346" end="356" text="amlodipine" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M73" start="346" end="356" text="amlodipine" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC18" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H18" start="102" end="105" text="htn" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H19" start="102" end="105" text="htn" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H20" start="732" end="735" text="htn" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H21" start="1115" end="1118" text="htn" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H22" start="2056" end="2059" text="htn" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H23" start="102" end="105" text="htn" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H24" start="102" end="105" text="htn" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <MEDICATION id="DOC19" time="before DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M74" start="317" end="325" text="atenolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M75" start="317" end="325" text="atenolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M76" start="784" end="792" text="Atenolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M77" start="2095" end="2103" text="atenolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M78" start="317" end="325" text="atenolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M79" start="317" end="325" text="atenolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC20" time="during DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M80" start="317" end="325" text="atenolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M81" start="317" end="325" text="atenolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M82" start="784" end="792" text="Atenolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M83" start="2095" end="2103" text="atenolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M84" start="317" end="325" text="atenolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M85" start="317" end="325" text="atenolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <PHI id="P0" start="16" end="26" text="2070-10-28" TYPE="DATE"/>
+    <PHI id="P1" start="33" end="35" text="67" TYPE="AGE"/>
+    <PHI id="P2" start="88" end="90" text="67" TYPE="AGE"/>
+    <PHI id="P3" start="152" end="160" text="10/12/70" TYPE="DATE"/>
+    <PHI id="P4" start="164" end="167" text="LGH" TYPE="HOSPITAL"/>
+    <PHI id="P5" start="683" end="686" text="CDH" TYPE="HOSPITAL"/>
+    <PHI id="P6" start="697" end="702" text="10/20" TYPE="DATE"/>
+    <PHI id="P7" start="716" end="721" text="10/22" TYPE="DATE"/>
+    <PHI id="P8" start="1101" end="1103" text="67" TYPE="AGE"/>
+    <PHI id="P9" start="1793" end="1800" text="E. Bird" TYPE="DOCTOR"/>
+    <PHI id="P10" start="1809" end="1816" text="Everson" TYPE="DOCTOR"/>
+    <PHI id="P11" start="1900" end="1915" text="Kitchen, Willie" TYPE="DOCTOR"/>
+    <PHI id="P12" start="1995" end="1997" text="67" TYPE="AGE"/>
+    <PHI id="P13" start="2406" end="2419" text="Kylee Compton" TYPE="DOCTOR"/>
+  </TAGS>
+</root>

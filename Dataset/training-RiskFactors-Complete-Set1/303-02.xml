@@ -1,0 +1,124 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2113-03-08
+
+ 
+March 08, 2113 
+ 
+Thomas Ho, M.D.  
+Saint Davids Pavilion 
+Internal Medicine 
+Walton, IL 14418 
+ 
+RE: LINDSAY, Anastasha 
+SDP#: 5563788 
+ 
+Dear Dr. Ho:  
+ 
+I had the pleasure of seeing Mrs. Lindsay today in follow up at the Saint Davids Pavilion Neurology. I last saw her on 07/27/2112. She is a 72-year-old woman who is status post a right MCA distribution cortical infarct in April of 2112 with residual left hand weakness. Since I last saw her Mrs. Lindsay has not done very well. She has had multiple recent falls and her gait has become even more unsteady. She tends to veer to either side and does have a frequent feeling of lightheadedness. She has hit her head on a couple of occasions with these falls. 
+
+  
+Of note her blood pressure medication has been essentially doubled since I last saw her. She is now taking 10 mg of Zestril every day instead of five and taking Atenolol 50 mg q.d. instead of 25 mg p.o. q.d. She does have intermittent weakness of the left hand which is likely recrudescent of her prior stroke symptoms and not new strokes. She does not have discoordination, vertigo or diplopia. She does have intermittent chest pains as well which she loath to bring to the attention of her physician.  She is reluctant to use a cane because her family states that "her husband does not use a cane and he is older, why should she have to use a cane". She has been switched to Plavix 75 mg p.o.  q.d. from aspirin. This was done without my knowledge as well.  She continues to have difficulty "feeling my feet" and this has been a chronic problem for her as well.  
+ 
+On examination she is alert. She is a garrulous and tangential historian and needs to be frequently refocussed. Her speech is fluent in English. English is her second language and she is less fluent in that language. Her visual fields are full to confrontation. Her extraocular movements are full with no nystagmus. Her face is symmetric other than a mild left nasolabial fold flattening. She has a mild left pronator drift and slowed finger tapping on the left side. She has no ataxia on finger-to-nose-to-finger testing. Her gait is slightly wide-based and unsteady. She can veer to either side and frequently has to hold on to someone next to her for stability.  
+ 
+IMPRESSION: I do not feel that Mrs. Lindsay has had a new embolic event, however I am quite concerned about her continued falling and difficulty with both her continued peripheral neuropathy and likely hypoperfusion. This appears to be pressure dependent and I would suggest that we back off on her antihypertensive medications at this time. In looking at her recent CBCs she has also been consistently anemic and with her complaints of chronic fatigue I think this could certainly be a factor. Atenolol could certainly be a factor in this as well and perhaps a different antihypertensive medication could be considered or it could be discontinued altogether. Furthermore with her recurrent chest pains she should seek an opinion from her primary care physician regarding this and I have counseled her to do so.  
+ 
+I will see Mrs. Lindsay in follow up in 6 months time but I am available to discuss her care at any time in the interim.   
+Sincerely, 
+ 
+ 
+Hudsen Parsons, M.D.  
+ 
+DD:03/08/2113 
+DT:03/11/2113 
+TL:7407      :3768 
+ 
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="during DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M0" start="863" end="870" text="Zestril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M1" start="863" end="870" text="Zestril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M2" start="863" end="870" text="Zestril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC1" time="during DCT" type1="thienopyridine" type2="">
+      <MEDICATION id="M3" start="1424" end="1430" text="Plavix" time="during DCT" type1="thienopyridine" type2="" comment=""/>
+      <MEDICATION id="M4" start="1424" end="1430" text="Plavix" time="during DCT" type1="thienopyridine" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC2" time="before DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M5" start="863" end="870" text="Zestril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M6" start="863" end="870" text="Zestril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M7" start="863" end="870" text="Zestril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC3" time="before DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M8" start="908" end="916" text="Atenolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M9" start="908" end="916" text="Atenolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M10" start="908" end="916" text="Atenolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC4" time="after DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M11" start="863" end="870" text="Zestril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M12" start="863" end="870" text="Zestril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M13" start="863" end="870" text="Zestril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC5" time="before DCT" type1="thienopyridine" type2="">
+      <MEDICATION id="M14" start="1424" end="1430" text="Plavix" time="before DCT" type1="thienopyridine" type2="" comment=""/>
+      <MEDICATION id="M15" start="1424" end="1430" text="Plavix" time="before DCT" type1="thienopyridine" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC6" time="after DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M16" start="908" end="916" text="Atenolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M17" start="908" end="916" text="Atenolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M18" start="908" end="916" text="Atenolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <SMOKER id="DOC7" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" status="unknown"/>
+      <SMOKER id="S2" status="unknown"/>
+    </SMOKER>
+    <MEDICATION id="DOC8" time="during DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M19" start="908" end="916" text="Atenolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M20" start="908" end="916" text="Atenolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M21" start="908" end="916" text="Atenolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <FAMILY_HIST id="DOC9" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <MEDICATION id="DOC10" time="after DCT" type1="thienopyridine" type2="">
+      <MEDICATION id="M22" start="1424" end="1430" text="Plavix" time="after DCT" type1="thienopyridine" type2="" comment=""/>
+      <MEDICATION id="M23" start="1424" end="1430" text="Plavix" time="after DCT" type1="thienopyridine" type2="" comment=""/>
+    </MEDICATION>
+    <PHI id="P0" start="16" end="26" text="2113-03-08" TYPE="DATE"/>
+    <PHI id="P1" start="30" end="44" text="March 08, 2113" TYPE="DATE"/>
+    <PHI id="P2" start="48" end="57" text="Thomas Ho" TYPE="DOCTOR"/>
+    <PHI id="P3" start="66" end="87" text="Saint Davids Pavilion" TYPE="HOSPITAL"/>
+    <PHI id="P4" start="108" end="114" text="Walton" TYPE="CITY"/>
+    <PHI id="P5" start="116" end="118" text="IL" TYPE="STATE"/>
+    <PHI id="P6" start="119" end="124" text="14418" TYPE="ZIP"/>
+    <PHI id="P7" start="132" end="150" text="LINDSAY, Anastasha" TYPE="PATIENT"/>
+    <PHI id="P8" start="152" end="155" text="SDP" TYPE="HOSPITAL"/>
+    <PHI id="P9" start="158" end="165" text="5563788" TYPE="MEDICALRECORD"/>
+    <PHI id="P10" start="178" end="180" text="Ho" TYPE="DOCTOR"/>
+    <PHI id="P11" start="220" end="227" text="Lindsay" TYPE="PATIENT"/>
+    <PHI id="P12" start="254" end="275" text="Saint Davids Pavilion" TYPE="HOSPITAL"/>
+    <PHI id="P13" start="276" end="285" text="Neurology" TYPE="DEPARTMENT"/>
+    <PHI id="P14" start="305" end="315" text="07/27/2112" TYPE="DATE"/>
+    <PHI id="P15" start="326" end="328" text="72" TYPE="AGE"/>
+    <PHI id="P16" start="408" end="421" text="April of 2112" TYPE="DATE"/>
+    <PHI id="P17" start="482" end="489" text="Lindsay" TYPE="PATIENT"/>
+    <PHI id="P18" start="1751" end="1758" text="English" TYPE="COUNTRY"/>
+    <PHI id="P19" start="2320" end="2327" text="Lindsay" TYPE="PATIENT"/>
+    <PHI id="P20" start="3116" end="3123" text="Lindsay" TYPE="PATIENT"/>
+    <PHI id="P21" start="3240" end="3254" text="Hudsen Parsons" TYPE="DOCTOR"/>
+    <PHI id="P22" start="3268" end="3278" text="03/08/2113" TYPE="DATE"/>
+    <PHI id="P23" start="3283" end="3293" text="03/11/2113" TYPE="DATE"/>
+    <PHI id="P24" start="3298" end="3313" text="7407      :3768" TYPE="IDNUM"/>
+  </TAGS>
+</root>

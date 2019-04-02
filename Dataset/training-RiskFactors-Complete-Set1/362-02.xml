@@ -1,0 +1,205 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2072-04-08
+
+                     KEKELA EMERGENCY DEPT VISIT
+
+ 
+
+DIETZ,SUSIE   538-41-21-0                    VISIT DATE: 04/08/72
+
+This patient was seen in conjunction with resident physician, 
+
+Echols.  Please see resident's note for explicit details of the 
+
+visit.  
+
+PRESENTING COMPLAINT:  Chest pain.
+
+HISTORY OF PRESENTING COMPLAINT:  This patient is a 47-year-old 
+
+female who presents to the emergency department complaining of 
+
+chest pain.  The patient has had multiple emergency department 
+
+visits for nonspecific symptoms.  She has a diagnosis of panic 
+
+attacks.  The patient states that over the last day or two, she has 
+
+been having symptoms of left neck pain and arm pain, with exertion. 
+
+The patient presents for evaluation. 
+
+REVIEW OF SYSTEMS:  Negative for shortness of breath, weakness, 
+
+numbness, headache, blurred vision, fevers, chills.  Other review 
+
+of systems are negative.  
+
+PAST MEDICAL HISTORY:  Diabetes and hypertension.
+
+MEDICATIONS:  Glucophage, Klonopin, diltiazem.
+
+ALLERGIES:  No known drug allergies. 
+
+SOCIAL HISTORY AND FAMILY HISTORY:  Noncontributory. 
+
+PHYSICAL EXAMINATION:  This is a well-appearing female in no 
+
+distress.  VITAL SIGNS:  Temperature 98.6, pulse 86, respiratory 
+
+rate 18, blood pressure 140/60.  Oxygen saturation is 100% on room 
+
+air.  HEENT:  Scalp is intact, with no evidence of trauma, 
+
+lacerations, or abrasions.  Pupils are round, reactive to light and 
+
+accommodation.  Tympanic membranes are clear bilaterally.  Pharynx 
+
+is non-erythematous with a midline uvula.  NECK:  Trachea is 
+
+midline without stridor.  Carotids are 2+ without bruits.  CHEST:  
+
+Clear to auscultation and percussion.  CARDIOVASCULAR:  S1, S2, no 
+
+murmurs, gallops, or rubs.  ABDOMEN:  Soft, non-tender, 
+
+non-distended.  No organomegaly.  Positive bowel sounds.  No 
+
+peritoneal signs.  EXTREMITIES:  Negative for clubbing, cyanosis, 
+
+or edema.  SKIN:  Negative for rash, petechiae, or urticaria.  
+
+NEUROLOGICAL:  Awake, alert and oriented x 3.  Cranial nerves 
+
+II-XII are intact.  Symmetric strength, reflexes, and sensation.  
+
+Normal gait.   
+
+LABORATORY EVALUATION:  Initial cardiogram was unremarkable and no 
+
+change from previous.  The patient had an exercise treadmill test 
+
+in 2069 which was consistent with, but diagnostic of, ischemia. 
+
+THERAPY RENDERED/COURSE IN ED:  The patient was given aspirin by 
+
+mouth, O2 via nasal cannula.  Given the patient's previous exercise 
+
+treadmill test, her history of hypertension and diabetes, and 
+
+nonspecific symptoms, the patient will be admitted to the hospital 
+
+for a rule out myocardial infarction and stress MIBI testing.
+
+FINAL DIAGNOSIS:  Chest pain, unclear etiology.
+
+DISPOSITION (including condition upon discharge):  The patient was 
+
+admitted in stable condition.
+
+___________________________________                    CG993/95284 
+
+RICHARD ZAHN, M.D.       RZ5                           D:04/08/72 
+
+                                                       T:04/08/72 
+
+Dictated by:  RICHARD ZAHN, M.D.       RZ5 
+
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="during DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M0" start="1013" end="1022" text="diltiazem" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M1" start="1013" end="1022" text="diltiazem" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <DIABETES id="DOC1" time="before DCT" indicator="mention">
+      <DIABETES id="D0" start="949" end="957" text="Diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D1" start="949" end="957" text="Diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D2" start="2510" end="2518" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <HYPERTENSION id="DOC2" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="962" end="974" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="962" end="974" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H2" start="2493" end="2505" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <MEDICATION id="DOC3" time="before DCT" type1="metformin" type2="">
+      <MEDICATION id="M2" start="991" end="1001" text="Glucophage" time="before DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M3" start="991" end="1001" text="Glucophage" time="before DCT" type1="metformin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC4" time="during DCT" type1="metformin" type2="">
+      <MEDICATION id="M4" start="991" end="1001" text="Glucophage" time="during DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M5" start="991" end="1001" text="Glucophage" time="during DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M6" start="991" end="1001" text="Glucophage" time="during DCT" type1="metformin" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC5" time="during DCT" indicator="high bp">
+      <HYPERTENSION id="H3" start="1258" end="1279" text="blood pressure 140/60" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H4" start="1258" end="1279" text="blood pressure 140/60" time="during DCT" indicator="high bp" comment=""/>
+    </HYPERTENSION>
+    <MEDICATION id="DOC6" time="before DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M7" start="1013" end="1022" text="diltiazem" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M8" start="1013" end="1022" text="diltiazem" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC7" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H5" start="962" end="974" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H6" start="962" end="974" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H7" start="2493" end="2505" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <MEDICATION id="DOC8" time="after DCT" type1="metformin" type2="">
+      <MEDICATION id="M9" start="991" end="1001" text="Glucophage" time="after DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M10" start="991" end="1001" text="Glucophage" time="after DCT" type1="metformin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC9" time="after DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M11" start="1013" end="1022" text="diltiazem" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M12" start="1013" end="1022" text="diltiazem" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC10" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H8" start="962" end="974" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H9" start="962" end="974" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H10" start="2493" end="2505" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <FAMILY_HIST id="DOC11" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC12" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" status="unknown"/>
+      <SMOKER id="S2" start="1064" end="1070" text="SOCIAL" status="unknown" comment=""/>
+    </SMOKER>
+    <DIABETES id="DOC13" time="after DCT" indicator="mention">
+      <DIABETES id="D3" start="949" end="957" text="Diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D4" start="949" end="957" text="Diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D5" start="2510" end="2518" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC14" time="during DCT" indicator="mention">
+      <DIABETES id="D6" start="949" end="957" text="Diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D7" start="949" end="957" text="Diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D8" start="2510" end="2518" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <PHI id="P0" start="16" end="26" text="2072-04-08" TYPE="DATE"/>
+    <PHI id="P1" start="49" end="55" text="KEKELA" TYPE="HOSPITAL"/>
+    <PHI id="P2" start="81" end="92" text="DIETZ,SUSIE" TYPE="PATIENT"/>
+    <PHI id="P3" start="95" end="106" text="538-41-21-0" TYPE="MEDICALRECORD"/>
+    <PHI id="P4" start="138" end="146" text="04/08/72" TYPE="DATE"/>
+    <PHI id="P5" start="212" end="218" text="Echols" TYPE="DOCTOR"/>
+    <PHI id="P6" start="376" end="378" text="47" TYPE="AGE"/>
+    <PHI id="P7" start="2262" end="2266" text="2069" TYPE="DATE"/>
+    <PHI id="P8" start="2862" end="2873" text="CG993/95284" TYPE="IDNUM"/>
+    <PHI id="P9" start="2876" end="2888" text="RICHARD ZAHN" TYPE="DOCTOR"/>
+    <PHI id="P10" start="2901" end="2904" text="RZ5" TYPE="USERNAME"/>
+    <PHI id="P11" start="2933" end="2941" text="04/08/72" TYPE="DATE"/>
+    <PHI id="P12" start="3001" end="3009" text="04/08/72" TYPE="DATE"/>
+    <PHI id="P13" start="3026" end="3038" text="RICHARD ZAHN" TYPE="DOCTOR"/>
+    <PHI id="P14" start="3051" end="3054" text="RZ5" TYPE="USERNAME"/>
+  </TAGS>
+</root>

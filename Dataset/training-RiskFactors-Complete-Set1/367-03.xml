@@ -1,0 +1,220 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2083-07-09
+
+Pt here for new PCP and f/u on multiple issues.
+
+
+
+Medications
+
+Premarin (CONJUGATED Estrogens) 2 GM PV QHS : SIG ONE APPLICATOR FULL AT HSX 1WK THEN TWICE PER WEEK
+
+Cozaar (LOSARTAN) 50MG, 1 Tablet(s) PO bid
+
+ATENOLOL 50MG, 0.5 Tablet(s) PO QD
+
+Ativan (LORAZEPAM) 0.5MG, 1 Tablet(s) PNGT QD
+
+GLYBURIDE 5MG, 1 Tablet(s) PO QD 
+
+
+
+Allergies
+
+Codeine - GI upset
+
+Sulfa - Rash
+
+* lisinopril - cough
+
+Penicillins - Rash
+
+* hctz - cramps 
+
+
+
+Problems
+
+Diabetes mellitus - cheated last weekend at a party, but mostly sugars 60-150s.  Last low-sugar rxn was a month ago, and her glyb. was decreased.  She may have "polys".  She still has not called her eye doctor for an appt. b/c too busy.  Urine microalbumin nl.  HBA1C 6.6%
+
+
+
+Hypertension - did not increase atenolol as advised by Dr Buckley.  Her home BPs are 150/70, but her pulse is often in the 50s, which is why she is taking only 1/2 of atenolol.
+
+
+
+Renal cancer : incidentally discovered, s/p nephrectomy
+
+
+
+Hyperparathyroidism : ? 2/2 Vit D deficiency. Thyroid nodules.  Being evaluated by Dr Lawson, SH Endocrine.  However, the last time she went to Endo. she was told she did not have an appt. She has not rec'd another in the mail.  She never had the thyroid bx.  Last Ca nl. but phos low.
+
+
+
+Dyspepsia/ H Pylori : unable to tolerate bismuth, TCN, metronidazole or clarithromycin and metronidazole.  She has occ. dyspepsia, for which she takes prn ranitidine, none lately.  Of note, recent guaiacs positive.  She had a colonoscopy 2079, which showed a polyp and diverticulosis.  Three year f/u rec.  Pt has been afraid to reschedule b/c was not sufficiently anesthetised the last time and had a lot of pain.
+
+
+
+Plantar Fasciitis - resolved.
+
+
+
+RHM - UTD.
+
+
+
+SH - married.  Husband has some medical problems, but is able to drive her on all her errands, as she does not dirve. No cigs, EtOH, sexual activity.  She has 4 children and 9 grandchildren.  Her son was hit by a car some years ago, and sustained head trauma, now in assisted living.  She is very stressed all the time worrying about him.  She became tearful telling me about this.  Enjoys gardening and attending her quilting group.
+
+
+
+ROS - + for hearing loss, diff. w/ memory related to stress and anxiety about son, as above in specific items, occ. constip.  Neg. otherwise.
+
+
+
+PLAN:
+
+Rev'd medical and SH. 
+
+Re-refer to Dr Lawson, emailed Dr Lawson.
+
+Disc. pt's intent about cancer surveillance.  She states that she would want to be treated if she had ca, and therefore agrees to upper and lower endo. if I request she receive adequate analgesia.
+
+F/U 2 mo.  BP not done today b/c she became upset.  Prob. will need a third BP med, but not incr. bb.
+
+
+
+
+
+
+
+_____________________________________________
+
+Patricia Lund, M.D.
+
+
+
+
+
+
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <DIABETES id="DOC0" time="during DCT" indicator="A1C">
+      <DIABETES id="D0" start="736" end="747" text=" HBA1C 6.6%" time="during DCT" indicator="A1C" comment=""/>
+      <DIABETES id="D1" start="737" end="747" text="HBA1C 6.6%" time="during DCT" indicator="A1C" comment=""/>
+    </DIABETES>
+    <MEDICATION id="DOC1" time="before DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M0" start="238" end="246" text="ATENOLOL" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M1" start="238" end="246" text="ATENOLOL" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M2" start="238" end="272" text="ATENOLOL 50MG, 0.5 Tablet(s) PO QD" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M3" start="783" end="791" text="atenolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M4" start="918" end="926" text="atenolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <DIABETES id="DOC2" time="before DCT" indicator="mention">
+      <DIABETES id="D2" start="475" end="492" text="Diabetes mellitus" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D3" start="475" end="484" text="Diabetes " time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D4" start="475" end="492" text="Diabetes mellitus" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <HYPERTENSION id="DOC3" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="751" end="763" text="Hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="751" end="763" text="Hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H2" start="751" end="763" text="Hypertension" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <MEDICATION id="DOC4" time="after DCT" type1="sulfonylureas" type2="">
+      <MEDICATION id="M5" start="321" end="330" text="GLYBURIDE" time="after DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M6" start="321" end="331" text="GLYBURIDE " time="after DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M7" start="321" end="354" text="GLYBURIDE 5MG, 1 Tablet(s) PO QD " time="after DCT" type1="sulfonylureas" type2="" comment=""/>
+    </MEDICATION>
+    <DIABETES id="DOC5" time="during DCT" indicator="mention">
+      <DIABETES id="D5" start="475" end="492" text="Diabetes mellitus" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D6" start="475" end="484" text="Diabetes " time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D7" start="475" end="492" text="Diabetes mellitus" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <HYPERTENSION id="DOC6" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H3" start="751" end="763" text="Hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H4" start="751" end="763" text="Hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H5" start="751" end="763" text="Hypertension" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <MEDICATION id="DOC7" time="before DCT" type1="sulfonylureas" type2="">
+      <MEDICATION id="M8" start="321" end="330" text="GLYBURIDE" time="before DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M9" start="321" end="331" text="GLYBURIDE " time="before DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M10" start="321" end="354" text="GLYBURIDE 5MG, 1 Tablet(s) PO QD " time="before DCT" type1="sulfonylureas" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC8" time="during DCT" type1="sulfonylureas" type2="">
+      <MEDICATION id="M11" start="321" end="330" text="GLYBURIDE" time="during DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M12" start="321" end="331" text="GLYBURIDE " time="during DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M13" start="321" end="354" text="GLYBURIDE 5MG, 1 Tablet(s) PO QD " time="during DCT" type1="sulfonylureas" type2="" comment=""/>
+    </MEDICATION>
+    <FAMILY_HIST id="DOC9" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <MEDICATION id="DOC10" time="after DCT" type1="ARB" type2="">
+      <MEDICATION id="M14" start="194" end="200" text="Cozaar" time="after DCT" type1="ARB" type2="" comment=""/>
+      <MEDICATION id="M15" start="194" end="201" text="Cozaar " time="after DCT" type1="ARB" type2="" comment=""/>
+      <MEDICATION id="M16" start="194" end="236" text="Cozaar (LOSARTAN) 50MG, 1 Tablet(s) PO bid" time="after DCT" type1="ARB" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC11" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H6" start="751" end="763" text="Hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H7" start="751" end="763" text="Hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H8" start="751" end="763" text="Hypertension" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <MEDICATION id="DOC12" time="after DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M17" start="238" end="246" text="ATENOLOL" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M18" start="238" end="246" text="ATENOLOL" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M19" start="238" end="272" text="ATENOLOL 50MG, 0.5 Tablet(s) PO QD" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M20" start="783" end="791" text="atenolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M21" start="918" end="926" text="atenolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC13" time="during DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M22" start="238" end="246" text="ATENOLOL" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M23" start="238" end="246" text="ATENOLOL" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M24" start="238" end="272" text="ATENOLOL 50MG, 0.5 Tablet(s) PO QD" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M25" start="783" end="791" text="atenolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M26" start="918" end="926" text="atenolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <DIABETES id="DOC14" time="after DCT" indicator="mention">
+      <DIABETES id="D8" start="475" end="492" text="Diabetes mellitus" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D9" start="475" end="484" text="Diabetes " time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D10" start="475" end="492" text="Diabetes mellitus" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <MEDICATION id="DOC15" time="during DCT" type1="ARB" type2="">
+      <MEDICATION id="M27" start="194" end="200" text="Cozaar" time="during DCT" type1="ARB" type2="" comment=""/>
+      <MEDICATION id="M28" start="194" end="201" text="Cozaar " time="during DCT" type1="ARB" type2="" comment=""/>
+      <MEDICATION id="M29" start="194" end="236" text="Cozaar (LOSARTAN) 50MG, 1 Tablet(s) PO bid" time="during DCT" type1="ARB" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC16" time="before DCT" indicator="high bp">
+      <HYPERTENSION id="H9" start="828" end="842" text="BPs are 150/70" time="before DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H10" start="836" end="842" text="150/70" time="before DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H11" start="819" end="842" text="Her home BPs are 150/70" time="before DCT" indicator="high bp" comment=""/>
+    </HYPERTENSION>
+    <MEDICATION id="DOC17" time="before DCT" type1="ARB" type2="">
+      <MEDICATION id="M30" start="194" end="200" text="Cozaar" time="before DCT" type1="ARB" type2="" comment=""/>
+      <MEDICATION id="M31" start="194" end="201" text="Cozaar " time="before DCT" type1="ARB" type2="" comment=""/>
+      <MEDICATION id="M32" start="194" end="236" text="Cozaar (LOSARTAN) 50MG, 1 Tablet(s) PO bid" time="before DCT" type1="ARB" type2="" comment=""/>
+    </MEDICATION>
+    <SMOKER id="DOC18" status="never">
+      <SMOKER id="S0" start="1861" end="1869" text=" No cigs" status="never" comment=""/>
+      <SMOKER id="S1" start="1861" end="1869" text=" No cigs" status="never" comment=""/>
+      <SMOKER id="S2" start="1862" end="1869" text="No cigs" status="never" comment=""/>
+    </SMOKER>
+    <PHI id="P0" start="16" end="26" text="2083-07-09" TYPE="DATE"/>
+    <PHI id="P1" start="809" end="816" text="Buckley" TYPE="DOCTOR"/>
+    <PHI id="P2" start="1076" end="1082" text="Lawson" TYPE="DOCTOR"/>
+    <PHI id="P3" start="1084" end="1086" text="SH" TYPE="HOSPITAL"/>
+    <PHI id="P4" start="1517" end="1521" text="2079" TYPE="DATE"/>
+    <PHI id="P5" start="2162" end="2170" text="quilting" TYPE="ORGANIZATION"/>
+    <PHI id="P6" start="2372" end="2378" text="Lawson" TYPE="DOCTOR"/>
+    <PHI id="P7" start="2391" end="2397" text="Lawson" TYPE="DOCTOR"/>
+    <PHI id="P8" start="2754" end="2767" text="Patricia Lund" TYPE="DOCTOR"/>
+  </TAGS>
+</root>

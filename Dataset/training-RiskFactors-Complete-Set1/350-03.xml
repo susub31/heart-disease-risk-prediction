@@ -1,0 +1,323 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2090-09-25
+
+EDVISIT^49535763^DOSS, RUATH^09/25/90^GILMORE, RACHEL
+
+The patient was seen in conjunction with resident, Dr. Xiang. 
+
+Resident's note was reviewed.  The patient was seen and examined
+
+by me.  Please see the resident's note for details of the
+
+patient's past medical, social, family history, review of
+
+systems, and physical exam.
+
+CHIEF COMPLAINT:  Tingling and numbness.
+
+HISTORY OF PRESENT ILLNESS:  This is a 58-year-old woman with a
+
+history of stroke and seizure in 12/2089 and a longstanding
+
+history of diabetes who presents today with a sharp thumbtack
+
+poking sensation in her right hand at 9:30 a.m. while driving. 
+
+It lasted 3-4 seconds and then completely resolved.  Thirty
+
+minutes later, she noticed a similar sensation in her right hand
+
+for a few seconds and then resolved completely, and then she
+
+noticed it in her right foot and the toes.  She wiggles her toes
+
+in her shoe and then that resolved after a few seconds and then
+
+30 minutes after that she had a similar but less severe sensation
+
+in the fingertips of her left hand at about 10:45 that then
+
+resolved completely.  Since then, she has had no sensation like
+
+this.  She has had pins and needles feeling in her hands and feet
+
+in the past, but never a sharp thumbtack feeling like this in the
+
+past.  She had no dysarthria, confusion, weakness, numbness
+
+trauma, dizziness, loss of consciousness, syncope, seizure
+
+activity, changes in her medications, or any new medications. 
+
+She took her Plavix as usual this morning, is now symptom free,
+
+and very well appearing.  She called her doctor's office and the
+
+nurse told her to come to the Emergency Department to be checked.
+
+PAST MEDICAL HISTORY:  Hypertension, diabetes, high cholesterol,
+
+seizures in the setting of a stroke in 12/2089, and a left MCA
+
+stroke in 12/2089.  She has had no seizures since then.  She has
+
+residual right lower extremity weakness, which is now much
+
+improved.  Echo in 12/2089 showed an EF of 60%.  She has
+
+concentric LVH, no wall motion abnormalities, and no other
+
+surgeries.
+
+SOCIAL HISTORY:  Past smoker of 30 pack years, ETOH none, and no
+
+IV drug use.  She works as a Business Services Manager and lives
+
+with her family.
+
+FAMILY HISTORY:  Noncontributory.
+
+REVIEW OF SYSTEMS:  Otherwise, negative.
+
+MEDICATIONS:  She takes Dilantin, glipizide, Glucophage, Plavix,
+
+atenolol, Cozaar, and Lipitor.
+
+ALLERGIES:  None.
+
+PHYSICAL EXAMINATION:  She is afebrile with normal and stable
+
+vital signs.  Awake, alert, and in no distress.  Her exam is
+
+completely unremarkable including 5/5 strength in her upper and
+
+lower extremities.  Gait is normal.  She has no cerebellar signs,
+
+past pointing dysmetria, aphasia, ataxia, focal weakness, or any
+
+focal sensory deficit at all.
+
+LABORATORY DATA:  EKG shows bradycardia at 50 beats a minute with
+
+nonspecific T-wave changes.  Fingerstick is 150.  Dilantin level
+
+is normal.  Head CT shows no evidence of bleeding or any other
+
+abnormality.
+
+EMERGENCY DEPARTMENT COURSE:  Neurology was consulted and agrees
+
+with the diagnosis of likely peripheral neuropathy.  They will
+
+help arrange followup within 1 week for this patient with her
+
+neurologist and she is told to see her primary care physician
+
+within 2 weeks and to return to the Emergency Department for any
+
+chest pain, shortness of breath, or any other worsening of her
+
+symptoms.
+
+DISPOSITION:  She is well appearing at the time of discharge in
+
+satisfactory condition.
+
+______________________________
+
+GILMORE, RACHEL M.D.
+
+D: 09/25/90
+
+T: 09/25/90
+
+Dictated By: GILMORE, RACHEL
+
+eScription document:1-9359833 BFFocus
+
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="after DCT" type1="statin" type2="">
+      <MEDICATION id="M0" start="2387" end="2394" text="Lipitor" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M1" start="2387" end="2394" text="Lipitor" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M2" start="2387" end="2394" text="Lipitor" time="after DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC1" time="during DCT" type1="thienopyridine" type2="">
+      <MEDICATION id="M3" start="1501" end="1507" text="Plavix" time="during DCT" type1="thienopyridine" type2="" comment=""/>
+      <MEDICATION id="M4" start="2356" end="2363" text="Plavix," time="during DCT" type1="thienopyridine" type2="" comment=""/>
+      <MEDICATION id="M5" start="2356" end="2362" text="Plavix" time="during DCT" type1="thienopyridine" type2="" comment=""/>
+      <MEDICATION id="M6" start="1501" end="1507" text="Plavix" time="during DCT" type1="thienopyridine" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC2" time="after DCT" type1="metformin" type2="">
+      <MEDICATION id="M7" start="2344" end="2354" text="Glucophage" time="after DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M8" start="2344" end="2354" text="Glucophage" time="after DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M9" start="2344" end="2354" text="Glucophage" time="after DCT" type1="metformin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC3" time="during DCT" type1="metformin" type2="">
+      <MEDICATION id="M10" start="2344" end="2354" text="Glucophage" time="during DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M11" start="2344" end="2354" text="Glucophage" time="during DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M12" start="2344" end="2354" text="Glucophage" time="during DCT" type1="metformin" type2="" comment=""/>
+    </MEDICATION>
+    <SMOKER id="DOC4" status="past">
+      <SMOKER id="S0" start="2089" end="2117" text="Past smoker of 30 pack years" status="past" comment=""/>
+      <SMOKER id="S1" start="2088" end="2117" text=" Past smoker of 30 pack years" status="past" comment=""/>
+      <SMOKER id="S2" start="2088" end="2100" text=" Past smoker" status="past" comment=""/>
+    </SMOKER>
+    <HYPERTENSION id="DOC5" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="1709" end="1721" text="Hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="1709" end="1721" text="Hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H2" start="1709" end="1721" text="Hypertension" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERLIPIDEMIA id="DOC6" time="before DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY0" start="1733" end="1750" text="high cholesterol," time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY1" start="1733" end="1749" text="high cholesterol" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY2" start="1733" end="1749" text="high cholesterol" time="before DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <DIABETES id="DOC7" time="during DCT" indicator="mention">
+      <DIABETES id="D0" start="539" end="547" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D1" start="1723" end="1731" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D2" start="539" end="547" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D3" start="539" end="547" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <HYPERLIPIDEMIA id="DOC8" time="during DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY3" start="1733" end="1750" text="high cholesterol," time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY4" start="1733" end="1749" text="high cholesterol" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY5" start="1733" end="1749" text="high cholesterol" time="during DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <MEDICATION id="DOC9" time="after DCT" type1="sulfonylureas" type2="">
+      <MEDICATION id="M13" start="2333" end="2342" text="glipizide" time="after DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M14" start="2333" end="2342" text="glipizide" time="after DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M15" start="2333" end="2342" text="glipizide" time="after DCT" type1="sulfonylureas" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC10" time="during DCT" type1="sulfonylureas" type2="">
+      <MEDICATION id="M16" start="2333" end="2342" text="glipizide" time="during DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M17" start="2333" end="2342" text="glipizide" time="during DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M18" start="2333" end="2342" text="glipizide" time="during DCT" type1="sulfonylureas" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC11" time="after DCT" type1="thienopyridine" type2="">
+      <MEDICATION id="M19" start="1501" end="1507" text="Plavix" time="after DCT" type1="thienopyridine" type2="" comment=""/>
+      <MEDICATION id="M20" start="2356" end="2363" text="Plavix," time="after DCT" type1="thienopyridine" type2="" comment=""/>
+      <MEDICATION id="M21" start="2356" end="2362" text="Plavix" time="after DCT" type1="thienopyridine" type2="" comment=""/>
+      <MEDICATION id="M22" start="1501" end="1507" text="Plavix" time="after DCT" type1="thienopyridine" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC12" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H3" start="1709" end="1721" text="Hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H4" start="1709" end="1721" text="Hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H5" start="1709" end="1721" text="Hypertension" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <MEDICATION id="DOC13" time="after DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M23" start="2365" end="2373" text="atenolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M24" start="2365" end="2373" text="atenolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M25" start="2365" end="2373" text="atenolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <DIABETES id="DOC14" time="before DCT" indicator="mention">
+      <DIABETES id="D4" start="539" end="547" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D5" start="1723" end="1731" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D6" start="539" end="547" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D7" start="539" end="547" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <MEDICATION id="DOC15" time="after DCT" type1="ARB" type2="">
+      <MEDICATION id="M26" start="2375" end="2381" text="Cozaar" time="after DCT" type1="ARB" type2="" comment=""/>
+      <MEDICATION id="M27" start="2375" end="2381" text="Cozaar" time="after DCT" type1="ARB" type2="" comment=""/>
+      <MEDICATION id="M28" start="2375" end="2381" text="Cozaar" time="after DCT" type1="ARB" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC16" time="before DCT" type1="statin" type2="">
+      <MEDICATION id="M29" start="2387" end="2394" text="Lipitor" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M30" start="2387" end="2394" text="Lipitor" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M31" start="2387" end="2394" text="Lipitor" time="before DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC17" time="during DCT" type1="statin" type2="">
+      <MEDICATION id="M32" start="2387" end="2394" text="Lipitor" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M33" start="2387" end="2394" text="Lipitor" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M34" start="2387" end="2394" text="Lipitor" time="during DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC18" time="before DCT" type1="metformin" type2="">
+      <MEDICATION id="M35" start="2344" end="2354" text="Glucophage" time="before DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M36" start="2344" end="2354" text="Glucophage" time="before DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M37" start="2344" end="2354" text="Glucophage" time="before DCT" type1="metformin" type2="" comment=""/>
+    </MEDICATION>
+    <FAMILY_HIST id="DOC19" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <HYPERLIPIDEMIA id="DOC20" time="after DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY6" start="1733" end="1750" text="high cholesterol," time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY7" start="1733" end="1749" text="high cholesterol" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY8" start="1733" end="1749" text="high cholesterol" time="after DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <DIABETES id="DOC21" time="during DCT" indicator="glucose">
+      <DIABETES id="D8" start="2866" end="2884" text="Fingerstick is 150" time="during DCT" indicator="glucose" comment=""/>
+      <DIABETES id="D9" start="2866" end="2884" text="Fingerstick is 150" time="during DCT" indicator="glucose" comment=""/>
+    </DIABETES>
+    <MEDICATION id="DOC22" time="before DCT" type1="sulfonylureas" type2="">
+      <MEDICATION id="M38" start="2333" end="2342" text="glipizide" time="before DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M39" start="2333" end="2342" text="glipizide" time="before DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M40" start="2333" end="2342" text="glipizide" time="before DCT" type1="sulfonylureas" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC23" time="before DCT" type1="thienopyridine" type2="">
+      <MEDICATION id="M41" start="1501" end="1507" text="Plavix" time="before DCT" type1="thienopyridine" type2="" comment=""/>
+      <MEDICATION id="M42" start="2356" end="2363" text="Plavix," time="before DCT" type1="thienopyridine" type2="" comment=""/>
+      <MEDICATION id="M43" start="2356" end="2362" text="Plavix" time="before DCT" type1="thienopyridine" type2="" comment=""/>
+      <MEDICATION id="M44" start="1501" end="1507" text="Plavix" time="before DCT" type1="thienopyridine" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC24" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H6" start="1709" end="1721" text="Hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H7" start="1709" end="1721" text="Hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H8" start="1709" end="1721" text="Hypertension" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <MEDICATION id="DOC25" time="before DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M45" start="2365" end="2373" text="atenolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M46" start="2365" end="2373" text="atenolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M47" start="2365" end="2373" text="atenolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC26" time="during DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M48" start="2365" end="2373" text="atenolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M49" start="2365" end="2373" text="atenolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M50" start="2365" end="2373" text="atenolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <DIABETES id="DOC27" time="after DCT" indicator="mention">
+      <DIABETES id="D10" start="539" end="547" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D11" start="1723" end="1731" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D12" start="539" end="547" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D13" start="539" end="547" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <MEDICATION id="DOC28" time="during DCT" type1="ARB" type2="">
+      <MEDICATION id="M51" start="2375" end="2381" text="Cozaar" time="during DCT" type1="ARB" type2="" comment=""/>
+      <MEDICATION id="M52" start="2375" end="2381" text="Cozaar" time="during DCT" type1="ARB" type2="" comment=""/>
+      <MEDICATION id="M53" start="2375" end="2381" text="Cozaar" time="during DCT" type1="ARB" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC29" time="before DCT" type1="ARB" type2="">
+      <MEDICATION id="M54" start="2375" end="2381" text="Cozaar" time="before DCT" type1="ARB" type2="" comment=""/>
+      <MEDICATION id="M55" start="2375" end="2381" text="Cozaar" time="before DCT" type1="ARB" type2="" comment=""/>
+      <MEDICATION id="M56" start="2375" end="2381" text="Cozaar" time="before DCT" type1="ARB" type2="" comment=""/>
+    </MEDICATION>
+    <PHI id="P0" start="16" end="26" text="2090-09-25" TYPE="DATE"/>
+    <PHI id="P1" start="36" end="44" text="49535763" TYPE="MEDICALRECORD"/>
+    <PHI id="P2" start="45" end="56" text="DOSS, RUATH" TYPE="PATIENT"/>
+    <PHI id="P3" start="57" end="65" text="09/25/90" TYPE="DATE"/>
+    <PHI id="P4" start="66" end="81" text="GILMORE, RACHEL" TYPE="DOCTOR"/>
+    <PHI id="P5" start="138" end="143" text="Xiang" TYPE="DOCTOR"/>
+    <PHI id="P6" start="441" end="443" text="58" TYPE="AGE"/>
+    <PHI id="P7" start="500" end="507" text="12/2089" TYPE="DATE"/>
+    <PHI id="P8" start="1791" end="1798" text="12/2089" TYPE="DATE"/>
+    <PHI id="P9" start="1826" end="1833" text="12/2089" TYPE="DATE"/>
+    <PHI id="P10" start="1961" end="1968" text="12/2089" TYPE="DATE"/>
+    <PHI id="P11" start="2167" end="2192" text="Business Services Manager" TYPE="PROFESSION"/>
+    <PHI id="P12" start="3500" end="3515" text="GILMORE, RACHEL" TYPE="DOCTOR"/>
+    <PHI id="P13" start="3525" end="3533" text="09/25/90" TYPE="DATE"/>
+    <PHI id="P14" start="3538" end="3546" text="09/25/90" TYPE="DATE"/>
+    <PHI id="P15" start="3561" end="3576" text="GILMORE, RACHEL" TYPE="DOCTOR"/>
+    <PHI id="P16" start="3598" end="3607" text="1-9359833" TYPE="IDNUM"/>
+  </TAGS>
+</root>

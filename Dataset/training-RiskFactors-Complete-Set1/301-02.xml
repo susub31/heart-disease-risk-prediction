@@ -1,0 +1,259 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2077-02-01
+
+             				
+
+ Critical care					 
+
+
+
+
+
+TRANSPLANT FELLOW ADMIT NOTE
+
+
+
+
+
+HPI: 42 year old man s/p bilateral lung transplantation for bronchiectasis in 7/73 transferred from Burlington Obstetrics Gynecology Center for further evaluation of N/V/D, fever and hypoxia.  Over the past six weeks he had reported a slow decline in respiratory function  prompting a recent admission here 1/23 -25/77 for elective bronchoscopy to rule out rejection.  He noted a slight spontaneous improvement a few days before that admission.  Bronchoscopy showed no rejection but washings did grow M. catarrhalis -levaquin was begun on 1/25/77.  Pt reports continued slow improvement in dyspnea following discharge.  Yesterday morning he developed watery diarrhea (no blood or mucus) soon followed by nausea and vomiting (no blood or coffee grounds).  He went to BOGC and describes feeling increased dyspnea.  Found to be febrile to 101F and hypoxic (SpO2 94%, PaO2 53) and started on supplemental oxygen.  GI symptoms have since improved and pt is tolerating PO.  Denies chest pain, palpitations, cough, rash, HA, rhinorrhea, sore throat at any point during this illness.  Currently no dyspnea at rest.  
+
+
+
+PMH: OSA, obesity, osteoporosis, gout, HTN, CRI, avascular necrosis of R hip/knee, depression, psoriasis
+
+
+
+Current Meds: 
+
+Imm: neoral 125 mg po bid, cellcept 500 mg po bid, prednisone 30 mg po qd
+
+Abx: levaquin 500 mg po qd (1/25), bactrim ss 1 po tiw, acyclovir 200 mg po tid
+
+Other: atenolol 25 mg po qd, norvasc 5 mg po qd, nexium 20 mg po qd, MgGlu 500 mg po tid, Kdur 20 mEq po qd, lipitor 40 mg po qd, Ca citrate/vit D/MVI, lasix 40 mg po qd, cozaar 100 mg po qd
+
+
+
+SH: Lives in Florida with wife.  Works at ion media networks.
+
+
+
+FH: noncontributory
+
+
+
+Objective:
+
+Vitals:  Tm 96.5  HR 71  BP 145/91  RR 22  SpO2  97% on 2L NC
+
+Gen: NAD, obese
+
+HEENT/neck: OP clear, MMM
+
+Lungs/chest: CTA bilat, reduced breath sounds
+
+Heart: RRR w/o m/r/g
+
+Abd: SNTND +BS
+
+Extr: no c/c/e, 2+ pulses
+
+
+
+Lab: significant for
+
+BUN 36, Cr 2.1
+
+WBC 3.4, Hct 39, Plt 115
+
+
+
+Micro: 
+
+Nasal swab 1/31/77 - negative viral panel
+
+Lung washings 1/23/77 - moderate M. catarrhalis
+
+
+
+Path: Transbrochial biopsy 1/23 - negative for tissue rejection
+
+
+
+CXR 1/31: Unremarkable 
+
+
+
+Impression: 
+
+42 year old man s/p bilateral lung transplant 7/73 for bronchiectasis developed acute GI illness in setting of levaquin tx for recent respiratory infection.  Now afebrile and with resolution of GI symptoms.  Remains somewhat dyspneic with normal BP and HR.  Azotemia possibly attributable to dehydration though concern for other etiologies as per Dr. Reilly's note.  WBCs reduced from recent levels.
+
+
+
+Recommendations: 
+
+GI illness: Mostly asymptomatic now though some concerning abnormalities remain (O2 requirement, low plt, low WBC, high Cr).  Remains hemodynamically stable.  Await results of panculture including stool studies (including C diff, E coli, Camphylobacter) when available.  
+
+Transplant: Continue current immunosuppression and prophylactic abx.  Will consider holding cellcept, valcyte if leukopenia persists/worsens.  Follow daily cyclosporin troughs.  No evidence of rejection on recent biopsy.
+
+Dyspnea: Consider aspiration though CXR negative, will follow.  Hold abx for now.
+
+Renal: Azotemia of unclear etiology, follow up labs pending.  Renal consult per Dr. Reilly.
+
+
+
+
+
+
+
+
+
+ 
+
+___________________
+
+Oscar B. Stanley, M.D.
+
+Pulmonary Fellow
+
+Pager: 34348
+
+
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="after DCT" type1="statin" type2="">
+      <MEDICATION id="M0" start="1608" end="1615" text="lipitor" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M1" start="1608" end="1615" text="lipitor" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M2" start="1608" end="1615" text="lipitor" time="after DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <OBESE id="DOC1" time="after DCT" indicator="mention">
+      <OBESE id="O0" start="1229" end="1236" text="obesity" time="after DCT" indicator="mention" comment=""/>
+      <OBESE id="O1" start="1229" end="1236" text="obesity" time="after DCT" indicator="mention" comment=""/>
+      <OBESE id="O2" start="1229" end="1236" text="obesity" time="after DCT" indicator="mention" comment=""/>
+    </OBESE>
+    <HYPERTENSION id="DOC2" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="1258" end="1261" text="HTN" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="1258" end="1261" text="HTN" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H2" start="1258" end="1261" text="HTN" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <MEDICATION id="DOC3" time="during DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M3" start="1528" end="1535" text="norvasc" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M4" start="1528" end="1535" text="norvasc" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M5" start="1528" end="1535" text="norvasc" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC4" time="during DCT" indicator="high bp">
+      <HYPERTENSION id="H3" start="1821" end="1827" text="145/91" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H4" start="1821" end="1827" text="145/91" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H5" start="1818" end="1827" text="BP 145/91" time="during DCT" indicator="high bp" comment=""/>
+    </HYPERTENSION>
+    <MEDICATION id="DOC5" time="before DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M6" start="1528" end="1535" text="norvasc" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M7" start="1528" end="1535" text="norvasc" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M8" start="1528" end="1535" text="norvasc" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC6" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H6" start="1258" end="1261" text="HTN" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H7" start="1258" end="1261" text="HTN" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H8" start="1258" end="1261" text="HTN" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <MEDICATION id="DOC7" time="after DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M9" start="1506" end="1514" text="atenolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M10" start="1506" end="1514" text="atenolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M11" start="1506" end="1514" text="atenolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <SMOKER id="DOC8" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" status="unknown"/>
+      <SMOKER id="S2" status="unknown"/>
+    </SMOKER>
+    <MEDICATION id="DOC9" time="after DCT" type1="ARB" type2="">
+      <MEDICATION id="M12" start="1670" end="1676" text="cozaar" time="after DCT" type1="ARB" type2="" comment=""/>
+      <MEDICATION id="M13" start="1670" end="1676" text="cozaar" time="after DCT" type1="ARB" type2="" comment=""/>
+      <MEDICATION id="M14" start="1670" end="1676" text="cozaar" time="after DCT" type1="ARB" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC10" time="before DCT" type1="statin" type2="">
+      <MEDICATION id="M15" start="1608" end="1615" text="lipitor" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M16" start="1608" end="1615" text="lipitor" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M17" start="1608" end="1615" text="lipitor" time="before DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC11" time="during DCT" type1="statin" type2="">
+      <MEDICATION id="M18" start="1608" end="1615" text="lipitor" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M19" start="1608" end="1615" text="lipitor" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M20" start="1608" end="1615" text="lipitor" time="during DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <OBESE id="DOC12" time="before DCT" indicator="mention">
+      <OBESE id="O3" start="1229" end="1236" text="obesity" time="before DCT" indicator="mention" comment=""/>
+      <OBESE id="O4" start="1229" end="1236" text="obesity" time="before DCT" indicator="mention" comment=""/>
+      <OBESE id="O5" start="1229" end="1236" text="obesity" time="before DCT" indicator="mention" comment=""/>
+    </OBESE>
+    <FAMILY_HIST id="DOC13" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <OBESE id="DOC14" time="during DCT" indicator="mention">
+      <OBESE id="O6" start="1229" end="1236" text="obesity" time="during DCT" indicator="mention" comment=""/>
+      <OBESE id="O7" start="1229" end="1236" text="obesity" time="during DCT" indicator="mention" comment=""/>
+      <OBESE id="O8" start="1229" end="1236" text="obesity" time="during DCT" indicator="mention" comment=""/>
+    </OBESE>
+    <MEDICATION id="DOC15" time="after DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M21" start="1528" end="1535" text="norvasc" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M22" start="1528" end="1535" text="norvasc" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M23" start="1528" end="1535" text="norvasc" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC16" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H9" start="1258" end="1261" text="HTN" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H10" start="1258" end="1261" text="HTN" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H11" start="1258" end="1261" text="HTN" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <MEDICATION id="DOC17" time="before DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M24" start="1506" end="1514" text="atenolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M25" start="1506" end="1514" text="atenolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M26" start="1506" end="1514" text="atenolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC18" time="during DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M27" start="1506" end="1514" text="atenolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M28" start="1506" end="1514" text="atenolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M29" start="1506" end="1514" text="atenolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC19" time="during DCT" type1="ARB" type2="">
+      <MEDICATION id="M30" start="1670" end="1676" text="cozaar" time="during DCT" type1="ARB" type2="" comment=""/>
+      <MEDICATION id="M31" start="1670" end="1676" text="cozaar" time="during DCT" type1="ARB" type2="" comment=""/>
+      <MEDICATION id="M32" start="1670" end="1676" text="cozaar" time="during DCT" type1="ARB" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC20" time="before DCT" type1="ARB" type2="">
+      <MEDICATION id="M33" start="1670" end="1676" text="cozaar" time="before DCT" type1="ARB" type2="" comment=""/>
+      <MEDICATION id="M34" start="1670" end="1676" text="cozaar" time="before DCT" type1="ARB" type2="" comment=""/>
+      <MEDICATION id="M35" start="1670" end="1676" text="cozaar" time="before DCT" type1="ARB" type2="" comment=""/>
+    </MEDICATION>
+    <PHI id="P0" start="16" end="26" text="2077-02-01" TYPE="DATE"/>
+    <PHI id="P1" start="48" end="61" text="Critical care" TYPE="DEPARTMENT"/>
+    <PHI id="P2" start="112" end="114" text="42" TYPE="AGE"/>
+    <PHI id="P3" start="185" end="189" text="7/73" TYPE="DATE"/>
+    <PHI id="P4" start="207" end="246" text="Burlington Obstetrics Gynecology Center" TYPE="HOSPITAL"/>
+    <PHI id="P5" start="414" end="425" text="1/23 -25/77" TYPE="DATE"/>
+    <PHI id="P6" start="646" end="653" text="1/25/77" TYPE="DATE"/>
+    <PHI id="P7" start="873" end="877" text="BOGC" TYPE="HOSPITAL"/>
+    <PHI id="P8" start="1446" end="1450" text="1/25" TYPE="DATE"/>
+    <PHI id="P9" start="1706" end="1713" text="Florida" TYPE="STATE"/>
+    <PHI id="P10" start="1735" end="1753" text="ion media networks" TYPE="ORGANIZATION"/>
+    <PHI id="P11" start="2100" end="2107" text="1/31/77" TYPE="DATE"/>
+    <PHI id="P12" start="2146" end="2153" text="1/23/77" TYPE="DATE"/>
+    <PHI id="P13" start="2210" end="2214" text="1/23" TYPE="DATE"/>
+    <PHI id="P14" start="2254" end="2258" text="1/31" TYPE="DATE"/>
+    <PHI id="P15" start="2291" end="2293" text="42" TYPE="AGE"/>
+    <PHI id="P16" start="2337" end="2341" text="7/73" TYPE="DATE"/>
+    <PHI id="P17" start="2642" end="2648" text="Reilly" TYPE="DOCTOR"/>
+    <PHI id="P18" start="3375" end="3381" text="Reilly" TYPE="DOCTOR"/>
+    <PHI id="P19" start="3416" end="3432" text="Oscar B. Stanley" TYPE="DOCTOR"/>
+    <PHI id="P20" start="3465" end="3470" text="34348" TYPE="PHONE"/>
+  </TAGS>
+</root>

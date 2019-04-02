@@ -1,0 +1,146 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2077-10-05
+
+EDVISIT^04561326^NARVAEZ, OTIS^10/05/77^THORNE, OLIVER
+
+The patient was seen by me on 10/05/2077 with Dr. Bender. 
+
+Resident's history was reviewed.  The patient was interviewed and
+
+examined by me.
+
+HISTORY OF PRESENT ILLNESS:  The patient is a 68-year-old man
+
+recently diagnosed with diverticulitis, treated with
+
+ciprofloxacin and Flagyl.  He has had abdominal pain for the past
+
+4 days, and was discharged from the hospital.  He complains of
+
+left flank pain.  He has no abdominal pain.  Pain is colic in
+
+nature.  See resident's note for details.
+
+PAST MEDICAL HISTORY:  Diverticulosis, diabetes, gastric bypass,
+
+and coronary artery disease.
+
+CURRENT MEDICATIONS:  Cipro and Flagyl.  See resident's note for
+
+details.
+
+ALLERGIES:  No known drug allergies.
+
+SOCIAL HISTORY:  He denies drugs or alcohol.  He denies cigarette
+
+smoking.
+
+REVIEW OF SYSTEMS:  No chest pain, no shortness of breath, and no
+
+fever.
+
+PHYSICAL EXAMINATION:  Temperature 99, blood pressure 153/118,
+
+pulse 93, respirations 18, and O2 saturation 98% on room air. 
+
+HEENT:  Normocephalic and atraumatic.  Pupils are equal, round,
+
+and reactive to light.  Extraocular muscles are intact.  Neck is
+
+supple.  No meningeal signs.  CV:  Regular rate and rhythm. 
+
+Lungs:  Clear.  Abdomen:  Positive bowel sounds, soft, and
+
+nontender to palpation.  Back:  No CVAT.  Extremities:  No
+
+cyanosis, clubbing, or edema.  Neurologic:  Alert and oriented
+
+x3.  Cranial nerves are intact.  Motor and sensory are intact.
+
+LABORATORY DATA:  Whit e count 8.8, hematocrit 44, and platelets
+
+216,000.  Creatinine 1.7 and glucose 103.  Urinalysis is pending.
+
+ Abdominal CT scan evaluated from 10/01/2077 reveals a 6 x 8 mm
+
+stone in the left ureter, hydronephrosis, and adjacent stranding.
+
+EMERGENCY DEPARTMENT COURSE:  The patient in the Emergency
+
+ ******** Not reviewed by Attending Physician ********
+
+pain with stable vital signs.  He was seen by Urology.  He will
+
+be admitted to the Urology Service for further management.
+
+DIAGNOSIS:  Renal colic kidney stone.
+
+______________________________
+
+THORNE, OLIVER M.D.
+
+D: 10/05/77
+
+T: 10/06/77
+
+Dictated By: THORNE, OLIVER
+
+eScription document:0-1032417 BFFocus
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <HYPERTENSION id="DOC2" time="during DCT" indicator="high bp">
+      <HYPERTENSION id="H0" start="998" end="1005" text="153/118" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H1" start="983" end="1005" text="blood pressure 153/118" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H2" start="983" end="1005" text="blood pressure 153/118" time="during DCT" indicator="high bp" comment=""/>
+    </HYPERTENSION>
+    <CAD id="DOC0" time="after DCT" indicator="mention">
+      <CAD id="C0" start="652" end="675" text="coronary artery disease" time="after DCT" indicator="mention" comment=""/>
+      <CAD id="C1" start="652" end="675" text="coronary artery disease" time="after DCT" indicator="mention" comment=""/>
+      <CAD id="C2" start="652" end="676" text="coronary artery disease." time="after DCT" indicator="mention" comment=""/>
+    </CAD>
+    <CAD id="DOC5" time="during DCT" indicator="mention">
+      <CAD id="C3" start="652" end="675" text="coronary artery disease" time="during DCT" indicator="mention" comment=""/>
+      <CAD id="C4" start="652" end="675" text="coronary artery disease" time="during DCT" indicator="mention" comment=""/>
+      <CAD id="C5" start="652" end="676" text="coronary artery disease." time="during DCT" indicator="mention" comment=""/>
+    </CAD>
+    <CAD id="DOC7" time="before DCT" indicator="mention">
+      <CAD id="C6" start="652" end="675" text="coronary artery disease" time="before DCT" indicator="mention" comment=""/>
+      <CAD id="C7" start="652" end="675" text="coronary artery disease" time="before DCT" indicator="mention" comment=""/>
+      <CAD id="C8" start="652" end="676" text="coronary artery disease." time="before DCT" indicator="mention" comment=""/>
+    </CAD>
+    <FAMILY_HIST id="DOC6" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC8" status="never">
+      <SMOKER id="S0" start="841" end="857" text="denies cigarette" status="never" comment=""/>
+      <SMOKER id="S1" start="838" end="867" text="He denies cigarette  smoking." status="never" comment=""/>
+      <SMOKER id="S2" start="838" end="867" text="He denies cigarette  smoking." status="never" comment=""/>
+    </SMOKER>
+    <DIABETES id="DOC1" time="during DCT" indicator="mention">
+      <DIABETES id="D0" start="621" end="629" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D1" start="621" end="629" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D2" start="621" end="629" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC3" time="before DCT" indicator="mention">
+      <DIABETES id="D3" start="621" end="629" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D4" start="621" end="629" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D5" start="621" end="629" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC4" time="after DCT" indicator="mention">
+      <DIABETES id="D6" start="621" end="629" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D7" start="621" end="629" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D8" start="621" end="629" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+  </TAGS>
+</root>

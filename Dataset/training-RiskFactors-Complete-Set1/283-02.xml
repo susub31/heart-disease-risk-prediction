@@ -1,0 +1,186 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2125-07-28
+
+
+
+
+
+
+
+HOLCOMB, DENNIS
+
+83312060
+
+07/28/2125
+
+
+
+
+
+HISTORY OF PRESENT ILLNESS:  Dennis Holcomb is a lovely 57-year-old gentleman with a past medical history notable for coronary artery disease, status post myocardial infarction with known ventricular tachycardia with AICD in place.  He continues to work at Alaska Air and has multiple family obligations which are stressful to him.  He has had no exertional neck, chest, arm, or jaw pain.  He has not felt his AICD fire.  He has had no lightheadedness or weakness.  He continues on atenolol, aspirin, folate, furosemide, insulin, lisinopril, simvastatin and Viagra.
+
+
+
+PHYSICAL EXAMINATION:  On exam today, his weight is 224, heart rate is 74 and blood pressure is 120/77.  There is no increase in jugular venous pressure.  Carotids are without bruits.  Lungs are clear to auscultation throughout.  Cardiovascular exam is notable for nondisplaced PMI, S1, physiologically split S2 with systolic ejection murmur and a soft holosystolic apical murmur.  Abdomen is soft, nontender, free of organomegaly and bruits.  Extremities are warm and free of edema with symmetric pulses, motor strength, and sensation.
+
+
+
+LABORATORY DATA:  EKG is notable for sinus with evidence of prior inferior myocardial infarction.
+
+
+
+ASSESSMENT AND PLAN:  In summary, Dennis has been doing well with respect to his blood pressure control and exercise.  Given his current levels of stress, we are going to change his atenolol to 100 mg in the morning and 50 mg at night, and I have encouraged him to get to a target weight of 190 this year, and I am making no other changes in his medical regimen.
+
+
+
+
+
+______________________________
+
+Evelyn Maxwell-Johnston, M.D.
+
+
+
+
+
+
+
+
+
+
+
+eScription document:5-3853809 IFFocus
+
+
+
+
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="during DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M0" start="607" end="617" text="lisinopril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M1" start="607" end="617" text="lisinopril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M2" start="607" end="617" text="lisinopril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC1" time="after DCT" type1="statin" type2="">
+      <MEDICATION id="M3" start="619" end="630" text="simvastatin" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M4" start="619" end="630" text="simvastatin" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M5" start="619" end="631" text="simvastatin " time="after DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC2" time="during DCT" type1="aspirin" type2="">
+      <MEDICATION id="M6" start="569" end="576" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M7" start="569" end="576" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M8" start="569" end="576" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC3" time="after DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M9" start="607" end="617" text="lisinopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M10" start="607" end="617" text="lisinopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M11" start="607" end="617" text="lisinopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC4" time="after DCT" type1="aspirin" type2="">
+      <MEDICATION id="M12" start="569" end="576" text="aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M13" start="569" end="576" text="aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M14" start="569" end="576" text="aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC5" time="after DCT" type1="insulin" type2="">
+      <MEDICATION id="M15" start="598" end="605" text="insulin" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M16" start="598" end="605" text="insulin" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M17" start="598" end="605" text="insulin" time="after DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC6" time="after DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M18" start="559" end="567" text="atenolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M19" start="559" end="567" text="atenolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M20" start="559" end="567" text="atenolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <SMOKER id="DOC7" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" status="unknown"/>
+      <SMOKER id="S2" start="3" end="9" text="Record" status="unknown" comment=""/>
+    </SMOKER>
+    <CAD id="DOC8" time="after DCT" indicator="mention">
+      <CAD id="C0" start="195" end="218" text="coronary artery disease" time="after DCT" indicator="mention" comment=""/>
+      <CAD id="C1" start="195" end="218" text="coronary artery disease" time="after DCT" indicator="mention" comment=""/>
+      <CAD id="C2" start="195" end="218" text="coronary artery disease" time="after DCT" indicator="mention" comment=""/>
+    </CAD>
+    <MEDICATION id="DOC9" time="before DCT" type1="statin" type2="">
+      <MEDICATION id="M21" start="619" end="630" text="simvastatin" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M22" start="619" end="630" text="simvastatin" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M23" start="619" end="631" text="simvastatin " time="before DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC10" time="during DCT" type1="statin" type2="">
+      <MEDICATION id="M24" start="619" end="630" text="simvastatin" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M25" start="619" end="630" text="simvastatin" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M26" start="619" end="631" text="simvastatin " time="during DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <FAMILY_HIST id="DOC11" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <MEDICATION id="DOC12" time="before DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M27" start="607" end="617" text="lisinopril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M28" start="607" end="617" text="lisinopril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M29" start="607" end="617" text="lisinopril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <CAD id="DOC13" time="during DCT" indicator="mention">
+      <CAD id="C3" start="195" end="218" text="coronary artery disease" time="during DCT" indicator="mention" comment=""/>
+      <CAD id="C4" start="195" end="218" text="coronary artery disease" time="during DCT" indicator="mention" comment=""/>
+      <CAD id="C5" start="195" end="218" text="coronary artery disease" time="during DCT" indicator="mention" comment=""/>
+    </CAD>
+    <MEDICATION id="DOC14" time="before DCT" type1="aspirin" type2="">
+      <MEDICATION id="M30" start="569" end="576" text="aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M31" start="569" end="576" text="aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M32" start="569" end="576" text="aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC15" time="before DCT" type1="insulin" type2="">
+      <MEDICATION id="M33" start="598" end="605" text="insulin" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M34" start="598" end="605" text="insulin" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M35" start="598" end="605" text="insulin" time="before DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <CAD id="DOC16" time="before DCT" indicator="event">
+      <CAD id="C6" start="220" end="253" text="status post myocardial infarction" time="before DCT" indicator="event" comment=""/>
+      <CAD id="C7" start="1246" end="1282" text="prior inferior myocardial infarction" time="before DCT" indicator="event" comment=""/>
+      <CAD id="C8" start="232" end="253" text="myocardial infarction" time="before DCT" indicator="event" comment=""/>
+      <CAD id="C9" start="232" end="253" text="myocardial infarction" time="before DCT" indicator="event" comment=""/>
+    </CAD>
+    <MEDICATION id="DOC17" time="during DCT" type1="insulin" type2="">
+      <MEDICATION id="M36" start="598" end="605" text="insulin" time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M37" start="598" end="605" text="insulin" time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M38" start="598" end="605" text="insulin" time="during DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC18" time="before DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M39" start="559" end="567" text="atenolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M40" start="559" end="567" text="atenolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M41" start="559" end="567" text="atenolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC19" time="during DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M42" start="559" end="567" text="atenolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M43" start="1469" end="1477" text="atenolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M44" start="559" end="567" text="atenolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M45" start="559" end="567" text="atenolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <CAD id="DOC20" time="before DCT" indicator="mention">
+      <CAD id="C10" start="195" end="218" text="coronary artery disease" time="before DCT" indicator="mention" comment=""/>
+      <CAD id="C11" start="195" end="218" text="coronary artery disease" time="before DCT" indicator="mention" comment=""/>
+      <CAD id="C12" start="195" end="218" text="coronary artery disease" time="before DCT" indicator="mention" comment=""/>
+    </CAD>
+    <PHI id="P0" start="16" end="26" text="2125-07-28" TYPE="DATE"/>
+    <PHI id="P1" start="34" end="49" text="HOLCOMB, DENNIS" TYPE="PATIENT"/>
+    <PHI id="P2" start="51" end="59" text="83312060" TYPE="MEDICALRECORD"/>
+    <PHI id="P3" start="61" end="71" text="07/28/2125" TYPE="DATE"/>
+    <PHI id="P4" start="106" end="120" text="Dennis Holcomb" TYPE="PATIENT"/>
+    <PHI id="P5" start="133" end="135" text="57" TYPE="AGE"/>
+    <PHI id="P6" start="334" end="344" text="Alaska Air" TYPE="ORGANIZATION"/>
+    <PHI id="P7" start="1321" end="1327" text="Dennis" TYPE="PATIENT"/>
+    <PHI id="P8" start="1687" end="1710" text="Evelyn Maxwell-Johnston" TYPE="DOCTOR"/>
+    <PHI id="P9" start="1748" end="1757" text="5-3853809" TYPE="IDNUM"/>
+  </TAGS>
+</root>

@@ -1,0 +1,148 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2094-12-09
+
+                     RAH EMERGENCY DEPT VISIT
+ 
+DUVALL,BRADY C   425-03-15-1                 VISIT DATE: 12/09/94
+PRESENTING COMPLAINT and HISTORY OF PRESENTING COMPLAINT:  The 
+patient is a 72-year-old gentleman who presents to the Emergency 
+Department.  He reports nightly fevers.  He is two week status post 
+AICD replacement.  He feels this is a malaria exacerbation.  The 
+patient had malaria in Cambodia, and reports he did not have 
+treatment.  His past medical history is also positive for 
+non-insulin-dependent diabetes mellitus, aortic valve replacement 
+with a porcine valve, and ventricular fibrillation.  He is on 
+Glucophage and aspirin.  He has no known drug allergies.  The 
+patient feels well.  He says that each night he gets fever up to 
+101 degrees F., although it is not that high each night.  The 
+patient's past medical history is also significant for CAD, with an 
+MI in 2092 and ventricular tachycardia in 2086.  His AICD was 
+re-done two weeks ago.  He had a triple-A repair in 2089.  He has a 
+history of gout. 
+PHYSICAL EXAMINATION:  The patient is well-appearing now, with a 
+temperature of 97 degrees F., a pulse of 58, a respiratory rate of 
+18 and unlabored, a blood pressure of 110/80, and a room air 
+saturation of 96%.  The HEENT examination is negative.  The lungs 
+are clear.  The heart has a regular rhythm.  The abdomen is soft 
+and non-tender.  The patient appears quite well. 
+LABORATORY EVALUATION:  Blood cultures are done. 
+THERAPY RENDERED/COURSE IN ED:  The patient's primary care 
+physician is contacted and will follow up with the patient.  the 
+patient's white blood cell count is 6.  His hematocrit is 40.  His 
+potassium is 4.9, his BUN 19, and his creatinine 0.9.  The 
+urinalysis is negative for infection.  He has no pulmonary 
+infection evident.  There are no ischemic changes on his EKG.  The 
+patient appears to be doing well after the AICD replacement.  The 
+AICD has not had to fire. 
+FINAL DIAGNOSIS:  Nightly fevers, etiology uncertain. 
+DISPOSITION (including condition upon discharge):  The patient is 
+discharged in good condition to careful outpatient followup. 
+___________________________________                    IL050/525 
+IKECHUKWU SPEARS, M.D.  IS25                                D:12/09/94 
+                                                       T:12/09/94 
+Dictated by:  IKECHUKWU SPEARS, M.D.  IS25 
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <CAD id="DOC0" time="before DCT" indicator="mention">
+      <CAD id="C0" start="905" end="908" text="CAD" time="before DCT" indicator="mention" comment=""/>
+      <CAD id="C1" start="905" end="908" text="CAD" time="before DCT" indicator="mention" comment=""/>
+      <CAD id="C2" start="905" end="908" text="CAD" time="before DCT" indicator="mention" comment=""/>
+    </CAD>
+    <MEDICATION id="DOC1" time="during DCT" type1="aspirin" type2="">
+      <MEDICATION id="M0" start="673" end="682" text="aspirin. " time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M1" start="673" end="680" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M2" start="673" end="680" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <CAD id="DOC2" time="before DCT" indicator="event">
+      <CAD id="C3" start="919" end="921" text="MI" time="before DCT" indicator="event" comment=""/>
+      <CAD id="C4" start="919" end="930" text="MI in 2092 " time="before DCT" indicator="event" comment=""/>
+      <CAD id="C5" start="919" end="921" text="MI" time="before DCT" indicator="event" comment=""/>
+    </CAD>
+    <MEDICATION id="DOC3" time="before DCT" type1="metformin" type2="">
+      <MEDICATION id="M3" start="658" end="668" text="Glucophage" time="before DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M4" start="658" end="668" text="Glucophage" time="before DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M5" start="658" end="669" text="Glucophage " time="before DCT" type1="metformin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC4" time="during DCT" type1="metformin" type2="">
+      <MEDICATION id="M6" start="658" end="668" text="Glucophage" time="during DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M7" start="658" end="668" text="Glucophage" time="during DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M8" start="658" end="669" text="Glucophage " time="during DCT" type1="metformin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC5" time="before DCT" type1="aspirin" type2="">
+      <MEDICATION id="M9" start="673" end="682" text="aspirin. " time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M10" start="673" end="680" text="aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M11" start="673" end="680" text="aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <DIABETES id="DOC6" time="before DCT" indicator="mention">
+      <DIABETES id="D0" start="528" end="567" text="non-insulin-dependent diabetes mellitus" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D1" start="550" end="567" text="diabetes mellitus" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D2" start="550" end="558" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <MEDICATION id="DOC7" time="after DCT" type1="metformin" type2="">
+      <MEDICATION id="M12" start="658" end="668" text="Glucophage" time="after DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M13" start="658" end="668" text="Glucophage" time="after DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M14" start="658" end="669" text="Glucophage " time="after DCT" type1="metformin" type2="" comment=""/>
+    </MEDICATION>
+    <DIABETES id="DOC8" time="after DCT" indicator="mention">
+      <DIABETES id="D3" start="528" end="567" text="non-insulin-dependent diabetes mellitus" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D4" start="550" end="567" text="diabetes mellitus" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D5" start="550" end="558" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <CAD id="DOC9" time="during DCT" indicator="mention">
+      <CAD id="C6" start="905" end="908" text="CAD" time="during DCT" indicator="mention" comment=""/>
+      <CAD id="C7" start="905" end="908" text="CAD" time="during DCT" indicator="mention" comment=""/>
+      <CAD id="C8" start="905" end="908" text="CAD" time="during DCT" indicator="mention" comment=""/>
+    </CAD>
+    <MEDICATION id="DOC10" time="after DCT" type1="aspirin" type2="">
+      <MEDICATION id="M15" start="673" end="682" text="aspirin. " time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M16" start="673" end="680" text="aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M17" start="673" end="680" text="aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <FAMILY_HIST id="DOC11" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC12" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" status="unknown"/>
+      <SMOKER id="S2" start="3" end="9" text="Record" status="unknown" comment=""/>
+    </SMOKER>
+    <CAD id="DOC13" time="after DCT" indicator="mention">
+      <CAD id="C9" start="905" end="908" text="CAD" time="after DCT" indicator="mention" comment=""/>
+      <CAD id="C10" start="905" end="908" text="CAD" time="after DCT" indicator="mention" comment=""/>
+      <CAD id="C11" start="905" end="908" text="CAD" time="after DCT" indicator="mention" comment=""/>
+    </CAD>
+    <DIABETES id="DOC14" time="during DCT" indicator="mention">
+      <DIABETES id="D6" start="528" end="567" text="non-insulin-dependent diabetes mellitus" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D7" start="550" end="567" text="diabetes mellitus" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D8" start="550" end="558" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <PHI id="P0" start="16" end="26" text="2094-12-09" TYPE="DATE"/>
+    <PHI id="P1" start="49" end="52" text="RAH" TYPE="HOSPITAL"/>
+    <PHI id="P2" start="76" end="90" text="DUVALL,BRADY C" TYPE="PATIENT"/>
+    <PHI id="P3" start="93" end="104" text="425-03-15-1" TYPE="MEDICALRECORD"/>
+    <PHI id="P4" start="133" end="141" text="12/09/94" TYPE="DATE"/>
+    <PHI id="P5" start="219" end="221" text="72" TYPE="AGE"/>
+    <PHI id="P6" start="430" end="438" text="Cambodia" TYPE="COUNTRY"/>
+    <PHI id="P7" start="925" end="929" text="2092" TYPE="DATE"/>
+    <PHI id="P8" start="961" end="965" text="2086" TYPE="DATE"/>
+    <PHI id="P9" start="1034" end="1038" text="2089" TYPE="DATE"/>
+    <PHI id="P10" start="2213" end="2222" text="IL050/525" TYPE="IDNUM"/>
+    <PHI id="P11" start="2224" end="2240" text="IKECHUKWU SPEARS" TYPE="DOCTOR"/>
+    <PHI id="P12" start="2248" end="2252" text="IS25" TYPE="USERNAME"/>
+    <PHI id="P13" start="2286" end="2294" text="12/09/94" TYPE="DATE"/>
+    <PHI id="P14" start="2353" end="2361" text="12/09/94" TYPE="DATE"/>
+    <PHI id="P15" start="2377" end="2393" text="IKECHUKWU SPEARS" TYPE="DOCTOR"/>
+    <PHI id="P16" start="2401" end="2405" text="IS25" TYPE="USERNAME"/>
+  </TAGS>
+</root>

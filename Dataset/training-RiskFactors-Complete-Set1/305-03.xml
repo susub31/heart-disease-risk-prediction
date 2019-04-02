@@ -1,0 +1,127 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2087-03-01
+
+ Patient here for f/u COPD. Patient has d/c'd theophylline and feels he was breathing somewhat better when he took that med. C/o inability to lose weight. Declines nutrition referral. Reports that overall his breathing is significantly improved and especially feels that inhaled steroid has been effective. Reports he is doing pulmonary rehad and it is going well. He plans to continue in the exercise program there when rehab is completed.
+
+Allergies
+Sulfa - rash, 
+Ace Inhibitor - Unknown
+DAPSONE - rash, 
+Ganciclovir Sodium - Unknown : Allergy entered as GANCICLOVIR 
+GANCICLOVIR - Unknown
+TRIMETHOPRIM/SULFAMETHOXAZOLE - Rash, 
+
+Medications
+Albuterol AND IPRATROPIUM NEBULIZER 3 MG (2.5-0.5/3 SOLUTION ) NEB QID PRN 
+Combivent (IPRATROPIUM AND ALBUTEROL SULFATE) 2 PUFF INH QID PRN 
+Ecasa (ASPIRIN ENTERIC COATED) 325MG TABLET EC take 1 Tablet(s) PO QD 
+Folate (FOLIC ACID) 1MG TABLET take 1 Tablet(s) PO QD 
+Lopressor (METOPROLOL TARTRATE) 50MG TABLET take 1 Tablet(s) PO BID 
+Magnesium GLUCONATE 200MG TABLET take 2 Tablet(s) PO QD 
+Pulmicort TURBUHALER (BUDESONIDE ORAL INHALER) 1 PUFF INH BID 
+Serevent DISKUS (SALMETEROL DISKUS) 1 PUFF INH BID , 50mcg
+Simvastatin 20 MG (20MG TABLET take 1) PO QHS 
+Vitamin B12 (CYANOCOBALAMIN) 50MCG TABLET take 1 Tablet(s) PO QD 
+Vitamin B6 (PYRIDOXINE HCL) 50MG TABLET take 1 Tablet(s) PO QD 
+
+Allergies
+Sulfa - rash, 
+Ace Inhibitor - Unknown
+DAPSONE - rash, 
+Ganciclovir Sodium - Unknown : Allergy entered as GANCICLOVIR 
+GANCICLOVIR - Unknown
+TRIMETHOPRIM/SULFAMETHOXAZOLE - Rash, 
+
+Allergies
+Sulfa - rash, 
+Ace Inhibitor - Unknown
+DAPSONE - rash, 
+Ganciclovir Sodium - Unknown : Allergy entered as GANCICLOVIR 
+GANCICLOVIR - Unknown
+TRIMETHOPRIM/SULFAMETHOXAZOLE - Rash, 
+
+
+EXAM NAD 
+
+Vital Signs
+BP 118/76, P 76, Temp 96.7 F, Wt 258 lb
+Lungs clear to P&A. Cor S1S2 reg rhythm S1S2  wnl w/o S3S4 m/g/r.
+
+IMP: COPD improving on current regimen
+
+PLAN: Increase Pulmicort to 2 puffs bid. Refer for repeat PFTs pre and post bronchodilators now that exacerbation has resolved. 
+RTC for fasting labs:
+
+Orders
+80053 Comprehensive Metabolic Panel
+80061 Lipid Panel
+83036 Hemoglobin A1C
+84443 TSH 
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="before DCT" type1="statin" type2="">
+      <MEDICATION id="M0" start="1189" end="1200" text="Simvastatin" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M1" start="1189" end="1200" text="Simvastatin" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M2" start="1189" end="1200" text="Simvastatin" time="before DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC1" time="during DCT" type1="statin" type2="">
+      <MEDICATION id="M3" start="1189" end="1200" text="Simvastatin" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M4" start="1189" end="1200" text="Simvastatin" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M5" start="1189" end="1200" text="Simvastatin" time="during DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC2" time="during DCT" type1="aspirin" type2="">
+      <MEDICATION id="M6" start="815" end="820" text="Ecasa" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M7" start="815" end="845" text="Ecasa (ASPIRIN ENTERIC COATED)" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M8" start="822" end="844" text="ASPIRIN ENTERIC COATED" time="during DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC3" time="after DCT" type1="statin" type2="">
+      <MEDICATION id="M9" start="1189" end="1200" text="Simvastatin" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M10" start="1189" end="1200" text="Simvastatin" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M11" start="1189" end="1200" text="Simvastatin" time="after DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC4" time="after DCT" type1="aspirin" type2="">
+      <MEDICATION id="M12" start="815" end="820" text="Ecasa" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M13" start="815" end="845" text="Ecasa (ASPIRIN ENTERIC COATED)" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M14" start="822" end="844" text="ASPIRIN ENTERIC COATED" time="after DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC5" time="before DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M15" start="941" end="950" text="Lopressor" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M16" start="941" end="972" text="Lopressor (METOPROLOL TARTRATE)" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M17" start="941" end="950" text="Lopressor" time="before DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC6" time="before DCT" type1="aspirin" type2="">
+      <MEDICATION id="M18" start="815" end="820" text="Ecasa" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M19" start="815" end="845" text="Ecasa (ASPIRIN ENTERIC COATED)" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M20" start="822" end="844" text="ASPIRIN ENTERIC COATED" time="before DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC7" time="after DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M21" start="941" end="950" text="Lopressor" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M22" start="941" end="972" text="Lopressor (METOPROLOL TARTRATE)" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M23" start="941" end="950" text="Lopressor" time="after DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <SMOKER id="DOC8" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" status="unknown"/>
+      <SMOKER id="S2" status="unknown"/>
+    </SMOKER>
+    <MEDICATION id="DOC9" time="during DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M24" start="941" end="950" text="Lopressor" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M25" start="941" end="972" text="Lopressor (METOPROLOL TARTRATE)" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M26" start="941" end="950" text="Lopressor" time="during DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <FAMILY_HIST id="DOC10" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <PHI id="P0" start="16" end="26" text="2087-03-01" TYPE="DATE"/>
+  </TAGS>
+</root>

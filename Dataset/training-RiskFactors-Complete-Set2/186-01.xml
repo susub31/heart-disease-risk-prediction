@@ -1,0 +1,207 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2126-01-29
+
+Personal Data and Overall Health	
+
+53 year old male scheduled for surgery on February 6th.
+
+
+
+Chief Complaint	
+
+The patient is scheduled for left total hip replacement.
+
+
+
+History of Present Illness	
+
+The patient complains of pain of left hip secondary to osteoarthritis.
+
+
+
+Past Surgical History	
+
+Prior surgery includes:  none
+
+
+
+Family History	
+
+There in no family history of adverse reactions to general anesthesia.
+
+
+
+Past Medical History	
+
+Current medical problems include:  obesity
+
+
+
+Social History	
+
+Smoking: no
+
+Alcohol use: 3-4beers/day
+
+Substance abuse: none
+
+Allergen Exposure within 3 Months (blood/pregnancy/surgery):  none
+
+
+
+Review of Systems	
+
+Medications: Celebrex, Vicodin
+
+Allergies:  penicillin cause swelling and difficulty breathing
+
+Cardiovascular:  no history of hypertension, no MI; denies CP, DOE, syncope, ankle edema
+
+Respiratory: no history of asthma or chronic lung disease; denies unusual shortness of breath
+
+Neurological: no history of neurological problems
+
+Gastrointestinal: no history of PUD; denies reflux
+
+Hepatobiliary: no history of liver disease; denies jaundice or hepatitis
+
+Renal/Genitourinary: no history of renal failure; denies hematuria, dysuria, obstructive uropathy
+
+Musculoskeletal: pain of left hip
+
+Endocrine/metabolic: no history of diabetes, no endocrinopathy 
+
+Heme/Onc:  no history of bleeding, blood diseases; no history of malignancy, chemotherapy, or radiation therapy
+
+Psychiatric: no significant psychiatric problems
+
+
+
+
+
+Exam	
+
+SaO2:97
+
+Ht:5'11"
+
+Wt:312
+
+BP:142/79
+
+P:84
+
+
+
+HEEN&T:  good range of motion, no masses, neck veins flat, no bruits
+
+Airway:  Mallampatti Class II
+
+Teeth:  in good repair
+
+Lungs:  clear bilaterally
+
+Heart:  regular rhythm, no murmurs, S1=S2, no gallop
+
+Abdomen:  not examined
+
+Extremities:  not examined
+
+
+
+Assessment	
+
+ASA Physical Status:  II
+
+Well prepared for surgery; no unusual concerns related to medical problems.
+
+
+
+Plan	
+
+Proposed Anesthetic: spinal or general anesthesia
+
+Monitors:  standard
+
+Pain Management:  IVPCA
+
+Autologous blood:  none
+
+Premedication:  none
+
+Usual Medications:  take on day of surgery
+
+Medications to be held on day of surgery:  none
+
+Diabetic medications:  not applicable
+
+NSAIDS:  avoid for 3 days before surgery
+
+Aspirin:  avoid for 7 days before surgery
+
+NPO: after midnight 
+
+
+
+External Labs	
+
+Not available
+
+
+
+Attending Anesthesiologist Reassessment Note	
+
+I have reviewed this preanesthetic assessment and concur with the assessment and recommended plan with the following exceptions:
+
+
+
+
+
+
+
+______________________________                              
+
+
+
+Patton, Chong, M.D.
+
+
+
+]]></TEXT>
+  <TAGS>
+    <OBESE id="DOC0" time="after DCT" indicator="mention">
+      <OBESE id="O0" start="509" end="516" text="obesity" time="after DCT" indicator="mention" comment=""/>
+      <OBESE id="O1" start="509" end="516" text="obesity" time="after DCT" indicator="mention" comment=""/>
+      <OBESE id="O2" start="509" end="516" text="obesity" time="after DCT" indicator="mention" comment=""/>
+    </OBESE>
+    <OBESE id="DOC2" time="during DCT" indicator="mention">
+      <OBESE id="O3" start="509" end="516" text="obesity" time="during DCT" indicator="mention" comment=""/>
+      <OBESE id="O4" start="509" end="516" text="obesity" time="during DCT" indicator="mention" comment=""/>
+      <OBESE id="O5" start="509" end="516" text="obesity" time="during DCT" indicator="mention" comment=""/>
+    </OBESE>
+    <OBESE id="DOC3" time="before DCT" indicator="mention">
+      <OBESE id="O6" start="509" end="516" text="obesity" time="before DCT" indicator="mention" comment=""/>
+      <OBESE id="O7" start="509" end="516" text="obesity" time="before DCT" indicator="mention" comment=""/>
+      <OBESE id="O8" start="509" end="516" text="obesity" time="before DCT" indicator="mention" comment=""/>
+    </OBESE>
+    <HYPERTENSION id="DOC1" time="during DCT" indicator="high bp">
+      <HYPERTENSION id="H0" start="1551" end="1557" text="142/79" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H1" start="1548" end="1557" text="BP:142/79" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H2" start="1548" end="1557" text="BP:142/79" time="during DCT" indicator="high bp" comment=""/>
+    </HYPERTENSION>
+    <FAMILY_HIST id="DOC4" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC5" status="never">
+      <SMOKER id="S0" start="536" end="548" text=" Smoking: no" status="never" comment=""/>
+      <SMOKER id="S1" start="537" end="548" text="Smoking: no" status="never" comment=""/>
+      <SMOKER id="S2" start="537" end="548" text="Smoking: no" status="never" comment=""/>
+    </SMOKER>
+  </TAGS>
+</root>

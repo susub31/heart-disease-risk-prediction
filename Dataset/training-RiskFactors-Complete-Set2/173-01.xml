@@ -1,0 +1,183 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2072-01-25
+
+Patient Name: NARVAEZ, OTIS;  MRN: 6680255
+Dictated at: 01/25/72 by HOLLAND KELLER, M.D. 
+
+ 
+ 
+ 
+PRIMARY CARE PHYSICIAN:  
+Dr. Hayden Avery 
+ 
+REFERRAL SOURCE:  
+Above.  
+ 
+CONSULTATION REPLY 
+ 
+Thank you for sending this patient for neurologic consultation.  I have reviewed or collected the primary data and examined the patient personally.  
+ 
+CHIEF COMPLAINT:  62 year-old left handed white male (crossed right handed for writing), with bilateral buttock burning dysesthesias radiating down both lateral lower extremities.   
+HISTORY OF PRESENT ILLNESS:  The patient is a 62 year-old man with a history of diabetes, hyperlipidemia, asthma, hypertension, attention deficit disorder, diabetic neuropathy and obesity who developed two years of gradually progressive discomfort in the lower extremities.  He has gained 40 pounds over the past two years and over that time course has noted that when he stands after about a minute he gets a firing burning pain in the left buttock just lateral to the spine which then radiates down the lateral aspect of the left leg.  If he shifts to his right leg, he gets a similar discomfort one or two minutes later.  This is relieved by sitting.  It will happen when walking as well.  This is distinct from the decrease in sensation and the tingling and cold feeling he gets in his feet due to the diabetic neuropathy.  He has had no back trauma, although he has a torn right ACL in the knee which leads to occasional falls.  Of note, he wears his wallet in his left rear pocket and tightens his belt to keep it at his waist.  
+ 
+PAST MEDICAL HISTORY:  The past medical history is as above and also includes a superficial varicosity in the right mid calf.   
+ALLERGIES:  Sulfa, contrast medium, Ambien.  
+ 
+FAMILY HISTORY:  Non-contributory.  
+ 
+CURRENT MEDICATIONS:  Hytrin, Cozaar 50 mg q. day, Ritalin 20 mg five times per day, glucophage 10 mg t.i.d., Rezulin 400 mg t.i.d., Neurontin 600 mg q.h.s. and Selexa.  
+ 
+SOCIAL HISTORY:  He is getting divorced and has four grown children all in good health.  
+ 
+BIRTH HISTORY:  He was born with hammer toes and no other family member has this condition.  
+ 
+EDUCATION:  He is a Consultant who works in Dupont.  
+ 
+SOCIAL HISTORY:  He has limited exercise and diet.  He has 30+ year history of cigarette smoking and has has no cigarettes in the last six weeks.  He denies alcohol use or recent recreational drug use.  He has no HIV risk factors.  
+ 
+REVIEW OF SYSTEMS:  System review reveals normal bowel function with frequent small volume urination.  He attributes this to his Ritalin use and has not seen a urologist.  He has difficulty achieving and maintaining an erection and had only minimal improvement with Viagra.  When walking he develops some symptoms of claudication which were immediately relieved by resting.  There is no cardiovascular, respiratory or constitutional symptoms.  
+ 
+PHYSICAL EXAMINATION:  General: healthy appearance with a blood pressure of 175/90 in the left arm seated.  Pulse of 60 and regular.  Carotids 2+ without bruits.  Mental status:  Unremarkable.  Cranial nerves:  immature cataract, o.s.  No evidence of retinopathy.  
+ 
+Motor:  normal tone and full strength in upper limbs.  Mild 5-/5 weakness in ankle extension bilaterally.  Mild distal atrophy in the foot intrinsics.  Rapid alternating movements intact.   
+Sensation:  decreased to vibration and joint position in the feet bilaterally.  Mild decrease to pin over the medial nerve distribution on the right hand.  
+ 
+The muscle stretch reflexes are absent at the Achilles and 1+ at the patellar, brachial radialis, biceps and triceps with flexor, plantar responses.  Finger to nose is accurate in both arms.  Gait is steady but distorted by the knee injury and slightly wide based.  He has a decreased tandem but can heel walk.  He has minimal unsteadiness in the Romberg position.  
+ 
+DATA REVIEW:  MR imaging of the lumbosacral spine was performed at Carolinas Medical Center-Mercy and then again several days later at Regional Medical Center Bayonet Point (860-721-0108).  Report and films reviewed from Carolinas Medical Center-Mercy demonstrate no obvious focal disc herniation or spinal stenosis but some of the views are suboptimal.  The summary report from Bayonet Point suggests there may be some lumbosacral spinal stenosis and I await faxed copy of that report.  
+ 
+ASSESSMENT:  
+1.  Neuropathy.  The patient has likely multifactorial reasons for his lumbar spine pain.  He did undergo an evaluation by Dr.  Ulysses Harding which is unavailable at this time and one cortisone injection which was not effective at relieving his discomfort.  He likely has a combination of diabetic peripheral neuropathy, sciatic neuropathy and possible lumbosacral spinal stenosis or polyradiculopathy.  There is no evidence of diabetic amyotrophy.  I think at this point, an EMG with nerve conduction studies will be most helpful to identify the relevant contributions of these different factors.  I have also suggested that he invest in suspenders and carry his wallet in a different pocket to see if this will provide some relief.  He has tried a course of non steroidals without effect and I think I would like to begin with a low dose of amitriptyline as a neuropathic pain agent to supplement the Neurontin that he is on for other indications.  I will see him back in the office after the EMG has been performed and I have had a chance to review the MR imaging.  
+ 
+Thank you for sending him to my office, it is a pleasure taking care of this gentleman and I am hopeful that we will be able to reduce his discomfort to some degree.  
+ 
+The risks and benefits of any recommended or alternative treatments were discussed.  
+ 
+DIAGNOSTIC CODE/LEVEL:  C5/peripheral neuropathy.  
+ 
+ 
+_______________________________ 
+Holland Keller, M.D.  
+ 
+ 
+ 
+DD:01/25/72 
+DT:01/25/72 
+TD:5969:032 
+ 
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <HYPERLIPIDEMIA id="DOC5" time="before DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY0" start="648" end="662" text="hyperlipidemia" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY1" start="648" end="662" text="hyperlipidemia" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY2" start="648" end="662" text="hyperlipidemia" time="before DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <HYPERLIPIDEMIA id="DOC7" time="during DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY3" start="648" end="662" text="hyperlipidemia" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY4" start="648" end="662" text="hyperlipidemia" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY5" start="648" end="662" text="hyperlipidemia" time="during DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <HYPERLIPIDEMIA id="DOC14" time="after DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY6" start="648" end="662" text="hyperlipidemia" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY7" start="648" end="662" text="hyperlipidemia" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY8" start="648" end="662" text="hyperlipidemia" time="after DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <OBESE id="DOC1" time="after DCT" indicator="mention">
+      <OBESE id="O0" start="738" end="745" text="obesity" time="after DCT" indicator="mention" comment=""/>
+      <OBESE id="O1" start="738" end="745" text="obesity" time="after DCT" indicator="mention" comment=""/>
+      <OBESE id="O2" start="738" end="745" text="obesity" time="after DCT" indicator="mention" comment=""/>
+    </OBESE>
+    <OBESE id="DOC13" time="before DCT" indicator="mention">
+      <OBESE id="O3" start="738" end="745" text="obesity" time="before DCT" indicator="mention" comment=""/>
+      <OBESE id="O4" start="738" end="745" text="obesity" time="before DCT" indicator="mention" comment=""/>
+      <OBESE id="O5" start="738" end="745" text="obesity" time="before DCT" indicator="mention" comment=""/>
+    </OBESE>
+    <OBESE id="DOC15" time="during DCT" indicator="mention">
+      <OBESE id="O6" start="738" end="745" text="obesity" time="during DCT" indicator="mention" comment=""/>
+      <OBESE id="O7" start="738" end="745" text="obesity" time="during DCT" indicator="mention" comment=""/>
+      <OBESE id="O8" start="738" end="745" text="obesity" time="during DCT" indicator="mention" comment=""/>
+    </OBESE>
+    <MEDICATION id="DOC0" time="after DCT" type1="metformin" type2="">
+      <MEDICATION id="M0" start="1897" end="1907" text="glucophage" time="after DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M1" start="1897" end="1907" text="glucophage" time="after DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M2" start="1897" end="1907" text="glucophage" time="after DCT" type1="metformin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC2" time="during DCT" type1="metformin" type2="">
+      <MEDICATION id="M3" start="1897" end="1907" text="glucophage" time="during DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M4" start="1897" end="1907" text="glucophage" time="during DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M5" start="1897" end="1907" text="glucophage" time="during DCT" type1="metformin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC10" time="after DCT" type1="ARB" type2="">
+      <MEDICATION id="M6" start="1842" end="1848" text="Cozaar" time="after DCT" type1="ARB" type2="" comment=""/>
+      <MEDICATION id="M7" start="1842" end="1848" text="Cozaar" time="after DCT" type1="ARB" type2="" comment=""/>
+      <MEDICATION id="M8" start="1842" end="1848" text="Cozaar" time="after DCT" type1="ARB" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC12" time="before DCT" type1="metformin" type2="">
+      <MEDICATION id="M9" start="1897" end="1907" text="glucophage" time="before DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M10" start="1897" end="1907" text="glucophage" time="before DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M11" start="1897" end="1907" text="glucophage" time="before DCT" type1="metformin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC19" time="during DCT" type1="ARB" type2="">
+      <MEDICATION id="M12" start="1842" end="1848" text="Cozaar" time="during DCT" type1="ARB" type2="" comment=""/>
+      <MEDICATION id="M13" start="1842" end="1848" text="Cozaar" time="during DCT" type1="ARB" type2="" comment=""/>
+      <MEDICATION id="M14" start="1842" end="1848" text="Cozaar" time="during DCT" type1="ARB" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC20" time="before DCT" type1="ARB" type2="">
+      <MEDICATION id="M15" start="1842" end="1848" text="Cozaar" time="before DCT" type1="ARB" type2="" comment=""/>
+      <MEDICATION id="M16" start="1842" end="1848" text="Cozaar" time="before DCT" type1="ARB" type2="" comment=""/>
+      <MEDICATION id="M17" start="1842" end="1848" text="Cozaar" time="before DCT" type1="ARB" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC4" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="672" end="684" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="672" end="684" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H2" start="672" end="684" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC8" time="during DCT" indicator="high bp">
+      <HYPERTENSION id="H3" start="2969" end="2993" text="blood pressure of 175/90" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H4" start="2968" end="2993" text=" blood pressure of 175/90" time="during DCT" indicator="high bp" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC11" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H5" start="672" end="684" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H6" start="672" end="684" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H7" start="672" end="684" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC16" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H8" start="672" end="684" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H9" start="672" end="684" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H10" start="672" end="684" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <FAMILY_HIST id="DOC17" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC3" status="past">
+      <SMOKER id="S0" start="2288" end="2373" text="30+ year history of cigarette smoking and has has no cigarettes in the last six weeks" status="past" comment=""/>
+      <SMOKER id="S1" start="2296" end="2325" text=" history of cigarette smoking" status="past" comment=""/>
+      <SMOKER id="S2" start="2338" end="2373" text="no cigarettes in the last six weeks" status="past" comment=""/>
+    </SMOKER>
+    <DIABETES id="DOC6" time="during DCT" indicator="mention">
+      <DIABETES id="D0" start="638" end="646" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D1" start="638" end="646" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D2" start="638" end="646" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC9" time="before DCT" indicator="mention">
+      <DIABETES id="D3" start="638" end="646" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D4" start="638" end="646" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D5" start="638" end="646" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC18" time="after DCT" indicator="mention">
+      <DIABETES id="D6" start="638" end="646" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D7" start="638" end="646" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D8" start="638" end="646" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+  </TAGS>
+</root>

@@ -1,0 +1,271 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2077-08-04
+
+EDVISIT^42817774^AARON, JEAN^08/04/77^VALENTIN, IDA
+
+CHIEF COMPLAINT:  Status post fall, right shoulder pain.
+
+I saw the patient with Dr. Andrew Newhouse.  Please see his note for
+
+further details.  I confirm that I have interviewed and examined
+
+the patient, reviewed the resident's documentation, and discussed
+
+the evaluation, plan of care, and disposition with the patient.
+
+HISTORY OF PRESENT ILLNESS:  The patient is a 63-year-old female
+
+who presents after mechanical trip and follow at work today and
+
+hit her forehead.  No loss of consciousness, no headache, no
+
+visual changes, no upper or lower extremities, paresthesias or
+
+weakness.  She fell onto her right shoulder, is complaining about
+
+pain at that area.  No focal weakness, no neck pain, no back
+
+pain, no chest pain, shortness of breath, no belly pain.
+
+PAST MEDICAL HISTORY:  Hypertension, diabetes,
+
+hypercholesterolemia, neuropathy, and diverticulitis.
+
+MEDICATIONS:  Currently on Novolog, verapamil, lisinopril,
+
+amitriptyline, and aspirin.
+
+ALLERGIES:  No known allergies
+
+SOCIAL HISTORY:  One pack per day smoker and does not drink.  She
+
+denies IV drug use.  She lives alone.
+
+FAMILY HISTORY:  Noncontributory.
+
+REVIEW OF SYSTEMS:  As per resident's note and my HPI.
+
+PHYSICAL EXAMINATION:  She is awake, alert, and nontoxic but does
+
+appear uncomfortable.  Afebrile, vital signs are notable for a
+
+blood pressure of 185/79, O2 saturation 99% on room air,
+
+respiratory rate 18, and pulse 89.  HEENT exam:  Normocephalic
+
+and atraumatic.  No facial tenderness.  No cervical spine
+
+tenderness in the midline.  Lungs:  Clear anteriorly.  No TLS
+
+spine tenderness in the midline.  Heart:  Regular rate and
+
+rhythm.  Abdomen:  Soft, nontender, and nondistended.  Her right
+
+shoulder that is held by her side, she has exquisite tenderness,
+
+unable to really move it.  She has intact axillary nerve
+
+sensation, full strength in her hand and fingers.  Alert and
+
+oriented x3.  Normal mood and affect.
+
+EMERGENCY DEPARTMENT COURSE:  The patient thought she hit her
+
+forehead does not have signs or symptoms suggestive of
+
+intracerebral injuries.  I do not feel she needs imaging though
+
+she has pain in her shoulder.  She is awake and alert and answers
+
+questions appropriately.  She has no cervical spine tenderness in
+
+the midline.  She did have plain films of her right shoulder that
+
+show comminuted fracture of the right humerus involving the
+
+surgical neck, greater tuberosity, anatomic neck with medial
+
+displacement distal fragment.  She also had a chest x-ray that
+
+showed some mild pulmonary vascular congestion.  The patient had
+
+preoperative screening labs that included sodium 138, K 4.2,
+
+chloride 101, bicarbonate 25, BUN 20, creatinine 1.4, glucose 395
+
+and calcium 10.  White count of 27, hematocrit 41, and platelet
+
+count 286,000.  Coags within normal limits. 
+
+The patient will be admitted to the Orthopedics Surgery.  We will
+
+check UA given her white count.  Of note, she did have her
+
+differential still pending.
+
+DIAGNOSIS:  Right shoulder fracture status post mechanical fall.
+
+DISPOSITION:  Admitted to Ortho.
+
+CONDITION:  Stable.  She will also be treated for hyperglycemia,
+
+which is also another diagnosis.
+
+______________________________
+
+VALENTIN, IDA MD
+
+D: 08/04/77
+
+T: 08/04/77
+
+Dictated By: VALENTIN, IDA
+
+eScription document:2-7000249 BFFocus
+
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="during DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M0" start="1001" end="1011" text="lisinopril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M1" start="1001" end="1011" text="lisinopril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M2" start="1001" end="1011" text="lisinopril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC1" time="during DCT" type1="aspirin" type2="">
+      <MEDICATION id="M3" start="1033" end="1040" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M4" start="1033" end="1040" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M5" start="1033" end="1040" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC2" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="874" end="886" text="Hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="874" end="886" text="Hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H2" start="874" end="886" text="Hypertension" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <MEDICATION id="DOC3" time="after DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M6" start="1001" end="1011" text="lisinopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M7" start="1001" end="1011" text="lisinopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M8" start="1001" end="1011" text="lisinopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC4" time="before DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M9" start="1001" end="1011" text="lisinopril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M10" start="1001" end="1011" text="lisinopril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M11" start="1001" end="1011" text="lisinopril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <DIABETES id="DOC5" time="during DCT" indicator="mention">
+      <DIABETES id="D0" start="888" end="896" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D1" start="888" end="896" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D2" start="888" end="896" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <MEDICATION id="DOC6" time="after DCT" type1="aspirin" type2="">
+      <MEDICATION id="M12" start="1033" end="1040" text="aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M13" start="1033" end="1040" text="aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M14" start="1033" end="1040" text="aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERLIPIDEMIA id="DOC7" time="during DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY0" start="899" end="919" text="hypercholesterolemia" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY1" start="899" end="919" text="hypercholesterolemia" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY2" start="899" end="919" text="hypercholesterolemia" time="during DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <MEDICATION id="DOC8" time="during DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M15" start="990" end="999" text="verapamil" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M16" start="990" end="999" text="verapamil" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M17" start="990" end="999" text="verapamil" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC9" time="after DCT" type1="insulin" type2="">
+      <MEDICATION id="M18" start="981" end="988" text="Novolog" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M19" start="981" end="988" text="Novolog" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M20" start="981" end="988" text="Novolog" time="after DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC10" time="during DCT" indicator="high bp">
+      <HYPERTENSION id="H3" start="1403" end="1427" text="blood pressure of 185/79" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H4" start="1403" end="1427" text="blood pressure of 185/79" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H5" start="1403" end="1427" text="blood pressure of 185/79" time="during DCT" indicator="high bp" comment=""/>
+    </HYPERTENSION>
+    <MEDICATION id="DOC11" time="before DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M21" start="990" end="999" text="verapamil" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M22" start="990" end="999" text="verapamil" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M23" start="990" end="999" text="verapamil" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC12" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H6" start="874" end="886" text="Hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H7" start="874" end="886" text="Hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H8" start="874" end="886" text="Hypertension" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <DIABETES id="DOC13" time="before DCT" indicator="mention">
+      <DIABETES id="D3" start="888" end="896" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D4" start="888" end="896" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D5" start="888" end="896" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <HYPERLIPIDEMIA id="DOC14" time="after DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY3" start="899" end="919" text="hypercholesterolemia" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY4" start="899" end="919" text="hypercholesterolemia" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY5" start="899" end="919" text="hypercholesterolemia" time="after DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <MEDICATION id="DOC15" time="before DCT" type1="aspirin" type2="">
+      <MEDICATION id="M24" start="1033" end="1040" text="aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M25" start="1033" end="1040" text="aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M26" start="1033" end="1040" text="aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC16" time="before DCT" type1="insulin" type2="">
+      <MEDICATION id="M27" start="981" end="988" text="Novolog" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M28" start="981" end="988" text="Novolog" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M29" start="981" end="988" text="Novolog" time="before DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERLIPIDEMIA id="DOC17" time="before DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY6" start="899" end="919" text="hypercholesterolemia" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY7" start="899" end="919" text="hypercholesterolemia" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY8" start="899" end="919" text="hypercholesterolemia" time="before DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <SMOKER id="DOC18" status="current">
+      <SMOKER id="S0" start="1092" end="1115" text="One pack per day smoker" status="current" comment=""/>
+      <SMOKER id="S1" start="1092" end="1115" text="One pack per day smoker" status="current" comment=""/>
+      <SMOKER id="S2" start="1092" end="1115" text="One pack per day smoker" status="current" comment=""/>
+    </SMOKER>
+    <MEDICATION id="DOC19" time="after DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M30" start="990" end="999" text="verapamil" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M31" start="990" end="999" text="verapamil" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M32" start="990" end="999" text="verapamil" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC20" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H9" start="874" end="886" text="Hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H10" start="874" end="886" text="Hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H11" start="874" end="886" text="Hypertension" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <MEDICATION id="DOC21" time="during DCT" type1="insulin" type2="">
+      <MEDICATION id="M33" start="981" end="988" text="Novolog" time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M34" start="981" end="988" text="Novolog" time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M35" start="981" end="988" text="Novolog" time="during DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <FAMILY_HIST id="DOC22" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <DIABETES id="DOC23" time="after DCT" indicator="mention">
+      <DIABETES id="D6" start="888" end="896" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D7" start="888" end="896" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D8" start="888" end="896" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <PHI id="P0" start="16" end="26" text="2077-08-04" TYPE="DATE"/>
+    <PHI id="P1" start="36" end="44" text="42817774" TYPE="MEDICALRECORD"/>
+    <PHI id="P2" start="45" end="56" text="AARON, JEAN" TYPE="PATIENT"/>
+    <PHI id="P3" start="57" end="65" text="08/04/77" TYPE="DATE"/>
+    <PHI id="P4" start="66" end="79" text="VALENTIN, IDA" TYPE="DOCTOR"/>
+    <PHI id="P5" start="166" end="181" text="Andrew Newhouse" TYPE="DOCTOR"/>
+    <PHI id="P6" start="453" end="455" text="63" TYPE="AGE"/>
+    <PHI id="P7" start="3264" end="3277" text="VALENTIN, IDA" TYPE="DOCTOR"/>
+    <PHI id="P8" start="3285" end="3293" text="08/04/77" TYPE="DATE"/>
+    <PHI id="P9" start="3298" end="3306" text="08/04/77" TYPE="DATE"/>
+    <PHI id="P10" start="3321" end="3334" text="VALENTIN, IDA" TYPE="DOCTOR"/>
+    <PHI id="P11" start="3356" end="3365" text="2-7000249" TYPE="IDNUM"/>
+  </TAGS>
+</root>

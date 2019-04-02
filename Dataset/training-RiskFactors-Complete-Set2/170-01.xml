@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2146-11-02
+
+S: 1. c/o congestion, sinus pressure, green nasal d/c x 1 wk, h/o sinus probs 
+
+    2. c/o nocturia x 3-4 , some daytime polyuria x 2 wks, no h/o DM
+
+     
+
+non smoker, in good health
+
+
+
+O: afeb, no resp distress
+
+R frontal and max  sinus tenderness
+
+oro-benign
+
+no adenopathy
+
+chest clear
+
+
+
+U/A 2+ glucose , o/w neg
+
+WBG 264
+
+  
+
+A/P:1.sinusitis
+
+           amox 500 TID x 10d :fluids, steam, acetaminophen
+
+      2. new dx NIDDM
+
+           handout given, to call PCP 11/4 
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <FAMILY_HIST id="DOC0" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC4" status="never">
+      <SMOKER id="S0" start="185" end="196" text="non smoker," status="never" comment=""/>
+      <SMOKER id="S1" start="185" end="195" text="non smoker" status="never" comment=""/>
+      <SMOKER id="S2" start="185" end="195" text="non smoker" status="never" comment=""/>
+    </SMOKER>
+    <DIABETES id="DOC1" time="before DCT" indicator="mention">
+      <DIABETES id="D0" start="174" end="176" text="DM" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D1" start="454" end="459" text="NIDDM" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC2" time="after DCT" indicator="mention">
+      <DIABETES id="D2" start="174" end="176" text="DM" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D3" start="454" end="459" text="NIDDM" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC3" time="during DCT" indicator="mention">
+      <DIABETES id="D4" start="174" end="176" text="DM" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D5" start="447" end="459" text="new dx NIDDM" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D6" start="454" end="459" text="NIDDM" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+  </TAGS>
+</root>

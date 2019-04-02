@@ -1,0 +1,192 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2132-10-03
+
+
+10/03/2132
+Greg Overman, MD
+Brooksville Regional Hospital
+55 Overlook Drive
+Edgefield, WI 18421
+RE: URQUHART, WENDELL Y
+MRN: 5747359
+DOB: 11/22/2072
+
+
+Dear Dr. Overman: 
+I had the pleasure of seeing your patient, Wendell Urquhart, in consultation today. The patient presents complaining of lower back pain with right lower extremity radiation. He develop symptoms gradually three months ago with no history of preceding trauma. The symptoms became progressively worse. The patient has a history of lower back injury 30 years ago in a motor vehicle accident - at that time he was diagnosed with disc rupture. Currently the pain is intermittent and occurs daily. He grades the intensity of the pain as up to 7 to 8 out of 10 on the numerical pain scale. He describes it as sharp shooting sensation in the lower back with radiation all the way down right lower extremity to the foot. The symptoms are worse with standing; better with sitting and lying down. There is no change in the intensity of symptoms with coughing or sneezing. The patient any recent fever or chills, no loss of bowel or bladder control. He describes occasional intermittent numbness in the right leg and foot. He denies any weakness. He lost 30 pounds through dieting over the past two months. The pain does not wake the patient up at night. 
+Diagnostically, the patient denies any recent imaging studies of the lumbar spine. 
+
+
+Therapeutically, the patient denies any recent physical therapy; no previous injections or surgical procedures of the lumbar spine. Currently he takes nabumetone 750 mg once in the morning with moderate relief of his symptoms. He also occasionally takes Naproxen at night with moderate relief. 
+MEDICATIONS: 
+1. Aspirin. 
+2. Hydrochlorothiazide. 
+3. Toprol. 
+4. Caduet. 
+5. Nabumetone as needed. 
+6. Naproxen as needed. 
+ALLERGIES: Penicillin. 
+PAST MEDICAL HISTORY: 
+1. Coronary artery disease status post 2 stent placements. 
+2. Hypertension. 
+PAST SURGICAL HISTORY: 
+1. Cardiac stent placement. 
+2. Left total hip replacement. 
+SOCIAL HISTORY: The patient works as a programmer for Dish Network. He is married with no children. He does not smoke, drinks alcohol socially, and denies illicit drug use. 
+FAMILY HISTORY: There is no history of medical problems that run in the family. 
+
+REVIEW OF SYSTEMS: The complete review of systems was performed including constitutional, eyes, ENT, cardiovascular, respiratory, GI, GU, musculoskeletal, integument, neurological, psychiatric, endocrine, lymphatic, and immunologic. It is positive for musculoskeletal complains and medical problems as above.
+
+PHYSICAL EXAMINATION:  The patient is well-developed, moderately overweight man in no acute distress. He is alert and oriented to time, person and place. His mood and affect are stable. He demonstrates good attention and concentration. The patient ambulates without an assistive device with normal heel strike and toe off.  He is able to stand on his heels and toes. He is able to walk heel to toe in a straight line with intact balance. Vital signs are stable. Sclera is anicteric, no ptosis noted, no lymphadenopathy, unlabored respiration, abdomen is soft and non-tender, no skin rash.  
+
+
+There is limited range of motion in the lumbar spine with flexion limited to 60 degrees, extension limited to 10 degrees. There is no tenderness to palpation over the spinous processes, paraspinal muscles, SI joints or greater trochanteric bursae bilaterally. There is full 5/5 strength in the lower extremities with intact sensation bilaterally.  1+ reflexes in the knees, absent reflexes in the ankles bilaterally. There is downgoing Babinski, no clonus, normal tone in the lower extremities. Straight leg raise test is negative bilaterally. There is no pain with hip internal and external rotation. 
+
+
+
+Cervical range of motion is within normal limit. There is no tenderness to palpation over cervical spinous processes and paraspinal muscles. There is full 5/5 strength in the upper extremities with intact sensation bilaterally. Symmetrical reflexes in the biceps, brachioradialis and triceps bilaterally. Negative Hoffmans sign and Spurlings maneuver.  The range of motion in bilateral upper extremities is normal. 
+IMAGING: During today's visit I reviewed x-ray study of the pelvis dated September 24 2132. it demonstrates lumbosacral spondylosis in the visualized lumbosacral spine. 
+For complete description of the study, please see formal radiology report. 
+IMPRESSION: 
+1. Sub-acute lower back pain with right lower extremity radiation, non-focal neurological examination. 
+2. Lumbar radiculitis. 
+3. Degenerative disc disease. 
+4. Lumbar spondylosis. 
+RECOMMENDATIONS: 
+1. MRI study of the lumbar spine will be obtained to further evaluate etiology of ongoing symptoms. The patient will discuss with radiologist if MRI study can not be performed due to cardiac stents. 
+2. Upon review of the imaging studies, a lumbar epidural steroid injection would be considered to decrease the inflammatory component of his symptoms and to inhibit peripheral nociceptive transmission. 
+3. The patient was encouraged to remain active and to participate in low-impact aerobic exercises to prevent deconditioning. He was encouraged to continue with weight loss program. 
+4. The therapeutic plan was discussed with the patient. All of his questions were answered. He will be seen in follow-up after imaging study is completed in 1-2 weeks. 
+
+
+
+Thank you for allowing me to participate in the care of your patient. Please do not hesitate to call my office for any further questions. 
+
+
+Sincerely,
+
+
+
+
+
+
+__________________________
+Ubaldo R. Daugherty, MD 
+cc: Dr. Tawn Johanson, 73 Elm Court, Rm. 54, Albertville, WI 63721
+DD: 10/03/2132
+TD: 10/04/2132 13:34:19
+TR: 5315751
+BackJob ID: 852182
+VoiceJob ID: 45936320
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="after DCT" type1="statin" type2="">
+      <MEDICATION id="M0" start="1790" end="1796" text="Caduet" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M1" start="1790" end="1796" text="Caduet" time="after DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC1" time="during DCT" type1="aspirin" type2="">
+      <MEDICATION id="M2" start="1740" end="1747" text="Aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M3" start="1740" end="1747" text="Aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M4" start="1740" end="1749" text="Aspirin. " time="during DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC2" time="after DCT" type1="aspirin" type2="">
+      <MEDICATION id="M5" start="1740" end="1747" text="Aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M6" start="1740" end="1747" text="Aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M7" start="1740" end="1749" text="Aspirin. " time="after DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC4" time="before DCT" type1="diuretic" type2="">
+      <MEDICATION id="M8" start="1753" end="1772" text="Hydrochlorothiazide" time="before DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M9" start="1753" end="1772" text="Hydrochlorothiazide" time="before DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M10" start="1753" end="1774" text="Hydrochlorothiazide. " time="before DCT" type1="diuretic" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC6" time="after DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M11" start="1778" end="1784" text="Toprol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M12" start="1778" end="1784" text="Toprol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M13" start="1777" end="1786" text=" Toprol. " time="after DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC8" time="before DCT" type1="statin" type2="">
+      <MEDICATION id="M14" start="1790" end="1796" text="Caduet" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M15" start="1790" end="1796" text="Caduet" time="before DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC9" time="during DCT" type1="statin" type2="">
+      <MEDICATION id="M16" start="1790" end="1796" text="Caduet" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M17" start="1790" end="1796" text="Caduet" time="during DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC10" time="during DCT" type1="diuretic" type2="">
+      <MEDICATION id="M18" start="1753" end="1772" text="Hydrochlorothiazide" time="during DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M19" start="1753" end="1772" text="Hydrochlorothiazide" time="during DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M20" start="1753" end="1774" text="Hydrochlorothiazide. " time="during DCT" type1="diuretic" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC13" time="after DCT" type1="diuretic" type2="">
+      <MEDICATION id="M21" start="1753" end="1772" text="Hydrochlorothiazide" time="after DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M22" start="1753" end="1772" text="Hydrochlorothiazide" time="after DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M23" start="1753" end="1774" text="Hydrochlorothiazide. " time="after DCT" type1="diuretic" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC16" time="before DCT" type1="aspirin" type2="">
+      <MEDICATION id="M24" start="1740" end="1747" text="Aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M25" start="1740" end="1747" text="Aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M26" start="1740" end="1749" text="Aspirin. " time="before DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC18" time="before DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M27" start="1778" end="1784" text="Toprol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M28" start="1778" end="1784" text="Toprol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M29" start="1777" end="1786" text=" Toprol. " time="before DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC19" time="during DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M30" start="1778" end="1784" text="Toprol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M31" start="1778" end="1784" text="Toprol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M32" start="1777" end="1786" text=" Toprol. " time="during DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC3" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="1959" end="1971" text="Hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="1959" end="1971" text="Hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H2" start="1959" end="1973" text="Hypertension. " time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC5" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H3" start="1959" end="1971" text="Hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H4" start="1959" end="1971" text="Hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H5" start="1959" end="1973" text="Hypertension. " time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC17" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H6" start="1959" end="1971" text="Hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H7" start="1959" end="1971" text="Hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H8" start="1959" end="1973" text="Hypertension. " time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <CAD id="DOC7" time="after DCT" indicator="mention">
+      <CAD id="C0" start="1899" end="1922" text="Coronary artery disease" time="after DCT" indicator="mention" comment=""/>
+      <CAD id="C1" start="1899" end="1922" text="Coronary artery disease" time="after DCT" indicator="mention" comment=""/>
+      <CAD id="C2" start="1899" end="1922" text="Coronary artery disease" time="after DCT" indicator="mention" comment=""/>
+    </CAD>
+    <CAD id="DOC12" time="during DCT" indicator="mention">
+      <CAD id="C3" start="1899" end="1922" text="Coronary artery disease" time="during DCT" indicator="mention" comment=""/>
+      <CAD id="C4" start="1899" end="1922" text="Coronary artery disease" time="during DCT" indicator="mention" comment=""/>
+      <CAD id="C5" start="1899" end="1922" text="Coronary artery disease" time="during DCT" indicator="mention" comment=""/>
+    </CAD>
+    <CAD id="DOC15" time="before DCT" indicator="event">
+      <CAD id="C6" start="1923" end="1953" text="status post 2 stent placements" time="before DCT" indicator="event" comment=""/>
+      <CAD id="C7" start="1935" end="1943" text="2 stent " time="before DCT" indicator="event" comment=""/>
+    </CAD>
+    <CAD id="DOC20" time="before DCT" indicator="mention">
+      <CAD id="C8" start="1899" end="1922" text="Coronary artery disease" time="before DCT" indicator="mention" comment=""/>
+      <CAD id="C9" start="1899" end="1922" text="Coronary artery disease" time="before DCT" indicator="mention" comment=""/>
+      <CAD id="C10" start="1899" end="1922" text="Coronary artery disease" time="before DCT" indicator="mention" comment=""/>
+    </CAD>
+    <FAMILY_HIST id="DOC11" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC14" status="never">
+      <SMOKER id="S0" start="2162" end="2176" text="does not smoke" status="never" comment=""/>
+      <SMOKER id="S1" start="2162" end="2176" text="does not smoke" status="never" comment=""/>
+    </SMOKER>
+  </TAGS>
+</root>

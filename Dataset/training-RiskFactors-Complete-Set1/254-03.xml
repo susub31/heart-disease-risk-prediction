@@ -1,0 +1,160 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2082-10-01
+
+EDVISIT^51639357^Noonan, France^10/01/82^ELROD, RYLEY
+
+This patient was seen on 10/01/2082 with the resident, Dr.
+
+Jacob.  Please see her note for details.  The resident's
+
+history and physical examination were reviewed and confirmed. 
+
+Please see her note for details.  The plan of care and
+
+disposition of the patient were discussed with the resident.
+
+IMPRESSION:  This is a 70-year-old male who presents with two
+
+weeks of back pain radiating from the mid back to the chest.  He
+
+also has pain in his left leg up to his flank.  He also has some
+
+scrotal swelling and lower abdominal pain.  The pain has been
+
+intermittent and the patient has been taking Vicodin for the past
+
+two days.  The pain that he has been having is actually chronic,
+
+except for the left-sided flank pain and the chest pain.  He was
+
+found on the ground by his daughter, and it was unclear to the
+
+patient how he ended up in that position.
+
+PAST MEDICAL HISTORY:  Significant for myocardial infarction,
+
+atrial fibrillation, diabetes, cerebrovascular accident, low back
+
+pain, sciatica, Bell palsy, reflux, osteochondritis, peripheral
+
+vascular disease, and diabetic neuropathy.
+
+PHYSICAL EXAMINATION:  The patient is afebrile, heart rate 80,
+
+respirations 16, blood pressure 126/82, and oxygen saturation is
+
+100%.  He is in severe distress.  His lung exam is normal.  His
+
+cardiac examination shows no abnormality.  His abdomen is
+
+distended, and there is tenderness to palpation in the left lower
+
+quadrant, and there is CVA tenderness in the left flank.  There
+
+is also significant pain on movement of his left leg either
+
+passively or actively.  It is not possible for us to evaluate the
+
+strength in his left hip or knee because of pain.  He is alert
+
+and oriented to person, place, time, and event.  His cranial
+
+nerves are intact.  Rectal examination shows mildly decreased
+
+sphincter tone, but no evidence of saddle anesthesia.
+
+LABORATORY STUDIES:  Show a CK of 128 with MB fraction of 3.8,
+
+and troponin I is less than assay.  INR is 2.8.  UA shows 0 to 1
+
+white blood cells and 1 to 2 red blood cells.  Electrocardiogram
+
+shows atrial fibrillation with bradycardic rate of 47.  His head
+
+CT shows no abnormality.  There is stranding around his left
+
+kidney.  The aorta appears normal.
+
+EMERGENCY DEPARTMENT COURSE:  The patient was given an aspirin
+
+325 mg p.o. and morphine 4 mg IV for pain.  His pain improved
+
+significantly.  However, he had another recurrence of the pain
+
+and with rising discomfort.  It was decided to admit the patient
+
+to the hospital for management of his pain and further workup to
+
+ ******** Not reviewed by Attending Physician ********
+
+markedly bradycardic.
+
+______________________________
+
+ELROD, RYLEY M.D.
+
+D: 10/23/82
+
+T: 10/23/82
+
+Dictated By: ELROD, RYLEY
+
+eScription document:8-9823511 BFFocus
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <DIABETES id="DOC0" time="before DCT" indicator="mention">
+      <DIABETES id="D0" start="1031" end="1039" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D1" start="1031" end="1039" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <MEDICATION id="DOC1" time="during DCT" type1="aspirin" type2="">
+      <MEDICATION id="M0" start="2359" end="2366" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M1" start="2359" end="2366" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M2" start="2350" end="2366" text="given an aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <CAD id="DOC2" time="before DCT" indicator="event">
+      <CAD id="C0" start="986" end="1008" text="myocardial infarction," time="before DCT" indicator="event" comment=""/>
+      <CAD id="C1" start="986" end="1007" text="myocardial infarction" time="before DCT" indicator="event" comment=""/>
+      <CAD id="C2" start="986" end="1008" text="myocardial infarction," time="before DCT" indicator="event" comment=""/>
+    </CAD>
+    <DIABETES id="DOC3" time="during DCT" indicator="mention">
+      <DIABETES id="D2" start="1031" end="1039" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D3" start="1031" end="1039" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <FAMILY_HIST id="DOC4" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC5" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" status="unknown"/>
+      <SMOKER id="S2" status="unknown"/>
+    </SMOKER>
+    <DIABETES id="DOC6" time="after DCT" indicator="mention">
+      <DIABETES id="D4" start="1031" end="1039" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D5" start="1031" end="1039" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <PHI id="P0" start="16" end="26" text="2082-10-01" TYPE="DATE"/>
+    <PHI id="P1" start="36" end="44" text="51639357" TYPE="MEDICALRECORD"/>
+    <PHI id="P2" start="45" end="59" text="Noonan, France" TYPE="PATIENT"/>
+    <PHI id="P3" start="60" end="68" text="10/01/82" TYPE="DATE"/>
+    <PHI id="P4" start="69" end="81" text="ELROD, RYLEY" TYPE="DOCTOR"/>
+    <PHI id="P5" start="108" end="118" text="10/01/2082" TYPE="DATE"/>
+    <PHI id="P6" start="143" end="148" text="Jacob" TYPE="DOCTOR"/>
+    <PHI id="P7" start="406" end="408" text="70" TYPE="AGE"/>
+    <PHI id="P8" start="2738" end="2750" text="ELROD, RYLEY" TYPE="DOCTOR"/>
+    <PHI id="P9" start="2760" end="2768" text="10/23/82" TYPE="DATE"/>
+    <PHI id="P10" start="2773" end="2781" text="10/23/82" TYPE="DATE"/>
+    <PHI id="P11" start="2796" end="2808" text="ELROD, RYLEY" TYPE="DOCTOR"/>
+    <PHI id="P12" start="2830" end="2839" text="8-9823511" TYPE="IDNUM"/>
+  </TAGS>
+</root>

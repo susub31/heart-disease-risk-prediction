@@ -1,0 +1,204 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2133-05-31
+
+Attending History and Physical
+
+
+
+
+
+HPI: This is a 59 year old PMP G0 who presents for evaluation and management of vulvar lesion. The patient reports a longstanding h/o a vulvar lesion in the same location. It was removed 5/24/2124 and the pathology revealed a sebaceous cyst. The patient reports feeling discomfort only with rubbing. No other skin changes. She desires surgical management at this time.
+
+
+
+Problems
+
+Diverticulitis : multiple surgeries
+
+Hypertension 
+
+Bronchiectasis 
+
+Migraine headache 
+
+Osteopenia 
+
+Lactose intolerance 
+
+Fibromyalgia 
+
+Raynauds disease 
+
+Mullerian Anomaly : "infantile uterus" per patient
+
+
+
+
+
+Procedures
+
+Laparotomy: multiple
+
+Tonsillectomy: 2077
+
+Appendectomy: 2093
+
+Interstitial lung disease: right middle lobe of lung removed 2128 
+
+
+
+
+
+Medications
+
+Nortriptyline ( 75 MG (75MG CAPSULE take 1) PO HS 
+
+Prilosec (OMEPRAZOLE) 20 MG (20MG CAPSULE DR take 1) PO QD 
+
+Colace (DOCUSATE SODIUM) 200 MG (take 1) PO QD 
+
+Inderal LA (PROPRANOLOL-LA) 120 MG (120MG CAP.SR 24H take 1) PO QD 
+
+Estradiol 2 MG (2MG TABLET take 1) PO QD 
+
+Medroxyprogesterone 5 MG (5MG TABLET take 1) PO QD 
+
+Vitamin C (ASCORBIC ACID) 500 MG (500MG TABLET take 1) PO BID 
+
+Vitamin E (TOCOPHEROL-DL-ALPHA) 400 UNITS (400 U/15ML LIQUID take 15 ML) PO QD 
+
+Multivitamins 1 TAB PO QD 
+
+Imitrex (SUMATRIPTAN) 50 MG (50MG TABLET take 1) PO x1 PRN headache 
+
+Fioricet (BUTALBITAL+APAP+CAFFEINE) 1 TAB PO Q4H PRN headache 
+
+
+
+
+
+Allergies
+
+percocet/darvon - GI upset, 
+
+Sulfa - Unknown
+
+Codeine - GI upset, 
+
+ACETAMINOPHEN - migraines, 
+
+Demerol - Unknown
+
+METRONIDAZOLE - Unknown
+
+LEVOFLOXACIN - Rash, Hives or Other Rash
+
+AZITHROMYCIN - Hives or Other Rash 
+
+
+
+Vital signs
+
+BP 138/70, P 80, Ht 64 in, Wt 120.5 lb
+
+LMP pmp 
+
+Physical Exam
+
+General Appearance:   NL Habitus. thin in nad
+
+      Orientation:   Time; Place; Person
+
+      Mood and Affect:   Normal
+
+      Breasts/ Rectal: defered
+
+      Ext. Genitalia:   Abnormal
+
+1.0 x 0.3 cm cyst on right labia minor very close to clitoris. Appears to be consistent with a sebaceous cyst. No other skin changes are noted
+
+      Ureth Meatus:   Normal
+
+      Bladder:   Normal
+
+      Vagina/pelv. supp:   Normal
+
+      Cervix/ Uterus/ Adnexa/param. Anus/perin.: defered
+
+Lungs: CTA A+P bilaterally
+
+CV: RR, S1S2 wnl, no m/g/r
+
+Abd: soft, nt, no masses, +BS
+
+Ext: warm, no c/c/e
+
+ 
+
+Labs:
+
+
+
+
+
+
+
+A/P:This is a 59 year old PMP G0 with multiple medical problems who presents for evaluation of vulvar lesion. Physical exam reveals findings c/w sebaceous cyst. Surgical removal was recommended do to the increase in size and recurrance #4 of this lesion. Spinal vs epidural anesthesia was reveiwed. Possibility of abnormal pathology discussed. The patient states she understands and desires surgical treatment. Consent was signed. H+P done. Anesthesia consult and pre-operative labs ordered. NPO after MN discussed. 
+
+
+
+
+
+_____________________________________________
+
+Faithe W. Flynn, M.D.
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+]]></TEXT>
+  <TAGS>
+    <HYPERTENSION id="DOC0" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="483" end="495" text="Hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="483" end="495" text="Hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H2" start="482" end="496" text=" Hypertension " time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC1" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H3" start="483" end="495" text="Hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H4" start="483" end="495" text="Hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H5" start="482" end="496" text=" Hypertension " time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC2" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H6" start="483" end="495" text="Hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H7" start="483" end="495" text="Hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H8" start="482" end="496" text=" Hypertension " time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <FAMILY_HIST id="DOC3" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC4" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" status="unknown"/>
+      <SMOKER id="S2" start="3" end="9" text="Record" status="unknown" comment=""/>
+    </SMOKER>
+  </TAGS>
+</root>

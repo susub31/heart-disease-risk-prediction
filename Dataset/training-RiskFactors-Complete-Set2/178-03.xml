@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2123-02-02
+
+
+NANCY K GUSTAFSON
+113 ANDOVER DOWN 
+CHARLEMONT, IA 79229
+
+
+
+
+
+
+
+
+February 02, 2123
+
+
+
+
+
+
+Dear Ms. Gustafson, 
+
+
+I have just received your test results and I would like to share them with you.
+
+
+
+Your Hemoglobin A1c value was 7.30 on 01/29/2123. It has remained stable compared to the last value of 7.10 on 10/29/2122. Hemoglobin A1c is a blood test that indicates how well you have controlled your blood sugar over the past 3 months. We would like to keep it below 7.
+
+
+I suggest a trial of metformin 500mg twice daily
+test your sugars to keep below 140 2 hours after meals
+
+If you have any questions about these results, please do not hesitate to contact me.
+
+
+
+
+_______________________________
+Olney Francis Ong, M.D., Ph.D.
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="after DCT" type1="metformin" type2="">
+      <MEDICATION id="M0" start="520" end="529" text="metformin" time="after DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M1" start="520" end="529" text="metformin" time="after DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M2" start="501" end="530" text="suggest a trial of metformin " time="after DCT" type1="metformin" type2="" comment=""/>
+    </MEDICATION>
+    <FAMILY_HIST id="DOC1" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC2" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" start="118" end="122" text="Dear" status="unknown" comment=""/>
+      <SMOKER id="S2" status="unknown"/>
+    </SMOKER>
+    <DIABETES id="DOC3" time="before DCT" indicator="A1C">
+      <DIABETES id="D0" start="313" end="331" text="last value of 7.10" time="before DCT" indicator="A1C" comment=""/>
+      <DIABETES id="D1" start="253" end="259" text=" 7.30 " time="before DCT" indicator="A1C" comment=""/>
+      <DIABETES id="D2" start="229" end="273" text="Hemoglobin A1c value was 7.30 on 01/29/2123." time="before DCT" indicator="A1C" comment=""/>
+      <DIABETES id="D3" start="312" end="346" text=" last value of 7.10 on 10/29/2122." time="before DCT" indicator="A1C" comment=""/>
+    </DIABETES>
+  </TAGS>
+</root>

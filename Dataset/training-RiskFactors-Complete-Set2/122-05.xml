@@ -1,0 +1,138 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2093-09-13
+
+
+HMS Cardiovascular Division
+CVD R56
+82 Ferry Road                                      OCAMPO, NATHAN-OLIVER
+Foxborough, TX 58771                                           80531359
+(564) 243-4471                                           09/13/93
+
+
+Kenneth X. Sylvester, Jr., M.D.
+Holden District Hospital
+62 Ferry Road Cardiology
+Foxborough, TX  58771
+
+
+Dear Ken:
+
+Mr. Ocampo returns to the office following his recent coronary artery bypass graft surgery.  As you know, Dr. Todd Banks took him to the operating room on August 17th, at which point, he underwent multivessel bypass surgery with placement of a left internal mammary artery to his LAD and reverse saphenous vein grafts to his PDA, first obtuse marginal, and second obtuse marginal.  He tolerated the procedure uneventfully.  His postoperative course was notable for intermittent atrial fibrillation for which he was eventually started on amiodarone therapy.  He also had some difficulty with urinary retention and had a Foley placed, which has stayed in since discharge.  He spent approximately 10 days in Gadsden Medical and has now been discharged to home.  Currently, he complains of a variety of musculoskeletal complaints involving his upper chest and left arm; however, he denies symptoms of active angina, congestive failure, or sensed arrhythmias.  He is slowly recovering his overall strength.
+
+The last blood studies available to me indicate a random glucose of 118, creatinine of 1.1, normal liver function studies, cholesterol of 124, triglyceride of 124, HDL 39, LDL 60, hematocrit of 33.3.
+
+On a regimen of amiodarone 200 mg p.o. q.d., enteric-coated aspirin 81 mg p.o. q.d., Niferex 150 mg p.o. q.d., p.r.n. Tylenol No. 3, Hytrin 10 mg p.o. q.d., Proscar 5 mg p.o. q.d., Toprol-XL 50 mg p.o. q.d., Pletal 100 mg p.o. b.i.d., possibly simvastatin at 20 mg p.o. q.d.
+
+Physical exam today reveals a pleasant male in no acute distress.  Blood pressure right arm sitting 110/50, heart rate 65 and regular, respirations 14 and unlabored, and weight 183 pounds.  The neck is supple, JVP flat, carotids are 2+ without significant bruits.  Chest is clear.  Cardiac exam shows normal S1, physiologically split S2 with 1/6 systolic ejection murmur radiating from the apex to the base, no significant diastolic murmur or rub.  The abdomen is benign.  Extremities reveal markedly diminished peripheral pulses and 1+ pedal edema.
+
+Electrocardiogram shows sinus rhythm at a rate of 60, PR interval 0.14, QRS 0.12, QT 0.38, axis -20 degrees.  There is evidence of left bundle-branch block with secondary ST and T-wave changes.  An echocardiogram performed prior to discharge revealed mildly reduced left ventricular systolic function with a global ejection fraction of 40% at a time when he had a very rapid heart rate.  No subsequent echocardiogram has been performed when he is in sinus rhythm.
+
+Impression and Plan:  Mr. Ocampo is making a slow but study recovery from his multivessel coronary bypass graft surgery.  I suggested he undergo repeat echocardiogram to document current left ventricular function now that he is back in sinus rhythm.  I told him he would stay on amiodarone for approximately 3-6 months, and assuming, he was in normal sinus rhythm throughout this time period, his amiodarone would then be discontinued.  At that time, I would also discontinue his Coumadin.  In addition, at the time of his diagnostic catheterization, he had evidence for severe peripheral vascular disease, and he understands that when he has completed his recovery from his recent surgery, I would strongly encourage further evaluation of his lower extremity arterial system with an eye toward potential percutaneous intervention.  In addition, I have asked him to obtain copies of his discharge summary from the Gadsden Medical Center.  I would like to resume ACE inhibitor therapy in light of his significant CAD and probable left ventricular dysfunction.  He will have routine blood studies obtained today.  I would target his LDL cholesterol to the 70 range.  Beyond this, I have not altered his current regimen.
+
+Thank you very much for allowing me to assist in his care.
+
+Sincerely yours,
+
+
+
+
+
+______________________________
+Nicholas Gomes, M.D.
+
+
+Dictated By: Nicholas Gomes
+
+
+eScription document:5-3575980 AFFocus
+
+
+
+DD: 09/13/93
+DT: 09/14/93
+DV: 09/13/93
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="before DCT" type1="statin" type2="">
+      <MEDICATION id="M0" start="1843" end="1854" text="simvastatin" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M1" start="1843" end="1854" text="simvastatin" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M2" start="1843" end="1854" text="simvastatin" time="before DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC1" time="during DCT" type1="statin" type2="">
+      <MEDICATION id="M3" start="1843" end="1854" text="simvastatin" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M4" start="1843" end="1854" text="simvastatin" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M5" start="1843" end="1854" text="simvastatin" time="during DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC2" time="during DCT" type1="aspirin" type2="">
+      <MEDICATION id="M6" start="1659" end="1666" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M7" start="1659" end="1666" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M8" start="1644" end="1666" text="enteric-coated aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC3" time="after DCT" type1="statin" type2="">
+      <MEDICATION id="M9" start="1843" end="1854" text="simvastatin" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M10" start="1843" end="1854" text="simvastatin" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M11" start="1843" end="1854" text="simvastatin" time="after DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC5" time="after DCT" type1="aspirin" type2="">
+      <MEDICATION id="M12" start="1659" end="1666" text="aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M13" start="1659" end="1666" text="aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M14" start="1644" end="1666" text="enteric-coated aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC6" time="before DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M15" start="1779" end="1790" text=" Toprol-XL " time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M16" start="1780" end="1789" text="Toprol-XL" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M17" start="1780" end="1789" text="Toprol-XL" time="before DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC9" time="before DCT" type1="aspirin" type2="">
+      <MEDICATION id="M18" start="1659" end="1666" text="aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M19" start="1659" end="1666" text="aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M20" start="1644" end="1666" text="enteric-coated aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC10" time="after DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M21" start="1779" end="1790" text=" Toprol-XL " time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M22" start="1780" end="1789" text="Toprol-XL" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M23" start="1780" end="1789" text="Toprol-XL" time="after DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC12" time="during DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M24" start="1779" end="1790" text=" Toprol-XL " time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M25" start="1780" end="1789" text="Toprol-XL" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M26" start="1780" end="1789" text="Toprol-XL" time="during DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <CAD id="DOC4" time="before DCT" indicator="event">
+      <CAD id="C0" start="449" end="487" text="coronary artery bypass graft surgery. " time="before DCT" indicator="event" comment=""/>
+      <CAD id="C1" start="450" end="485" text="oronary artery bypass graft surgery" time="before DCT" indicator="event" comment=""/>
+      <CAD id="C2" start="449" end="485" text="coronary artery bypass graft surgery" time="before DCT" indicator="event" comment=""/>
+      <CAD id="C3" start="592" end="618" text="multivessel bypass surgery" time="before DCT" indicator="event" comment=""/>
+      <CAD id="C4" start="2969" end="3010" text="multivessel coronary bypass graft surgery" time="before DCT" indicator="event" comment=""/>
+    </CAD>
+    <CAD id="DOC7" time="before DCT" indicator="mention">
+      <CAD id="C5" start="3903" end="3906" text="CAD" time="before DCT" indicator="mention" comment=""/>
+      <CAD id="C6" start="3903" end="3906" text="CAD" time="before DCT" indicator="mention" comment=""/>
+    </CAD>
+    <CAD id="DOC8" time="during DCT" indicator="mention">
+      <CAD id="C7" start="3903" end="3906" text="CAD" time="during DCT" indicator="mention" comment=""/>
+      <CAD id="C8" start="3903" end="3906" text="CAD" time="during DCT" indicator="mention" comment=""/>
+    </CAD>
+    <CAD id="DOC13" time="after DCT" indicator="mention">
+      <CAD id="C9" start="3903" end="3906" text="CAD" time="after DCT" indicator="mention" comment=""/>
+      <CAD id="C10" start="3903" end="3906" text="CAD" time="after DCT" indicator="mention" comment=""/>
+    </CAD>
+    <FAMILY_HIST id="DOC14" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC11" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" start="3" end="9" text="Record" status="unknown" comment=""/>
+      <SMOKER id="S2" status="unknown"/>
+    </SMOKER>
+  </TAGS>
+</root>

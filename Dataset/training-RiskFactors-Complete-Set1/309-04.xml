@@ -1,0 +1,202 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2094-05-08
+
+
+
+
+
+
+
+NAME:    Wilson, Gabriel
+
+MRN:     8514931
+
+
+
+The patient is a 73-year-old woman with a history of diabetes, hypertension,
+
+hyperlipidemia and multiple other medical problems. She has a history of TIAs and
+
+was seeing the neurologist today for follow up. She has not had recent TIA symptoms
+
+but related a history of exertional chest pain and was sent up here for evaluation.
+
+Griggs was translating and the patient reports that over the past two months she
+
+has been getting chest pain and pressure with some shortness of breath after she
+
+walks about one block. The symptom is a pressure symptom which radiates to both
+
+sides of her chest. It is not severe, sharp chest pain. It does not radiate to her back.
+
+There is no associated rest pain or nocturnal pain. No PND, orthopnea or edema.
+
+The last time she had the pain was two weeks ago. She has a history of TIAs and our
+
+goal was to keep her blood pressure in the 140-160 range since they may be due to a
+
+low flow state due to her vertebrobasilar disease.
+
+
+
+She is on aspirin and Plavix.
+
+
+
+She had a negative sestamibi ETT in 2087 except she had a very low work capacity.
+
+She has not had a recent stress test.  
+
+
+
+PHYSICAL EXAM: She is a very pleasant woman in no acute distress. Her blood
+
+pressure is 160/70. Neck supple without JVD or bruits. Lungs clear without wheezes,
+
+rales or rhonchi. Cardiac: Rate regularly regular, normal S1, S2, no diastolic murmur
+
+or gallop. Abdomen soft, nontender without hepatosplenomegaly. No edema.  
+
+
+
+Her EKG shows normal sinus rhythm. 
+
+
+
+ASSESSMENT AND PLAN:  Patient with multiple cardiac risk factors and a story
+
+which sounds convincing for exertional angina. She has not had any symptoms in over
+
+two weeks. Will add low-dose Lopressor 12.5 mg p.o. b.i.d. She should stop it if she
+
+feels lightheaded on the medication. She should increase the aspirin to 325 q.d. We
+
+will schedule her for a sestamibi ETT. She will follow-up in one week.
+
+
+
+
+
+Julie Fraser, M.D.
+
+
+
+JF/crane/powell
+
+
+
+]]></TEXT>
+  <TAGS>
+    <CAD id="DOC0" time="before DCT" indicator="symptom">
+      <CAD id="C0" start="1682" end="1699" text="exertional angina" time="before DCT" indicator="symptom" comment=""/>
+      <CAD id="C1" start="351" end="372" text="exertional chest pain" time="before DCT" indicator="symptom" comment=""/>
+      <CAD id="C2" start="510" end="596" text="chest pain and pressure with some shortness of breath after she  walks about one block" time="before DCT" indicator="symptom" comment=""/>
+    </CAD>
+    <DIABETES id="DOC1" time="before DCT" indicator="mention">
+      <DIABETES id="D0" start="133" end="141" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D1" start="133" end="141" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D2" start="133" end="141" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <MEDICATION id="DOC2" time="during DCT" type1="aspirin" type2="">
+      <MEDICATION id="M0" start="1061" end="1068" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M1" start="1061" end="1068" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M2" start="1061" end="1068" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC3" time="during DCT" type1="thienopyridine" type2="">
+      <MEDICATION id="M3" start="1073" end="1079" text="Plavix" time="during DCT" type1="thienopyridine" type2="" comment=""/>
+      <MEDICATION id="M4" start="1073" end="1079" text="Plavix" time="during DCT" type1="thienopyridine" type2="" comment=""/>
+    </MEDICATION>
+    <DIABETES id="DOC4" time="during DCT" indicator="mention">
+      <DIABETES id="D3" start="133" end="141" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D4" start="133" end="141" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D5" start="133" end="141" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <MEDICATION id="DOC5" time="after DCT" type1="aspirin" type2="">
+      <MEDICATION id="M5" start="1061" end="1068" text="aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M6" start="1061" end="1068" text="aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M7" start="1061" end="1068" text="aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC6" time="during DCT" indicator="high bp">
+      <HYPERTENSION id="H0" start="1280" end="1305" text="blood  pressure is 160/70" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H1" start="1276" end="1305" text="Her blood  pressure is 160/70" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H2" start="1280" end="1305" text="blood  pressure is 160/70" time="during DCT" indicator="high bp" comment=""/>
+    </HYPERTENSION>
+    <HYPERLIPIDEMIA id="DOC7" time="before DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY0" start="158" end="172" text="hyperlipidemia" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY1" start="158" end="172" text="hyperlipidemia" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY2" start="158" end="172" text="hyperlipidemia" time="before DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <HYPERTENSION id="DOC8" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H3" start="143" end="155" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H4" start="143" end="155" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H5" start="143" end="155" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <FAMILY_HIST id="DOC9" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <HYPERLIPIDEMIA id="DOC10" time="after DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY3" start="158" end="172" text="hyperlipidemia" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY4" start="158" end="172" text="hyperlipidemia" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY5" start="158" end="172" text="hyperlipidemia" time="after DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <DIABETES id="DOC11" time="after DCT" indicator="mention">
+      <DIABETES id="D6" start="133" end="141" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D7" start="133" end="141" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D8" start="133" end="141" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <MEDICATION id="DOC12" time="before DCT" type1="thienopyridine" type2="">
+      <MEDICATION id="M8" start="1073" end="1079" text="Plavix" time="before DCT" type1="thienopyridine" type2="" comment=""/>
+      <MEDICATION id="M9" start="1073" end="1079" text="Plavix" time="before DCT" type1="thienopyridine" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC13" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H6" start="143" end="155" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H7" start="143" end="155" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H8" start="143" end="155" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <MEDICATION id="DOC14" time="before DCT" type1="aspirin" type2="">
+      <MEDICATION id="M10" start="1061" end="1068" text="aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M11" start="1061" end="1068" text="aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M12" start="1061" end="1068" text="aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC15" time="after DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M13" start="1768" end="1777" text="Lopressor" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M14" start="1759" end="1777" text="low-dose Lopressor" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M15" start="1768" end="1777" text="Lopressor" time="after DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <SMOKER id="DOC16" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" status="unknown"/>
+      <SMOKER id="S2" status="unknown"/>
+    </SMOKER>
+    <HYPERTENSION id="DOC17" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H9" start="143" end="155" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H10" start="143" end="155" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H11" start="143" end="155" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERLIPIDEMIA id="DOC18" time="during DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY6" start="158" end="172" text="hyperlipidemia" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY7" start="158" end="172" text="hyperlipidemia" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY8" start="158" end="172" text="hyperlipidemia" time="during DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <MEDICATION id="DOC19" time="after DCT" type1="thienopyridine" type2="">
+      <MEDICATION id="M16" start="1073" end="1079" text="Plavix" time="after DCT" type1="thienopyridine" type2="" comment=""/>
+      <MEDICATION id="M17" start="1073" end="1079" text="Plavix" time="after DCT" type1="thienopyridine" type2="" comment=""/>
+    </MEDICATION>
+    <PHI id="P0" start="16" end="26" text="2094-05-08" TYPE="DATE"/>
+    <PHI id="P1" start="43" end="58" text="Wilson, Gabriel" TYPE="PATIENT"/>
+    <PHI id="P2" start="69" end="76" text="8514931" TYPE="MEDICALRECORD"/>
+    <PHI id="P3" start="97" end="99" text="73" TYPE="AGE"/>
+    <PHI id="P4" start="411" end="417" text="Griggs" TYPE="PATIENT"/>
+    <PHI id="P5" start="1120" end="1124" text="2087" TYPE="DATE"/>
+    <PHI id="P6" start="1986" end="1998" text="Julie Fraser" TYPE="DOCTOR"/>
+    <PHI id="P7" start="2008" end="2010" text="JF" TYPE="DOCTOR"/>
+    <PHI id="P8" start="2011" end="2016" text="crane" TYPE="DOCTOR"/>
+    <PHI id="P9" start="2017" end="2023" text="powell" TYPE="DOCTOR"/>
+  </TAGS>
+</root>

@@ -1,0 +1,119 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2076-08-23
+
+PMH INTERNAL MEDICINE ASSOCIATES          William-Nuel, Kelli
+                                              89897856
+                                              8-23-76
+ 
+ 
+ 
+HPI: Mrs. William-Nuel is a 61-year old patient of mine who carries a 
+diagnosis of essential hypertension and comes in today for a routine 
+checkup. Patient appears to be doing fine. She has been compliant with her 
+antihypertensive regimen, which consists of nifedipine and also 
+hydrochlorothiazide. Since our last meeting, the patient has lost 
+approximately 15 to 20 pounds. She has been exercising on a daily basis 
+and eating very well, both of which have had very, very significant and 
+beneficial results on her blood pressure and pressure today on examination 
+was 120/80 in both arms. The patient was complaining of some ankle 
+swelling, and in looking through her medicines I noted that she had been 
+on furosemide, which was a holdover from the time of her most recent 
+admission. I quickly switched to furosemide to hydrochlorothiazide, which 
+I feel would give her much better diuretic response and relief of her 
+symptoms over the next few days. 
+ 
+The final issue with the patient today is low back pain, which she has had 
+chronically for the last several years after suffering a fall in 2065. We 
+have tried a whole host of conservative measures, which have included bed 
+rest, nonsteroidal anti-inflammatory agents, and back exercises. The 
+patient is referred now to the Paoli Memorial Hospital Spinal Clinic for 
+services to obtain further help, and hopefully treatment, of her pain. 
+Treatment recommendations from the Spinal Clinic will be forthcoming. 
+Patient is scheduled to follow up with me again in two to three months.
+ 
+ADDENDUM: The issue of her annual screening was addressed also and patient 
+agreed to have her cholesterol checked today, but does not want to have 
+either a mammogram or a Pap smear. She complains that she does not have 
+faith in these procedures and that this is something that she is not used 
+to and does not want to have done. I attempted to discuss the need and why 
+it is necessary to undergo continued screening and will continue to do 
+this with the patient in the future, but for now, the patient adamantly 
+refuses either of the two examinations. 
+ 
+ 
+ 
+_________________________
+Quinton Lovett, M.D. 
+ 
+pu:ZT:1220/0612
+DD:8-23-76
+DT:8-24-76
+DV:8-23-76
+ ******** Approved but not reviewed by Provider ********
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="during DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M0" start="466" end="476" text="nifedipine" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M1" start="466" end="476" text="nifedipine" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M2" start="466" end="476" text="nifedipine" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC1" time="during DCT" type1="diuretic" type2="">
+      <MEDICATION id="M3" start="487" end="506" text="hydrochlorothiazide" time="during DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M4" start="487" end="506" text="hydrochlorothiazide" time="during DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M5" start="487" end="506" text="hydrochlorothiazide" time="during DCT" type1="diuretic" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC2" time="before DCT" type1="diuretic" type2="">
+      <MEDICATION id="M6" start="487" end="506" text="hydrochlorothiazide" time="before DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M7" start="487" end="506" text="hydrochlorothiazide" time="before DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M8" start="487" end="506" text="hydrochlorothiazide" time="before DCT" type1="diuretic" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC3" time="before DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M9" start="466" end="476" text="nifedipine" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M10" start="466" end="476" text="nifedipine" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M11" start="466" end="476" text="nifedipine" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC5" time="after DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M12" start="466" end="476" text="nifedipine" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M13" start="466" end="476" text="nifedipine" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M14" start="466" end="476" text="nifedipine" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC7" time="after DCT" type1="diuretic" type2="">
+      <MEDICATION id="M15" start="487" end="506" text="hydrochlorothiazide" time="after DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M16" start="487" end="506" text="hydrochlorothiazide" time="after DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M17" start="487" end="506" text="hydrochlorothiazide" time="after DCT" type1="diuretic" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC4" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="299" end="311" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="299" end="311" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H2" start="289" end="311" text="essential hypertension" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC6" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H3" start="299" end="311" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H4" start="299" end="311" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H5" start="289" end="311" text="essential hypertension" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC10" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H6" start="299" end="311" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H7" start="299" end="311" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H8" start="289" end="311" text="essential hypertension" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <FAMILY_HIST id="DOC8" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC9" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" start="3" end="9" text="Record" status="unknown" comment=""/>
+      <SMOKER id="S2" status="unknown"/>
+    </SMOKER>
+  </TAGS>
+</root>

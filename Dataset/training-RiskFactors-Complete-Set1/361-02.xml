@@ -1,0 +1,217 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2065-01-29
+
+EDVISIT^47646361^JAY, COREY^01/29/65^TOMLIN, THEODORE
+
+The patient was seen on 01/29/2065.  I confirm that I have
+
+interviewed and examined the patient, reviewed the resident's
+
+documentation on the patient's chart, and discussed the
+
+evaluation, plan of care, and disposition with the patient.
+
+CHIEF COMPLAINT:  "Foot infection."
+
+HISTORY OF PRESENT ILLNESS:  The patient is a 46-year-old man
+
+with a history of insulin-dependent diabetes, blood sugars in the
+
+140s this week, chronic renal insufficiency on hemodialysis
+
+secondary to diabetes who had a bilateral TMA who presents with 3
+
+days of right heel ulcer, discharge and foul smelling order.  No
+
+erythema.  The patient had decreased sensation in bilateral feet
+
+secondary to diabetic neuropathy.  He denies nausea, vomiting,
+
+fevers, abdominal pain, cough, shortness breath, or chest pain. 
+
+The patient is blind and speaks Spanish.  He also has a history
+
+of hypertension.
+
+The rest of the past medical history, social history, family
+
+history, surgical history, review of systems, allergies, and
+
+medications as per the resident's note.
+
+PHYSICAL EXAMINATION:  Temperature is 98.2, pulse 78, respiratory
+
+rate 20, blood pressure is 201/104, and saturation 99% on room
+
+air.  General:  No apparent distress, cooperative.  HEENT: 
+
+Normocephalic and atraumatic.  Pupils were bilateral cataract
+
+blindness.  Conjunctivae were clear.  Oral mucosa was moist. 
+
+Neck is supple.  Lungs:  Clear to auscultation bilaterally, no
+
+wheezes or crackles.  Cardiac exam:  Regular rate and rhythm.  No
+
+murmurs, rubs, or gallops.  Abdominal exam:  Good bowel sounds,
+
+nondistended, nontender, and soft.  Extremity exam:  No ankle
+
+edema, calf tenderness, or asymmetry.  Musculoskeletal
+
+examination:  The patient has bilateral TMA.  Skin exam:  The
+
+patient has dry gauze at soles of his bilateral feet; however, he
+
+has a 1 cm diameter ulceration in the heel of his right foot that
+
+is crusty and has some yellowish discharge on gauze.  It indeed
+
+has foul odor.  It is nontender.  Neurological examination: 
+
+Motor strength 5/5 throughout all extremities.  Sensation
+
+decreased bilateral feet, to the ankles.  Rest of the lower
+
+extremities were intact to light touch and symmetrical.  Vascular
+
+examination 2+ radial and DP pulses.
+
+EMERGENCY DEPARTMENT COURSE:  A 46-year-old man diabetic with
+
+foul smelling foot ulcer.  Possible diagnoses is cellulitis, soft
+
+tissue infection, or osteomyelitis.  The patient's WBC was 6.2. 
+
+Hematocrit and platelets were normal.  He was slightly dry.  His
+
+BUN was 40.  His creatinine of 7.4; however, it was decreased
+
+from his hemodialysis yesterday.  Sodium was 139, potassium was
+
+5.0.  An x-ray of his foot of the right did not reveal any
+
+osteomyelitis; however, given his four smelling odor and
+
+yellowish discharge on his dressing, we elected to treat him with
+
+3.375 mg of Zosyn.  He also received Tylenol for some pain.  The
+
+patient blood pressure remained high and at one point it was
+
+232/109.  He received 10 mg of hydralazine, 10 mg of labetalol IV
+
+as well as 100 mg of labetalol p.o.  The patient's blood pressure
+
+went down to 140/82 prior to admission.  The patient's primary
+
+care physician was called who agreed with the admission to the
+
+Medical Service.
+
+DIAGNOSES:
+
+1.  Diabetic foot ulcers.
+
+2.  Hypertension.
+
+______________________________
+
+TOMLIN, THEODORE M.D.
+
+D: 01/29/65
+
+T: 01/29/65
+
+Dictated By: TOMLIN, THEODORE
+
+eScription document:6-8758584 BFFocus
+
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <DIABETES id="DOC0" time="before DCT" indicator="mention">
+      <DIABETES id="D0" start="441" end="468" text=" insulin-dependent diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D1" start="442" end="468" text="insulin-dependent diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D2" start="2359" end="2367" text="diabetic" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D3" start="565" end="573" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D4" start="460" end="468" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <HYPERTENSION id="DOC1" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="949" end="961" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="949" end="961" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H2" start="3337" end="3349" text="Hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H3" start="949" end="961" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC2" time="during DCT" indicator="high bp">
+      <HYPERTENSION id="H4" start="1205" end="1230" text="blood pressure is 201/104" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H5" start="1205" end="1230" text="blood pressure is 201/104" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H6" start="2947" end="3021" text="The  patient blood pressure remained high and at one point it was  232/109" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H7" start="3118" end="3186" text="The patient's blood pressure  went down to 140/82 prior to admission" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H8" start="1223" end="1230" text="201/104" time="during DCT" indicator="high bp" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC3" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H9" start="949" end="961" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H10" start="949" end="961" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H11" start="3337" end="3349" text="Hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H12" start="949" end="961" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <FAMILY_HIST id="DOC4" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <DIABETES id="DOC5" time="during DCT" indicator="mention">
+      <DIABETES id="D5" start="441" end="468" text=" insulin-dependent diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D6" start="442" end="468" text="insulin-dependent diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D7" start="2359" end="2367" text="diabetic" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D8" start="565" end="573" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D9" start="460" end="468" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <HYPERTENSION id="DOC6" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H13" start="949" end="961" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H14" start="949" end="961" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H15" start="3337" end="3349" text="Hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H16" start="949" end="961" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <SMOKER id="DOC7" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" status="unknown"/>
+      <SMOKER id="S2" start="83" end="87" text="The " status="unknown" comment=""/>
+    </SMOKER>
+    <DIABETES id="DOC8" time="after DCT" indicator="mention">
+      <DIABETES id="D10" start="441" end="468" text=" insulin-dependent diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D11" start="442" end="468" text="insulin-dependent diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D12" start="2359" end="2367" text="diabetic" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D13" start="565" end="573" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D14" start="460" end="468" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <MEDICATION id="DOC9" time="during DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M0" start="3058" end="3079" text="10 mg of labetalol IV" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M1" start="3092" end="3115" text="100 mg of labetalol p.o" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M2" start="3066" end="3077" text=" labetalol " time="during DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <PHI id="P0" start="16" end="26" text="2065-01-29" TYPE="DATE"/>
+    <PHI id="P1" start="36" end="44" text="47646361" TYPE="MEDICALRECORD"/>
+    <PHI id="P2" start="45" end="55" text="JAY, COREY" TYPE="PATIENT"/>
+    <PHI id="P3" start="56" end="64" text="01/29/65" TYPE="DATE"/>
+    <PHI id="P4" start="65" end="81" text="TOMLIN, THEODORE" TYPE="DOCTOR"/>
+    <PHI id="P5" start="107" end="117" text="01/29/2065" TYPE="DATE"/>
+    <PHI id="P6" start="407" end="409" text="46" TYPE="AGE"/>
+    <PHI id="P7" start="2343" end="2345" text="46" TYPE="AGE"/>
+    <PHI id="P8" start="3384" end="3400" text="TOMLIN, THEODORE" TYPE="DOCTOR"/>
+    <PHI id="P9" start="3410" end="3418" text="01/29/65" TYPE="DATE"/>
+    <PHI id="P10" start="3423" end="3431" text="01/29/65" TYPE="DATE"/>
+    <PHI id="P11" start="3446" end="3462" text="TOMLIN, THEODORE" TYPE="DOCTOR"/>
+    <PHI id="P12" start="3484" end="3493" text="6-8758584" TYPE="IDNUM"/>
+  </TAGS>
+</root>

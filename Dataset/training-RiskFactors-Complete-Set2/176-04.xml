@@ -1,0 +1,168 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2095-04-22
+
+EDVISIT^93295529^OSTRANDER, BILL^04/22/95^OXENDINE, LAWRENCE
+
+Seen and evaluated with resident, Dr. Castro.  I have reviewed
+
+her note and assessment and plan, and I agree.  I have seen and
+
+evaluated the patient myself.
+
+HISTORY OF PRESENT ILLNESS:  The patient is a 68-year-old
+
+gentleman with past medical history of alcoholism, as well as
+
+depression.  He has had a small-bowel obstruction in the past as
+
+well as CABG x2, PTSD, and high cholesterol, now presenting to
+
+the Emergency Room in the setting of having been separated from
+
+his girlfriend of 15 years secondary to his excessive alcohol use
+
+and drinking very heavily over the last week.  He was found in a
+
+bar intoxicated, and upon EMS arrival stated that he wanted help
+
+with his drinking problem as well as the fact that he was
+
+depressed without any SI or HI.  He is also stating that he has
+
+not taken any food in the last week, just alcohol.
+
+REVIEW OF SYSTEMS:  He is denying any chest pain, shortness of
+
+breath, any nausea, vomiting, diarrhea, any headache or blurred
+
+vision or any fall or trauma.
+
+PAST MEDICAL HISTORY:  As above.
+
+PAST SURGICAL HISTORY:  As above.
+
+MEDICATIONS:  He is on unknown medications.
+
+ALLERGIES:  No known allergies.
+
+ALLERGIES:  Current heavy alcohol use.
+
+SOCIAL HISTORY:  Does smoke cigarettes, but does not use illicit
+
+drugs.  He is a retired transporation manager, and he was previously
+
+living with his girlfriend, but has now been living alone for the
+
+last week.
+
+PHYSICAL EXAMINATION:  When he presented, he had a heart rate of
+
+65, respiratory rate of 16, BP of 150/79, and saturating 99% on
+
+room air.  He was afebrile at 96.7.  He was alert, interactive,
+
+appropriate, somewhat slurred speech, but gave a good history of
+
+signs and symptoms.  HEENT exam:  He is nonicteric with dry
+
+mucous membranes.  Heart was regular rhythm, no murmurs.  Lungs
+
+were clear to auscultation bilaterally.  Abdomen was soft and
+
+minimally diffusely tender.  He had no evidence of trauma and
+
+pain to palpation in his extremities.
+
+ASSESSMENT AND PLAN:  This is a patient with severe alcohol
+
+abuse, now presenting in the setting of an alcohol binge with no
+
+p.o. food intake.  We did send laboratory studies notable for an
+
+elevated white count of 9 as well as hyponatremia at 124, down
+
+from 135 previously.  Please see the resident note for full
+
+details.  His alcohol level was 277.
+
+EMERGENCY DEPARTMENT COURSE:  We did treat the patient with IV
+
+fluid as well as D5.  We did give him a p.o. diet here in the
+
+Emergency Department and we monitored him for withdrawal signs. 
+
+In addition, we contacted social work for help with his alcohol
+
+dependence/abuse, and he will be admitted to the Ochsner for
+
+further management of his hyponatremia as well as his alcohol
+
+abuse.  We also treated him with multivitamins.
+
+DIAGNOSES:
+
+1.  Alcohol intoxication
+
+2.  Alcohol dependence
+
+3.  Depression.
+
+4.  Hyponatremia.
+
+______________________________
+
+OXENDINE, LAWRENCE MD
+
+D: 04/22/95
+
+T: 04/22/95
+
+Dictated By: OXENDINE, LAWRENCE
+
+eScription document:1-81539559 HFFocus
+
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <HYPERLIPIDEMIA id="DOC2" time="before DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY0" start="465" end="481" text="high cholesterol" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY1" start="465" end="481" text="high cholesterol" time="before DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <HYPERLIPIDEMIA id="DOC4" time="after DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY2" start="465" end="481" text="high cholesterol" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY3" start="465" end="481" text="high cholesterol" time="after DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <HYPERLIPIDEMIA id="DOC6" time="during DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY4" start="465" end="481" text="high cholesterol" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY5" start="465" end="481" text="high cholesterol" time="during DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <HYPERTENSION id="DOC1" time="during DCT" indicator="high bp">
+      <HYPERTENSION id="H0" start="1598" end="1610" text="BP of 150/79" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H1" start="1597" end="1610" text=" BP of 150/79" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H2" start="1604" end="1610" text="150/79" time="during DCT" indicator="high bp" comment=""/>
+    </HYPERTENSION>
+    <CAD id="DOC0" time="before DCT" indicator="event">
+      <CAD id="C0" start="446" end="450" text="CABG" time="before DCT" indicator="event" comment=""/>
+      <CAD id="C1" start="445" end="453" text=" CABG x2" time="before DCT" indicator="event" comment=""/>
+    </CAD>
+    <FAMILY_HIST id="DOC5" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC3" status="current">
+      <SMOKER id="S0" start="1306" end="1327" text="Does smoke cigarettes" status="current" comment=""/>
+      <SMOKER id="S1" start="1306" end="1327" text="Does smoke cigarettes" status="current" comment=""/>
+      <SMOKER id="S2" start="1311" end="1327" text="smoke cigarettes" status="current" comment=""/>
+    </SMOKER>
+  </TAGS>
+</root>

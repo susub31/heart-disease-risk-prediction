@@ -1,0 +1,190 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2072-01-10
+
+                     LAGRANGE EMERGENCY DEPT VISIT
+
+ 
+
+LOUIS,ROBERT   855-88-85-2                   VISIT DATE: 01/10/72
+
+This patient was interviewed and examined by me exclusively.
+
+PRESENTING COMPLAINT:  Chest pain.
+
+HISTORY OF PRESENTING COMPLAINT:  This patient is a 67-year-old 
+
+male who has known atherosclerotic coronary heart disease 
+
+manifested by myocardial infarction approximately five years ago.  
+
+He also has congestive heart failure with an ejection fraction of 
+
+25%, and this is thought to be due to alcoholic cardiomyopathy 
+
+given a substantial history of alcohol ingestion.  Over the past 
+
+several months, he has stopped taking his medicine because he could 
+
+not get to his doctor and felt he could not buy the medicine.  Over 
+
+the past two weeks, he has been beset by palpitations and dyspnea 
+
+on exertion as well as palpitations at rest.
+
+REVIEW OF SYSTEMS:  He has had no vomiting, diaphoresis, radiation 
+
+of the pain, change in bowel habits or any cough.  All of the 
+
+systems are negative.
+
+PAST MEDICAL HISTORY:  He has had no significant surgeries.
+
+SOCIAL HISTORY AND FAMILY HISTORY:  He consumes alcohol slightly, 
+
+once smoked in the past, but does not any longer.  He lives with 
+
+his family.
+
+PHYSICAL EXAMINATION:  GENERAL:  Physical examination shows a 
+
+patient who is awake, alert, calm and oriented.  He is in no 
+
+distress at the time of examination.  EYES:  He had no scleral 
+
+icterus.  NECK:  There was no adenopathy.  His thyroid was not 
+
+palpable.  CHEST:  His chest was clear.  CARDIOVASCULAR:  His 
+
+cardiovascular exam showed a regular rate and rhythm.  ABDOMEN:  
+
+His abdomen was soft and nontender.  EXTREMITIES:  His extremities 
+
+showed no clubbing, cyanosis or edema.  SKIN:  He had no rash.  
+
+NEURO:  Neurologic exam was physiologic.
+
+LABORATORY EVALUATION:  Electrocardiogram showed tachycardia and 
+
+T-wave inversion diffusely, which was unchanged from prior 
+
+electrocardiogram.  His CK and troponin were unremarkable.  His 
+
+troponin was 1.1, which was similar to a previous admission.
+
+THERAPY RENDERED/COURSE IN ED:  The patient was treated with beta 
+
+blocker and aspirin in the Emergency Department.
+
+FINAL DIAGNOSES:
+
+1.  Angina pectoris.
+
+2.  Hypertension.
+
+3.  Tachycardia.
+
+DISPOSITION (including condition upon discharge):  The patient was  
+
+admitted to the Medical service for further evaluation.  He was 
+
+admitted in satisfactory condition.
+
+___________________________________                    FM381/03624 
+
+WILLIAM YARGER, M.D.       RY70                         D:01/10/72 
+
+                                                       T:01/10/72 
+
+Dictated by:  WILLIAM YARGER, M.D.       RY70 
+
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <CAD id="DOC0" time="before DCT" indicator="mention">
+      <CAD id="C0" start="349" end="372" text="coronary heart disease " time="before DCT" indicator="mention" comment=""/>
+      <CAD id="C1" start="349" end="371" text="coronary heart disease" time="before DCT" indicator="mention" comment=""/>
+      <CAD id="C2" start="333" end="371" text="atherosclerotic coronary heart disease" time="before DCT" indicator="mention" comment=""/>
+      <CAD id="C3" start="349" end="372" text="coronary heart disease " time="before DCT" indicator="mention" comment=""/>
+    </CAD>
+    <MEDICATION id="DOC1" time="during DCT" type1="aspirin" type2="">
+      <MEDICATION id="M0" start="2163" end="2170" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M1" start="2163" end="2170" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M2" start="2163" end="2170" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M3" start="2163" end="2170" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <CAD id="DOC2" time="before DCT" indicator="event">
+      <CAD id="C4" start="388" end="438" text="myocardial infarction approximately five years ago" time="before DCT" indicator="event" comment=""/>
+      <CAD id="C5" start="387" end="409" text=" myocardial infarction" time="before DCT" indicator="event" comment=""/>
+      <CAD id="C6" start="388" end="409" text="myocardial infarction" time="before DCT" indicator="event" comment=""/>
+      <CAD id="C7" start="388" end="409" text="myocardial infarction" time="before DCT" indicator="event" comment=""/>
+    </CAD>
+    <HYPERTENSION id="DOC3" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="2245" end="2257" text="Hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="2245" end="2257" text="Hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H2" start="2245" end="2257" text="Hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H3" start="2245" end="2257" text="Hypertension" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <FAMILY_HIST id="DOC4" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+      <FAMILY_HIST id="F3" indicator="not present"/>
+    </FAMILY_HIST>
+    <CAD id="DOC5" time="during DCT" indicator="mention">
+      <CAD id="C8" start="349" end="372" text="coronary heart disease " time="during DCT" indicator="mention" comment=""/>
+      <CAD id="C9" start="349" end="371" text="coronary heart disease" time="during DCT" indicator="mention" comment=""/>
+      <CAD id="C10" start="333" end="371" text="atherosclerotic coronary heart disease" time="during DCT" indicator="mention" comment=""/>
+      <CAD id="C11" start="349" end="372" text="coronary heart disease " time="during DCT" indicator="mention" comment=""/>
+    </CAD>
+    <HYPERTENSION id="DOC6" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H4" start="2245" end="2257" text="Hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H5" start="2245" end="2257" text="Hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H6" start="2245" end="2257" text="Hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H7" start="2245" end="2257" text="Hypertension" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <CAD id="DOC7" time="during DCT" indicator="symptom">
+      <CAD id="C12" start="2223" end="2238" text="Angina pectoris" time="during DCT" indicator="symptom" comment=""/>
+      <CAD id="C13" start="235" end="246" text="Chest pain." time="during DCT" indicator="symptom" comment=""/>
+      <CAD id="C14" start="235" end="245" text="Chest pain" time="during DCT" indicator="symptom" comment=""/>
+    </CAD>
+    <HYPERTENSION id="DOC8" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H8" start="2245" end="2257" text="Hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H9" start="2245" end="2257" text="Hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H10" start="2245" end="2257" text="Hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H11" start="2245" end="2257" text="Hypertension" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <MEDICATION id="DOC9" time="during DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M4" start="2131" end="2159" text="treated with beta   blocker " time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M5" start="2144" end="2158" text="beta   blocker" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M6" start="2144" end="2158" text="beta   blocker" time="during DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <CAD id="DOC10" time="after DCT" indicator="mention">
+      <CAD id="C15" start="349" end="372" text="coronary heart disease " time="after DCT" indicator="mention" comment=""/>
+      <CAD id="C16" start="349" end="371" text="coronary heart disease" time="after DCT" indicator="mention" comment=""/>
+      <CAD id="C17" start="333" end="371" text="atherosclerotic coronary heart disease" time="after DCT" indicator="mention" comment=""/>
+      <CAD id="C18" start="349" end="372" text="coronary heart disease " time="after DCT" indicator="mention" comment=""/>
+    </CAD>
+    <PHI id="P0" start="16" end="26" text="2072-01-10" TYPE="DATE"/>
+    <PHI id="P1" start="49" end="57" text="LAGRANGE" TYPE="HOSPITAL"/>
+    <PHI id="P2" start="83" end="95" text="LOUIS,ROBERT" TYPE="PATIENT"/>
+    <PHI id="P3" start="98" end="109" text="855-88-85-2" TYPE="MEDICALRECORD"/>
+    <PHI id="P4" start="140" end="148" text="01/10/72" TYPE="DATE"/>
+    <PHI id="P5" start="300" end="302" text="67" TYPE="AGE"/>
+    <PHI id="P6" start="2506" end="2517" text="FM381/03624" TYPE="IDNUM"/>
+    <PHI id="P7" start="2520" end="2534" text="WILLIAM YARGER" TYPE="DOCTOR"/>
+    <PHI id="P8" start="2547" end="2551" text="RY70" TYPE="USERNAME"/>
+    <PHI id="P9" start="2578" end="2586" text="01/10/72" TYPE="DATE"/>
+    <PHI id="P10" start="2646" end="2654" text="01/10/72" TYPE="DATE"/>
+    <PHI id="P11" start="2671" end="2685" text="WILLIAM YARGER" TYPE="DOCTOR"/>
+    <PHI id="P12" start="2698" end="2702" text="RY70" TYPE="USERNAME"/>
+  </TAGS>
+</root>

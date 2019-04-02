@@ -1,0 +1,151 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2087-10-04
+
+
+
+Problems
+
+Diabetes mellitus : started 2082
+
+Psoriasis 
+
+Hysterectomy : due to bleeding
+
+Gastrectomy : partial, PUD 2061
+
+Hypertension : did not tolerate ACE-I 
+
+
+
+
+
+Medications
+
+Glyburide 5MG, 0.5 Tablet(s) PO QD
+
+Atenolol 50MG, 1 Tablet(s) PO QD 
+
+Diprolene ointment
+
+
+
+63 yo for f/u diabetes, HTN. Recently noticed balack and blue marks on forearms. Glu 115 after coffee. Sugars at home running 70-168
+
+
+
+PE wgt 170  BP142/80 HR 60
+
+lungs clear
+
+cor RRR
+
+ext: some scattered echhymosis forearms + psoriasis (thickened skin)
+
+
+
+A. psoriasis
+
+    HTN
+
+    DM
+
+    ecchymosis
+
+
+
+P. fasting lipids, CBC, platelets, HgA1c. F/U 1 month.
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC2" time="after DCT" type1="sulfonylureas" type2="">
+      <MEDICATION id="M0" start="208" end="217" text="Glyburide" time="after DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M1" start="208" end="217" text="Glyburide" time="after DCT" type1="sulfonylureas" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC5" time="before DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M2" start="244" end="252" text="Atenolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M3" start="244" end="252" text="Atenolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M4" start="244" end="252" text="Atenolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC6" time="during DCT" type1="sulfonylureas" type2="">
+      <MEDICATION id="M5" start="208" end="217" text="Glyburide" time="during DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M6" start="208" end="217" text="Glyburide" time="during DCT" type1="sulfonylureas" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC9" time="after DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M7" start="244" end="252" text="Atenolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M8" start="244" end="252" text="Atenolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M9" start="244" end="252" text="Atenolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC11" time="during DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M10" start="244" end="252" text="Atenolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M11" start="244" end="252" text="Atenolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M12" start="244" end="252" text="Atenolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC14" time="before DCT" type1="sulfonylureas" type2="">
+      <MEDICATION id="M13" start="208" end="217" text="Glyburide" time="before DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M14" start="208" end="217" text="Glyburide" time="before DCT" type1="sulfonylureas" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC0" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="151" end="163" text="Hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="151" end="163" text="Hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H2" start="325" end="328" text="HTN" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H3" start="577" end="580" text="HTN" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H4" start="151" end="163" text="Hypertension" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC1" time="during DCT" indicator="high bp">
+      <HYPERTENSION id="H5" start="451" end="457" text="142/80" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H6" start="449" end="457" text="BP142/80" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H7" start="449" end="457" text="BP142/80" time="during DCT" indicator="high bp" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC4" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H8" start="151" end="163" text="Hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H9" start="151" end="163" text="Hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H10" start="325" end="328" text="HTN" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H11" start="577" end="580" text="HTN" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H12" start="151" end="163" text="Hypertension" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC8" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H13" start="151" end="163" text="Hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H14" start="151" end="163" text="Hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H15" start="325" end="328" text="HTN" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H16" start="577" end="580" text="HTN" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H17" start="151" end="163" text="Hypertension" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <FAMILY_HIST id="DOC13" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC10" status="unknown">
+      <SMOKER id="S0" start="3" end="9" text="Record" status="unknown" comment=""/>
+      <SMOKER id="S1" status="unknown"/>
+      <SMOKER id="S2" status="unknown"/>
+    </SMOKER>
+    <DIABETES id="DOC3" time="before DCT" indicator="mention">
+      <DIABETES id="D0" start="40" end="48" text="Diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D1" start="40" end="57" text="Diabetes mellitus" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D2" start="315" end="323" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D3" start="586" end="588" text="DM" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D4" start="40" end="72" text="Diabetes mellitus : started 2082" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC7" time="during DCT" indicator="mention">
+      <DIABETES id="D5" start="40" end="48" text="Diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D6" start="40" end="57" text="Diabetes mellitus" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D7" start="315" end="323" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D8" start="586" end="588" text="DM" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D9" start="40" end="72" text="Diabetes mellitus : started 2082" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC12" time="after DCT" indicator="mention">
+      <DIABETES id="D10" start="40" end="48" text="Diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D11" start="40" end="57" text="Diabetes mellitus" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D12" start="315" end="323" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D13" start="586" end="588" text="DM" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D14" start="40" end="72" text="Diabetes mellitus : started 2082" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+  </TAGS>
+</root>

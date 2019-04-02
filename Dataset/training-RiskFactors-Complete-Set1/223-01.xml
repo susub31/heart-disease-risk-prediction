@@ -1,0 +1,308 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2079-03-23
+
+ 
+
+  
+
+  March 23, 2079
+
+  
+
+  
+
+  
+
+  
+
+  Gage Yingling, M.D. 
+
+  Protestant Home Hospital 
+
+  57 Chinook Drive
+
+  Whiteville, AL 73844
+
+  
+
+  
+
+  RE:  Adler, Imogene
+
+  MRN: 618-13-82-6
+
+  
+
+  
+
+  Dear Dr. Yingling:
+
+  
+
+  Thank you for referring your patient, Imogene Adler,
+
+  for her problem of coronary ischemia.  As you know, Ms.
+
+  Adler is a 49 year old woman with four years of
+
+  essential hypertension and mild dyslipidemia who is
+
+  postmenopausal and has noticed increasing symptoms of chest
+
+  tightness associated with exertion.  A stress MIBI SPECT
+
+  study ordered by you demonstrated inferolateral mid and
+
+  basal inferior ischemia consistent with a left circumflex
+
+  distribution.  The details of the study include an exercise
+
+  protocol for which the patient exercised for 7 minutes and
+
+  15 seconds for 8.9 mets, with an increase in heart rate from
+
+  74 to 159 (which is 94% of predicted peak heart rate), and
+
+  increase in blood pressure from 134/80 to 210/80 (with a
+
+  rate pressure product of 33,390).  The test was stopped due
+
+  to fatigue and moderately severe chest pain.  EKG
+
+  demonstrated 1.5mm of upsloping depression in II, III, F and
+
+  V4-V5, and there were no noted arrhythmias.  
+
+  
+
+  Her past medical history is otherwise unremarkable and her
+
+  current medications include estrogen, Premarin, Provera, and
+
+  verapamil 240mg q.d.  A recent lipid panel demonstrated a
+
+  total cholesterol of 203, LDL of 142, and an HDL of 39.
+
+  
+
+  On physical examination, she is comfortable, well appearing
+
+  woman with a weight of 186 pounds, pulse 68 beats per minute
+
+  and regular, blood pressure 140/82 in the left arm.  Jugular
+
+  venous pressure was approximately 6-8cm of water.  Carotids
+
+  demonstrates normal upstroke with no bruits.  Chest
+
+  examination was clear to auscultation.  Heart examination
+
+  demonstrated a normal S1, positive S4, physiologically split
+
+  S2, no murmurs or rubs.  Abdominal examination was 
+
+  
+
+  
+
+  RE:  Adler, Imogene
+
+  MRN: 618-13-82-6
+
+  Page 2
+
+  March 23, 2079
+
+  
+
+  
+
+  
+
+  unremarkable.  Peripheral examination demonstrated no
+
+  peripheral examination and 2+ bilateral peripheral pulses.  
+
+  
+
+  EKG demonstrated normal sinus rhythm and otherwise normal
+
+  EKG.  
+
+  
+
+  I reviewed the findings suggestive of an obstructive
+
+  coronary lesion in the left circumflex distribution and the
+
+  probability of her having single vessel coronary artery
+
+  disease as the culprit for her chest pain.  We reviewed the
+
+  options which include medical therapy and/or coronary
+
+  angiography and possible angioplasty.  I made no solid
+
+  recommendations for her, but suggested that the angioplasty
+
+  approach was a relatively low risk approach which may lead
+
+  to curing the obstructive lesion as opposed to medical
+
+  therapy, which would also be a well supported decision, and
+
+  I reviewed the evidence to suggest medical treatment of
+
+  single vessel disease does not shorten one's life span and
+
+  only affects the quality of life depending on the symptom
+
+  tolerance.  She and her husband are going to reflect on
+
+  these recommendations and get back to me by the end of the
+
+  week.  If she does decide to undergo coronary angiography
+
+  and possible angioplasty, we will schedule her immediately
+
+  in Cardiology.
+
+  
+
+  I have scheduled follow-up in one month regardless to see
+
+  her in the office.  Please do not hesitate to contact me if
+
+  I can be of any further assistance.
+
+  
+
+  With warm regards,
+
+  
+
+  
+
+  
+
+  William Gomes, M.D. 
+
+  
+
+  WG/anderson
+
+  
+
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <HYPERTENSION id="DOC0" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="429" end="441" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="429" end="441" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H2" start="429" end="441" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <CAD id="DOC1" time="before DCT" indicator="symptom">
+      <CAD id="C0" start="1106" end="1134" text="moderately severe chest pain" time="before DCT" indicator="symptom" comment=""/>
+      <CAD id="C1" start="2500" end="2510" text="chest pain" time="before DCT" indicator="symptom" comment=""/>
+    </CAD>
+    <HYPERLIPIDEMIA id="DOC2" time="during DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY0" start="451" end="464" text="dyslipidemia " time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY1" start="451" end="463" text="dyslipidemia" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY2" start="451" end="463" text="dyslipidemia" time="during DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <MEDICATION id="DOC3" time="during DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M0" start="1387" end="1396" text="verapamil" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M1" start="1387" end="1396" text="verapamil" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <CAD id="DOC4" time="before DCT" indicator="test">
+      <CAD id="C2" start="576" end="729" text="stress MIBI SPECT    study ordered by you demonstrated inferolateral mid and    basal inferior ischemia consistent with a left circumflex    distribution" time="before DCT" indicator="test" comment=""/>
+      <CAD id="C3" start="576" end="729" text="stress MIBI SPECT    study ordered by you demonstrated inferolateral mid and    basal inferior ischemia consistent with a left circumflex    distribution" time="before DCT" indicator="test" comment=""/>
+      <CAD id="C4" start="2305" end="2398" text=" findings suggestive of an obstructive    coronary lesion in the left circumflex distribution" time="before DCT" indicator="test" comment=""/>
+    </CAD>
+    <MEDICATION id="DOC5" time="before DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M2" start="1387" end="1396" text="verapamil" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M3" start="1387" end="1396" text="verapamil" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC6" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H3" start="429" end="441" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H4" start="429" end="441" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H5" start="429" end="441" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <SMOKER id="DOC7" status="unknown">
+      <SMOKER id="S0" start="3" end="9" text="Record" status="unknown" comment=""/>
+      <SMOKER id="S1" status="unknown"/>
+      <SMOKER id="S2" status="unknown"/>
+    </SMOKER>
+    <HYPERLIPIDEMIA id="DOC8" time="before DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY3" start="451" end="464" text="dyslipidemia " time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY4" start="451" end="463" text="dyslipidemia" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY5" start="451" end="463" text="dyslipidemia" time="before DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <CAD id="DOC9" time="after DCT" indicator="mention">
+      <CAD id="C5" start="328" end="345" text="coronary ischemia" time="after DCT" indicator="mention" comment=""/>
+      <CAD id="C6" start="2436" end="2476" text="single vessel coronary artery    disease" time="after DCT" indicator="mention" comment=""/>
+    </CAD>
+    <HYPERLIPIDEMIA id="DOC10" time="before DCT" indicator="high LDL">
+      <HYPERLIPIDEMIA id="HY6" start="1474" end="1484" text="LDL of 142" time="before DCT" indicator="high LDL" comment=""/>
+      <HYPERLIPIDEMIA id="HY7" start="1474" end="1484" text="LDL of 142" time="before DCT" indicator="high LDL" comment=""/>
+      <HYPERLIPIDEMIA id="HY8" start="1474" end="1484" text="LDL of 142" time="before DCT" indicator="high LDL" comment=""/>
+    </HYPERLIPIDEMIA>
+    <HYPERLIPIDEMIA id="DOC11" time="after DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY9" start="451" end="464" text="dyslipidemia " time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY10" start="451" end="463" text="dyslipidemia" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY11" start="451" end="463" text="dyslipidemia" time="after DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <CAD id="DOC12" time="during DCT" indicator="mention">
+      <CAD id="C7" start="328" end="345" text="coronary ischemia" time="during DCT" indicator="mention" comment=""/>
+      <CAD id="C8" start="2436" end="2476" text="single vessel coronary artery    disease" time="during DCT" indicator="mention" comment=""/>
+    </CAD>
+    <MEDICATION id="DOC13" time="after DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M4" start="1387" end="1396" text="verapamil" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M5" start="1387" end="1396" text="verapamil" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC14" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H6" start="429" end="441" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H7" start="429" end="441" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H8" start="429" end="441" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <FAMILY_HIST id="DOC15" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <CAD id="DOC16" time="before DCT" indicator="mention">
+      <CAD id="C9" start="328" end="345" text="coronary ischemia" time="before DCT" indicator="mention" comment=""/>
+      <CAD id="C10" start="2436" end="2476" text="single vessel coronary artery    disease" time="before DCT" indicator="mention" comment=""/>
+    </CAD>
+    <PHI id="P0" start="16" end="26" text="2079-03-23" TYPE="DATE"/>
+    <PHI id="P1" start="37" end="51" text="March 23, 2079" TYPE="DATE"/>
+    <PHI id="P2" start="71" end="84" text="Gage Yingling" TYPE="DOCTOR"/>
+    <PHI id="P3" start="95" end="119" text="Protestant Home Hospital" TYPE="HOSPITAL"/>
+    <PHI id="P4" start="124" end="140" text="57 Chinook Drive" TYPE="STREET"/>
+    <PHI id="P5" start="144" end="154" text="Whiteville" TYPE="CITY"/>
+    <PHI id="P6" start="156" end="158" text="AL" TYPE="STATE"/>
+    <PHI id="P7" start="159" end="164" text="73844" TYPE="ZIP"/>
+    <PHI id="P8" start="181" end="195" text="Adler, Imogene" TYPE="PATIENT"/>
+    <PHI id="P9" start="204" end="215" text="618-13-82-6" TYPE="MEDICALRECORD"/>
+    <PHI id="P10" start="236" end="244" text="Yingling" TYPE="DOCTOR"/>
+    <PHI id="P11" start="291" end="304" text="Imogene Adler" TYPE="PATIENT"/>
+    <PHI id="P12" start="368" end="373" text="Adler" TYPE="PATIENT"/>
+    <PHI id="P13" start="379" end="381" text="49" TYPE="AGE"/>
+    <PHI id="P14" start="2013" end="2027" text="Adler, Imogene" TYPE="PATIENT"/>
+    <PHI id="P15" start="2036" end="2047" text="618-13-82-6" TYPE="MEDICALRECORD"/>
+    <PHI id="P16" start="2061" end="2075" text="March 23, 2079" TYPE="DATE"/>
+    <PHI id="P17" start="3322" end="3332" text="Cardiology" TYPE="DEPARTMENT"/>
+    <PHI id="P18" start="3542" end="3555" text="William Gomes" TYPE="DOCTOR"/>
+    <PHI id="P19" start="3570" end="3572" text="WG" TYPE="DOCTOR"/>
+    <PHI id="P20" start="3573" end="3581" text="anderson" TYPE="DOCTOR"/>
+  </TAGS>
+</root>

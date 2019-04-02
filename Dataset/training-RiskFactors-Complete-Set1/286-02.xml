@@ -1,0 +1,147 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2078-06-15
+
+                     DISTRICT FOUR EMERGENCY DEPT VISIT
+ 
+ESPOSITO,PERLA   146-55-23-5                     VISIT DATE: 06/15/78
+PRESENTING COMPLAINT:  The patient is a 77 year old female with 
+history of coronary artery disease who presents to District Four State Hospital emergency room department with chief complaint of numbness 
+in her left upper extremity and left lower extremity after 
+awakening today.  She denies slurred speech, shortness of breath, 
+or headache. 
+HISTORY OF PRESENTING COMPLAINT: 
+REVIEW OF SYSTEMS: 
+PAST MEDICAL HISTORY:  Positive for coronary artery bypass graft. 
+MEDICATIONS:  Lopressor, aspirin, Procardia. 
+ALLERGIES:  None. 
+SOCIAL HISTORY AND FAMILY HISTORY: 
+PHYSICAL EXAMINATION:  Temperature 97, pulse 64, respiratory rate 
+18, blood pressure 192/96.  HEENT:  Normocephalic, atraumatic. 
+Pupils equal, round, and reactive to light and accommodation. 
+Positive for AV nicking.  Extraocular movements intact.  Neck: 
+Supple.  No jugular venous distension.  Chest clear to auscultation 
+and percussion.  No rales, wheezes, or rhonchi.  Heart:  Normal S1 
+and S2.  No S3 or S4 or murmur.  Abdomen:  Soft, nontender, 
+nondistended.  No masses, rebound, or organomegaly.  Extremities: 
+Grossly within normal limits.  Neurologic:  She was awake and alert 
+and oriented times three.  Normal cerebellar.  Negative Babinski. 
+Muscle strength 4/5. 
+LABORATORY EVALUATION:  The patient had a head CT scan in the 
+emergency room department which was noted to be negative. 
+THERAPY RENDERED/COURSE IN ED: 
+PROCEDURES: 
+CONSULTATIONS (including PCP): 
+FINAL DIAGNOSIS:  Rule out cerebrovascular accident. 
+DISPOSITION (including condition upon discharge):  Admit the 
+patient to medicine service for further workup and evaluation. 
+___________________________________                    DQ294/8654 
+W. TAMAR WHITEHEAD, M.D.  TW31                            D:06/15/78 
+                                                       T:06/16/78 
+Dictated by:  W. TAMAR WHITEHEAD, M.D.  TW31 
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="during DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M0" start="657" end="666" text="Procardia" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M1" start="657" end="666" text="Procardia" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M2" start="657" end="666" text="Procardia" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <CAD id="DOC1" time="before DCT" indicator="mention">
+      <CAD id="C0" start="232" end="255" text="coronary artery disease" time="before DCT" indicator="mention" comment=""/>
+      <CAD id="C1" start="221" end="255" text="history of coronary artery disease" time="before DCT" indicator="mention" comment=""/>
+      <CAD id="C2" start="232" end="255" text="coronary artery disease" time="before DCT" indicator="mention" comment=""/>
+    </CAD>
+    <SMOKER id="DOC2" status="unknown">
+      <SMOKER id="S0" start="3" end="10" text="Record " status="unknown" comment=""/>
+      <SMOKER id="S1" status="unknown"/>
+      <SMOKER id="S2" status="unknown"/>
+    </SMOKER>
+    <MEDICATION id="DOC3" time="during DCT" type1="aspirin" type2="">
+      <MEDICATION id="M3" start="648" end="655" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M4" start="648" end="655" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M5" start="648" end="655" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <CAD id="DOC4" time="before DCT" indicator="event">
+      <CAD id="C3" start="592" end="621" text="coronary artery bypass graft." time="before DCT" indicator="event" comment=""/>
+      <CAD id="C4" start="579" end="620" text="Positive for coronary artery bypass graft" time="before DCT" indicator="event" comment=""/>
+      <CAD id="C5" start="592" end="621" text="coronary artery bypass graft." time="before DCT" indicator="event" comment=""/>
+    </CAD>
+    <MEDICATION id="DOC5" time="after DCT" type1="aspirin" type2="">
+      <MEDICATION id="M6" start="648" end="655" text="aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M7" start="648" end="655" text="aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M8" start="648" end="655" text="aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC6" time="during DCT" indicator="high bp">
+      <HYPERTENSION id="H0" start="810" end="817" text="192/96." time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H1" start="795" end="816" text="blood pressure 192/96" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H2" start="795" end="817" text="blood pressure 192/96." time="during DCT" indicator="high bp" comment=""/>
+    </HYPERTENSION>
+    <MEDICATION id="DOC7" time="before DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M9" start="657" end="666" text="Procardia" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M10" start="657" end="666" text="Procardia" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M11" start="657" end="666" text="Procardia" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC8" time="before DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M12" start="637" end="646" text="Lopressor" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M13" start="637" end="646" text="Lopressor" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M14" start="637" end="646" text="Lopressor" time="before DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC9" time="after DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M15" start="657" end="666" text="Procardia" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M16" start="657" end="666" text="Procardia" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M17" start="657" end="666" text="Procardia" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <CAD id="DOC10" time="during DCT" indicator="mention">
+      <CAD id="C6" start="232" end="255" text="coronary artery disease" time="during DCT" indicator="mention" comment=""/>
+      <CAD id="C7" start="221" end="255" text="history of coronary artery disease" time="during DCT" indicator="mention" comment=""/>
+      <CAD id="C8" start="232" end="255" text="coronary artery disease" time="during DCT" indicator="mention" comment=""/>
+    </CAD>
+    <MEDICATION id="DOC11" time="before DCT" type1="aspirin" type2="">
+      <MEDICATION id="M18" start="648" end="655" text="aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M19" start="648" end="655" text="aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M20" start="648" end="655" text="aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC12" time="after DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M21" start="637" end="646" text="Lopressor" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M22" start="637" end="646" text="Lopressor" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M23" start="637" end="646" text="Lopressor" time="after DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <CAD id="DOC13" time="after DCT" indicator="mention">
+      <CAD id="C9" start="232" end="255" text="coronary artery disease" time="after DCT" indicator="mention" comment=""/>
+      <CAD id="C10" start="221" end="255" text="history of coronary artery disease" time="after DCT" indicator="mention" comment=""/>
+      <CAD id="C11" start="232" end="255" text="coronary artery disease" time="after DCT" indicator="mention" comment=""/>
+    </CAD>
+    <MEDICATION id="DOC14" time="during DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M24" start="637" end="646" text="Lopressor" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M25" start="637" end="646" text="Lopressor" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M26" start="637" end="646" text="Lopressor" time="during DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <FAMILY_HIST id="DOC15" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <PHI id="P0" start="16" end="26" text="2078-06-15" TYPE="DATE"/>
+    <PHI id="P1" start="49" end="62" text="DISTRICT FOUR" TYPE="HOSPITAL"/>
+    <PHI id="P2" start="86" end="100" text="ESPOSITO,PERLA" TYPE="PATIENT"/>
+    <PHI id="P3" start="103" end="114" text="146-55-23-5" TYPE="MEDICALRECORD"/>
+    <PHI id="P4" start="147" end="155" text="06/15/78" TYPE="DATE"/>
+    <PHI id="P5" start="196" end="198" text="77" TYPE="AGE"/>
+    <PHI id="P6" start="272" end="300" text="District Four State Hospital" TYPE="HOSPITAL"/>
+    <PHI id="P7" start="1839" end="1849" text="DQ294/8654" TYPE="IDNUM"/>
+    <PHI id="P8" start="1851" end="1869" text="W. TAMAR WHITEHEAD" TYPE="DOCTOR"/>
+    <PHI id="P9" start="1877" end="1881" text="TW31" TYPE="USERNAME"/>
+    <PHI id="P10" start="1911" end="1919" text="06/15/78" TYPE="DATE"/>
+    <PHI id="P11" start="1978" end="1986" text="06/16/78" TYPE="DATE"/>
+    <PHI id="P12" start="2002" end="2020" text="W. TAMAR WHITEHEAD" TYPE="DOCTOR"/>
+    <PHI id="P13" start="2028" end="2032" text="TW31" TYPE="USERNAME"/>
+  </TAGS>
+</root>

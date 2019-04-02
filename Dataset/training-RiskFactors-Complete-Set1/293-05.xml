@@ -1,0 +1,148 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2082-04-29
+
+ 
+Vital Signs
+AGE 76y2.3m 
+BLOOD PRESSURE 128/70 
+WEIGHT 217 lb 
+O2 sat 97%
+
+76  year old patient presents for the following: follow-up of DM, hypertension
+Also presents for Physical examination and screening pelvic and pap test
+denies thirst, nocturia
+denies pelvic pain, vaginal itch, discharge. no postmenopausal bleeding
+continues to smoke, changed brands in order to help her eventually stop or cut down
+has a cough, postnasal drip. uses loratadine but not using nasal inhaler
+Medications:  per list
+Allergy:  NKA 
+Habits:  walks for exercise. eats some vegetables most days. denies ETOH/illicit substance use. takes multivits and calcium
+denies safety concerns
+
+ROS - denies weight change, fevers, chills, sweats
+denies rash or skin lesion
+denies headache, sensory disturbance, muscle weakness
+denies depression, anxiety, sleep disturbance
+denies GI distress, change in appetite or bowel habits
+denies joint pain, swelling
+denies urinary discomfort/frequency
+denies CP/SOB/PND/orthopnea/change in exercise tolerance
+denies wheezing
+PE
+VS as noted
+NAD
+alert and oriented x 3
+skin - no rash or lesion
+discs sharp, normal vascular caliber OU
+swelling beneath both eyes - inverted eye lids
+TMs intact AU
+no sinus tenderness
+no oral lesion, no pharyngeal inflammation or exudate
+no thyroid enlargement or tenderness
+no cervical/ax/ing lymphadenopathy
+chest clear to ausc RR 12
+cardiac normal s1/s2 no m/s3/s4 HR 70 reg
+breasts no mass/tend/discharge  performs BSE regularly
+abd no mass/tend/organomegaly BS+ throughout
+pelvic: vulva/vagina - normal mucosa, no discharge/ulceration  normal urinary meatus
+cervix - no motion tenderness or discharge. Pap specimen obtained
+bimanual - no uterine or adnexal mass/tend
+rectal - no hem/fissure/mass/tend  guaiac negative; normal sphincter tone
+no CCE
+no joint effusion, warmth or tenderness
+alert and oriented x 3; normal stance and gait. normal strength and tone
+femoral and carotid pulses 2+ symmetric no bruits
+DP and PT pulses 2/2 bilaterally
+feet - no ulcerations, open areas of skin on either side
+sensation on feet intact to monofilament bilaterally
+hgba1c 7.6
+urine microalb sl elevated
+Assessment - DM control has improved; we have already increased lisinopril
+inverted eye lids - requires surgery
+allergic rhinitis
+Plan - Pap test pending. call with results/plans
+pneumovax IM per LPN
+patient education regarding diet, exercise, multivits, calcium, ATOD non-use, safety; particular emphasis on tobacco cessation
+colonoscopy - schedule at next visit. Going to Oregon will return in 2-3 months
+encouraged to resume nasal steroids
+check urine microalb next visit
+pt declines eye appointment - leaving town soon. will arrange next time (to evaluate possible surgery to eye lids)
+rx's renewed and reviewed
+O. Feldman, MD
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="during DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M0" start="2231" end="2241" text="lisinopril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M1" start="2221" end="2241" text="increased lisinopril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M2" start="2231" end="2241" text="lisinopril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <DIABETES id="DOC1" time="during DCT" indicator="A1C">
+      <DIABETES id="D0" start="2129" end="2139" text="hgba1c 7.6" time="during DCT" indicator="A1C" comment=""/>
+      <DIABETES id="D1" start="2129" end="2139" text="hgba1c 7.6" time="during DCT" indicator="A1C" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC2" time="before DCT" indicator="mention">
+      <DIABETES id="D2" start="167" end="169" text="DM" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D3" start="167" end="169" text="DM" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D4" start="167" end="169" text="DM" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <HYPERTENSION id="DOC3" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="171" end="183" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="171" end="183" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H2" start="171" end="183" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <MEDICATION id="DOC4" time="before DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M3" start="2231" end="2241" text="lisinopril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M4" start="2221" end="2241" text="increased lisinopril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M5" start="2231" end="2241" text="lisinopril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <SMOKER id="DOC5" status="current">
+      <SMOKER id="S0" start="353" end="371" text="continues to smoke" status="current" comment=""/>
+      <SMOKER id="S1" start="353" end="371" text="continues to smoke" status="current" comment=""/>
+      <SMOKER id="S2" start="353" end="371" text="continues to smoke" status="current" comment=""/>
+    </SMOKER>
+    <HYPERTENSION id="DOC6" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H3" start="171" end="183" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H4" start="171" end="183" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H5" start="171" end="183" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <MEDICATION id="DOC7" time="after DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M6" start="2231" end="2241" text="lisinopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M7" start="2221" end="2241" text="increased lisinopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M8" start="2231" end="2241" text="lisinopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <DIABETES id="DOC8" time="during DCT" indicator="mention">
+      <DIABETES id="D5" start="167" end="169" text="DM" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D6" start="167" end="169" text="DM" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D7" start="167" end="169" text="DM" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <HYPERTENSION id="DOC9" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H6" start="171" end="183" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H7" start="171" end="183" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H8" start="171" end="183" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <FAMILY_HIST id="DOC10" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <DIABETES id="DOC11" time="after DCT" indicator="mention">
+      <DIABETES id="D8" start="167" end="169" text="DM" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D9" start="167" end="169" text="DM" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D10" start="167" end="169" text="DM" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <PHI id="P0" start="16" end="26" text="2082-04-29" TYPE="DATE"/>
+    <PHI id="P1" start="46" end="53" text="76y2.3m" TYPE="AGE"/>
+    <PHI id="P2" start="105" end="107" text="76" TYPE="AGE"/>
+    <PHI id="P3" start="2541" end="2547" text="Oregon" TYPE="STATE"/>
+    <PHI id="P4" start="2783" end="2793" text="O. Feldman" TYPE="DOCTOR"/>
+  </TAGS>
+</root>

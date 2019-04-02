@@ -1,0 +1,208 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2084-08-25
+
+61 yo man with CAD and PVD referred by Dr. Short for pre-operative evaluation prior to vascular surgery.
+
+
+
+He has a long hx of ischemic ulcer of the second toe of the right foot. He was admitted to the vascular service on 8/09 and had an arteriogram that showed complete occlusion of the SFA with reconstitution of the popliteal and single vessel run off. His pre-operative EKG raised the possibility of old ASMI although it was unchanged for a number of years. He underwent dobutamine MIBI which showed a moderate area of severe ischemia in the LAD territory. His LV was normal with EF of 59%. He underwent cath which showed complete occlusion of the LAD with collaterals from a fairly large diagonal that also had a tight stenosis. There were lower grade occlusions in the RCA territory and the LCX. He had been asymptomatic. The LAD lesion was long and totalled and not felt to be amenable to angioplasty. There were no indications to have him undergo CABG so the decision was made to PTCA the diagonal lesion to improve flow to the anterior wall. He tolerated this well. Returns today feeling well and has been active painting his fence and going up and down stairs without any chest pains or unusual SOB. Has had a hematoma in the groin.
+
+
+
+MEDICATIONS:  Serevent.  Flovent.  Enalapril.  Colchicine. Alopurinol.
+
+Albuterol.  Viagra.
+
+ 
+
+ALLERGIES:  None. 
+
+ 
+
+FAMILY HISTORY:  Father died at 57 after his 8th MI.  He had his
+
+first one at age 48.  Mother had a stroke in her early 50s.  His brother, Shields,
+
+died a miserable death with recurrent, inoperable laryngeal cancer.
+
+ 
+
+SOCIAL HISTORY:  Married.  Continues to work as a sales representative.  He
+
+has an adopted child, Xiao who is now 14 and doing very well in school. Quit smoking and drinking a number of years ago.
+
+ 
+
+
+
+ROS: No chest pains. Chronic shortness of breath. No bowel problems. No bladder problems. Does not exercise. Last cholesterol was  175/42.     The rest of the review of systems was negative. 
+
+
+
+PE: General: Looks well.
+
+================ Vital signs ================
+
+Blood Pressure:   150/80 142/80   130/78
+
+Pulse:   84   [Regular, Radial]
+
+Weight:   222   [Pounds]
+
+Skin: Chronic ischemic ulcer on the medial aspect of his second toe of the right foot.
+
+HEENT: EOMI. PEERL. No scleral icterus. Bilateral cataracts. Benign pharynx.
+
+Neck: No lymphadenopathy. No thyromegaly. No cartotid bruits.
+
+Lungs: Decreased breath sounds. Wheezes.
+
+Cor: JVP is normal. PMI is not displaced. Heart sounds barely audible No murmurs. No gallops.
+
+Abd: Normal bowel sounds. No hepatomegaly. No splenomegaly. No masses. No tenderness.
+
+He has a small echymosis of the left inguinal area. Bilateral femoral bruits. 1+ right femoral pulse. I cannot palpate the left pulse.
+
+Extremities: No pedal edema. Ulcer as above.
+
+
+
+EKG done in the office shows NSR at 74. Axis 90. Normal intervals. He has Q's in V1-V2 c/w possible OASMI. He has low volts in the precordial leads c/w chronic pulmonary disease. No changes from previous.
+
+
+
+================ Problems ================
+
+PRE-OP EVALUATION   He has rest ischemia of the toe. He has three vessel coronary disease that is asymptomatic. There are no indications at this time to push for CABG. He underwent angioplasty to try to improve flow to the anterior wall. His EKG suggests OASMI but his ventriculogram is normal without evidence of MI and EF of 59%. There are studies showing increased risk of in-stent thrombosis, MI, death in patients who have had Plavix stopped for non-cardiac surgery within two weeks of stent. He will be beyond the two week period and Dr. Short is willing to operate on him while continuing Plavix and aspirin. I believe he is an acceptable risk for surgery.
+
+
+
+PVD   Will need surgery for ischemic ulcer.
+
+
+
+COPD   Doing well and is stable. Instructed to use his inhalers faithfully in the preop period.
+
+       
+
+GOUT    No flares this year.
+
+      
+
+HYPERTENSION    Better when rechecked. He gets nervous with the initial measurements.
+
+      
+
+IMPOTENCE         Discussed the fact that, now that he has documented CAD, there is increased risk with Viagra use. He understands that but indicates that he feels that for him personally the benefits outweigh the risks.
+
+
+
+
+
+______________________________                              
+
+
+
+Welch, Xzavior Charles, M.D.
+
+
+
+cc: Dr. Farris Short
+
+     Vascular Surgery
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="during DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M0" start="1310" end="1319" text="Enalapril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M1" start="1310" end="1319" text="Enalapril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M2" start="1310" end="1319" text="Enalapril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC2" time="during DCT" type1="aspirin" type2="">
+      <MEDICATION id="M3" start="3685" end="3692" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M4" start="3685" end="3692" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC3" time="during DCT" type1="thienopyridine" type2="">
+      <MEDICATION id="M5" start="3674" end="3680" text="Plavix" time="during DCT" type1="thienopyridine" type2="" comment=""/>
+      <MEDICATION id="M6" start="3674" end="3680" text="Plavix" time="during DCT" type1="thienopyridine" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC5" time="before DCT" type1="aspirin" type2="">
+      <MEDICATION id="M7" start="3685" end="3692" text="aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M8" start="3685" end="3692" text="aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC7" time="before DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M9" start="1310" end="1319" text="Enalapril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M10" start="1310" end="1319" text="Enalapril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M11" start="1310" end="1319" text="Enalapril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC10" time="after DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M12" start="1310" end="1319" text="Enalapril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M13" start="1310" end="1319" text="Enalapril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M14" start="1310" end="1319" text="Enalapril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC11" time="after DCT" type1="thienopyridine" type2="">
+      <MEDICATION id="M15" start="3674" end="3680" text="Plavix" time="after DCT" type1="thienopyridine" type2="" comment=""/>
+      <MEDICATION id="M16" start="3674" end="3680" text="Plavix" time="after DCT" type1="thienopyridine" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC12" time="after DCT" type1="aspirin" type2="">
+      <MEDICATION id="M17" start="3685" end="3692" text="aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M18" start="3685" end="3692" text="aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC16" time="before DCT" type1="thienopyridine" type2="">
+      <MEDICATION id="M19" start="3674" end="3680" text="Plavix" time="before DCT" type1="thienopyridine" type2="" comment=""/>
+      <MEDICATION id="M20" start="3674" end="3680" text="Plavix" time="before DCT" type1="thienopyridine" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC6" time="during DCT" indicator="high bp">
+      <HYPERTENSION id="H0" start="2105" end="2120" text=" 150/80 142/80 " time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H1" start="2106" end="2112" text="150/80" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H2" start="2088" end="2120" text="Blood Pressure:   150/80 142/80 " time="during DCT" indicator="high bp" comment=""/>
+    </HYPERTENSION>
+    <CAD id="DOC1" time="before DCT" indicator="mention">
+      <CAD id="C0" start="43" end="46" text="CAD" time="before DCT" indicator="mention" comment=""/>
+      <CAD id="C1" start="3138" end="3167" text="three vessel coronary disease" time="before DCT" indicator="mention" comment=""/>
+      <CAD id="C2" start="43" end="46" text="CAD" time="before DCT" indicator="mention" comment=""/>
+      <CAD id="C3" start="3138" end="3167" text="three vessel coronary disease" time="before DCT" indicator="mention" comment=""/>
+      <CAD id="C4" start="4101" end="4104" text="CAD" time="before DCT" indicator="mention" comment=""/>
+    </CAD>
+    <CAD id="DOC4" time="before DCT" indicator="event">
+      <CAD id="C5" start="1017" end="1022" text="PTCA " time="before DCT" indicator="event" comment=""/>
+      <CAD id="C6" start="552" end="567" text="severe ischemia" time="before DCT" indicator="event" comment=""/>
+    </CAD>
+    <CAD id="DOC13" time="during DCT" indicator="mention">
+      <CAD id="C7" start="43" end="46" text="CAD" time="during DCT" indicator="mention" comment=""/>
+      <CAD id="C8" start="3138" end="3167" text="three vessel coronary disease" time="during DCT" indicator="mention" comment=""/>
+      <CAD id="C9" start="43" end="46" text="CAD" time="during DCT" indicator="mention" comment=""/>
+      <CAD id="C10" start="3138" end="3167" text="three vessel coronary disease" time="during DCT" indicator="mention" comment=""/>
+      <CAD id="C11" start="4101" end="4104" text="CAD" time="during DCT" indicator="mention" comment=""/>
+    </CAD>
+    <CAD id="DOC14" time="after DCT" indicator="mention">
+      <CAD id="C12" start="43" end="46" text="CAD" time="after DCT" indicator="mention" comment=""/>
+      <CAD id="C13" start="3138" end="3167" text="three vessel coronary disease" time="after DCT" indicator="mention" comment=""/>
+      <CAD id="C14" start="43" end="46" text="CAD" time="after DCT" indicator="mention" comment=""/>
+      <CAD id="C15" start="3138" end="3167" text="three vessel coronary disease" time="after DCT" indicator="mention" comment=""/>
+      <CAD id="C16" start="4101" end="4104" text="CAD" time="after DCT" indicator="mention" comment=""/>
+    </CAD>
+    <CAD id="DOC15" time="before DCT" indicator="test">
+      <CAD id="C17" start="504" end="761" text="dobutamine MIBI which showed a moderate area of severe ischemia in the LAD territory. His LV was normal with EF of 59%. He underwent cath which showed complete occlusion of the LAD with collaterals from a fairly large diagonal that also had a tight stenosis" time="before DCT" indicator="test" comment=""/>
+      <CAD id="C18" start="551" end="579" text=" severe ischemia in the LAD " time="before DCT" indicator="test" comment=""/>
+    </CAD>
+    <FAMILY_HIST id="DOC9" indicator="present">
+      <FAMILY_HIST id="F0" start="1411" end="1480" text="Father died at 57 after his 8th MI.  He had his  first one at age 48." indicator="present" comment=""/>
+      <FAMILY_HIST id="F1" start="1448" end="1481" text="He had his  first one at age 48. " indicator="present" comment=""/>
+      <FAMILY_HIST id="F2" start="1411" end="1446" text="Father died at 57 after his 8th MI." indicator="present" comment=""/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC8" status="past">
+      <SMOKER id="S0" start="1765" end="1778" text="Quit smoking " status="past" comment=""/>
+      <SMOKER id="S1" start="1765" end="1777" text="Quit smoking" status="past" comment=""/>
+      <SMOKER id="S2" start="1765" end="1777" text="Quit smoking" status="past" comment=""/>
+    </SMOKER>
+  </TAGS>
+</root>

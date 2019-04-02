@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2076-01-26
+
+
+
+New Patient Visit
+
+
+
+
+
+
+
+Chief Complaint of:  2nd opinion
+
+
+
+History of Present Illness: 74 yo M who comes to the office in search of a second opinion about his care at the Boaz Nursing Home in Lynden. He has a hx of prostate CA diagnosed in 2059 at the BNH and had an RRP shortly thereafter at the BNH. Apparently his pathology showed extraprostatic extension and he received postop XRT. Apparently, he has remained disease free since this time until a PSA was checked this past October which was 3.53. He states that he had not had his PSA checked for a few years before this, admittedly perhaps because he had missed appointments. The Urologists at the BNH have since checked a bone scan and abdominal CT scan, all of which were negative. He has the reports here with him. The bone scan does show an abnormality at L5, but with data from plain films this appears to not be consistent with a met lesion. He also has had recurrent problems with bleeding from hemorrhagic radiation cystitis. This occurs once every few months or so and is not currently bothering him. He states that he is scheduled to have a cystoscopy at the BNH next week, however, is unsure if he has had a urine cytology done.
+
+
+
+
+
+Impression: In reviewing the patient's limited records that he brings and his history, it appears that he has had the appropriate care at the BNH. I have reassured him of this, and have indicated that he should just make sure that a urine cytology is also checked and that a repeat PSA be performed in the near future. I also informed him that he will likely need anti-androgen therapy in the future for further treatment of his prostate CA. He may follow up with me if he has questions in the future.
+
+
+
+
+
+Quinton H. Welch, MD
+
+Urology - Laurens Memorial Hospital
+
+Berkley Medical School
+
+782-010-9623
+
+
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <FAMILY_HIST id="DOC0" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC1" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" start="3" end="9" text="Record" status="unknown" comment=""/>
+      <SMOKER id="S2" status="unknown"/>
+    </SMOKER>
+  </TAGS>
+</root>

@@ -1,0 +1,124 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2069-04-15
+
+EDVISIT^49921666^Schwartz, Xavier^04/15/69^NOLAN, N. YANCY(49863884)
+
+TIME OF DICTATION:  10:40 p.m.
+
+HISTORY OF PRESENT ILLNESS:  Mr. Schwartz is an 82-year-old male
+
+who presents to Gwinnett County Hospital Department of
+
+Emergency Medicine.  He was sent to ED by his primary care
+
+physician because of cough, productive of whitish sputum,
+
+wheezing, and mild shortness of breath.  He denies fever.  He
+
+denies chills.  He denies any other acute complaints.  He admits
+
+to the above-mentioned symptoms.  At times they last for two to
+
+three days' duration.  He has a temperature of 95, a pulse of 80,
+
+respiratory rate of 20, blood pressure 153/80, and O2 saturation
+
+95% on room air.
+
+The resident's note was reviewed.  The patient was interviewed. 
+
+The patient was examined by me.  I concur with the workup and
+
+evaluation of the patient in ED.  For a more detailed note on
+
+this patient, please review the resident's note.  Please review
+
+the resident's note for past medical history, surgical history,
+
+review of systems, medications, allergies, family history and
+
+social history.
+
+PHYSICAL EXAMINATION:  HEENT:  Normocephalic, atraumatic.  Pupils
+
+were equal, round, reactive.  Fundi were benign.  Neck was
+
+supple.  Chest was positive for coarse rhonchi and wheezes
+
+bilaterally.  Heart:  Notes a normal S1, S2.  No S3, S4.  No
+
+murmur.  Abdomen is benign, soft, nontender, no masses, guarding,
+
+rebound, and organomegaly.  Extremities:  Grossly within normal
+
+limits.  Neurologically, awake, alert, able to follow all
+
+commands.  Negative Babinski.
+
+Chest x-ray in the emergency department was negative for
+
+infiltrates.  Also negative for interstitial edema.  The EKG
+
+notes a paced rhythm at a rate of 91.  White count of 8,
+
+hematocrit was 36, normal serum electrolytes.  Normal CK, normal
+
+troponin.
+
+ ******** Not reviewed by Attending Physician ********
+
+breath most likely secondary to acute bronchitis.
+
+PLAN:  Admit to the Inpatient Service for further workup and
+
+evaluation.
+
+______________________________
+
+NOLAN, N. YANCY M.D. (49863884)	D: 04/15/69
+
+					T: 04/16/69
+
+Dictated By: NOLAN, N. YANCY
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <FAMILY_HIST id="DOC0" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC1" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" status="unknown"/>
+      <SMOKER id="S2" status="unknown"/>
+    </SMOKER>
+    <HYPERTENSION id="DOC2" time="during DCT" indicator="high bp">
+      <HYPERTENSION id="H0" start="656" end="677" text="blood pressure 153/80" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H1" start="655" end="677" text=" blood pressure 153/80" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H2" start="656" end="677" text="blood pressure 153/80" time="during DCT" indicator="high bp" comment=""/>
+    </HYPERTENSION>
+    <PHI id="P0" start="16" end="26" text="2069-04-15" TYPE="DATE"/>
+    <PHI id="P1" start="36" end="44" text="49921666" TYPE="MEDICALRECORD"/>
+    <PHI id="P2" start="45" end="61" text="Schwartz, Xavier" TYPE="PATIENT"/>
+    <PHI id="P3" start="62" end="70" text="04/15/69" TYPE="DATE"/>
+    <PHI id="P4" start="71" end="86" text="NOLAN, N. YANCY" TYPE="DOCTOR"/>
+    <PHI id="P5" start="87" end="95" text="49863884" TYPE="PHONE"/>
+    <PHI id="P6" start="163" end="171" text="Schwartz" TYPE="PATIENT"/>
+    <PHI id="P7" start="178" end="180" text="82" TYPE="AGE"/>
+    <PHI id="P8" start="212" end="236" text="Gwinnett County Hospital" TYPE="HOSPITAL"/>
+    <PHI id="P9" start="2058" end="2073" text="NOLAN, N. YANCY" TYPE="DOCTOR"/>
+    <PHI id="P10" start="2080" end="2088" text="49863884" TYPE="PHONE"/>
+    <PHI id="P11" start="2093" end="2101" text="04/15/69" TYPE="DATE"/>
+    <PHI id="P12" start="2111" end="2119" text="04/16/69" TYPE="DATE"/>
+    <PHI id="P13" start="2134" end="2149" text="NOLAN, N. YANCY" TYPE="DOCTOR"/>
+  </TAGS>
+</root>

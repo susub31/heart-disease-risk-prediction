@@ -1,0 +1,158 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2078-05-10
+
+
+
+Vital signs
+
+BP 140/88, P 68, Wt 172 lb 
+
+69 year old male returns with daughter and grandson for follow-up of diabetes and hypertension. he was seen here several weeks ago after a 4 month absence when he was in the UK. hgba1c and creatinine were checked at the time, and bp was to be rechecked as it was not optimally controlled. the patient returns feeling well, denies chest pain, shortness of breath, PND, orthopnea, change in exercise tolerance. he is taking medications as directed. daughter states that he saw an eye doctor in Anchorage Northeast in 11/77, had his pupils dilated, was checked for DM, was told everything was fine and he should return in 1 year
+
+VS as noted
+
+chest clear to ausc. RR 12
+
+cardiac normal s1/s2 no m/s3/s4 HR 58 reg
+
+no peripheral edema
+
+hgba1c 6.5 (decreased from 8.9 in 11/77) creatinine stable at 1.4
+
+Assessment - improved diabetic control. renal function stable. suboptimal bp control for diabetic with history of CAD; already bradycardic on atenolol 50 mg qd
+
+Plan - continue current regimen with the exception of lisinopril - will increase to 20mg qd. pt has PE scheduled 5/31/78. bp recheck at that time
+
+no ophthalmology referral was made as he appears to be up to date with eye care
+
+N. levine, MD
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="during DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M0" start="1086" end="1096" text="lisinopril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M1" start="1086" end="1096" text="lisinopril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M2" start="1086" end="1096" text="lisinopril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <CAD id="DOC1" time="after DCT" indicator="mention">
+      <CAD id="C0" start="974" end="988" text="history of CAD" time="after DCT" indicator="mention" comment=""/>
+      <CAD id="C1" start="985" end="988" text="CAD" time="after DCT" indicator="mention" comment=""/>
+      <CAD id="C2" start="985" end="988" text="CAD" time="after DCT" indicator="mention" comment=""/>
+    </CAD>
+    <DIABETES id="DOC2" time="before DCT" indicator="mention">
+      <DIABETES id="D0" start="141" end="149" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D1" start="141" end="149" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D2" start="141" end="149" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D3" start="634" end="636" text="DM" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D4" start="960" end="968" text="diabetic" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D5" start="141" end="149" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <HYPERTENSION id="DOC3" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="154" end="166" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="154" end="166" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H2" start="154" end="166" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H3" start="154" end="166" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <DIABETES id="DOC4" time="before DCT" indicator="A1C">
+      <DIABETES id="D6" start="804" end="815" text="hgba1c 6.5 " time="before DCT" indicator="A1C" comment=""/>
+      <DIABETES id="D7" start="816" end="844" text="decreased from 8.9 in 11/77)" time="before DCT" indicator="A1C" comment=""/>
+      <DIABETES id="D8" start="816" end="834" text="decreased from 8.9" time="before DCT" indicator="A1C" comment=""/>
+      <DIABETES id="D9" start="804" end="844" text="hgba1c 6.5 (decreased from 8.9 in 11/77)" time="before DCT" indicator="A1C" comment=""/>
+    </DIABETES>
+    <MEDICATION id="DOC5" time="before DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M3" start="1086" end="1096" text="lisinopril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M4" start="1086" end="1096" text="lisinopril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M5" start="1086" end="1096" text="lisinopril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC6" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H4" start="154" end="166" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H5" start="43" end="52" text="BP 140/88" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H6" start="154" end="166" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H7" start="154" end="166" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H8" start="154" end="166" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <MEDICATION id="DOC7" time="before DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M6" start="1013" end="1021" text="atenolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M7" start="1013" end="1021" text="atenolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M8" start="1013" end="1021" text="atenolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M9" start="1013" end="1021" text="atenolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC8" time="after DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M10" start="1086" end="1096" text="lisinopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M11" start="1086" end="1096" text="lisinopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M12" start="1086" end="1096" text="lisinopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <CAD id="DOC9" time="before DCT" indicator="mention">
+      <CAD id="C3" start="974" end="988" text="history of CAD" time="before DCT" indicator="mention" comment=""/>
+      <CAD id="C4" start="985" end="988" text="CAD" time="before DCT" indicator="mention" comment=""/>
+      <CAD id="C5" start="985" end="988" text="CAD" time="before DCT" indicator="mention" comment=""/>
+    </CAD>
+    <DIABETES id="DOC10" time="during DCT" indicator="mention">
+      <DIABETES id="D10" start="141" end="149" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D11" start="141" end="149" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D12" start="141" end="149" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D13" start="634" end="636" text="DM" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D14" start="960" end="968" text="diabetic" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D15" start="141" end="149" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <HYPERTENSION id="DOC11" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H9" start="154" end="166" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H10" start="154" end="166" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H11" start="154" end="166" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H12" start="154" end="166" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <MEDICATION id="DOC12" time="after DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M13" start="1013" end="1021" text="atenolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M14" start="1013" end="1021" text="atenolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M15" start="1013" end="1021" text="atenolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M16" start="1013" end="1021" text="atenolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <SMOKER id="DOC13" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" status="unknown"/>
+      <SMOKER id="S2" status="unknown"/>
+      <SMOKER id="S3" status="unknown"/>
+    </SMOKER>
+    <MEDICATION id="DOC14" time="during DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M17" start="1013" end="1021" text="atenolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M18" start="1013" end="1021" text="atenolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M19" start="1013" end="1021" text="atenolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M20" start="1013" end="1021" text="atenolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <DIABETES id="DOC15" time="after DCT" indicator="mention">
+      <DIABETES id="D16" start="141" end="149" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D17" start="141" end="149" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D18" start="141" end="149" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D19" start="634" end="636" text="DM" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D20" start="960" end="968" text="diabetic" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D21" start="141" end="149" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <FAMILY_HIST id="DOC16" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+      <FAMILY_HIST id="F3" indicator="not present"/>
+    </FAMILY_HIST>
+    <CAD id="DOC17" time="during DCT" indicator="mention">
+      <CAD id="C6" start="974" end="988" text="history of CAD" time="during DCT" indicator="mention" comment=""/>
+      <CAD id="C7" start="985" end="988" text="CAD" time="during DCT" indicator="mention" comment=""/>
+      <CAD id="C8" start="985" end="988" text="CAD" time="during DCT" indicator="mention" comment=""/>
+    </CAD>
+    <PHI id="P0" start="16" end="26" text="2078-05-10" TYPE="DATE"/>
+    <PHI id="P1" start="72" end="74" text="69" TYPE="AGE"/>
+    <PHI id="P2" start="242" end="248" text="the UK" TYPE="COUNTRY"/>
+    <PHI id="P3" start="564" end="583" text="Anchorage Northeast" TYPE="CITY"/>
+    <PHI id="P4" start="587" end="592" text="11/77" TYPE="DATE"/>
+    <PHI id="P5" start="838" end="843" text="11/77" TYPE="DATE"/>
+    <PHI id="P6" start="1145" end="1152" text="5/31/78" TYPE="DATE"/>
+    <PHI id="P7" start="1260" end="1269" text="N. levine" TYPE="DOCTOR"/>
+  </TAGS>
+</root>

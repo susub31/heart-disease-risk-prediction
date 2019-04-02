@@ -1,0 +1,179 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2063-10-04
+
+
+	CARDIOLOGY
+	
+
+	GRETNA COUNTY CENTER
+	
+
+
+	Reason for visit:
+   STEMI
+
+
+	Interval History:
+   This is a 56 year old female veterinarian who works for Calista Corporation in Wrightwood, AL who has been complaining of right shoulder pain for some time and was admitted to the GCC yesterday for same day arthroscopic surgery to treat adhesive capsulitis of the right shoulder.  The surgery went well without complications, but the patient awoke at home today with 3/10 chest pain and diaphoresis.  She called 911 and was found with inferior ST elevation and 8/10 CP that continued to worsen to 10/10 chest pain in the West Memorial Infirmary ER.  The ECG began to evolve reciprical changes, but the RV leads were negative for infarction.  The patient was transferred emergently directly to the GCC catheterization lab.
+
+PAST MEDICAL HISTORY:
+Adhesive capsulitis of the right shoulder
+Calcific tendonitis of R supraspinatus 
+GERD
+
+PAST SURGICAL HISTORY:
+PROCEDURE:
+Right shoulder arthroscopic acromioplasty, debridement, and resection of calcific mass on 10/3/63 at GCC.
+Partial hysterectomy
+SBO 
+
+ALLERGIES: Augmentin
+
+HOME MEDICATIONS:
+Prilosec 10 mg bid
+estrogen patch TOP qweek
+
+TRANSFER MEDICATIONS:
+ASA 325 mg x 1
+Morphine 
+Integrilin gtt
+Nitroglycerine gtt
+Heparin gtt
+
+FAMILY HISTORY:  Positive for colonic CA on mother's side. 
+
+SOCIAL HISTORY:
+Lives in Lodi with her children.  Veterinarian at Calista Corporation.
+Smokes about 3/4 of a pack a day and has done so for over thirty years. Denies 
+alcohol abuse. 
+
+
+	Review of systems:
+   General: No F/C/Sweats/Weakness/Fatigue/Weight loss
+HEENT: No vision problems/hearing problems/nose bleed/teeth or gum problems
+Card: No DOE/Orthopnea/PND/LE edema/Palpitations; + CP and diaphoresis
+Pulm:  No SOB/Pleursy/Wheezing/Cough/COPD/Asthma
+Abd: No pain/N/V/D/C/hematemasis/hematochezia/melena
+M/S: No decreased ROM/joint aches/muscle aches
+PVS: No claudication/cold extremities/varicose veins
+Hemo: No anemia/easy bruising or bleeding
+Urinary: No increased frequency/urgency/burning of urination
+Endo: No heat/cold sensitivity/polyuria/polydipsia/polyphagia
+Neuro: No loss of sensation/numbness/tingling/weak muscle strength
+Psych: No anxiety/depression 
+
+Physical examination:
+	
+-BMI: 23.8  Normal, low risk
+-Pulse:   
+-resp. rate:   
+-height: 68  in.
+-weight: 71  kg.
+-General appearance:   No acute distress.
+-HEENT:   Unremarkable
+-Neck:   JVP no jugular venous distention
+-Chest:   Clear to auscultation bilaterally by anterior exam.
+-Cardiac:   Left ventricular impulse discrete and nondisplaced. Regular rate and rhythm, normal S1 and S2, with no S3 or S4. There were no murmurs, clicks or rubs.
+-Abdomen:   Normal bowel sounds, soft and nontender, with no hepatosplenomegaly or masses appreciated.
+-Extremities:   No cyanosis, clubbing or edema. 2+ pedal pulses.
+-Neuro:   A&amp;O x3
+-BP:   
+
+Selected recent labs:
+
+	 Bainbridge State Hospital ER:
+K 4.2, BUN 19, Cr 0.9, Glu 177
+WBC 170, Hct 44.3, Hgb 15.1, Plt 261
+PT 9.9, PTT 25.2
+	
+
+
+	Assessment and plan:
+   This is a 56 yo WF with no cardiac history and only the risk factor of cigarette smoking presenting to the GCC cath lab emergently today with an STEMI while recovering at home from arthroscopic surgery on the right shoulder yesterday.  
+PLAN:
+- NPO for urgent cardiac catheterization
+- Admit to the service of Dr. Salas
+- Prehydration
+- Preprocedural labs: Lytes, CBC, coags, LFTs, cardiac enzymes to be drawn in cath lab.
+- Continue current transfer medications for ACS.
+- Anxiolytic x 1 prn anxiety
+- Smoking cessation consult
+- Further plans per Dr. Salas
+
+
+
+	
+Pablo Mendez, MPH, MS, PA-C
+Pager: 48125
+Phone: 03533
+
+	
+Pablo Y. Mendez, PA
+
+	
+Signed electronically by  Pablo Y. Mendez, PA
+Document Status: Final
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="during DCT" type1="aspirin" type2="">
+      <MEDICATION id="M0" start="1229" end="1232" text="ASA" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M1" start="1229" end="1232" text="ASA" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M2" start="1229" end="1232" text="ASA" time="during DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC1" time="before DCT" type1="nitrate" type2="">
+      <MEDICATION id="M3" start="1269" end="1283" text="Nitroglycerine" time="before DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M4" start="1269" end="1283" text="Nitroglycerine" time="before DCT" type1="nitrate" type2="" comment=""/>
+    </MEDICATION>
+    <SMOKER id="DOC2" status="current">
+      <SMOKER id="S0" start="1449" end="1481" text="Smokes about 3/4 of a pack a day" status="current" comment=""/>
+      <SMOKER id="S1" start="1449" end="1456" text="Smokes " status="current" comment=""/>
+      <SMOKER id="S2" start="1449" end="1519" text="Smokes about 3/4 of a pack a day and has done so for over thirty years" status="current" comment=""/>
+    </SMOKER>
+    <MEDICATION id="DOC3" time="after DCT" type1="nitrate" type2="">
+      <MEDICATION id="M5" start="1269" end="1283" text="Nitroglycerine" time="after DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M6" start="1269" end="1283" text="Nitroglycerine" time="after DCT" type1="nitrate" type2="" comment=""/>
+    </MEDICATION>
+    <FAMILY_HIST id="DOC4" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <MEDICATION id="DOC5" time="during DCT" type1="nitrate" type2="">
+      <MEDICATION id="M7" start="1269" end="1283" text="Nitroglycerine" time="during DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M8" start="1269" end="1283" text="Nitroglycerine" time="during DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M9" start="1269" end="1283" text="Nitroglycerine" time="during DCT" type1="nitrate" type2="" comment=""/>
+    </MEDICATION>
+    <PHI id="P0" start="16" end="26" text="2063-10-04" TYPE="DATE"/>
+    <PHI id="P1" start="45" end="65" text="GRETNA COUNTY CENTER" TYPE="HOSPITAL"/>
+    <PHI id="P2" start="132" end="134" text="56" TYPE="AGE"/>
+    <PHI id="P3" start="151" end="163" text="veterinarian" TYPE="PROFESSION"/>
+    <PHI id="P4" start="178" end="197" text="Calista Corporation" TYPE="ORGANIZATION"/>
+    <PHI id="P5" start="201" end="211" text="Wrightwood" TYPE="CITY"/>
+    <PHI id="P6" start="213" end="215" text="AL" TYPE="STATE"/>
+    <PHI id="P7" start="302" end="305" text="GCC" TYPE="HOSPITAL"/>
+    <PHI id="P8" start="643" end="666" text="West Memorial Infirmary" TYPE="HOSPITAL"/>
+    <PHI id="P9" start="819" end="822" text="GCC" TYPE="HOSPITAL"/>
+    <PHI id="P10" start="1079" end="1086" text="10/3/63" TYPE="DATE"/>
+    <PHI id="P11" start="1090" end="1093" text="GCC" TYPE="HOSPITAL"/>
+    <PHI id="P12" start="1387" end="1391" text="Lodi" TYPE="CITY"/>
+    <PHI id="P13" start="1412" end="1424" text="Veterinarian" TYPE="PROFESSION"/>
+    <PHI id="P14" start="1428" end="1447" text="Calista Corporation" TYPE="ORGANIZATION"/>
+    <PHI id="P15" start="2904" end="2929" text="Bainbridge State Hospital" TYPE="HOSPITAL"/>
+    <PHI id="P16" start="3058" end="3060" text="56" TYPE="AGE"/>
+    <PHI id="P17" start="3155" end="3158" text="GCC" TYPE="HOSPITAL"/>
+    <PHI id="P18" start="3362" end="3367" text="Salas" TYPE="DOCTOR"/>
+    <PHI id="P19" start="3601" end="3606" text="Salas" TYPE="DOCTOR"/>
+    <PHI id="P20" start="3612" end="3624" text="Pablo Mendez" TYPE="DOCTOR"/>
+    <PHI id="P21" start="3647" end="3652" text="48125" TYPE="PHONE"/>
+    <PHI id="P22" start="3660" end="3665" text="03533" TYPE="PHONE"/>
+    <PHI id="P23" start="3669" end="3684" text="Pablo Y. Mendez" TYPE="DOCTOR"/>
+    <PHI id="P24" start="3718" end="3733" text="Pablo Y. Mendez" TYPE="DOCTOR"/>
+  </TAGS>
+</root>

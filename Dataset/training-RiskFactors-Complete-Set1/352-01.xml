@@ -1,0 +1,185 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2062-02-13
+
+                     LOGWOOD EMERGENCY DEPT VISIT
+ 
+RILEY,MARY   631-07-92-1                      VISIT DATE: 02/13/62
+PRESENTING COMPLAINT:  Abdominal pain. 
+HISTORY OF PRESENTING COMPLAINT:  The patient is a 58-year-old 
+non-English-speaking Hispanic woman who presents for evaluation of 
+waxing and waning epigastric/right upper quadrant abdominal pain 
+for the past five days.  The patient was in her usual state of 
+health until one week ago, when she developed an upper respiratory 
+tract infection.  She was seen by her primary care physician, who 
+treated her with Biaxin.  The patient took the Biaxin; however, she 
+developed some epigastric abdominal pain on Tuesday.  She called 
+her primary care physician, who attributed her abdominal pain to a 
+Biaxin reaction.  She was told to discontinue the Biaxin on Thursday. 
+The patient denies any fevers, chills, nausea, vomiting, diarrhea, 
+or constipation.  She denies any dysuria, polyuria, or hematuria. 
+She denies any vaginal discharge.  She denies any shortness of 
+breath or chest pain.  She denies any arm, jaw, or back pain.  She 
+denies any diaphoresis or dizziness.  She does admit to some 
+burping and indigestion. 
+She describes the pain as cramping in nature.  It waxes and wanes. 
+It does not radiate anywhere.  Nothing seems to improve or worsen 
+the pain. 
+REVIEW OF SYSTEMS:  As per HPI, and otherwise negative.  In 
+particular, on cardiovascular review, she denies chest pain, arm 
+pain, jaw pain, or back pain; she denies any diaphoresis, 
+dizziness, nausea, vomiting, dyspnea on exertion, or palpitations. 
+On pulmonary, she admits to cough, but denies hemoptysis.  The 
+abdominal review is as per the HPI; she denies melena.  The GU 
+review is as per HPI. 
+PAST MEDICAL HISTORY:  (1) Type I diabetes mellitus; (2) 
+Hypertension; (3) Hypothyroidism; (4) Asthma; (5) Current upper 
+respiratory tract infection. 
+MEDICATIONS:  Albuterol inhaler; glucophage; insulin; codeine. 
+SOCIAL HISTORY AND FAMILY HISTORY:  Negative tobacco.  The family 
+history is negative for diabetes mellitus. 
+PHYSICAL EXAMINATION:  On physical examination, the vital signs 
+reveal a temperature of 98.6 degrees F., a blood pressure of 
+146/74, a pulse of 88, and a respiratory rate of 20.  The O2 
+saturation is 96% on room air.  In general, the patient is in no 
+acute distress.  The HEENT examination reveals the head to be 
+normocephalic; the examination is atraumatic.  EOMI.  PERLA.  The 
+throat is clear.  The neck is supple, with no JVD or bruits.  The 
+chest shows no crepitus or retractions.  The lungs have coarse 
+breath sounds.  The heart has a regular rhythm and rate without 
+murmurs, rubs, or gallops.  The abdomen is soft, with some very 
+mild epigastric tenderness, but no guarding, rebound, referred 
+pain, flank tenderness, palpable masses, or pulsatile masses.  The 
+extremities are warm and well-perfused without cyanosis, clubbing, 
+or edema.  On neurologic, there are no focal findings. 
+LABORATORY EVALUATION:  The chest x-ray shows no acute pathology. 
+The EKG shows a normal sinus rhythm at 90. 
+THERAPY RENDERED/COURSE IN ED:  The working diagnosis was peptic 
+ulcer disease exacerbation versus gastritis versus non-specific 
+abdominal pain.  The patient was status post cholecystectomy five 
+years ago.  She was afebrile and hemodynamically stable.  She did 
+not exhibit any stigmata of an acute coronary syndrome; however, 
+given her history of diabetes mellitus and her age, an EKG was 
+obtained and revealed a normal sinus rhythm at 90, without any 
+ischemic or infarctive changes.  She was medicated with 30 cc of 
+Maalox and 150 mg of Axid, which seemed to improve her pain 
+considerably.  Serial abdominal examinations did not reveal any 
+peritoneal signs or worsening abdominal pain.  The patient did not 
+have any medical records on the computer at this time.  Nursing and 
+Triage notes were reviewed and I concur in those findings. 
+FINAL DIAGNOSIS:  Abdominal pain, suspect gastritis versus peptic 
+ulcer disease. 
+DISPOSITION (including condition upon discharge):  The patient was 
+given abdominal pain instructions in Spanish.  She was given a 
+prescription for Axid and for Maalox.  She was to follow up with 
+her primary care physician the next day and return if symptoms were 
+to recur or worsen.  She was discharged in improved and stable 
+condition. 
+___________________________________                    JK917/8117 
+MIGUEL LARSON, M.D. ML60                              D:02/13/62 
+                                                       T:02/14/62 
+Dictated by:  MIGUEL LARSON, M.D. ML60
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <SMOKER id="DOC0" status="never">
+      <SMOKER id="S0" start="2017" end="2033" text="Negative tobacco" status="never" comment=""/>
+      <SMOKER id="S1" start="2017" end="2033" text="Negative tobacco" status="never" comment=""/>
+      <SMOKER id="S2" start="2017" end="2033" text="Negative tobacco" status="never" comment=""/>
+    </SMOKER>
+    <DIABETES id="DOC1" time="before DCT" indicator="mention">
+      <DIABETES id="D0" start="1798" end="1806" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D1" start="1791" end="1815" text="Type I diabetes mellitus" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D2" start="3457" end="3474" text="diabetes mellitus" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D3" start="1791" end="1815" text="Type I diabetes mellitus" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <MEDICATION id="DOC2" time="before DCT" type1="insulin" type2="">
+      <MEDICATION id="M0" start="1962" end="1969" text="insulin" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M1" start="1962" end="1969" text="insulin" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M2" start="1962" end="1969" text="insulin" time="before DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC3" time="before DCT" type1="metformin" type2="">
+      <MEDICATION id="M3" start="1950" end="1960" text="glucophage" time="before DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M4" start="1950" end="1960" text="glucophage" time="before DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M5" start="1950" end="1960" text="glucophage" time="before DCT" type1="metformin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC4" time="during DCT" type1="metformin" type2="">
+      <MEDICATION id="M6" start="1950" end="1960" text="glucophage" time="during DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M7" start="1950" end="1960" text="glucophage" time="during DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M8" start="1950" end="1960" text="glucophage" time="during DCT" type1="metformin" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC5" time="during DCT" indicator="high bp">
+      <HYPERTENSION id="H0" start="2219" end="2225" text="146/74" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H1" start="2219" end="2225" text="146/74" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H2" start="2219" end="2225" text="146/74" time="during DCT" indicator="high bp" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC6" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H3" start="1822" end="1834" text="Hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H4" start="1822" end="1835" text="Hypertension;" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H5" start="1822" end="1834" text="Hypertension" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <MEDICATION id="DOC7" time="after DCT" type1="metformin" type2="">
+      <MEDICATION id="M9" start="1950" end="1960" text="glucophage" time="after DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M10" start="1950" end="1960" text="glucophage" time="after DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M11" start="1950" end="1960" text="glucophage" time="after DCT" type1="metformin" type2="" comment=""/>
+    </MEDICATION>
+    <DIABETES id="DOC8" time="after DCT" indicator="mention">
+      <DIABETES id="D4" start="1798" end="1806" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D5" start="1791" end="1815" text="Type I diabetes mellitus" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D6" start="3457" end="3474" text="diabetes mellitus" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D7" start="1791" end="1815" text="Type I diabetes mellitus" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC9" time="during DCT" indicator="mention">
+      <DIABETES id="D8" start="1798" end="1806" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D9" start="1791" end="1815" text="Type I diabetes mellitus" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D10" start="3457" end="3474" text="diabetes mellitus" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D11" start="1791" end="1815" text="Type I diabetes mellitus" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <HYPERTENSION id="DOC10" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H6" start="1822" end="1834" text="Hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H7" start="1822" end="1835" text="Hypertension;" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H8" start="1822" end="1834" text="Hypertension" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <MEDICATION id="DOC11" time="during DCT" type1="insulin" type2="">
+      <MEDICATION id="M12" start="1962" end="1969" text="insulin" time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M13" start="1962" end="1969" text="insulin" time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M14" start="1962" end="1969" text="insulin" time="during DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <FAMILY_HIST id="DOC12" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <HYPERTENSION id="DOC13" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H9" start="1822" end="1834" text="Hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H10" start="1822" end="1835" text="Hypertension;" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H11" start="1822" end="1834" text="Hypertension" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <MEDICATION id="DOC14" time="after DCT" type1="insulin" type2="">
+      <MEDICATION id="M15" start="1962" end="1969" text="insulin" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M16" start="1962" end="1969" text="insulin" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M17" start="1962" end="1969" text="insulin" time="after DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <PHI id="P0" start="16" end="26" text="2062-02-13" TYPE="DATE"/>
+    <PHI id="P1" start="49" end="56" text="LOGWOOD" TYPE="HOSPITAL"/>
+    <PHI id="P2" start="80" end="90" text="RILEY,MARY" TYPE="PATIENT"/>
+    <PHI id="P3" start="93" end="104" text="631-07-92-1" TYPE="MEDICALRECORD"/>
+    <PHI id="P4" start="138" end="146" text="02/13/62" TYPE="DATE"/>
+    <PHI id="P5" start="238" end="240" text="58" TYPE="AGE"/>
+    <PHI id="P6" start="697" end="704" text="Tuesday" TYPE="DATE"/>
+    <PHI id="P7" start="847" end="855" text="Thursday" TYPE="DATE"/>
+    <PHI id="P8" start="4434" end="4444" text="JK917/8117" TYPE="IDNUM"/>
+    <PHI id="P9" start="4446" end="4459" text="MIGUEL LARSON" TYPE="DOCTOR"/>
+    <PHI id="P10" start="4466" end="4470" text="ML60" TYPE="USERNAME"/>
+    <PHI id="P11" start="4502" end="4510" text="02/13/62" TYPE="DATE"/>
+    <PHI id="P12" start="4569" end="4577" text="02/14/62" TYPE="DATE"/>
+    <PHI id="P13" start="4593" end="4606" text="MIGUEL LARSON" TYPE="DOCTOR"/>
+    <PHI id="P14" start="4613" end="4617" text="ML60" TYPE="USERNAME"/>
+  </TAGS>
+</root>

@@ -1,0 +1,325 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2079-05-08
+
+CARDIOLOGY
+
+ALGIERS MEDICAL CENTER
+
+
+
+Reason for visit:
+
+   Mr. Cortez is seen in follow up for ASMI, sleep apnea, coronary risk factors, glucose intolerance, obesity.
+
+
+
+Interval History:
+
+   The patient relates that he's been feeling reasonably well.  He complains of lightheadedness when he lies down which is lasting only seconds and disappears the instant he puts his head on his pillow.  He took one TNG over the past 6 months for indigestion like sensation.
+
+
+
+He doesn't have any exertional syndrome to suggest angina.
+
+
+
+No syncope, pre-syncope.  No palpitations, no recent weight loss.
+
+
+
+
+
+
+
+Social history:
+
+   Continues to work.  Looking forward to Spring work in his garden.
+
+
+
+Change in therapies and Renewals
+
+ASA 325 mg po qd Start: 05/08/2079
+
+Plavix 75mg po qd Start: 05/08/2079
+
+Toprol XL 25mg po qd Start: 05/08/2079
+
+Lipitor 10mg po qd Start: 05/08/2079
+
+lisinopril 10 mg po qd Start: 05/08/2079
+
+Prilosec 20mg po qd Start: 05/08/2079
+
+Imdur 30 mg SR po qd Start: 05/08/2079
+
+Lasix 10mg po qd Start: 05/08/2079
+
+
+
+Review of systems:
+
+   Most recent PSA was 3.4.  No other new issues.
+
+
+
+Physical examination:
+
+-BP: 146/86  
+
+-Pulse: 75  
+
+-weight: 250  
+
+-General:   No acute distress.
+
+-Skin:   slight drainage from lesion on upper back.  No rash.
+
+-Heent:   Unremarkable
+
+-Neck:   Carotids 2+ without bruits. JVP no jugular venous distention.
+
+-Chest:   Clear to auscultation and percussion.
+
+-Cardiac:   S1 S2.  Soft left sternal border and apical murmur grade 1-2 without radiation.
+
+-Abdomen:   Normal bowel sounds, obese,soft and nontender, with no hepatosplenomegaly or masses appreciated.
+
+-Extremities:   1+ edema bilaterally.
+
+-Musc skel:   Negative
+
+-Neuro:   Fluent, equal motor, symmetric cranial nerves
+
+
+
+Major Problems:
+
+Myocardial infarction (anteroseptal) HISTORY OF
+
+Apical dyskinesis
+
+Sleep apnea HISTORY OF
+
+
+
+Obesity
+
+
+
+Glucose intolerance HISTORY OF
+
+
+
+
+
+Assessment and plan:
+
+   Mr. Cortez is doing reasonably well.  
+
+
+
+I think it would be reasonable to obtain a stress test because he is not significantly active, has glucose intolerance and should be periodically screened for coronary artery disease progression.
+
+
+
+LDL goal should be 60-80 and Lipitor is increased to 20mg hs in this regard.
+
+
+
+BP goal should be 120 systolic and Lisinopril is increased to 20mg from 10mg in this regard,.
+
+
+
+He is strongly encouraged to pursue weightloss this Spring.
+
+
+
+F/U 6 months.
+
+
+
+ETT before visit.
+
+
+
+
+
+
+
+EKG:
+
+   Sinus rhythm, borderline left axis deviation, right bundle branch block with anteroseptal MI, no acute changes
+
+
+
+CC:   Nicholas Osuna, MD
+
+
+
+Signed electronically by   Opal P Garner MD  on  May 13, 2079     
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="during DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M0" start="905" end="916" text="lisinopril " time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M1" start="2309" end="2320" text="Lisinopril " time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M2" start="905" end="915" text="lisinopril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M3" start="905" end="916" text="lisinopril " time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC1" time="after DCT" type1="statin" type2="">
+      <MEDICATION id="M4" start="867" end="874" text="Lipitor" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M5" start="2223" end="2230" text="Lipitor" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M6" start="867" end="874" text="Lipitor" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M7" start="867" end="874" text="Lipitor" time="after DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC2" time="during DCT" type1="aspirin" type2="">
+      <MEDICATION id="M8" start="754" end="757" text="ASA" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M9" start="754" end="757" text="ASA" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M10" start="754" end="758" text="ASA " time="during DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC3" time="during DCT" type1="thienopyridine" type2="">
+      <MEDICATION id="M11" start="790" end="796" text="Plavix" time="during DCT" type1="thienopyridine" type2="" comment=""/>
+      <MEDICATION id="M12" start="790" end="796" text="Plavix" time="during DCT" type1="thienopyridine" type2="" comment=""/>
+      <MEDICATION id="M13" start="790" end="797" text="Plavix " time="during DCT" type1="thienopyridine" type2="" comment=""/>
+    </MEDICATION>
+    <OBESE id="DOC4" time="after DCT" indicator="mention">
+      <OBESE id="O0" start="187" end="195" text="obesity." time="after DCT" indicator="mention" comment=""/>
+      <OBESE id="O1" start="1881" end="1888" text="Obesity" time="after DCT" indicator="mention" comment=""/>
+      <OBESE id="O2" start="187" end="194" text="obesity" time="after DCT" indicator="mention" comment=""/>
+      <OBESE id="O3" start="186" end="194" text=" obesity" time="after DCT" indicator="mention" comment=""/>
+    </OBESE>
+    <MEDICATION id="DOC5" time="after DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M14" start="905" end="916" text="lisinopril " time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M15" start="2309" end="2320" text="Lisinopril " time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M16" start="905" end="915" text="lisinopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M17" start="905" end="916" text="lisinopril " time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC6" time="after DCT" type1="aspirin" type2="">
+      <MEDICATION id="M18" start="754" end="757" text="ASA" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M19" start="754" end="757" text="ASA" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M20" start="754" end="758" text="ASA " time="after DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC7" time="after DCT" type1="nitrate" type2="">
+      <MEDICATION id="M21" start="986" end="992" text="Imdur " time="after DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M22" start="986" end="991" text="Imdur" time="after DCT" type1="nitrate" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC8" time="during DCT" type1="nitrate" type2="">
+      <MEDICATION id="M23" start="986" end="992" text="Imdur " time="during DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M24" start="986" end="991" text="Imdur" time="during DCT" type1="nitrate" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC9" time="during DCT" indicator="high bp">
+      <HYPERTENSION id="H0" start="1161" end="1171" text="BP: 146/86" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H1" start="1160" end="1173" text="-BP: 146/86  " time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H2" start="1161" end="1172" text="BP: 146/86 " time="during DCT" indicator="high bp" comment=""/>
+    </HYPERTENSION>
+    <MEDICATION id="DOC10" time="after DCT" type1="thienopyridine" type2="">
+      <MEDICATION id="M25" start="790" end="796" text="Plavix" time="after DCT" type1="thienopyridine" type2="" comment=""/>
+      <MEDICATION id="M26" start="790" end="796" text="Plavix" time="after DCT" type1="thienopyridine" type2="" comment=""/>
+      <MEDICATION id="M27" start="790" end="797" text="Plavix " time="after DCT" type1="thienopyridine" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC11" time="after DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M28" start="827" end="836" text="Toprol XL" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M29" start="827" end="836" text="Toprol XL" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M30" start="827" end="834" text="Toprol " time="after DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <SMOKER id="DOC12" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" status="unknown"/>
+      <SMOKER id="S2" start="3" end="10" text="Record " status="unknown" comment=""/>
+    </SMOKER>
+    <MEDICATION id="DOC13" time="before DCT" type1="statin" type2="">
+      <MEDICATION id="M31" start="867" end="874" text="Lipitor" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M32" start="2223" end="2230" text="Lipitor" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M33" start="867" end="874" text="Lipitor" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M34" start="867" end="874" text="Lipitor" time="before DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC14" time="during DCT" type1="statin" type2="">
+      <MEDICATION id="M35" start="867" end="874" text="Lipitor" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M36" start="2223" end="2230" text="Lipitor" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M37" start="867" end="874" text="Lipitor" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M38" start="867" end="874" text="Lipitor" time="during DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <OBESE id="DOC15" time="before DCT" indicator="mention">
+      <OBESE id="O4" start="187" end="195" text="obesity." time="before DCT" indicator="mention" comment=""/>
+      <OBESE id="O5" start="1881" end="1888" text="Obesity" time="before DCT" indicator="mention" comment=""/>
+      <OBESE id="O6" start="187" end="194" text="obesity" time="before DCT" indicator="mention" comment=""/>
+      <OBESE id="O7" start="186" end="194" text=" obesity" time="before DCT" indicator="mention" comment=""/>
+    </OBESE>
+    <FAMILY_HIST id="DOC16" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <MEDICATION id="DOC17" time="before DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M39" start="905" end="916" text="lisinopril " time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M40" start="2309" end="2320" text="Lisinopril " time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M41" start="905" end="915" text="lisinopril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M42" start="905" end="916" text="lisinopril " time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC18" time="before DCT" type1="aspirin" type2="">
+      <MEDICATION id="M43" start="754" end="757" text="ASA" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M44" start="754" end="757" text="ASA" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M45" start="754" end="758" text="ASA " time="before DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC19" time="before DCT" type1="nitrate" type2="">
+      <MEDICATION id="M46" start="434" end="437" text="TNG" time="before DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M47" start="986" end="992" text="Imdur " time="before DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M48" start="434" end="437" text="TNG" time="before DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M49" start="986" end="991" text="Imdur" time="before DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M50" start="433" end="437" text=" TNG" time="before DCT" type1="nitrate" type2="" comment=""/>
+    </MEDICATION>
+    <CAD id="DOC20" time="before DCT" indicator="event">
+      <CAD id="C0" start="124" end="128" text="ASMI" time="before DCT" indicator="event" comment=""/>
+      <CAD id="C1" start="1787" end="1834" text="Myocardial infarction (anteroseptal) HISTORY OF" time="before DCT" indicator="event" comment=""/>
+      <CAD id="C2" start="2562" end="2577" text="anteroseptal MI" time="before DCT" indicator="event" comment=""/>
+      <CAD id="C3" start="1787" end="1834" text="Myocardial infarction (anteroseptal) HISTORY OF" time="before DCT" indicator="event" comment=""/>
+      <CAD id="C4" start="2562" end="2577" text="anteroseptal MI" time="before DCT" indicator="event" comment=""/>
+      <CAD id="C5" start="1787" end="1809" text="Myocardial infarction " time="before DCT" indicator="event" comment=""/>
+    </CAD>
+    <OBESE id="DOC21" time="during DCT" indicator="mention">
+      <OBESE id="O8" start="187" end="195" text="obesity." time="during DCT" indicator="mention" comment=""/>
+      <OBESE id="O9" start="1881" end="1888" text="Obesity" time="during DCT" indicator="mention" comment=""/>
+      <OBESE id="O10" start="187" end="194" text="obesity" time="during DCT" indicator="mention" comment=""/>
+      <OBESE id="O11" start="186" end="194" text=" obesity" time="during DCT" indicator="mention" comment=""/>
+    </OBESE>
+    <MEDICATION id="DOC22" time="before DCT" type1="thienopyridine" type2="">
+      <MEDICATION id="M51" start="790" end="796" text="Plavix" time="before DCT" type1="thienopyridine" type2="" comment=""/>
+      <MEDICATION id="M52" start="790" end="796" text="Plavix" time="before DCT" type1="thienopyridine" type2="" comment=""/>
+      <MEDICATION id="M53" start="790" end="797" text="Plavix " time="before DCT" type1="thienopyridine" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC23" time="before DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M54" start="827" end="836" text="Toprol XL" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M55" start="827" end="836" text="Toprol XL" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M56" start="827" end="834" text="Toprol " time="before DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC24" time="during DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M57" start="827" end="836" text="Toprol XL" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M58" start="827" end="836" text="Toprol XL" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M59" start="827" end="834" text="Toprol " time="during DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <PHI id="P0" start="16" end="26" text="2079-05-08" TYPE="DATE"/>
+    <PHI id="P1" start="40" end="62" text="ALGIERS MEDICAL CENTER" TYPE="HOSPITAL"/>
+    <PHI id="P2" start="92" end="98" text="Cortez" TYPE="PATIENT"/>
+    <PHI id="P3" start="690" end="696" text="Spring" TYPE="DATE"/>
+    <PHI id="P4" start="778" end="788" text="05/08/2079" TYPE="DATE"/>
+    <PHI id="P5" start="815" end="825" text="05/08/2079" TYPE="DATE"/>
+    <PHI id="P6" start="855" end="865" text="05/08/2079" TYPE="DATE"/>
+    <PHI id="P7" start="893" end="903" text="05/08/2079" TYPE="DATE"/>
+    <PHI id="P8" start="935" end="945" text="05/08/2079" TYPE="DATE"/>
+    <PHI id="P9" start="974" end="984" text="05/08/2079" TYPE="DATE"/>
+    <PHI id="P10" start="1014" end="1024" text="05/08/2079" TYPE="DATE"/>
+    <PHI id="P11" start="1050" end="1060" text="05/08/2079" TYPE="DATE"/>
+    <PHI id="P12" start="1957" end="1963" text="Cortez" TYPE="PATIENT"/>
+    <PHI id="P13" start="2423" end="2429" text="Spring" TYPE="DATE"/>
+    <PHI id="P14" start="2605" end="2619" text="Nicholas Osuna" TYPE="DOCTOR"/>
+    <PHI id="P15" start="2654" end="2667" text="Opal P Garner" TYPE="DOCTOR"/>
+    <PHI id="P16" start="2676" end="2688" text="May 13, 2079" TYPE="DATE"/>
+  </TAGS>
+</root>

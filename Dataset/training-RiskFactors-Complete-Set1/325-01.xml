@@ -1,0 +1,320 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2078-07-30
+
+
+
+Reason for Visit
+
+Follow-up
+
+
+
+Chief Complaint
+
+L post-auricular pain
+
+
+
+History of Present Illness
+
+Developed mild pain in L ear and postauricular area the last two weeks.  No trauma, no hearing loss, no vertigo, no URI symptoms
+
+
+
+Problems
+
+      Hypertension
+
+Tolerating Zestril without problems. BP still elevated on Zestril 20mg.
+
+      Obesity
+
+She was started on Xenical by Internal Medicine.  She is taking it only Qd instead of AC, since it is giving her too much loose stool.  She feels increase flatulence, bloating sensation on Xenical.
+
+      Depression
+
+Stable on Prozac.  No adverse side effects.  No SI or HI.
+
+      Knee pain
+
+from medial meniscal tear.  No edema, erythema. Celebrex effective initially but now not.  She is taking on top of Celebrex also Motrin.  She is going for return visit with Dr. Vogel to discuss surgery.
+
+      Anemia
+
+Fe studies, vitamin B12, folate levels all normal. Asymptomatic without CP, SOB, or lightheadedness.  No abnormal vaginal bleeding.
+
+
+
+Medications
+
+      Zestril (LISINOPRIL)    20MG,  1 Tablet(s)  PO QD
+
+      Prozac (FLUOXETINE Hcl)    20MG,  1 Tablet(s)  PO QD
+
+      Xenical (ORLISTAT)    120MG,  1 Capsule(s)  PO TID
+
+      IBUPROFEN   800MG,  1 Tablet(s)  PO TID
+
+      Vaseretic 10-25 (ENALAPRIL 10mg + Hctz 25mg)    .5 TABLET PO QD
+
+
+
+Allergies
+
+      NKDA
+
+
+
+Past Medical History
+
+Reviewed electronic data
+
+Reviewed old records
+
+See problem list
+
+
+
+Preventive Health History
+
+See Health Maint.
+
+
+
+Review of Systems
+
+CONSTITUTIONAL: Appetite good, nutrition adequate
+
+PAIN: see above
+
+BREASTS: Inconsistent self-exam
+
+RESP.: No cough
+
+CVS: No PND, exertional chest pain, claudication. 
+
+GI: No dyspepsia, constipation 
+
+GU: No dysuria, diminished stream, incontinence
+
+
+
+Vital Signs
+
+      BLOOD PRESSURE   160/70 
+
+      PULSE   72 
+
+      WEIGHT   196 lb
+
+
+
+Physical Exam
+
+      Chest
+
+clear to auscultation
+
+      Cor/Cardiac
+
+RRR, unchanged 2/6 SEM at RUSB
+
+      Musc Skel
+
+mild tenderness at medial joint line of L knee
+
+      HEENT
+
+L TM clear with good light reflex; L ear canal without worrisome lesion; L auricle and post-auricular area without palpable tenderness or signs of infection, no postauricular lymphadenopathy
+
+
+
+Assessment and Plan
+
+Summary: 50yoF with obesity, knee pain, hypertension
+
+
+
+1)  hypertension: tolering Zestril. K and Cr are fine. Will increase Zestril to 40mg QD.  Patient also given a prescription for Hctz 12.5mg QD but told not to start it yet until his next BP check and start only if BP > 140/85.
+
+
+
+2)  L knee pain: Celebrex not effective anymore. Patient told to stop and continue Ibuprofen 800mg TID with meals.  Patient will see Dr. Vogel and discuss surgery.  No benefit from PT.
+
+
+
+3)  obesity:  taking only Xenical once a day. No significant weight change yet, but recently just started on Xenical.  Will follow.
+
+
+
+4)  anemia: iron, vitamin B12, folate levels all normal.  Not still menstruating.  Rechecking Hct with reticulocyte count.
+
+
+
+5)  cardiac murmur: TTE in 8/78
+
+
+
+6)  L ear pain: etiology unclear.  Will follow expectantly.  
+
+
+
+7)  h/o GERD and Barrett's esophagitis: EGD in 8/78
+
+
+
+8)  hyperlipidemia: will recheck lipid panel at next visit and decide on statin therapy
+
+
+
+Health Maintenance
+
+- Breast exam/mammogram: 3/78 mammogram benign
+
+- Pap smear: patient deferred to next visit
+
+- Colonoscopy: will discuss at next visit
+
+
+
+RTC: 1-2 months to f/u EGD and TTE results and recheck BP.  Patient will likely need to start Hctz.
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="during DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M0" start="304" end="311" text="Zestril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M1" start="304" end="311" text="Zestril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M2" start="351" end="358" text="Zestril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M3" start="1046" end="1066" text="Zestril (LISINOPRIL)" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M4" start="2338" end="2345" text="Zestril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M5" start="2380" end="2387" text="Zestril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M6" start="304" end="311" text="Zestril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M7" start="1285" end="1295" text="ENALAPRIL " time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC1" time="before DCT" type1="ACE inhibitor" type2="diuretic">
+      <MEDICATION id="M8" start="1268" end="1277" text="Vaseretic" time="before DCT" type1="ACE inhibitor" type2="diuretic" comment=""/>
+      <MEDICATION id="M9" start="1268" end="1277" text="Vaseretic" time="before DCT" type1="ACE inhibitor" type2="diuretic" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC2" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="279" end="291" text="Hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="279" end="291" text="Hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H2" start="2295" end="2307" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H3" start="2315" end="2327" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H4" start="279" end="291" text="Hypertension" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <MEDICATION id="DOC3" time="after DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M10" start="304" end="311" text="Zestril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M11" start="304" end="311" text="Zestril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M12" start="351" end="358" text="Zestril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M13" start="1046" end="1066" text="Zestril (LISINOPRIL)" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M14" start="2338" end="2345" text="Zestril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M15" start="2380" end="2387" text="Zestril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M16" start="304" end="311" text="Zestril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M17" start="1285" end="1295" text="ENALAPRIL " time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC4" time="after DCT" type1="ACE inhibitor" type2="diuretic">
+      <MEDICATION id="M18" start="1268" end="1277" text="Vaseretic" time="after DCT" type1="ACE inhibitor" type2="diuretic" comment=""/>
+      <MEDICATION id="M19" start="1268" end="1277" text="Vaseretic" time="after DCT" type1="ACE inhibitor" type2="diuretic" comment=""/>
+    </MEDICATION>
+    <OBESE id="DOC5" time="after DCT" indicator="mention">
+      <OBESE id="O0" start="372" end="379" text="Obesity" time="after DCT" indicator="mention" comment=""/>
+      <OBESE id="O1" start="372" end="379" text="Obesity" time="after DCT" indicator="mention" comment=""/>
+      <OBESE id="O2" start="2275" end="2282" text="obesity" time="after DCT" indicator="mention" comment=""/>
+      <OBESE id="O3" start="2733" end="2740" text="obesity" time="after DCT" indicator="mention" comment=""/>
+      <OBESE id="O4" start="372" end="379" text="Obesity" time="after DCT" indicator="mention" comment=""/>
+    </OBESE>
+    <MEDICATION id="DOC6" time="after DCT" type1="diuretic" type2="">
+      <MEDICATION id="M20" start="2439" end="2443" text="Hctz" time="after DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M21" start="1302" end="1307" text="Hctz " time="after DCT" type1="diuretic" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC7" time="during DCT" indicator="high bp">
+      <HYPERTENSION id="H5" start="1784" end="1814" text="      BLOOD PRESSURE   160/70 " time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H6" start="1790" end="1813" text="BLOOD PRESSURE   160/70" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H7" start="1807" end="1814" text="160/70 " time="during DCT" indicator="high bp" comment=""/>
+    </HYPERTENSION>
+    <HYPERLIPIDEMIA id="DOC8" time="before DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY0" start="3149" end="3163" text="hyperlipidemia" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY1" start="3149" end="3163" text="hyperlipidemia" time="before DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <OBESE id="DOC9" time="during DCT" indicator="mention">
+      <OBESE id="O5" start="372" end="379" text="Obesity" time="during DCT" indicator="mention" comment=""/>
+      <OBESE id="O6" start="372" end="379" text="Obesity" time="during DCT" indicator="mention" comment=""/>
+      <OBESE id="O7" start="2275" end="2282" text="obesity" time="during DCT" indicator="mention" comment=""/>
+      <OBESE id="O8" start="2733" end="2740" text="obesity" time="during DCT" indicator="mention" comment=""/>
+      <OBESE id="O9" start="372" end="379" text="Obesity" time="during DCT" indicator="mention" comment=""/>
+    </OBESE>
+    <HYPERTENSION id="DOC10" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H8" start="279" end="291" text="Hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H9" start="279" end="291" text="Hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H10" start="2295" end="2307" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H11" start="2315" end="2327" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H12" start="279" end="291" text="Hypertension" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERLIPIDEMIA id="DOC11" time="after DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY2" start="3149" end="3163" text="hyperlipidemia" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY3" start="3149" end="3163" text="hyperlipidemia" time="after DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <MEDICATION id="DOC12" time="before DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M22" start="304" end="311" text="Zestril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M23" start="304" end="311" text="Zestril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M24" start="351" end="358" text="Zestril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M25" start="1046" end="1066" text="Zestril (LISINOPRIL)" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M26" start="2338" end="2345" text="Zestril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M27" start="2380" end="2387" text="Zestril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M28" start="304" end="311" text="Zestril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M29" start="1285" end="1295" text="ENALAPRIL " time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC13" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H13" start="279" end="291" text="Hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H14" start="279" end="291" text="Hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H15" start="2295" end="2307" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H16" start="2315" end="2327" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H17" start="279" end="291" text="Hypertension" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <OBESE id="DOC14" time="before DCT" indicator="mention">
+      <OBESE id="O10" start="372" end="379" text="Obesity" time="before DCT" indicator="mention" comment=""/>
+      <OBESE id="O11" start="372" end="379" text="Obesity" time="before DCT" indicator="mention" comment=""/>
+      <OBESE id="O12" start="2275" end="2282" text="obesity" time="before DCT" indicator="mention" comment=""/>
+      <OBESE id="O13" start="2733" end="2740" text="obesity" time="before DCT" indicator="mention" comment=""/>
+      <OBESE id="O14" start="372" end="379" text="Obesity" time="before DCT" indicator="mention" comment=""/>
+    </OBESE>
+    <FAMILY_HIST id="DOC15" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC16" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" status="unknown"/>
+      <SMOKER id="S2" start="1365" end="1380" text="Medical History" status="unknown" comment=""/>
+    </SMOKER>
+    <MEDICATION id="DOC17" time="during DCT" type1="diuretic" type2="">
+      <MEDICATION id="M30" start="2439" end="2443" text="Hctz" time="during DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M31" start="1302" end="1307" text="Hctz " time="during DCT" type1="diuretic" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERLIPIDEMIA id="DOC18" time="during DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY4" start="3149" end="3163" text="hyperlipidemia" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY5" start="3149" end="3163" text="hyperlipidemia" time="during DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <MEDICATION id="DOC19" time="during DCT" type1="ACE inhibitor" type2="diuretic">
+      <MEDICATION id="M32" start="1268" end="1277" text="Vaseretic" time="during DCT" type1="ACE inhibitor" type2="diuretic" comment=""/>
+      <MEDICATION id="M33" start="1268" end="1277" text="Vaseretic" time="during DCT" type1="ACE inhibitor" type2="diuretic" comment=""/>
+    </MEDICATION>
+    <PHI id="P0" start="16" end="26" text="2078-07-30" TYPE="DATE"/>
+    <PHI id="P1" start="411" end="428" text="Internal Medicine" TYPE="DEPARTMENT"/>
+    <PHI id="P2" start="851" end="856" text="Vogel" TYPE="DOCTOR"/>
+    <PHI id="P3" start="2264" end="2266" text="50" TYPE="AGE"/>
+    <PHI id="P4" start="2678" end="2683" text="Vogel" TYPE="DOCTOR"/>
+    <PHI id="P5" start="3017" end="3021" text="8/78" TYPE="DATE"/>
+    <PHI id="P6" start="3137" end="3141" text="8/78" TYPE="DATE"/>
+    <PHI id="P7" start="3281" end="3285" text="3/78" TYPE="DATE"/>
+  </TAGS>
+</root>

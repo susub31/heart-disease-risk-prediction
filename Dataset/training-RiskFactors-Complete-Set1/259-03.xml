@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2095-03-28
+
+
+Patient Name:                          Yin
+PH#:                                         374992 
+Date/Time:                               3/27/2095  
+Attending:                                Wright/Ferreira
+
+
+CC:                          Elevated Cr &#8211; Stent change
+
+
+HPI:                          77yM &#8211; known to Dr Ferreira/Wright practice. Muscular Dystrophy, CRI. Stents initially placed Nov 2093 for elevated Cr and CT with hydro (bsl Cr was 1.5-1.7 but may now  be elevated). Only change Dec 2094 since follow-up difficult. Continues to present with UTI&#8217;s intermittently normally treated in ED. This admission present with elevated BP and Cr that has responded to rehydration, difficulty urinating and chest pain.  
+
+
+PMH:                        Muscular Dystrophy, CRI, CAD, seizure disorder, fungal UTI, PVD, GERD
+
+
+PSH:                        2 x stent change, CABG
+
+
+MED:                        See admission list
+
+
+ALL:                        Emycin
+
+
+Labs:                       Admission Cr 2.9 &#8211; 3/27 &#8211; 2.7
+                                UA - Trace leuks, trace bacteria
+                                UC &#8211; No growth to date
+
+
+Image:                      Note
+
+
+O/E:         Vitals       AF, VSS  
+Gen         Bedbound
+Pul
+CVSAbd         No acute ain
+GU
+Other
+
+
+A/P
+77yM with CRI and elevated from baseline with indwelling bilateral ureteric stents normally changed every 3-6 months.  Cr still elevated. No evidence for urinary tract infection. Difficult management issue since fails to follow-up and is normally cared for during acute episode admissions.
+
+
+Recommendations:
+&#183;          IV hydrate
+&#183;          Will contact Dr Wright/Ferreira to determine if changing stents will be a feasible event during this admission
+
+
+
+
+
+
+________________________________________
+Umberto Varney, MD MBA  Urology Chief Resident
+
+
+
+]]></TEXT>
+  <TAGS>
+    <CAD id="DOC0" time="before DCT" indicator="mention">
+      <CAD id="C0" start="823" end="826" text="CAD" time="before DCT" indicator="mention" comment=""/>
+      <CAD id="C1" start="823" end="826" text="CAD" time="before DCT" indicator="mention" comment=""/>
+      <CAD id="C2" start="823" end="826" text="CAD" time="before DCT" indicator="mention" comment=""/>
+    </CAD>
+    <CAD id="DOC1" time="before DCT" indicator="event">
+      <CAD id="C3" start="898" end="920" text="2 x stent change, CABG" time="before DCT" indicator="event" comment=""/>
+      <CAD id="C4" start="898" end="920" text="2 x stent change, CABG" time="before DCT" indicator="event" comment=""/>
+      <CAD id="C5" start="916" end="920" text="CABG" time="before DCT" indicator="event" comment=""/>
+    </CAD>
+    <CAD id="DOC2" time="during DCT" indicator="mention">
+      <CAD id="C6" start="823" end="826" text="CAD" time="during DCT" indicator="mention" comment=""/>
+      <CAD id="C7" start="823" end="826" text="CAD" time="during DCT" indicator="mention" comment=""/>
+      <CAD id="C8" start="823" end="826" text="CAD" time="during DCT" indicator="mention" comment=""/>
+    </CAD>
+    <FAMILY_HIST id="DOC3" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC4" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" status="unknown"/>
+      <SMOKER id="S2" status="unknown"/>
+    </SMOKER>
+    <CAD id="DOC5" time="after DCT" indicator="mention">
+      <CAD id="C9" start="823" end="826" text="CAD" time="after DCT" indicator="mention" comment=""/>
+      <CAD id="C10" start="823" end="826" text="CAD" time="after DCT" indicator="mention" comment=""/>
+      <CAD id="C11" start="823" end="826" text="CAD" time="after DCT" indicator="mention" comment=""/>
+    </CAD>
+    <PHI id="P0" start="16" end="26" text="2095-03-28" TYPE="DATE"/>
+    <PHI id="P1" start="68" end="71" text="Yin" TYPE="PATIENT"/>
+    <PHI id="P2" start="72" end="74" text="PH" TYPE="HOSPITAL"/>
+    <PHI id="P3" start="117" end="123" text="374992" TYPE="MEDICALRECORD"/>
+    <PHI id="P4" start="166" end="175" text="3/27/2095" TYPE="DATE"/>
+    <PHI id="P5" start="220" end="226" text="Wright" TYPE="DOCTOR"/>
+    <PHI id="P6" start="227" end="235" text="Ferreira" TYPE="DOCTOR"/>
+    <PHI id="P7" start="332" end="334" text="77" TYPE="AGE"/>
+    <PHI id="P8" start="357" end="365" text="Ferreira" TYPE="DOCTOR"/>
+    <PHI id="P9" start="366" end="372" text="Wright" TYPE="DOCTOR"/>
+    <PHI id="P10" start="432" end="440" text="Nov 2093" TYPE="DATE"/>
+    <PHI id="P11" start="534" end="542" text="Dec 2094" TYPE="DATE"/>
+    <PHI id="P12" start="1062" end="1066" text="3/27" TYPE="DATE"/>
+    <PHI id="P13" start="1346" end="1348" text="77" TYPE="AGE"/>
+    <PHI id="P14" start="1714" end="1720" text="Wright" TYPE="DOCTOR"/>
+    <PHI id="P15" start="1721" end="1729" text="Ferreira" TYPE="DOCTOR"/>
+    <PHI id="P16" start="1856" end="1870" text="Umberto Varney" TYPE="DOCTOR"/>
+  </TAGS>
+</root>

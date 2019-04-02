@@ -1,0 +1,321 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2071-07-30
+
+ 
+
+EDUCARE-FARGO Cardiovascular Division
+
+CVD ER2
+
+21 Aberdeen Lane                                      JOSHI, PETER
+
+Etowah, CA 62884                                           45339844
+
+(297) 823-0872                                           07/30/71
+
+ 
+
+ 
+
+Leon F Craft, M.D.
+
+135 Tamworth Place
+
+Garnett, CA 47749
+
+ 
+
+Dear Dr. Craft,
+
+ 
+
+I had the pleasure of seeing Peter Joshi in the Cardiovascular Division on Tuesday.  This lovely gentleman with coronary artery
+
+disease requiring previous stenting and mild systolic dysfunction
+
+notes that he had to participate in the resuscitation of his son,
+
+who remains in the Beechwood ICU last night.  Despite this
+
+intense stress, he has no clear dyspnea on exertion,
+
+palpitations, lightheadedness, or chest discomfort at the present
+
+time.  He continues on aspirin, Lasix 60 mg a day, Isordil 40 mg
+
+p.o. t.i.d., Zestril 40 mg a day, Lopressor 100 mg b.i.d.,
+
+simvastatin 20 mg a day, Norvasc 5 mg p.o. b.i.d., Prevacid,
+
+multivitamins, and K-Dur in addition to his insulin.
+
+ 
+
+On physical exam today, his blood pressure is 180/75.  His heart
+
+rate is 54 and regular.  Respiratory rate is 10.  There is no
+
+increase in jugular venous pressure.  Carotids are without
+
+bruits.  Lungs are clear to auscultation throughout. 
+
+Cardiovascular exam is notable for lateral PMI, S4, S1, and
+
+physiologically split S2.  His abdomen is soft and nontender.  He
+
+has no bruits.  His extremities are warm with strong symmetric
+
+pulses and motor strength throughout.  He has no peripheral edema
+
+at the present time.  His electrocardiogram is notable for sinus
+
+bradycardia, evidence of prior inferior myocardial infarction,
+
+and lateral downsloping S-T, which are unchanged from his prior
+
+electrocardiograms.
+
+ 
+
+Mr. Joshi presents today with a euvolemic volume status, but a
+
+concerning blood pressure.  At this point, he notes that he is
+
+actually taking his Isordil b.i.d., and I will let him continue
+
+to do that.  We will increase his Norvasc to 10 mg, and he will
+
+be following up with you within the next few weeks.  If there are
+
+any other thoughts in the care of this gentleman, please give me
+
+a call.
+
+ 
+
+Sincerely,
+
+ 
+
+Dictated By: Corrine James-Wagner
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+______________________________
+
+Corrine James-Wagner, M.D.
+
+ 
+
+ 
+
+eScription document:0-5098538 TFFocus
+
+ 
+
+ 
+
+ 
+
+DD: 08/12/71
+
+DT: 08/12/71
+
+DV: 08/12/71
+
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="during DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M0" start="894" end="901" text="Zestril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M1" start="894" end="901" text="Zestril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M2" start="894" end="901" text="Zestril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC1" time="after DCT" type1="statin" type2="">
+      <MEDICATION id="M3" start="941" end="952" text="simvastatin" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M4" start="941" end="952" text="simvastatin" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M5" start="941" end="952" text="simvastatin" time="after DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC2" time="during DCT" type1="aspirin" type2="">
+      <MEDICATION id="M6" start="838" end="845" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M7" start="838" end="845" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M8" start="838" end="845" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC3" time="after DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M9" start="894" end="901" text="Zestril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M10" start="894" end="901" text="Zestril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M11" start="894" end="901" text="Zestril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC4" time="after DCT" type1="aspirin" type2="">
+      <MEDICATION id="M12" start="838" end="845" text="aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M13" start="838" end="845" text="aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M14" start="838" end="845" text="aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC5" time="after DCT" type1="nitrate" type2="">
+      <MEDICATION id="M15" start="866" end="873" text="Isordil" time="after DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M16" start="866" end="873" text="Isordil" time="after DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M17" start="1930" end="1937" text="Isordil" time="after DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M18" start="866" end="874" text="Isordil " time="after DCT" type1="nitrate" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC6" time="during DCT" type1="nitrate" type2="">
+      <MEDICATION id="M19" start="866" end="873" text="Isordil" time="during DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M20" start="866" end="873" text="Isordil" time="during DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M21" start="1930" end="1937" text="Isordil" time="during DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M22" start="866" end="874" text="Isordil " time="during DCT" type1="nitrate" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC7" time="during DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M23" start="966" end="973" text="Norvasc" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M24" start="966" end="973" text="Norvasc" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M25" start="2009" end="2016" text="Norvasc" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M26" start="966" end="973" text="Norvasc" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC8" time="after DCT" type1="insulin" type2="">
+      <MEDICATION id="M27" start="1047" end="1054" text="insulin" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M28" start="1047" end="1054" text="insulin" time="after DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC9" time="during DCT" indicator="high bp">
+      <HYPERTENSION id="H0" start="1088" end="1112" text="blood pressure is 180/75" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H1" start="1088" end="1112" text="blood pressure is 180/75" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H2" start="1106" end="1112" text="180/75" time="during DCT" indicator="high bp" comment=""/>
+    </HYPERTENSION>
+    <MEDICATION id="DOC10" time="before DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M29" start="966" end="973" text="Norvasc" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M30" start="966" end="973" text="Norvasc" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M31" start="2009" end="2016" text="Norvasc" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M32" start="966" end="973" text="Norvasc" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC11" time="after DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M33" start="915" end="924" text="Lopressor" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M34" start="915" end="924" text="Lopressor" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M35" start="915" end="924" text="Lopressor" time="after DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <SMOKER id="DOC12" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" status="unknown"/>
+      <SMOKER id="S2" start="3" end="9" text="Record" status="unknown" comment=""/>
+    </SMOKER>
+    <CAD id="DOC13" time="after DCT" indicator="mention">
+      <CAD id="C0" start="483" end="508" text="coronary artery  disease " time="after DCT" indicator="mention" comment=""/>
+      <CAD id="C1" start="483" end="507" text="coronary artery  disease" time="after DCT" indicator="mention" comment=""/>
+      <CAD id="C2" start="483" end="507" text="coronary artery  disease" time="after DCT" indicator="mention" comment=""/>
+      <CAD id="C3" start="866" end="874" text="Isordil " time="after DCT" indicator="mention" comment=""/>
+    </CAD>
+    <MEDICATION id="DOC14" time="before DCT" type1="statin" type2="">
+      <MEDICATION id="M36" start="941" end="952" text="simvastatin" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M37" start="941" end="952" text="simvastatin" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M38" start="941" end="952" text="simvastatin" time="before DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC15" time="during DCT" type1="statin" type2="">
+      <MEDICATION id="M39" start="941" end="952" text="simvastatin" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M40" start="941" end="952" text="simvastatin" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M41" start="941" end="952" text="simvastatin" time="during DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <FAMILY_HIST id="DOC16" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <MEDICATION id="DOC17" time="before DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M42" start="894" end="901" text="Zestril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M43" start="894" end="901" text="Zestril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M44" start="894" end="901" text="Zestril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <CAD id="DOC18" time="during DCT" indicator="mention">
+      <CAD id="C4" start="483" end="508" text="coronary artery  disease " time="during DCT" indicator="mention" comment=""/>
+      <CAD id="C5" start="483" end="507" text="coronary artery  disease" time="during DCT" indicator="mention" comment=""/>
+      <CAD id="C6" start="483" end="507" text="coronary artery  disease" time="during DCT" indicator="mention" comment=""/>
+      <CAD id="C7" start="866" end="874" text="Isordil " time="during DCT" indicator="mention" comment=""/>
+    </CAD>
+    <MEDICATION id="DOC19" time="before DCT" type1="aspirin" type2="">
+      <MEDICATION id="M45" start="838" end="845" text="aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M46" start="838" end="845" text="aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M47" start="838" end="845" text="aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC20" time="before DCT" type1="nitrate" type2="">
+      <MEDICATION id="M48" start="866" end="873" text="Isordil" time="before DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M49" start="866" end="873" text="Isordil" time="before DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M50" start="1930" end="1937" text="Isordil" time="before DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M51" start="866" end="874" text="Isordil " time="before DCT" type1="nitrate" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC21" time="before DCT" type1="insulin" type2="">
+      <MEDICATION id="M52" start="1047" end="1054" text="insulin" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M53" start="1047" end="1054" text="insulin" time="before DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <CAD id="DOC22" time="before DCT" indicator="event">
+      <CAD id="C8" start="518" end="535" text="previous stenting" time="before DCT" indicator="event" comment=""/>
+      <CAD id="C9" start="1654" end="1690" text="prior inferior myocardial infarction" time="before DCT" indicator="event" comment=""/>
+      <CAD id="C10" start="527" end="535" text="stenting" time="before DCT" indicator="event" comment=""/>
+    </CAD>
+    <MEDICATION id="DOC23" time="after DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M54" start="966" end="973" text="Norvasc" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M55" start="966" end="973" text="Norvasc" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M56" start="2009" end="2016" text="Norvasc" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M57" start="966" end="973" text="Norvasc" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC24" time="during DCT" type1="insulin" type2="">
+      <MEDICATION id="M58" start="1047" end="1054" text="insulin" time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M59" start="1047" end="1054" text="insulin" time="during DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC25" time="before DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M60" start="915" end="924" text="Lopressor" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M61" start="915" end="924" text="Lopressor" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M62" start="915" end="924" text="Lopressor" time="before DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC26" time="during DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M63" start="915" end="924" text="Lopressor" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M64" start="915" end="924" text="Lopressor" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M65" start="915" end="924" text="Lopressor" time="during DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <CAD id="DOC27" time="before DCT" indicator="mention">
+      <CAD id="C11" start="483" end="508" text="coronary artery  disease " time="before DCT" indicator="mention" comment=""/>
+      <CAD id="C12" start="483" end="507" text="coronary artery  disease" time="before DCT" indicator="mention" comment=""/>
+      <CAD id="C13" start="483" end="507" text="coronary artery  disease" time="before DCT" indicator="mention" comment=""/>
+      <CAD id="C14" start="866" end="874" text="Isordil " time="before DCT" indicator="mention" comment=""/>
+    </CAD>
+    <PHI id="P0" start="16" end="26" text="2071-07-30" TYPE="DATE"/>
+    <PHI id="P1" start="31" end="44" text="EDUCARE-FARGO" TYPE="HOSPITAL"/>
+    <PHI id="P2" start="74" end="77" text="ER2" TYPE="ROOM"/>
+    <PHI id="P3" start="79" end="95" text="21 Aberdeen Lane" TYPE="STREET"/>
+    <PHI id="P4" start="133" end="145" text="JOSHI, PETER" TYPE="PATIENT"/>
+    <PHI id="P5" start="147" end="153" text="Etowah" TYPE="CITY"/>
+    <PHI id="P6" start="155" end="157" text="CA" TYPE="STATE"/>
+    <PHI id="P7" start="158" end="163" text="62884" TYPE="ZIP"/>
+    <PHI id="P8" start="206" end="214" text="45339844" TYPE="MEDICALRECORD"/>
+    <PHI id="P9" start="216" end="230" text="(297) 823-0872" TYPE="PHONE"/>
+    <PHI id="P10" start="273" end="281" text="07/30/71" TYPE="DATE"/>
+    <PHI id="P11" start="289" end="301" text="Leon F Craft" TYPE="DOCTOR"/>
+    <PHI id="P12" start="309" end="327" text="135 Tamworth Place" TYPE="STREET"/>
+    <PHI id="P13" start="329" end="336" text="Garnett" TYPE="CITY"/>
+    <PHI id="P14" start="338" end="340" text="CA" TYPE="STATE"/>
+    <PHI id="P15" start="341" end="346" text="47749" TYPE="ZIP"/>
+    <PHI id="P16" start="360" end="365" text="Craft" TYPE="DOCTOR"/>
+    <PHI id="P17" start="400" end="411" text="Peter Joshi" TYPE="PATIENT"/>
+    <PHI id="P18" start="419" end="442" text="Cardiovascular Division" TYPE="DEPARTMENT"/>
+    <PHI id="P19" start="446" end="453" text="Tuesday" TYPE="DATE"/>
+    <PHI id="P20" start="653" end="662" text="Beechwood" TYPE="HOSPITAL"/>
+    <PHI id="P21" start="1786" end="1791" text="Joshi" TYPE="PATIENT"/>
+    <PHI id="P22" start="2213" end="2233" text="Corrine James-Wagner" TYPE="DOCTOR"/>
+    <PHI id="P23" start="2282" end="2302" text="Corrine James-Wagner" TYPE="DOCTOR"/>
+    <PHI id="P24" start="2336" end="2345" text="0-5098538" TYPE="IDNUM"/>
+    <PHI id="P25" start="2368" end="2376" text="08/12/71" TYPE="DATE"/>
+    <PHI id="P26" start="2382" end="2390" text="08/12/71" TYPE="DATE"/>
+    <PHI id="P27" start="2396" end="2404" text="08/12/71" TYPE="DATE"/>
+  </TAGS>
+</root>

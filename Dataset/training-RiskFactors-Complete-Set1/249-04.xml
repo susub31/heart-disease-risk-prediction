@@ -1,0 +1,288 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2075-12-14
+
+
+
+	CARDIOLOGY
+
+	
+
+	FOLSOM CONVALESCENT HOSPITAL
+
+	
+
+
+
+	Interval History:
+
+   Mr.  Lilly is now 81 years old and it has been six and half years since his coronary bypass procedure.  Since I saw him last six months ago, he has generally done well.  He has not had any angina.  No dyspnea, orthopnea, lightheadedness, dizziness, palpitations, or syncope.  He has reduced his exercise to three days a week-he exercises vigorously when he does exercise, but this seems to give him a little bit more in the way of stamina.
+
+
+
+	Past medical history:
+
+   Noncontributory.
+
+
+
+Current Medications:
+
+  Nexium 40 mg BID
+
+ Ecotrin 325 mg qd
+
+ Toprol XL 50 mg qd
+
+ Effexor 75 mg qam; Dir: and 37.5 mg qpm
+
+ metformin hydrochloride 850 mg BID
+
+ Zocor 40 mg; Dir: 4 days a week and 80 mg 3 days a week
+
+ ranitidine HCl 300 mg qhs
+
+ flaxseed oil; Dir: Gel
+
+ vitamin b12 1 mg qd
+
+ vitamin c
+
+ Omega 1 tab tid; Dir: 3 fatty acids
+
+
+
+	Family history:
+
+   Noncontributory.
+
+
+
+	Social history:
+
+   He has four children and 10 grandchildren.  He just returned to Tunisia to visit family.  He does not smoke.  Minimal alcohol.  His wife recently had quite a bad fall.
+
+
+
+	Review of systems:
+
+   Weight is stable.  No GI problems.  Otherwise negative.
+
+
+
+Physical examination:
+
+	
+
+-Pulse:   60
+
+-BP: 145/70    140-145/70
+
+-resp. rate:   16
+
+-General:   He looks great
+
+-Neck:   The jugular venous pressure was less than 5.  No carotid bruits.  No palpable lymph nodes
+
+-Chest:   The lungs were clear to percussion and auscultation
+
+-Cardiac:   Showed an S4.  Normal S1.  No murmurs
+
+-Abdomen:   Liver and spleen are not enlarged
+
+-Extremities:   Good femoral, popliteal, and pedal pulses
+
+
+
+	EKG:
+
+    shows first-degree AV bock and minor ST and T changes.  No change from July 2075.
+
+
+
+	Assessment and plan:
+
+   Mr.  Lilly is generally doing well.  His blood pressure is a little higher than it usually is in the office today, and we probably should have him on ACE inhibitor with his mild diabetes.  On the other hand, he is a little worked up over his wife's injury, and we will monitor his pressure.  For now, we will sit tight.  He will have a full battery of chemistries tomorrow-he sees Dr.  Mccullough, so far so good with respect to his cardiac sinus.  
+
+
+
+Plan: Monitor blood pressure.  Low threshold for starting an ACE inhibitor.  Chemistries tomorrow.  See again in six months.
+
+
+
+Changes to Medications this visit
+
+	
+
+Nexium 40 mg   BID
+
+Ecotrin 325 mg   qd
+
+Toprol XL 50 mg   qd
+
+Effexor 75 mg   qam and 37.5 mg qpm
+
+metformin hydrochloride 850 mg   BID
+
+Zocor 40 mg    4 days a week and 80 mg 3 days a week
+
+ranitidine HCl 300 mg   qhs
+
+flaxseed oil     Gel
+
+vitamin b12 1 mg   qd
+
+vitamin c    
+
+Omega  1 tab  tid 3 fatty acidsCC:
+
+	Stephen N Mccullough M.D.
+
+	
+
+
+
+	Signed electronically by   Michael  Delarosa MD  on  Dec 15, 2075     
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="after DCT" type1="statin" type2="">
+      <MEDICATION id="M0" start="758" end="763" text="Zocor" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M1" start="758" end="763" text="Zocor" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M2" start="758" end="763" text="Zocor" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M3" start="2573" end="2578" text="Zocor" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M4" start="758" end="763" text="Zocor" time="after DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC1" time="during DCT" type1="aspirin" type2="">
+      <MEDICATION id="M5" start="638" end="645" text="Ecotrin" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M6" start="638" end="645" text="Ecotrin" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M7" start="638" end="645" text="Ecotrin" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M8" start="2455" end="2462" text="Ecotrin" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M9" start="638" end="645" text="Ecotrin" time="during DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC2" time="after DCT" type1="metformin" type2="">
+      <MEDICATION id="M10" start="721" end="730" text="metformin" time="after DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M11" start="721" end="730" text="metformin" time="after DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M12" start="2535" end="2544" text="metformin" time="after DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M13" start="721" end="744" text="metformin hydrochloride" time="after DCT" type1="metformin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC3" time="during DCT" type1="metformin" type2="">
+      <MEDICATION id="M14" start="721" end="730" text="metformin" time="during DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M15" start="721" end="730" text="metformin" time="during DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M16" start="2535" end="2544" text="metformin" time="during DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M17" start="721" end="744" text="metformin hydrochloride" time="during DCT" type1="metformin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC4" time="before DCT" type1="aspirin" type2="">
+      <MEDICATION id="M18" start="638" end="645" text="Ecotrin" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M19" start="638" end="645" text="Ecotrin" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M20" start="638" end="645" text="Ecotrin" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M21" start="2455" end="2462" text="Ecotrin" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M22" start="638" end="645" text="Ecotrin" time="before DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC5" time="after DCT" type1="aspirin" type2="">
+      <MEDICATION id="M23" start="638" end="645" text="Ecotrin" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M24" start="638" end="645" text="Ecotrin" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M25" start="638" end="645" text="Ecotrin" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M26" start="2455" end="2462" text="Ecotrin" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M27" start="638" end="645" text="Ecotrin" time="after DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC6" time="during DCT" indicator="high bp">
+      <HYPERTENSION id="H0" start="1298" end="1309" text="-BP: 145/70" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H1" start="1299" end="1323" text="BP: 145/70    140-145/70" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H2" start="1298" end="1323" text="-BP: 145/70    140-145/70" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H3" start="1299" end="1309" text="BP: 145/70" time="during DCT" indicator="high bp" comment=""/>
+    </HYPERTENSION>
+    <MEDICATION id="DOC7" time="after DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M28" start="658" end="664" text="Toprol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M29" start="658" end="668" text="Toprol XL " time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M30" start="658" end="676" text="Toprol XL 50 mg qd" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M31" start="2476" end="2496" text="Toprol XL 50 mg   qd" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M32" start="658" end="667" text="Toprol XL" time="after DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <DIABETES id="DOC8" time="before DCT" indicator="mention">
+      <DIABETES id="D0" start="1994" end="2002" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D1" start="1994" end="2002" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D2" start="1985" end="2002" text="his mild diabetes" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <MEDICATION id="DOC9" time="before DCT" type1="statin" type2="">
+      <MEDICATION id="M33" start="758" end="763" text="Zocor" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M34" start="758" end="763" text="Zocor" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M35" start="758" end="763" text="Zocor" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M36" start="2573" end="2578" text="Zocor" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M37" start="758" end="763" text="Zocor" time="before DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC10" time="during DCT" type1="statin" type2="">
+      <MEDICATION id="M38" start="758" end="763" text="Zocor" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M39" start="758" end="763" text="Zocor" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M40" start="758" end="763" text="Zocor" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M41" start="2573" end="2578" text="Zocor" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M42" start="758" end="763" text="Zocor" time="during DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC11" time="before DCT" type1="metformin" type2="">
+      <MEDICATION id="M43" start="721" end="730" text="metformin" time="before DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M44" start="721" end="730" text="metformin" time="before DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M45" start="2535" end="2544" text="metformin" time="before DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M46" start="721" end="744" text="metformin hydrochloride" time="before DCT" type1="metformin" type2="" comment=""/>
+    </MEDICATION>
+    <FAMILY_HIST id="DOC12" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+      <FAMILY_HIST id="F3" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC13" status="never">
+      <SMOKER id="S0" start="1097" end="1111" text="does not smoke" status="never" comment=""/>
+      <SMOKER id="S1" start="1097" end="1111" text="does not smoke" status="never" comment=""/>
+      <SMOKER id="S2" start="1094" end="1112" text="He does not smoke." status="never" comment=""/>
+      <SMOKER id="S3" start="1097" end="1111" text="does not smoke" status="never" comment=""/>
+    </SMOKER>
+    <CAD id="DOC14" time="before DCT" indicator="event">
+      <CAD id="C0" start="181" end="196" text="coronary bypass" time="before DCT" indicator="event" comment=""/>
+      <CAD id="C1" start="181" end="206" text="coronary bypass procedure" time="before DCT" indicator="event" comment=""/>
+      <CAD id="C2" start="177" end="206" text="his coronary bypass procedure" time="before DCT" indicator="event" comment=""/>
+    </CAD>
+    <MEDICATION id="DOC15" time="before DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M47" start="658" end="664" text="Toprol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M48" start="658" end="668" text="Toprol XL " time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M49" start="658" end="676" text="Toprol XL 50 mg qd" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M50" start="2476" end="2496" text="Toprol XL 50 mg   qd" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M51" start="658" end="667" text="Toprol XL" time="before DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC16" time="during DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M52" start="658" end="664" text="Toprol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M53" start="658" end="668" text="Toprol XL " time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M54" start="658" end="676" text="Toprol XL 50 mg qd" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M55" start="2476" end="2496" text="Toprol XL 50 mg   qd" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M56" start="658" end="667" text="Toprol XL" time="during DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <DIABETES id="DOC17" time="after DCT" indicator="mention">
+      <DIABETES id="D3" start="1994" end="2002" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D4" start="1994" end="2002" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D5" start="1985" end="2002" text="his mild diabetes" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC18" time="during DCT" indicator="mention">
+      <DIABETES id="D6" start="1994" end="2002" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D7" start="1994" end="2002" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D8" start="1985" end="2002" text="his mild diabetes" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <PHI id="P0" start="16" end="26" text="2075-12-14" TYPE="DATE"/>
+    <PHI id="P1" start="47" end="75" text="FOLSOM CONVALESCENT HOSPITAL" TYPE="HOSPITAL"/>
+    <PHI id="P2" start="110" end="115" text="Lilly" TYPE="PATIENT"/>
+    <PHI id="P3" start="123" end="125" text="81" TYPE="AGE"/>
+    <PHI id="P4" start="1068" end="1075" text="Tunisia" TYPE="COUNTRY"/>
+    <PHI id="P5" start="1076" end="1091" text="to visit family" TYPE="OTHER"/>
+    <PHI id="P6" start="1776" end="1785" text="July 2075" TYPE="DATE"/>
+    <PHI id="P7" start="1821" end="1826" text="Lilly" TYPE="PATIENT"/>
+    <PHI id="P8" start="2202" end="2212" text="Mccullough" TYPE="DOCTOR"/>
+    <PHI id="P9" start="2753" end="2773" text="Stephen N Mccullough" TYPE="DOCTOR"/>
+    <PHI id="P10" start="2813" end="2830" text="Michael  Delarosa" TYPE="DOCTOR"/>
+    <PHI id="P11" start="2839" end="2851" text="Dec 15, 2075" TYPE="DATE"/>
+  </TAGS>
+</root>

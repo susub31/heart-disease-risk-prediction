@@ -1,0 +1,148 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2059-08-09
+
+EDVISIT^43471375^KIMBROUGH, AMELIA^08/09/59^STEELE, SHAYLYN
+
+This patient was seen with resident, Dr. Penn, whose note was
+
+reviewed and confirmed by me.
+
+HISTORY OF PRESENT ILLNESS:  This is a 46-year-old woman with
+
+end-stage renal disease secondary to minimal chain disease, on
+
+hemodialysis, presenting with severe hypertension, headache,
+
+nausea, and vomiting in the setting of blood pressures in the
+
+200s/100s today.
+
+Please review resident's note for full details of past medical
+
+history, social history, review of systems, medications, and
+
+allergies.
+
+PHYSICAL EXAMINATION:  I confirm the physical exam is as
+
+documented.  The patient is awake, alert, and appears to be in
+
+mild to moderate discomfort.  Vital signs reveal pulse of 108,
+
+respirations 22, blood pressure 226/129, and oximetry is 96% on
+
+room air.  The patient is afebrile.  HEENT exam reveals well
+
+visualized disks bilaterally on funduscopic exam.  There is no
+
+papilledema noted.  Posterior pharynx is clear.  Lungs are clear
+
+to auscultation with good air movement throughout.  Heart is
+
+regular.  Abdomen is soft.  Extremity exam reveals no cyanosis,
+
+clubbing, or edema.  Neurologic:  The patient is intact.  There
+
+is a left brachiocephalic shunt noted with a good thrill easily
+
+palpable.
+
+LABORATORY DATA:  White count is 5.4, hematocrit 45, BUN and
+
+creatinine 31 and 6.0, potassium is noted at 5.3%, cardiac
+
+enzymes flat, and coags are unremarkable.
+
+IMAGING STUDIES:  EKG is sinus rhythm without any ST or T-wave
+
+changes concerning for ischemia.  Head CT shows no acute
+
+processes.
+
+EMERGENCY DEPARTMENT COURSE:  The patient was given IV fluids and
+
+treated with Zofran for her nausea, labetalol 200 mg p.o.
+
+followed by 10 mg intravenously, which brought her pressure down
+
+very nicely to 168/86.  After fluids, Zofran, and blood pressure
+
+control, her symptoms improved dramatically.  She was admitted to
+
+the Observation Unit to monitor her blood pressure overnight with
+
+anticipated discharge in the morning.
+
+ ******** Not reviewed by Attending Physician ********
+
+DIAGNOSIS:  Hypertensive urgency.
+
+______________________________
+
+STEELE, SHAYLYN 
+
+D: 08/12/59
+
+T: 08/12/59
+
+Dictated By: STEELE, SHAYLYN
+
+eScription document:2-5546221 BFFocus
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <HYPERTENSION id="DOC0" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="340" end="359" text="severe hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="347" end="359" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC1" time="during DCT" indicator="high bp">
+      <HYPERTENSION id="H2" start="794" end="816" text="blood pressure 226/129" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H3" start="794" end="817" text="blood pressure 226/129," time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H4" start="794" end="816" text="blood pressure 226/129" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H5" start="1808" end="1814" text="168/86" time="during DCT" indicator="high bp" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC2" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H6" start="340" end="359" text="severe hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H7" start="347" end="359" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC3" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H8" start="340" end="359" text="severe hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H9" start="347" end="359" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <FAMILY_HIST id="DOC4" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC5" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" status="unknown"/>
+      <SMOKER id="S2" status="unknown"/>
+    </SMOKER>
+    <MEDICATION id="DOC6" time="during DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M0" start="1704" end="1713" text="labetalol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M1" start="1704" end="1713" text="labetalol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M2" start="1704" end="1713" text="labetalol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <PHI id="P0" start="16" end="26" text="2059-08-09" TYPE="DATE"/>
+    <PHI id="P1" start="36" end="44" text="43471375" TYPE="MEDICALRECORD"/>
+    <PHI id="P2" start="45" end="62" text="KIMBROUGH, AMELIA" TYPE="PATIENT"/>
+    <PHI id="P3" start="63" end="71" text="08/09/59" TYPE="DATE"/>
+    <PHI id="P4" start="72" end="87" text="STEELE, SHAYLYN" TYPE="DOCTOR"/>
+    <PHI id="P5" start="130" end="134" text="Penn" TYPE="DOCTOR"/>
+    <PHI id="P6" start="222" end="224" text="46" TYPE="AGE"/>
+    <PHI id="P7" start="2155" end="2170" text="STEELE, SHAYLYN" TYPE="DOCTOR"/>
+    <PHI id="P8" start="2176" end="2184" text="08/12/59" TYPE="DATE"/>
+    <PHI id="P9" start="2189" end="2197" text="08/12/59" TYPE="DATE"/>
+    <PHI id="P10" start="2212" end="2227" text="STEELE, SHAYLYN" TYPE="DOCTOR"/>
+    <PHI id="P11" start="2249" end="2258" text="2-5546221" TYPE="IDNUM"/>
+  </TAGS>
+</root>

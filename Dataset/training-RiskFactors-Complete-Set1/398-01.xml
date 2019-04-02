@@ -1,0 +1,169 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2105-12-15
+
+Mr. Bryan comes in tonight complaining of pains in his varicose veins - much worse yesterday - now better. No swelling.  No pain with walking.  Hip feels fine.  Otherwise he's doing OK, no respir, GI or GU problems.  No increase in BPH sx.  No new skin lesions.  No cp.
+
+
+
+habits: no smoking ,  sober
+
+
+
+MEDICATIONS
+
+ATENOLOL      100MG  1  Tablet(s)  PO  QD  Take as directed 
+
+CAPTOPRIL      50MG  1  Tablet(s)  PO  BID  Take as directed 
+
+ASPIRIN (ACETYLSALICYLIC ACID)      81MG  1  Tablet(s)  PO  QD  Take as directed 
+
+
+
+PE:  150/80 p. 68 rr 16  afeb   wgt: 227
+
+   1+ carotids, no bruits, nml thyroid, no nodes
+
+   clear lunds     RRR no s4 or murmur
+
+   abd: obese, no masses or HSM,   prominent varicosities on entire L>R leg non- tender. 
+
+   no calf swelling.  Minimal pedal edema.
+
+
+
+
+
+PROBLEMS
+
+1) Hypertension - increase captopril to 50 bid. 
+
+2) S/P total hip replacement  Shoemaker 11/99- stable
+
+3) Diabetes mellitus  - counselled on wgt. loss, check hgbA1C.  Eye exam OK earlier this year.
+
+4)Basal cell carcinoma  no new ones visible
+
+5)Varicose veins  reassured, recommend against further surgery
+
+6) macular degeneration - f/u with optho.
+
+
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="during DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M0" start="407" end="416" text="CAPTOPRIL" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M1" start="407" end="416" text="CAPTOPRIL" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M2" start="863" end="872" text="captopril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M3" start="407" end="416" text="CAPTOPRIL" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <DIABETES id="DOC1" time="before DCT" indicator="mention">
+      <DIABETES id="D0" start="944" end="961" text="Diabetes mellitus" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D1" start="944" end="961" text="Diabetes mellitus" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D2" start="944" end="961" text="Diabetes mellitus" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <MEDICATION id="DOC2" time="during DCT" type1="aspirin" type2="">
+      <MEDICATION id="M4" start="470" end="477" text="ASPIRIN" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M5" start="470" end="477" text="ASPIRIN" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M6" start="470" end="477" text="ASPIRIN" time="during DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <OBESE id="DOC3" time="after DCT" indicator="mention">
+      <OBESE id="O0" start="695" end="700" text="obese" time="after DCT" indicator="mention" comment=""/>
+      <OBESE id="O1" start="695" end="700" text="obese" time="after DCT" indicator="mention" comment=""/>
+    </OBESE>
+    <MEDICATION id="DOC4" time="before DCT" type1="aspirin" type2="">
+      <MEDICATION id="M7" start="470" end="477" text="ASPIRIN" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M8" start="470" end="477" text="ASPIRIN" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M9" start="470" end="477" text="ASPIRIN" time="before DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC5" time="after DCT" type1="aspirin" type2="">
+      <MEDICATION id="M10" start="470" end="477" text="ASPIRIN" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M11" start="470" end="477" text="ASPIRIN" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M12" start="470" end="477" text="ASPIRIN" time="after DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC6" time="before DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M13" start="407" end="416" text="CAPTOPRIL" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M14" start="407" end="416" text="CAPTOPRIL" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M15" start="863" end="872" text="captopril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M16" start="407" end="416" text="CAPTOPRIL" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <OBESE id="DOC7" time="during DCT" indicator="mention">
+      <OBESE id="O2" start="695" end="700" text="obese" time="during DCT" indicator="mention" comment=""/>
+      <OBESE id="O3" start="695" end="700" text="obese" time="during DCT" indicator="mention" comment=""/>
+    </OBESE>
+    <HYPERTENSION id="DOC8" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="839" end="851" text="Hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="839" end="851" text="Hypertension" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <MEDICATION id="DOC9" time="before DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M17" start="345" end="353" text="ATENOLOL" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M18" start="345" end="353" text="ATENOLOL" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M19" start="345" end="353" text="ATENOLOL" time="before DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC10" time="after DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M20" start="407" end="416" text="CAPTOPRIL" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M21" start="407" end="416" text="CAPTOPRIL" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M22" start="863" end="872" text="captopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M23" start="407" end="416" text="CAPTOPRIL" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC11" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H2" start="839" end="851" text="Hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H3" start="839" end="851" text="Hypertension" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <DIABETES id="DOC12" time="during DCT" indicator="mention">
+      <DIABETES id="D3" start="944" end="961" text="Diabetes mellitus" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D4" start="944" end="961" text="Diabetes mellitus" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D5" start="944" end="961" text="Diabetes mellitus" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <HYPERTENSION id="DOC13" time="during DCT" indicator="high bp">
+      <HYPERTENSION id="H4" start="560" end="566" text="150/80" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H5" start="560" end="566" text="150/80" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H6" start="560" end="566" text="150/80" time="during DCT" indicator="high bp" comment=""/>
+    </HYPERTENSION>
+    <OBESE id="DOC14" time="before DCT" indicator="mention">
+      <OBESE id="O4" start="695" end="700" text="obese" time="before DCT" indicator="mention" comment=""/>
+      <OBESE id="O5" start="695" end="700" text="obese" time="before DCT" indicator="mention" comment=""/>
+    </OBESE>
+    <MEDICATION id="DOC15" time="after DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M24" start="345" end="353" text="ATENOLOL" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M25" start="345" end="353" text="ATENOLOL" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M26" start="345" end="353" text="ATENOLOL" time="after DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC16" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H7" start="839" end="851" text="Hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H8" start="839" end="851" text="Hypertension" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <MEDICATION id="DOC17" time="during DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M27" start="345" end="353" text="ATENOLOL" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M28" start="345" end="353" text="ATENOLOL" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M29" start="345" end="353" text="ATENOLOL" time="during DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <DIABETES id="DOC18" time="after DCT" indicator="mention">
+      <DIABETES id="D6" start="944" end="961" text="Diabetes mellitus" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D7" start="944" end="961" text="Diabetes mellitus" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D8" start="944" end="961" text="Diabetes mellitus" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <FAMILY_HIST id="DOC19" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC20" status="never">
+      <SMOKER id="S0" start="301" end="319" text="habits: no smoking" status="never" comment=""/>
+      <SMOKER id="S1" start="309" end="319" text="no smoking" status="never" comment=""/>
+      <SMOKER id="S2" start="309" end="319" text="no smoking" status="never" comment=""/>
+    </SMOKER>
+    <PHI id="P0" start="16" end="26" text="2105-12-15" TYPE="DATE"/>
+    <PHI id="P1" start="32" end="37" text="Bryan" TYPE="PATIENT"/>
+    <PHI id="P2" start="916" end="925" text="Shoemaker" TYPE="DOCTOR"/>
+    <PHI id="P3" start="926" end="931" text="11/99" TYPE="DATE"/>
+  </TAGS>
+</root>
