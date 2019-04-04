@@ -1,0 +1,197 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2079-08-11
+
+
+
+
+MERCY CARE CENTER
+MERCY Internal Medicine Associates
+07 Newburgh Street
+Terrell, AR  72985
+
+Russell, Donna
+10418061
+08/11/79
+
+
+HISTORY OF PRESENT ILLNESS:  Ms. Russell returns for further evaluation.  
+She has been doing very well.  She has been exercising and has lost from 
+200 to 170 pounds.  She is feeling very well.
+
+Notably, Dr. Lu sent her for a follow-up ETT.  He did not find the 
+first ETT acceptable.  The second ETT was grossly positive.  As a result 
+of this, I think it is reasonable for us in addition to having her on 
+atenolol to stop the hydrochlorothiazide, put her on ramipril and a 
+nitrate.  She is having once every two weeks feeling a slight twinge of 
+pain that she was having before when she went up steps.
+
+She did have hyperlipidemia.  We have put her on Lipitor, which has 
+provided some control.  However, her HCL is still 36 and LDL 118, which 
+is not an excellent ratio.  Nonetheless, her CK has been within normal 
+limits.
+
+She also has right shoulder lipoma.  This has become apparent since she 
+lost so much weight.  She wanted to see someone in follow up and I have 
+recommended Dr. Dawson.
+
+PHYSICAL EXAMINATION:  Her weight is 170 pounds, blood pressure is 
+120/64, respiratory rate is 20, and pulse is 64.  Neck is supple.  There 
+is no lymphadenopathy.  Chest is clear to percussion and auscultation.  
+Cardiac exam is regularly regular with no murmurs, gallops, or rubs.  
+Abdomen is soft and nontender.  There is no hepatosplenomegaly.  
+Extremities are clear of cyanosis, clubbing, and edema.
+
+LABORATORY DATA:  None today.
+
+
+Russell, Donna
+10418061
+08/11/79
+Page 2
+
+
+ASSESSMENT AND PLAN:
+1.	CAD.  We will start her on ramipril and long acting nitrate.  I also 
+gave her nitroglycerine.  We will stop her hydrochlorothiazide but 
+continue her atenolol.  She is also on one aspirin a day along with 
+Premarin and Synthroid.
+2.	Weight loss.  She will continue to exercise.  I suspect she is going 
+to lose more weight.  This is excellent.
+3.	Coronary artery disease.  Dr. Lu will be deciding when to do a 
+cardiac catheterization.  It is his opinion, and I must concur that 
+this is an appropriate next step with Ms. Russell.  She is going to 
+delay her usual trip to Rhode Island until we can get final assessment 
+done on this variety of medical issues.
+
+
+
+_______________________________
+Quinn Rutledge, M.D.
+
+QR/RM5
+055626.doc
+DD:  
+08/16/2079
+DT:  08/18/2079
+DV:  08/11/2079
+
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <HYPERLIPIDEMIA id="DOC2" time="during DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY0" start="779" end="793" text="hyperlipidemia" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY1" start="779" end="793" text="hyperlipidemia" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY2" start="779" end="793" text="hyperlipidemia" time="during DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <HYPERLIPIDEMIA id="DOC13" time="before DCT" indicator="high LDL">
+      <HYPERLIPIDEMIA id="HY3" start="892" end="899" text="LDL 118" time="before DCT" indicator="high LDL" comment=""/>
+      <HYPERLIPIDEMIA id="HY4" start="892" end="900" text="LDL 118," time="before DCT" indicator="high LDL" comment="??? on time but it does say 'none today' on 'laboratory data'"/>
+    </HYPERLIPIDEMIA>
+    <HYPERLIPIDEMIA id="DOC15" time="after DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY5" start="779" end="793" text="hyperlipidemia" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY6" start="779" end="793" text="hyperlipidemia" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY7" start="779" end="793" text="hyperlipidemia" time="after DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <HYPERLIPIDEMIA id="DOC18" time="before DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY8" start="779" end="793" text="hyperlipidemia" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY9" start="779" end="793" text="hyperlipidemia" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY10" start="779" end="793" text="hyperlipidemia" time="before DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <MEDICATION id="DOC0" time="after DCT" type1="statin" type2="">
+      <MEDICATION id="M0" start="815" end="822" text="Lipitor" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M1" start="815" end="822" text="Lipitor" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M2" start="815" end="822" text="Lipitor" time="after DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC1" time="during DCT" type1="aspirin" type2="">
+      <MEDICATION id="M3" start="1848" end="1855" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M4" start="1848" end="1855" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC3" time="after DCT" type1="aspirin" type2="">
+      <MEDICATION id="M5" start="1848" end="1855" text="aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M6" start="1848" end="1855" text="aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M7" start="1848" end="1855" text="aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC4" time="after DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M8" start="608" end="628" text=" put her on ramipril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M9" start="620" end="628" text="ramipril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M10" start="620" end="628" text="ramipril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC5" time="before DCT" type1="diuretic" type2="">
+      <MEDICATION id="M11" start="579" end="608" text="stop the hydrochlorothiazide," time="before DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M12" start="588" end="607" text="hydrochlorothiazide" time="before DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M13" start="588" end="607" text="hydrochlorothiazide" time="before DCT" type1="diuretic" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC6" time="after DCT" type1="nitrate" type2="">
+      <MEDICATION id="M14" start="636" end="643" text="nitrate" time="after DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M15" start="1746" end="1760" text="nitroglycerine" time="after DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M16" start="636" end="643" text="nitrate" time="after DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M17" start="636" end="643" text="nitrate" time="after DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M18" start="1746" end="1760" text="nitroglycerine" time="after DCT" type1="nitrate" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC8" time="after DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M19" start="567" end="575" text="atenolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M20" start="567" end="575" text="atenolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M21" start="567" end="575" text="atenolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC11" time="before DCT" type1="statin" type2="">
+      <MEDICATION id="M22" start="815" end="822" text="Lipitor" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M23" start="815" end="822" text="Lipitor" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M24" start="815" end="822" text="Lipitor" time="before DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC12" time="during DCT" type1="statin" type2="">
+      <MEDICATION id="M25" start="815" end="822" text="Lipitor" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M26" start="815" end="822" text="Lipitor" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M27" start="815" end="822" text="Lipitor" time="during DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC17" time="before DCT" type1="aspirin" type2="">
+      <MEDICATION id="M28" start="1848" end="1855" text="aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M29" start="1848" end="1855" text="aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC19" time="before DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M30" start="567" end="575" text="atenolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M31" start="567" end="575" text="atenolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M32" start="567" end="575" text="atenolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC20" time="during DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M33" start="567" end="575" text="atenolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M34" start="567" end="575" text="atenolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M35" start="567" end="575" text="atenolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <CAD id="DOC7" time="before DCT" indicator="test">
+      <CAD id="C0" start="449" end="480" text="second ETT was grossly positive" time="before DCT" indicator="test" comment=""/>
+      <CAD id="C1" start="449" end="480" text="second ETT was grossly positive" time="before DCT" indicator="test" comment=""/>
+    </CAD>
+    <CAD id="DOC10" time="after DCT" indicator="mention">
+      <CAD id="C2" start="1667" end="1670" text="CAD" time="after DCT" indicator="mention" comment=""/>
+      <CAD id="C3" start="1667" end="1670" text="CAD" time="after DCT" indicator="mention" comment=""/>
+      <CAD id="C4" start="2015" end="2039" text="Coronary artery disease." time="after DCT" indicator="mention" comment=""/>
+    </CAD>
+    <CAD id="DOC16" time="during DCT" indicator="mention">
+      <CAD id="C5" start="1667" end="1670" text="CAD" time="during DCT" indicator="mention" comment=""/>
+      <CAD id="C6" start="1667" end="1670" text="CAD" time="during DCT" indicator="mention" comment=""/>
+      <CAD id="C7" start="1667" end="1670" text="CAD" time="during DCT" indicator="mention" comment=""/>
+    </CAD>
+    <CAD id="DOC21" time="before DCT" indicator="mention">
+      <CAD id="C8" start="1667" end="1670" text="CAD" time="before DCT" indicator="mention" comment=""/>
+      <CAD id="C9" start="1667" end="1670" text="CAD" time="before DCT" indicator="mention" comment=""/>
+    </CAD>
+    <FAMILY_HIST id="DOC14" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC9" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" start="3" end="9" text="Record" status="unknown" comment=""/>
+      <SMOKER id="S2" status="unknown"/>
+    </SMOKER>
+  </TAGS>
+</root>

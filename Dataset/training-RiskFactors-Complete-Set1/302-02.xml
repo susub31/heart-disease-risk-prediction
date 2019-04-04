@@ -1,0 +1,234 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2083-04-03
+
+
+Beaumont Hospital Physician Group
+090 Crowley Avenue                                    Rhodes, Yajaira
+Rutland, FL 94265                            97627182
+(153) 636-7011                                           04/03/83
+(584) 728-8734
+
+SUBJECTIVE:  The patient returns having been in Maine for
+the winter in the past five months.  Her husband visited
+ever three weeks or so.  She is walking somewhat better with
+less pain but moves very slowly.  She says that for the past
+two weeks she first had some substernal pressure which moved
+down into her abdomen and now instead of having one bowel
+movement every one or two weeks she is having a bowel
+movement three times a week which is formed and not bloody. 
+ She put herself on Pepto-Bismol and is gradually getting
+better.
+
+She has not had any chest pain, tachycardia, palpitations,
+cough or hemoptysis.  She has no visual signs.  She has not
+been seen by the ophthalmologist recently.  Her hearing is
+good.  She has mammograms yearly.  She sees her gynecologist
+on a yearly basis, Dr. Giles, having changed from Dr. Godfrey.
+ She is not sexually active.  
+
+She is not dieting and has not lost any weight.  Her back
+pain is somewhat better.  
+
+MEDICATIONS:  She is on the following medications:  
+1.  Lipitor 20 mg q.d. 
+2.  Glynase 1.5 mg b.i.d. 
+3.  Avandia 4 mg q.a.m. 
+4.  Trandate 100 mg q.d. 
+5.  Tegretol 300 mg in the a.m. and 200 the evening (changed
+to 200 mg b.i.d.).  
+6.  Neurontin 200 mg b.i.d. 
+7.  Premarin 0.625 mg 30 days a month.  
+8.  Provera 5 mg 12 days a month.  
+9.  Enteric coated aspirin 81 mg q.d.
+10. Calcium 1200 mg q.d. 
+
+REVIEW OF SYSTEMS:  Her diabetes has been poorly regulated
+and hopefully the Avandia will make her feel better.  She
+states that she takes the Avandia in the morning and she
+feels very weak at lunchtime such that she has to get an
+orange juice.  She says that her blood sugar has dropped but
+when she checks it, it has been around 100 mg%  and I
+explained to her that it is a normal blood sugar but it may
+be that the drop causes her to have symptoms.
+
+PHYSICAL EXAMINATION: She weighs 192 lbs stripped which is a
+weight gain for her.  Her blood pressure is 122/76 in the
+right arm sitting with a wide cuff.  She appears as a well
+developed, pleasant white female, grossly overweight, moving
+slowly and can only get up on the examining table with help
+because of her back pain.  There is no icterus, cyanosis or
+edema.  The pupils are round, reactive and equal and react
+equally to light and accommodation.  Nose and throat
+examination is unremarkable.  Neck veins are flat.  Carotids
+are 2+ and equal and without bruit.  Lungs are clear to P&A.
+ Breasts reveal no masses or discharge.  The heart is not
+enlarged.  There is a regular sinus rhythm and no
+significant murmurs.  S1 and S2 are of normal intensity. 
+Liver and spleen are not felt.  Bowel sounds are normal. 
+There are no abdominal masses or tenderness.  This is a
+female escutcheon.  Rectal was deferred.  She has fair
+peripheral pulses and decreased vibration sense in her feet.
+
+IMPRESSION:
+1.  Diabetes mellitus, poorly regulated.  Will check
+glycohemoglobin today.  
+2.  Diabetic neuropathy.  
+3.  L2-L3 disk with fusion.  
+4.  Hypercholesterolemia on Lipitor.
+5.  Weight management problem.
+
+
+______________________________
+Brett F. Rutherford, M.D.
+
+
+eScription document:6-015285 DOeScription
+
+DD: 04/03/83
+DT: 04/03/83
+DV: 04/03/83
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="after DCT" type1="statin" type2="">
+      <MEDICATION id="M0" start="1284" end="1291" text="Lipitor" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M1" start="1284" end="1291" text="Lipitor" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M2" start="1284" end="1291" text="Lipitor" time="after DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC1" time="during DCT" type1="aspirin" type2="">
+      <MEDICATION id="M3" start="1574" end="1596" text="Enteric coated aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M4" start="1589" end="1596" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M5" start="1589" end="1596" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERLIPIDEMIA id="DOC2" time="before DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY0" start="3229" end="3249" text="Hypercholesterolemia" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY1" start="3229" end="3249" text="Hypercholesterolemia" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY2" start="3229" end="3249" text="Hypercholesterolemia" time="before DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <DIABETES id="DOC3" time="during DCT" indicator="mention">
+      <DIABETES id="D0" start="1659" end="1667" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D1" start="3094" end="3111" text="Diabetes mellitus" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D2" start="1659" end="1667" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <MEDICATION id="DOC4" time="after DCT" type1="aspirin" type2="">
+      <MEDICATION id="M6" start="1574" end="1596" text="Enteric coated aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M7" start="1589" end="1596" text="aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M8" start="1589" end="1596" text="aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERLIPIDEMIA id="DOC5" time="during DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY3" start="3229" end="3249" text="Hypercholesterolemia" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY4" start="3229" end="3249" text="Hypercholesterolemia" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY5" start="3229" end="3249" text="Hypercholesterolemia" time="during DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <MEDICATION id="DOC6" time="after DCT" type1="sulfonylureas" type2="">
+      <MEDICATION id="M9" start="1308" end="1315" text="Glynase" time="after DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M10" start="1308" end="1315" text="Glynase" time="after DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M11" start="1308" end="1315" text="Glynase" time="after DCT" type1="sulfonylureas" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC7" time="during DCT" type1="sulfonylureas" type2="">
+      <MEDICATION id="M12" start="1308" end="1315" text="Glynase" time="during DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M13" start="1308" end="1315" text="Glynase" time="during DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M14" start="1308" end="1315" text="Glynase" time="during DCT" type1="sulfonylureas" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC8" time="before DCT" type1="thiazolidinedione" type2="">
+      <MEDICATION id="M15" start="1335" end="1342" text="Avandia" time="before DCT" type1="thiazolidinedione" type2="" comment=""/>
+      <MEDICATION id="M16" start="1335" end="1342" text="Avandia" time="before DCT" type1="thiazolidinedione" type2="" comment=""/>
+      <MEDICATION id="M17" start="1335" end="1342" text="Avandia" time="before DCT" type1="thiazolidinedione" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC9" time="after DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M18" start="1360" end="1368" text="Trandate" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M19" start="1360" end="1368" text="Trandate" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M20" start="1360" end="1368" text="Trandate" time="after DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <SMOKER id="DOC10" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" status="unknown"/>
+      <SMOKER id="S2" status="unknown"/>
+    </SMOKER>
+    <DIABETES id="DOC11" time="before DCT" indicator="mention">
+      <DIABETES id="D3" start="1659" end="1667" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D4" start="3094" end="3111" text="Diabetes mellitus" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D5" start="1659" end="1667" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <MEDICATION id="DOC12" time="before DCT" type1="statin" type2="">
+      <MEDICATION id="M21" start="1284" end="1291" text="Lipitor" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M22" start="1284" end="1291" text="Lipitor" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M23" start="1284" end="1291" text="Lipitor" time="before DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC13" time="during DCT" type1="statin" type2="">
+      <MEDICATION id="M24" start="1284" end="1291" text="Lipitor" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M25" start="1284" end="1291" text="Lipitor" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M26" start="1284" end="1291" text="Lipitor" time="during DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <FAMILY_HIST id="DOC14" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <HYPERLIPIDEMIA id="DOC15" time="after DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY6" start="3229" end="3249" text="Hypercholesterolemia" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY7" start="3229" end="3249" text="Hypercholesterolemia" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY8" start="3229" end="3249" text="Hypercholesterolemia" time="after DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <MEDICATION id="DOC16" time="before DCT" type1="aspirin" type2="">
+      <MEDICATION id="M27" start="1574" end="1596" text="Enteric coated aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M28" start="1589" end="1596" text="aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M29" start="1589" end="1596" text="aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC17" time="during DCT" type1="thiazolidinedione" type2="">
+      <MEDICATION id="M30" start="1335" end="1342" text="Avandia" time="during DCT" type1="thiazolidinedione" type2="" comment=""/>
+      <MEDICATION id="M31" start="1335" end="1342" text="Avandia" time="during DCT" type1="thiazolidinedione" type2="" comment=""/>
+      <MEDICATION id="M32" start="1335" end="1342" text="Avandia" time="during DCT" type1="thiazolidinedione" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC18" time="before DCT" type1="sulfonylureas" type2="">
+      <MEDICATION id="M33" start="1308" end="1315" text="Glynase" time="before DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M34" start="1308" end="1315" text="Glynase" time="before DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M35" start="1308" end="1315" text="Glynase" time="before DCT" type1="sulfonylureas" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC19" time="after DCT" type1="thiazolidinedione" type2="">
+      <MEDICATION id="M36" start="1335" end="1342" text="Avandia" time="after DCT" type1="thiazolidinedione" type2="" comment=""/>
+      <MEDICATION id="M37" start="1335" end="1342" text="Avandia" time="after DCT" type1="thiazolidinedione" type2="" comment=""/>
+      <MEDICATION id="M38" start="1335" end="1342" text="Avandia" time="after DCT" type1="thiazolidinedione" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC20" time="before DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M39" start="1360" end="1368" text="Trandate" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M40" start="1360" end="1368" text="Trandate" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M41" start="1360" end="1368" text="Trandate" time="before DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC21" time="during DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M42" start="1360" end="1368" text="Trandate" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M43" start="1360" end="1368" text="Trandate" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M44" start="1360" end="1368" text="Trandate" time="during DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <DIABETES id="DOC22" time="after DCT" indicator="mention">
+      <DIABETES id="D6" start="1659" end="1667" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D7" start="3094" end="3111" text="Diabetes mellitus" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D8" start="1659" end="1667" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <PHI id="P0" start="16" end="26" text="2083-04-03" TYPE="DATE"/>
+    <PHI id="P1" start="29" end="46" text="Beaumont Hospital" TYPE="HOSPITAL"/>
+    <PHI id="P2" start="63" end="81" text="090 Crowley Avenue" TYPE="STREET"/>
+    <PHI id="P3" start="117" end="132" text="Rhodes, Yajaira" TYPE="PATIENT"/>
+    <PHI id="P4" start="133" end="140" text="Rutland" TYPE="CITY"/>
+    <PHI id="P5" start="142" end="144" text="FL" TYPE="STATE"/>
+    <PHI id="P6" start="145" end="150" text="94265" TYPE="ZIP"/>
+    <PHI id="P7" start="178" end="186" text="97627182" TYPE="MEDICALRECORD"/>
+    <PHI id="P8" start="187" end="201" text="(153) 636-7011" TYPE="PHONE"/>
+    <PHI id="P9" start="244" end="252" text="04/03/83" TYPE="DATE"/>
+    <PHI id="P10" start="253" end="267" text="(584) 728-8734" TYPE="PHONE"/>
+    <PHI id="P11" start="317" end="322" text="Maine" TYPE="STATE"/>
+    <PHI id="P12" start="1069" end="1074" text="Giles" TYPE="DOCTOR"/>
+    <PHI id="P13" start="1100" end="1107" text="Godfrey" TYPE="DOCTOR"/>
+    <PHI id="P14" start="3326" end="3345" text="Brett F. Rutherford" TYPE="DOCTOR"/>
+    <PHI id="P15" start="3374" end="3382" text="6-015285" TYPE="MEDICALRECORD"/>
+    <PHI id="P16" start="3401" end="3409" text="04/03/83" TYPE="DATE"/>
+    <PHI id="P17" start="3414" end="3422" text="04/03/83" TYPE="DATE"/>
+    <PHI id="P18" start="3427" end="3435" text="04/03/83" TYPE="DATE"/>
+  </TAGS>
+</root>

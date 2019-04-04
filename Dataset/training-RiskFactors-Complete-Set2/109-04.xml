@@ -1,0 +1,166 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2102-01-07
+
+ Oreilly, Gabrielle  #9868572
+
+Pulmonary Consult by Dr. Trujillo for management of PE
+
+I have seen and examined the patient and agree with the history including HPI, PMHx, Meds, All, Family Hx, ROS; Pexam, labs, studies, assessment and plan as per Dr. Chavez.
+
+Briefly, 78 YO female with recent hip fracture in 8/01 (not surgically repaired) who did well until 3 days PTA when she developed sudden onset CP, non-productive cough and was noted to have RA sat of 89%.  In ED, patient was hemodynamically stable.  CTPE protocol bilateral PE   s in both main PA   s and clot in LLE DV system.  Patient was started on UF heparin.  
+
+PMHx notable for NSTEMI, diffuse CAD, left pleural mass followed by Fidious, COPD, HTN, hyperlipidemia, took coumadin after surgery 30 years ago 
+
+Meds include:  Advair, Lipitor, HCTZ, heparin
+
+Smoked 50 pk-years, quit 8 years ago.
+
+Family hx notable for:  Son passed away in    01 with blood clots.
+
+Pexam:
+Sats 94% on 4L, T 98, P 78, BP 186/86 R 20
+Gen Comfortable.
+O/P Clear
+Heart RRR no m/g/r
+Lungs decreased BS throughout
+Ext:  Superficial varicosities, minimal bilateral edema
+
+Labs notable for:  WBC 15
+Trop 0.22
+Ntbnp 500
+
+CT scan     multiple large central PE   s and bilateral upper and lower arteries; +emphysema; clot in left popliteal and distal and superficial femoral veins.
+
+ECHO     EF 60%, mod TR RA dilation, RVSP>=54; RV hypokinetic, PFO with R   shunting   (increased RVSP, RA size since last ECHO)
+
+Impression:
+
+Large bilateral PE, hemodynamically stable
+Evidence of RV strain, elevated cardiac enzymes, BNP which when combined put patient in risk group for increased mortality
+Persistent DVT
+PFO with right to left shunt
+COPD
+
+Recs:
+
+Recommend retrievable IVC filter.  Rationale is that the patient has persistent clot in LE   s and has a PFO with right to left shunt and is at risk for CVA (though filter will not prevent small clots from embolizing) and that +cardiac enzymes, BNP, and ECHO place patient in risk group for increased mortality.
+Do not recommend lytics in that patient is hemodynamically stable and risks for hemorrhage outweigh potential benefits in our opinion.
+Can change to low molecular weight heparin.
+Hypercoag w/u
+Start spiriva, albuterol for COPD
+
+
+
+Thanks for allowing us to participate in the care of this patient,
+
+
+
+
+______________________
+Earnest Vanwinkle, pager 90009
+
+
+
+]]></TEXT>
+  <TAGS>
+    <HYPERLIPIDEMIA id="DOC7" time="before DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY0" start="744" end="758" text="hyperlipidemia" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY1" start="744" end="758" text="hyperlipidemia" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY2" start="744" end="758" text="hyperlipidemia" time="before DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <HYPERLIPIDEMIA id="DOC11" time="after DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY3" start="744" end="758" text="hyperlipidemia" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY4" start="744" end="758" text="hyperlipidemia" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY5" start="744" end="758" text="hyperlipidemia" time="after DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <HYPERLIPIDEMIA id="DOC18" time="during DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY6" start="744" end="758" text="hyperlipidemia" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY7" start="744" end="758" text="hyperlipidemia" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY8" start="744" end="758" text="hyperlipidemia" time="during DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <MEDICATION id="DOC0" time="before DCT" type1="statin" type2="">
+      <MEDICATION id="M0" start="826" end="833" text="Lipitor" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M1" start="826" end="833" text="Lipitor" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M2" start="826" end="833" text="Lipitor" time="before DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC1" time="during DCT" type1="statin" type2="">
+      <MEDICATION id="M3" start="826" end="833" text="Lipitor" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M4" start="826" end="833" text="Lipitor" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M5" start="826" end="833" text="Lipitor" time="during DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC2" time="during DCT" type1="diuretic" type2="">
+      <MEDICATION id="M6" start="835" end="839" text="HCTZ" time="during DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M7" start="835" end="839" text="HCTZ" time="during DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M8" start="835" end="839" text="HCTZ" time="during DCT" type1="diuretic" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC3" time="after DCT" type1="statin" type2="">
+      <MEDICATION id="M9" start="826" end="833" text="Lipitor" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M10" start="826" end="833" text="Lipitor" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M11" start="826" end="833" text="Lipitor" time="after DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC5" time="before DCT" type1="diuretic" type2="">
+      <MEDICATION id="M12" start="835" end="839" text="HCTZ" time="before DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M13" start="835" end="839" text="HCTZ" time="before DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M14" start="835" end="839" text="HCTZ" time="before DCT" type1="diuretic" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC15" time="after DCT" type1="diuretic" type2="">
+      <MEDICATION id="M15" start="835" end="839" text="HCTZ" time="after DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M16" start="835" end="839" text="HCTZ" time="after DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M17" start="835" end="839" text="HCTZ" time="after DCT" type1="diuretic" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC6" time="during DCT" indicator="high bp">
+      <HYPERTENSION id="H0" start="994" end="1002" text=" 186/86 " time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H1" start="995" end="1001" text="186/86" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H2" start="992" end="1001" text="BP 186/86" time="during DCT" indicator="high bp" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC9" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H3" start="739" end="742" text="HTN" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H4" start="739" end="742" text="HTN" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H5" start="739" end="742" text="HTN" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC14" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H6" start="739" end="742" text="HTN" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H7" start="739" end="742" text="HTN" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H8" start="739" end="742" text="HTN" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC17" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H9" start="739" end="742" text="HTN" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H10" start="739" end="742" text="HTN" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H11" start="739" end="742" text="HTN" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <CAD id="DOC4" time="before DCT" indicator="event">
+      <CAD id="C0" start="673" end="679" text="NSTEMI" time="before DCT" indicator="event" comment=""/>
+      <CAD id="C1" start="673" end="679" text="NSTEMI" time="before DCT" indicator="event" comment=""/>
+      <CAD id="C2" start="673" end="679" text="NSTEMI" time="before DCT" indicator="event" comment=""/>
+    </CAD>
+    <CAD id="DOC10" time="after DCT" indicator="mention">
+      <CAD id="C3" start="689" end="692" text="CAD" time="after DCT" indicator="mention" comment=""/>
+      <CAD id="C4" start="689" end="692" text="CAD" time="after DCT" indicator="mention" comment=""/>
+      <CAD id="C5" start="689" end="692" text="CAD" time="after DCT" indicator="mention" comment=""/>
+    </CAD>
+    <CAD id="DOC12" time="before DCT" indicator="mention">
+      <CAD id="C6" start="689" end="692" text="CAD" time="before DCT" indicator="mention" comment=""/>
+      <CAD id="C7" start="689" end="692" text="CAD" time="before DCT" indicator="mention" comment=""/>
+      <CAD id="C8" start="689" end="692" text="CAD" time="before DCT" indicator="mention" comment=""/>
+    </CAD>
+    <CAD id="DOC13" time="during DCT" indicator="mention">
+      <CAD id="C9" start="689" end="692" text="CAD" time="during DCT" indicator="mention" comment=""/>
+      <CAD id="C10" start="689" end="692" text="CAD" time="during DCT" indicator="mention" comment=""/>
+      <CAD id="C11" start="689" end="692" text="CAD" time="during DCT" indicator="mention" comment=""/>
+    </CAD>
+    <FAMILY_HIST id="DOC16" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC8" status="past">
+      <SMOKER id="S0" start="869" end="887" text=" quit 8 years ago." status="past" comment=""/>
+      <SMOKER id="S1" start="870" end="874" text="quit" status="past" comment=""/>
+      <SMOKER id="S2" start="870" end="887" text="quit 8 years ago." status="past" comment=""/>
+    </SMOKER>
+  </TAGS>
+</root>

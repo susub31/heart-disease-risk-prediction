@@ -1,0 +1,164 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2090-03-29
+
+
+
+
+
+INTERNAL MEDICINE ASSOCIATES
+
+SOUTH BAY HOSPITAL
+
+
+
+Major Problems
+
+Diabetes mellitus
+
+She takes Glucotrol 5 mg BID in addition to Avandia 4 mg PO QD and a Glucophage 500 mg PO BID.  Her last hemoglobin A1c was 7%.  She saw her eye doctor last year who recommended seeing her in another two years.  She is on Lipitor. 
+
+  O:  Examination below. 
+
+  A:  Type 2 diabetes. 
+
+P:  Repeat hemoglobin A1c with microalbumin.  She is on Cozaar.
+
+
+
+add: A1C 3/23/90 8%.  increase glucophage to 1000mg po bid. 
+
+
+
+Change in therapies and Renewals
+
+Glucophage 1000 mg po bid QTY:180 Refills:3 Start: 2/16/2086 take with meals
+
+
+
+Signed electronically by   Dana  Michael MD  on  Mar 30, 2090     
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="after DCT" type1="statin" type2="">
+      <MEDICATION id="M0" start="341" end="348" text="Lipitor" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M1" start="341" end="348" text="Lipitor" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M2" start="341" end="348" text="Lipitor" time="after DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC1" time="after DCT" type1="metformin" type2="">
+      <MEDICATION id="M3" start="188" end="198" text="Glucophage" time="after DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M4" start="188" end="198" text="Glucophage" time="after DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M5" start="188" end="198" text="Glucophage" time="after DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M6" start="502" end="512" text="glucophage" time="after DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M7" start="569" end="579" text="Glucophage" time="after DCT" type1="metformin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC2" time="during DCT" type1="metformin" type2="">
+      <MEDICATION id="M8" start="188" end="198" text="Glucophage" time="during DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M9" start="188" end="198" text="Glucophage" time="during DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M10" start="188" end="198" text="Glucophage" time="during DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M11" start="502" end="512" text="glucophage" time="during DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M12" start="569" end="579" text="Glucophage" time="during DCT" type1="metformin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC4" time="after DCT" type1="sulfonylureas" type2="">
+      <MEDICATION id="M13" start="129" end="138" text="Glucotrol" time="after DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M14" start="129" end="138" text="Glucotrol" time="after DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M15" start="129" end="138" text="Glucotrol" time="after DCT" type1="sulfonylureas" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC5" time="during DCT" type1="sulfonylureas" type2="">
+      <MEDICATION id="M16" start="129" end="138" text="Glucotrol" time="during DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M17" start="129" end="138" text="Glucotrol" time="during DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M18" start="129" end="138" text="Glucotrol" time="during DCT" type1="sulfonylureas" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC6" time="before DCT" type1="thiazolidinedione" type2="">
+      <MEDICATION id="M19" start="163" end="170" text="Avandia" time="before DCT" type1="thiazolidinedione" type2="" comment=""/>
+      <MEDICATION id="M20" start="163" end="170" text="Avandia" time="before DCT" type1="thiazolidinedione" type2="" comment=""/>
+      <MEDICATION id="M21" start="163" end="170" text="Avandia" time="before DCT" type1="thiazolidinedione" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC10" time="after DCT" type1="ARB" type2="">
+      <MEDICATION id="M22" start="460" end="466" text="Cozaar" time="after DCT" type1="ARB" type2="" comment=""/>
+      <MEDICATION id="M23" start="460" end="466" text="Cozaar" time="after DCT" type1="ARB" type2="" comment=""/>
+      <MEDICATION id="M24" start="460" end="466" text="Cozaar" time="after DCT" type1="ARB" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC11" time="before DCT" type1="statin" type2="">
+      <MEDICATION id="M25" start="341" end="348" text="Lipitor" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M26" start="341" end="348" text="Lipitor" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M27" start="341" end="348" text="Lipitor" time="before DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC12" time="during DCT" type1="statin" type2="">
+      <MEDICATION id="M28" start="341" end="348" text="Lipitor" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M29" start="341" end="348" text="Lipitor" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M30" start="341" end="348" text="Lipitor" time="during DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC13" time="before DCT" type1="metformin" type2="">
+      <MEDICATION id="M31" start="188" end="198" text="Glucophage" time="before DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M32" start="188" end="198" text="Glucophage" time="before DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M33" start="188" end="198" text="Glucophage" time="before DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M34" start="502" end="512" text="glucophage" time="before DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M35" start="569" end="579" text="Glucophage" time="before DCT" type1="metformin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC14" time="during DCT" type1="thiazolidinedione" type2="">
+      <MEDICATION id="M36" start="163" end="170" text="Avandia" time="during DCT" type1="thiazolidinedione" type2="" comment=""/>
+      <MEDICATION id="M37" start="163" end="170" text="Avandia" time="during DCT" type1="thiazolidinedione" type2="" comment=""/>
+      <MEDICATION id="M38" start="163" end="170" text="Avandia" time="during DCT" type1="thiazolidinedione" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC15" time="before DCT" type1="sulfonylureas" type2="">
+      <MEDICATION id="M39" start="129" end="138" text="Glucotrol" time="before DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M40" start="129" end="138" text="Glucotrol" time="before DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M41" start="129" end="138" text="Glucotrol" time="before DCT" type1="sulfonylureas" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC16" time="after DCT" type1="thiazolidinedione" type2="">
+      <MEDICATION id="M42" start="163" end="170" text="Avandia" time="after DCT" type1="thiazolidinedione" type2="" comment=""/>
+      <MEDICATION id="M43" start="163" end="170" text="Avandia" time="after DCT" type1="thiazolidinedione" type2="" comment=""/>
+      <MEDICATION id="M44" start="163" end="170" text="Avandia" time="after DCT" type1="thiazolidinedione" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC19" time="during DCT" type1="ARB" type2="">
+      <MEDICATION id="M45" start="460" end="466" text="Cozaar" time="during DCT" type1="ARB" type2="" comment=""/>
+      <MEDICATION id="M46" start="460" end="466" text="Cozaar" time="during DCT" type1="ARB" type2="" comment=""/>
+      <MEDICATION id="M47" start="460" end="466" text="Cozaar" time="during DCT" type1="ARB" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC20" time="before DCT" type1="ARB" type2="">
+      <MEDICATION id="M48" start="460" end="466" text="Cozaar" time="before DCT" type1="ARB" type2="" comment=""/>
+      <MEDICATION id="M49" start="460" end="466" text="Cozaar" time="before DCT" type1="ARB" type2="" comment=""/>
+      <MEDICATION id="M50" start="460" end="466" text="Cozaar" time="before DCT" type1="ARB" type2="" comment=""/>
+    </MEDICATION>
+    <FAMILY_HIST id="DOC17" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC7" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" start="3" end="9" text="Record" status="unknown" comment=""/>
+      <SMOKER id="S2" status="unknown"/>
+    </SMOKER>
+    <DIABETES id="DOC3" time="during DCT" indicator="mention">
+      <DIABETES id="D0" start="100" end="117" text="Diabetes mellitus" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D1" start="100" end="108" text="Diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D2" start="100" end="117" text="Diabetes mellitus" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D3" start="385" end="402" text="Type 2 diabetes. " time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC8" time="before DCT" indicator="mention">
+      <DIABETES id="D4" start="100" end="117" text="Diabetes mellitus" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D5" start="100" end="108" text="Diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D6" start="100" end="117" text="Diabetes mellitus" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D7" start="385" end="402" text="Type 2 diabetes. " time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC9" time="before DCT" indicator="A1C">
+      <DIABETES id="D8" start="224" end="245" text="hemoglobin A1c was 7%" time="before DCT" indicator="A1C" comment=""/>
+      <DIABETES id="D9" start="476" end="490" text="A1C 3/23/90 8%" time="before DCT" indicator="A1C" comment=""/>
+      <DIABETES id="D10" start="235" end="245" text="A1c was 7%" time="before DCT" indicator="A1C" comment=""/>
+      <DIABETES id="D11" start="219" end="245" text="last hemoglobin A1c was 7%" time="before DCT" indicator="A1C" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC18" time="after DCT" indicator="mention">
+      <DIABETES id="D12" start="100" end="117" text="Diabetes mellitus" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D13" start="100" end="108" text="Diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D14" start="100" end="117" text="Diabetes mellitus" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D15" start="385" end="402" text="Type 2 diabetes. " time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+  </TAGS>
+</root>

@@ -1,0 +1,385 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2098-12-11
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+Neurology Resident ED Consult Note 
+
+
+
+
+Patient Name: Neill, Jennifer K
+
+MRN: 4634248
+
+
+
+PCP: Dr William Joslin
+
+
+
+Date/Time/Place of Exam/Initial Assessment:   12/11/98, 8 PM, PMC ED.
+
+
+
+Reason for Consult: Abnormal speech
+
+
+
+HISTORY OF PRESENT ILLNESS: This is a 71 year-old right-handed woman with multiple medical problems who presents with subacute speech abnormality.  
+
+
+
+She was well before going to bed on 12/09/98.  In the morning of 12/10, her husband noticed that she was repeating the same word &#8220;lawyer&#8221; and the rest of her speech was garbled.  Patient subsequently states that she had word-finding difficulties, but denies comprehension problem.  There was no other neurologic complaint per husband.  Of note, she has similar presentation a few years ago.  Over the course of today, her speech has improved but still not back to normal.    
+
+
+
+Witnessed onset: No (time last seen normal: before bed on 12/09)
+
+Mode of arrival: walk-in 
+
+Clinical course: improving 
+
+Pre-morbid neurological status: no disability 
+
+
+
+
+
+There have been no changes in vision or hearing, headaches, neck pain, tinnitus, vertigo, loss of consciousness, weakness, numbness, difficulty with comprehension, speaking, language, swallowing, eating, balance or gait. General review of systems was negative for fevers, chills, rashes, change in weight, energy level or appetite, chest pain, palpitations, shortness of breath, cough, abdominal pain, nausea, vomiting, bleeding diathesis, and change in bowel or bladder habits (i.e incontinence).
+
+
+
+
+
+PAST MEDICAL HISTORY: 
+
+-- Diabetes- since 2084
+
+-- Hypertension
+
+-- Hyperlipidemia
+
+-- Peripheral vascular disease
+
+-- AV block requiring permanent pacemaker  
+
+-- cardiomyopathy with BiV ICD
+: low EF
+
+
+MEDICATIONS: 
+
+
+Amlodipine 5mg QD
+ 
+ASA 81mg QD
+ 
+Lisinopril 20mg BID
+ 
+Simvastatin 20mg QHS
+ 
+Glucovance 2.5/500 2 tab BID
+ 
+Flovent
+
+
+
+
+
+ALLERGIES: NKDA
+
+
+
+SOCIAL HISTORY: The patient lives with husband, has three children, and is a retired interpreter. There is no history of smoking, excessive ETOH intake or illicit drug use.
+
+
+
+FAMILY HISTORY: 
+
+Father: died at age 89- "old age"
+
+Mother: died at age 87- Alzeimhers disease
+
+Siblings: 2 siblings with DM
+
+
+
+EXAMINATION:
+
+
+
+General: Comfortable, in not acute distress, pleasant  
+
+
+
+MS:        Alert and fully oriented, attentive, following 2-step cross body command, fluency decreased, naming impaired for low-frequency, calculation intact, reading intact, repetition intact, and praxis intact, no left and right confusion
+
+
+
+CN:         VFF, PERRL 5-&gt;2mm, EOM intact without nystagmus, no ptosis, face and palate elevation and shoulder elevation symmetric, notable dysarthria, tongue midline
+
+
+
+Motor:   Normal bulk and tone.  No tremor, rigidity, or bradykinesia. No pronator drift.  Full strength throughout
+
+
+
+Coord:   Finger-to-nose, and heel-to-shin movements intact..
+
+
+
+Reflex:   DTR symmetric throughout.  Toes are down bilaterally
+
+
+
+Sens:      Light touch and temperature are decreased below the knees; joint position intact. No evidence of extinction.  
+
+
+
+Gait:       Deferred
+
+
+
+
+
+
+
+Labs/Studies:
+
+See LMR
+
+
+
+                                                                
+
+Head CT (): 
+
+
+     CT BRAIN: No definite evidence for acute intracranial pathology.  No 
+
+     hemorrhage, mass lesion or evidence for acute territorial infarction.
+
+      
+
+     Stable chronic infarct involving the left frontal lobe.
+
+      
+
+     CTA HEAD: Occlusion of the distal right intradural vertebral artery 
+
+     after the takeoff of the right PICA.  Normal appearance to the left 
+
+     vertebral artery which courses to become the basal artery without 
+
+     evidence of occlusion or significant stenosis.  The other 
+
+     intracranial arteries demonstrate no evidence of significant stenosis 
+
+     or occluded segment.  No aneurysm is visualized.  
+
+      
+
+     CTA NECK: Moderate stenosis of the proximal right cervical vertebral 
+
+     artery secondary to atherosclerotic disease. The other cervical 
+
+     vessels demonstrate no significant stenosis or dissection.
+
+
+
+
+
+ASSESSMENT / PLAN:
+
+This 71 year-old right-handed woman with multiple medical problems who presents with subacute impaired speech fluency.  
+
+
+
+CT confirms infarct in left frontal lobe, age-undetermined.   The distal right intradural vertebral artery occlusion is likely chronic and incidental finding.  
+MRI is contraindicated due to pacemaker
+
+
+
+-          Out of the window for acute thrombolytics
+
+-          Hold off on oral intake until swallow evaluation
+; D5NS in the meantime
+-          Repeat TTE: EF 20-25% in 3/98
+
+-          Consider starting anticoagulation if EF remains poor (pending CMF team decision); continue with ASA for now
+
+-          Rest of the stroke evaluation per CMF team
+
+
+
+
+
+
+
+________________________________
+
+Zyan Conrad, M.D., Ph.D
+
+Neurology (34318)
+
+
+
+
+
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <HYPERLIPIDEMIA id="DOC8" time="during DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY0" start="1667" end="1681" text="Hyperlipidemia" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY1" start="1667" end="1681" text="Hyperlipidemia" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY2" start="1667" end="1681" text="Hyperlipidemia" time="during DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <HYPERLIPIDEMIA id="DOC18" time="after DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY3" start="1667" end="1681" text="Hyperlipidemia" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY4" start="1667" end="1681" text="Hyperlipidemia" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY5" start="1667" end="1681" text="Hyperlipidemia" time="after DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <HYPERLIPIDEMIA id="DOC21" time="before DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY6" start="1667" end="1681" text="Hyperlipidemia" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY7" start="1667" end="1681" text="Hyperlipidemia" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY8" start="1667" end="1681" text="Hyperlipidemia" time="before DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <MEDICATION id="DOC0" time="during DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M0" start="1852" end="1862" text="Lisinopril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M1" start="1852" end="1862" text="Lisinopril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M2" start="1852" end="1862" text="Lisinopril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC1" time="after DCT" type1="statin" type2="">
+      <MEDICATION id="M3" start="1874" end="1885" text="Simvastatin" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M4" start="1874" end="1885" text="Simvastatin" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M5" start="1874" end="1885" text="Simvastatin" time="after DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC2" time="during DCT" type1="aspirin" type2="">
+      <MEDICATION id="M6" start="1838" end="1841" text="ASA" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M7" start="1838" end="1841" text="ASA" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M8" start="1838" end="1841" text="ASA" time="during DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC4" time="after DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M9" start="1852" end="1862" text="Lisinopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M10" start="1852" end="1862" text="Lisinopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M11" start="1852" end="1862" text="Lisinopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC5" time="before DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M12" start="1852" end="1862" text="Lisinopril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M13" start="1852" end="1862" text="Lisinopril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M14" start="1852" end="1862" text="Lisinopril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC7" time="after DCT" type1="aspirin" type2="">
+      <MEDICATION id="M15" start="1838" end="1841" text="ASA" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M16" start="1838" end="1841" text="ASA" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M17" start="1838" end="1841" text="ASA" time="after DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC9" time="after DCT" type1="sulfonylureas" type2="metformin">
+      <MEDICATION id="M18" start="1897" end="1907" text="Glucovance" time="after DCT" type1="sulfonylureas" type2="metformin" comment=""/>
+      <MEDICATION id="M19" start="1897" end="1907" text="Glucovance" time="after DCT" type1="sulfonylureas" type2="metformin" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC10" time="during DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M20" start="1818" end="1828" text="Amlodipine" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M21" start="1818" end="1828" text="Amlodipine" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC11" time="during DCT" type1="sulfonylureas" type2="metformin">
+      <MEDICATION id="M22" start="1897" end="1907" text="Glucovance" time="during DCT" type1="sulfonylureas" type2="metformin" comment=""/>
+      <MEDICATION id="M23" start="1897" end="1907" text="Glucovance" time="during DCT" type1="sulfonylureas" type2="metformin" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC12" time="before DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M24" start="1818" end="1828" text="Amlodipine" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M25" start="1818" end="1828" text="Amlodipine" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC15" time="before DCT" type1="statin" type2="">
+      <MEDICATION id="M26" start="1874" end="1885" text="Simvastatin" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M27" start="1874" end="1885" text="Simvastatin" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M28" start="1874" end="1885" text="Simvastatin" time="before DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC16" time="during DCT" type1="statin" type2="">
+      <MEDICATION id="M29" start="1874" end="1885" text="Simvastatin" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M30" start="1874" end="1885" text="Simvastatin" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M31" start="1874" end="1885" text="Simvastatin" time="during DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC17" time="before DCT" type1="sulfonylureas" type2="metformin">
+      <MEDICATION id="M32" start="1897" end="1907" text="Glucovance" time="before DCT" type1="sulfonylureas" type2="metformin" comment=""/>
+      <MEDICATION id="M33" start="1897" end="1907" text="Glucovance" time="before DCT" type1="sulfonylureas" type2="metformin" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC19" time="before DCT" type1="aspirin" type2="">
+      <MEDICATION id="M34" start="1838" end="1841" text="ASA" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M35" start="1838" end="1841" text="ASA" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M36" start="1838" end="1841" text="ASA" time="before DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC22" time="after DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M37" start="1818" end="1828" text="Amlodipine" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M38" start="1818" end="1828" text="Amlodipine" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC3" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="1647" end="1662" text="-- Hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="1650" end="1662" text="Hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H2" start="1650" end="1662" text="Hypertension" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC13" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H3" start="1647" end="1662" text="-- Hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H4" start="1650" end="1662" text="Hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H5" start="1650" end="1662" text="Hypertension" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC23" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H6" start="1647" end="1662" text="-- Hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H7" start="1650" end="1662" text="Hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H8" start="1650" end="1662" text="Hypertension" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <FAMILY_HIST id="DOC24" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC20" status="never">
+      <SMOKER id="S0" start="2067" end="2088" text="no history of smoking" status="never" comment=""/>
+      <SMOKER id="S1" start="2067" end="2088" text="no history of smoking" status="never" comment=""/>
+    </SMOKER>
+    <DIABETES id="DOC6" time="during DCT" indicator="mention">
+      <DIABETES id="D0" start="1622" end="1645" text="-- Diabetes- since 2084" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D1" start="1625" end="1633" text="Diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D2" start="1624" end="1633" text=" Diabetes" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC14" time="before DCT" indicator="mention">
+      <DIABETES id="D3" start="1622" end="1645" text="-- Diabetes- since 2084" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D4" start="1625" end="1633" text="Diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D5" start="1624" end="1633" text=" Diabetes" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC25" time="after DCT" indicator="mention">
+      <DIABETES id="D6" start="1622" end="1645" text="-- Diabetes- since 2084" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D7" start="1625" end="1633" text="Diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D8" start="1624" end="1633" text=" Diabetes" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+  </TAGS>
+</root>

@@ -1,0 +1,151 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2080-05-24
+
+54 yo f/u
+
+
+
+VS: 120/76  wt 390
+
+
+
+1. OBESITY - he feels his weight is down a little.  He has been trying to eat
+
+mainly meat and vegetables, but he is "stupid" sometimes and cheats.
+
+
+
+2. HYPERTENSION - in good range.  He has been making an effort to avoid Na.
+
+
+
+3. PROTEINURIA  - he has been off Naprosyn for about 6 weeks, has appt scheduled with Dr. Fry 6/05.  Will plan to repeat 24 hr urine for protein towards the end of next week.  His pedal edema has improved considerably, so possibly his albumin is better.
+
+
+
+4. DJD - Ultam is helpful, but not as good as Naprosyn.  Knees and ankles are stiff and painful, especially if he is active and then sits still for a while.
+
+Also has some pain in left groin/thigh c/w tendonitis.
+
+
+
+
+
+
+
+
+
+--------------Medications----------
+
+
+
+FOLIC ACID     Tablet(s) PO  
+
+VIT C (ASCORBIC ACID)     Capsule(s) PO  
+
+VIT E (TOCOPHEROL-DL-ALPHA)     Capsule(s) PO  
+
+VIT B12 (CYANOCOBALAMIN)     Tablet(s) PO  
+
+VITAMIN B 6 (PYRIDOXINE HCL)     Tablet(s) PO  
+
+NIFEDIPINE (EXTENDED RELEASE)   30MG 1 Tablet(s) PO QD 
+
+CARDURA (DOXAZOSIN)   8MG 1 Tablet(s) PO QD 
+
+LASIX (FUROSEMIDE)   40MG 1 Tablet(s) PO BID 
+
+ALLOPURINOL   300MG 1 Tablet(s) PO QD 
+
+NAPROSYN (NAPROXEN)   500MG 1 Tablet(s) PO BID 
+
+ULTRAM   50MG 1-2 Tablet(s) PO BID  Take as directed 
+
+VASOTEC (ENALAPRIL MALEATE)   20MG 2 Tablet(s) PO QD  
+
+
+
+f/u 2 months
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <OBESE id="DOC3" time="after DCT" indicator="mention">
+      <OBESE id="O0" start="66" end="74" text="OBESITY " time="after DCT" indicator="mention" comment=""/>
+      <OBESE id="O1" start="66" end="73" text="OBESITY" time="after DCT" indicator="mention" comment=""/>
+      <OBESE id="O2" start="66" end="73" text="OBESITY" time="after DCT" indicator="mention" comment=""/>
+    </OBESE>
+    <OBESE id="DOC6" time="during DCT" indicator="mention">
+      <OBESE id="O3" start="66" end="74" text="OBESITY " time="during DCT" indicator="mention" comment=""/>
+      <OBESE id="O4" start="66" end="73" text="OBESITY" time="during DCT" indicator="mention" comment=""/>
+      <OBESE id="O5" start="66" end="73" text="OBESITY" time="during DCT" indicator="mention" comment=""/>
+    </OBESE>
+    <OBESE id="DOC11" time="before DCT" indicator="mention">
+      <OBESE id="O6" start="66" end="74" text="OBESITY " time="before DCT" indicator="mention" comment=""/>
+      <OBESE id="O7" start="66" end="73" text="OBESITY" time="before DCT" indicator="mention" comment=""/>
+      <OBESE id="O8" start="66" end="73" text="OBESITY" time="before DCT" indicator="mention" comment=""/>
+    </OBESE>
+    <MEDICATION id="DOC0" time="during DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M0" start="1028" end="1038" text="NIFEDIPINE" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M1" start="1028" end="1038" text="NIFEDIPINE" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M2" start="1028" end="1038" text="NIFEDIPINE" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC1" time="during DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M3" start="1322" end="1329" text="VASOTEC" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M4" start="1322" end="1329" text="VASOTEC" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M5" start="1322" end="1329" text="VASOTEC" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC4" time="after DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M6" start="1028" end="1038" text="NIFEDIPINE" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M7" start="1028" end="1038" text="NIFEDIPINE" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M8" start="1028" end="1038" text="NIFEDIPINE" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC5" time="before DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M9" start="1028" end="1038" text="NIFEDIPINE" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M10" start="1028" end="1038" text="NIFEDIPINE" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M11" start="1028" end="1038" text="NIFEDIPINE" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC8" time="after DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M12" start="1322" end="1329" text="VASOTEC" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M13" start="1322" end="1329" text="VASOTEC" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M14" start="1322" end="1329" text="VASOTEC" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC9" time="before DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M15" start="1322" end="1329" text="VASOTEC" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M16" start="1322" end="1329" text="VASOTEC" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M17" start="1322" end="1329" text="VASOTEC" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC2" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="217" end="229" text="HYPERTENSION" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="217" end="229" text="HYPERTENSION" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H2" start="217" end="229" text="HYPERTENSION" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC7" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H3" start="217" end="229" text="HYPERTENSION" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H4" start="217" end="229" text="HYPERTENSION" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H5" start="217" end="229" text="HYPERTENSION" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC10" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H6" start="217" end="229" text="HYPERTENSION" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H7" start="217" end="229" text="HYPERTENSION" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H8" start="217" end="229" text="HYPERTENSION" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <FAMILY_HIST id="DOC12" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC13" status="unknown">
+      <SMOKER id="S0" start="3" end="10" text="Record " status="unknown" comment=""/>
+      <SMOKER id="S1" status="unknown"/>
+      <SMOKER id="S2" status="unknown"/>
+    </SMOKER>
+  </TAGS>
+</root>

@@ -1,0 +1,116 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2088-10-23
+
+Patient Name: YOUNT, PATRICIA;  MRN: 4711083
+
+Dictated on: 10/24/2088 by YOEL NEWCOMB, M.D. 
+
+
+
+ 
+
+Patricia is a 70-year-old retired woman, right-hand dominant, who comes with complaints of soreness in her right wrist.  She apparently had a fall, which caused substantial pain and some swelling, but no bruising.  Brought her in to have an evaluation.  X-rays showed no fracture and over the last few weeks things have improved substantially, and she comes in just because she was told to get it checked out by her doctors, but otherwise feeling quite good and wondering if the appointment is even necessary.  
+
+ 
+
+Past medical history includes high blood pressure and diabetes.  
+
+ 
+
+No prior surgeries.  
+
+ 
+
+No medications.  
+
+ 
+
+No known drug allergies.  
+
+ 
+
+Lists no family history of any problems.  
+
+ 
+
+Lives alone and used to smoke, but quit.  
+
+ 
+
+On examination, she has full range of motion of her wrist compared to the opposite side.  No atrophy, ecchymosis, edema or deformity.  Negative scaphoid shift test.  Slight tenderness over the distal radius.  Normal tendon function.  
+
+ 
+
+My impression is that she must have got a mild sprain, which has recovered or possibly even a nondisplaced fracture given her age and osteoporotic bone, but whatever this was, it has resolved almost entirely, she is functioning well, and there is no apparent problem, so I will see her back as needed.   
+
+
+
+__________________________ 
+
+Yoel Newcomb, M.D.  
+
+ 
+
+CC:  Dustin T. Michael, M.D.
+
+       SBH - IMA
+
+       YRUK 7  
+
+ 
+
+DD:10/24/2088 
+
+DT:10/25/2088 
+
+VT:32367     :9154 
+
+ 
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <HYPERTENSION id="DOC1" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="673" end="692" text="high blood pressure" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="672" end="692" text=" high blood pressure" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H2" start="673" end="692" text="high blood pressure" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC2" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H3" start="673" end="692" text="high blood pressure" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H4" start="672" end="692" text=" high blood pressure" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H5" start="673" end="692" text="high blood pressure" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC4" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H6" start="673" end="692" text="high blood pressure" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H7" start="672" end="692" text=" high blood pressure" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H8" start="673" end="692" text="high blood pressure" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <FAMILY_HIST id="DOC5" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <DIABETES id="DOC0" time="before DCT" indicator="mention">
+      <DIABETES id="D0" start="697" end="705" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D1" start="697" end="705" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D2" start="697" end="705" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC3" time="during DCT" indicator="mention">
+      <DIABETES id="D3" start="697" end="705" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D4" start="697" end="705" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D5" start="697" end="705" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC6" time="after DCT" indicator="mention">
+      <DIABETES id="D6" start="697" end="705" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D7" start="697" end="705" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D8" start="697" end="705" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+  </TAGS>
+</root>

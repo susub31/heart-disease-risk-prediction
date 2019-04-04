@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2090-05-28
+
+
+ 
+NAME: Ocampo, Nathan-Oliver 
+MRN: 80531359 
+DOV: 05/28/90 
+
+
+Mr. Ocampo comes in for follow up of his hypertension, 
+hypercholesterolemia and also wants to assess his impotence.  Mr. 
+Ocampo gets only semi-erections.  He was quite depressed about this 
+issue during March, but he feels that his mood has improved.  His 
+daughter, Urbina, did talk to me in the hallway about concerns that her 
+father might be depressed although he feels that this was a significant 
+component of the issue.  He had not had chest pain, chest pressure or 
+fainting spells.  He has had no nausea, diarrhea, vomiting or 
+constipation.  Urinary symptoms are stable.  His neurological status is 
+fine. He tried to lose 5 pounds by exercising and was successful.
+
+EXAM:  On physical examination today his blood pressure is 130/74.  His 
+HEENT exam is unremarkable.  His chest is clear.  His heart shows no 
+murmurs.  His abdominal examination is benign.  His rectal is guaiac 
+negative with a smooth prostate.  I gave him a pack of stool guaiac 
+cards.  
+
+ASSESSMENT:  I will give him a prescription of Viagra and I gave him 
+appropriate patient education.  I will see him in six months.  I will 
+get some laboratory tests and write him a letter.  We will be tuned 
+into the issue of depression going forward.
+
+ 
+_______________________________ 
+Kenneth X. Sylvester, M.D. 
+ 
+DD: 05/28/90 
+DT: 06/02/90 
+DV: 05/28/90 
+ 
+ 
+
+
+
+]]></TEXT>
+  <TAGS>
+    <HYPERLIPIDEMIA id="DOC1" time="before DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY0" start="148" end="168" text="hypercholesterolemia" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY1" start="148" end="168" text="hypercholesterolemia" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY2" start="148" end="168" text="hypercholesterolemia" time="before DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <HYPERLIPIDEMIA id="DOC3" time="after DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY3" start="148" end="168" text="hypercholesterolemia" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY4" start="148" end="168" text="hypercholesterolemia" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY5" start="148" end="168" text="hypercholesterolemia" time="after DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <HYPERLIPIDEMIA id="DOC7" time="during DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY6" start="148" end="168" text="hypercholesterolemia" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY7" start="148" end="168" text="hypercholesterolemia" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY8" start="148" end="168" text="hypercholesterolemia" time="during DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <HYPERTENSION id="DOC0" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="133" end="145" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="133" end="145" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H2" start="133" end="145" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC2" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H3" start="133" end="145" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H4" start="133" end="145" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H5" start="133" end="145" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC4" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H6" start="133" end="145" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H7" start="133" end="145" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H8" start="133" end="145" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <FAMILY_HIST id="DOC5" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC6" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" status="unknown"/>
+      <SMOKER id="S2" start="3" end="9" text="Record" status="unknown" comment=""/>
+    </SMOKER>
+  </TAGS>
+</root>

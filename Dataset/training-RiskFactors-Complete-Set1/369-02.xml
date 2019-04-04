@@ -1,0 +1,200 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2079-12-01
+
+                                                       Patient Name: QIN,OWEN [ MRN: 88491427LBH ]
+
+                                                         Date of Visit: 12/01/79
+
+
+
+
+
+
+
+
+
+Reason for Visit	
+
+Owen is a 62 y/o male here for evl of Rx.
+
+
+
+Problems	    
+
+OA	      
+
+LLE-PARTIALLY SEVERED-MULT. SURGERIES	      
+
+IRRIDECTOMY	      
+
+SKIN ULCER-DR ESPOSITO	      
+
+PAST SMOKER	      
+
+HTN	      
+
+
+
+Medications	    
+
+ASA	    PO 
+
+VITAMIN E	    PO QD
+
+ATENOLOL	 25MG PO QD
+
+LIPITOR (ATORVASTATIN)	 10MG 1 Tablet(s) PO QD
+
+
+
+Allergies	    
+
+NKDA	 NONE
+
+
+
+Narrative History	
+
+Takes meds. No SEs. Denies vision change, headache, chest pain, SOB, light head, palptations. Denies loss of balance, strength or sensation. Gets new Unna boot q week. Ulcer slowly getting better. No GI symptoms. No GU symptoms except nocturia x3-4. Vision is fine. 
+
+Exercise-no
+
+Diet- eats too much
+
+Cigs-no
+
+ETOH-no
+
+
+
+Exam	
+
+BP= 126/78, P= 76, Wt= 252; NAD,WD, WN
+
+Head- no tenderness
+
+Neck- supple with no JVD, bruit, LAN or thyromegaly.
+
+Chest- clear A&P     Cor- reg rhythm,S1S2 normal with no murmer, gallop or rub
+
+Abdo- obese; normal BS; soft with no HSM, mass or tenderness. DRE- normal sphincter. Prostate smooth with no nodules and normal consistency. 
+
+Ext- no edema. Pulses intact and symmetric right.  Unna boot left. 
+
+
+
+Assessment	
+
+Doing well. 
+
+
+
+Disposition and Plans	
+
+Cont meds. BMP,PSA, FOBT. FLu vaccine. F/U Dr Esposito. RTC 6 mon or PRN.
+
+
+
+
+
+______________________________                              
+
+
+
+William Seth Potter, M.D.
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="before DCT" type1="statin" type2="">
+      <MEDICATION id="M0" start="513" end="520" text="LIPITOR" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M1" start="513" end="536" text="LIPITOR (ATORVASTATIN) " time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M2" start="513" end="521" text="LIPITOR " time="before DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC1" time="during DCT" type1="statin" type2="">
+      <MEDICATION id="M3" start="513" end="520" text="LIPITOR" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M4" start="513" end="536" text="LIPITOR (ATORVASTATIN) " time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M5" start="513" end="521" text="LIPITOR " time="during DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC2" time="during DCT" type1="aspirin" type2="">
+      <MEDICATION id="M6" start="457" end="460" text="ASA" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M7" start="457" end="467" text="ASA     PO" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M8" start="457" end="461" text="ASA " time="during DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC3" time="after DCT" type1="statin" type2="">
+      <MEDICATION id="M9" start="513" end="520" text="LIPITOR" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M10" start="513" end="536" text="LIPITOR (ATORVASTATIN) " time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M11" start="513" end="521" text="LIPITOR " time="after DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC4" time="before DCT" type1="aspirin" type2="">
+      <MEDICATION id="M12" start="457" end="460" text="ASA" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M13" start="457" end="467" text="ASA     PO" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M14" start="457" end="461" text="ASA " time="before DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC5" time="after DCT" type1="aspirin" type2="">
+      <MEDICATION id="M15" start="457" end="460" text="ASA" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M16" start="457" end="467" text="ASA     PO" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M17" start="457" end="461" text="ASA " time="after DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <SMOKER id="DOC6" status="past">
+      <SMOKER id="S0" start="405" end="423" text="PAST SMOKER       " status="past" comment=""/>
+      <SMOKER id="S1" start="405" end="423" text="PAST SMOKER       " status="past" comment=""/>
+      <SMOKER id="S2" start="915" end="922" text="Cigs-no" status="past" comment=""/>
+      <SMOKER id="S3" start="404" end="417" text=" PAST SMOKER " status="past" comment=""/>
+    </SMOKER>
+    <OBESE id="DOC7" time="during DCT" indicator="mention">
+      <OBESE id="O0" start="1143" end="1148" text="obese" time="during DCT" indicator="mention" comment=""/>
+      <OBESE id="O1" start="1143" end="1148" text="obese" time="during DCT" indicator="mention" comment=""/>
+    </OBESE>
+    <HYPERTENSION id="DOC8" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="425" end="428" text="HTN" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="425" end="429" text="HTN " time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H2" start="425" end="429" text="HTN " time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <MEDICATION id="DOC9" time="before DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M18" start="491" end="499" text="ATENOLOL" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M19" start="491" end="511" text="ATENOLOL  25MG PO QD" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M20" start="490" end="500" text=" ATENOLOL " time="before DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC10" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H3" start="425" end="428" text="HTN" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H4" start="425" end="429" text="HTN " time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H5" start="425" end="429" text="HTN " time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <MEDICATION id="DOC11" time="after DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M21" start="491" end="499" text="ATENOLOL" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M22" start="491" end="511" text="ATENOLOL  25MG PO QD" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M23" start="490" end="500" text=" ATENOLOL " time="after DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC12" time="during DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M24" start="491" end="499" text="ATENOLOL" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M25" start="491" end="511" text="ATENOLOL  25MG PO QD" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M26" start="490" end="500" text=" ATENOLOL " time="during DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC13" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H6" start="425" end="428" text="HTN" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H7" start="425" end="429" text="HTN " time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H8" start="425" end="429" text="HTN " time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <FAMILY_HIST id="DOC14" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <PHI id="P0" start="16" end="26" text="2079-12-01" TYPE="DATE"/>
+    <PHI id="P1" start="97" end="105" text="QIN,OWEN" TYPE="PATIENT"/>
+    <PHI id="P2" start="113" end="121" text="88491427" TYPE="MEDICALRECORD"/>
+    <PHI id="P3" start="121" end="124" text="LBH" TYPE="HOSPITAL"/>
+    <PHI id="P4" start="200" end="208" text="12/01/79" TYPE="DATE"/>
+    <PHI id="P5" start="237" end="241" text="Owen" TYPE="PATIENT"/>
+    <PHI id="P6" start="247" end="249" text="62" TYPE="AGE"/>
+    <PHI id="P7" start="388" end="396" text="ESPOSITO" TYPE="DOCTOR"/>
+    <PHI id="P8" start="1450" end="1458" text="Esposito" TYPE="DOCTOR"/>
+    <PHI id="P9" start="1547" end="1566" text="William Seth Potter" TYPE="DOCTOR"/>
+  </TAGS>
+</root>

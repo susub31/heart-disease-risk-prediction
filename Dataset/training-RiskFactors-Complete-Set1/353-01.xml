@@ -1,0 +1,316 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2078-10-25
+
+ 
+
+ 
+
+ 
+
+October 25, 2078
+
+ 
+
+Office Visit
+
+ 
+
+Re: Larry Lockwood
+
+MPC# 590-33-20-3
+
+ 
+
+ 
+
+This is a 56 year old morbidly obese male who was discharged recently from 
+
+the 
+
+Marshalltown Pond Clinic who is here for follow up of his newly diagnosed 
+
+diabetes mellitus. He was seen in the emergency room on 10/21 with the 
+
+complaint of urinary frequency, hesitancy, and generally not feeling well. 
+
+Prior to that, he had been treated with antibiotics by his primary care 
+
+physician for a urinary tract infection with Bactrim and then ampicillin but 
+
+he did not get better. He went to the emergency room and was admitted to the 
+
+hospital because his blood sugar was in the 400s and he was diagnosed with 
+
+diabetes at that time. He was discharged on 10/22/78 on insulin NPH 30 units 
+
+in 
+
+the morning and 15 units in the PM and was advised to follow up in the 
+
+outpatient clinic today. Since discharge, his blood sugars have been in the 
+
+200s. This afternoon, it is 242 2 hours after his last meal.
+
+ 
+
+Past Medical History: He has a history of benign prostatic hypertrophy. He 
+
+sees a urologist and they are discussing a new procedure for the same. He 
+
+cannot have ______ because of his morbid obesity, he cannot be positioned on 
+
+the table for the same. He also gives a history of sleep apnea. No 
+
+hypertension. He does have a history of gastric reflux and obesity.
+
+ 
+
+Past Surgical History: He has had bilateral hip surgery for slipped ______ as 
+
+an adolescent.
+
+ 
+
+Review of Systems: No chest pain. Positive review of systems for UTI symptoms 
+
+with increased frequency and hesitancy. Other review of systems-he has 
+
+arthritis generalized with more pain in the hip. Also has acid reflux.
+
+ 
+
+Family History: Family history of obesity and hypertension but no diabetes or 
+
+coronary artery disease.
+
+ 
+
+Social History: He is a smoker but is trying to quit. He smokes less than one 
+
+pack a day. He is a manager and is on disability. He has 2 children and is 
+
+separated.
+
+ 
+
+Physical Examination: He is morbidly obese and weighs about 405 pounds. Blood 
+
+pressure 110/88. Pulse 84. Skin exam-there is evidence of acanthosis 
+
+nigricans. He has gynecomastia. Head and neck exam-atraumatic, normocephalic. 
+
+Extraocular movements are intact. Pupils equal, round and reactive to light. 
+
+Cardiovascular system exam-S1, S2 heard. No S3, S4. Respiratory system-clear 
+
+to auscultation and percussion. No added sounds. Abdomen-obese, very 
+
+difficult 
+
+to examine for masses or hepatosplenomegaly. On limited exam, there are no 
+
+masses palpable. CNS-cranial nerves II-XII intact. Examination of feet with 
+
+monofilament is negative as he is not able to feel the monofilament in both 
+
+feet. This impairment is greater on the right foot than left.
+
+ 
+
+Labs done so far:  hemoglobin A1c of 14, glucose on 10/21 422, creatinine 1.7, 
+
+BUN 22, sodium 132, potassium 4.5, chloride 97, liver function tests with ALT 
+
+10, AST 10, alkaline phosphatase 126, bilirubin 0.4, total protein 8.1, 
+
+albumin 3.6, globulin 4.5, calcium 9.5, hemoglobin 15.
+
+ 
+
+Assessment and Plan: 1. New onset diabetes mellitus. The patient is morbidly 
+
+obese, has features of insulin resistance. His blood sugars today are better 
+
+since admission. He is on insulin twice a day. He checks his blood sugars 3 
+
+times a day and since discharge, they have been around 240 to 300. The 
+
+patient 
+
+is not a good candidate for metformin with his last creatinine of 1.7. He may 
+
+be a candidate for Avandia. At the present time, his alkaline phosphatase is 
+
+mildly elevated but his ALT and AST are normal. He has difficulty coming to 
+
+the clinic and would prefer to have his visiting nurse and nutritionist 
+
+communicate with the clinic physicians to adjust the dose of his insulin and 
+
+also have his blood tests done locally rather than here in the clinic. We 
+
+will 
+
+increase his NPH to 40 units in the morning and 26 units in the PM. We will 
+
+work with the visiting nurse and nutritionist to adjust the insulin dose and 
+
+also order lab tests. We will repeat his hemoglobin A1c in a month and also 
+
+repeat his creatinine and liver function tests at that time to see if he may 
+
+be a candidate for Avandia. I advised the patient to return to the clinic in 
+
+6 
+
+months and also for him to send the blood sugar results every week until his 
+
+blood sugars are under better control.
+
+ 
+
+____________________________
+
+Dr. Xan Dunn
+ 
+
+XD:ullmann
+
+ 
+
+DD: 10.25.78/Rec=d 11.04.78
+DT: 12.03.78
+
+DV: 10.25.78
+
+ 
+
+ 
+
+ 
+
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <DIABETES id="DOC0" time="during DCT" indicator="A1C">
+      <DIABETES id="D0" start="2807" end="2828" text=" hemoglobin A1c of 14" time="during DCT" indicator="A1C" comment=""/>
+      <DIABETES id="D1" start="2808" end="2828" text="hemoglobin A1c of 14" time="during DCT" indicator="A1C" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC1" time="before DCT" indicator="glucose">
+      <DIABETES id="D2" start="681" end="708" text="blood sugar was in the 400s" time="before DCT" indicator="glucose" comment=""/>
+      <DIABETES id="D3" start="2829" end="2850" text=" glucose on 10/21 422" time="before DCT" indicator="glucose" comment=""/>
+      <DIABETES id="D4" start="681" end="708" text="blood sugar was in the 400s" time="before DCT" indicator="glucose" comment=""/>
+      <DIABETES id="D5" start="940" end="976" text="blood sugars have been in the   200s" time="before DCT" indicator="glucose" comment=""/>
+      <DIABETES id="D6" start="2830" end="2850" text="glucose on 10/21 422" time="before DCT" indicator="glucose" comment=""/>
+      <DIABETES id="D7" start="3374" end="3384" text="240 to 300" time="before DCT" indicator="glucose" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC2" time="before DCT" indicator="mention">
+      <DIABETES id="D8" start="278" end="295" text="diabetes mellitus" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D9" start="278" end="295" text="diabetes mellitus" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D10" start="278" end="295" text="diabetes mellitus" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D11" start="737" end="745" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D12" start="3117" end="3134" text="diabetes mellitus" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <MEDICATION id="DOC3" time="before DCT" type1="insulin" type2="">
+      <MEDICATION id="M0" start="793" end="804" text="insulin NPH" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M1" start="792" end="800" text=" insulin" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M2" start="793" end="804" text="insulin NPH" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M3" start="3267" end="3274" text="insulin" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M4" start="3888" end="3891" text="NPH" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M5" start="3778" end="3785" text="insulin" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M6" start="4013" end="4020" text="insulin" time="before DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <OBESE id="DOC4" time="after DCT" indicator="mention">
+      <OBESE id="O0" start="150" end="155" text="obese" time="after DCT" indicator="mention" comment=""/>
+      <OBESE id="O1" start="141" end="155" text="morbidly obese" time="after DCT" indicator="mention" comment=""/>
+      <OBESE id="O2" start="141" end="155" text="morbidly obese" time="after DCT" indicator="mention" comment=""/>
+      <OBESE id="O3" start="1224" end="1238" text="morbid obesity" time="after DCT" indicator="mention" comment=""/>
+      <OBESE id="O4" start="1397" end="1405" text="obesity." time="after DCT" indicator="mention" comment=""/>
+      <OBESE id="O5" start="2046" end="2060" text="morbidly obese" time="after DCT" indicator="mention" comment=""/>
+      <OBESE id="O6" start="3151" end="3167" text="morbidly   obese" time="after DCT" indicator="mention" comment=""/>
+    </OBESE>
+    <MEDICATION id="DOC5" time="during DCT" type1="insulin" type2="">
+      <MEDICATION id="M7" start="793" end="804" text="insulin NPH" time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M8" start="793" end="804" text="insulin NPH" time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M9" start="3267" end="3274" text="insulin" time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M10" start="3888" end="3891" text="NPH" time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M11" start="3778" end="3785" text="insulin" time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M12" start="4013" end="4020" text="insulin" time="during DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <SMOKER id="DOC6" status="current">
+      <SMOKER id="S0" start="1865" end="1876" text="is a smoker" status="current" comment=""/>
+      <SMOKER id="S1" start="1865" end="1876" text="is a smoker" status="current" comment=""/>
+      <SMOKER id="S2" start="1862" end="1876" text="He is a smoker" status="current" comment=""/>
+    </SMOKER>
+    <OBESE id="DOC7" time="during DCT" indicator="mention">
+      <OBESE id="O7" start="150" end="155" text="obese" time="during DCT" indicator="mention" comment=""/>
+      <OBESE id="O8" start="141" end="155" text="morbidly obese" time="during DCT" indicator="mention" comment=""/>
+      <OBESE id="O9" start="141" end="155" text="morbidly obese" time="during DCT" indicator="mention" comment=""/>
+      <OBESE id="O10" start="1224" end="1238" text="morbid obesity" time="during DCT" indicator="mention" comment=""/>
+      <OBESE id="O11" start="1397" end="1405" text="obesity." time="during DCT" indicator="mention" comment=""/>
+      <OBESE id="O12" start="2046" end="2060" text="morbidly obese" time="during DCT" indicator="mention" comment=""/>
+      <OBESE id="O13" start="3151" end="3167" text="morbidly   obese" time="during DCT" indicator="mention" comment=""/>
+    </OBESE>
+    <DIABETES id="DOC8" time="during DCT" indicator="mention">
+      <DIABETES id="D13" start="278" end="295" text="diabetes mellitus" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D14" start="278" end="295" text="diabetes mellitus" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D15" start="737" end="745" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D16" start="3117" end="3134" text="diabetes mellitus" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <OBESE id="DOC9" time="before DCT" indicator="mention">
+      <OBESE id="O14" start="150" end="155" text="obese" time="before DCT" indicator="mention" comment=""/>
+      <OBESE id="O15" start="141" end="155" text="morbidly obese" time="before DCT" indicator="mention" comment=""/>
+      <OBESE id="O16" start="141" end="155" text="morbidly obese" time="before DCT" indicator="mention" comment=""/>
+      <OBESE id="O17" start="1224" end="1238" text="morbid obesity" time="before DCT" indicator="mention" comment=""/>
+      <OBESE id="O18" start="1397" end="1405" text="obesity." time="before DCT" indicator="mention" comment=""/>
+      <OBESE id="O19" start="2046" end="2060" text="morbidly obese" time="before DCT" indicator="mention" comment=""/>
+      <OBESE id="O20" start="3151" end="3167" text="morbidly   obese" time="before DCT" indicator="mention" comment=""/>
+    </OBESE>
+    <FAMILY_HIST id="DOC10" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <DIABETES id="DOC11" time="after DCT" indicator="mention">
+      <DIABETES id="D17" start="278" end="295" text="diabetes mellitus" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D18" start="278" end="295" text="diabetes mellitus" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D19" start="737" end="745" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D20" start="3117" end="3134" text="diabetes mellitus" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <MEDICATION id="DOC12" time="after DCT" type1="insulin" type2="">
+      <MEDICATION id="M13" start="793" end="804" text="insulin NPH" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M14" start="793" end="804" text="insulin NPH" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M15" start="3267" end="3274" text="insulin" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M16" start="3888" end="3891" text="NPH" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M17" start="3778" end="3785" text="insulin" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M18" start="4013" end="4020" text="insulin" time="after DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <PHI id="P0" start="16" end="26" text="2078-10-25" TYPE="DATE"/>
+    <PHI id="P1" start="37" end="53" text="October 25, 2078" TYPE="DATE"/>
+    <PHI id="P2" start="79" end="93" text="Larry Lockwood" TYPE="PATIENT"/>
+    <PHI id="P3" start="95" end="98" text="MPC" TYPE="HOSPITAL"/>
+    <PHI id="P4" start="100" end="111" text="590-33-20-3" TYPE="MEDICALRECORD"/>
+    <PHI id="P5" start="129" end="131" text="56" TYPE="AGE"/>
+    <PHI id="P6" start="202" end="226" text="Marshalltown Pond Clinic" TYPE="HOSPITAL"/>
+    <PHI id="P7" start="334" end="339" text="10/21" TYPE="DATE"/>
+    <PHI id="P8" start="781" end="789" text="10/22/78" TYPE="DATE"/>
+    <PHI id="P9" start="1946" end="1953" text="manager" TYPE="PROFESSION"/>
+    <PHI id="P10" start="2841" end="2846" text="10/21" TYPE="DATE"/>
+    <PHI id="P11" start="4428" end="4436" text="Xan Dunn" TYPE="DOCTOR"/>
+    <PHI id="P12" start="4440" end="4442" text="XD" TYPE="DOCTOR"/>
+    <PHI id="P13" start="4443" end="4450" text="ullmann" TYPE="DOCTOR"/>
+    <PHI id="P14" start="4459" end="4467" text="10.25.78" TYPE="DATE"/>
+    <PHI id="P15" start="4474" end="4482" text="11.04.78" TYPE="DATE"/>
+    <PHI id="P16" start="4487" end="4495" text="12.03.78" TYPE="DATE"/>
+    <PHI id="P17" start="4501" end="4509" text="10.25.78" TYPE="DATE"/>
+  </TAGS>
+</root>

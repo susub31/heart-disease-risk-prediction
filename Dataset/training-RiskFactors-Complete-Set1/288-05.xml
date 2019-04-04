@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2069-02-17
+
+MD Connect Call 11:59pm 2/16/69 from Dr. Hale at Senior Care Clinic Queen Creek, SD regarding Terri Bird.  Patient admitted there 2/12/69 with CHF exacerbation with some associated COPD exacerbation and associated pneumonia.  All initially improved but then clinically worsening 2/14-2/16.  Patient requiring 100% NRB mask to maintain normal saturation with rising BUN/CR (hx kidney transplant).  Clinically showing pulmonary edema but no urine output to IV lasix.  Patient had established DNR status.  
+
+
+
+Request by family to Dr. Hale to transfer patient to GCM.  I spoke to MD, nurse, and daughter-in-law and offered to accept patient when she was medically stabilized.  I thought she was too ill to safely transfer at the time without intubation before-hand.  
+
+
+
+I called RN back at 6am and learned that patient had O2 saturation of 70%, pH=7.2 and covering MD had honored patient's established DNR order despite some family members desire to reverse it.  Patient too ill to transfer safely; will contact me again if patient stabilized.
+
+
+
+Al S. Everhart, MD
+
+Hospitalist Service
+
+
+
+]]></TEXT>
+  <TAGS>
+    <FAMILY_HIST id="DOC0" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC1" status="unknown">
+      <SMOKER id="S0" start="3" end="10" text="Record " status="unknown" comment=""/>
+      <SMOKER id="S1" status="unknown"/>
+      <SMOKER id="S2" status="unknown"/>
+    </SMOKER>
+    <PHI id="P0" start="16" end="26" text="2069-02-17" TYPE="DATE"/>
+    <PHI id="P1" start="52" end="59" text="2/16/69" TYPE="DATE"/>
+    <PHI id="P2" start="69" end="73" text="Hale" TYPE="DOCTOR"/>
+    <PHI id="P3" start="77" end="95" text="Senior Care Clinic" TYPE="HOSPITAL"/>
+    <PHI id="P4" start="96" end="107" text="Queen Creek" TYPE="CITY"/>
+    <PHI id="P5" start="109" end="111" text="SD" TYPE="STATE"/>
+    <PHI id="P6" start="122" end="132" text="Terri Bird" TYPE="PATIENT"/>
+    <PHI id="P7" start="158" end="165" text="2/12/69" TYPE="DATE"/>
+    <PHI id="P8" start="307" end="311" text="2/14" TYPE="DATE"/>
+    <PHI id="P9" start="312" end="316" text="2/16" TYPE="DATE"/>
+    <PHI id="P10" start="560" end="564" text="Hale" TYPE="DOCTOR"/>
+    <PHI id="P11" start="588" end="591" text="GCM" TYPE="HOSPITAL"/>
+    <PHI id="P12" start="1073" end="1087" text="Al S. Everhart" TYPE="DOCTOR"/>
+  </TAGS>
+</root>

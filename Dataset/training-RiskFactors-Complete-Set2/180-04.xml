@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2087-02-06
+
+                     FPM EMERGENCY DEPT VISIT
+ 
+TINSLEY,PEGGY R   236-67-03-3                  VISIT DATE: 02/06/87
+PRESENTING COMPLAINT:  The patient is a 48-year-old female who has
+had a kidney transplant as well as an extensive cardiac history who
+comes in complaining of fatigue and shortness of breath.
+HISTORY OF PRESENTING COMPLAINT:  She was seen primarily by Dr.
+Robert Villasenor.  She also complains of pleuritic chest pain and a
+cough.
+PAST MEDICAL HISTORY:  Are as documented in the written chart by
+Dr. Villasenor.
+MEDICATIONS:  Are as documented in the written chart by Dr.
+Villasenor.
+ALLERGIES:  Are as documented in the written chart by Dr. Villasenor.
+SOCIAL HISTORY AND FAMILY HISTORY:  Are as documented in the
+written chart by Dr. Villasenor.
+PHYSICAL EXAMINATION:  Her temperature is 99.  Her other vital
+signs are stable.  Her O2 sat is 96% on room air.  Her exam is as
+noted in the written chart.  Of note, on her cardiovascular exam:
+She has a regular rate and rhythm with a 2/6 systolic murmur.  The
+lungs show left lower lobe crackles.
+LABORATORY EVALUATION:  Are notable for a white blood cell count of
+12.5 and a hematocrit of 45.3.  Chest x-ray shows an infiltrate in
+the superior segment of the left upper lobe.
+FINAL DIAGNOSIS:  This is a 48-year-old female status post a kidney
+transplant who now has a left upper lobe pneumonia.
+DISPOSITION (including condition upon discharge):  The plan is to
+admit the patient for IV antibiotics.  Condition on admission is
+satisfactory.
+___________________________________                    JD545/5915
+SARINA BOOTH, M.D.  SB17                           D:02/06/87
+                                                       T:02/07/87
+Dictated by:  SARINA BOOTH, M.D.  SB17
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <FAMILY_HIST id="DOC0" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC1" status="unknown">
+      <SMOKER id="S0" start="699" end="705" text="SOCIAL" status="unknown" comment=""/>
+      <SMOKER id="S1" status="unknown"/>
+      <SMOKER id="S2" status="unknown"/>
+    </SMOKER>
+  </TAGS>
+</root>

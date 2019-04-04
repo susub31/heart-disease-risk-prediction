@@ -1,0 +1,201 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2077-03-12
+
+
+
+
+
+
+
+
+
+March 12, 2077
+
+
+
+Urijah Whaley, M.D.
+266 Bungalow Ave
+Crystal Springs, MO 37319
+
+RE:  Otis Narvaez
+     MR #045-61-32-6
+
+Dear Uddin:
+
+Otis Narvaez is a 67 year old man who returned to the office today for follow-up after having
+undergone an Adenosine PET scan on March 04, 2077.  His previous visit with me occurred on
+February 19, 2077, where his acute complaint was shortness of breath with any activity.  He
+denied chest pain, but did admit to a "tight" feeling down his left arm on occasion.  This was not
+associated with activity.  He admits to being a very sedentary person.  
+
+The results of his Adenosine MIBI were abnormal, with abnormal myocardial perfusion, global
+LV function, and CT coronary angiography.  There were no significant findings on the clinical
+evaluation.  The response was non-ischemic, and there were no EKG changes during infusion. 
+The results revealed a small calcified plaque in the proximal LAD coronary artery without flow-
+limiting stenosis.  There was a more heavily calcified plaque visualized in the distal RCA which
+was flow-limiting, and there was a moderate amount of stress-induced ischemia on imaging. 
+There was severe left ventricular systolic dysfunction with an ejection fraction of 32%.  The
+narrowing in the distal segment of the RCA was greater than 70%.  
+
+A lipid profile performed following his office visit on February 19, 2077 revealed a total
+cholesterol of 182 mg/dl, an HDL of 43 mg/dl, an LDL of 71 mg/dl, and a triglyceride level of
+342 mg/dl.  He has not been on any cholesterol-lowering medications.  
+
+He had undergone previous cardiac catheterization in November 2072, which demonstrated
+insignificant coronary artery disease, with an ejection fraction of 63%.
+
+Since his last office visit, he continues to be significantly short of breath with any activity.  He
+denies any chest pain or left arm discomfort.  
+
+His current medications include Ritalin 20 mg five times daily, Ambien 10 mg at hour of sleep,
+Neurontin 900 mg three times daily, Lasix 20 mg every other day, Lisinopril 60 mg once daily, 
+Otis Narvaez
+MR #045-61-32-6
+Page 2
+March 12, 2077
+ 
+aspirin 325 mg with Oxycodone as needed.  He usually takes these once every other day.  He is
+now on 20 units of an insulin preparation that he cannot identify.  He takes this at bedtime.
+
+Review of systems reveals that he has chronic peripheral neuropathy in his feet.  This causes him
+to feel imbalanced, and it is necessary for him to walk with a cane.
+
+He was diagnosed with diabetes in 2068 and hypertension in 2067.  He also has chronic low
+back pain due to degenerative joint disease, as well as lumbar disc disease.  He also has
+degenerative joint disease in his knees.  He receives psychiatric follow-up for his diagnosis of
+depression.  
+
+He underwent a gastric bypass procedure at Harmon Medical Rehabilitation Hospital in 2068.
+
+On January 20, 2073, he underwent a left lingular-sparing upper lobectomy for a T1 squamous
+cell carcinoma.  
+
+On physical examination, he appears healthy, albeit overweight, with a normal affect.  His
+weight is 208 lbs, the heart rate is 84 beats per minute, the respiratory rate is 16 per minute, and
+the blood pressure is 140/62 mm/Hg.  Examination of the head, eyes, ears, nose, and throat
+reveals upper dentures in place.  There is no jugular vein distention, and the lungs are clear. 
+There is increased AP diameter with bilateral gynecomastia.  On cardiac examination, the heart
+sounds are distant, and there is a regular rhythm, a normal S1, a single S2, and no murmurs,
+rubs, or gallops.  The lower extremity examination reveals a 2 cm tender superficial area on the
+distal right calf.  There is no edema noted.
+
+I discussed with Otis Narvaez and his wife, Santiago, my recommendations for a cardiac
+catheterization followed by stent placement, as indicated.  He has agreed to this, and Dr. Yaziel
+Kraft will perform the procedure.  His office will call Mr. Narvaez to schedule the
+catheterization.  After leaving the office today, he will have a CBC, a PT, a PTT, and a
+comprehensive metabolic profile performed.  He will return to see me in the office again in one
+month.
+
+Best personal regards.
+
+Sincerely,
+
+
+Kenneth Z. Sellers, M.D.
+/huff
+
+
+Charlene B. Bates, RN, BSN
+Scribe for Kenneth Z. Sellers, M.D.
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="during DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M0" start="2073" end="2084" text="Lisinopril " time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M1" start="2073" end="2083" text="Lisinopril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M2" start="2073" end="2083" text="Lisinopril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC1" time="during DCT" type1="aspirin" type2="">
+      <MEDICATION id="M3" start="2156" end="2164" text="aspirin " time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M4" start="2156" end="2163" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M5" start="2156" end="2163" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC3" time="after DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M6" start="2073" end="2084" text="Lisinopril " time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M7" start="2073" end="2083" text="Lisinopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M8" start="2073" end="2083" text="Lisinopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC6" time="after DCT" type1="aspirin" type2="">
+      <MEDICATION id="M9" start="2156" end="2164" text="aspirin " time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M10" start="2156" end="2163" text="aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M11" start="2156" end="2163" text="aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC8" time="after DCT" type1="insulin" type2="">
+      <MEDICATION id="M12" start="2272" end="2279" text="insulin" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M13" start="2272" end="2279" text="insulin" time="after DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC12" time="before DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M14" start="2073" end="2084" text="Lisinopril " time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M15" start="2073" end="2083" text="Lisinopril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M16" start="2073" end="2083" text="Lisinopril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC13" time="before DCT" type1="aspirin" type2="">
+      <MEDICATION id="M17" start="2156" end="2164" text="aspirin " time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M18" start="2156" end="2163" text="aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M19" start="2156" end="2163" text="aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC15" time="before DCT" type1="insulin" type2="">
+      <MEDICATION id="M20" start="2272" end="2279" text="insulin" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M21" start="2272" end="2279" text="insulin" time="before DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC17" time="during DCT" type1="insulin" type2="">
+      <MEDICATION id="M22" start="2272" end="2279" text="insulin" time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M23" start="2272" end="2279" text="insulin" time="during DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC2" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="2556" end="2568" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="2556" end="2576" text="hypertension in 2067" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H2" start="2556" end="2568" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC9" time="during DCT" indicator="high bp">
+      <HYPERTENSION id="H3" start="3221" end="3234" text=" 140/62 mm/Hg" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H4" start="3204" end="3234" text="blood pressure is 140/62 mm/Hg" time="during DCT" indicator="high bp" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC10" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H5" start="2556" end="2568" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H6" start="2556" end="2576" text="hypertension in 2067" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H7" start="2556" end="2568" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC16" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H8" start="2556" end="2568" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H9" start="2556" end="2576" text="hypertension in 2067" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H10" start="2556" end="2568" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <CAD id="DOC7" time="before DCT" indicator="test">
+      <CAD id="C0" start="1316" end="1340" text="RCA was greater than 70%" time="before DCT" indicator="test" comment=""/>
+      <CAD id="C1" start="1015" end="1182" text="There was a more heavily calcified plaque visualized in the distal RCA which was flow-limiting, and there was a moderate amount of stress-induced ischemia on imaging. " time="before DCT" indicator="test" comment=""/>
+    </CAD>
+    <FAMILY_HIST id="DOC18" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC11" status="unknown">
+      <SMOKER id="S0" start="3" end="9" text="Record" status="unknown" comment=""/>
+      <SMOKER id="S1" status="unknown"/>
+      <SMOKER id="S2" status="unknown"/>
+    </SMOKER>
+    <DIABETES id="DOC4" time="after DCT" indicator="mention">
+      <DIABETES id="D0" start="2535" end="2544" text="diabetes " time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D1" start="2535" end="2552" text="diabetes in 2068 " time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D2" start="2535" end="2543" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC5" time="during DCT" indicator="mention">
+      <DIABETES id="D3" start="2535" end="2544" text="diabetes " time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D4" start="2535" end="2552" text="diabetes in 2068 " time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D5" start="2535" end="2543" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC14" time="before DCT" indicator="mention">
+      <DIABETES id="D6" start="2535" end="2544" text="diabetes " time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D7" start="2535" end="2552" text="diabetes in 2068 " time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D8" start="2535" end="2543" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+  </TAGS>
+</root>

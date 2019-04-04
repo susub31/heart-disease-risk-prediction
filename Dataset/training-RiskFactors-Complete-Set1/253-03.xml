@@ -1,0 +1,165 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2073-12-14
+
+CARDIOLOGY
+
+COLLINGSWORTH GENERAL HOSPITAL
+
+
+
+Current Medications:
+
+
+
+			
+
+
+
+Changes to Medications this visit
+
+Ecotrin 325 mg  po qd QTY:90 Refills:3 Start: 12/14/2073
+
+Plavix 75mg  po qd QTY:90 Refills:3 Start: 12/14/2073
+
+Glucotrol tablets 20 mg   BID QTY:180 Refills:3 Start: 12/14/2073
+
+Glucophage 1000 mg  po bid QTY:180 Refills:3 Start: 12/14/2073 take with meals
+
+Actos 15mg  po qd QTY:90 Refills:3 Start: 12/14/2073
+
+atenolol 50mg  po qd QTY:90 Refills:3 Start: 12/14/2073
+
+Protonix 40 mg  po qd QTY:90 Refills:3 Start: 12/14/2073 do not cut/crush/chew
+
+lisinopril 20 mg  po qd QTY:90 Refills:3 Start: 12/14/2073
+
+lorazepam 0.5mg  po  QHS QTY:90 Refills:3 Start: 12/14/2073
+
+
+
+Signed electronically by   Xavier V Cook MD  on  Dec 20, 2073     
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="during DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M0" start="591" end="601" text="lisinopril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M1" start="591" end="601" text="lisinopril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC1" time="during DCT" type1="aspirin" type2="">
+      <MEDICATION id="M2" start="140" end="147" text="Ecotrin" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M3" start="140" end="147" text="Ecotrin" time="during DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC2" time="during DCT" type1="thienopyridine" type2="">
+      <MEDICATION id="M4" start="198" end="204" text="Plavix" time="during DCT" type1="thienopyridine" type2="" comment=""/>
+      <MEDICATION id="M5" start="198" end="204" text="Plavix" time="during DCT" type1="thienopyridine" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC3" time="after DCT" type1="metformin" type2="">
+      <MEDICATION id="M6" start="320" end="330" text="Glucophage" time="after DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M7" start="320" end="330" text="Glucophage" time="after DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M8" start="320" end="330" text="Glucophage" time="after DCT" type1="metformin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC4" time="during DCT" type1="metformin" type2="">
+      <MEDICATION id="M9" start="320" end="330" text="Glucophage" time="during DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M10" start="320" end="330" text="Glucophage" time="during DCT" type1="metformin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC5" time="after DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M11" start="591" end="601" text="lisinopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M12" start="591" end="601" text="lisinopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M13" start="591" end="601" text="lisinopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC6" time="after DCT" type1="aspirin" type2="">
+      <MEDICATION id="M14" start="140" end="147" text="Ecotrin" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M15" start="140" end="147" text="Ecotrin" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M16" start="140" end="147" text="Ecotrin" time="after DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC7" time="after DCT" type1="sulfonylureas" type2="">
+      <MEDICATION id="M17" start="253" end="262" text="Glucotrol" time="after DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M18" start="253" end="262" text="Glucotrol" time="after DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M19" start="253" end="262" text="Glucotrol" time="after DCT" type1="sulfonylureas" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC8" time="during DCT" type1="sulfonylureas" type2="">
+      <MEDICATION id="M20" start="253" end="262" text="Glucotrol" time="during DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M21" start="253" end="262" text="Glucotrol" time="during DCT" type1="sulfonylureas" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC9" time="after DCT" type1="thienopyridine" type2="">
+      <MEDICATION id="M22" start="198" end="204" text="Plavix" time="after DCT" type1="thienopyridine" type2="" comment=""/>
+      <MEDICATION id="M23" start="198" end="204" text="Plavix" time="after DCT" type1="thienopyridine" type2="" comment=""/>
+      <MEDICATION id="M24" start="198" end="204" text="Plavix" time="after DCT" type1="thienopyridine" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC10" time="before DCT" type1="thiazolidinedione" type2="">
+      <MEDICATION id="M25" start="400" end="405" text="Actos" time="before DCT" type1="thiazolidinedione" type2="" comment=""/>
+      <MEDICATION id="M26" start="400" end="405" text="Actos" time="before DCT" type1="thiazolidinedione" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC11" time="after DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M27" start="454" end="462" text="atenolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M28" start="454" end="462" text="atenolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M29" start="454" end="462" text="atenolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <SMOKER id="DOC12" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" status="unknown"/>
+      <SMOKER id="S2" status="unknown"/>
+    </SMOKER>
+    <MEDICATION id="DOC13" time="before DCT" type1="metformin" type2="">
+      <MEDICATION id="M30" start="320" end="330" text="Glucophage" time="before DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M31" start="320" end="330" text="Glucophage" time="before DCT" type1="metformin" type2="" comment=""/>
+    </MEDICATION>
+    <FAMILY_HIST id="DOC14" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <MEDICATION id="DOC15" time="before DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M32" start="591" end="601" text="lisinopril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M33" start="591" end="601" text="lisinopril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC16" time="before DCT" type1="aspirin" type2="">
+      <MEDICATION id="M34" start="140" end="147" text="Ecotrin" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M35" start="140" end="147" text="Ecotrin" time="before DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC17" time="during DCT" type1="thiazolidinedione" type2="">
+      <MEDICATION id="M36" start="400" end="405" text="Actos" time="during DCT" type1="thiazolidinedione" type2="" comment=""/>
+      <MEDICATION id="M37" start="400" end="405" text="Actos" time="during DCT" type1="thiazolidinedione" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC18" time="before DCT" type1="sulfonylureas" type2="">
+      <MEDICATION id="M38" start="253" end="262" text="Glucotrol" time="before DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M39" start="253" end="262" text="Glucotrol" time="before DCT" type1="sulfonylureas" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC19" time="before DCT" type1="thienopyridine" type2="">
+      <MEDICATION id="M40" start="198" end="204" text="Plavix" time="before DCT" type1="thienopyridine" type2="" comment=""/>
+      <MEDICATION id="M41" start="198" end="204" text="Plavix" time="before DCT" type1="thienopyridine" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC20" time="after DCT" type1="thiazolidinedione" type2="">
+      <MEDICATION id="M42" start="400" end="405" text="Actos" time="after DCT" type1="thiazolidinedione" type2="" comment=""/>
+      <MEDICATION id="M43" start="400" end="405" text="Actos" time="after DCT" type1="thiazolidinedione" type2="" comment=""/>
+      <MEDICATION id="M44" start="400" end="405" text="Actos" time="after DCT" type1="thiazolidinedione" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC21" time="before DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M45" start="454" end="462" text="atenolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M46" start="454" end="462" text="atenolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC22" time="during DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M47" start="454" end="462" text="atenolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M48" start="454" end="462" text="atenolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <PHI id="P0" start="16" end="26" text="2073-12-14" TYPE="DATE"/>
+    <PHI id="P1" start="40" end="70" text="COLLINGSWORTH GENERAL HOSPITAL" TYPE="HOSPITAL"/>
+    <PHI id="P2" start="186" end="196" text="12/14/2073" TYPE="DATE"/>
+    <PHI id="P3" start="241" end="251" text="12/14/2073" TYPE="DATE"/>
+    <PHI id="P4" start="308" end="318" text="12/14/2073" TYPE="DATE"/>
+    <PHI id="P5" start="372" end="382" text="12/14/2073" TYPE="DATE"/>
+    <PHI id="P6" start="442" end="452" text="12/14/2073" TYPE="DATE"/>
+    <PHI id="P7" start="499" end="509" text="12/14/2073" TYPE="DATE"/>
+    <PHI id="P8" start="557" end="567" text="12/14/2073" TYPE="DATE"/>
+    <PHI id="P9" start="639" end="649" text="12/14/2073" TYPE="DATE"/>
+    <PHI id="P10" start="700" end="710" text="12/14/2073" TYPE="DATE"/>
+    <PHI id="P11" start="741" end="754" text="Xavier V Cook" TYPE="DOCTOR"/>
+    <PHI id="P12" start="763" end="775" text="Dec 20, 2073" TYPE="DATE"/>
+  </TAGS>
+</root>

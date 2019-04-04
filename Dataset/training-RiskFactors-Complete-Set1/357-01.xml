@@ -1,0 +1,172 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2069-10-07
+
+                     ZOLLMAN EMERGENCY DEPT VISIT
+ 
+MASSEY,RAMONA   446-90-33-6                       VISIT DATE: 10/07/69
+TIME OF DICTATION:  1 p.m. 
+PRESENTING COMPLAINT and HISTORY OF PRESENTING COMPLAINT:  This 
+patient is a 63-year-old female who presents to the Zollman Community Clinic Emergency Department from home after the patient 
+was found down by her daughter inside her home for an unspecified 
+amount of time.  The paramedics and police were called the scene. 
+The police were able to force open the door of the home.  The 
+patient was found unconscious on the floor, having a generalized 
+tonic clonic seizure.  The patient was intubated and given 4 mg of 
+Ativan prior to arrival in the Emergency Department with the 
+paramedics.  On arrival in the Emergency Department, the patient 
+was noted to be comatose, intubated, and clearly in acute distress. 
+The patient has a history of diabetes mellitus.  She has had a 
+seizure in the past, apparently secondary to hypoglycemia.  She 
+also has a history of high blood pressure.  She is on diltiazem, 
+lisinopril, and medications for hypercholesterolemia. 
+PHYSICAL EXAMINATION:  Her temperature is 100.6 degrees F., her 
+pulse 150, her respiratory rate 12, her blood pressure on arrival 
+205/90, and her O2 saturation is 98%.  On physical examination, the 
+HEENT examination reveals a normocephalic head with no evidence of 
+trauma on examination.  The pupils are equal and round, weakly 
+reactive to light.  The pupils are 2 mm.  The fundi cannot be 
+visualized.  The neck is supple.  There are no step-offs noted. 
+The chest is clear to auscultation bilaterally.  The heart has 
+normal S1 and S2, no S3 or S4, and no murmur.  The abdomen is 
+protuberant, but soft and non-tender, without guarding, rebound, 
+masses, or organomegaly.  The extremities are grossly within normal 
+limits.  Grossly, there is no posturing; there are no Babinskis; 
+the reflexes are about 1+ bilaterally. 
+LABORATORY EVALUATION:  The head CT is noted to be negative.  The 
+EKG reveals ST elevations in III and possibly aVF.  The heart rate 
+is approximately 130.  The chest x-ray shows proper tube placement. 
+The troponin I is 2.2, and is in the process of being repeated. 
+The glucose is 174, the BUN 57, the creatinine 5.8, the sodium 137, 
+the potassium 5.3, the chloride 101, the CO2 18.  The CK is noted 
+to be 920, and the CK-MB is 2.6%.  The toxicology screen is 
+negative.  The troponin I again is 2.2.  The urine toxicology is 
+also noted to be negative.  The white count is 14, the hemoglobin 
+11, the hematocrit 36, and the platelet count 350.  The urinalysis 
+shows 3+ blood.  There are only 1-3 WBCs in the urine. 
+THERAPY RENDERED/COURSE IN ED:   The plan is to admit the patient 
+to the Intensive Care Unit for further work-up and evaluation.  An 
+LP will be done in the Emergency Department, and following the LP, 
+the patient will be sent to the Medical Intensive Care Unit. 
+FINAL DIAGNOSIS:  The diagnostic impression in the Emergency 
+Department is seizure and coma of undetermined etiology. 
+DISPOSITION (including condition on discharge):  The patient will 
+be admitted to the Medical Intensive Care Unit following her lumbar 
+puncture. 
+___________________________________                    HB768/1408 
+H. SHAWN HOWELL, M.D.  SH37                            D:10/07/69 
+                                                       T:10/07/69 
+Dictated by:  H. SHAWN HOWELL, M.D.  SH37 
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="during DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M0" start="1094" end="1104" text="lisinopril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M1" start="1094" end="1105" text="lisinopril," time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC1" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="1039" end="1069" text="history of high blood pressure" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="1050" end="1069" text="high blood pressure" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H2" start="1050" end="1069" text="high blood pressure" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <MEDICATION id="DOC2" time="after DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M2" start="1094" end="1104" text="lisinopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M3" start="1094" end="1105" text="lisinopril," time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC3" time="before DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M4" start="1094" end="1104" text="lisinopril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M5" start="1094" end="1105" text="lisinopril," time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <DIABETES id="DOC4" time="during DCT" indicator="mention">
+      <DIABETES id="D0" start="928" end="945" text="diabetes mellitus" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D1" start="928" end="945" text="diabetes mellitus" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D2" start="927" end="945" text=" diabetes mellitus" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <HYPERLIPIDEMIA id="DOC5" time="during DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY0" start="1126" end="1146" text="hypercholesterolemia" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY1" start="1126" end="1146" text="hypercholesterolemia" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY2" start="1126" end="1148" text="hypercholesterolemia. " time="during DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <MEDICATION id="DOC6" time="during DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M6" start="1082" end="1091" text="diltiazem" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M7" start="1082" end="1091" text="diltiazem" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M8" start="1082" end="1092" text="diltiazem," time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC7" time="during DCT" indicator="high bp">
+      <HYPERTENSION id="H3" start="1254" end="1287" text="blood pressure on arrival  205/90" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H4" start="1281" end="1287" text="205/90" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H5" start="1281" end="1287" text="205/90" time="during DCT" indicator="high bp" comment=""/>
+    </HYPERTENSION>
+    <MEDICATION id="DOC8" time="before DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M9" start="1082" end="1091" text="diltiazem" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M10" start="1082" end="1091" text="diltiazem" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M11" start="1082" end="1092" text="diltiazem," time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC9" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H6" start="1039" end="1069" text="history of high blood pressure" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H7" start="1050" end="1069" text="high blood pressure" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H8" start="1050" end="1069" text="high blood pressure" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <SMOKER id="DOC10" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" start="244" end="251" text="patient" status="unknown" comment=""/>
+      <SMOKER id="S2" status="unknown"/>
+    </SMOKER>
+    <DIABETES id="DOC11" time="before DCT" indicator="mention">
+      <DIABETES id="D3" start="928" end="945" text="diabetes mellitus" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D4" start="928" end="945" text="diabetes mellitus" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D5" start="927" end="945" text=" diabetes mellitus" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <HYPERLIPIDEMIA id="DOC12" time="after DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY3" start="1126" end="1146" text="hypercholesterolemia" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY4" start="1126" end="1146" text="hypercholesterolemia" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY5" start="1126" end="1148" text="hypercholesterolemia. " time="after DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <HYPERLIPIDEMIA id="DOC13" time="before DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY6" start="1126" end="1146" text="hypercholesterolemia" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY7" start="1126" end="1146" text="hypercholesterolemia" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY8" start="1126" end="1148" text="hypercholesterolemia. " time="before DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <MEDICATION id="DOC14" time="after DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M12" start="1082" end="1091" text="diltiazem" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M13" start="1082" end="1091" text="diltiazem" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M14" start="1082" end="1092" text="diltiazem," time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC15" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H9" start="1039" end="1069" text="history of high blood pressure" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H10" start="1050" end="1069" text="high blood pressure" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H11" start="1050" end="1069" text="high blood pressure" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <FAMILY_HIST id="DOC16" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <DIABETES id="DOC17" time="after DCT" indicator="mention">
+      <DIABETES id="D6" start="928" end="945" text="diabetes mellitus" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D7" start="928" end="945" text="diabetes mellitus" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D8" start="927" end="945" text=" diabetes mellitus" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <PHI id="P0" start="16" end="26" text="2069-10-07" TYPE="DATE"/>
+    <PHI id="P1" start="49" end="56" text="ZOLLMAN" TYPE="HOSPITAL"/>
+    <PHI id="P2" start="80" end="93" text="MASSEY,RAMONA" TYPE="PATIENT"/>
+    <PHI id="P3" start="96" end="107" text="446-90-33-6" TYPE="MEDICALRECORD"/>
+    <PHI id="P4" start="142" end="150" text="10/07/69" TYPE="DATE"/>
+    <PHI id="P5" start="257" end="259" text="63" TYPE="AGE"/>
+    <PHI id="P6" start="296" end="320" text="Zollman Community Clinic" TYPE="HOSPITAL"/>
+    <PHI id="P7" start="3288" end="3298" text="HB768/1408" TYPE="IDNUM"/>
+    <PHI id="P8" start="3300" end="3315" text="H. SHAWN HOWELL" TYPE="DOCTOR"/>
+    <PHI id="P9" start="3323" end="3327" text="SH37" TYPE="USERNAME"/>
+    <PHI id="P10" start="3357" end="3365" text="10/07/69" TYPE="DATE"/>
+    <PHI id="P11" start="3424" end="3432" text="10/07/69" TYPE="DATE"/>
+    <PHI id="P12" start="3448" end="3463" text="H. SHAWN HOWELL" TYPE="DOCTOR"/>
+    <PHI id="P13" start="3471" end="3475" text="SH37" TYPE="USERNAME"/>
+  </TAGS>
+</root>

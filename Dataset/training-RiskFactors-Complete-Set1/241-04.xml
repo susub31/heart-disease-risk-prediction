@@ -1,0 +1,286 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2076-12-11
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+December 11, 2076
+ 
+ 
+Paul Arteaga, M.D.
+677 Mill Street
+Shady Cove, NY 43414
+ 
+Re:  Christine Olivier
+     MR #652-33-21-5
+ 
+Dear Dr. Arteaga:
+ 
+Mrs. Olivier returns for follow-up.  Since last seen, she reports
+return in a non-exertional left shoulder discomfort syndrome,
+occasionally associated with mild dyspnea.  Of note, she underwent
+a dobutamine MIBI stress test last June for evaluating a similar
+syndrome, and at that time she developed her typical chest and left
+back pain syndrome in association with no diagnostic EKG changes at
+a peak heart rate of 127, peak blood pressure of 160/60.  A
+simultaneously obtained SESTA MIBI scan revealed a global left
+ventricular fraction of 42%, a non-Q-wave myocardial infarction
+involving 2 out of 20 segments of the inferior wall and minimal
+peri-infarct ischemia.  In addition, a venous duplex ultrasound
+study done to evaluate her severe left greater than right
+peripheral edema showed no evidence of DVT.  
+ 
+Currently she remains on a regimen of amlodipine 5 mg poqd,
+atenolol 50 mg poqd, simvastatin 10 mg poqd, lisinopril 10 mg poqd,
+Nitropatch .4 mg q.12 hours, Neurontin 400 mg potid, furosemide 40
+mg poqd (recently increased), Lamactil 150 mg pobid, Trusopt and
+Xalantan drops, insulin 10 units of CZI with 72 units NPH qam and
+74 units NPH qpm. 
+ 
+Physical exam reveals an overweight woman in no distress.  Blood
+pressure, right arm sitting - 110/70, heart rate - 70 and regular,
+respirations - 12 and unlabored, weight - 174 pounds which is four
+pounds below her weight of six months ago.  The neck is supple with
+JVP flat.  Carotids are 2+ without significant bruits.  Chest is
+clear.  Cardiac exam shows normal S1, physiologically split S2, and
+a I/VI holosystolic murmur radiating from the apex to the axilla. 
+No significant diastolic murmur or rub.  The abdomen is benign. 
+Extremities reveal marked left greater than right pedal edema. 
+Peripheral pulses are diminished.  
+ 
+Electrocardiogram shows sinus rhythm at a rate of 70, PR interval
+of .12, QRS of .06, QT of .36, axis of -25.  There is borderline
+Paul Arteaga, M.D.
+December 11, 2076
+Page Two
+ 
+Re:  Christine Olivier
+     MR #652-33-21-5
+ 
+ 
+evidence for left ventricular hypertrophy with secondary ST and T-
+wave changes.  Compared with the last electrocardiogram, there has
+been no significant change. 
+ 
+Presently, Mrs. Olivier has evidence of continuing chest and left
+shoulder discomfort which she believes is similar to her pre-bypass
+surgery angina.  In this setting, a dobutamine stress test
+performed last June showed no evidence of provokable ischemia.  I
+have spent some time discussing with Ms. Olivier our various
+therapeutic and diagnostic options.  She made it quite clear that
+she would not consider repeat cardiac catheterization at this time,
+and furthermore, was very disinterested in pursuing the possibility
+(should she require it) of either mechanical or surgical re-
+vascularization.  It is not entirely clear to me that her left
+shoulder syndrome is in fact ischemic in origin, and she certainly
+understands it may be secondary to musculoskeletal abnormalities. 
+I have suggested that she discuss that further with you.  In the
+meantime, I have asked her (as her back and chest discomfort
+syndrome appears to occur mostly at night prior to lying down for
+bed) to apply her Nitropatch in the evening and take it off in the
+morning.  She will call me within the next several days to report
+how this helps her discomfort syndrome.  I do not believe that she
+is having GERD to explain her symptoms.  In light of her reluctance
+to undergo any further diagnostic cardiac studies, I will try to
+tailor her anti-ischemic medications to minimize her chest
+discomfort syndrome.  I, of course, will keep you fully informed as
+to her progress, and I thank you for allowing me to assist in her
+care. 
+ 
+Sincerely yours,
+ 
+ 
+Irineo Tovar, M.D.
+/vuong
+ 
+DD: 12/11/76
+DT: 01/14/77
+DV: 12/11/76
+ 
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="during DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M0" start="1110" end="1120" text="lisinopril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M1" start="1110" end="1120" text="lisinopril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M2" start="1110" end="1120" text="lisinopril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M3" start="1110" end="1120" text="lisinopril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC1" time="after DCT" type1="statin" type2="">
+      <MEDICATION id="M4" start="1086" end="1097" text="simvastatin" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M5" start="1086" end="1097" text="simvastatin" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M6" start="1086" end="1097" text="simvastatin" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M7" start="1086" end="1097" text="simvastatin" time="after DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <CAD id="DOC2" time="before DCT" indicator="symptom">
+      <CAD id="C0" start="493" end="526" text="typical chest and left back pain " time="before DCT" indicator="symptom" comment=""/>
+      <CAD id="C1" start="2520" end="2526" text="angina" time="before DCT" indicator="symptom" comment=""/>
+      <CAD id="C2" start="489" end="534" text="her typical chest and left back pain syndrome" time="before DCT" indicator="symptom" comment=""/>
+    </CAD>
+    <MEDICATION id="DOC3" time="during DCT" type1="nitrate" type2="">
+      <MEDICATION id="M8" start="1133" end="1143" text="Nitropatch" time="during DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M9" start="1133" end="1143" text="Nitropatch" time="during DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M10" start="1133" end="1143" text="Nitropatch" time="during DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M11" start="1133" end="1143" text="Nitropatch" time="during DCT" type1="nitrate" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC4" time="during DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M12" start="1043" end="1053" text="amlodipine" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M13" start="1043" end="1053" text="amlodipine" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M14" start="1043" end="1053" text="amlodipine" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M15" start="1043" end="1053" text="amlodipine" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC5" time="after DCT" type1="insulin" type2="">
+      <MEDICATION id="M16" start="1301" end="1304" text="CZI" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M17" start="1319" end="1322" text="NPH" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M18" start="1281" end="1288" text="insulin" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M19" start="1301" end="1304" text="CZI" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M20" start="1319" end="1322" text="NPH" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M21" start="1281" end="1349" text="insulin 10 units of CZI with 72 units NPH qam and 74 units NPH qpm. " time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M22" start="1319" end="1322" text="NPH" time="after DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC6" time="after DCT" type1="nitrate" type2="">
+      <MEDICATION id="M23" start="1133" end="1143" text="Nitropatch" time="after DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M24" start="1133" end="1143" text="Nitropatch" time="after DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M25" start="1133" end="1143" text="Nitropatch" time="after DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M26" start="1133" end="1143" text="Nitropatch" time="after DCT" type1="nitrate" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC7" time="before DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M27" start="1043" end="1053" text="amlodipine" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M28" start="1043" end="1053" text="amlodipine" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M29" start="1043" end="1053" text="amlodipine" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M30" start="1043" end="1053" text="amlodipine" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC8" time="after DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M31" start="1065" end="1073" text="atenolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M32" start="1065" end="1073" text="atenolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M33" start="1065" end="1073" text="atenolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M34" start="1065" end="1073" text="atenolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <SMOKER id="DOC9" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" status="unknown"/>
+      <SMOKER id="S2" status="unknown"/>
+      <SMOKER id="S3" status="unknown"/>
+    </SMOKER>
+    <MEDICATION id="DOC10" time="before DCT" type1="statin" type2="">
+      <MEDICATION id="M35" start="1086" end="1097" text="simvastatin" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M36" start="1086" end="1097" text="simvastatin" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M37" start="1086" end="1097" text="simvastatin" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M38" start="1086" end="1097" text="simvastatin" time="before DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC11" time="during DCT" type1="statin" type2="">
+      <MEDICATION id="M39" start="1086" end="1097" text="simvastatin" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M40" start="1086" end="1097" text="simvastatin" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M41" start="1086" end="1097" text="simvastatin" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M42" start="1086" end="1097" text="simvastatin" time="during DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <FAMILY_HIST id="DOC12" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+      <FAMILY_HIST id="F3" indicator="not present"/>
+    </FAMILY_HIST>
+    <MEDICATION id="DOC13" time="before DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M43" start="1110" end="1120" text="lisinopril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M44" start="1110" end="1120" text="lisinopril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M45" start="1110" end="1120" text="lisinopril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M46" start="1110" end="1120" text="lisinopril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC14" time="before DCT" indicator="high bp">
+      <HYPERTENSION id="H0" start="633" end="639" text="160/60" time="before DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H1" start="615" end="639" text="blood pressure of 160/60" time="before DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H2" start="610" end="639" text="peak blood pressure of 160/60" time="before DCT" indicator="high bp" comment=""/>
+    </HYPERTENSION>
+    <MEDICATION id="DOC15" time="before DCT" type1="nitrate" type2="">
+      <MEDICATION id="M47" start="1133" end="1143" text="Nitropatch" time="before DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M48" start="1133" end="1143" text="Nitropatch" time="before DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M49" start="1133" end="1143" text="Nitropatch" time="before DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M50" start="1133" end="1143" text="Nitropatch" time="before DCT" type1="nitrate" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC16" time="before DCT" type1="insulin" type2="">
+      <MEDICATION id="M51" start="1301" end="1304" text="CZI" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M52" start="1319" end="1322" text="NPH" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M53" start="1281" end="1288" text="insulin" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M54" start="1301" end="1304" text="CZI" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M55" start="1319" end="1322" text="NPH" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M56" start="1281" end="1349" text="insulin 10 units of CZI with 72 units NPH qam and 74 units NPH qpm. " time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M57" start="1319" end="1322" text="NPH" time="before DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <CAD id="DOC17" time="before DCT" indicator="event">
+      <CAD id="C3" start="749" end="856" text="myocardial infarction involving 2 out of 20 segments of the inferior wall and minimal peri-infarct ischemia" time="before DCT" indicator="event" comment=""/>
+      <CAD id="C4" start="736" end="770" text="a non-Q-wave myocardial infarction" time="before DCT" indicator="event" comment=""/>
+      <CAD id="C5" start="2505" end="2519" text="bypass surgery" time="before DCT" indicator="event" comment=""/>
+      <CAD id="C6" start="738" end="770" text="non-Q-wave myocardial infarction" time="before DCT" indicator="event" comment=""/>
+      <CAD id="C7" start="736" end="856" text="a non-Q-wave myocardial infarction involving 2 out of 20 segments of the inferior wall and minimal peri-infarct ischemia" time="before DCT" indicator="event" comment=""/>
+    </CAD>
+    <MEDICATION id="DOC18" time="after DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M58" start="1110" end="1120" text="lisinopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M59" start="1110" end="1120" text="lisinopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M60" start="1110" end="1120" text="lisinopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M61" start="1110" end="1120" text="lisinopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC19" time="after DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M62" start="1043" end="1053" text="amlodipine" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M63" start="1043" end="1053" text="amlodipine" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M64" start="1043" end="1053" text="amlodipine" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M65" start="1043" end="1053" text="amlodipine" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC20" time="during DCT" type1="insulin" type2="">
+      <MEDICATION id="M66" start="1301" end="1304" text="CZI" time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M67" start="1319" end="1322" text="NPH" time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M68" start="1281" end="1288" text="insulin" time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M69" start="1301" end="1304" text="CZI" time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M70" start="1319" end="1322" text="NPH" time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M71" start="1281" end="1349" text="insulin 10 units of CZI with 72 units NPH qam and 74 units NPH qpm. " time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M72" start="1319" end="1322" text="NPH" time="during DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC21" time="before DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M73" start="1065" end="1073" text="atenolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M74" start="1065" end="1073" text="atenolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M75" start="1065" end="1073" text="atenolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M76" start="1065" end="1073" text="atenolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC22" time="during DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M77" start="1065" end="1073" text="atenolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M78" start="1065" end="1073" text="atenolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M79" start="1065" end="1073" text="atenolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M80" start="1065" end="1073" text="atenolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <PHI id="P0" start="16" end="26" text="2076-12-11" TYPE="DATE"/>
+    <PHI id="P1" start="42" end="59" text="December 11, 2076" TYPE="DATE"/>
+    <PHI id="P2" start="64" end="76" text="Paul Arteaga" TYPE="DOCTOR"/>
+    <PHI id="P3" start="83" end="98" text="677 Mill Street" TYPE="STREET"/>
+    <PHI id="P4" start="99" end="109" text="Shady Cove" TYPE="CITY"/>
+    <PHI id="P5" start="111" end="113" text="NY" TYPE="STATE"/>
+    <PHI id="P6" start="114" end="119" text="43414" TYPE="ZIP"/>
+    <PHI id="P7" start="127" end="144" text="Christine Olivier" TYPE="PATIENT"/>
+    <PHI id="P8" start="154" end="165" text="652-33-21-5" TYPE="MEDICALRECORD"/>
+    <PHI id="P9" start="177" end="184" text="Arteaga" TYPE="DOCTOR"/>
+    <PHI id="P10" start="193" end="200" text="Olivier" TYPE="PATIENT"/>
+    <PHI id="P11" start="418" end="422" text="June" TYPE="DATE"/>
+    <PHI id="P12" start="2117" end="2129" text="Paul Arteaga" TYPE="DOCTOR"/>
+    <PHI id="P13" start="2136" end="2153" text="December 11, 2076" TYPE="DATE"/>
+    <PHI id="P14" start="2170" end="2187" text="Christine Olivier" TYPE="PATIENT"/>
+    <PHI id="P15" start="2197" end="2208" text="652-33-21-5" TYPE="MEDICALRECORD"/>
+    <PHI id="P16" start="2394" end="2401" text="Olivier" TYPE="PATIENT"/>
+    <PHI id="P17" start="2586" end="2590" text="June" TYPE="DATE"/>
+    <PHI id="P18" start="2678" end="2685" text="Olivier" TYPE="PATIENT"/>
+    <PHI id="P19" start="3906" end="3918" text="Irineo Tovar" TYPE="DOCTOR"/>
+    <PHI id="P20" start="3926" end="3931" text="vuong" TYPE="DOCTOR"/>
+    <PHI id="P21" start="3938" end="3946" text="12/11/76" TYPE="DATE"/>
+    <PHI id="P22" start="3951" end="3959" text="01/14/77" TYPE="DATE"/>
+    <PHI id="P23" start="3964" end="3972" text="12/11/76" TYPE="DATE"/>
+  </TAGS>
+</root>

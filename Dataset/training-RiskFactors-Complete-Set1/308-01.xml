@@ -1,0 +1,231 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2074-06-05
+
+Mills returns with Urquiza and her husband.  He's been trying - cut way back on sodas, and chips.  He walks every day - really no complaints.  His HbA1C was up at 9.2.   No proteinuria.  No complaints of foot numbness , no visual sx.    Lipids were fair - 202, HDL 44, Trigs 461.  Cost has become an issue on meds as Mills has been denied state insurance for arcane reasons..  (his income is only 850.00/mo)
+
+
+RoS: feels fine,  ROS neg. in detail.
+
+Habits: no smoking or drinking.(sober for years)
+
+
+
+Medications
+
+Glucophage (METFORMIN) 500MG TABLET take 1 Tablet(s) PO TID x 90 days
+
+Micronase (GLYBURIDE) 10 MG (5MG TABLET take 2) PO BID x 90 days
+
+Tegretol (CARBAMAZEPINE) 200MG TABLET take 1 Tablet(s) PO TID x 90 days
+
+Monopril (FOSINOPRIL SODIUM) 20MG TABLET take 1 Tablet(s) PO QD x 90 days
+
+Aspirin (ACETYLSALICYLIC ACID) 81MG TABLET CHEWABLE take 1 Tablet(s) PO QD , Take as directed 
+
+Lipitor (ATORVASTATIN) 10MG TABLET take 1 Tablet(s) PO QD , Take as directed 
+
+Hctz (HYDROCHLOROTHIAZIDE) 25MG TABLET take 1 Tablet(s) PO QD x 90 days, Take as directed 
+
+
+
+Allergies
+
+NKA 
+
+
+Vital Signs
+
+Wt 202 lb  Looks well, though sunburnt.   BP: 160/80 p. 70's reg
+
+clear RRR
+
+ no edema, no neurop.
+
+
+Problems
+
+Diabetes mellitus - check FS glucose today.  Eventually we'll need to teach Mills/family how to do fingersticks, but we aren't there yet.  working hard on diet...    f/u 1mo.   He will need eye exam.  Adding statin and Aspirin today.
+
+Hypertension - add HCTZ 25mg qd.
+
+H/O Seizure disorder : Status post head trauma
+
+H/O Alcohol abuse - sober now.
+
+
+
+Health Maintenance
+
+Influenza Vaccine 11/24/2072 
+
+Cholesterol 04/03/2074 202 DESIRABLE: <200
+
+M-alb/creat ratio 04/03/2074 6.5 
+
+UA-Protein 10/01/62 NEG 
+
+Triglycerides 04/03/2074 461 
+
+Cholesterol-LDL 04/03/2074 -- "Calculated" LDL is inaccuratewhen triglycerides exceed 400 mg/dl.
+
+Microalbumin 04/03/2074 0.6 
+
+Hct (Hematocrit) 04/03/2074 41.0 
+
+Cholesterol-HDL 04/03/2074 46 
+
+MHCT (micro-Hematocrit) 07/15/62 30 
+
+Hgb (Hemoglobin) 04/03/2074 14.3 
+
+HbA1c 04/03/2074 9.50 
+
+
+_____________________________________________
+
+Yechiel Kidd, M.D.
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="during DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M0" start="752" end="760" text="Monopril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M1" start="752" end="760" text="Monopril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M2" start="752" end="780" text="Monopril (FOSINOPRIL SODIUM)" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC1" time="after DCT" type1="statin" type2="">
+      <MEDICATION id="M3" start="923" end="930" text="Lipitor" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M4" start="923" end="930" text="Lipitor" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M5" start="1446" end="1452" text="statin" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M6" start="923" end="945" text="Lipitor (ATORVASTATIN)" time="after DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC2" time="after DCT" type1="metformin" type2="">
+      <MEDICATION id="M7" start="542" end="552" text="Glucophage" time="after DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M8" start="542" end="552" text="Glucophage" time="after DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M9" start="542" end="564" text="Glucophage (METFORMIN)" time="after DCT" type1="metformin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC3" time="during DCT" type1="metformin" type2="">
+      <MEDICATION id="M10" start="542" end="552" text="Glucophage" time="during DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M11" start="542" end="552" text="Glucophage" time="during DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M12" start="542" end="564" text="Glucophage (METFORMIN)" time="during DCT" type1="metformin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC4" time="after DCT" type1="aspirin" type2="">
+      <MEDICATION id="M13" start="827" end="834" text="Aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M14" start="827" end="834" text="Aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M15" start="1457" end="1464" text="Aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M16" start="827" end="858" text="Aspirin (ACETYLSALICYLIC ACID) " time="after DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <DIABETES id="DOC5" time="during DCT" indicator="A1C">
+      <DIABETES id="D0" start="2044" end="2066" text="HbA1c 04/03/2074 9.50 " time="during DCT" indicator="A1C" comment=""/>
+      <DIABETES id="D1" start="2044" end="2067" text="HbA1c 04/03/2074 9.50  " time="during DCT" indicator="A1C" comment=""/>
+    </DIABETES>
+    <HYPERTENSION id="DOC6" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="1473" end="1485" text="Hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="1473" end="1485" text="Hypertension" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <MEDICATION id="DOC7" time="after DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M17" start="752" end="760" text="Monopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M18" start="752" end="760" text="Monopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M19" start="752" end="780" text="Monopril (FOSINOPRIL SODIUM)" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <DIABETES id="DOC8" time="during DCT" indicator="mention">
+      <DIABETES id="D2" start="1238" end="1256" text="Diabetes mellitus " time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D3" start="1238" end="1255" text="Diabetes mellitus" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D4" start="1238" end="1255" text="Diabetes mellitus" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <HYPERTENSION id="DOC9" time="during DCT" indicator="high bp">
+      <HYPERTENSION id="H2" start="1169" end="1179" text="BP: 160/80" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H3" start="1168" end="1179" text=" BP: 160/80" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H4" start="1173" end="1179" text="160/80" time="during DCT" indicator="high bp" comment=""/>
+    </HYPERTENSION>
+    <MEDICATION id="DOC10" time="after DCT" type1="sulfonylureas" type2="">
+      <MEDICATION id="M20" start="624" end="633" text="GLYBURIDE" time="after DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M21" start="613" end="622" text="Micronase" time="after DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M22" start="613" end="634" text="Micronase (GLYBURIDE)" time="after DCT" type1="sulfonylureas" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC11" time="during DCT" type1="sulfonylureas" type2="">
+      <MEDICATION id="M23" start="624" end="633" text="GLYBURIDE" time="during DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M24" start="613" end="622" text="Micronase" time="during DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M25" start="613" end="634" text="Micronase (GLYBURIDE)" time="during DCT" type1="sulfonylureas" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC12" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H5" start="1473" end="1485" text="Hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H6" start="1473" end="1485" text="Hypertension" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <DIABETES id="DOC13" time="before DCT" indicator="mention">
+      <DIABETES id="D5" start="1238" end="1256" text="Diabetes mellitus " time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D6" start="1238" end="1255" text="Diabetes mellitus" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D7" start="1238" end="1255" text="Diabetes mellitus" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC14" time="before DCT" indicator="A1C">
+      <DIABETES id="D8" start="175" end="194" text="HbA1C was up at 9.2" time="before DCT" indicator="A1C" comment=""/>
+      <DIABETES id="D9" start="171" end="194" text="His HbA1C was up at 9.2" time="before DCT" indicator="A1C" comment=""/>
+      <DIABETES id="D10" start="191" end="194" text="9.2" time="before DCT" indicator="A1C" comment=""/>
+      <DIABETES id="D11" start="2044" end="2065" text="HbA1c 04/03/2074 9.50" time="before DCT" indicator="A1C" comment=""/>
+    </DIABETES>
+    <MEDICATION id="DOC15" time="before DCT" type1="metformin" type2="">
+      <MEDICATION id="M26" start="542" end="552" text="Glucophage" time="before DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M27" start="542" end="552" text="Glucophage" time="before DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M28" start="542" end="564" text="Glucophage (METFORMIN)" time="before DCT" type1="metformin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC16" time="before DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M29" start="752" end="760" text="Monopril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M30" start="752" end="760" text="Monopril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M31" start="752" end="780" text="Monopril (FOSINOPRIL SODIUM)" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC17" time="after DCT" type1="diuretic" type2="">
+      <MEDICATION id="M32" start="1002" end="1006" text="Hctz" time="after DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M33" start="1002" end="1006" text="Hctz" time="after DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M34" start="1492" end="1496" text="HCTZ" time="after DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M35" start="1002" end="1029" text="Hctz (HYDROCHLOROTHIAZIDE) " time="after DCT" type1="diuretic" type2="" comment=""/>
+    </MEDICATION>
+    <SMOKER id="DOC18" status="never">
+      <SMOKER id="S0" start="485" end="495" text="no smoking" status="never" comment=""/>
+      <SMOKER id="S1" start="485" end="495" text="no smoking" status="never" comment=""/>
+      <SMOKER id="S2" start="484" end="495" text=" no smoking" status="never" comment=""/>
+    </SMOKER>
+    <MEDICATION id="DOC19" time="before DCT" type1="sulfonylureas" type2="">
+      <MEDICATION id="M36" start="624" end="633" text="GLYBURIDE" time="before DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M37" start="613" end="622" text="Micronase" time="before DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M38" start="613" end="634" text="Micronase (GLYBURIDE)" time="before DCT" type1="sulfonylureas" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC20" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H7" start="1473" end="1485" text="Hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H8" start="1473" end="1485" text="Hypertension" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <FAMILY_HIST id="DOC21" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <DIABETES id="DOC22" time="after DCT" indicator="mention">
+      <DIABETES id="D12" start="1238" end="1256" text="Diabetes mellitus " time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D13" start="1238" end="1255" text="Diabetes mellitus" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D14" start="1238" end="1255" text="Diabetes mellitus" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <PHI id="P0" start="16" end="26" text="2074-06-05" TYPE="DATE"/>
+    <PHI id="P1" start="28" end="33" text="Mills" TYPE="PATIENT"/>
+    <PHI id="P2" start="47" end="54" text="Urquiza" TYPE="PATIENT"/>
+    <PHI id="P3" start="345" end="350" text="Mills" TYPE="PATIENT"/>
+    <PHI id="P4" start="367" end="382" text="state insurance" TYPE="HEALTHPLAN"/>
+    <PHI id="P5" start="1314" end="1319" text="Mills" TYPE="PATIENT"/>
+    <PHI id="P6" start="1627" end="1637" text="11/24/2072" TYPE="DATE"/>
+    <PHI id="P7" start="1652" end="1662" text="04/03/2074" TYPE="DATE"/>
+    <PHI id="P8" start="1702" end="1712" text="04/03/2074" TYPE="DATE"/>
+    <PHI id="P9" start="1730" end="1738" text="10/01/62" TYPE="DATE"/>
+    <PHI id="P10" start="1759" end="1769" text="04/03/2074" TYPE="DATE"/>
+    <PHI id="P11" start="1792" end="1802" text="04/03/2074" TYPE="DATE"/>
+    <PHI id="P12" start="1887" end="1897" text="04/03/2074" TYPE="DATE"/>
+    <PHI id="P13" start="1921" end="1931" text="04/03/2074" TYPE="DATE"/>
+    <PHI id="P14" start="1955" end="1965" text="04/03/2074" TYPE="DATE"/>
+    <PHI id="P15" start="1995" end="2003" text="07/15/62" TYPE="DATE"/>
+    <PHI id="P16" start="2026" end="2036" text="04/03/2074" TYPE="DATE"/>
+    <PHI id="P17" start="2050" end="2060" text="04/03/2074" TYPE="DATE"/>
+    <PHI id="P18" start="2116" end="2128" text="Yechiel Kidd" TYPE="DOCTOR"/>
+  </TAGS>
+</root>

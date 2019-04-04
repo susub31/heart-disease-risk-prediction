@@ -1,0 +1,247 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2085-05-11
+
+
+
+
+NAME:    Justus, Quiana
+MRN:       9814048
+
+Quiana is a 73-year-old woman with hypertension, diabetes and spinal stenosis who
+comes in for a physical.  She has spinal stenosis as documented by her prior MRI's. 
+She can usually walk about 5 minutes and then develops pain in her thighs and
+calves.  She has some knee pain with walking, but it is not consistent and does not
+occur after short 5-minute distances.  The thigh and calf pain resolve with rest.  She
+does not always have back pain with the thigh and calf pain.  She also has occasional
+right lateral foot pain that feels like an achy arthritic pain in her foot.  She takes
+Vioxx occasionally for that foot pain.  She does not have any dysesthesias or
+numbness in her feet or hands.  She has no recent trauma, fevers or chills.  She has
+no change in her bowel or bladder.
+
+She has type 2 diabetes.  She has been taking Glyburide 5 mg p.o. q.d.  Her weight is
+stable.  She does get annual ophthalmology evaluations.  
+
+She has a history of hypertension. She has not had any chest pain, PND, orthopnea,
+dyspnea on exertion or edema.  Her blood pressure is never well controlled when she
+comes for her visits here, but her daughter, Iyanna Field, a nurse takes her
+blood pressure at home and she reports that it is typically 120/70.  She is currently on
+Propranolol LA 160 2 tabs p.o. q.d., Dyazide 1 tab p.o. q.d., Captopril 50 mg t.i.d.
+
+She has a history of hyperlipidemia.  She was intolerant of Lipitor in the past.  She
+has been taking the Lopid 600 mg p.o. b.i.d. without complications.  She does not do
+regular breast self-exams but has not noted any masses.  She is status-post
+menopause.  We discussed DEXA bone density scanning, but she did not want to do
+it at this time.
+
+We also discussed colon cancer screening.  For now she elects to do stool guaiacs x 3. 
+She has not had any nausea, vomiting, diarrhea, melena or hematochezia, abdominal
+pain or weight loss.    
+
+Please see her complete medication update in the LMR. 
+
+SOCIAL HISTORY: She is married.  She drinks occasional but not excessive alcohol. 
+She does not smoke.  There is no history of domestic abuse.
+
+FAMILY HISTORY: Please see family history update in the LMR.
+
+REVIEW OF SYSTEMS: Negative.
+
+She has not had a recent tetanus shot.
+
+PHYSICAL EXAM: She is a very pleasant woman in no acute distress. Her blood
+pressure here is 150/90.  Her neck is supple without JVD or bruits.  Lungs are clear
+without wheezes, rales or rhonchi.  Her breasts are without masses or adenopathy. 
+Her cardiac exam shows a regular rate and rhythm, normal S1, S2 without S3, S4 or
+murmur.  Abdomen is soft, nontender without hepatosplenomegaly.  She is
+moderately obese.  Her rectal exam is without masses.  She has no spinal tenderness
+on palpation.  Her lower extremity strength is 5/5.  She does not have any peripheral
+edema.  Her distal pulses are 2+.  Her sensation is intact to light touch in her feet.  
+
+ASSESSMENT AND PLAN:  
+
+(1)  Back pain with calf and thigh pain with walking.  This is probably due to her
+     spinal stenosis.  However, she is at risk for claudication given her diabetes,
+     hypertension and hyperlipidemia.  We will check lower extremity noninvasive
+     arterial studies to rule out claudication.  She can take the Vioxx p.r.n. for her
+     foot pain which I do not think is related.
+
+(2)  Type 2 diabetes.  She needs a hemoglobin A1c.  Her blood pressure ideally
+     should be under 130/85.  She reports that it is consistently below that level
+     when her daughter checks it.  She needs as chem-7.  She has no evidence for
+     neuropathy at this time.
+
+(3)  Health maintenance.  She needs a tetanus shot which she was given today. 
+     Will check stool guaiacs x 3.  
+
+We discussed calcium supplementation for osteoporosis prevention.  She will follow
+up in six months and p.r.n.  She has not had a recent tetanus shot. She was given a
+tetanus shot in the left deltoid without complications.
+
+
+Ida Xayachack, M.D.
+
+IX/delarosa/bishop
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <HYPERLIPIDEMIA id="DOC7" time="during DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY0" start="1448" end="1462" text="hyperlipidemia" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY1" start="1448" end="1462" text="hyperlipidemia" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY2" start="1448" end="1462" text="hyperlipidemia" time="during DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <HYPERLIPIDEMIA id="DOC19" time="after DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY3" start="1448" end="1462" text="hyperlipidemia" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY4" start="1448" end="1462" text="hyperlipidemia" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY5" start="1448" end="1462" text="hyperlipidemia" time="after DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <HYPERLIPIDEMIA id="DOC23" time="before DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY6" start="1448" end="1462" text="hyperlipidemia" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY7" start="1448" end="1462" text="hyperlipidemia" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY8" start="1448" end="1462" text="hyperlipidemia" time="before DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <OBESE id="DOC1" time="after DCT" indicator="mention">
+      <OBESE id="O0" start="2709" end="2714" text="obese" time="after DCT" indicator="mention" comment=""/>
+      <OBESE id="O1" start="2709" end="2714" text="obese" time="after DCT" indicator="mention" comment=""/>
+    </OBESE>
+    <OBESE id="DOC17" time="before DCT" indicator="mention">
+      <OBESE id="O2" start="2709" end="2714" text="obese" time="before DCT" indicator="mention" comment=""/>
+      <OBESE id="O3" start="2709" end="2714" text="obese" time="before DCT" indicator="mention" comment=""/>
+    </OBESE>
+    <OBESE id="DOC24" time="during DCT" indicator="mention">
+      <OBESE id="O4" start="2709" end="2714" text="obese" time="during DCT" indicator="mention" comment=""/>
+      <OBESE id="O5" start="2709" end="2714" text="obese" time="during DCT" indicator="mention" comment=""/>
+      <OBESE id="O6" start="2709" end="2714" text="obese" time="during DCT" indicator="mention" comment=""/>
+    </OBESE>
+    <MEDICATION id="DOC0" time="during DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M0" start="1403" end="1412" text="Captopril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M1" start="1403" end="1412" text="Captopril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M2" start="1403" end="1412" text="Captopril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC3" time="after DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M3" start="1403" end="1412" text="Captopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M4" start="1403" end="1412" text="Captopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M5" start="1403" end="1412" text="Captopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC4" time="before DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M6" start="1403" end="1412" text="Captopril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M7" start="1403" end="1412" text="Captopril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M8" start="1403" end="1412" text="Captopril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC6" time="before DCT" type1="diuretic" type2="">
+      <MEDICATION id="M9" start="1378" end="1385" text="Dyazide" time="before DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M10" start="1378" end="1385" text="Dyazide" time="before DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M11" start="1378" end="1385" text="Dyazide" time="before DCT" type1="diuretic" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC9" time="after DCT" type1="sulfonylureas" type2="">
+      <MEDICATION id="M12" start="909" end="918" text="Glyburide" time="after DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M13" start="909" end="918" text="Glyburide" time="after DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M14" start="909" end="918" text="Glyburide" time="after DCT" type1="sulfonylureas" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC10" time="after DCT" type1="fibrate" type2="">
+      <MEDICATION id="M15" start="1533" end="1538" text="Lopid" time="after DCT" type1="fibrate" type2="" comment=""/>
+      <MEDICATION id="M16" start="1533" end="1538" text="Lopid" time="after DCT" type1="fibrate" type2="" comment=""/>
+      <MEDICATION id="M17" start="1533" end="1538" text="Lopid" time="after DCT" type1="fibrate" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC11" time="during DCT" type1="sulfonylureas" type2="">
+      <MEDICATION id="M18" start="909" end="918" text="Glyburide" time="during DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M19" start="909" end="918" text="Glyburide" time="during DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M20" start="909" end="918" text="Glyburide" time="during DCT" type1="sulfonylureas" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC13" time="after DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M21" start="1341" end="1352" text="Propranolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M22" start="1341" end="1352" text="Propranolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M23" start="1341" end="1352" text="Propranolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC15" time="before DCT" type1="statin" type2="">
+      <MEDICATION id="M24" start="1487" end="1506" text="Lipitor in the past" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M25" start="1487" end="1494" text="Lipitor" time="before DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC16" time="during DCT" type1="diuretic" type2="">
+      <MEDICATION id="M26" start="1378" end="1385" text="Dyazide" time="during DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M27" start="1378" end="1385" text="Dyazide" time="during DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M28" start="1378" end="1385" text="Dyazide" time="during DCT" type1="diuretic" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC20" time="after DCT" type1="diuretic" type2="">
+      <MEDICATION id="M29" start="1378" end="1385" text="Dyazide" time="after DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M30" start="1378" end="1385" text="Dyazide" time="after DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M31" start="1378" end="1385" text="Dyazide" time="after DCT" type1="diuretic" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC22" time="during DCT" type1="fibrate" type2="">
+      <MEDICATION id="M32" start="1533" end="1538" text="Lopid" time="during DCT" type1="fibrate" type2="" comment=""/>
+      <MEDICATION id="M33" start="1533" end="1538" text="Lopid" time="during DCT" type1="fibrate" type2="" comment=""/>
+      <MEDICATION id="M34" start="1533" end="1538" text="Lopid" time="during DCT" type1="fibrate" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC25" time="before DCT" type1="sulfonylureas" type2="">
+      <MEDICATION id="M35" start="909" end="918" text="Glyburide" time="before DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M36" start="909" end="918" text="Glyburide" time="before DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M37" start="909" end="918" text="Glyburide" time="before DCT" type1="sulfonylureas" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC26" time="before DCT" type1="fibrate" type2="">
+      <MEDICATION id="M38" start="1533" end="1538" text="Lopid" time="before DCT" type1="fibrate" type2="" comment=""/>
+      <MEDICATION id="M39" start="1533" end="1538" text="Lopid" time="before DCT" type1="fibrate" type2="" comment=""/>
+      <MEDICATION id="M40" start="1533" end="1538" text="Lopid" time="before DCT" type1="fibrate" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC28" time="before DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M41" start="1341" end="1352" text="Propranolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M42" start="1341" end="1352" text="Propranolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M43" start="1341" end="1352" text="Propranolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC29" time="during DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M44" start="1341" end="1352" text="Propranolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M45" start="1341" end="1352" text="Propranolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M46" start="1341" end="1352" text="Propranolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC2" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="110" end="122" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="110" end="122" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H2" start="110" end="122" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC8" time="during DCT" indicator="high bp">
+      <HYPERTENSION id="H3" start="2393" end="2400" text="150/90." time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H4" start="2392" end="2399" text=" 150/90" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H5" start="2370" end="2399" text="blood pressure here is 150/90" time="during DCT" indicator="high bp" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC12" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H6" start="110" end="122" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H7" start="110" end="122" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H8" start="110" end="122" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC27" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H9" start="110" end="122" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H10" start="110" end="122" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H11" start="110" end="122" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <FAMILY_HIST id="DOC18" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC21" status="never">
+      <SMOKER id="S0" start="2107" end="2125" text="She does not smoke" status="never" comment=""/>
+      <SMOKER id="S1" start="2116" end="2125" text="not smoke" status="never" comment=""/>
+      <SMOKER id="S2" start="2111" end="2125" text="does not smoke" status="never" comment=""/>
+    </SMOKER>
+    <DIABETES id="DOC5" time="during DCT" indicator="mention">
+      <DIABETES id="D0" start="124" end="132" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D1" start="124" end="132" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D2" start="124" end="132" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC14" time="before DCT" indicator="mention">
+      <DIABETES id="D3" start="124" end="132" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D4" start="124" end="132" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D5" start="124" end="132" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC30" time="after DCT" indicator="mention">
+      <DIABETES id="D6" start="124" end="132" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D7" start="124" end="132" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D8" start="124" end="132" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+  </TAGS>
+</root>

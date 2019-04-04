@@ -1,0 +1,192 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2083-10-06
+
+
+
+
+VIGIL, ANTHONY
+40984972
+10/06/2083
+
+
+ATTENDING PHYSICIANS:
+Joshua Root, M.D.
+Bloomfield Care Center, Suite 8466
+990 Westwood Dr
+Bangkok, NJ  53591
+
+Amir Naranjo, M.D.
+Boys Town National
+2 Kelly Street
+Bangkok, NJ  53591
+
+Joshua Hanna, M.D.
+Ashley County Medical Center
+61 Meadowview Circle
+Oneonta, NJ  19723
+
+IDENTIFICATION:  This 65-year-old man with a 5-year history of cardiomyopathy is is admitted with worsening heart failure and recent presyncope for further evaluation.  He was diagnosed with progressive shortness of breath in 2078.  He was treated with diuretics and other medications at that time.  He did quite well until December of last year when he had a cardiac arrest and underwent ICD placement.  He has had worsening symptoms over the last year with increasing shortness of breath on flat ground and a very severe shortness of breath with stairs.  He has had some episodic nature to this.  Two days prior to admission, he had relatively rapid onset of shortness of breath while trying to play pool.  This recurred several times associated with diaphoresis.  He had no palpitations at that time.  He has no chest discomfort.
+
+His past medical history is significant for history of shower emboli and TIA in 2081.  He has diabetes.  He had spinal stenosis surgery in 2078.
+
+His current medical regimen is Bumex 3, recently decreased from 12 due to worsening renal function.  He is on spironolactone described as 6.25 daily, digoxin 0.125, Toprol-XL 12.5.  He has been on carvedilol, which was changed due to dizziness.  He is on lisinopril 1.25 mg and has had great difficulty tolerating any higher dose due to dizziness.  He is on metolazone 2.5 weekly.  He takes Coumadin 7.5 mg most days.  He is on insulin and Lantus.  He has no known drug allergies.
+
+His family history is essentially unremarkable.  Mother unknown, father had onset of angina in his 80s.  The patient lives with his wife and son and is a retired Fire Chief.  He had an 80-pack-year smoking history but quit four years ago.  He has one glass of alcohol every 1-2 weeks.
+
+Review of systems is negative for any problems with fevers, chills, change in his bowel or bladder habits.  He has no problems with swallowing.  He has no problems with hearing or vision.  Review of systems is otherwise negative.
+
+On physical examination, blood pressure is 84/66 in the left arm and 86/62 in the right arm.  His chest is completely clear to auscultation and percussion.  Temperature is 35.9.  His heart rate is 100 and a regular rhythm.  His cardiac exam reveals left ventricular heave, which is visible.  He has a palpable and audible third heart sound.  The right ventricular impulse is present also.  He has a systolic murmur, which is heard everywhere, not otherwise easy to characterize.  It does not change with respiration.  The second component of the second sound is slightly increased in radiation consistent with a PA systolic pressure in the range of 50-60.  His legs are cool.  Venous pattern is very prominent.  His pulses are intact peripherally.  He has no abdominal bruits.  His jugular venous pressure is 14 cm.  He has no cervical adenopathy or thyromegaly.  His liver percusses at approximately 5 cm below the costal margin.  He has some increased resonance around the umbilicus.  Laterally, there is suggestion of some fluid in the distention.  There is no peripheral edema.  His joints are without obvious deformities, although he describes arthritis in his shoulder, neck, and back.  He has no skin rashes or sores, several very small ecchymoses.  His standing blood pressure is unchanged.  He has atrially triggered ventricular pacing at 98.
+
+ASSESSMENT:
+1.  Etiology of left ventricular dysfunction is undetermined.  We do not know information of recent catheterization or echocardiography.  The degree of his mitral disease is not clear.  He clearly did not have coronary artery disease on one studied initially.  However, the episodicity is significant.
+2.  Current hemodynamic status shows marked volume overload and low cardiac output, and is cold and wet pattern.  His history of recent diuretic use suggests that he may have had relatively rapid onset of fluid after his last diuretic change.  However, the episode while playing pool also raises the possibility of a ventricular tachyarrhythmia undetected.  It is also possible that this is related to angina.
+3.  Other related risks.  He is on Coumadin due to his embolic shower before.  It is possible that he has had other emboli, possibly even to coronary arteries leading to recent decline in function.
+
+There are no obvious contraindications to transplant.  At this time, we are not planning to evaluate him but to treat the urgency of his heart failure decompensation.  Our plan is to hold his beta-blockers and ACE inhibitors for now, and to begin him on an IV diuretic infusion.  We will proceed with echocardiogram and catheterization if necessary to determine whether there are other conditions exacerbating his current decompensated state.
+
+
+______________________________
+Patricia Cameron Izzo, MD
+Cardiac Services
+
+
+
+
+
+eScription document:2-7203595 SFFocus
+
+
+
+DD: 10/07/83
+DT: 10/07/83
+DV: 10/06/83
+
+
+
+]]></TEXT>
+  <TAGS>
+    <DIABETES id="DOC0" time="after DCT" indicator="mention">
+      <DIABETES id="D0" start="1269" end="1277" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D1" start="1269" end="1277" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D2" start="1269" end="1277" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <MEDICATION id="DOC1" time="before DCT" type1="diuretic" type2="">
+      <MEDICATION id="M0" start="594" end="603" text="diuretics" time="before DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M1" start="1352" end="1357" text="Bumex" time="before DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M2" start="1431" end="1445" text="spironolactone" time="before DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M3" start="594" end="603" text="diuretics" time="before DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M4" start="594" end="603" text="diuretics" time="before DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M5" start="1679" end="1689" text="metolazone" time="before DCT" type1="diuretic" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC2" time="during DCT" type1="diuretic" type2="">
+      <MEDICATION id="M6" start="1352" end="1357" text="Bumex" time="during DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M7" start="1431" end="1445" text="spironolactone" time="during DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M8" start="1679" end="1689" text="metolazone" time="during DCT" type1="diuretic" type2="" comment=""/>
+    </MEDICATION>
+    <CAD id="DOC3" time="before DCT" indicator="event">
+      <CAD id="C0" start="701" end="716" text="cardiac arrest " time="before DCT" indicator="event" comment=""/>
+      <CAD id="C1" start="701" end="715" text="cardiac arrest" time="before DCT" indicator="event" comment=""/>
+      <CAD id="C2" start="404" end="418" text="cardiomyopathy" time="before DCT" indicator="event" comment=""/>
+      <CAD id="C3" start="701" end="715" text="cardiac arrest" time="before DCT" indicator="event" comment=""/>
+    </CAD>
+    <MEDICATION id="DOC4" time="during DCT" type1="insulin" type2="">
+      <MEDICATION id="M9" start="1749" end="1767" text="insulin and Lantus" time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M10" start="1749" end="1756" text="insulin" time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M11" start="1761" end="1767" text="Lantus" time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M12" start="1749" end="1756" text="insulin" time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M13" start="1761" end="1767" text="Lantus" time="during DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <SMOKER id="DOC5" status="past">
+      <SMOKER id="S0" start="1978" end="2040" text="He had an 80-pack-year smoking history but quit four years ago" status="past" comment=""/>
+      <SMOKER id="S1" start="1985" end="2040" text="an 80-pack-year smoking history but quit four years ago" status="past" comment=""/>
+      <SMOKER id="S2" start="1988" end="2040" text="80-pack-year smoking history but quit four years ago" status="past" comment=""/>
+    </SMOKER>
+    <DIABETES id="DOC6" time="before DCT" indicator="mention">
+      <DIABETES id="D3" start="1269" end="1277" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D4" start="1269" end="1277" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D5" start="1269" end="1277" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <FAMILY_HIST id="DOC7" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <MEDICATION id="DOC8" time="before DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M14" start="1576" end="1586" text="lisinopril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M15" start="1576" end="1586" text="lisinopril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M16" start="1576" end="1586" text="lisinopril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <DIABETES id="DOC9" time="during DCT" indicator="mention">
+      <DIABETES id="D6" start="1269" end="1277" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D7" start="1269" end="1277" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D8" start="1269" end="1277" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <MEDICATION id="DOC10" time="after DCT" type1="diuretic" type2="">
+      <MEDICATION id="M17" start="1352" end="1357" text="Bumex" time="after DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M18" start="1431" end="1445" text="spironolactone" time="after DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M19" start="1679" end="1689" text="metolazone" time="after DCT" type1="diuretic" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC11" time="before DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M20" start="1518" end="1528" text="carvedilol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M21" start="1486" end="1492" text="Toprol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M22" start="1486" end="1495" text="Toprol-XL" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M23" start="1518" end="1528" text="carvedilol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M24" start="1486" end="1495" text="Toprol-XL" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M25" start="1518" end="1528" text="carvedilol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC12" time="before DCT" type1="insulin" type2="">
+      <MEDICATION id="M26" start="1749" end="1767" text="insulin and Lantus" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M27" start="1749" end="1756" text="insulin" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M28" start="1761" end="1767" text="Lantus" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M29" start="1749" end="1756" text="insulin" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M30" start="1761" end="1767" text="Lantus" time="before DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC13" time="after DCT" type1="insulin" type2="">
+      <MEDICATION id="M31" start="1749" end="1767" text="insulin and Lantus" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M32" start="1749" end="1756" text="insulin" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M33" start="1761" end="1767" text="Lantus" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M34" start="1749" end="1756" text="insulin" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M35" start="1761" end="1767" text="Lantus" time="after DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <PHI id="P0" start="16" end="26" text="2083-10-06" TYPE="DATE"/>
+    <PHI id="P1" start="31" end="45" text="VIGIL, ANTHONY" TYPE="PATIENT"/>
+    <PHI id="P2" start="46" end="54" text="40984972" TYPE="MEDICALRECORD"/>
+    <PHI id="P3" start="55" end="65" text="10/06/2083" TYPE="DATE"/>
+    <PHI id="P4" start="90" end="101" text="Joshua Root" TYPE="DOCTOR"/>
+    <PHI id="P5" start="108" end="130" text="Bloomfield Care Center" TYPE="HOSPITAL"/>
+    <PHI id="P6" start="132" end="142" text="Suite 8466" TYPE="ROOM"/>
+    <PHI id="P7" start="143" end="158" text="990 Westwood Dr" TYPE="STREET"/>
+    <PHI id="P8" start="159" end="166" text="Bangkok" TYPE="CITY"/>
+    <PHI id="P9" start="168" end="170" text="NJ" TYPE="STATE"/>
+    <PHI id="P10" start="172" end="177" text="53591" TYPE="ZIP"/>
+    <PHI id="P11" start="179" end="191" text="Amir Naranjo" TYPE="DOCTOR"/>
+    <PHI id="P12" start="198" end="216" text="Boys Town National" TYPE="HOSPITAL"/>
+    <PHI id="P13" start="217" end="231" text="2 Kelly Street" TYPE="STREET"/>
+    <PHI id="P14" start="232" end="239" text="Bangkok" TYPE="CITY"/>
+    <PHI id="P15" start="241" end="243" text="NJ" TYPE="STATE"/>
+    <PHI id="P16" start="245" end="250" text="53591" TYPE="ZIP"/>
+    <PHI id="P17" start="252" end="264" text="Joshua Hanna" TYPE="DOCTOR"/>
+    <PHI id="P18" start="271" end="299" text="Ashley County Medical Center" TYPE="HOSPITAL"/>
+    <PHI id="P19" start="300" end="320" text="61 Meadowview Circle" TYPE="STREET"/>
+    <PHI id="P20" start="321" end="328" text="Oneonta" TYPE="CITY"/>
+    <PHI id="P21" start="330" end="332" text="NJ" TYPE="STATE"/>
+    <PHI id="P22" start="334" end="339" text="19723" TYPE="ZIP"/>
+    <PHI id="P23" start="363" end="365" text="65" TYPE="AGE"/>
+    <PHI id="P24" start="567" end="571" text="2078" TYPE="DATE"/>
+    <PHI id="P25" start="665" end="673" text="December" TYPE="DATE"/>
+    <PHI id="P26" start="1255" end="1259" text="2081" TYPE="DATE"/>
+    <PHI id="P27" start="1314" end="1318" text="2078" TYPE="DATE"/>
+    <PHI id="P28" start="1902" end="1905" text="80s" TYPE="AGE"/>
+    <PHI id="P29" start="1965" end="1975" text="Fire Chief" TYPE="PROFESSION"/>
+    <PHI id="P30" start="5072" end="5093" text="Patricia Cameron Izzo" TYPE="DOCTOR"/>
+    <PHI id="P31" start="5098" end="5114" text="Cardiac Services" TYPE="DEPARTMENT"/>
+    <PHI id="P32" start="5140" end="5149" text="2-7203595" TYPE="IDNUM"/>
+    <PHI id="P33" start="5165" end="5173" text="10/07/83" TYPE="DATE"/>
+    <PHI id="P34" start="5178" end="5186" text="10/07/83" TYPE="DATE"/>
+    <PHI id="P35" start="5191" end="5199" text="10/06/83" TYPE="DATE"/>
+  </TAGS>
+</root>

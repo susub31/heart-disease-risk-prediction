@@ -1,0 +1,179 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2083-05-15
+
+NAME:     Yearwood, Alicia 
+
+MRN:      1872985
+
+
+
+PROBLEMS:  
+
+
+
+(1)  80th birthday. Kids gave her a party. Had a loverly time. (She brought me a candy souvenir!). 
+
+
+
+(2) Hypertension: No chest pain, shortness of breath, leg swelling or fatigue.  
+
+
+
+(3) Nausea   Can occur 1-2 hrs. s/p p.o. No emesis. Tums helps. No associated chest pain or SOB. Is non-exertional. No BRBPR or melena. No other sx;s.
+
+
+
+(4)	Going to Eddie Bauer 2x/wk. Goes on outings. 
+
+
+
+(5)	Grief   Husband died 2 yrs. Ago, on Easter. She misses him, but is coping.
+
+
+
+(6)	No f/ch/nt. swts./wt.loss/LH/headache. No cough, DOE, PND, SOB, edema. No abn. BM. No increased thirst or u/o. No memory changes or loss of balance. No other neuro sx's. Eating and sleeping well.
+
+
+
+MEDICATIONS:  Aspirin q.o.d., MVI, calcium, atenolol 25 mg p.o. q.d.  
+
+
+
+PHYSICAL EXAM:  Weight: 123 pounds.  Blood pressure: 138/70.  Patient looks well. Afeb. Anict. Full skin eval-no abn. Lesions. NECK:  No JVD, TM, nodes, or bruits.  Lungs clear.  Heart: S1, S2, regular rate and rhythm, no murmurs, rubs or gallops.  Abdomen: Soft, nondistended,
+
+nontender, no hepatosplenomegaly, no masses, normal bowel sounds.  Extremities:
+
+No peripheral edema. DP and PT Pulses 2+.
+
+BREAST EXAM: normal bilat. breast tissue; no axil. mass or nipple d/c. Examined seated and supine. 
+
+NEURO: CR: II-XII intact. No nystagmus. Normal Finger  nose, rapid alternating hand,and fine motor.  Bicep and knee DTR's 2+ bilat. Toes downgoing. Normal BUE/LE light touch. Normal elbow, wrist, knee, and ankle flex/ext. strength. Normal gait.  
+
+
+
+ASSESSMENT AND PLAN:  Full PE.
+
+(1)	Hypertension:  Good. Check chemistries.  Should get EKG if none done recently.
+
+
+
+(2)	Breast exam normal. H/o calcific'ns w/neg. bx. XMG done 3/'83= normal.
+
+
+
+(3)	Hyperlipidemia   Reviewed lipids from last visit. To try further to reduce chol. per diet. control. 
+
+
+
+(4)	Nausea   Does not seem cardiac. Sounds c/w GERD. Discussed prevention and management. HCT in the fall was normal.
+
+
+
+(5)	H/e elevated serum glucose   No sx's. Has been normal lately.
+
+
+
+(6)	General   Full PE done. As above. Skin eval.done. Refuses pelvic/PAP. TO do stool guaiac, tho' ? if would do anything to w/u abn. Result. Basic neuro exam ok. 
+
+
+
+(7)	NO further wt. loss of significance. CBC was ok last visit.
+
+
+
+.The patient will follow up in a few months.
+
+
+
+Hayden Richard, M.D.
+
+
+
+
+
+
+
+
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <HYPERLIPIDEMIA id="DOC2" time="before DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY0" start="1800" end="1814" text="Hyperlipidemia" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY1" start="1800" end="1815" text="Hyperlipidemia " time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY2" start="1800" end="1814" text="Hyperlipidemia" time="before DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <HYPERLIPIDEMIA id="DOC5" time="after DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY3" start="1800" end="1814" text="Hyperlipidemia" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY4" start="1800" end="1815" text="Hyperlipidemia " time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY5" start="1800" end="1814" text="Hyperlipidemia" time="after DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <HYPERLIPIDEMIA id="DOC12" time="during DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY6" start="1800" end="1814" text="Hyperlipidemia" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY7" start="1800" end="1815" text="Hyperlipidemia " time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY8" start="1800" end="1814" text="Hyperlipidemia" time="during DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <MEDICATION id="DOC0" time="during DCT" type1="aspirin" type2="">
+      <MEDICATION id="M0" start="786" end="793" text="Aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M1" start="786" end="793" text="Aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M2" start="786" end="793" text="Aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC1" time="after DCT" type1="aspirin" type2="">
+      <MEDICATION id="M3" start="786" end="793" text="Aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M4" start="786" end="793" text="Aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M5" start="786" end="793" text="Aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC4" time="before DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M6" start="816" end="824" text="atenolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M7" start="816" end="824" text="atenolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M8" start="816" end="824" text="atenolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC7" time="before DCT" type1="aspirin" type2="">
+      <MEDICATION id="M9" start="786" end="793" text="Aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M10" start="786" end="793" text="Aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M11" start="786" end="793" text="Aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC8" time="after DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M12" start="816" end="824" text="atenolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M13" start="816" end="824" text="atenolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M14" start="816" end="824" text="atenolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC10" time="during DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M15" start="816" end="824" text="atenolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M16" start="816" end="824" text="atenolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M17" start="816" end="824" text="atenolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC3" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="200" end="212" text="Hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="200" end="212" text="Hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H2" start="200" end="212" text="Hypertension" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC6" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H3" start="200" end="212" text="Hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H4" start="200" end="212" text="Hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H5" start="200" end="212" text="Hypertension" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC11" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H6" start="200" end="212" text="Hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H7" start="200" end="212" text="Hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H8" start="200" end="212" text="Hypertension" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <FAMILY_HIST id="DOC13" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC9" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" start="3" end="9" text="Record" status="unknown" comment=""/>
+      <SMOKER id="S2" status="unknown"/>
+    </SMOKER>
+  </TAGS>
+</root>

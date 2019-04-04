@@ -1,0 +1,195 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2095-01-31
+
+EDVISIT^65219816^HALL, NICK^01/31/95^PENN, GINO
+
+The patient was seen and examined in the Emergency Department on
+
+01/31/2095.  The patient was seen by Dr. Ibarra.  I have discussed
+
+the management with her.  I have also seen the patient personally
+
+and reviewed the ED record.  This is an addendum to the record. 
+
+I have also reviewed the old medical record and discussed the
+
+management with Dr. Gil, who will be speaking with Dr. Gomez
+
+about accepting this patient to the Cardiology Service.
+
+HISTORY OF PRESENT ILLNESS:  This is a 54-year-old gentleman who
+
+has a history of stent placements as he had a cardiac arrest
+
+status post lobectomy for squamous cell carcinoma.  This occurred
+
+in 02/2094, where the patient was taken to the Cath Lab after His
+
+postoperative rest.  Stents were placed and the patient says he
+
+has been doing well.  In the meantime, he has had no chest pain
+
+or shortness of breath until one week prior, he was on a
+
+treadmill and felt unwell with shortness of breath and chest
+
+discomfort.  He stopped and felt better.  Last night, he was in
+
+bed watching TV, he felt some chest discomfort and took
+
+nitroglycerin with relief of pain, and this morning he was
+
+walking and walked about 100 yards, felt short of breath and
+
+chest pain at rest and took nitroglycerin with relieve and now
+
+has no chest pain or shortness of breath at this time.  His chest
+
+pain he describes it as pressure with exertion and he feels well
+
+now.  No fevers, chills, or cough.
+
+REVIEW OF SYSTEMS:  As indicated and otherwise negative.
+
+PAST MEDICAL HISTORY:  As indicated and also includes
+
+hypertension and increased cholesterol.
+
+SOCIAL HISTORY:  He is a nonsmoker.
+
+PHYSICAL EXAMINATION:  The patient is pleasant, well appearing,
+
+and in no acute distress.  Normocephalic and atraumatic.  Chest
+
+is clear.  Heart is regular.  Abdomen is soft and nontender. 
+
+Extremities are nontender.  Rectal exam is heme-negative.
+
+ASSESSMENT AND PLAN:  This is a gentleman with a history of
+
+coronary artery disease and cardiac arrest, who has a very
+
+typical symptoms concerning for coronary artery disease and
+
+angina including components at rest.  We have started heparin on
+
+the patient medicated with cardiologist for the possibility of
+
+early catheterization.  Laboratory was pending at the time of
+
+this dictation.
+
+DISPOSITION:  The patient will be admitted to Cardiology in fair
+
+condition.
+
+______________________________
+
+PENN, GINO M.D.
+
+D: 01/31/95
+
+T: 01/31/95
+
+Dictated By: PENN, GINO
+
+eScription document:2-5902888 BFFocus
+
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <CAD id="DOC0" time="before DCT" indicator="symptom">
+      <CAD id="C0" start="1031" end="1049" text="chest  discomfort." time="before DCT" indicator="symptom" comment=""/>
+      <CAD id="C1" start="1282" end="1292" text="chest pain" time="before DCT" indicator="symptom" comment=""/>
+      <CAD id="C2" start="2140" end="2146" text="angina" time="before DCT" indicator="symptom" comment=""/>
+    </CAD>
+    <CAD id="DOC1" time="after DCT" indicator="mention">
+      <CAD id="C3" start="2019" end="2042" text="coronary artery disease" time="after DCT" indicator="mention" comment=""/>
+      <CAD id="C4" start="2019" end="2042" text="coronary artery disease" time="after DCT" indicator="mention" comment=""/>
+    </CAD>
+    <HYPERTENSION id="DOC2" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="1628" end="1641" text="hypertension " time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="1628" end="1640" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H2" start="1628" end="1640" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <CAD id="DOC3" time="before DCT" indicator="event">
+      <CAD id="C5" start="638" end="652" text="cardiac arrest" time="before DCT" indicator="event" comment=""/>
+      <CAD id="C6" start="608" end="625" text=" stent placements" time="before DCT" indicator="event" comment=""/>
+      <CAD id="C7" start="638" end="652" text="cardiac arrest" time="before DCT" indicator="event" comment=""/>
+    </CAD>
+    <MEDICATION id="DOC4" time="before DCT" type1="nitrate" type2="">
+      <MEDICATION id="M0" start="1160" end="1173" text="nitroglycerin" time="before DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M1" start="1160" end="1173" text="nitroglycerin" time="before DCT" type1="nitrate" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERLIPIDEMIA id="DOC5" time="before DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY0" start="1645" end="1666" text="increased cholesterol" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY1" start="1645" end="1666" text="increased cholesterol" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY2" start="1644" end="1666" text=" increased cholesterol" time="before DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <HYPERTENSION id="DOC6" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H3" start="1628" end="1641" text="hypertension " time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H4" start="1628" end="1640" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H5" start="1628" end="1640" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <FAMILY_HIST id="DOC7" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <HYPERLIPIDEMIA id="DOC8" time="after DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY3" start="1645" end="1666" text="increased cholesterol" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY4" start="1645" end="1666" text="increased cholesterol" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY5" start="1644" end="1666" text=" increased cholesterol" time="after DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <CAD id="DOC9" time="during DCT" indicator="mention">
+      <CAD id="C8" start="1160" end="1173" text="nitroglycerin" time="during DCT" indicator="mention" comment=""/>
+      <CAD id="C9" start="2019" end="2042" text="coronary artery disease" time="during DCT" indicator="mention" comment=""/>
+      <CAD id="C10" start="2019" end="2042" text="coronary artery disease" time="during DCT" indicator="mention" comment=""/>
+    </CAD>
+    <HYPERTENSION id="DOC10" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H6" start="1628" end="1641" text="hypertension " time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H7" start="1628" end="1640" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H8" start="1628" end="1640" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <CAD id="DOC11" time="before DCT" indicator="mention">
+      <CAD id="C11" start="609" end="614" text="stent" time="before DCT" indicator="mention" comment=""/>
+      <CAD id="C12" start="2019" end="2042" text="coronary artery disease" time="before DCT" indicator="mention" comment=""/>
+      <CAD id="C13" start="2019" end="2042" text="coronary artery disease" time="before DCT" indicator="mention" comment=""/>
+    </CAD>
+    <HYPERLIPIDEMIA id="DOC12" time="during DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY6" start="1645" end="1666" text="increased cholesterol" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY7" start="1645" end="1666" text="increased cholesterol" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY8" start="1644" end="1666" text=" increased cholesterol" time="during DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <SMOKER id="DOC13" status="never">
+      <SMOKER id="S0" start="1694" end="1703" text="nonsmoker" status="never" comment=""/>
+      <SMOKER id="S1" start="1694" end="1703" text="nonsmoker" status="never" comment=""/>
+      <SMOKER id="S2" start="1694" end="1703" text="nonsmoker" status="never" comment=""/>
+    </SMOKER>
+    <PHI id="P0" start="16" end="26" text="2095-01-31" TYPE="DATE"/>
+    <PHI id="P1" start="36" end="44" text="65219816" TYPE="MEDICALRECORD"/>
+    <PHI id="P2" start="45" end="55" text="HALL, NICK" TYPE="PATIENT"/>
+    <PHI id="P3" start="56" end="64" text="01/31/95" TYPE="DATE"/>
+    <PHI id="P4" start="65" end="75" text="PENN, GINO" TYPE="DOCTOR"/>
+    <PHI id="P5" start="143" end="153" text="01/31/2095" TYPE="DATE"/>
+    <PHI id="P6" start="184" end="190" text="Ibarra" TYPE="DOCTOR"/>
+    <PHI id="P7" start="427" end="430" text="Gil" TYPE="DOCTOR"/>
+    <PHI id="P8" start="462" end="467" text="Gomez" TYPE="DOCTOR"/>
+    <PHI id="P9" start="565" end="567" text="54" TYPE="AGE"/>
+    <PHI id="P10" start="724" end="731" text="02/2094" TYPE="DATE"/>
+    <PHI id="P11" start="2460" end="2470" text="PENN, GINO" TYPE="DOCTOR"/>
+    <PHI id="P12" start="2480" end="2488" text="01/31/95" TYPE="DATE"/>
+    <PHI id="P13" start="2493" end="2501" text="01/31/95" TYPE="DATE"/>
+    <PHI id="P14" start="2516" end="2526" text="PENN, GINO" TYPE="DOCTOR"/>
+    <PHI id="P15" start="2548" end="2557" text="2-5902888" TYPE="IDNUM"/>
+  </TAGS>
+</root>

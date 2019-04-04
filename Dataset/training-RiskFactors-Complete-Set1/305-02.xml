@@ -1,0 +1,116 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2086-02-11
+
+February 9, 2086
+
+Wesley Snow, M.D.
+
+Dept of Internal Medicine
+
+Rio Grande State Center
+
+29 Fir Street
+
+Tucson Southeast, TX  27535
+
+
+
+Re:   Neil Robison  #371-97-98
+
+
+
+Dear Wilcox,
+
+
+
+     I saw Mr. Robison today. I hadn't seen him since last year.  I'm very pleased to see how well he's done.  He has had no double vision, no staggering, and no numbness around the mouth.  His speech is a little slurred he says (unchanged).  He walks with a wide-based gait, but is otherwise steady on his feet.  There is no tremor.  His arms and legs are strong.  Extraocular movements are full.  The pupils are equal.  There is no ptosis.  His speech is fluent.
+
+
+
+     He takes one aspirin a day as well Lipitor and some vitamins (the other medicines he doesn't recall but I think you are in the know about).  
+
+
+
+     His blood pressure is 120/80.  The pulse is around 76.  There are no cervical bruits.  
+
+
+
+     From my perspective he is doing well on the aspirin and we should sit tight.  I would like to see him again in a year and at that time we should have our Dopplers again to recheck the flow in the basilar artery. The right vertebral is dominant and the left is occluded.  The left MCA stem was hard to visualize on the imaging.  It may well be occluded with collateralization. The left imaging was in 2082.  He is stable at this time.  He knows to call if he develops any symptoms.
+
+
+
+Best regards,
+
+
+
+
+
+G. Kevin Yawn, M.D.
+
+   
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="after DCT" type1="statin" type2="">
+      <MEDICATION id="M0" start="721" end="728" text="Lipitor" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M1" start="721" end="728" text="Lipitor" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M2" start="721" end="728" text="Lipitor" time="after DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC1" time="during DCT" type1="statin" type2="">
+      <MEDICATION id="M3" start="721" end="728" text="Lipitor" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M4" start="721" end="728" text="Lipitor" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M5" start="721" end="728" text="Lipitor" time="during DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC2" time="during DCT" type1="aspirin" type2="">
+      <MEDICATION id="M6" start="699" end="706" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M7" start="699" end="706" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M8" start="699" end="706" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC3" time="before DCT" type1="statin" type2="">
+      <MEDICATION id="M9" start="721" end="728" text="Lipitor" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M10" start="721" end="728" text="Lipitor" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M11" start="721" end="728" text="Lipitor" time="before DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC4" time="after DCT" type1="aspirin" type2="">
+      <MEDICATION id="M12" start="699" end="706" text="aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M13" start="699" end="706" text="aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M14" start="699" end="706" text="aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC5" time="before DCT" type1="aspirin" type2="">
+      <MEDICATION id="M15" start="699" end="706" text="aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M16" start="699" end="706" text="aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M17" start="699" end="706" text="aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <FAMILY_HIST id="DOC6" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC7" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" status="unknown"/>
+      <SMOKER id="S2" status="unknown"/>
+    </SMOKER>
+    <PHI id="P0" start="16" end="26" text="2086-02-11" TYPE="DATE"/>
+    <PHI id="P1" start="28" end="44" text="February 9, 2086" TYPE="DATE"/>
+    <PHI id="P2" start="46" end="57" text="Wesley Snow" TYPE="DOCTOR"/>
+    <PHI id="P3" start="73" end="90" text="Internal Medicine" TYPE="DEPARTMENT"/>
+    <PHI id="P4" start="92" end="115" text="Rio Grande State Center" TYPE="HOSPITAL"/>
+    <PHI id="P5" start="117" end="130" text="29 Fir Street" TYPE="STREET"/>
+    <PHI id="P6" start="132" end="148" text="Tucson Southeast" TYPE="CITY"/>
+    <PHI id="P7" start="150" end="152" text="TX" TYPE="STATE"/>
+    <PHI id="P8" start="154" end="159" text="27535" TYPE="ZIP"/>
+    <PHI id="P9" start="169" end="181" text="Neil Robison" TYPE="PATIENT"/>
+    <PHI id="P10" start="184" end="193" text="371-97-98" TYPE="MEDICALRECORD"/>
+    <PHI id="P11" start="202" end="208" text="Wilcox" TYPE="DOCTOR"/>
+    <PHI id="P12" start="228" end="235" text="Robison" TYPE="PATIENT"/>
+    <PHI id="P13" start="1332" end="1336" text="2082" TYPE="DATE"/>
+    <PHI id="P14" start="1435" end="1448" text="G. Kevin Yawn" TYPE="DOCTOR"/>
+  </TAGS>
+</root>

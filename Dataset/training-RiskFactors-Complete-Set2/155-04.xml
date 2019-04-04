@@ -1,0 +1,198 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2086-11-18
+
+ACUTE STROKE CONSULTATION
+
+
+
+Called urgently to N-23 for further evaluation of sudden speech difficulty in this 83 yo RH woman who had undergone cardiac cath three and a half hours earlier.  She has remained alert, without somatic motor or sensory complaints, no visual or aural complaints, but some word retrieval difficulty and perhaps slurring of speech.  When first evaluated, she remained alert, oriented to situation, moving all four extremities with fair strength; normal LT. NO dysmetria or ataxia. VF full; {PERRLA; EOMs full s ptosis or nystagmus; no obvious facial or lingual weakness; modulates voice well.  Names; repeats simple test  words, but errs  on 33rd artillery battallion ("33 battallion"); repeats, but elides single words. No R-L confusion, no finger agnosia; no achromatopsia.
+
+
+
+NIHSS: 0000000000110= 2 (language/dysarthria)
+
+
+
+Taken urgently to CT: no ICH, CTA witrhout obvuious cutoff; taken to MRI
+
+
+
+PMH:
+
+She is hospitalized currrently b/o dyspnea, nonSTEMIA, flash pulmonary edema, s/p cath, awaiting CABG b/o triple vessel disease.
+
+Depression          
+
+Hyperlipidemia          
+
+Hypertension          
+
+glucose intolerance          
+
+Gastroesophageal reflux disease     ; EGD shows improvement in her ulcer.     
+
+H/O humerus fracture          left humeral head; comminuted; spring, 2081
+
+g5p5          
+
+h/o transient global amnesia          3/'76; carotid dopplers with rt. 15% ICA stenosis
+
+benign breast calcifications          9/'80 bx
+
+Basal cell carcinoma          of nose; 7/2084
+
+Osteoporosis          She declines Rx other than Ca/vit. D
+
+Lower GI bleeding          
+
+Colonic polyps    
+
+Osteoarthritis
+
+Never smoked.
+
+
+
+ON ASA 81, on iv heparin until cath; iv nitroglycerin currently, metoprolol, captopril, nexium, atorvastatin, MVI and calcium supplements.  NKDA.  
+
+
+
+IMPRESSION is of L opercular syndrome- embolic postprocedure.
+
+However, MR-DWI suggests shower of several tiny foci, ditally in cortex anteriorly both on R and L, and old R talamocapsular lacune (possibly related to her 2076 event).
+
+
+
+No a lysis candidate. Could resume heparin for her CAD, if indicated.
+
+
+
+
+
+K. Guzman, M.D.
+
+
+
+
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <HYPERLIPIDEMIA id="DOC7" time="during DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY0" start="1116" end="1133" text="Hyperlipidemia   " time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY1" start="1116" end="1130" text="Hyperlipidemia" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY2" start="1116" end="1130" text="Hyperlipidemia" time="during DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <HYPERLIPIDEMIA id="DOC16" time="after DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY3" start="1116" end="1133" text="Hyperlipidemia   " time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY4" start="1116" end="1130" text="Hyperlipidemia" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY5" start="1116" end="1130" text="Hyperlipidemia" time="after DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <HYPERLIPIDEMIA id="DOC20" time="before DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY6" start="1116" end="1133" text="Hyperlipidemia   " time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY7" start="1116" end="1130" text="Hyperlipidemia" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY8" start="1116" end="1130" text="Hyperlipidemia" time="before DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <MEDICATION id="DOC0" time="during DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M0" start="1771" end="1780" text="captopril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M1" start="1771" end="1780" text="captopril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC1" time="after DCT" type1="statin" type2="">
+      <MEDICATION id="M2" start="1790" end="1802" text="atorvastatin" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M3" start="1790" end="1802" text="atorvastatin" time="after DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC2" time="during DCT" type1="aspirin" type2="">
+      <MEDICATION id="M4" start="1697" end="1700" text="ASA" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M5" start="1697" end="1700" text="ASA" time="during DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC4" time="after DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M6" start="1771" end="1780" text="captopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M7" start="1771" end="1780" text="captopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC5" time="before DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M8" start="1771" end="1780" text="captopril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M9" start="1771" end="1780" text="captopril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC6" time="after DCT" type1="aspirin" type2="">
+      <MEDICATION id="M10" start="1697" end="1700" text="ASA" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M11" start="1697" end="1700" text="ASA" time="after DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC8" time="during DCT" type1="nitrate" type2="">
+      <MEDICATION id="M12" start="1734" end="1747" text="nitroglycerin" time="during DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M13" start="1734" end="1747" text="nitroglycerin" time="during DCT" type1="nitrate" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC11" time="after DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M14" start="1759" end="1769" text="metoprolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M15" start="1759" end="1769" text="metoprolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC13" time="before DCT" type1="statin" type2="">
+      <MEDICATION id="M16" start="1790" end="1802" text="atorvastatin" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M17" start="1790" end="1802" text="atorvastatin" time="before DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC14" time="during DCT" type1="statin" type2="">
+      <MEDICATION id="M18" start="1790" end="1802" text="atorvastatin" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M19" start="1790" end="1802" text="atorvastatin" time="during DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC18" time="before DCT" type1="aspirin" type2="">
+      <MEDICATION id="M20" start="1697" end="1700" text="ASA" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M21" start="1697" end="1700" text="ASA" time="before DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC22" time="before DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M22" start="1759" end="1769" text="metoprolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M23" start="1759" end="1769" text="metoprolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC23" time="during DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M24" start="1759" end="1769" text="metoprolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M25" start="1759" end="1769" text="metoprolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC3" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="1142" end="1155" text="Hypertension " time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="1142" end="1154" text="Hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H2" start="1142" end="1154" text="Hypertension" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC10" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H3" start="1142" end="1155" text="Hypertension " time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H4" start="1142" end="1154" text="Hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H5" start="1142" end="1154" text="Hypertension" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC21" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H6" start="1142" end="1155" text="Hypertension " time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H7" start="1142" end="1154" text="Hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H8" start="1142" end="1154" text="Hypertension" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <CAD id="DOC9" time="during DCT" indicator="event">
+      <CAD id="C0" start="1008" end="1017" text="nonSTEMIA" time="during DCT" indicator="event" comment=""/>
+      <CAD id="C1" start="1051" end="1066" text=" awaiting CABG " time="during DCT" indicator="event" comment=""/>
+      <CAD id="C2" start="1008" end="1017" text="nonSTEMIA" time="during DCT" indicator="event" comment=""/>
+    </CAD>
+    <CAD id="DOC12" time="after DCT" indicator="mention">
+      <CAD id="C3" start="2132" end="2135" text="CAD" time="after DCT" indicator="mention" comment=""/>
+      <CAD id="C4" start="1065" end="1091" text=" b/o triple vessel disease" time="after DCT" indicator="mention" comment=""/>
+    </CAD>
+    <CAD id="DOC17" time="during DCT" indicator="mention">
+      <CAD id="C5" start="2132" end="2135" text="CAD" time="during DCT" indicator="mention" comment=""/>
+      <CAD id="C6" start="2132" end="2135" text="CAD" time="during DCT" indicator="mention" comment=""/>
+      <CAD id="C7" start="1065" end="1091" text=" b/o triple vessel disease" time="during DCT" indicator="mention" comment=""/>
+    </CAD>
+    <CAD id="DOC24" time="before DCT" indicator="mention">
+      <CAD id="C8" start="2132" end="2135" text="CAD" time="before DCT" indicator="mention" comment=""/>
+      <CAD id="C9" start="1065" end="1091" text=" b/o triple vessel disease" time="before DCT" indicator="mention" comment=""/>
+    </CAD>
+    <FAMILY_HIST id="DOC15" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC19" status="never">
+      <SMOKER id="S0" start="1677" end="1689" text="Never smoked" status="never" comment=""/>
+      <SMOKER id="S1" start="1677" end="1690" text="Never smoked." status="never" comment=""/>
+    </SMOKER>
+  </TAGS>
+</root>

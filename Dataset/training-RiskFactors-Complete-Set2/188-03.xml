@@ -1,0 +1,222 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2067-03-06
+
+
+
+
+
+INTERNAL MEDICINE ASSOCIATES
+
+OCHILTREE GENERAL HOSPITAL
+
+
+
+History of present illness   This is a 54-year-old white male here complaining persistent cough.  He has had a dry cough for about two months.  He was put on inhalers, but there was no improvement.  The cough is worse at night, but also he has it during the day.  He has no mucus production, no hemoptysis, no shortness of breath, and no wheezing.  He is a nonsmoker.  About a week ago, he was admitted to a local emergency room for chest pain.  He was rushed to Ochiltree General because of ST-T wave abnormalities on his EKG.  In retrospect, he has had these changes for many years, and anyway he had a cardiac catheterization, which showed mild obstruction of some of his coronary systems but no evidence of coronary artery syndrome.  He did have cardiomyopathy with the ejection fraction of 35%.  He was sent home on Toprol XL 50 mg QD, Lipitor 10 mg QD, lisinopril 10 mg, aspirin 325 mg once a day, and Avandia 2 mg once a day.  Since returning home, the patient feels no chest pain or shortness of breath.  No orthopnea or PND.  He still has a dry cough.
+
+
+
+Change in therapies and Renewals
+
+Viagra 50mg  PRN QTY:15 Refills:3 Start: 10/05/2063
+
+Avandia 2 mg 1 tab   qd QTY:30 Refills:3 Start: 1/31/2065
+
+aspirin 325 mg 1 tab   qd QTY:30 Refills:1 yr Start: 3/12/2065
+
+lisinopril 10 mg   QD Start: 8/4/2066
+
+Lipitor 10mg po qd Start: 12/17/2066
+
+Proventil two puffs inhaled qid QTY:1 cannister Refills:3 Start: 1/28/2067 End: 3/06/2067 prn - Inactivated
+
+Toprol XL 50 mg po qd Start: 03/06/2067
+
+Prilosec 20mg po bid QTY:60 Refills:1 Start: 03/06/2067 take before meals
+
+
+
+Physical examination
+
+Blood pressure 110/80  
+
+Weight   214 pounds
+
+General appearance   Well-developed and well-nourished, no acute distress
+
+Skin   Clear
+
+Heent   Eyes, nonicteric.  Nose clear.  Pharynx normal
+
+Neck   No masses.  Neck veins not distended
+
+Chest   Lungs clear
+
+Cor   Regular rhythm.  S1 and S2 normal.  No murmur, S3, or S4
+
+Abdomen   Soft, nontender, and no masses.  No liver or spleen palpable
+
+Extrem   No edema
+
+
+
+Assessment and plan   Cardiomyopathy.  Continue present medications.  Complete abstention from alcohol advised.
+
+Diabetes.  Check hemoglobin A1c.
+
+Persistent cough.  Question GERD.  Plan:  A trial of Prilosec 20 mg twice a day.  Schedule upper GI.  Return in one month.  If cough persists, consider a role of lisinopril.  However, he was taking lisinopril long before his cough started.
+
+Hyperlipidemia.  Continue Lipitor.  Check lipid profile.
+
+Impotence.  Refill Viagra.
+
+
+
+Note transcribed by outside service   Transcription errors may be present.
+
+
+
+Signed electronically by Thomson, Steven on Mar 09, 2067     
+
+
+
+]]></TEXT>
+  <TAGS>
+    <HYPERLIPIDEMIA id="DOC7" time="during DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY0" start="2494" end="2508" text="Hyperlipidemia" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY1" start="2494" end="2508" text="Hyperlipidemia" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY2" start="2494" end="2508" text="Hyperlipidemia" time="during DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <HYPERLIPIDEMIA id="DOC14" time="after DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY3" start="2494" end="2508" text="Hyperlipidemia" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY4" start="2494" end="2508" text="Hyperlipidemia" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY5" start="2494" end="2508" text="Hyperlipidemia" time="after DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <HYPERLIPIDEMIA id="DOC18" time="before DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY6" start="2494" end="2508" text="Hyperlipidemia" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY7" start="2494" end="2508" text="Hyperlipidemia" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY8" start="2494" end="2508" text="Hyperlipidemia" time="before DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <MEDICATION id="DOC0" time="during DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M0" start="951" end="961" text="lisinopril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M1" start="1366" end="1376" text="lisinopril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M2" start="951" end="961" text="lisinopril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M3" start="950" end="962" text=" lisinopril " time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC1" time="after DCT" type1="statin" type2="">
+      <MEDICATION id="M4" start="933" end="940" text="Lipitor" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M5" start="1405" end="1412" text="Lipitor" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M6" start="2520" end="2527" text="Lipitor" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M7" start="933" end="940" text="Lipitor" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M8" start="933" end="940" text="Lipitor" time="after DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC2" time="during DCT" type1="aspirin" type2="">
+      <MEDICATION id="M9" start="969" end="976" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M10" start="1302" end="1309" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M11" start="969" end="976" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M12" start="969" end="977" text="aspirin " time="during DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC3" time="after DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M13" start="951" end="961" text="lisinopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M14" start="1366" end="1376" text="lisinopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M15" start="951" end="961" text="lisinopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M16" start="950" end="962" text=" lisinopril " time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC4" time="before DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M17" start="951" end="961" text="lisinopril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M18" start="1366" end="1376" text="lisinopril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M19" start="951" end="961" text="lisinopril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M20" start="950" end="962" text=" lisinopril " time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC6" time="after DCT" type1="aspirin" type2="">
+      <MEDICATION id="M21" start="969" end="976" text="aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M22" start="1302" end="1309" text="aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M23" start="969" end="976" text="aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M24" start="969" end="977" text="aspirin " time="after DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC8" time="before DCT" type1="thiazolidinedione" type2="">
+      <MEDICATION id="M25" start="1000" end="1007" text="Avandia" time="before DCT" type1="thiazolidinedione" type2="" comment=""/>
+      <MEDICATION id="M26" start="1243" end="1250" text="Avandia" time="before DCT" type1="thiazolidinedione" type2="" comment=""/>
+      <MEDICATION id="M27" start="1000" end="1007" text="Avandia" time="before DCT" type1="thiazolidinedione" type2="" comment=""/>
+      <MEDICATION id="M28" start="1000" end="1007" text="Avandia" time="before DCT" type1="thiazolidinedione" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC9" time="after DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M29" start="913" end="922" text="Toprol XL" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M30" start="1552" end="1558" text="Toprol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M31" start="913" end="919" text="Toprol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M32" start="913" end="920" text="Toprol " time="after DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC11" time="before DCT" type1="statin" type2="">
+      <MEDICATION id="M33" start="933" end="940" text="Lipitor" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M34" start="1405" end="1412" text="Lipitor" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M35" start="2520" end="2527" text="Lipitor" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M36" start="933" end="940" text="Lipitor" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M37" start="933" end="940" text="Lipitor" time="before DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC12" time="during DCT" type1="statin" type2="">
+      <MEDICATION id="M38" start="933" end="940" text="Lipitor" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M39" start="1405" end="1412" text="Lipitor" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M40" start="2520" end="2527" text="Lipitor" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M41" start="933" end="940" text="Lipitor" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M42" start="933" end="940" text="Lipitor" time="during DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC15" time="before DCT" type1="aspirin" type2="">
+      <MEDICATION id="M43" start="969" end="976" text="aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M44" start="1302" end="1309" text="aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M45" start="969" end="976" text="aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M46" start="969" end="977" text="aspirin " time="before DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC17" time="during DCT" type1="thiazolidinedione" type2="">
+      <MEDICATION id="M47" start="1000" end="1007" text="Avandia" time="during DCT" type1="thiazolidinedione" type2="" comment=""/>
+      <MEDICATION id="M48" start="1243" end="1250" text="Avandia" time="during DCT" type1="thiazolidinedione" type2="" comment=""/>
+      <MEDICATION id="M49" start="1000" end="1007" text="Avandia" time="during DCT" type1="thiazolidinedione" type2="" comment=""/>
+      <MEDICATION id="M50" start="1000" end="1007" text="Avandia" time="during DCT" type1="thiazolidinedione" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC19" time="after DCT" type1="thiazolidinedione" type2="">
+      <MEDICATION id="M51" start="1000" end="1007" text="Avandia" time="after DCT" type1="thiazolidinedione" type2="" comment=""/>
+      <MEDICATION id="M52" start="1243" end="1250" text="Avandia" time="after DCT" type1="thiazolidinedione" type2="" comment=""/>
+      <MEDICATION id="M53" start="1000" end="1007" text="Avandia" time="after DCT" type1="thiazolidinedione" type2="" comment=""/>
+      <MEDICATION id="M54" start="1000" end="1007" text="Avandia" time="after DCT" type1="thiazolidinedione" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC20" time="before DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M55" start="913" end="922" text="Toprol XL" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M56" start="1552" end="1558" text="Toprol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M57" start="913" end="919" text="Toprol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M58" start="913" end="920" text="Toprol " time="before DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC21" time="during DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M59" start="913" end="922" text="Toprol XL" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M60" start="1552" end="1558" text="Toprol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M61" start="913" end="919" text="Toprol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M62" start="913" end="920" text="Toprol " time="during DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <FAMILY_HIST id="DOC13" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC16" status="never">
+      <SMOKER id="S0" start="449" end="458" text="nonsmoker" status="never" comment=""/>
+      <SMOKER id="S1" start="449" end="458" text="nonsmoker" status="never" comment=""/>
+      <SMOKER id="S2" start="441" end="459" text="He is a nonsmoker." status="never" comment=""/>
+    </SMOKER>
+    <DIABETES id="DOC5" time="during DCT" indicator="mention">
+      <DIABETES id="D0" start="2219" end="2227" text="Diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D1" start="2219" end="2227" text="Diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D2" start="2219" end="2227" text="Diabetes" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC10" time="before DCT" indicator="mention">
+      <DIABETES id="D3" start="2219" end="2227" text="Diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D4" start="2219" end="2227" text="Diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D5" start="2219" end="2227" text="Diabetes" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC22" time="after DCT" indicator="mention">
+      <DIABETES id="D6" start="2219" end="2227" text="Diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D7" start="2219" end="2227" text="Diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D8" start="2219" end="2227" text="Diabetes" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+  </TAGS>
+</root>

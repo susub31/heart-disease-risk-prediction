@@ -1,0 +1,238 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2096-08-14
+
+	CARDIOLOGY
+	
+
+	GRIFFIN NURSING CENTER
+	
+
+
+	Reason for visit:
+   Asked by Medicine team to see this 88 yo woman who presents with UGIB 9 d after inferior STEMI/BMS PCI to PLV/RCA
+
+
+	Interval History:
+   Ms. Ulrich is a 88 yo w/ h/o CAD, DM2, and dyslipidemia, who was admitted 10 d ago with an inferior STEMI in the setting of nauseau and CP, who subsequently received BMS stents to the RPLV and mid RCA.  Plavix was reloaded for 1 week in this setting.  She was discharged to a rehab facility in pauls valley 8/10/96 for PT/OT.  At the rehab facility she developed hematemesis and was admitted to the medicine service last night for UGIB.  She denies CP/SOB/N at present.  She does not have memory of the hematemesis episodes overnight.  She required some reorientation to the situation leading to her readmission.
+
+
+	Past medical history:
+   1. CAD:
+-s/p PCI of PDA 2089 for 99% lesion in setting of ACS, s/p PCI of 99% LAD lesion in 2090 also in setting of ACS, residual LV function normal w/o focal WMA in 2091.  Inferior STEMI 7/96 due to near occlusion of PLV resulting in BMS to PLV and mid RCA.
+2. HTN/Hypertensive heart disease: rather difficult to control HTN, needing multiple agents to achieve near normal to high normal pressures.  Had a good bp response to thiazides but caused unacceptable degree of hyponatremia.  BP also related to the degree of chronic low back pain, and was substantially better for 6 months after localized treatment.  Hypertensive HD manifest primarily as peripheral edema, worsened by norvasc, improved on diuretic.
+3. Dyslipidemia
+4. DMII
+5. Postherpetic neuralgia  
+6. Depression  
+7. Hemorrhoids  
+8. Osteoarthritis  
+9. h/o DVT /PE
+10. Breast CA  96 T2N1MO ER/PR+ Her2 neg breast CA s/p L radical mastectomy, XRT, and tamoxifen x 10 years  
+11. Recurrent UTI  
+12. Urinary incontinence 
+13. History of HIT AB Positive 2090
+
+
+	Family history:
+   There is a history of non-premature cardiovascular and cerebrovascular disease:  Her father died of a stroke in his 80s, her mother had congestive heart failure, and a brother had an MI.  Her other siblings have lived into their 80s.
+
+
+	Social history:
+   She has not smoked, and uses alcohol only rarely.  She lives at home with her youngest daughter, Vaccaro.  Another daughter, Tiffany, has been also very involved in her mother's care.
+
+
+	Review of systems:
+   As above, otherwise negative in detail. 
+
+Physical examination:
+	
+-Pulse: 58  
+-resp. rate:  16  
+-Abdomen:   soft NT and ND, no hepatosplenomegaly, no pulsatile masses.
+-Neuro:   a + oriented to self, needs orientation to location and context
+-Extremities:   trace lower extremity edema, 1+ bilat PT pulses, 2+ radial pulses
+-Chest:   cleart to auscultation anteriorly without crackles or wheezes
+-Neck:   JVP not elevated, no HJR, no carotid bruits
+-HEENT:   NC/AT, with mild ptosis of left eyelid from post herpetic changes
+-General appearance:   A WD, WN elderly woman in no acute distress. Answering questions propriately, but requiring reorientation.
+-BP: 155/60  
+
+
+	EKG:
+   NSR, CRO old IMI, NSSTTWAs, no significant change
+
+
+	Impression:
+   88 yo woman with extensive CAD history, HTN and DM2 recently started on oral agents, now presents with UGIB in setting of plavix extended reload of 150 QD x 1 week.
+
+Agree with reducing plavix to 75 QD for now in combination with low dose ASA.  Despite low level cardiac marker elevation there is little suggest an intercurrent coronary syndrome currently complicating the UGIB.  Would try to continue antiplatelet therapy for a minimum of 30 days, and preferably for 90 days in the setting of recently placed bare metal stents, if tolerable from a hemodynamic and hemostatic perspective.  Agree with switching to short term beta blocker, and holding lasix for now given apparent volume depletion.  Continue high dose statin, ARB, and low dose CCB for BP control.
+
+If UGIB continues to stabilize would prefer to maintain on H2 blocker rather than PPI to limit interference with antiplatelet therapy with plavix.  
+
+Will follow with you.
+
+	
+Geary A. Camacho, MD
+Document Status: Preliminary
+
+
+
+]]></TEXT>
+  <TAGS>
+    <HYPERLIPIDEMIA id="DOC8" time="during DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY0" start="274" end="286" text="dyslipidemia" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY1" start="274" end="286" text="dyslipidemia" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY2" start="1586" end="1598" text="Dyslipidemia" time="during DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <HYPERLIPIDEMIA id="DOC19" time="after DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY3" start="274" end="286" text="dyslipidemia" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY4" start="274" end="286" text="dyslipidemia" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY5" start="1586" end="1598" text="Dyslipidemia" time="after DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <HYPERLIPIDEMIA id="DOC24" time="before DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY6" start="274" end="286" text="dyslipidemia" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY7" start="274" end="286" text="dyslipidemia" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY8" start="1586" end="1598" text="Dyslipidemia" time="before DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <MEDICATION id="DOC0" time="after DCT" type1="statin" type2="">
+      <MEDICATION id="M0" start="3849" end="3855" text="statin" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M1" start="3849" end="3855" text="statin" time="after DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC1" time="during DCT" type1="thienopyridine" type2="">
+      <MEDICATION id="M2" start="434" end="440" text="Plavix" time="during DCT" type1="thienopyridine" type2="" comment=""/>
+      <MEDICATION id="M3" start="3253" end="3259" text="plavix" time="during DCT" type1="thienopyridine" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC5" time="after DCT" type1="aspirin" type2="">
+      <MEDICATION id="M4" start="3370" end="3373" text="ASA" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M5" start="3370" end="3373" text="ASA" time="after DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC7" time="during DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M6" start="3875" end="3878" text="CCB" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M7" start="3875" end="3878" text="CCB" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC10" time="before DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M8" start="3875" end="3878" text="CCB" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M9" start="3875" end="3878" text="CCB" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC11" time="after DCT" type1="thienopyridine" type2="">
+      <MEDICATION id="M10" start="434" end="440" text="Plavix" time="after DCT" type1="thienopyridine" type2="" comment=""/>
+      <MEDICATION id="M11" start="3317" end="3323" text="plavix" time="after DCT" type1="thienopyridine" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC13" time="after DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M12" start="3756" end="3768" text="beta blocker" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M13" start="3756" end="3768" text="beta blocker" time="after DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC15" time="after DCT" type1="ARB" type2="">
+      <MEDICATION id="M14" start="3857" end="3860" text="ARB" time="after DCT" type1="ARB" type2="" comment=""/>
+      <MEDICATION id="M15" start="3857" end="3860" text="ARB" time="after DCT" type1="ARB" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC16" time="before DCT" type1="statin" type2="">
+      <MEDICATION id="M16" start="3849" end="3855" text="statin" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M17" start="3849" end="3855" text="statin" time="before DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC17" time="during DCT" type1="statin" type2="">
+      <MEDICATION id="M18" start="3849" end="3855" text="statin" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M19" start="3849" end="3855" text="statin" time="during DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC25" time="after DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M20" start="3875" end="3878" text="CCB" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M21" start="3875" end="3878" text="CCB" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC26" time="before DCT" type1="thienopyridine" type2="">
+      <MEDICATION id="M22" start="434" end="440" text="Plavix" time="before DCT" type1="thienopyridine" type2="" comment=""/>
+      <MEDICATION id="M23" start="4035" end="4041" text="plavix" time="before DCT" type1="thienopyridine" type2="" comment=""/>
+      <MEDICATION id="M24" start="3253" end="3259" text="plavix" time="before DCT" type1="thienopyridine" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC30" time="during DCT" type1="ARB" type2="">
+      <MEDICATION id="M25" start="3857" end="3860" text="ARB" time="during DCT" type1="ARB" type2="" comment=""/>
+      <MEDICATION id="M26" start="3857" end="3860" text="ARB" time="during DCT" type1="ARB" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC31" time="before DCT" type1="ARB" type2="">
+      <MEDICATION id="M27" start="3857" end="3860" text="ARB" time="before DCT" type1="ARB" type2="" comment=""/>
+      <MEDICATION id="M28" start="3857" end="3860" text="ARB" time="before DCT" type1="ARB" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC2" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="1134" end="1137" text="HTN" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="1194" end="1197" text="HTN" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H2" start="274" end="286" text="dyslipidemia" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC9" time="during DCT" indicator="high bp">
+      <HYPERTENSION id="H3" start="3038" end="3051" text="-BP: 155/60  " time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H4" start="3043" end="3051" text="155/60  " time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H5" start="3039" end="3049" text="BP: 155/60" time="during DCT" indicator="high bp" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC12" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H6" start="1134" end="1137" text="HTN" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H7" start="1194" end="1197" text="HTN" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H8" start="274" end="286" text="dyslipidemia" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC27" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H9" start="1134" end="1137" text="HTN" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H10" start="1194" end="1197" text="HTN" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H11" start="274" end="286" text="dyslipidemia" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <CAD id="DOC3" time="before DCT" indicator="symptom">
+      <CAD id="C0" start="367" end="369" text="CP" time="before DCT" indicator="symptom" comment=""/>
+      <CAD id="C1" start="354" end="370" text=" nauseau and CP," time="before DCT" indicator="symptom" comment=""/>
+      <CAD id="C2" start="367" end="369" text="CP" time="before DCT" indicator="symptom" comment=""/>
+    </CAD>
+    <CAD id="DOC6" time="before DCT" indicator="test">
+      <CAD id="C3" start="904" end="933" text=" 99% lesion in setting of ACS" time="before DCT" indicator="test" comment=""/>
+      <CAD id="C4" start="905" end="915" text="99% lesion" time="before DCT" indicator="test" comment=""/>
+    </CAD>
+    <CAD id="DOC18" time="after DCT" indicator="mention">
+      <CAD id="C5" start="256" end="263" text="h/o CAD" time="after DCT" indicator="mention" comment=""/>
+      <CAD id="C6" start="259" end="263" text=" CAD" time="after DCT" indicator="mention" comment=""/>
+      <CAD id="C7" start="260" end="263" text="CAD" time="after DCT" indicator="mention" comment=""/>
+    </CAD>
+    <CAD id="DOC20" time="during DCT" indicator="mention">
+      <CAD id="C8" start="256" end="263" text="h/o CAD" time="during DCT" indicator="mention" comment=""/>
+      <CAD id="C9" start="259" end="263" text=" CAD" time="during DCT" indicator="mention" comment=""/>
+      <CAD id="C10" start="260" end="263" text="CAD" time="during DCT" indicator="mention" comment=""/>
+    </CAD>
+    <CAD id="DOC23" time="before DCT" indicator="event">
+      <CAD id="C11" start="182" end="206" text="STEMI/BMS PCI to PLV/RCA" time="before DCT" indicator="event" comment=""/>
+      <CAD id="C12" start="881" end="900" text="s/p PCI of PDA 2089" time="before DCT" indicator="event" comment=""/>
+      <CAD id="C13" start="935" end="968" text="s/p PCI of 99% LAD lesion in 2090" time="before DCT" indicator="event" comment=""/>
+      <CAD id="C14" start="1044" end="1065" text=" Inferior STEMI 7/96 " time="before DCT" indicator="event" comment=""/>
+      <CAD id="C15" start="1106" end="1130" text=" BMS to PLV and mid RCA." time="before DCT" indicator="event" comment=""/>
+      <CAD id="C16" start="182" end="187" text="STEMI" time="before DCT" indicator="event" comment=""/>
+      <CAD id="C17" start="192" end="195" text="PCI" time="before DCT" indicator="event" comment=""/>
+      <CAD id="C18" start="172" end="187" text=" inferior STEMI" time="before DCT" indicator="event" comment=""/>
+    </CAD>
+    <CAD id="DOC29" time="before DCT" indicator="mention">
+      <CAD id="C19" start="256" end="263" text="h/o CAD" time="before DCT" indicator="mention" comment=""/>
+      <CAD id="C20" start="259" end="263" text=" CAD" time="before DCT" indicator="mention" comment=""/>
+      <CAD id="C21" start="260" end="263" text="CAD" time="before DCT" indicator="mention" comment=""/>
+    </CAD>
+    <FAMILY_HIST id="DOC28" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC21" status="never">
+      <SMOKER id="S0" start="2180" end="2190" text="not smoked" status="never" comment=""/>
+      <SMOKER id="S1" start="2175" end="2190" text=" has not smoked" status="never" comment=""/>
+      <SMOKER id="S2" start="2180" end="2190" text="not smoked" status="never" comment=""/>
+    </SMOKER>
+    <DIABETES id="DOC4" time="during DCT" indicator="mention">
+      <DIABETES id="D0" start="265" end="268" text="DM2" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D1" start="264" end="269" text=" DM2," time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D2" start="265" end="268" text="DM2" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC14" time="before DCT" indicator="mention">
+      <DIABETES id="D3" start="265" end="268" text="DM2" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D4" start="264" end="269" text=" DM2," time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D5" start="265" end="268" text="DM2" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC22" time="after DCT" indicator="mention">
+      <DIABETES id="D6" start="265" end="268" text="DM2" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D7" start="264" end="269" text=" DM2," time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D8" start="265" end="268" text="DM2" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+  </TAGS>
+</root>

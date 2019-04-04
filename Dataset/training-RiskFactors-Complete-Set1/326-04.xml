@@ -1,0 +1,178 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2087-03-04
+
+Renal Fellow
+
+ID/CC  30 year old with ESRD/HD with facial swelling 
+
+HPI:     This patient presented to the ED with a 1 day h/o facial swelling.  She also reports diffuse abdominal pain x several days; as well as chills at dialysis on Wednesday.  She   s attended all dialysis sessions recently for her full time; she has had two infiltrations that resulted in early removal from the HD machine, but she made up her time on other days.  She feels she has been becoming increasingly volume overloaded for the last 1-2 weeks; she has requested an additional (4th) HD session each week but her OP center has not been able to accommodate her. 
+
+The patient went to Internal Medicine this AM and had a brachicephalic stenosis dilated near the site of a prior stent.  
+
+Past Medical History    adapted from prior notes
+ESRD 2/2 MPGN Dx age 9 mos
+  -MWF at Educare-Pullman
+  -EDW 41.5   Typically gets 5 kg removed each HD session 
+   -Failed PD 2085
+  -multiple failed vascular accesses, current AVF placed by Dr. Schmitt 05/85
+      -Had Fistulogram 11/2086
+      -Maintained on coumadin 
+   -ruptured and infected L thigh graft
+   -s/p 2 failed LRRTx (2069, 2078), some issues of non-compliance
+   -H/o SVC stenosis s/p stenting procedure
+
+HTN
+S/p subtotal parathyroidectomy
+Seizure disorder, last seizure 08/80
+Anxiety disorder 
+H/o suicidal ideation
+
+Medications
+Prednisone 2.5 qAM, Nephrovites 1 qd, Protonix 40 qd, Dilantin 200 bid, Tegretol 625 bid, Atenolol 50 qd (non-hd days only), Nifedical 30 qd (non-hd days only), Paxil 10 qd, Doxepin 50 qhs, Plavix 75 qhs, Coumadin 5 qhs, Xanax, Phoslo 4 qac, Fosrenol 2 qac  
+
+Allergies
+Demerol - seizure; Penicillins - rash; Quinolones - seizure; Vancomycin And Derivatives - Red Man's Syndrome
+
+Social History
+Lives with mother in St. Paul 
+
+Family History 
+NC
+
+ROS   Pertinent positives in HPI.  Otherwise negative in detail. 
+  
+Physical Examination
+General:    Pleasant young woman, NAD, cushingoid in appearance with moderate facial swelling
+VSs:	     BP: 154/93   HR:95   Temp: 98.3  O2 Sat 98% RA  
+HEENT:    O/P moist.  Anicteric.  Conjunctivae non-injected.  
+Neck:        JVP = 9; multiple access scars on neck
+Chest:       Crackles 1/3 up 
+Cor:          S1, S2   tachy 
+Abdom:	    Min distended with min diffuse tenderness.  L and R IF scars. 
+Ext:	    Trace edema. LUE AVF +thrill 
+Neuro:	    Awake, alert, conversational. 
+                 Moves all 4's voluntarily without difficulty. 
+
+Labs
+Na 129  K  5   BUN 54  Cr 7.9  
+WBC 6.9  HCT 29.9  Plt 378
+INR 1.2
+
+CXR:      Patchy opacity at the medial right lung base which may be related
+	to atelectasis or pneumonia in the proper clinical setting.
+	There is a graft like material in the midline that is unchanged in the previous study 
+             and may represent an SVC stent.   
+
+ECG: ST @ 92  Axis    78  LAHB 
+
+Impression
+Facial swelling, r/o SVC syndrome
+  -It is unclear if the stenosis in the brachiocephalic vein explains the facial swelling. 
+  -D/w Dr. Asher, intervention nephrology: thrombosis of another vein not seen at fistulogram might explain symptoms 
+  -Infection may be contributing to presentation     she had chills at HD and low grade temp in ED
+Pulmonary Infiltrate
+ESRD/HD
+S/p two failed RTx
+Anemia 
+Seizure d/o 
+
+
+Recommendations
+IV Abx to cover abdomen, lung, possible intravascular infection
+  -Vancomycin 750 mg in HD
+  -Suggest Aztreonam or alternative in this PCN/Quinolone allergic patient 
+CT Angiogram
+Blood cultures - will send from HD 
+We will check full set of chemistries in HD
+She was not therapeutic on her coumadin and appears to need a higher dose 
+
+HD Plan     3-4-2087 
+We will confirm outpatient prescription with OP unit 
+   -Tentative Rx:  Opti 160 4 hours  2 K 2.5 Ca bath  UF TBD based on weight 
+  -Electrolytes:   K mildly elevated, typical for HD patient after weekend, HD will correct. 
+  -EDW/Volume:  Moderately volume overloaded in setting of venous stenosis of access/ plus 2 day weekend. 
+  -Anemia:  Continue OP EPO in the form of Aranesp. 
+  -Ca/PO4/PTH:   We will recheck PTH in HD.  Please continue Phoslo     Fosrenol with meals. 
+   -Access:  L AVF
+  -Nutrition: Continue Nephrocaps; 2 gm K+ Diet; 1500 cc fluid restriction
+
+
+______________________
+Urban J. Quinto, MD
+Renal Fellow
+#46140
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <HYPERTENSION id="DOC0" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="1264" end="1267" text="HTN" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="1264" end="1267" text="HTN" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H2" start="1264" end="1267" text="HTN" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC1" time="during DCT" indicator="high bp">
+      <HYPERTENSION id="H3" start="2030" end="2040" text="BP: 154/93" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H4" start="2030" end="2040" text="BP: 154/93" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H5" start="2034" end="2040" text="154/93" time="during DCT" indicator="high bp" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC2" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H6" start="1264" end="1267" text="HTN" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H7" start="1264" end="1267" text="HTN" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H8" start="1264" end="1267" text="HTN" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <MEDICATION id="DOC3" time="before DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M0" start="1479" end="1487" text="Atenolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M1" start="1479" end="1487" text="Atenolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M2" start="1478" end="1487" text=" Atenolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC4" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H9" start="1264" end="1267" text="HTN" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H10" start="1264" end="1267" text="HTN" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H11" start="1264" end="1267" text="HTN" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <MEDICATION id="DOC5" time="after DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M3" start="1479" end="1487" text="Atenolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M4" start="1479" end="1487" text="Atenolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M5" start="1478" end="1487" text=" Atenolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <SMOKER id="DOC6" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" status="unknown"/>
+      <SMOKER id="S2" start="1769" end="1783" text="Social History" status="unknown" comment=""/>
+    </SMOKER>
+    <MEDICATION id="DOC7" time="during DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M6" start="1479" end="1487" text="Atenolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M7" start="1479" end="1487" text="Atenolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M8" start="1478" end="1487" text=" Atenolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <FAMILY_HIST id="DOC8" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <PHI id="P0" start="16" end="26" text="2087-03-04" TYPE="DATE"/>
+    <PHI id="P1" start="49" end="51" text="30" TYPE="AGE"/>
+    <PHI id="P2" start="263" end="272" text="Wednesday" TYPE="DATE"/>
+    <PHI id="P3" start="689" end="706" text="Internal Medicine" TYPE="DEPARTMENT"/>
+    <PHI id="P4" start="862" end="867" text="9 mos" TYPE="AGE"/>
+    <PHI id="P5" start="878" end="893" text="Educare-Pullman" TYPE="HOSPITAL"/>
+    <PHI id="P6" start="967" end="971" text="2085" TYPE="DATE"/>
+    <PHI id="P7" start="1036" end="1043" text="Schmitt" TYPE="DOCTOR"/>
+    <PHI id="P8" start="1044" end="1049" text="05/85" TYPE="DATE"/>
+    <PHI id="P9" start="1073" end="1080" text="11/2086" TYPE="DATE"/>
+    <PHI id="P10" start="1176" end="1180" text="2069" TYPE="DATE"/>
+    <PHI id="P11" start="1182" end="1186" text="2078" TYPE="DATE"/>
+    <PHI id="P12" start="1330" end="1335" text="08/80" TYPE="DATE"/>
+    <PHI id="P13" start="1805" end="1813" text="St. Paul" TYPE="CITY"/>
+    <PHI id="P14" start="3002" end="3007" text="Asher" TYPE="DOCTOR"/>
+    <PHI id="P15" start="3643" end="3651" text="3-4-2087" TYPE="DATE"/>
+    <PHI id="P16" start="4252" end="4267" text="Urban J. Quinto" TYPE="DOCTOR"/>
+    <PHI id="P17" start="4286" end="4291" text="46140" TYPE="PHONE"/>
+  </TAGS>
+</root>

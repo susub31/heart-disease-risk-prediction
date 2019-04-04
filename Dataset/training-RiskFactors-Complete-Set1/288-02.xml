@@ -1,0 +1,197 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2066-01-20
+
+GRANITE COUNTY MEMORIAL
+Arthritis Department
+17 Weld St                             Bird, Terri
+Lisbon, SD  52797                             80910690
+659-5187                                      1-20-66
+ 
+ 
+ 
+Ms. Bird comes in today to follow up on her weight and blood sugar 
+control, as well as to discuss her overall mental status and its effects 
+on her living situation.
+ 
+PMH:  Her past medical history includes atrial fibrillation, status post 
+renal allograft, status post aortic and mitral valve replacements with a 
+mechanical valve, on chronic Coumadin, a recent aortic aneurysm repair 
+and complications around that, including a cellulitis which has been 
+treated, and now waxing and waning mental status.  She also is 
+insulin-dependent diabetic.  
+ 
+MEDICATIONS:  Her medications currently include:
+1.   Neurontin 300 t.i.d.
+2.   Insulin NPH 20 units in the morning, 10 in the evening.
+3.   Fosamax each day.
+4.   Premarin and Provera.
+5.   Tums Extra-Strength.
+6.   digoxin 0.25 and 0125.
+7.   Mevacor 40 a day.
+8.   Coumadin 1mg each day, except Sunday 2mg.
+9.   Imuran 100mg a day.
+10.  prednisone 20mg every other day.
+ 
+REVIEW OF SYSTEMS:  The patient notes that she has been feeling well and 
+more active.  She is able to walk around her house without her walker.  
+She does use the walker outside of the house for safety and precaution.  
+She is independent in bathing and washing, as well as cooking and 
+preparing meals.  She, however, is requiring a lot of assistance with 
+managing her medications.  She has her daughter-in-law downstairs help 
+her with this.  She has not been out of the house much in the last 
+several months, and, while she wants to drive, no-one has allowed her to 
+get behind the wheel.  
+ 
+The patient otherwise feels well with no chest pain, no shortness of 
+breath, no change in her bowel or bladder.
+ 
+HABITS:  She has had a weight which has been stable, and her appetite 
+has been good.
+ 
+PHYSICAL EXAMINATION:  Notable for a well-appearing female who walks 
+with a walker, slowly, but in no acute distress.  Her weight is 104 lbs.  
+Her blood pressure today is 130/72.  Her pulse is 80 and regular today.  
+She has no peripheral edema, and she is comfortable sitting in a chair.
+ 
+IMPRESSION:  My overall impression is that Ms. Bird is stable with 
+her current regimen and medications.  We have been manipulating her 
+GRANITE COUNTY MEMORIAL
+Arthritis Department
+32 Weld St                             Bird, Terri
+Lisbon, SD  52797                             80910690
+659-5187                                      1-20-66
+Page 2
+ 
+ 
+Coumadin to keep her INR between 2 and 3.5 and, most recently, it was 
+2.5, earlier this week.  She will continue on her current medications, 
+as noted above.  
+ 
+The bulk of the discussion was regarding her home situation and her 
+mental status.  She has clearly improved her mental status gradually 
+over the last several months.  She is anxious to drive.  However, 
+everyone in the family who is with her at the visit and her visiting 
+nurse agree that she is not mentally sound enough to be behind a wheel.  
+I explained this in no uncertain terms, and also set a milestone in 
+management of her own medications.  Hence, our three goals that we set 
+today were:
+1.   Management of the patient's own medications, which she was doing 
+     six months ago.
+2.   To get out of the house at least once a week, using either 
+     community transportation or a family member.
+3.   To be doing the family's laundry each week.
+ 
+While the patient was not happy about being told that she could not 
+drive, she understood the reasons and was satisfied with the goals that 
+we set.
+ 
+Hence, I will see her back in about six weeks and see how she is doing 
+with these goals.  As well, we will continue to have the visiting nurse 
+see her every other week to monitor her blood sugar and Coumadin.
+ 
+ 
+ 
+______________________________
+Steve George, M.D.                                                    
+ 
+ft:ZO:1640                                                               
+DD:1-20-66                                                              
+DT:1-21-66                                                              
+DV:1-20-66                                                              
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="before DCT" type1="statin" type2="">
+      <MEDICATION id="M0" start="1039" end="1047" text="Mevacor " time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M1" start="1039" end="1046" text="Mevacor" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M2" start="1039" end="1046" text="Mevacor" time="before DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC1" time="during DCT" type1="statin" type2="">
+      <MEDICATION id="M3" start="1039" end="1047" text="Mevacor " time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M4" start="1039" end="1046" text="Mevacor" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M5" start="1039" end="1046" text="Mevacor" time="during DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC2" time="after DCT" type1="insulin" type2="">
+      <MEDICATION id="M6" start="874" end="881" text="Insulin" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M7" start="873" end="894" text="Insulin NPH 20 units" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M8" start="873" end="885" text=" Insulin NPH" time="after DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC3" time="after DCT" type1="statin" type2="">
+      <MEDICATION id="M9" start="1039" end="1047" text="Mevacor " time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M10" start="1039" end="1046" text="Mevacor" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M11" start="1039" end="1046" text="Mevacor" time="after DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <DIABETES id="DOC4" time="before DCT" indicator="mention">
+      <DIABETES id="D0" start="762" end="788" text="insulin-dependent diabetic" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D1" start="762" end="789" text="insulin-dependent diabetic." time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D2" start="762" end="788" text="insulin-dependent diabetic" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC5" time="during DCT" indicator="mention">
+      <DIABETES id="D3" start="762" end="788" text="insulin-dependent diabetic" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D4" start="762" end="789" text="insulin-dependent diabetic." time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D5" start="762" end="788" text="insulin-dependent diabetic" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <MEDICATION id="DOC6" time="during DCT" type1="insulin" type2="">
+      <MEDICATION id="M12" start="874" end="881" text="Insulin" time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M13" start="873" end="894" text="Insulin NPH 20 units" time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M14" start="873" end="885" text=" Insulin NPH" time="during DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <FAMILY_HIST id="DOC7" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC8" status="unknown">
+      <SMOKER id="S0" start="3" end="10" text="Record " status="unknown" comment=""/>
+      <SMOKER id="S1" status="unknown"/>
+      <SMOKER id="S2" status="unknown"/>
+    </SMOKER>
+    <DIABETES id="DOC9" time="after DCT" indicator="mention">
+      <DIABETES id="D6" start="762" end="788" text="insulin-dependent diabetic" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D7" start="762" end="789" text="insulin-dependent diabetic." time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D8" start="762" end="788" text="insulin-dependent diabetic" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <MEDICATION id="DOC10" time="before DCT" type1="insulin" type2="">
+      <MEDICATION id="M15" start="874" end="881" text="Insulin" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M16" start="873" end="894" text="Insulin NPH 20 units" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M17" start="873" end="885" text=" Insulin NPH" time="before DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <PHI id="P0" start="16" end="26" text="2066-01-20" TYPE="DATE"/>
+    <PHI id="P1" start="28" end="51" text="GRANITE COUNTY MEMORIAL" TYPE="HOSPITAL"/>
+    <PHI id="P2" start="52" end="72" text="Arthritis Department" TYPE="DEPARTMENT"/>
+    <PHI id="P3" start="73" end="83" text="17 Weld St" TYPE="STREET"/>
+    <PHI id="P4" start="112" end="123" text="Bird, Terri" TYPE="PATIENT"/>
+    <PHI id="P5" start="124" end="130" text="Lisbon" TYPE="CITY"/>
+    <PHI id="P6" start="132" end="134" text="SD" TYPE="STATE"/>
+    <PHI id="P7" start="136" end="141" text="52797" TYPE="ZIP"/>
+    <PHI id="P8" start="170" end="178" text="80910690" TYPE="MEDICALRECORD"/>
+    <PHI id="P9" start="179" end="187" text="659-5187" TYPE="PHONE"/>
+    <PHI id="P10" start="225" end="232" text="1-20-66" TYPE="DATE"/>
+    <PHI id="P11" start="243" end="247" text="Bird" TYPE="PATIENT"/>
+    <PHI id="P12" start="1092" end="1098" text="Sunday" TYPE="DATE"/>
+    <PHI id="P13" start="2311" end="2315" text="Bird" TYPE="PATIENT"/>
+    <PHI id="P14" start="2401" end="2424" text="GRANITE COUNTY MEMORIAL" TYPE="HOSPITAL"/>
+    <PHI id="P15" start="2425" end="2445" text="Arthritis Department" TYPE="DEPARTMENT"/>
+    <PHI id="P16" start="2446" end="2456" text="32 Weld St" TYPE="STREET"/>
+    <PHI id="P17" start="2485" end="2496" text="Bird, Terri" TYPE="PATIENT"/>
+    <PHI id="P18" start="2497" end="2503" text="Lisbon" TYPE="CITY"/>
+    <PHI id="P19" start="2505" end="2507" text="SD" TYPE="STATE"/>
+    <PHI id="P20" start="2509" end="2514" text="52797" TYPE="ZIP"/>
+    <PHI id="P21" start="2543" end="2551" text="80910690" TYPE="MEDICALRECORD"/>
+    <PHI id="P22" start="2552" end="2560" text="659-5187" TYPE="PHONE"/>
+    <PHI id="P23" start="2598" end="2605" text="1-20-66" TYPE="DATE"/>
+    <PHI id="P24" start="3941" end="3953" text="Steve George" TYPE="DOCTOR"/>
+    <PHI id="P25" start="4014" end="4024" text="ft:ZO:1640" TYPE="IDNUM"/>
+    <PHI id="P26" start="4091" end="4098" text="1-20-66" TYPE="DATE"/>
+    <PHI id="P27" start="4164" end="4171" text="1-21-66" TYPE="DATE"/>
+    <PHI id="P28" start="4237" end="4244" text="1-20-66" TYPE="DATE"/>
+  </TAGS>
+</root>

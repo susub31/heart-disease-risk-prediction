@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2073-08-26
+
+Renal Associates
+
+
+
+8/26/3
+
+
+
+She has been discharged from SCH to home. Having difficulty with low BP on dialysis.
+
+Her BP was 80/40 at completion of HD yesterday by her report.
+
+Her BP is 150/80 today. She has not taken am meds.
+
+
+
+- decrease Procardia to 60mg non dialysis days
+
+- decrease ISDN to 10mg tid, hold pre dialysis.
+
+
+
+Follow up prn. HD on Mon at Souther Millway Hospital.
+
+
+
+
+
+Eddie Love MD.
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="during DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M0" start="272" end="281" text="Procardia" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M1" start="272" end="281" text="Procardia" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M2" start="272" end="281" text="Procardia" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC2" time="before DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M3" start="272" end="281" text="Procardia" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M4" start="272" end="281" text="Procardia" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC3" time="after DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M5" start="272" end="281" text="Procardia" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M6" start="272" end="281" text="Procardia" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC6" time="during DCT" type1="nitrate" type2="">
+      <MEDICATION id="M7" start="320" end="324" text="ISDN" time="during DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M8" start="320" end="324" text="ISDN" time="during DCT" type1="nitrate" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC1" time="during DCT" indicator="high bp">
+      <HYPERTENSION id="H0" start="217" end="223" text="150/80" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H1" start="216" end="224" text=" 150/80 " time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H2" start="210" end="223" text=" BP is 150/80" time="during DCT" indicator="high bp" comment=""/>
+    </HYPERTENSION>
+    <FAMILY_HIST id="DOC4" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC5" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" start="3" end="9" text="Record" status="unknown" comment=""/>
+      <SMOKER id="S2" status="unknown"/>
+    </SMOKER>
+  </TAGS>
+</root>

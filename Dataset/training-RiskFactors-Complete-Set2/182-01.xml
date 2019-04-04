@@ -1,0 +1,152 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2127-04-21
+
+NAMC - Central WV Clinic Internal Medicine                   Date:	April 21, 2127
+
+LOS ALAMOS, WEST VIRGINIA				Name:  	Daniel Doherty
+
+NAMC #:	767-02-38
+
+PROGRESS NOTE				            	DOB:		07-17-64
+
+
+
+
+
+
+
+HISTORY OF PRESENT ILLNESS:  This is a 62-year-old gentleman with past medical history significant schizophrenia/personality disorder, tonsillectomy, cholecystectomy, left arm fracture, chronic fatigue, mole, seborrheic dermatitis, pancreatitis, hyperlipidemia, who returns for a follow-up of Lipitor. He stopped taking this medicine five days ago when the prescription ran out.  He states that he did not understand that it could be refilled.  He denies chest pain, shortness of breath, nausea.  He noted no bloating or abdominal pain with his medication.
+
+
+
+REVIEW OF SYSTEMS:  Otherwise negative.
+
+
+
+PAST MEDICAL HISTORY:  As above.
+
+
+
+MEDICATIONS:  Prozac, Lisinopril 10 q.d., Zyprexa, aspirin.
+
+
+
+ALLERGIES:  No known drug allergies.
+
+
+
+HEALTH CARE MAINTENANCE:  Stool cards due.  Immunizations current.  
+
+
+
+PHYSICAL EXAM:  The patient is in no acute distress.  Blood pressure 124/88.  Weight is 237.  Pulse is 80 and regular.  Lungs: Clear to auscultation bilaterally without wheezes, rhonchi or rales.  Cardiac:  Regular rate and rhythm.
+
+
+
+ASSESSMENT AND PLAN:  
+
+
+
+(1)	The active issues today is hyperlipidemia.  Fasting cholesterol is to be drawn tomorrow as well as liver function tests; however, he has been off the medicine for five to seven days and it may be elevated.  I explained to him the importance of compliance with this medicine and I recommended that he continue taking it on a regular basis.  
+
+
+
+(2)	With regard to healthcare maintenance issues, he was given stool cards today and he will have a complete physical over the summer.  Immunizations are current.
+
+
+
+
+
+                               
+
+Robert D. Briggs, M.D.
+
+
+
+RDB/jorgenson/camp
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <HYPERLIPIDEMIA id="DOC7" time="before DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY0" start="481" end="495" text="hyperlipidemia" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY1" start="481" end="495" text="hyperlipidemia" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY2" start="1341" end="1355" text="hyperlipidemia" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY3" start="481" end="495" text="hyperlipidemia" time="before DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <HYPERLIPIDEMIA id="DOC8" time="after DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY4" start="481" end="495" text="hyperlipidemia" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY5" start="481" end="495" text="hyperlipidemia" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY6" start="1341" end="1355" text="hyperlipidemia" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY7" start="481" end="495" text="hyperlipidemia" time="after DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <HYPERLIPIDEMIA id="DOC13" time="during DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY8" start="481" end="495" text="hyperlipidemia" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY9" start="481" end="495" text="hyperlipidemia" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY10" start="1341" end="1355" text="hyperlipidemia" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY11" start="481" end="495" text="hyperlipidemia" time="during DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <MEDICATION id="DOC0" time="during DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M0" start="895" end="906" text=" Lisinopril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M1" start="896" end="906" text="Lisinopril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M2" start="896" end="906" text="Lisinopril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC1" time="before DCT" type1="statin" type2="">
+      <MEDICATION id="M3" start="528" end="535" text="Lipitor" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M4" start="528" end="535" text="Lipitor" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M5" start="528" end="535" text="Lipitor" time="before DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC2" time="during DCT" type1="statin" type2="">
+      <MEDICATION id="M6" start="528" end="535" text="Lipitor" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M7" start="528" end="535" text="Lipitor" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M8" start="528" end="535" text="Lipitor" time="during DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC3" time="during DCT" type1="aspirin" type2="">
+      <MEDICATION id="M9" start="925" end="932" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M10" start="925" end="932" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M11" start="925" end="932" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC4" time="after DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M12" start="895" end="906" text=" Lisinopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M13" start="896" end="906" text="Lisinopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M14" start="896" end="906" text="Lisinopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC5" time="after DCT" type1="statin" type2="">
+      <MEDICATION id="M15" start="528" end="535" text="Lipitor" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M16" start="528" end="535" text="Lipitor" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M17" start="528" end="535" text="Lipitor" time="after DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC6" time="before DCT" type1="aspirin" type2="">
+      <MEDICATION id="M18" start="925" end="932" text="aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M19" start="925" end="932" text="aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M20" start="925" end="932" text="aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC9" time="before DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M21" start="895" end="906" text=" Lisinopril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M22" start="896" end="906" text="Lisinopril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M23" start="896" end="906" text="Lisinopril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC10" time="after DCT" type1="aspirin" type2="">
+      <MEDICATION id="M24" start="925" end="932" text="aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M25" start="925" end="932" text="aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M26" start="925" end="932" text="aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <FAMILY_HIST id="DOC11" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC12" status="unknown">
+      <SMOKER id="S0" start="3" end="10" text="Record " status="unknown" comment=""/>
+      <SMOKER id="S1" status="unknown"/>
+      <SMOKER id="S2" status="unknown"/>
+    </SMOKER>
+  </TAGS>
+</root>

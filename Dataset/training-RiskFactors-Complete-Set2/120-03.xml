@@ -1,0 +1,132 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2075-04-06
+
+                     AGH EMERGENCY DEPT VISIT
+ 
+HARDY,TERESA   360-52-41-3                    VISIT DATE: 04/06/75
+The patient was seen by myself and Dr. Yong, Emergency Medicine 
+resident, on 4/06/75 at 2030. 
+PRESENTING COMPLAINT:   The patient is a 55 year-old female 
+complaining of chest pain, shortness of breath x 16 hours. 
+HISTORY OF PRESENT ILLNESS:  Patient has a past medical history of 
+increased cholesterol, hypertension, non-insulin dependent, long 
+history of non-compliance with medications.  Patient states over 
+the last 4 - 6 weeks she has had right shoulder pain.  Now 
+complaining of chest pressure that she describes as a weight on her 
+chest since 3 a.m. yesterday.  The patient also shortness of breath 
+on exertion.  She denies fever or chills, palpations, syncope, 
+abdominal pain, nausea or vomiting. 
+PAST MEDICAL/SURGICAL HISTORY:  Previous urinary tract infections, 
+hypertension, increased cholesterol, hyperglycemia. 
+MEDICATIONS:  Pain medications 
+ALLERGIES:  NO KNOWN DRUG ALLERGIES 
+PHYSICAL EXAMINATION:  GENERAL:  Well-developed, well-nourished 
+female, awake and alert.  VITAL SIGNS:  Temperature 96.3, pulse 84, 
+respirations 16, blood pressure 158/67, oxygen saturation 98%. 
+HEENT:  Normocephalic, atraumatic.  Pupils equal and react to 
+light.  NECK:  Supple.  LUNGS:  Clear.  HEART:  Regular rate and 
+rhythm.  ABDOMEN:  Soft.  Non-tender.  Positive bowel sounds. 
+EXTREMITIES:  2+ edema bilaterally. 
+TREATMENT RENDERED/COURSE IN ED:  The patient received aspirin and 
+sublingual Nitroglycerin and Lopressor.  Patient had chest x-ray 
+which showed mild vascular prominence, with no history of 
+infiltrate.   The patient had electrocardiogram showing normal 
+sinus rhythm.  ST flattening laterally. 
+CPK 393, MB 1.8, Troponin-I 0. 
+FINAL DIAGNOSIS:  Chest pain.  Cannot rule out ischemic etiology 
+DISPOSITION (including condition upon discharge):  Admit for rule 
+out myocardial infarction and further cardiac workup.  Condition is 
+satisfactory. 
+___________________________________                    MW631/33924 
+HARRIET XIA, M.D.       HX82                          D:04/06/75 
+                                                       T:04/07/75 
+Dictated by:  HARRIET XIA, M.D.       HX82 
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <HYPERLIPIDEMIA id="DOC1" time="before DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY0" start="428" end="450" text="increased cholesterol," time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY1" start="428" end="449" text="increased cholesterol" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY2" start="428" end="449" text="increased cholesterol" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY3" start="941" end="962" text="increased cholesterol" time="before DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <HYPERLIPIDEMIA id="DOC3" time="during DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY4" start="428" end="450" text="increased cholesterol," time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY5" start="428" end="449" text="increased cholesterol" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY6" start="428" end="449" text="increased cholesterol" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY7" start="941" end="962" text="increased cholesterol" time="during DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <HYPERLIPIDEMIA id="DOC10" time="after DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY8" start="428" end="450" text="increased cholesterol," time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY9" start="428" end="449" text="increased cholesterol" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY10" start="428" end="449" text="increased cholesterol" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY11" start="941" end="962" text="increased cholesterol" time="after DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <MEDICATION id="DOC4" time="during DCT" type1="nitrate" type2="">
+      <MEDICATION id="M0" start="1555" end="1568" text="Nitroglycerin" time="during DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M1" start="1555" end="1568" text="Nitroglycerin" time="during DCT" type1="nitrate" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC13" time="during DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M2" start="1573" end="1582" text="Lopressor" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M3" start="1573" end="1582" text="Lopressor" time="during DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC0" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="451" end="463" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="1200" end="1221" text="blood pressure 158/67" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H2" start="451" end="463" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H3" start="451" end="463" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H4" start="927" end="939" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC5" time="during DCT" indicator="high bp">
+      <HYPERTENSION id="H5" start="1215" end="1221" text="158/67" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H6" start="1200" end="1221" text="blood pressure 158/67" time="during DCT" indicator="high bp" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC6" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H7" start="451" end="463" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H8" start="1200" end="1221" text="blood pressure 158/67" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H9" start="451" end="463" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H10" start="451" end="463" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H11" start="927" end="939" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC12" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H12" start="451" end="463" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H13" start="1200" end="1221" text="blood pressure 158/67" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H14" start="451" end="463" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H15" start="451" end="463" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H16" start="927" end="939" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <FAMILY_HIST id="DOC9" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC7" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" start="3" end="9" text="Record" status="unknown" comment=""/>
+      <SMOKER id="S2" status="unknown"/>
+    </SMOKER>
+    <DIABETES id="DOC2" time="during DCT" indicator="mention">
+      <DIABETES id="D0" start="465" end="486" text="non-insulin dependent" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D1" start="465" end="486" text="non-insulin dependent" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D2" start="465" end="486" text="non-insulin dependent" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC8" time="before DCT" indicator="mention">
+      <DIABETES id="D3" start="465" end="486" text="non-insulin dependent" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D4" start="465" end="486" text="non-insulin dependent" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D5" start="465" end="486" text="non-insulin dependent" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC11" time="after DCT" indicator="mention">
+      <DIABETES id="D6" start="465" end="486" text="non-insulin dependent" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D7" start="465" end="486" text="non-insulin dependent" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D8" start="465" end="486" text="non-insulin dependent" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+  </TAGS>
+</root>

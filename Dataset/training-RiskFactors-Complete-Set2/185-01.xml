@@ -1,0 +1,318 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2150-09-07
+
+Franciscan Health Center
+
+Emergency Department Record
+
+
+
+Patient: CALDWELL, FRANK             MRN: 0028405        DOB:  8/12/2075     Sex: M
+
+Registration Date/Time: 9/07/2150 1:35:00 PM            Provider: TERESA  LAMB
+
+
+
+
+
+Time Patient Seen
+
+3:18p
+
+Chief Complaint
+
+UNABLE TO AMBULATE X 2 DAYS
+
+HPI
+
+75 male comes in complaining of severe pain in his left hip and thigh with difficulty w ambulate.  States the pain is so bad he is unable to walk.  He has a  history for prostate cancer with probable metastases to the lung .  Was seen by his PCP this week as well as by neurology he has been set up for an MRI for next Thursday but the pain is  much worse today, he comes here for evaluation.  He denies any bladder or bowel dysfunction he denies any trauma to his back or legs. has had 20 lb wt loss recently
+
+PMHx
+
+DM, elevated cholesterol, hypertension,
+
+PSurHx
+
+AAA repair, prostate cancer,  lung lobectomy, renal stones, cataract surgery
+
+
+
+Meds
+
+Lipitor, glyburide, lisinopril, aspirin
+
+Allergy
+
+None
+
+
+
+ROS
+
+Constitutional
+
+No major weight loss or gain, fatigue, fever, chills.
+
+Head/Eyes
+
+No visual changes, lesions, headaches
+
+ENT/Neck
+
+No hearing loss, tinnitus, vertigo, rhinorrhea, hoarseness, difficulty swallowing, oral lesions, stiffness
+
+Chest/Respiratory
+
+No coughing, wheezing, dyspnea
+
+Cardiovascular
+
+No chest pain, palpitations, PND, orthopnea
+
+Musculoskeletal/Extr/Back
+
+See HPI
+
+Skin
+
+No rashes, itching
+
+Neuro
+
+No paralysis, paraesthesias,
+
+
+
+Physical Exam
+
+General
+
+nad, alert oriented
+
+Constitutional
+
+SEE nursing notes
+
+Chest/Respiratory
+
+Clear to auscultation and percussion, no crackles, wheezes or rhonchi
+
+Cardiovascular
+
+Regular rate and rhythm, normal S1 & S2, no murmurs, gallops or rubs
+
+GI/Abdomen
+
+soft nontender
+
+Musculoskeletal
+
+Back exam- no tenderness,  able to do forward flexion to 90 DEG, lat flexion to 20 DEG, unable to heel toe walk on L leg, circulation/sensation  to legs intact, dtr's +2 thru out, SLR neg, unable to wt bear on L leg due to hip/thigh pain , 
+
+ 
+
+
+
+rectal exam nl tone and sensation - WILKES
+
+Skin
+
+No rash, no lesions of significance
+
+X-ray Interpretation
+
+hip, pelvis
+
+plain films L hip, femur, pelvis, LS spine - prelim read no fracture-WILKES
+
+Impression/Plan
+
+L leg pain - discussed with attending, hx and exam suggest radiculopathy. Pain controlled in the ER with morphine and ibuprofen. He reports he would not tolerate a closed MRI tonight even with suggestion. There are no red flags tonight for cauda equina and will discharge with pain medication and follow up with his schedule LS spine MRI in open machine on Thursday.-WILKES
+
+Consults
+
+Teresa Law
+
+
+
+ED Attending Physician Note
+
+HPI
+
+See NP note for full details. Briefly, this patient has history of back pain, L buttock and leg pain for which he has been scheduled for an outpt open MRI next week. The pain was worse in the last few days such that he has had difficulty walking due to pain. He does not have any weakness or numbness no loss of control of bowel or bladder. No fevers/chills. Has hx of prostate CA which certainly puts him at risk for spine mets.
+
+ROS
+
+otherwise neg
+
+Vitals
+
+See Nursing Notes
+
+PE
+
+See NP note for full exam.
+
+Neurologic exam: A & O x3, CN 2-12 intact, motor 5/5 all ext, sensation intact to light touch throughout, nl gait, normal finger-to-nose bilaterally, neg pronator drift. Pt reports that after having received pain medication he is now able to walk, whereas he wasn't earlier this evening when he first arrived because he was in too much pain.
+
+Medical Decision Making ED Course
+
+75M w/acute on chronic low back and left buttock pain, now improved after pain medication in the ED. The patient has no neurologic deficits at this time and is able to walk without assistance. Given the patient's history of prostate CA, he certainly needs further radiographic evaluation of his spine to evaluate for mets and should undergo MRI to assess for disc disease as well. Pt was offered MRI today, however he is certain he cannot tolerate a traditional closed MRI (he has tried before with medications). Given that the patient does not have any neurologic deficits, it is safe for him to be discharged home on an improved pain regimen with stool softeners as well and f/u with his already scheduled outpt open MRI next week. Pt and family understand to return if pt develops any neurologic symptoms.
+
+Condition on Discharge
+
+Stable
+
+Diagnoses
+
+Back pain
+
+Review Comments
+
+I have personally seen and examined the patient and confirmed the resident's examination, reviewed and agree with the resident's documentation of history, and discussed the evaluation, plan of care and disposition of the patient with the resident.
+
+
+
+This note has been electronically signed by TERESA  LAMB, MD 9/13/2150 7:30:19 PM
+
+
+
+Clinical staff documenting in the ED note include:
+
+
+
+Attending/Nurse Practitioners(s)
+
+
+
+TERESA  LAMB, MD
+
+BRIANNA  WILKES, NP
+
+VETRA  MOON, NP
+
+
+
+]]></TEXT>
+  <TAGS>
+    <HYPERLIPIDEMIA id="DOC8" time="during DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY0" start="851" end="873" text=" elevated cholesterol," time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY1" start="852" end="872" text="elevated cholesterol" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY2" start="852" end="872" text="elevated cholesterol" time="during DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <HYPERLIPIDEMIA id="DOC16" time="after DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY3" start="851" end="873" text=" elevated cholesterol," time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY4" start="852" end="872" text="elevated cholesterol" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY5" start="852" end="872" text="elevated cholesterol" time="after DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <HYPERLIPIDEMIA id="DOC18" time="before DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY6" start="851" end="873" text=" elevated cholesterol," time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY7" start="852" end="872" text="elevated cholesterol" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY8" start="852" end="872" text="elevated cholesterol" time="before DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <MEDICATION id="DOC0" time="during DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M0" start="1003" end="1013" text="lisinopril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M1" start="1003" end="1013" text="lisinopril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M2" start="1003" end="1014" text="lisinopril," time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC1" time="after DCT" type1="statin" type2="">
+      <MEDICATION id="M3" start="983" end="990" text="Lipitor" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M4" start="983" end="990" text="Lipitor" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M5" start="983" end="991" text="Lipitor," time="after DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC2" time="during DCT" type1="aspirin" type2="">
+      <MEDICATION id="M6" start="1015" end="1022" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M7" start="1015" end="1022" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M8" start="1015" end="1022" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC4" time="after DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M9" start="1003" end="1013" text="lisinopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M10" start="1003" end="1013" text="lisinopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M11" start="1003" end="1014" text="lisinopril," time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC5" time="before DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M12" start="1003" end="1013" text="lisinopril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M13" start="1003" end="1013" text="lisinopril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M14" start="1003" end="1014" text="lisinopril," time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC7" time="after DCT" type1="aspirin" type2="">
+      <MEDICATION id="M15" start="1015" end="1022" text="aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M16" start="1015" end="1022" text="aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M17" start="1015" end="1022" text="aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC9" time="after DCT" type1="sulfonylureas" type2="">
+      <MEDICATION id="M18" start="992" end="1001" text="glyburide" time="after DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M19" start="992" end="1001" text="glyburide" time="after DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M20" start="992" end="1002" text="glyburide," time="after DCT" type1="sulfonylureas" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC10" time="during DCT" type1="sulfonylureas" type2="">
+      <MEDICATION id="M21" start="992" end="1001" text="glyburide" time="during DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M22" start="992" end="1001" text="glyburide" time="during DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M23" start="992" end="1002" text="glyburide," time="during DCT" type1="sulfonylureas" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC14" time="before DCT" type1="statin" type2="">
+      <MEDICATION id="M24" start="983" end="990" text="Lipitor" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M25" start="983" end="990" text="Lipitor" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M26" start="983" end="991" text="Lipitor," time="before DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC15" time="during DCT" type1="statin" type2="">
+      <MEDICATION id="M27" start="983" end="990" text="Lipitor" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M28" start="983" end="990" text="Lipitor" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M29" start="983" end="991" text="Lipitor," time="during DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC17" time="before DCT" type1="aspirin" type2="">
+      <MEDICATION id="M30" start="1015" end="1022" text="aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M31" start="1015" end="1022" text="aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M32" start="1015" end="1022" text="aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC19" time="before DCT" type1="sulfonylureas" type2="">
+      <MEDICATION id="M33" start="992" end="1001" text="glyburide" time="before DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M34" start="992" end="1001" text="glyburide" time="before DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M35" start="992" end="1002" text="glyburide," time="before DCT" type1="sulfonylureas" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC3" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="874" end="886" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="874" end="886" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H2" start="874" end="886" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC11" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H3" start="874" end="886" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H4" start="874" end="886" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H5" start="874" end="886" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC20" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H6" start="874" end="886" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H7" start="874" end="886" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H8" start="874" end="886" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <FAMILY_HIST id="DOC21" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC12" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" status="unknown"/>
+      <SMOKER id="S2" start="3" end="10" text="Record " status="unknown" comment=""/>
+    </SMOKER>
+    <DIABETES id="DOC6" time="during DCT" indicator="mention">
+      <DIABETES id="D0" start="848" end="850" text="DM" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D1" start="848" end="850" text="DM" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D2" start="848" end="850" text="DM" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC13" time="before DCT" indicator="mention">
+      <DIABETES id="D3" start="848" end="850" text="DM" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D4" start="848" end="850" text="DM" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D5" start="848" end="850" text="DM" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC22" time="after DCT" indicator="mention">
+      <DIABETES id="D6" start="848" end="850" text="DM" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D7" start="848" end="850" text="DM" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D8" start="848" end="850" text="DM" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+  </TAGS>
+</root>

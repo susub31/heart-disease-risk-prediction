@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2089-11-30
+
+
+MRN: 48726886
+
+
+FORT WASHINGTON HOSPITAL
+
+November 30, 2089
+
+RE:	Francis, Lydia
+PAH#:	981-82-02
+
+Established patient: Sick visit.
+
+CHIEF COMPLAINT: Shoulder pain.  
+
+She presents with approximately one week of acute onset of 
+left shoulder and neck pain without trauma.  She has limited 
+abduction and adduction of the left shoulder.  She has pain 
+at the AC joint.  There is bony deformity from arthritis of 
+the shoulder.  She has no swelling and no heat on this 
+joint.  Sensorimotor and DTRs are intact.  Light touch is 
+intact to sensation.  Vascular is intact.  No paracervical 
+muscle pain in the neck, and pain with adduction, flexion, 
+extension, and rotation in the neck.  
+
+ASSESSMENT: Neck and shoulder pain, which is atraumatic.  ? 
+of osteoarthritis with flare v. inflammatory arthritis v. 
+cervical spine stenosis.
+
+PLAN: X-rays of the neck and shoulder, ibuprofen 800mg 
+t.i.d. with food, Percocet one to two q.4-6h p.r.n. pain, 
+Neurontin 200mg b.i.d., heat to the shoulder, and follow up 
+with Dr. Gonzalez of Orthopedics for evaluation. 
+
+
+
+Yonathan Turk, M.D.
+Fort Washington Hospital 
+
+cc:
+Ulysses Gonzalez, M.D.
+Department of Orthopedics
+Pan American Hospital 
+
+AC:FM:8558  /  DD:11-28-89  /  DT:12-2-89
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <FAMILY_HIST id="DOC0" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC1" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" start="3" end="10" text="Record " status="unknown" comment=""/>
+      <SMOKER id="S2" status="unknown"/>
+    </SMOKER>
+  </TAGS>
+</root>

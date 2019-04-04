@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2098-04-01
+
+
+
+Mr. Fredrick is a 48-year-old man status post right middle lobectomy on September 24, 2096, for T1N0 carcinoid.  He has had no complaints, since that time, and denies any stridor, wheezing, productive cough, shortness of breath, hemoptysis or fever.  He has gained several pounds, but is otherwise feeling well.
+
+On physical exam today, the patient appears quite well.  HEENT examination shows no JVD or thyromegaly.  He has no palpable cervical, supraclavicular or axillary adenopathy.  His blood pressure today is 130/88, with a regular heart rate and rhythm of 89.  S1 and S2 are within normal limits; and there is no murmur, rub or gallop.  His resting O2 saturation is 100% on room air, with a respiratory rate of 20 per minute.  His temperature is 98.6, and his weight is 232 pounds.  His chest is clear to auscultation and percussion, with good excursion and no change in tactile fremitus or egophony between the two hemithoraces.  Abdominal examination is benign.  I cannot appreciate any hepatosplenomegaly, and no other masses are identified.  He has no tenderness to palpation.  Extremities are without clubbing, cyanosis or edema.  His incisions are well-healed, and no nodules are appreciated.  
+
+The chest x-ray today is unchanged, with no evidence of new nodules, pleural effusion or pneumothorax.  His recent chest CT scan shows several stable parenchymal nodules and no evidence of recurrent lymphoma or carcinoid.
+
+In summary, I am pleased to find Mr. Fredrick well, without evidence of recurrence.  The plan is to see him for follow-up in four months.  
+
+Larry T. Jansen, M.D.
+
+LTJ:lowery
+
+
+Larry T. Jansen, M.D.
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <FAMILY_HIST id="DOC0" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC1" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" start="3" end="9" text="Record" status="unknown" comment=""/>
+      <SMOKER id="S2" status="unknown"/>
+    </SMOKER>
+  </TAGS>
+</root>

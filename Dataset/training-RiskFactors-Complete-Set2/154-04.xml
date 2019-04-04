@@ -1,0 +1,162 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2085-06-13
+
+EDVISIT^53718748^Johnson, Pepper^06/13/85^UMANA, BRUCE
+
+The patient was seen by me along with Dr. Abbott on 06/13/2085. 
+
+The history is documented by Dr. Abbott, was reviewed by me with
+
+the patient, found to be accurate and complete.  The physical
+
+exam was confirmed by my examination.  Evaluation and management
+
+was also concurred with.
+
+HISTORY OF PRESENT ILLNESS:  In brief, this is a 56-year-old male
+
+who enters with a history of after sitting playing a piano,
+
+developed shortness of breath, had decreased ability to breathe. 
+
+Says he had some diaphoresis this morning, dyspnea on exertion
+
+which he has noted that he has been having repeated exertional
+
+dyspnea over the past several days, worsening today when he had
+
+diaphoresis accompanying with no chest pain but felt confused and
+
+did not know where he is supposed to be going in the building until
+
+he was overhead paged to report to specific room, when he looked
+
+up 25 minutes had gone by and he was unaware of what had happened
+
+during that time.  He has had some mild upper respiratory tract
+
+infection about a week ago.  No nausea, no vomiting, no
+
+dizziness, no abdominal pain, and the patient states that he is
+
+feeling much better while he was being given some oxygen but just
+
+feels like he has no energy.  The patient had a cardiac
+
+catheterization in December of 2081 and had a luminal
+
+irregularities and 30% stenosis and echocardiogram revealed 55%
+
+ejection fraction.
+
+PAST MEDICAL HISTORY:  The patient has history of coronary
+
+disease, MI, and hypercholesterolemia.
+
+SOCIAL HISTORY:  Smoked in the past for 30 years.  He is a
+
+Senior Manager of Broadcasting by occupation.  Lives with his family.
+
+Review of systems, allergies, and medications are as documented
+
+in the chart.  Please see Dr. Abbott' notes for details.
+
+PHYSICAL EXAMINATION:  Awake, alert, well-developed,
+
+well-nourished male in mild distress.  Temperature 96.6, pulse
+
+100, respirations 20, blood pressure 164/86.  Lungs clear. 
+
+Cardiovascular:  Regular rate and rhythm.  Abdomen is flat,
+
+nondistended, bowel sounds normoactive, nontender, no pedal
+
+edema.
+
+LABORATORY DATA:  White count 7.9, electrolytes are normal,
+
+hematocrit 36.  CK was elevated at 657, troponin was negative. 
+
+The patient's D-dimer was 211 and an EKG showed T-wave inversions
+
+in aVL, V5 and V6 which ________ from previous chest x-ray was
+
+negative.
+
+DIAGNOSIS:  Acute coronary syndrome, rule out myocardial
+
+infarction.
+
+As such was admitted to Medicine on 06/13/2085.
+
+______________________________
+
+UMANA, BRUCE M.D.
+
+D: 06/13/85
+
+T: 06/13/85
+
+Dictated By: UMANA, BRUCE
+
+eScription document:9-2130535 BFFocus
+
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <HYPERLIPIDEMIA id="DOC3" time="before DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY0" start="1556" end="1576" text="hypercholesterolemia" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY1" start="1556" end="1576" text="hypercholesterolemia" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY2" start="1556" end="1576" text="hypercholesterolemia" time="before DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <HYPERLIPIDEMIA id="DOC4" time="after DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY3" start="1556" end="1576" text="hypercholesterolemia" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY4" start="1556" end="1576" text="hypercholesterolemia" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY5" start="1556" end="1576" text="hypercholesterolemia" time="after DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <HYPERLIPIDEMIA id="DOC8" time="during DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY6" start="1556" end="1576" text="hypercholesterolemia" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY7" start="1556" end="1576" text="hypercholesterolemia" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY8" start="1556" end="1576" text="hypercholesterolemia" time="during DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <HYPERTENSION id="DOC2" time="during DCT" indicator="high bp">
+      <HYPERTENSION id="H0" start="1973" end="1994" text="blood pressure 164/86" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H1" start="1988" end="1994" text="164/86" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H2" start="1988" end="1994" text="164/86" time="during DCT" indicator="high bp" comment=""/>
+    </HYPERTENSION>
+    <CAD id="DOC0" time="before DCT" indicator="mention">
+      <CAD id="C0" start="1529" end="1546" text="coronary  disease" time="before DCT" indicator="mention" comment=""/>
+      <CAD id="C1" start="1518" end="1546" text="history of coronary  disease" time="before DCT" indicator="mention" comment=""/>
+      <CAD id="C2" start="1529" end="1546" text="coronary  disease" time="before DCT" indicator="mention" comment=""/>
+    </CAD>
+    <CAD id="DOC1" time="before DCT" indicator="event">
+      <CAD id="C3" start="1548" end="1550" text="MI" time="before DCT" indicator="event" comment=""/>
+      <CAD id="C4" start="1548" end="1550" text="MI" time="before DCT" indicator="event" comment=""/>
+      <CAD id="C5" start="1548" end="1550" text="MI" time="before DCT" indicator="event" comment=""/>
+    </CAD>
+    <CAD id="DOC5" time="during DCT" indicator="mention">
+      <CAD id="C6" start="1529" end="1546" text="coronary  disease" time="during DCT" indicator="mention" comment=""/>
+      <CAD id="C7" start="1518" end="1546" text="history of coronary  disease" time="during DCT" indicator="mention" comment=""/>
+      <CAD id="C8" start="1529" end="1546" text="coronary  disease" time="during DCT" indicator="mention" comment=""/>
+    </CAD>
+    <CAD id="DOC7" time="after DCT" indicator="mention">
+      <CAD id="C9" start="1529" end="1546" text="coronary  disease" time="after DCT" indicator="mention" comment=""/>
+      <CAD id="C10" start="1518" end="1546" text="history of coronary  disease" time="after DCT" indicator="mention" comment=""/>
+      <CAD id="C11" start="1529" end="1546" text="coronary  disease" time="after DCT" indicator="mention" comment=""/>
+    </CAD>
+    <FAMILY_HIST id="DOC6" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+  </TAGS>
+</root>

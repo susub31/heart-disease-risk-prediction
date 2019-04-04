@@ -1,0 +1,297 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2097-03-25
+
+Patient Name: Whitaker, Vincent
+MRN: 29964344
+Admit Date: 3/25/97
+Today's Date: 3/25/97
+ESRD Attending: Dr. Nancy Gipson
+
+
+Renal Dialysis Fellow Note
+
+
+HPI: 65 yo M h/o HTN, DM, RAS, now ESRD on HD, recent admission in LH CCU 1/26-2/28/97 after presenting with PEA cardiac arrest, course c/b respiratory failure requiring trach and PEG, initiated on HD during that admission, d/c'ed to Homestead Hospital 2/28/97, transferred from HH for fevers (T to 102 on 3/22) and urine and blood cultures positive for gram negative rods for further management. Was given on 3/24/97 linezolid and levaquin, gentamicin at HD. RIJ catheter pulled prior to transfer. + c/o diarrhea for several days. No recent CP, SOB, nausea, vomiting. + productive cough, +back pain. Previous to January admission, patient had CKD stage 4 with Cr in 4s, developed oliguric renal failure and initiated on HD with no evidence of renal recovery. 
+
+
+MEDICAL HISTORY:
+
+ESRD on HD 
+s/p PEA arrest 1/26/97  
+Respiratory failure s/p trach 
+PEG 
+Right-sided RAS 
+HTN 
+CAD 
+DM 
+Anemia 
+HCV antibody +
+
+
+MEDICATIONS:
+Diltiazem 30mg qid
+Lopressor 25mg tid
+Insulin
+Linezolid 600mg bid (started 3/22/97)
+Levaquin 500mg qod (started 3/24/97)
+Phoslo 667mg ac meals
+Colace 100mg bid
+Heparin sq q8h
+Ranitidine 150mg qdaily
+Trazodone 25mg qdaily
+Coumadin
+Tylenol 650mg prn
+Nepro tube feeds
+
+
+ALLERGIES:  Statins - rhabdo, Reserpine - anemia, Nifedipine - swelling
+
+
+SOCIAL HISTORY: no alcohol, smoking, drugs. Currently at Homestead
+ 
+FAMILY HISTORY: non-contributory
+ 
+REVIEW OF SYSTEMS: pertinent positives in HPI. Systems otherwise negative in detail.
+
+
+PHYSICAL EXAM:
+
+Vitals: T 98.4  HR 118  BP164/82  
+General: comfortable, awake, able to answer questions appropriately
+HEENT: neck supple, + trach mask
+CV: Irregular rhythm, S1, S2
+Chest: CTAB
+Abd: +PEG, soft, non-tender
+Back: no CVA tenderness
+Ext: trace edema
+Access: LIJ tunneled HD catheter
+
+
+LABS:
+ Date/Time         NA             K              CL             CO2            03/25/2097        137            4.2             98             27             03/24/2097        138            3.8 (#)[1]     99             27             Date/Time         BUN            CRE            EGFR           GLU            03/25/2097        44 (*)          5.31 (*)       11 [2]         114            03/24/2097        34 (*#)        4.10 (*#)      15 [3]         131 (*)                Date/Time         CA             PHOS           MG             TBILI          03/25/2097        9.6            2.2 (*)        2.4                           03/24/2097        9.4            SEE DETAIL[4]  2.1 (#)[5]     0.4            Date/Time         TP             ALB            GLOB           03/24/2097        7.8            3.9            3.9            Date/Time         ALT/SGPT       AST/SGOT       ALKP           TBILI          03/24/2097        12             20             66             0.4            Date/Time         WBC            RBC            HGB            HCT            03/25/2097        9.08              3.59 (*)       10.7 (*)       32.7 (*)       03/24/2097        9.95              3.69 (*)       10.7 (*)       34.1 (*)       Date/Time         MCV            MCH            MCHC           PLT            03/25/2097        91.1             29.9             32.8           357            03/24/2097        92.3             28.9 (#)        31.3 (*)       350 (#)        
+                  Date/Time         PT             PT-INR         PTT            03/25/2097        18.0 (*)       1.4 (*)        30.1           03/24/2097        17.4 (*#)      1.4 (*)        29.1           CXR 3/24/97: no acute cardiopulmonary process
+ 
+Assessment/Recommendations: 65 year old M CAD s/p PEA arrest 1/97, now ESRD on HD, DM, respiratory failure s/p trach/PEG, admitted with gram negative bacteremia.
+ 
+1. Reason for admission: gram negative bacteremia, fevers
+-Follow up blood cultures
+-Call Homestead for speciation and sensitivities of blood cultures
+-Antibiotics for now: vanco, ceftaz, flagyl
+-Will check vancomycin level at end of HD tomorrow.
+-ID consult for assistance with appropriate antibiotic coverage
+-Check stool studies, urine culture
+ 
+2. ESRD on HD
+-Schedule TThS
+-Access: LIJ tunneled catheter
+-Will draw blood cultures through tunneled catheter tomorrow at HD-Renal indices currently stable
+ 
+3. Anemia: Epogen 2000 units with HD tomorrow. Will check iron studies
+ 
+4. Mineral metabolism: continue phoslo.
+-Will check PTH level tomorrow at HD
+ 
+5. Nutrition: continue nepro feeds
+ 
+ 
+Heidi Gunn, MD, Renal Fellow
+ 
+
+Renal Staff Addendum
+
+
+Pt seen and examined and history reviewed in detail.  Case discussed at length with Dr. Gunn and I agree with her note from today (above).  Will proceed with fever workup and will dialyze tomorrow.
+
+
+______________________
+Nancy N. Gipson, MD
+
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <HYPERTENSION id="DOC0" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="197" end="200" text="HTN" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="197" end="200" text="HTN" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H2" start="1051" end="1054" text="HTN" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H3" start="197" end="200" text="HTN" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H4" start="1051" end="1054" text="HTN" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <DIABETES id="DOC1" time="before DCT" indicator="mention">
+      <DIABETES id="D0" start="202" end="204" text="DM" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D1" start="202" end="204" text="DM" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D2" start="1061" end="1064" text="DM " time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D3" start="3753" end="3756" text="DM," time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D4" start="202" end="204" text="DM" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D5" start="1061" end="1063" text="DM" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D6" start="3753" end="3755" text="DM" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC2" time="during DCT" indicator="mention">
+      <DIABETES id="D7" start="202" end="204" text="DM" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D8" start="202" end="204" text="DM" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D9" start="1061" end="1064" text="DM " time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D10" start="3753" end="3756" text="DM," time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D11" start="202" end="204" text="DM" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D12" start="1061" end="1063" text="DM" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D13" start="3753" end="3755" text="DM" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <MEDICATION id="DOC3" time="during DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M0" start="1103" end="1112" text="Diltiazem" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M1" start="1103" end="1112" text="Diltiazem" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M2" start="1103" end="1112" text="Diltiazem" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC4" time="after DCT" type1="insulin" type2="">
+      <MEDICATION id="M3" start="1141" end="1148" text="Insulin" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M4" start="1141" end="1148" text="Insulin" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M5" start="1141" end="1148" text="Insulin" time="after DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC5" time="during DCT" indicator="high bp">
+      <HYPERTENSION id="H5" start="1675" end="1685" text="BP164/82  " time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H6" start="1677" end="1684" text="164/82 " time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H7" start="1675" end="1684" text="BP164/82 " time="during DCT" indicator="high bp" comment=""/>
+    </HYPERTENSION>
+    <MEDICATION id="DOC6" time="before DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M6" start="1103" end="1112" text="Diltiazem" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M7" start="1103" end="1112" text="Diltiazem" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M8" start="1103" end="1112" text="Diltiazem" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC7" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H8" start="197" end="200" text="HTN" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H9" start="197" end="200" text="HTN" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H10" start="1051" end="1054" text="HTN" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H11" start="197" end="200" text="HTN" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H12" start="1051" end="1054" text="HTN" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <MEDICATION id="DOC8" time="after DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M9" start="1122" end="1131" text="Lopressor" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M10" start="1122" end="1131" text="Lopressor" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M11" start="1122" end="1131" text="Lopressor" time="after DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <CAD id="DOC9" time="after DCT" indicator="mention">
+      <CAD id="C0" start="1056" end="1060" text="CAD " time="after DCT" indicator="mention" comment=""/>
+      <CAD id="C1" start="1056" end="1060" text="CAD " time="after DCT" indicator="mention" comment=""/>
+      <CAD id="C2" start="3712" end="3715" text="CAD" time="after DCT" indicator="mention" comment=""/>
+      <CAD id="C3" start="1056" end="1059" text="CAD" time="after DCT" indicator="mention" comment=""/>
+      <CAD id="C4" start="3712" end="3715" text="CAD" time="after DCT" indicator="mention" comment=""/>
+    </CAD>
+    <FAMILY_HIST id="DOC10" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <CAD id="DOC11" time="during DCT" indicator="mention">
+      <CAD id="C5" start="1056" end="1060" text="CAD " time="during DCT" indicator="mention" comment=""/>
+      <CAD id="C6" start="1056" end="1060" text="CAD " time="during DCT" indicator="mention" comment=""/>
+      <CAD id="C7" start="3712" end="3715" text="CAD" time="during DCT" indicator="mention" comment=""/>
+      <CAD id="C8" start="1056" end="1059" text="CAD" time="during DCT" indicator="mention" comment=""/>
+      <CAD id="C9" start="3712" end="3715" text="CAD" time="during DCT" indicator="mention" comment=""/>
+    </CAD>
+    <SMOKER id="DOC12" status="never">
+      <SMOKER id="S0" start="1459" end="1479" text=" no alcohol, smoking" status="never" comment=""/>
+      <SMOKER id="S1" start="1460" end="1479" text="no alcohol, smoking" status="never" comment=""/>
+      <SMOKER id="S2" start="1460" end="1479" text="no alcohol, smoking" status="never" comment=""/>
+    </SMOKER>
+    <DIABETES id="DOC13" time="after DCT" indicator="mention">
+      <DIABETES id="D14" start="202" end="204" text="DM" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D15" start="202" end="204" text="DM" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D16" start="1061" end="1064" text="DM " time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D17" start="3753" end="3756" text="DM," time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D18" start="202" end="204" text="DM" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D19" start="1061" end="1063" text="DM" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D20" start="3753" end="3755" text="DM" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <MEDICATION id="DOC14" time="before DCT" type1="insulin" type2="">
+      <MEDICATION id="M12" start="1141" end="1148" text="Insulin" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M13" start="1141" end="1148" text="Insulin" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M14" start="1141" end="1148" text="Insulin" time="before DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <CAD id="DOC15" time="before DCT" indicator="event">
+      <CAD id="C10" start="293" end="307" text="cardiac arrest" time="before DCT" indicator="event" comment=""/>
+      <CAD id="C11" start="289" end="307" text="PEA cardiac arrest" time="before DCT" indicator="event" comment=""/>
+      <CAD id="C12" start="973" end="996" text="s/p PEA arrest 1/26/97 " time="before DCT" indicator="event" comment=""/>
+      <CAD id="C13" start="3716" end="3730" text="s/p PEA arrest" time="before DCT" indicator="event" comment=""/>
+    </CAD>
+    <MEDICATION id="DOC16" time="after DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M15" start="1103" end="1112" text="Diltiazem" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M16" start="1103" end="1112" text="Diltiazem" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M17" start="1103" end="1112" text="Diltiazem" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC17" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H13" start="197" end="200" text="HTN" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H14" start="197" end="200" text="HTN" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H15" start="1051" end="1054" text="HTN" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H16" start="197" end="200" text="HTN" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H17" start="1051" end="1054" text="HTN" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <MEDICATION id="DOC18" time="during DCT" type1="insulin" type2="">
+      <MEDICATION id="M18" start="1141" end="1148" text="Insulin" time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M19" start="1141" end="1148" text="Insulin" time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M20" start="1141" end="1148" text="Insulin" time="during DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC19" time="before DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M21" start="1122" end="1131" text="Lopressor" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M22" start="1122" end="1131" text="Lopressor" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M23" start="1122" end="1131" text="Lopressor" time="before DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC20" time="during DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M24" start="1122" end="1131" text="Lopressor" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M25" start="1122" end="1131" text="Lopressor" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M26" start="1122" end="1131" text="Lopressor" time="during DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <CAD id="DOC21" time="before DCT" indicator="mention">
+      <CAD id="C14" start="1056" end="1060" text="CAD " time="before DCT" indicator="mention" comment=""/>
+      <CAD id="C15" start="1056" end="1060" text="CAD " time="before DCT" indicator="mention" comment=""/>
+      <CAD id="C16" start="3712" end="3715" text="CAD" time="before DCT" indicator="mention" comment=""/>
+      <CAD id="C17" start="1056" end="1059" text="CAD" time="before DCT" indicator="mention" comment=""/>
+      <CAD id="C18" start="3712" end="3715" text="CAD" time="before DCT" indicator="mention" comment=""/>
+    </CAD>
+    <PHI id="P0" start="16" end="26" text="2097-03-25" TYPE="DATE"/>
+    <PHI id="P1" start="42" end="59" text="Whitaker, Vincent" TYPE="PATIENT"/>
+    <PHI id="P2" start="65" end="73" text="29964344" TYPE="MEDICALRECORD"/>
+    <PHI id="P3" start="86" end="93" text="3/25/97" TYPE="DATE"/>
+    <PHI id="P4" start="108" end="115" text="3/25/97" TYPE="DATE"/>
+    <PHI id="P5" start="136" end="148" text="Nancy Gipson" TYPE="DOCTOR"/>
+    <PHI id="P6" start="185" end="187" text="65" TYPE="AGE"/>
+    <PHI id="P7" start="247" end="249" text="LH" TYPE="HOSPITAL"/>
+    <PHI id="P8" start="254" end="258" text="1/26" TYPE="DATE"/>
+    <PHI id="P9" start="259" end="266" text="2/28/97" TYPE="DATE"/>
+    <PHI id="P10" start="414" end="432" text="Homestead Hospital" TYPE="HOSPITAL"/>
+    <PHI id="P11" start="433" end="440" text="2/28/97" TYPE="DATE"/>
+    <PHI id="P12" start="459" end="461" text="HH" TYPE="HOSPITAL"/>
+    <PHI id="P13" start="486" end="490" text="3/22" TYPE="DATE"/>
+    <PHI id="P14" start="590" end="597" text="3/24/97" TYPE="DATE"/>
+    <PHI id="P15" start="793" end="800" text="January" TYPE="DATE"/>
+    <PHI id="P16" start="988" end="995" text="1/26/97" TYPE="DATE"/>
+    <PHI id="P17" start="1178" end="1185" text="3/22/97" TYPE="DATE"/>
+    <PHI id="P18" start="1215" end="1222" text="3/24/97" TYPE="DATE"/>
+    <PHI id="P19" start="1501" end="1510" text="Homestead" TYPE="HOSPITAL"/>
+    <PHI id="P20" start="2017" end="2027" text="03/25/2097" TYPE="DATE"/>
+    <PHI id="P21" start="2096" end="2106" text="03/24/2097" TYPE="DATE"/>
+    <PHI id="P22" start="2252" end="2262" text="03/25/2097" TYPE="DATE"/>
+    <PHI id="P23" start="2331" end="2341" text="03/24/2097" TYPE="DATE"/>
+    <PHI id="P24" start="2495" end="2505" text="03/25/2097" TYPE="DATE"/>
+    <PHI id="P25" start="2573" end="2583" text="03/24/2097" TYPE="DATE"/>
+    <PHI id="P26" start="2714" end="2724" text="03/24/2097" TYPE="DATE"/>
+    <PHI id="P27" start="2855" end="2865" text="03/24/2097" TYPE="DATE"/>
+    <PHI id="P28" start="3011" end="3021" text="03/25/2097" TYPE="DATE"/>
+    <PHI id="P29" start="3092" end="3102" text="03/24/2097" TYPE="DATE"/>
+    <PHI id="P30" start="3251" end="3261" text="03/25/2097" TYPE="DATE"/>
+    <PHI id="P31" start="3333" end="3343" text="03/24/2097" TYPE="DATE"/>
+    <PHI id="P32" start="3496" end="3506" text="03/25/2097" TYPE="DATE"/>
+    <PHI id="P33" start="3559" end="3569" text="03/24/2097" TYPE="DATE"/>
+    <PHI id="P34" start="3626" end="3633" text="3/24/97" TYPE="DATE"/>
+    <PHI id="P35" start="3698" end="3700" text="65" TYPE="AGE"/>
+    <PHI id="P36" start="3731" end="3735" text="1/97" TYPE="DATE"/>
+    <PHI id="P37" start="3924" end="3933" text="Homestead" TYPE="HOSPITAL"/>
+    <PHI id="P38" start="4534" end="4544" text="Heidi Gunn" TYPE="DOCTOR"/>
+    <PHI id="P39" start="4677" end="4681" text="Gunn" TYPE="DOCTOR"/>
+    <PHI id="P40" start="4812" end="4827" text="Nancy N. Gipson" TYPE="DOCTOR"/>
+  </TAGS>
+</root>

@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2085-11-11
+
+Ocampo, Nathan-Oliver
+805-31-35-9
+11/11/85
+ 
+ 
+ 
+Mr. Ocampo returns for follow up.  He is doing well in general. 
+His review of systems is completely negative.  He is interested in
+a flu shot and in a pneumonia vaccination.  
+ 
+EXAM:  He has a blood pressure of 150/80 today. His chest is clear. 
+His heart shows no murmurs.  His abdominal exam is benign.
+ 
+I am going to adjust his medicines and try him on Leschol 20 mg po
+qd and Lisinopril 20 mg po qd and have him come back before
+12/22.  I will check labs then.
+ 
+ 
+Kenneth X. Sylvester, M.D.
+ 
+DD: 11/11/85
+DT: 11/19/85
+DV: 11/11/85
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="after DCT" type1="statin" type2="">
+      <MEDICATION id="M0" start="425" end="443" text="try him on Leschol" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M1" start="436" end="443" text="Leschol" time="after DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC2" time="after DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M2" start="460" end="470" text="Lisinopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M3" start="456" end="471" text="and Lisinopril " time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M4" start="460" end="470" text="Lisinopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC1" time="during DCT" indicator="high bp">
+      <HYPERTENSION id="H0" start="272" end="296" text="blood pressure of 150/80" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H1" start="290" end="296" text="150/80" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H2" start="290" end="297" text="150/80 " time="during DCT" indicator="high bp" comment=""/>
+    </HYPERTENSION>
+    <FAMILY_HIST id="DOC3" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC4" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" status="unknown"/>
+      <SMOKER id="S2" start="3" end="9" text="Record" status="unknown" comment=""/>
+    </SMOKER>
+  </TAGS>
+</root>

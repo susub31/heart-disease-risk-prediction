@@ -1,0 +1,124 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2075-01-31
+
+PMH INTERNAL MEDICINE ASSOCIATES          Westyn-Nuel, Kelli
+                                              89897856
+                                              1-31-75
+                                              
+                                              
+ 
+HPI:  Patient is a 59-year old who has a history or active issues 
+significant for hypertension first diagnosed on visit of 10-74.  She is 
+currently maintained on furosemide 20 mg. PO q.d., nifedipine XL 90 mg. PO 
+q.d., and potassium chloride 10 ml. equivalents PO q.d.  Patient comes in 
+today for a routine follow up of her blood pressure, as well as routine 
+baseline examinations.  On her last visit, her blood pressure was 160/90, 
+and on check today it was 150/90.  We discussed the possibility that she 
+continue her salt-restricted diet.  We also discussed that she continue 
+her own exercise, both of which she does faithfully, and we also discussed 
+the possibility of her trying to gradually lose weight.  She currently 
+weighs 199 lbs. and stands approximately 4'9" tall.  
+ 
+As far as long-term prognosis, my current plan is to evaluate her blood 
+pressure on another subsequent visit in the next 6-8 weeks and at that 
+time if it is elevated, we will consider either going up on her nifedipine 
+XL dose or going up on her furosemide medicine, seeing if we can possibly 
+gain some better control or possibly adding another agent.  However, at 
+this point she seems to be doing much better with this new blood pressure 
+and this is significant improvement maintenance from her previous blood 
+pressure on her first admission, which was systolic blood pressures in the 
+200s-190s.
+ 
+ 
+Her family situation which was somewhat unstable at her first presentation 
+now appears to be much more stable.  She is currently living with her 
+mother and she says that she she is enjoying her new sense of feeling good 
+about her self with regard to exercise and maintenance of her diet.  
+ 
+PHYSICAL EXAM:  BP: 150/90   Lungs: clear bilaterally.  Heart: RRR, no 
+murmurs.  Abdomen: distended, obese, no evidence of HSM or any focal 
+tenderness.  She had good pulses distally with no evidence of trace 
+swelling bilaterally at the ankles.   Breast exam: no evidence of masses 
+or lumps.
+ 
+She will follow up with me in 6-8 weeks, at which time she will have a 
+mammogram performed as well as a Pap smear, cholesterol test, and stool 
+guaiacs.  Advance directives were not discussed and it is not a pertinent 
+issue at this point. 
+ 
+ 
+_________________________
+Quinton Lovett, M.D.
+ 
+EF:AW:0810
+DD:1-31-75
+DT:2-01-75
+DV:1-31-75
+ ******** Approved but not reviewed by Attending Provider ********
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <OBESE id="DOC4" time="during DCT" indicator="mention">
+      <OBESE id="O0" start="2089" end="2094" text="obese" time="during DCT" indicator="mention" comment=""/>
+      <OBESE id="O1" start="2089" end="2094" text="obese" time="during DCT" indicator="mention" comment=""/>
+    </OBESE>
+    <MEDICATION id="DOC0" time="during DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M0" start="484" end="498" text=" nifedipine XL" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M1" start="485" end="495" text="nifedipine" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M2" start="485" end="498" text="nifedipine XL" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC3" time="before DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M3" start="484" end="498" text=" nifedipine XL" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M4" start="485" end="495" text="nifedipine" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M5" start="485" end="498" text="nifedipine XL" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC6" time="after DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M6" start="484" end="498" text=" nifedipine XL" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M7" start="485" end="495" text="nifedipine" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M8" start="485" end="498" text="nifedipine XL" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC1" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="377" end="389" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="377" end="389" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H2" start="377" end="389" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC2" time="during DCT" indicator="high bp">
+      <HYPERTENSION id="H3" start="759" end="765" text="150/90" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H4" start="759" end="765" text="150/90" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H5" start="759" end="765" text="150/90" time="during DCT" indicator="high bp" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC5" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H6" start="377" end="389" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H7" start="377" end="389" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H8" start="377" end="389" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC7" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H9" start="377" end="389" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H10" start="377" end="389" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H11" start="377" end="389" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC10" time="before DCT" indicator="high bp">
+      <HYPERTENSION id="H12" start="724" end="730" text="160/90" time="before DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H13" start="1677" end="1685" text="200s-190" time="before DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H14" start="724" end="730" text="160/90" time="before DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H15" start="724" end="730" text="160/90" time="before DCT" indicator="high bp" comment=""/>
+    </HYPERTENSION>
+    <FAMILY_HIST id="DOC8" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC9" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" start="3" end="9" text="Record" status="unknown" comment=""/>
+      <SMOKER id="S2" status="unknown"/>
+    </SMOKER>
+  </TAGS>
+</root>

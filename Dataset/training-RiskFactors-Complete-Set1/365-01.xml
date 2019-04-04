@@ -1,0 +1,132 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2066-02-07
+
+                     KCM EMERGENCY DEPT VISIT
+
+ 
+
+RIVERS,KARSTEN   957-18-08-4                    VISIT DATE: 02/07/66
+
+The patient was seen and examined by me.
+
+HISTORY OF PRESENTING COMPLAINT:  This is a 39-year-old man with a 
+
+history of hypertension and diabetes, whose social history is 
+
+unremarkable, who has a negative review of systems, and who has no 
+
+history of any surgical procedures.  He presents with a burn on the 
+
+right side of the neck.  He presents to the emergency department 
+
+with a minor amount of redness on the right side of the neck and 
+
+minor soft tissue swelling.  The trachea is midline.  The uvula is 
+
+midline.  There is no airway compromise.  There are no airway 
+
+complaints.
+
+PHYSICAL EXAMINATION:  No voice change.  The airway is patent and 
+
+intact.  The lungs are clear, with no wheezes.  The examination 
+
+shows a first-degree burn of the right side of the neck, with no 
+
+blistering and no breakage of the skin.
+
+THERAPY RENDERED/COURSE IN ED:  The patient received a tetanus shot 
+
+and was seen by the Burn Service.  He was dressed with Bacitracin 
+
+and discharged home.  He was to follow up in 48 hours just for a 
+
+recheck.  The Burn Service essentially signed off on him, with no 
+
+need for follow-up, but given this was his neck and only 
+
+first-degree, I asked him to return here for follow-up.
+
+FINAL DIAGNOSIS:  First-degree burn of the right side of the neck.
+
+DISPOSITION (including condition upon discharge):  He is discharged 
+
+with Bacitracin ointment and analgesics, and is to follow up in 48 
+
+hours.  The patient's condition on discharge is stable.  
+
+___________________________________                    RO904/06747 
+
+XAVIER ODONNELL, M.D.       XO71                           D:02/07/66 
+
+                                                       T:02/07/66 
+
+Dictated by:  XAVIER ODONNELL, M.D.       XO71 
+
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <DIABETES id="DOC0" time="after DCT" indicator="mention">
+      <DIABETES id="D0" start="287" end="295" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D1" start="287" end="295" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D2" start="287" end="295" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <HYPERTENSION id="DOC1" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="270" end="282" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="270" end="282" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H2" start="270" end="282" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC2" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H3" start="270" end="282" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H4" start="270" end="282" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H5" start="270" end="282" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <DIABETES id="DOC3" time="during DCT" indicator="mention">
+      <DIABETES id="D3" start="287" end="295" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D4" start="287" end="295" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D5" start="287" end="295" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <HYPERTENSION id="DOC4" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H6" start="270" end="282" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H7" start="270" end="282" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H8" start="270" end="282" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <FAMILY_HIST id="DOC5" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC6" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" status="unknown"/>
+      <SMOKER id="S2" start="148" end="151" text="The" status="unknown" comment=""/>
+    </SMOKER>
+    <DIABETES id="DOC7" time="before DCT" indicator="mention">
+      <DIABETES id="D6" start="287" end="295" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D7" start="287" end="295" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D8" start="287" end="295" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <PHI id="P0" start="16" end="26" text="2066-02-07" TYPE="DATE"/>
+    <PHI id="P1" start="49" end="52" text="KCM" TYPE="HOSPITAL"/>
+    <PHI id="P2" start="78" end="92" text="RIVERS,KARSTEN" TYPE="PATIENT"/>
+    <PHI id="P3" start="95" end="106" text="957-18-08-4" TYPE="MEDICALRECORD"/>
+    <PHI id="P4" start="138" end="146" text="02/07/66" TYPE="DATE"/>
+    <PHI id="P5" start="234" end="236" text="39" TYPE="AGE"/>
+    <PHI id="P6" start="1694" end="1705" text="RO904/06747" TYPE="IDNUM"/>
+    <PHI id="P7" start="1708" end="1723" text="XAVIER ODONNELL" TYPE="DOCTOR"/>
+    <PHI id="P8" start="1736" end="1740" text="XO71" TYPE="USERNAME"/>
+    <PHI id="P9" start="1769" end="1777" text="02/07/66" TYPE="DATE"/>
+    <PHI id="P10" start="1837" end="1845" text="02/07/66" TYPE="DATE"/>
+    <PHI id="P11" start="1862" end="1877" text="XAVIER ODONNELL" TYPE="DOCTOR"/>
+    <PHI id="P12" start="1890" end="1894" text="XO71" TYPE="USERNAME"/>
+  </TAGS>
+</root>

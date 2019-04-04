@@ -1,0 +1,270 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2087-03-22
+
+
+Internal Medicine
+
+
+Reason for visit
+Diarrhea
+Fever
+Chest pain
+Fatigue
+
+
+History of present illness  
+The patient is here complaining of several days history of diarrhea with mild nausea, mild fever and retrosternal chest discomfort. That is intermittent mild and 
+insiduous. The pain is not triggered by exercise or physical activity or position. She has been feeling weak.
+
+
+Medical history  
+Coronary vasospastic events 
+
+Glucose intolerance + postprandial hyperglycemia
+Hyperlipidemia
+Hypertension
+Postmenopausal
+Cervical osteoarthritis DDD
+Microscopic hematuria with negative work up
+Hypovitaminosis D
+Obesity - now loosing weight
+
+
+Current meds
+
+
+Amlodipine                 5 mg qd 
+Metoprolol XL             50 mg qd
+Valsartan                160 mg qd       -combined
+Hydrochlorothiazide       25 mg qd       -combined
+Atorvastatin              20 mg qd
+Aspirin                   81 mg qd
+Metformin                500 mg bid
+
+
+Review of systems
+Denies abdominal pain, vomiting, dyspnea
+
+
+Family and social history
+Place of birth        GambiaHome residence        JaffreyMarital status        MarriedHousehold members     HusbandOccupation            Composer
+
+
+
+Mother       A       dementia 
+Father       A       diabetes
+Brothers     0 
+Sisters      1 
+Spouse       A 
+Children     2 
+
+
+Cancer       0 
+Diabetes     +       F 
+             +       M
+CV Disease   0   
+Stroke       0   
+
+
+Labs and images
+Reviewed
+
+
+Exam
+Vitals 110/72  96  16  98.0
+HEENT eomi, conjunctiva pink, ears clear, nasal mucosa pink, no mucus, no sinus tenderness, no post nasal drip.
+Neck is supple, no JVD, no thyroid imprint, no submandibular nodes.
+Thorax expands symmetrically, clear to auscultation bilaterally. Pain reproduced on chest palpation.
+Cardiovascular S1 and S2 with regular rhythm and rate. No murmurs.
+Abdomen is soft, non tender, no palpable masses or organomegaly. Increased bowel sounds.
+Extremities are symmetrical with no edema.
+Neurological exam is grossly non focal.
+
+
+Assessment and plan
+
+
+
+
+Chest discomfort. The patient's history and exam do not suggest cardiovascular origin but pain originated in the chest wall, musculoskeletal in origin. She had an ECG in my office that was unchanged from previous ones, there were no ST-TW abnormalities, no extrasystoles or any other abnormality. She was reassured. For musculoskeletal pain I have recommended stretching exercises, and low dose diazepam for muscle contracture. She will avoid NSAID due to GI symptoms.
+
+Abdominal discomfort with diarrhea. The patient will follow a CHO diet and will avoid dairy products and other substances with low-absorption high-residue. In addition, in context of weakness I have recommended her to have a chemistry analysis for investigating electrolytes. Should symptoms persist then I will recommend the patient to initiate Ciprofloxacin and Metronidazole.
+
+Dehydration. The patient will initiate a strict fluid replenishment plan for rehydration.
+
+
+
+
+                                   
+David Delgado, M.D.
+
+
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="after DCT" type1="statin" type2="">
+      <MEDICATION id="M0" start="855" end="867" text="Atorvastatin" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M1" start="855" end="869" text="Atorvastatin  " time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M2" start="855" end="869" text="Atorvastatin  " time="after DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC1" time="during DCT" type1="aspirin" type2="">
+      <MEDICATION id="M3" start="890" end="897" text="Aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M4" start="890" end="897" text="Aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M5" start="890" end="897" text="Aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC2" time="after DCT" type1="metformin" type2="">
+      <MEDICATION id="M6" start="925" end="934" text="Metformin" time="after DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M7" start="925" end="939" text="Metformin     " time="after DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M8" start="925" end="934" text="Metformin" time="after DCT" type1="metformin" type2="" comment=""/>
+    </MEDICATION>
+    <OBESE id="DOC3" time="after DCT" indicator="mention">
+      <OBESE id="O0" start="636" end="643" text="Obesity" time="after DCT" indicator="mention" comment=""/>
+      <OBESE id="O1" start="636" end="643" text="Obesity" time="after DCT" indicator="mention" comment=""/>
+      <OBESE id="O2" start="636" end="644" text="Obesity " time="after DCT" indicator="mention" comment=""/>
+    </OBESE>
+    <MEDICATION id="DOC4" time="during DCT" type1="metformin" type2="">
+      <MEDICATION id="M9" start="925" end="934" text="Metformin" time="during DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M10" start="925" end="939" text="Metformin     " time="during DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M11" start="925" end="934" text="Metformin" time="during DCT" type1="metformin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC5" time="before DCT" type1="aspirin" type2="">
+      <MEDICATION id="M12" start="890" end="897" text="Aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M13" start="890" end="897" text="Aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M14" start="890" end="897" text="Aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC6" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="518" end="530" text="Hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="518" end="530" text="Hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H2" start="518" end="530" text="Hypertension" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERLIPIDEMIA id="DOC7" time="before DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY0" start="503" end="517" text="Hyperlipidemia" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY1" start="503" end="517" text="Hyperlipidemia" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY2" start="503" end="517" text="Hyperlipidemia" time="before DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <MEDICATION id="DOC8" time="before DCT" type1="diuretic" type2="">
+      <MEDICATION id="M15" start="804" end="823" text="Hydrochlorothiazide" time="before DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M16" start="804" end="823" text="Hydrochlorothiazide" time="before DCT" type1="diuretic" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERLIPIDEMIA id="DOC9" time="during DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY3" start="503" end="517" text="Hyperlipidemia" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY4" start="503" end="517" text="Hyperlipidemia" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY5" start="503" end="517" text="Hyperlipidemia" time="during DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <MEDICATION id="DOC10" time="during DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M17" start="682" end="692" text="Amlodipine" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M18" start="682" end="694" text="Amlodipine  " time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC11" time="before DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M19" start="682" end="692" text="Amlodipine" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M20" start="682" end="694" text="Amlodipine  " time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC12" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H3" start="518" end="530" text="Hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H4" start="518" end="530" text="Hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H5" start="518" end="530" text="Hypertension" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <MEDICATION id="DOC13" time="after DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M21" start="718" end="728" text="Metoprolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M22" start="718" end="728" text="Metoprolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M23" start="718" end="732" text="Metoprolol XL " time="after DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <SMOKER id="DOC14" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" start="1035" end="1049" text="social history" status="unknown" comment=""/>
+      <SMOKER id="S2" status="unknown"/>
+    </SMOKER>
+    <MEDICATION id="DOC15" time="after DCT" type1="ARB" type2="">
+      <MEDICATION id="M24" start="753" end="762" text="Valsartan" time="after DCT" type1="ARB" type2="" comment=""/>
+      <MEDICATION id="M25" start="753" end="763" text="Valsartan " time="after DCT" type1="ARB" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC16" time="before DCT" type1="statin" type2="">
+      <MEDICATION id="M26" start="855" end="867" text="Atorvastatin" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M27" start="855" end="869" text="Atorvastatin  " time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M28" start="855" end="869" text="Atorvastatin  " time="before DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC17" time="during DCT" type1="statin" type2="">
+      <MEDICATION id="M29" start="855" end="867" text="Atorvastatin" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M30" start="855" end="869" text="Atorvastatin  " time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M31" start="855" end="869" text="Atorvastatin  " time="during DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC18" time="during DCT" type1="diuretic" type2="">
+      <MEDICATION id="M32" start="804" end="823" text="Hydrochlorothiazide" time="during DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M33" start="804" end="823" text="Hydrochlorothiazide" time="during DCT" type1="diuretic" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC19" time="before DCT" type1="metformin" type2="">
+      <MEDICATION id="M34" start="925" end="934" text="Metformin" time="before DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M35" start="925" end="939" text="Metformin     " time="before DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M36" start="925" end="934" text="Metformin" time="before DCT" type1="metformin" type2="" comment=""/>
+    </MEDICATION>
+    <OBESE id="DOC20" time="before DCT" indicator="mention">
+      <OBESE id="O3" start="636" end="643" text="Obesity" time="before DCT" indicator="mention" comment=""/>
+      <OBESE id="O4" start="636" end="643" text="Obesity" time="before DCT" indicator="mention" comment=""/>
+      <OBESE id="O5" start="636" end="644" text="Obesity " time="before DCT" indicator="mention" comment=""/>
+    </OBESE>
+    <FAMILY_HIST id="DOC21" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <HYPERLIPIDEMIA id="DOC22" time="after DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY6" start="503" end="517" text="Hyperlipidemia" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY7" start="503" end="517" text="Hyperlipidemia" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY8" start="503" end="517" text="Hyperlipidemia" time="after DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <MEDICATION id="DOC23" time="after DCT" type1="diuretic" type2="">
+      <MEDICATION id="M37" start="804" end="823" text="Hydrochlorothiazide" time="after DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M38" start="804" end="823" text="Hydrochlorothiazide" time="after DCT" type1="diuretic" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC24" time="after DCT" type1="aspirin" type2="">
+      <MEDICATION id="M39" start="890" end="897" text="Aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M40" start="890" end="897" text="Aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M41" start="890" end="897" text="Aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <OBESE id="DOC25" time="during DCT" indicator="mention">
+      <OBESE id="O6" start="636" end="643" text="Obesity" time="during DCT" indicator="mention" comment=""/>
+      <OBESE id="O7" start="636" end="643" text="Obesity" time="during DCT" indicator="mention" comment=""/>
+      <OBESE id="O8" start="636" end="644" text="Obesity " time="during DCT" indicator="mention" comment=""/>
+    </OBESE>
+    <MEDICATION id="DOC26" time="after DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M42" start="682" end="692" text="Amlodipine" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M43" start="682" end="694" text="Amlodipine  " time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC27" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H6" start="518" end="530" text="Hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H7" start="518" end="530" text="Hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H8" start="518" end="530" text="Hypertension" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <MEDICATION id="DOC28" time="before DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M44" start="718" end="728" text="Metoprolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M45" start="718" end="728" text="Metoprolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M46" start="718" end="732" text="Metoprolol XL " time="before DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC29" time="during DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M47" start="718" end="728" text="Metoprolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M48" start="718" end="728" text="Metoprolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M49" start="718" end="732" text="Metoprolol XL " time="during DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC30" time="during DCT" type1="ARB" type2="">
+      <MEDICATION id="M50" start="753" end="762" text="Valsartan" time="during DCT" type1="ARB" type2="" comment=""/>
+      <MEDICATION id="M51" start="753" end="763" text="Valsartan " time="during DCT" type1="ARB" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC31" time="before DCT" type1="ARB" type2="">
+      <MEDICATION id="M52" start="753" end="762" text="Valsartan" time="before DCT" type1="ARB" type2="" comment=""/>
+      <MEDICATION id="M53" start="753" end="763" text="Valsartan " time="before DCT" type1="ARB" type2="" comment=""/>
+    </MEDICATION>
+    <PHI id="P0" start="16" end="26" text="2087-03-22" TYPE="DATE"/>
+    <PHI id="P1" start="1072" end="1078" text="Gambia" TYPE="COUNTRY"/>
+    <PHI id="P2" start="1100" end="1107" text="Jaffrey" TYPE="CITY"/>
+    <PHI id="P3" start="1187" end="1195" text="Composer" TYPE="PROFESSION"/>
+    <PHI id="P4" start="3013" end="3026" text="David Delgado" TYPE="DOCTOR"/>
+  </TAGS>
+</root>

@@ -1,0 +1,114 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2072-10-28
+
+She's doing much better from her painful R facial weakness (? Ramsay Hunt syndrome).  She di dnot take tegretol, but rather increased her amytriptiline and added some darvocet acutely, now off these meds.  Her R eye "tears a lot", at no particular time (ie, not necessarily when she's masticating), and occasionally it burns....but she has not developed conjunctivitis or ocular redness or discharge.  She has difficulty chewing opn the R side of her mouth, and finds she"pockets" food in her R cheek; she manages by chewing on L, and swallowing frequently, especially taking extra liquids.
+
+The pain has receded-  she now only gets "a twinge" now and then.
+
+
+
+Husband has noticed she's not hearing quite as well.
+
+
+
+Her current meds include amitryptiline 25 hs, mevacor 20, procardia 30 bid, furosemide 40x3, isosorbide 20 qd allopurinol 300 qd.  She's releived to learn the results of her recent blood work, including BUN 65 Creat 3.4, Hct 29.8
+
+
+
+On exam, she has gained weight since I last saw her; she comes in ok0on wheelchair, but is able to take a few steps with her straight cane, and climb onto the examining tabloe with only contact guard. Dense catarcts; fundi not visualized; EOMS full without ptosis or nystagmus. Cornelas are brisk pilaterally, but she has decreased sensationon the R lower facial segments (V1, V2); excellent masseter and temporalis strength. R lower facial weakness, with less evident weakness of orbicularis oculi; he manages to close the eyelid almost completely; + Bell's phenomenon.  She hears finger rub at 90 cm on R, 70 cm on L; Weber lateralizes to the R, but Rinne' positive bilatyerally (ie, AC>BC AU). Tongue midline.  Modulates voice well.  TMs opaque, but EACs clear.
+
+
+
+She has a marked polyneuropathy, with decreased vibration from knuckles to elbows bilaterally Hyporeflexia throughout, but symmetrical.  Strength remains well conserved.
+
+
+
+IMP: improving R Bell's. MRI showed much motion, but no gross abnormalities
+
+
+
+Plan- continue with current management. I'd welcome the oportunity of seeing her again in about 6 months.
+
+.
+
+
+
+
+
+
+
+______________________________                              
+
+
+
+
+
+
+
+Hatfield, Orvin L., M.D.
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="during DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M0" start="803" end="812" text="procardia" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M1" start="803" end="812" text="procardia" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M2" start="803" end="812" text="procardia" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC1" time="before DCT" type1="statin" type2="">
+      <MEDICATION id="M3" start="791" end="798" text="mevacor" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M4" start="791" end="798" text="mevacor" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M5" start="791" end="798" text="mevacor" time="before DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC2" time="during DCT" type1="statin" type2="">
+      <MEDICATION id="M6" start="791" end="798" text="mevacor" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M7" start="791" end="798" text="mevacor" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M8" start="791" end="798" text="mevacor" time="during DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC3" time="after DCT" type1="statin" type2="">
+      <MEDICATION id="M9" start="791" end="798" text="mevacor" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M10" start="791" end="798" text="mevacor" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M11" start="791" end="798" text="mevacor" time="after DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC4" time="before DCT" type1="nitrate" type2="">
+      <MEDICATION id="M12" start="838" end="848" text="isosorbide" time="before DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M13" start="838" end="848" text="isosorbide" time="before DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M14" start="838" end="848" text="isosorbide" time="before DCT" type1="nitrate" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC5" time="before DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M15" start="803" end="812" text="procardia" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M16" start="803" end="812" text="procardia" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M17" start="803" end="812" text="procardia" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC6" time="after DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M18" start="803" end="812" text="procardia" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M19" start="803" end="812" text="procardia" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M20" start="803" end="812" text="procardia" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC9" time="after DCT" type1="nitrate" type2="">
+      <MEDICATION id="M21" start="838" end="848" text="isosorbide" time="after DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M22" start="838" end="848" text="isosorbide" time="after DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M23" start="838" end="848" text="isosorbide" time="after DCT" type1="nitrate" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC10" time="during DCT" type1="nitrate" type2="">
+      <MEDICATION id="M24" start="838" end="848" text="isosorbide" time="during DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M25" start="838" end="848" text="isosorbide" time="during DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M26" start="838" end="848" text="isosorbide" time="during DCT" type1="nitrate" type2="" comment=""/>
+    </MEDICATION>
+    <FAMILY_HIST id="DOC7" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC8" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" status="unknown"/>
+      <SMOKER id="S2" start="3" end="9" text="Record" status="unknown" comment=""/>
+    </SMOKER>
+  </TAGS>
+</root>

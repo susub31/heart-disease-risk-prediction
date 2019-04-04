@@ -1,0 +1,113 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2087-03-19
+
+
+
+
+
+
+
+March 19, 2087
+
+
+
+
+
+Dear Dr. Quentin Carlson
+
+
+
+
+
+Ms. Shari Etheridge was admitted to Parkview Memorial Hospital.  I have included a brief hospital summary below.  A full discharge summary should be sent to you shortly.  
+
+
+
+Parkview Memorial Hospital
+
+Admission Date:March 16, 2087
+
+Discharge Date: March 19, 2087
+
+General Medicine Service 
+
+Etheridge, Shari (94482315)
+
+
+
+83 year old woman with history of COPD, HTN, NIDDM who presented with shortness of breath and bilateral pedal edema.  Ms. Etheridge was given lasix with a good response.  Her shortness of breath resolved.  Her EKG was normal and her cardiac enzymes were flat.  It was felt that she had tracheobronchitis with sputum production and consequently treated with azithromycin.  She will continue on her nebulization and steroid taper for her underlying COPD.  Mr. Etheridge was discharged on March 19, 2087
+
+
+
+Follow Up
+
+[] Outpatient ECHO
+
+
+
+
+
+Thank you for allowing us to take care of your patient.
+
+
+
+Sincerely Yours,
+
+
+
+
+
+Frankie Echols, MD
+
+PMH-Promptcare Hospitalist Attending
+
+
+
+]]></TEXT>
+  <TAGS>
+    <HYPERTENSION id="DOC1" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="448" end="451" text="HTN" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="448" end="451" text="HTN" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H2" start="448" end="451" text="HTN" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC2" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H3" start="448" end="451" text="HTN" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H4" start="448" end="451" text="HTN" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H5" start="448" end="451" text="HTN" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC4" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H6" start="448" end="451" text="HTN" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H7" start="448" end="451" text="HTN" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H8" start="448" end="451" text="HTN" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <FAMILY_HIST id="DOC5" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC6" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" status="unknown"/>
+      <SMOKER id="S2" start="2" end="10" text=" Record " status="unknown" comment=""/>
+    </SMOKER>
+    <DIABETES id="DOC0" time="after DCT" indicator="mention">
+      <DIABETES id="D0" start="453" end="458" text="NIDDM" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D1" start="453" end="458" text="NIDDM" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D2" start="456" end="458" text="DM" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC3" time="during DCT" indicator="mention">
+      <DIABETES id="D3" start="453" end="458" text="NIDDM" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D4" start="453" end="458" text="NIDDM" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D5" start="456" end="458" text="DM" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC7" time="before DCT" indicator="mention">
+      <DIABETES id="D6" start="453" end="458" text="NIDDM" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D7" start="453" end="458" text="NIDDM" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D8" start="456" end="458" text="DM" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+  </TAGS>
+</root>

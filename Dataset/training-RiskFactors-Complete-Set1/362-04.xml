@@ -1,0 +1,253 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2076-10-07
+
+
+
+
+
+
+
+Hospital De Doctor Pila
+
+0744 Roseann Circle              DIETZ, SUSIE
+
+San Manuel, WY  76846                    53841210
+
+(082) 471-7456                     10/07/2076
+
+
+
+
+
+HISTORY OF PRESENT ILLNESS:  Ms. Dietz is a 59-year-old woman who comes for follow up of diabetes and other medical problems.
+
+
+
+PROBLEMS:
+
+1.  Diabetes mellitus.  Last A1c six months ago was 6.6.  Last eye exam also was six months ago.
+
+2.  Hypertension.  No chest pain, shortness of breath, or pedal edema.
+
+3.  Hypercholesterolemia.  A fasting lipid analysis done five months ago showed total cholesterol of 158, triglycerides of 55, HDL of 52, and an LDL of 95.
+
+
+
+MEDICATIONS:  Aspirin 81 mg p.o. daily, calcium carbonate 600 mg b.i.d., Diovan 80 mg daily, Glucophage 850 mg b.i.d., lorazepam 1 mg q.i.d. p.r.n., Paxil 10 mg daily, and fluvastatin 20 mg daily, but she ran out some time ago.
+
+
+
+REVIEW OF SYMPTOMS:  She has noted some pruritus between several toes on both feet. No significant weight change, febrile signs or symptoms, headache, blurred vision, tinnitus, chest pain, cough, shortness of breath, nausea, abdominal pain, nightsweats, diarrhea, dysuria, polyuria, skin rash, bruising, joint pain, or focal weakness.  
+
+
+
+
+
+PHYSICAL EXAMINATION:  The patient is in no acute distress.  Blood pressure 124/80, weight 154 pounds, and temperature 98.6.  Skin exam: Notable for slight erythema and breakdown between several toes on the right and left feet.  No scaling elsewhere.  Pedal pulses 1+ bilaterally.  Sensation is intact on plantar aspect of both feet.  Chest: Clear to percussion and auscultation.  Extremities: No edema.
+
+
+
+ASSESSMENT AND PLAN:
+
+1.  Diabetes mellitus.  Good control.  Will recheck values today.
+
+2.  Hypertension.  Good control.  Diovan renewed.
+
+3.  Hypercholesterolemia.  I reviewed with the patient the need to take medication essentially for lifelong.  Better control of LDL than previous value also indicated.  I gave her a prescription for Crestor 10 mg p.o. daily.
+
+4.  Tinea pedis.  I explained disorder to the patient and preventive care.  Also, gave prescription for clotrimazole cream.
+
+5.  Adult health maintenance.  Mammogram requested.  Influenza vaccine given.
+
+
+
+
+
+______________________________
+
+Roger S Conrad, M.D.
+
+
+
+
+
+
+
+
+
+
+
+eScription document:2-8665601 EMSSten Tel
+
+
+
+
+
+
+
+DD: 10/07/76
+
+DT: 10/08/76
+
+DV: 10/07/76
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="after DCT" type1="statin" type2="">
+      <MEDICATION id="M0" start="849" end="860" text="fluvastatin" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M1" start="1996" end="2003" text="Crestor" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M2" start="849" end="860" text="fluvastatin" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M3" start="849" end="872" text="fluvastatin 20 mg daily" time="after DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC1" time="during DCT" type1="aspirin" type2="">
+      <MEDICATION id="M4" start="691" end="698" text="Aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M5" start="691" end="698" text="Aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M6" start="691" end="715" text="Aspirin 81 mg p.o. daily" time="during DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC2" time="after DCT" type1="metformin" type2="">
+      <MEDICATION id="M7" start="770" end="780" text="Glucophage" time="after DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M8" start="770" end="780" text="Glucophage" time="after DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M9" start="770" end="794" text="Glucophage 850 mg b.i.d." time="after DCT" type1="metformin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC3" time="during DCT" type1="metformin" type2="">
+      <MEDICATION id="M10" start="770" end="780" text="Glucophage" time="during DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M11" start="770" end="780" text="Glucophage" time="during DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M12" start="770" end="794" text="Glucophage 850 mg b.i.d." time="during DCT" type1="metformin" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC4" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="450" end="462" text="Hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="450" end="462" text="Hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H2" start="450" end="462" text="Hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H3" start="1750" end="1762" text="Hypertension" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERLIPIDEMIA id="DOC5" time="before DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY0" start="522" end="542" text="Hypercholesterolemia" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY1" start="522" end="542" text="Hypercholesterolemia" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY2" start="522" end="542" text="Hypercholesterolemia" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY3" start="1801" end="1821" text="Hypercholesterolemia" time="before DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <DIABETES id="DOC6" time="during DCT" indicator="mention">
+      <DIABETES id="D0" start="297" end="305" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D1" start="296" end="305" text=" diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D2" start="352" end="369" text="Diabetes mellitus" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D3" start="297" end="305" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D4" start="1683" end="1700" text="Diabetes mellitus" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <MEDICATION id="DOC7" time="after DCT" type1="aspirin" type2="">
+      <MEDICATION id="M13" start="691" end="698" text="Aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M14" start="691" end="698" text="Aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M15" start="691" end="715" text="Aspirin 81 mg p.o. daily" time="after DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERLIPIDEMIA id="DOC8" time="during DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY4" start="522" end="542" text="Hypercholesterolemia" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY5" start="522" end="542" text="Hypercholesterolemia" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY6" start="522" end="542" text="Hypercholesterolemia" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY7" start="1801" end="1821" text="Hypercholesterolemia" time="during DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <HYPERTENSION id="DOC9" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H4" start="450" end="462" text="Hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H5" start="450" end="462" text="Hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H6" start="450" end="462" text="Hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H7" start="1750" end="1762" text="Hypertension" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <SMOKER id="DOC10" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" start="208" end="216" text="HISTORY " status="unknown" comment=""/>
+      <SMOKER id="S2" status="unknown"/>
+    </SMOKER>
+    <DIABETES id="DOC11" time="before DCT" indicator="mention">
+      <DIABETES id="D5" start="297" end="305" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D6" start="296" end="305" text=" diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D7" start="352" end="369" text="Diabetes mellitus" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D8" start="297" end="305" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D9" start="1683" end="1700" text="Diabetes mellitus" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC12" time="before DCT" indicator="A1C">
+      <DIABETES id="D10" start="377" end="403" text="A1c six months ago was 6.6" time="before DCT" indicator="A1C" comment=""/>
+      <DIABETES id="D11" start="378" end="403" text="1c six months ago was 6.6" time="before DCT" indicator="A1C" comment=""/>
+      <DIABETES id="D12" start="372" end="403" text="Last A1c six months ago was 6.6" time="before DCT" indicator="A1C" comment=""/>
+    </DIABETES>
+    <MEDICATION id="DOC13" time="after DCT" type1="ARB" type2="">
+      <MEDICATION id="M16" start="750" end="756" text="Diovan" time="after DCT" type1="ARB" type2="" comment=""/>
+      <MEDICATION id="M17" start="750" end="756" text="Diovan" time="after DCT" type1="ARB" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC14" time="before DCT" type1="statin" type2="">
+      <MEDICATION id="M18" start="849" end="860" text="fluvastatin" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M19" start="1996" end="2003" text="Crestor" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M20" start="849" end="860" text="fluvastatin" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M21" start="849" end="872" text="fluvastatin 20 mg daily" time="before DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC15" time="during DCT" type1="statin" type2="">
+      <MEDICATION id="M22" start="849" end="860" text="fluvastatin" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M23" start="1996" end="2003" text="Crestor" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M24" start="849" end="860" text="fluvastatin" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M25" start="849" end="872" text="fluvastatin 20 mg daily" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M26" start="1996" end="2003" text="Crestor" time="during DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC16" time="before DCT" type1="metformin" type2="">
+      <MEDICATION id="M27" start="770" end="780" text="Glucophage" time="before DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M28" start="770" end="780" text="Glucophage" time="before DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M29" start="770" end="794" text="Glucophage 850 mg b.i.d." time="before DCT" type1="metformin" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERLIPIDEMIA id="DOC17" time="after DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY8" start="522" end="542" text="Hypercholesterolemia" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY9" start="522" end="542" text="Hypercholesterolemia" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY10" start="522" end="542" text="Hypercholesterolemia" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY11" start="1801" end="1821" text="Hypercholesterolemia" time="after DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <MEDICATION id="DOC18" time="before DCT" type1="aspirin" type2="">
+      <MEDICATION id="M30" start="691" end="698" text="Aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M31" start="691" end="698" text="Aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M32" start="691" end="715" text="Aspirin 81 mg p.o. daily" time="before DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC19" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H8" start="450" end="462" text="Hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H9" start="450" end="462" text="Hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H10" start="450" end="462" text="Hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H11" start="1750" end="1762" text="Hypertension" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <FAMILY_HIST id="DOC20" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <DIABETES id="DOC21" time="after DCT" indicator="mention">
+      <DIABETES id="D13" start="297" end="305" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D14" start="296" end="305" text=" diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D15" start="352" end="369" text="Diabetes mellitus" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D16" start="297" end="305" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D17" start="1683" end="1700" text="Diabetes mellitus" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <MEDICATION id="DOC22" time="during DCT" type1="ARB" type2="">
+      <MEDICATION id="M33" start="750" end="756" text="Diovan" time="during DCT" type1="ARB" type2="" comment=""/>
+      <MEDICATION id="M34" start="750" end="756" text="Diovan" time="during DCT" type1="ARB" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC23" time="before DCT" type1="ARB" type2="">
+      <MEDICATION id="M35" start="750" end="756" text="Diovan" time="before DCT" type1="ARB" type2="" comment=""/>
+      <MEDICATION id="M36" start="750" end="756" text="Diovan" time="before DCT" type1="ARB" type2="" comment=""/>
+    </MEDICATION>
+    <PHI id="P0" start="16" end="26" text="2076-10-07" TYPE="DATE"/>
+    <PHI id="P1" start="34" end="57" text="Hospital De Doctor Pila" TYPE="HOSPITAL"/>
+    <PHI id="P2" start="59" end="78" text="0744 Roseann Circle" TYPE="STREET"/>
+    <PHI id="P3" start="92" end="104" text="DIETZ, SUSIE" TYPE="PATIENT"/>
+    <PHI id="P4" start="106" end="116" text="San Manuel" TYPE="CITY"/>
+    <PHI id="P5" start="118" end="120" text="WY" TYPE="STATE"/>
+    <PHI id="P6" start="122" end="127" text="76846" TYPE="ZIP"/>
+    <PHI id="P7" start="147" end="155" text="53841210" TYPE="MEDICALRECORD"/>
+    <PHI id="P8" start="157" end="171" text="(082) 471-7456" TYPE="PHONE"/>
+    <PHI id="P9" start="192" end="202" text="10/07/2076" TYPE="DATE"/>
+    <PHI id="P10" start="241" end="246" text="Dietz" TYPE="PATIENT"/>
+    <PHI id="P11" start="252" end="254" text="59" TYPE="AGE"/>
+    <PHI id="P12" start="2263" end="2277" text="Roger S Conrad" TYPE="DOCTOR"/>
+    <PHI id="P13" start="2315" end="2324" text="2-8665601" TYPE="IDNUM"/>
+    <PHI id="P14" start="2348" end="2356" text="10/07/76" TYPE="DATE"/>
+    <PHI id="P15" start="2362" end="2370" text="10/08/76" TYPE="DATE"/>
+    <PHI id="P16" start="2376" end="2384" text="10/07/76" TYPE="DATE"/>
+  </TAGS>
+</root>

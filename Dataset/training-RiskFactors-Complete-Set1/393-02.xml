@@ -1,0 +1,306 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2081-06-10
+
+
+
+Attending Admission Note
+
+
+
+HPI
+
+52 year old woman with DM and h/o gastroparesis who presented with nausea and vomiting.  She was last admitted one week ago with N/V and treated for gastroparesis.  Her diabetes has been poorly controlled with her last hemoglobin A1c over 12 in April of 2081.  She has had recurrent episodes of nausea and vomiting.  During this past year in January, she was admitted to Missouri Baptist Hospital.  She had a negative EGD, and HIDA scan showed low ejection fraction to cholecystokinase.  She underwent a laparoscopic cholecystectomy.  She was admitted again a few weeks later to Missouri Baptist and had a gastric emptying study, which was consistent with gastroparesis.  In February, she was seen in the Philadelphia State Hospital Emergency Room with nausea and vomiting and had a KUB, which showed significant stool.  She presented again on 02/11/2081 and had an abdominal CT that showed thickening of the terminal ileum and possible thickening of the gastric and possible duodenal wall.  GI was consulted and the colonoscopy done on 02/14/2081 was normal, but did not visualize the terminal ileum.  A small-bowel follow-through on 02/16/2081 was normal.  She was discharged on a regimen of Reglan and erythromycin.  Since February, she has been seen multiple times in the outpatient clinic as well as medical walk-in.  She reports being complaint with her regimen of erythromycin 250 mg four times a day and Reglan 10 mg twice a day.  She was also recently started on Glucophage titrating up to 1000 mg b.i.d. as she had difficulty with multiple short per day regimen of insulin administration.  
+
+
+
+She was admitted from 5/31-6/2 and treated with IV Zofran and enemas.  GI saw the pt and recommended increasing reglan to TID and adding colace and miralax.  She also had a head CT to r/o mass lesion causing the nausea, and this was negative.  At the time of d/c, her nausea had decreased.  She states that the N/V did not improve much since that admission, and she has not been able to eat much.  She has pain throughout her abdomen.  She denies f/c, diarrhea, constipation, dysuria, hematemesis, or melena.
+
+
+
+Problems
+
+Diabetes mellitus : since 2060's, poorly controlled
+
+Hypertension 
+
+Gastroparesis : N/V due to diabetes
+
+Retinopathy : due to AODM, s/p first laser treatment 3/81, sees Ophtho in Stanwood
+
+S/P cholecystectomy 
+
+S/P TAH/BSO : menopause at age 86, had some hot flashes which are slowing improving. 
+
+
+
+Medications
+
+Metformin 1000 MG (500MG TABLET take 2) PO BID 
+
+Erythrocin ETHYL SUCCINATE SUSP (ERYTHROMYCIN) 250MG TABLET PO QID 
+
+Asa (ACETYLSALICYLIC ACID) 325 MG (325MG TABLET take 1) PO QD 
+
+Lisinopril 40MG TABLET PO QAM 
+
+Reglan (METOCLOPRAMIDE HCL) 10 MG (10MG TABLET take 1) PO TID 
+
+Lantus (INSULIN GLARGINE) 40 U SC QHS
+
+Atenolol 50 mg po QD
+
+Colace 2 tablets QHS 
+
+Miralax 17 gm QOD
+
+Zofran 8 mg po BID prn nausea
+
+
+
+Allergies
+
+PERCOCET - GI upset, 
+
+
+
+Social History	
+
+Lives alone; work- biological technician; no smoking; Etoh- none.
+
+
+
+Family History	
+
+Brother with DM.
+
+
+
+Review of Systems	
+
+No dizziness, F/C, cough, SOB, CP, dysuria, joint pain.
+
+
+
+Physical Exam	
+
+BP: 162/78     T: 98.6   P: 84    RR: 18
+
+GENERAL: 	Appears sleepy in her bed.
+
+SKIN:		NL turgor, no abnormal lesions
+
+CHEST:	            Clear lungs, NL frame
+
+COR:		NL S1S2, no murmur, rubs, or gallops.
+
+ABD:		Hypoactive BS; diffuse tenderness but no guarding or rebound; no HSM.
+
+EXT:		No edema, clubbing, or cyanosis
+
+NEURO:	            NL MS
+
+
+
+Assessment and Plan	
+
+1.  Nausea/vomiting:  Most likely secondary to her gastroparesis.  Her amylase and lipase are also elevated, raising the question of pancreatitis as well.  Will check abd-pelvic CT.  NPO with IVF.  Continue Reglan and erythromycin.  GI has been consulted for further recommendations.  Morphine prn abdominal pain.
+
+2.  DM: Continue glucophage.  Adjust insulin depending on BS. 
+
+3.  HTN:  Continue lisinopril and atenolol. 
+
+
+
+
+
+_____________________________________________
+
+Mildred D. Yunker, M.D.
+
+
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="during DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M0" start="2684" end="2694" text="Lisinopril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M1" start="2684" end="2694" text="Lisinopril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M2" start="3940" end="3950" text="lisinopril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M3" start="2684" end="2694" text="Lisinopril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC1" time="during DCT" type1="aspirin" type2="">
+      <MEDICATION id="M4" start="2620" end="2623" text="Asa" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M5" start="2620" end="2623" text="Asa" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M6" start="2620" end="2623" text="Asa" time="during DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC2" time="after DCT" type1="metformin" type2="">
+      <MEDICATION id="M7" start="1535" end="1545" text="Glucophage" time="after DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M8" start="1535" end="1545" text="Glucophage" time="after DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M9" start="2502" end="2511" text="Metformin" time="after DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M10" start="3874" end="3884" text="glucophage" time="after DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M11" start="1535" end="1545" text="Glucophage" time="after DCT" type1="metformin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC3" time="during DCT" type1="metformin" type2="">
+      <MEDICATION id="M12" start="1535" end="1545" text="Glucophage" time="during DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M13" start="1535" end="1545" text="Glucophage" time="during DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M14" start="2502" end="2511" text="Metformin" time="during DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M15" start="3874" end="3884" text="glucophage" time="during DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M16" start="1535" end="1545" text="Glucophage" time="during DCT" type1="metformin" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC4" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="2242" end="2255" text="Hypertension " time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="2242" end="2254" text="Hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H2" start="3925" end="3928" text="HTN" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H3" start="2242" end="2254" text="Hypertension" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <MEDICATION id="DOC5" time="after DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M17" start="2684" end="2694" text="Lisinopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M18" start="2684" end="2694" text="Lisinopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M19" start="3940" end="3950" text="lisinopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M20" start="2684" end="2694" text="Lisinopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <DIABETES id="DOC6" time="during DCT" indicator="mention">
+      <DIABETES id="D0" start="86" end="88" text="DM" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D1" start="232" end="240" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D2" start="86" end="88" text="DM" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D3" start="2189" end="2206" text="Diabetes mellitus" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D4" start="2284" end="2292" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D5" start="2315" end="2319" text="AODM" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D6" start="3861" end="3863" text="DM" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D7" start="86" end="88" text="DM" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <MEDICATION id="DOC7" time="after DCT" type1="aspirin" type2="">
+      <MEDICATION id="M21" start="2620" end="2623" text="Asa" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M22" start="2620" end="2623" text="Asa" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M23" start="2620" end="2623" text="Asa" time="after DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC8" time="after DCT" type1="insulin" type2="">
+      <MEDICATION id="M24" start="2780" end="2786" text="Lantus" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M25" start="2780" end="2786" text="Lantus" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M26" start="2780" end="2786" text="Lantus" time="after DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC9" time="during DCT" indicator="high bp">
+      <HYPERTENSION id="H4" start="3170" end="3181" text="BP: 162/78 " time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H5" start="3170" end="3180" text="BP: 162/78" time="during DCT" indicator="high bp" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC10" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H6" start="2242" end="2255" text="Hypertension " time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H7" start="2242" end="2254" text="Hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H8" start="3925" end="3928" text="HTN" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H9" start="2242" end="2254" text="Hypertension" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <MEDICATION id="DOC11" time="after DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M27" start="2819" end="2827" text="Atenolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M28" start="2819" end="2827" text="Atenolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M29" start="3955" end="3963" text="atenolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M30" start="2819" end="2827" text="Atenolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <DIABETES id="DOC12" time="before DCT" indicator="mention">
+      <DIABETES id="D8" start="86" end="88" text="DM" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D9" start="232" end="240" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D10" start="86" end="88" text="DM" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D11" start="2189" end="2206" text="Diabetes mellitus" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D12" start="2284" end="2292" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D13" start="2315" end="2319" text="AODM" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D14" start="3861" end="3863" text="DM" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D15" start="86" end="88" text="DM" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC13" time="before DCT" indicator="A1C">
+      <DIABETES id="D16" start="277" end="305" text="last hemoglobin A1c over 12 " time="before DCT" indicator="A1C" comment=""/>
+      <DIABETES id="D17" start="282" end="321" text="hemoglobin A1c over 12 in April of 2081" time="before DCT" indicator="A1C" comment=""/>
+      <DIABETES id="D18" start="273" end="304" text="her last hemoglobin A1c over 12" time="before DCT" indicator="A1C" comment=""/>
+    </DIABETES>
+    <MEDICATION id="DOC14" time="before DCT" type1="metformin" type2="">
+      <MEDICATION id="M31" start="1535" end="1545" text="Glucophage" time="before DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M32" start="1535" end="1545" text="Glucophage" time="before DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M33" start="2502" end="2511" text="Metformin" time="before DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M34" start="3874" end="3884" text="glucophage" time="before DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M35" start="1535" end="1545" text="Glucophage" time="before DCT" type1="metformin" type2="" comment=""/>
+    </MEDICATION>
+    <FAMILY_HIST id="DOC15" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <MEDICATION id="DOC16" time="before DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M36" start="2684" end="2694" text="Lisinopril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M37" start="2684" end="2694" text="Lisinopril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M38" start="3940" end="3950" text="lisinopril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M39" start="2684" end="2694" text="Lisinopril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC17" time="before DCT" type1="aspirin" type2="">
+      <MEDICATION id="M40" start="2620" end="2623" text="Asa" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M41" start="2620" end="2623" text="Asa" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M42" start="2620" end="2623" text="Asa" time="before DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <SMOKER id="DOC18" status="never">
+      <SMOKER id="S0" start="3011" end="3021" text="no smoking" status="never" comment=""/>
+      <SMOKER id="S1" start="3011" end="3021" text="no smoking" status="never" comment=""/>
+    </SMOKER>
+    <MEDICATION id="DOC19" time="before DCT" type1="insulin" type2="">
+      <MEDICATION id="M43" start="2780" end="2786" text="Lantus" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M44" start="2780" end="2786" text="Lantus" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M45" start="2780" end="2786" text="Lantus" time="before DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC20" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H10" start="2242" end="2255" text="Hypertension " time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H11" start="2242" end="2254" text="Hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H12" start="3925" end="3928" text="HTN" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H13" start="2242" end="2254" text="Hypertension" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <MEDICATION id="DOC21" time="during DCT" type1="insulin" type2="">
+      <MEDICATION id="M46" start="2780" end="2786" text="Lantus" time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M47" start="2780" end="2786" text="Lantus" time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M48" start="2780" end="2786" text="Lantus" time="during DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC22" time="before DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M49" start="2819" end="2827" text="Atenolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M50" start="2819" end="2827" text="Atenolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M51" start="3955" end="3963" text="atenolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M52" start="2819" end="2827" text="Atenolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC23" time="during DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M53" start="2819" end="2827" text="Atenolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M54" start="2819" end="2827" text="Atenolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M55" start="3955" end="3963" text="atenolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M56" start="2819" end="2827" text="Atenolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <DIABETES id="DOC24" time="after DCT" indicator="mention">
+      <DIABETES id="D19" start="86" end="88" text="DM" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D20" start="232" end="240" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D21" start="86" end="88" text="DM" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D22" start="2189" end="2206" text="Diabetes mellitus" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D23" start="2284" end="2292" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D24" start="2315" end="2319" text="AODM" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D25" start="3861" end="3863" text="DM" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D26" start="86" end="88" text="DM" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <PHI id="P0" start="16" end="26" text="2081-06-10" TYPE="DATE"/>
+    <PHI id="P1" start="63" end="65" text="52" TYPE="AGE"/>
+    <PHI id="P2" start="308" end="321" text="April of 2081" TYPE="DATE"/>
+    <PHI id="P3" start="405" end="412" text="January" TYPE="DATE"/>
+    <PHI id="P4" start="434" end="459" text="Missouri Baptist Hospital" TYPE="HOSPITAL"/>
+    <PHI id="P5" start="642" end="658" text="Missouri Baptist" TYPE="HOSPITAL"/>
+    <PHI id="P6" start="738" end="746" text="February" TYPE="DATE"/>
+    <PHI id="P7" start="768" end="795" text="Philadelphia State Hospital" TYPE="HOSPITAL"/>
+    <PHI id="P8" start="907" end="917" text="02/11/2081" TYPE="DATE"/>
+    <PHI id="P9" start="1100" end="1110" text="02/14/2081" TYPE="DATE"/>
+    <PHI id="P10" start="1198" end="1208" text="02/16/2081" TYPE="DATE"/>
+    <PHI id="P11" start="1289" end="1297" text="February" TYPE="DATE"/>
+    <PHI id="P12" start="1689" end="1693" text="5/31" TYPE="DATE"/>
+    <PHI id="P13" start="1694" end="1697" text="6/2" TYPE="DATE"/>
+    <PHI id="P14" start="2215" end="2221" text="2060's" TYPE="DATE"/>
+    <PHI id="P15" start="2347" end="2351" text="3/81" TYPE="DATE"/>
+    <PHI id="P16" start="2368" end="2376" text="Stanwood" TYPE="CITY"/>
+    <PHI id="P17" start="2431" end="2433" text="86" TYPE="AGE"/>
+    <PHI id="P18" start="2988" end="3009" text="biological technician" TYPE="PROFESSION"/>
+    <PHI id="P19" start="4018" end="4035" text="Mildred D. Yunker" TYPE="DOCTOR"/>
+  </TAGS>
+</root>

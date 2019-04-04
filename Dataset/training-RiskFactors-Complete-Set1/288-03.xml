@@ -1,0 +1,205 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2066-03-03
+
+GRANITE COUNTY MEMORIAL
+Arthritis Department
+93 Weld St                             BIRD, TERRI
+Lisbon, SD  52797                             80910690
+                                              3-03-66
+ 
+ 
+ 
+ID: Mrs. Bird comes in today for a routine check-up.  She is a 
+70-year-old female with multiple medical problems including atrial 
+fibrillation, status post renal allograft, status post MVR and AVR, on 
+Coumadin now, history of CABG in the setting of her valve replacements, 
+history of a recent aortic aneurysm repair with some mental status 
+diminution after the surgery. 
+ 
+MEDICATIONS: Synthroid, Hydralazine, Lopressor, prednisone, Coumadin, 
+Provera, NPH insulin, Neurontin 300mg t.i.d., Imuran 100mg a day, Zocor 
+20mg a day, and Digoxin 0.25 alternating with 0.125mg.  She is also 
+taking Fosamax 10mg a day and Premarin 0.3mg a day.  
+ 
+The patient is followed closely by a visiting nurse at home.  Her blood 
+pressure checks have all been 120-140/70-90 and her blood sugars have 
+been running in the morning between 80 and 120 and in the evening from 
+150 all the way up to 450.  We have made some adjustments recently in 
+her NPH morning dose, and hope to see if this will make a benefit.  
+ 
+Patient notes that she has been feeling generally well, that she has 
+been able to fill her cassettes for her medicines, and overall manage her 
+medicines without problems.  She does note that she is having some pain 
+down her left leg, which she describes as her usual sciatica.  The 
+patient has had this on multiple occasions, and it usually waxes and 
+wanes over time.  The Neurontin in the past has been very helpful for 
+this. 
+ 
+The patient denies any chest pain, shortness of breath, has had no 
+fevers or weight loss recently, and has no dyspnea at nighttime. 
+ 
+PHYSICAL EXAM: Notable for a short female in no acute distress, who 
+walks with a walker today.  Blood pressure: 144/76.  Pulse: 78 and 
+regular.  Her lungs bilaterally are clear to auscultation.   Her heart 
+is with sharp click during S1 and S2.  She has got a regular rate and 
+rhythm today.  Her abdomen is soft, nontender, with no organomegaly.  
+She has got a well-healed abdominal scar. She has got no lower extremity 
+edema.  Her musculoskeletal examination is notable for tenderness up 
+into the sciatic notch on the left side.  She has got otherwise joints 
+that move through a normal range of motion, no swelling or warmth. There 
+is no evidence for ecchymoses or petechiae anywhere.  
+ 
+Today will check a hemoglobin A1C, a CBC, and a chem 7 for routine 
+monitoring. 
+ 
+My overall impression is that Ms. Bird is doing quite well.   I will 
+not make any changes to her medicines until I see her hemoglobin A1C.  I 
+suggested that I could give her an injection for her sciatica, but I 
+would rather wait because of her anticoagulation, and to see whether it 
+remits on it's own. 
+ 
+GRANITE COUNTY MEMORIAL
+Arthritis Department
+12 Weld St                             BIRD, TERRI
+Lisbon, SD  52797                             80910690
+                                              3-03-66
+PAGE 2
+ 
+ 
+Lastly, as far as her ability to drive, this has been an issue for the 
+last several months since her abdominal aortic aneurysm repair. She is 
+clearly doing better from a mental status standpoint, as evidenced by 
+her being able to manage her own medications.  I have discussed this 
+issue at length with family and her nurse, and everybody is comfortable 
+with her trying to drive with someone in the car with her.  I will talk 
+to her son, Steven Bird, who lives downstairs, and see whether he or 
+his wife could help with trying her out driving first in a schoolyard 
+without any people there, and then on less-crowded roads, and then 
+finally in a more regular situation.  We will try this over time and see 
+how it works, and I will be involved in making any decisions as far as 
+letting her drive on her own. 
+ 
+ 
+ 
+______________________________
+Steve George, M.D.                                                    
+ 
+EH:UC:8398                                                               
+DD:3-03-66                                                              
+DT:3-04-66                                                              
+DV:3-03-66                                                              
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="before DCT" type1="statin" type2="">
+      <MEDICATION id="M0" start="754" end="759" text="Zocor" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M1" start="754" end="759" text="Zocor" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M2" start="753" end="760" text=" Zocor " time="before DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC1" time="during DCT" type1="statin" type2="">
+      <MEDICATION id="M3" start="754" end="759" text="Zocor" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M4" start="754" end="759" text="Zocor" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M5" start="753" end="760" text=" Zocor " time="during DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC2" time="after DCT" type1="insulin" type2="">
+      <MEDICATION id="M6" start="697" end="708" text="NPH insulin" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M7" start="1177" end="1180" text="NPH" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M8" start="697" end="708" text="NPH insulin" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M9" start="701" end="709" text="insulin," time="after DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC3" time="after DCT" type1="statin" type2="">
+      <MEDICATION id="M10" start="754" end="759" text="Zocor" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M11" start="754" end="759" text="Zocor" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M12" start="753" end="760" text=" Zocor " time="after DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <CAD id="DOC4" time="before DCT" indicator="event">
+      <CAD id="C0" start="468" end="472" text="CABG" time="before DCT" indicator="event" comment=""/>
+      <CAD id="C1" start="468" end="472" text="CABG" time="before DCT" indicator="event" comment=""/>
+      <CAD id="C2" start="468" end="472" text="CABG" time="before DCT" indicator="event" comment=""/>
+    </CAD>
+    <HYPERTENSION id="DOC5" time="during DCT" indicator="high bp">
+      <HYPERTENSION id="H0" start="952" end="1002" text="blood  pressure checks have all been 120-140/70-90" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H1" start="1913" end="1935" text="Blood pressure: 144/76" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H2" start="1913" end="1936" text="Blood pressure: 144/76." time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H3" start="1929" end="1936" text="144/76." time="during DCT" indicator="high bp" comment=""/>
+    </HYPERTENSION>
+    <MEDICATION id="DOC6" time="before DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M13" start="654" end="663" text="Lopressor" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M14" start="654" end="663" text="Lopressor" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M15" start="654" end="663" text="Lopressor" time="before DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <FAMILY_HIST id="DOC7" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <MEDICATION id="DOC8" time="during DCT" type1="insulin" type2="">
+      <MEDICATION id="M16" start="697" end="708" text="NPH insulin" time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M17" start="1177" end="1180" text="NPH" time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M18" start="697" end="708" text="NPH insulin" time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M19" start="701" end="709" text="insulin," time="during DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC9" time="after DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M20" start="654" end="663" text="Lopressor" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M21" start="654" end="663" text="Lopressor" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M22" start="654" end="663" text="Lopressor" time="after DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <SMOKER id="DOC10" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" status="unknown"/>
+      <SMOKER id="S2" start="3" end="10" text="Record " status="unknown" comment=""/>
+    </SMOKER>
+    <MEDICATION id="DOC11" time="during DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M23" start="654" end="663" text="Lopressor" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M24" start="654" end="663" text="Lopressor" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M25" start="654" end="663" text="Lopressor" time="during DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC12" time="before DCT" indicator="high bp">
+      <HYPERTENSION id="H4" start="952" end="1002" text="blood  pressure checks have all been 120-140/70-90" time="before DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H5" start="1913" end="1935" text="Blood pressure: 144/76" time="before DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H6" start="989" end="1003" text="120-140/70-90 " time="before DCT" indicator="high bp" comment=""/>
+    </HYPERTENSION>
+    <MEDICATION id="DOC13" time="before DCT" type1="insulin" type2="">
+      <MEDICATION id="M26" start="697" end="708" text="NPH insulin" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M27" start="1177" end="1180" text="NPH" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M28" start="697" end="708" text="NPH insulin" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M29" start="701" end="709" text="insulin," time="before DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <PHI id="P0" start="16" end="26" text="2066-03-03" TYPE="DATE"/>
+    <PHI id="P1" start="28" end="51" text="GRANITE COUNTY MEMORIAL" TYPE="HOSPITAL"/>
+    <PHI id="P2" start="52" end="72" text="Arthritis Department" TYPE="DEPARTMENT"/>
+    <PHI id="P3" start="73" end="83" text="93 Weld St" TYPE="STREET"/>
+    <PHI id="P4" start="112" end="123" text="BIRD, TERRI" TYPE="PATIENT"/>
+    <PHI id="P5" start="124" end="130" text="Lisbon" TYPE="CITY"/>
+    <PHI id="P6" start="132" end="134" text="SD" TYPE="STATE"/>
+    <PHI id="P7" start="136" end="141" text="52797" TYPE="ZIP"/>
+    <PHI id="P8" start="170" end="178" text="80910690" TYPE="MEDICALRECORD"/>
+    <PHI id="P9" start="225" end="232" text="3-03-66" TYPE="DATE"/>
+    <PHI id="P10" start="248" end="252" text="Bird" TYPE="PATIENT"/>
+    <PHI id="P11" start="303" end="305" text="70" TYPE="AGE"/>
+    <PHI id="P12" start="2631" end="2635" text="Bird" TYPE="PATIENT"/>
+    <PHI id="P13" start="2907" end="2930" text="GRANITE COUNTY MEMORIAL" TYPE="HOSPITAL"/>
+    <PHI id="P14" start="2931" end="2951" text="Arthritis Department" TYPE="DEPARTMENT"/>
+    <PHI id="P15" start="2952" end="2962" text="12 Weld St" TYPE="STREET"/>
+    <PHI id="P16" start="2991" end="3002" text="BIRD, TERRI" TYPE="PATIENT"/>
+    <PHI id="P17" start="3003" end="3009" text="Lisbon" TYPE="CITY"/>
+    <PHI id="P18" start="3011" end="3013" text="SD" TYPE="STATE"/>
+    <PHI id="P19" start="3015" end="3020" text="52797" TYPE="ZIP"/>
+    <PHI id="P20" start="3049" end="3057" text="80910690" TYPE="MEDICALRECORD"/>
+    <PHI id="P21" start="3104" end="3111" text="3-03-66" TYPE="DATE"/>
+    <PHI id="P22" start="3566" end="3577" text="Steven Bird" TYPE="PATIENT"/>
+    <PHI id="P23" start="3977" end="3989" text="Steve George" TYPE="DOCTOR"/>
+    <PHI id="P24" start="4050" end="4060" text="EH:UC:8398" TYPE="IDNUM"/>
+    <PHI id="P25" start="4127" end="4134" text="3-03-66" TYPE="DATE"/>
+    <PHI id="P26" start="4200" end="4207" text="3-04-66" TYPE="DATE"/>
+    <PHI id="P27" start="4273" end="4280" text="3-03-66" TYPE="DATE"/>
+  </TAGS>
+</root>

@@ -1,0 +1,348 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2120-09-19
+
+Personal Data and Overall Health	
+
+Patient is a 81 yr. old male who presents to Dr. Yager for multiple tooth extractions on 10/01/20.
+
+
+
+History of Present Illness	
+
+The patient complains of a hx. of tooth abscesses.
+
+
+
+Past Surgical History	
+
+Prior surgery includes:  
+
+1.) excision l. neck mass for post l. neck lipoma 6/27/16- under local, no complications
+
+2.) bowel surgery 15 yrs ago- g.a.- no complications
+
+3.) hernia repair- 20 yrs ago- GA. no complications
+
+4.) appendectomy-40 yrs ago- GA- no complications
+
+5.) hemorroids- 2062-per patient done under spinal- had severe post spinal headache.
+
+
+
+Family History	
+
+There in no family history of adverse reactions to general anesthesia.
+
+
+
+Past Medical History	
+
+Current medical problems include:  
+
+1.) HTN
+
+2.) DMx20yrs- per patient glucose levels run 125-150 range
+
+3.) hx. of tooth abscesses
+
+4.) hypercholesterolemia
+
+
+
+
+
+
+
+Social History	
+
+Smoking: no
+
+Alcohol use: no history of excessive use
+
+Substance abuse: none
+
+
+
+Review of Systems	
+
+Medications:
+
+insulin- 5 R/25N in am, 15 R in evening
+
+hctz-25mg qd
+
+captopril 25mg 2x/day
+
+lipitor 10mgqd
+
+zyrtec prn
+
+ecasa
+
+vit e
+
+Allergies: shellfish
+
+
+
+Cardiovascular: history of hypertension, no MI; denies CP, DOE, syncope, ankle edema
+
+Respiratory: no history of asthma or chronic lung disease; denies unusual shortness of breath
+
+Neurological: no history of neurological problems
+
+Gastrointestinal: no history of PUD; denies reflux
+
+Hepatobiliary: no history of liver disease; denies jaundice or hepatitis
+
+Renal/Genitourinary: no history of renal failure; denies hematuria, dysuria, obstructive uropathy
+
+Musculoskeletal: denies pain or limitation of movement
+
+Endocrine/metabolic: history of diabetes last 20 yrs, hypercholesterolemia
+
+Heme/Onc:  no history of bleeding, blood diseases; no history of malignancy, chemotherapy, or radiation therapy
+
+Psychiatric: no significant psychiatric problems
+
+
+
+
+
+Exam	
+
+SaO2: 98% RA
+
+Ht:6'1"
+
+Wt:209
+
+BP:180/74
+
+P:79
+
+
+
+HEEN&T:  good range of motion, no masses, neck veins flat, no bruits
+
+Airway:  Mallampatti Class I or II
+
+Teeth:  in good repair
+
+Lungs:  clear bilaterally
+
+Heart:  regular rhythm, no murmurs, S1=S2, no gallop
+
+
+
+
+
+Assessment	
+
+ASA Physical Status:  II
+
+Well prepared for surgery; no unusual concerns related to medical problems.
+
+
+
+Plan	
+
+Proposed Anesthetic: general anesthesia
+
+Monitors:  standard
+
+Pain Management:  IVPCA
+
+Autologous blood:  none
+
+Premedication:  none
+
+Usual Medications:  take on day of surgery
+
+Medications to be held on day of surgery:  lipitor
+
+Diabetic medications:  counseled to old am insulin regimen
+
+NSAIDS:  avoid for 3 days before surgery
+
+Aspirin:  avoid for 7 days before surgery
+
+NPO: after midnight 
+
+
+
+External Labs	
+
+Not available
+
+
+
+Attending Anesthesiologist Reassessment Note	
+
+I have reviewed this preanesthetic assessment and concur with the assessment and recommended plan with the following exceptions:
+
+
+
+
+
+
+
+
+
+
+
+______________________________                              
+
+
+
+
+
+
+
+Yeomans, Vertis K., M.D.
+
+
+
+]]></TEXT>
+  <TAGS>
+    <HYPERLIPIDEMIA id="DOC9" time="during DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY0" start="887" end="907" text="hypercholesterolemia" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY1" start="887" end="907" text="hypercholesterolemia" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY2" start="887" end="907" text="hypercholesterolemia" time="during DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <HYPERLIPIDEMIA id="DOC17" time="after DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY3" start="887" end="907" text="hypercholesterolemia" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY4" start="887" end="907" text="hypercholesterolemia" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY5" start="887" end="907" text="hypercholesterolemia" time="after DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <HYPERLIPIDEMIA id="DOC21" time="before DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY6" start="887" end="907" text="hypercholesterolemia" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY7" start="887" end="907" text="hypercholesterolemia" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY8" start="887" end="907" text="hypercholesterolemia" time="before DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <MEDICATION id="DOC0" time="during DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M0" start="1101" end="1110" text="captopril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M1" start="1101" end="1110" text="captopril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M2" start="1101" end="1110" text="captopril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC1" time="after DCT" type1="statin" type2="">
+      <MEDICATION id="M3" start="1124" end="1131" text="lipitor" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M4" start="1124" end="1131" text="lipitor" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M5" start="1124" end="1131" text="lipitor" time="after DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC2" time="during DCT" type1="aspirin" type2="">
+      <MEDICATION id="M6" start="1152" end="1157" text="ecasa" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M7" start="1152" end="1157" text="ecasa" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M8" start="1152" end="1157" text="ecasa" time="during DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC3" time="after DCT" type1="aspirin" type2="">
+      <MEDICATION id="M9" start="1152" end="1157" text="ecasa" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M10" start="1152" end="1157" text="ecasa" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M11" start="1152" end="1157" text="ecasa" time="after DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC5" time="after DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M12" start="1101" end="1110" text="captopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M13" start="1101" end="1110" text="captopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M14" start="1101" end="1110" text="captopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC6" time="before DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M15" start="1101" end="1110" text="captopril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M16" start="1101" end="1110" text="captopril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M17" start="1101" end="1110" text="captopril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC8" time="before DCT" type1="diuretic" type2="">
+      <MEDICATION id="M18" start="1087" end="1091" text="hctz" time="before DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M19" start="1087" end="1091" text="hctz" time="before DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M20" start="1087" end="1091" text="hctz" time="before DCT" type1="diuretic" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC10" time="after DCT" type1="insulin" type2="">
+      <MEDICATION id="M21" start="1046" end="1053" text="insulin" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M22" start="1046" end="1053" text="insulin" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M23" start="1046" end="1053" text="insulin" time="after DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC14" time="before DCT" type1="statin" type2="">
+      <MEDICATION id="M24" start="1124" end="1131" text="lipitor" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M25" start="1124" end="1131" text="lipitor" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M26" start="1124" end="1131" text="lipitor" time="before DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC15" time="during DCT" type1="statin" type2="">
+      <MEDICATION id="M27" start="1124" end="1131" text="lipitor" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M28" start="1124" end="1131" text="lipitor" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M29" start="1124" end="1131" text="lipitor" time="during DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC16" time="during DCT" type1="diuretic" type2="">
+      <MEDICATION id="M30" start="1087" end="1091" text="hctz" time="during DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M31" start="1087" end="1091" text="hctz" time="during DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M32" start="1087" end="1091" text="hctz" time="during DCT" type1="diuretic" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC18" time="before DCT" type1="aspirin" type2="">
+      <MEDICATION id="M33" start="1152" end="1157" text="ecasa" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M34" start="1152" end="1157" text="ecasa" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M35" start="1152" end="1157" text="ecasa" time="before DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC20" time="before DCT" type1="insulin" type2="">
+      <MEDICATION id="M36" start="1046" end="1053" text="insulin" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M37" start="1046" end="1053" text="insulin" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M38" start="1046" end="1053" text="insulin" time="before DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC22" time="after DCT" type1="diuretic" type2="">
+      <MEDICATION id="M39" start="1087" end="1091" text="hctz" time="after DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M40" start="1087" end="1091" text="hctz" time="after DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M41" start="1087" end="1091" text="hctz" time="after DCT" type1="diuretic" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC24" time="during DCT" type1="insulin" type2="">
+      <MEDICATION id="M42" start="1046" end="1053" text="insulin" time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M43" start="1046" end="1053" text="insulin" time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M44" start="1046" end="1053" text="insulin" time="during DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC4" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="790" end="793" text="HTN" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="790" end="793" text="HTN" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H2" start="790" end="793" text="HTN" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC11" time="during DCT" indicator="high bp">
+      <HYPERTENSION id="H3" start="1984" end="1993" text="BP:180/74" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H4" start="1984" end="1993" text="BP:180/74" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H5" start="1984" end="1993" text="BP:180/74" time="during DCT" indicator="high bp" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC12" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H6" start="790" end="793" text="HTN" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H7" start="790" end="793" text="HTN" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H8" start="790" end="793" text="HTN" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC23" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H9" start="790" end="793" text="HTN" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H10" start="790" end="793" text="HTN" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H11" start="790" end="793" text="HTN" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <FAMILY_HIST id="DOC25" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC19" status="never">
+      <SMOKER id="S0" start="931" end="943" text=" Smoking: no" status="never" comment=""/>
+      <SMOKER id="S1" start="932" end="943" text="Smoking: no" status="never" comment=""/>
+      <SMOKER id="S2" start="932" end="943" text="Smoking: no" status="never" comment=""/>
+    </SMOKER>
+    <DIABETES id="DOC7" time="during DCT" indicator="mention">
+      <DIABETES id="D0" start="799" end="807" text="DMx20yrs" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D1" start="799" end="801" text="DM" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D2" start="799" end="807" text="DMx20yrs" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC13" time="before DCT" indicator="mention">
+      <DIABETES id="D3" start="799" end="807" text="DMx20yrs" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D4" start="799" end="801" text="DM" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D5" start="799" end="807" text="DMx20yrs" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC26" time="after DCT" indicator="mention">
+      <DIABETES id="D6" start="799" end="807" text="DMx20yrs" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D7" start="799" end="801" text="DM" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D8" start="799" end="807" text="DMx20yrs" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+  </TAGS>
+</root>

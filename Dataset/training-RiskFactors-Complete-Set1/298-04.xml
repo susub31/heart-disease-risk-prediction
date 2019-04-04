@@ -1,0 +1,271 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2083-01-12
+
+86 yo male for follow up.  his main complaint is of ongoing left shoulder discomfort especially when raising arm over his head. some discomfort at night when he sleeps on it.
+
+also c/o intermittent regurgitation of food contents after meals.  no dysphagia or odynophagia.  
+
+ros; negative for chest pain, pressure, dyspnea,  edema or cold symptoms. 
+
+Problems
+
+Congestive heart failure 
+
+Chronic obstructive pulmonary disease 
+
+Hypertension 
+
+Gout 
+
+DJD 
+
+Benign prostatic hypertrophy 
+
+Hyperlipidemia 
+
+Chronic renal dysfunction 
+
+Peripheral vascular disease : s/p right fem-tib bypass 1/78
+
+Prostatic nodule : psa 1.6 09/81. seen by dr. hoover in 11/81 who recommended yearly follow up.
+
+Coronary artery disease : ett exam: 2080The ECG response to pharmacological stress was uninterpretable for ischemia. The myocardial perfusion images reveal no evidence of ischemia. The images are suggestive of possible prior inferior infarction although soft tissue attenuation prevents a definitive evaluation of this territory.
+
+sigmoid colorectal cancer : s/p sigmoid colectomy and sigmoidoscopy 04/82
+
+rs3PE 
+
+
+
+
+
+Medications
+
+Calcium Carbonate (500 Mg Elemental Ca ) 500MG, 1 Tablet(s) PO QD : Take as directed 
+
+Prilosec (OMEPRAZOLE) 20MG, 1 Capsule(s) PO QD
+
+Lasix (FUROSEMIDE) 40MG, 1 Tablet(s) PO BID : Take as directed 
+
+Celebrex (CELECOXIB) 200MG, 1 Capsule(s) PO QD : Take as directed 
+
+PREDNISONE 5MG, 1 Tablet(s) PO QD
+
+Hydralazine Hcl 10MG, 1 Tablet(s) PO QID x 60 day(s) : Take as directed 
+
+Isordil (ISOSORBIDE Dinitrate) 20MG, 1 Tablet(s) PO TID : Take as directed 
+
+Coumadin (WARFARIN Sodium) 3MG, 1 Tablet(s) PO QPM : Take as directed per anticoag
+
+COLCHICINE 0.6MG, 1 Tablet(s) PO QOD : Take as directed 
+
+Metoprolol Tartrate 50MG, 1 Tablet(s) PO BID : Take as directed 
+
+ALLOPURINOL 100MG, 1 Tablet(s) PO QD : Take as directed 
+
+DIGOXIN 0.125MG, 1 Tablet(s) PO QOD : Take as directed 
+
+
+
+
+
+Allergies
+
+Penicillins - Unknown 
+
+
+
+exam
+
+weight 188(down 6lbs)
+
+120/70
+
+76
+
+appears well
+
+left shoulder:  able to abduct up to 110 degrees before discomfort.
+
+no subacromial or anterior biceps tendon tenderness.
+
+cor;RRRs1s2
+
+lungs: clear
+
+ext: no edema
+
+
+
+a/p
+
+gerd:  no dysphagia but i notice he has lost six lbs since last visit.  will send him for ugi series to investigate further.   continue with prilosec
+
+
+
+left shoulder tendinitis:  continue with celebrex.  he is followed by rheumatology. 
+
+
+
+b12 deficiency:  lvl 222.  b12 1000mcg im to left deltoid.  follow up in six weeks. 
+
+
+
+hypertriglyceridemia:   chol 210 but trig of 497 and hdl 32: begin lopid  600 mg po bid. 
+
+cad: stable with no angina or failure.
+
+
+
+htn; stable. 
+
+Health maintenance
+
+Influenza Vaccine 10/06/2082 
+
+Cholesterol 10/15/2082 210 DESIRABLE: less then 200
+
+Rectal exam 10/02/2081 
+
+Stool Guaiac 12/05/2081 one trace postiive out of three Done - positive 
+
+Pneumovax 11/07/75 
+
+Smoking status 10/02/2081 Never a smoker 
+
+UA-Protein 08/31/2081 1+ 
+
+
+
+
+
+
+
+
+
+_____________________________________________
+
+David S. Hale, M.D.
+
+
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <HYPERTENSION id="DOC0" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="456" end="468" text="Hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="456" end="468" text="Hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H2" start="456" end="469" text="Hypertension " time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERLIPIDEMIA id="DOC1" time="before DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY0" start="515" end="529" text="Hyperlipidemia" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY1" start="515" end="529" text="Hyperlipidemia" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY2" start="515" end="530" text="Hyperlipidemia " time="before DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <MEDICATION id="DOC2" time="after DCT" type1="nitrate" type2="">
+      <MEDICATION id="M0" start="1526" end="1533" text="Isordil" time="after DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M1" start="1526" end="1533" text="Isordil" time="after DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M2" start="1526" end="1534" text="Isordil " time="after DCT" type1="nitrate" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC3" time="during DCT" type1="nitrate" type2="">
+      <MEDICATION id="M3" start="1526" end="1533" text="Isordil" time="during DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M4" start="1526" end="1533" text="Isordil" time="during DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M5" start="1526" end="1534" text="Isordil " time="during DCT" type1="nitrate" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERLIPIDEMIA id="DOC4" time="during DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY3" start="515" end="529" text="Hyperlipidemia" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY4" start="515" end="529" text="Hyperlipidemia" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY5" start="515" end="530" text="Hyperlipidemia " time="during DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <MEDICATION id="DOC5" time="after DCT" type1="fibrate" type2="">
+      <MEDICATION id="M6" start="2590" end="2595" text="lopid" time="after DCT" type1="fibrate" type2="" comment=""/>
+      <MEDICATION id="M7" start="2583" end="2596" text=" begin lopid " time="after DCT" type1="fibrate" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC6" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H3" start="456" end="468" text="Hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H4" start="456" end="468" text="Hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H5" start="456" end="469" text="Hypertension " time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <MEDICATION id="DOC7" time="after DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M8" start="1745" end="1755" text="Metoprolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M9" start="1745" end="1755" text="Metoprolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M10" start="1745" end="1755" text="Metoprolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <CAD id="DOC8" time="after DCT" indicator="mention">
+      <CAD id="C0" start="718" end="741" text="Coronary artery disease" time="after DCT" indicator="mention" comment=""/>
+      <CAD id="C1" start="718" end="741" text="Coronary artery disease" time="after DCT" indicator="mention" comment=""/>
+      <CAD id="C2" start="718" end="741" text="Coronary artery disease" time="after DCT" indicator="mention" comment=""/>
+      <CAD id="C3" start="1526" end="1534" text="Isordil " time="after DCT" indicator="mention" comment=""/>
+    </CAD>
+    <FAMILY_HIST id="DOC9" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <HYPERLIPIDEMIA id="DOC10" time="after DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY6" start="515" end="529" text="Hyperlipidemia" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY7" start="515" end="529" text="Hyperlipidemia" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY8" start="515" end="530" text="Hyperlipidemia " time="after DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <CAD id="DOC11" time="during DCT" indicator="mention">
+      <CAD id="C4" start="718" end="741" text="Coronary artery disease" time="during DCT" indicator="mention" comment=""/>
+      <CAD id="C5" start="718" end="741" text="Coronary artery disease" time="during DCT" indicator="mention" comment=""/>
+      <CAD id="C6" start="718" end="741" text="Coronary artery disease" time="during DCT" indicator="mention" comment=""/>
+      <CAD id="C7" start="1526" end="1534" text="Isordil " time="during DCT" indicator="mention" comment=""/>
+    </CAD>
+    <MEDICATION id="DOC12" time="before DCT" type1="nitrate" type2="">
+      <MEDICATION id="M11" start="1526" end="1533" text="Isordil" time="before DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M12" start="1526" end="1533" text="Isordil" time="before DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M13" start="1526" end="1534" text="Isordil " time="before DCT" type1="nitrate" type2="" comment=""/>
+    </MEDICATION>
+    <SMOKER id="DOC13" status="never">
+      <SMOKER id="S0" start="2921" end="2936" text="Never a smoker " status="never" comment=""/>
+      <SMOKER id="S1" start="2921" end="2935" text="Never a smoker" status="never" comment=""/>
+      <SMOKER id="S2" start="2921" end="2936" text="Never a smoker " status="never" comment=""/>
+    </SMOKER>
+    <HYPERTENSION id="DOC14" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H6" start="456" end="468" text="Hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H7" start="456" end="468" text="Hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H8" start="456" end="469" text="Hypertension " time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <MEDICATION id="DOC15" time="before DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M14" start="1745" end="1755" text="Metoprolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M15" start="1745" end="1755" text="Metoprolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M16" start="1745" end="1755" text="Metoprolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC16" time="during DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M17" start="1745" end="1755" text="Metoprolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M18" start="1745" end="1755" text="Metoprolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M19" start="1745" end="1755" text="Metoprolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <CAD id="DOC17" time="before DCT" indicator="mention">
+      <CAD id="C8" start="718" end="741" text="Coronary artery disease" time="before DCT" indicator="mention" comment=""/>
+      <CAD id="C9" start="718" end="741" text="Coronary artery disease" time="before DCT" indicator="mention" comment=""/>
+      <CAD id="C10" start="718" end="741" text="Coronary artery disease" time="before DCT" indicator="mention" comment=""/>
+      <CAD id="C11" start="1526" end="1534" text="Isordil " time="before DCT" indicator="mention" comment=""/>
+    </CAD>
+    <PHI id="P0" start="16" end="26" text="2083-01-12" TYPE="DATE"/>
+    <PHI id="P1" start="28" end="30" text="86" TYPE="AGE"/>
+    <PHI id="P2" start="615" end="619" text="1/78" TYPE="DATE"/>
+    <PHI id="P3" start="648" end="653" text="09/81" TYPE="DATE"/>
+    <PHI id="P4" start="667" end="673" text="hoover" TYPE="DOCTOR"/>
+    <PHI id="P5" start="677" end="682" text="11/81" TYPE="DATE"/>
+    <PHI id="P6" start="754" end="758" text="2080" TYPE="DATE"/>
+    <PHI id="P7" start="1117" end="1122" text="04/82" TYPE="DATE"/>
+    <PHI id="P8" start="2709" end="2719" text="10/06/2082" TYPE="DATE"/>
+    <PHI id="P9" start="2734" end="2744" text="10/15/2082" TYPE="DATE"/>
+    <PHI id="P10" start="2787" end="2797" text="10/02/2081" TYPE="DATE"/>
+    <PHI id="P11" start="2813" end="2823" text="12/05/2081" TYPE="DATE"/>
+    <PHI id="P12" start="2884" end="2892" text="11/07/75" TYPE="DATE"/>
+    <PHI id="P13" start="2910" end="2920" text="10/02/2081" TYPE="DATE"/>
+    <PHI id="P14" start="2949" end="2959" text="08/31/2081" TYPE="DATE"/>
+    <PHI id="P15" start="3020" end="3033" text="David S. Hale" TYPE="DOCTOR"/>
+  </TAGS>
+</root>

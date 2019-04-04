@@ -1,0 +1,268 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2098-07-20
+
+ 
+
+ 
+
+July 20, 2098
+
+ 
+
+ 
+
+ 
+
+Patricia Islam, M.D.
+
+Redwood Area Hospital
+
+34 Tamworth Place/Internal Medicine
+
+Cass City, MS  25448
+
+ 
+
+Re:  Brady Duvall
+
+     MR #425-03-15-1
+
+ 
+
+Dear Patricia:
+
+ 
+
+I saw Brady Duvall again today.  He has been very stable
+
+clinically over these past six months.  I believe this represents
+
+a composite of the following three major changes in his medical
+
+regimen.  As you know, we have discontinued all beta blockers,
+
+and this has been associated with a symptomatic stability.  He
+
+had biventricular pacing box placed, certainly contributing to
+
+his overall improved status and he is now taking a regular dose
+
+of Lasix.  He is on 80 mg alternating with 40 mg per day.  He
+
+does have symptoms of fatigue, but his overall volume status is
+
+quite reasonable.  He is currently on Aldactone 25 mg daily and
+
+Lasix 80 mg per day alternating with 40 mg per day, Captopril
+
+6.25 mg p.o. t.i.d., Zocor, insulin, Glucophage, aspirin, and
+
+mexiletine.  His amiodarone has been discontinued.  He does have
+
+asymptomatic ventricular tachycardia, often paced out of this,
+
+but I am reluctant to recommend ablation therapy for him at the
+
+present time.  He has not been shocked by his ICD.
+
+ 
+
+Functionally he seems quite stable.  He does have mild fatigue,
+
+but is otherwise reasonably active.  He will hopefully be
+
+traveling to Miami this spring.
+
+ 
+
+Physical examination today is of note for a weight of 184 lbs. 
+
+His blood pressure is 118/70, his resting pulse 69.  His neck
+
+veins are in fact, quite unimpressive.  There is minimal jugular
+
+distention, perhaps 6-7 cm.  There is no hepatojugular reflux.  
+
+ 
+
+ 
+
+Re:  Brady Duvall
+
+     MR #425-03-15-1                 -2-                07/18/98
+
+ 
+
+Lungs were clear.  Examination of his heart reveals a quiet
+
+precordium.  S1 and S2 seem normal.  No S3, no gallop and no
+
+murmur or mitral regurgitation.  Abdomen is benign without
+
+palpable liver or spleen and there was no peripheral edema. 
+
+There are bilateral varicosities.
+
+ 
+
+His electrocardiogram shows pace rhythm.
+
+ 
+
+Mr. Brady Duvall is currently stable on this regimen. 
+
+Accordingly, I have made no changes.  I have checked appropriate
+
+electrolytes.
+
+ 
+
+Many thanks for letting us participate in his care.
+
+ 
+
+With best regards.
+
+ 
+
+Sincerely,
+
+ 
+
+ 
+
+ 
+
+U. L. Dana, M.D.
+
+ 
+
+/paris
+
+ 
+
+ 
+
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="during DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M0" start="920" end="929" text="Captopril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M1" start="920" end="929" text="Captopril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M2" start="920" end="929" text="Captopril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC1" time="after DCT" type1="statin" type2="">
+      <MEDICATION id="M3" start="952" end="957" text="Zocor" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M4" start="952" end="957" text="Zocor" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M5" start="952" end="957" text="Zocor" time="after DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC2" time="during DCT" type1="aspirin" type2="">
+      <MEDICATION id="M6" start="980" end="987" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M7" start="980" end="987" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M8" start="980" end="987" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC3" time="after DCT" type1="metformin" type2="">
+      <MEDICATION id="M9" start="968" end="978" text="Glucophage" time="after DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M10" start="968" end="978" text="Glucophage" time="after DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M11" start="968" end="978" text="Glucophage" time="after DCT" type1="metformin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC4" time="during DCT" type1="metformin" type2="">
+      <MEDICATION id="M12" start="968" end="978" text="Glucophage" time="during DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M13" start="968" end="978" text="Glucophage" time="during DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M14" start="968" end="978" text="Glucophage" time="during DCT" type1="metformin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC5" time="after DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M15" start="920" end="929" text="Captopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M16" start="920" end="929" text="Captopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M17" start="920" end="929" text="Captopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC6" time="after DCT" type1="aspirin" type2="">
+      <MEDICATION id="M18" start="980" end="987" text="aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M19" start="980" end="987" text="aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M20" start="980" end="987" text="aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC7" time="after DCT" type1="insulin" type2="">
+      <MEDICATION id="M21" start="959" end="966" text="insulin" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M22" start="959" end="966" text="insulin" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M23" start="958" end="966" text=" insulin" time="after DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <SMOKER id="DOC8" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" start="3" end="9" text="Record" status="unknown" comment=""/>
+      <SMOKER id="S2" status="unknown"/>
+    </SMOKER>
+    <MEDICATION id="DOC9" time="before DCT" type1="statin" type2="">
+      <MEDICATION id="M24" start="952" end="957" text="Zocor" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M25" start="952" end="957" text="Zocor" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M26" start="952" end="957" text="Zocor" time="before DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC10" time="during DCT" type1="statin" type2="">
+      <MEDICATION id="M27" start="952" end="957" text="Zocor" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M28" start="952" end="957" text="Zocor" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M29" start="952" end="957" text="Zocor" time="during DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC11" time="before DCT" type1="metformin" type2="">
+      <MEDICATION id="M30" start="968" end="978" text="Glucophage" time="before DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M31" start="968" end="978" text="Glucophage" time="before DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M32" start="968" end="978" text="Glucophage" time="before DCT" type1="metformin" type2="" comment=""/>
+    </MEDICATION>
+    <FAMILY_HIST id="DOC12" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <MEDICATION id="DOC13" time="before DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M33" start="920" end="929" text="Captopril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M34" start="920" end="929" text="Captopril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M35" start="920" end="929" text="Captopril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC14" time="before DCT" type1="aspirin" type2="">
+      <MEDICATION id="M36" start="980" end="987" text="aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M37" start="980" end="987" text="aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M38" start="980" end="987" text="aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC15" time="before DCT" type1="insulin" type2="">
+      <MEDICATION id="M39" start="959" end="966" text="insulin" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M40" start="959" end="966" text="insulin" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M41" start="958" end="966" text=" insulin" time="before DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC16" time="during DCT" type1="insulin" type2="">
+      <MEDICATION id="M42" start="959" end="966" text="insulin" time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M43" start="959" end="966" text="insulin" time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M44" start="958" end="966" text=" insulin" time="during DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC17" time="before DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M45" start="449" end="481" text="discontinued all beta blockers, " time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M46" start="449" end="479" text="discontinued all beta blockers" time="before DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <PHI id="P0" start="16" end="26" text="2098-07-20" TYPE="DATE"/>
+    <PHI id="P1" start="34" end="47" text="July 20, 2098" TYPE="DATE"/>
+    <PHI id="P2" start="58" end="72" text="Patricia Islam" TYPE="DOCTOR"/>
+    <PHI id="P3" start="80" end="101" text="Redwood Area Hospital" TYPE="HOSPITAL"/>
+    <PHI id="P4" start="103" end="120" text="34 Tamworth Place" TYPE="STREET"/>
+    <PHI id="P5" start="140" end="149" text="Cass City" TYPE="CITY"/>
+    <PHI id="P6" start="151" end="153" text="MS" TYPE="STATE"/>
+    <PHI id="P7" start="155" end="160" text="25448" TYPE="ZIP"/>
+    <PHI id="P8" start="170" end="182" text="Brady Duvall" TYPE="PATIENT"/>
+    <PHI id="P9" start="193" end="204" text="425-03-15-1" TYPE="MEDICALRECORD"/>
+    <PHI id="P10" start="214" end="222" text="Patricia" TYPE="DOCTOR"/>
+    <PHI id="P11" start="234" end="246" text="Brady Duvall" TYPE="PATIENT"/>
+    <PHI id="P12" start="1381" end="1386" text="Miami" TYPE="CITY"/>
+    <PHI id="P13" start="1392" end="1398" text="spring" TYPE="DATE"/>
+    <PHI id="P14" start="1675" end="1687" text="Brady Duvall" TYPE="PATIENT"/>
+    <PHI id="P15" start="1698" end="1709" text="425-03-15-1" TYPE="MEDICALRECORD"/>
+    <PHI id="P16" start="1745" end="1753" text="07/18/98" TYPE="DATE"/>
+    <PHI id="P17" start="2090" end="2102" text="Brady Duvall" TYPE="PATIENT"/>
+    <PHI id="P18" start="2326" end="2336" text="U. L. Dana" TYPE="DOCTOR"/>
+    <PHI id="P19" start="2348" end="2353" text="paris" TYPE="DOCTOR"/>
+  </TAGS>
+</root>

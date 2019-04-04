@@ -1,0 +1,229 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2095-03-19
+
+Admit Note
+
+Dr. Vernell Fournier
+
+
+
+Ms. Francis is a Spanish speaking 80 yr old broadcast manager transferred from LRC to PAH for evaluation.  Hx obtaiend from prior LMR notes and conversation with ED physicians.
+
+
+
+Her PMH is notable for HTN, GERD, possible CAD, PVD, possible fibromyalgia with known perforated diverticulitis with abscess, s/p drain in 1/95.  She has been on broad spectrum antibiotics for many weeks. Given her refusal for transfusions and her comorbidities and personal refusal for surgery, she has been treated medically and conservatively.  She was at LRC and was on cefipime, linezolid and oral flagyl for her diverticulitis and was transfererd to PAH ED for ?slurred speech, change in MS, nausea and abdominal pain.  In ED, an abd CT done showed new moderate wall thickening in transverse adn descending colon with diverticular disease. A head CT was unremarkable and according to prior notes in chart, family membes felt her speech is baseline.  
+
+
+
+Meds: nexium 40 mg bid, neurontin 400 mg bid, isordil 20 mg tid, zocor 20 mg qd, methadone 2.5 mg qd, asa 325 mg qd, amantadine 5 mg qd, linezolid 600 mg bid, cefepime 1000 mg IV qd, flagyl 500 mg po tid, lisinopril 10 mg qd, metoprolol 75 mg bid, EPO 4000 units sc q month and ferrous sulfate 325 mg tid. 
+
+
+
+NKA
+
+
+
+PSH: right THR in 2088
+
+
+
+FH: unobtainable at this time
+
+SH: no ETOH and o toabcco use
+
+
+
+ROS: otherwise negative.
+
+
+
+On exam 120/70, 98.5, rr 14, pulse 65
+
+
+
+she appears comfortable
+
+abdomen is soft and nontender, no drainages from IR catheter.
+
+clear lungs
+
+s1s2s4 with flow murmur
+
+no edema, diminished peripheral pulses
+
+neuro exam is limited, she can follow instructions (I speak some spanish) and moves all fours.  Speech is a bit slurred.  gait not tested.
+
+right arm: no evidence of cellulitis from IV infiiltration.
+
+
+
+data: ECGL NSR 74, nonspecific T wave anl in V2-V6.
+
+wbc 4,100, hct 28.0, plt 220,000.  diff: 79% PMN, 17% lymph, 3% mon.
+
+Na 127 (hx of chronic hyponatremia), K 3.8,BUN/cr 11/0.7, glucose 158
+
+albumin 2.9, normal LFTs, amylase, lipase.
+
+
+
+imp: 80 year old with HTN, PVD, possible CAD, fibromyalgia with perforated diverticulitis and now worsening colonic thickening on abd CT while on broad spectrum antibiotics.  She has declined surgery in past and again declined surgery yesterday in ED.  Will thus continue current antibiotics, await C diff from stool.  
+
+-check iron levels
+
+-would obtain MRA of mesenteric  vessels to look for mesenteric ischemia (PVD, HTN, CAD, etc).
+
+-hold off on colonoscopy for now given risk for perforation.
+
+-cycle cardiac markers, continue antiHTN and anti-ischemic regimen.
+
+-consult GI and cardiology if clinical conditions worsen.
+
+
+
+
+
+______________________________                              
+
+
+
+Vernell Fournier, M.D. # 59427
+
+
+
+cc: Dr. Turk
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="during DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M0" start="1209" end="1219" text="lisinopril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M1" start="1209" end="1219" text="lisinopril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M2" start="1208" end="1219" text=" lisinopril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC1" time="after DCT" type1="statin" type2="">
+      <MEDICATION id="M3" start="1069" end="1074" text="zocor" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M4" start="1069" end="1074" text="zocor" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M5" start="1068" end="1075" text=" zocor " time="after DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC2" time="during DCT" type1="aspirin" type2="">
+      <MEDICATION id="M6" start="1106" end="1109" text="asa" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M7" start="1106" end="1109" text="asa" time="during DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC4" time="after DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M8" start="1209" end="1219" text="lisinopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M9" start="1209" end="1219" text="lisinopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M10" start="1208" end="1219" text=" lisinopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC5" time="after DCT" type1="aspirin" type2="">
+      <MEDICATION id="M11" start="1106" end="1109" text="asa" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M12" start="1106" end="1109" text="asa" time="after DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC6" time="after DCT" type1="nitrate" type2="">
+      <MEDICATION id="M13" start="1050" end="1057" text="isordil" time="after DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M14" start="1050" end="1057" text="isordil" time="after DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M15" start="1050" end="1057" text="isordil" time="after DCT" type1="nitrate" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC7" time="during DCT" type1="nitrate" type2="">
+      <MEDICATION id="M16" start="1050" end="1057" text="isordil" time="during DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M17" start="1050" end="1057" text="isordil" time="during DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M18" start="1050" end="1057" text="isordil" time="during DCT" type1="nitrate" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC9" time="after DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M19" start="1230" end="1240" text="metoprolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M20" start="1230" end="1240" text="metoprolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M21" start="1230" end="1241" text="metoprolol " time="after DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC11" time="before DCT" type1="statin" type2="">
+      <MEDICATION id="M22" start="1069" end="1074" text="zocor" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M23" start="1069" end="1074" text="zocor" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M24" start="1068" end="1075" text=" zocor " time="before DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC12" time="during DCT" type1="statin" type2="">
+      <MEDICATION id="M25" start="1069" end="1074" text="zocor" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M26" start="1069" end="1074" text="zocor" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M27" start="1068" end="1075" text=" zocor " time="during DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC14" time="before DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M28" start="1209" end="1219" text="lisinopril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M29" start="1209" end="1219" text="lisinopril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M30" start="1208" end="1219" text=" lisinopril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC16" time="before DCT" type1="aspirin" type2="">
+      <MEDICATION id="M31" start="1106" end="1109" text="asa" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M32" start="1106" end="1109" text="asa" time="before DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC17" time="before DCT" type1="nitrate" type2="">
+      <MEDICATION id="M33" start="1050" end="1057" text="isordil" time="before DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M34" start="1050" end="1057" text="isordil" time="before DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M35" start="1050" end="1057" text="isordil" time="before DCT" type1="nitrate" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC20" time="before DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M36" start="1230" end="1240" text="metoprolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M37" start="1230" end="1240" text="metoprolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M38" start="1230" end="1241" text="metoprolol " time="before DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC21" time="during DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M39" start="1230" end="1240" text="metoprolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M40" start="1230" end="1240" text="metoprolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M41" start="1230" end="1241" text="metoprolol " time="during DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC3" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="267" end="270" text="HTN" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="267" end="270" text="HTN" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H2" start="2111" end="2114" text="HTN" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H3" start="2509" end="2512" text="HTN" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H4" start="267" end="270" text="HTN" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC8" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H5" start="267" end="270" text="HTN" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H6" start="267" end="270" text="HTN" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H7" start="2111" end="2114" text="HTN" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H8" start="2509" end="2512" text="HTN" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H9" start="267" end="270" text="HTN" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC19" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H10" start="267" end="270" text="HTN" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H11" start="267" end="270" text="HTN" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H12" start="2111" end="2114" text="HTN" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H13" start="2509" end="2512" text="HTN" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H14" start="267" end="270" text="HTN" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <CAD id="DOC10" time="after DCT" indicator="mention">
+      <CAD id="C0" start="287" end="290" text="CAD" time="after DCT" indicator="mention" comment=""/>
+      <CAD id="C1" start="2130" end="2133" text="CAD" time="after DCT" indicator="mention" comment=""/>
+      <CAD id="C2" start="2514" end="2517" text="CAD" time="after DCT" indicator="mention" comment=""/>
+      <CAD id="C3" start="278" end="290" text="possible CAD" time="after DCT" indicator="mention" comment="possible"/>
+      <CAD id="C4" start="1050" end="1057" text="isordil" time="after DCT" indicator="mention" comment=""/>
+    </CAD>
+    <CAD id="DOC15" time="during DCT" indicator="mention">
+      <CAD id="C5" start="287" end="290" text="CAD" time="during DCT" indicator="mention" comment=""/>
+      <CAD id="C6" start="2130" end="2133" text="CAD" time="during DCT" indicator="mention" comment=""/>
+      <CAD id="C7" start="2514" end="2517" text="CAD" time="during DCT" indicator="mention" comment=""/>
+      <CAD id="C8" start="278" end="290" text="possible CAD" time="during DCT" indicator="mention" comment="possible"/>
+      <CAD id="C9" start="1050" end="1057" text="isordil" time="during DCT" indicator="mention" comment=""/>
+    </CAD>
+    <CAD id="DOC22" time="before DCT" indicator="mention">
+      <CAD id="C10" start="287" end="290" text="CAD" time="before DCT" indicator="mention" comment=""/>
+      <CAD id="C11" start="2130" end="2133" text="CAD" time="before DCT" indicator="mention" comment=""/>
+      <CAD id="C12" start="2514" end="2517" text="CAD" time="before DCT" indicator="mention" comment=""/>
+      <CAD id="C13" start="278" end="290" text="possible CAD" time="before DCT" indicator="mention" comment="possible"/>
+      <CAD id="C14" start="1050" end="1057" text="isordil" time="before DCT" indicator="mention" comment=""/>
+    </CAD>
+    <FAMILY_HIST id="DOC13" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC18" status="never">
+      <SMOKER id="S0" start="1378" end="1407" text="SH: no ETOH and o toabcco use" status="never" comment=""/>
+      <SMOKER id="S1" start="1394" end="1407" text="o toabcco use" status="never" comment=""/>
+      <SMOKER id="S2" start="1394" end="1403" text="o toabcco" status="never" comment=""/>
+    </SMOKER>
+  </TAGS>
+</root>

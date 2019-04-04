@@ -1,0 +1,378 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2070-10-01
+
+ 
+
+IMS Cardiovascular Division
+
+CVD TR7
+
+33 Auburn Street                                      JOSHI, KATHY
+
+Rehoboth, NM 42761                                           15842112
+
+(326) 176-2429                                           10/01/70
+
+ 
+
+ 
+
+ 
+
+ 
+
+Benjamin Taylor, M.D.
+
+Illini Community Hospital
+
+94 Cardinal Circle
+
+Three Rivers, NM 11424.
+
+ 
+
+ 
+
+Dear Dr. Taylor:
+
+ 
+
+Mrs. Joshi returns for followup.  Currently, she complains of
+
+exertional fatigue, exertional dyspnea, and mild peripheral
+
+edema.  Since last seen, she has continued to find it quite
+
+difficult to lose weight, and has thus far declined seeing
+
+members of our obesity clinic.  As you know, in the past, she
+
+also has declined any consideration of attempted cardioversion or
+
+other invasive studies.  Presently, she remains on a regimen of
+
+enteric-coated aspirin 325 mg p.o. q.d., simvastatin 20 mg p.o.
+
+q.d., metoprolol 50 mg p.o. b.i.d., isosorbide nitrate 60 mg p.o.
+
+q.d., Avapro 150 mg p.o. q.d., Actos 45 mg p.o. q.d., potassium,
+
+10 mEq p.o. q.d. Pumex 2 mg p.o. q.d., Coumadin, magnesium oxide,
+
+Humulin insulin 20 units subcutaneous q. a.m. along with 50 units
+
+subcutaneous q. p.m., and Humalog 26 units subcutaneous q. a.m.
+
+ 
+
+Physical examination reveals a markedly overweight woman in no
+
+acute distress.  Blood pressure right arm sitting at 106/62,
+
+heart rate 65 and irregularly regular, respirations 16 and
+
+unlabored, weight 306 lbs, which is 6 lbs above her weight 10
+
+months ago.  The neck is soft.  JVP is flat.  Carotids without
+
+significant bruits.  Chest is clear.  Cardiac exam reveals a
+
+normal S1, a physiologically split S2, with a1-2/6 systolic
+
+murmur radiating from apex to the base.  No significant diastolic
+
+murmur or rub.  The abdomen is obese, but otherwise benign.
+
+Extremities reveal 1-2+ bipedal edema, peripheral pulses are
+
+intact albeit mildly diminished.
+
+ 
+
+Electrocardiogram shows atrial fibrillation with a variable QRS
+
+response.  The P waves are more organized than one might usually
+
+see, suggesting the possibility of fibrillation/flutter as well. 
+
+QRS 0.11, QT 0.38, axis 90 degrees, there is evidence of a prior
+
+inferior myocardial infarction.  Compared with his last
+
+electrocardiogram, there is no significant change.
+
+ 
+
+Impression:  Mrs. Joshy continues to suffer from morbid obesity,
+
+and I had a long discussion with her and her daughter regarding
+
+the essential nature of her engaging in an aggressive weigh
+
+reduction program.  I once again have strongly encouraged her to
+
+make an appointment with our obesity clinic to assist in
+
+extensive weight reduction.  I also discussed with her my
+
+concerns regarding her symptoms of slowly progressive peripheral
+
+edema, particularly as it pertains both to her weight, and atrial
+
+or tachyarrhythmias.  As in the past, she told me that she would
+
+refuse any consideration for attempted cardioversion or other
+
+studies.  She did, however, agree to continue with her current
+
+medical regimen.  I obtained routine blood studies today to
+
+verify the adequacy of her lipid control and diabetes management.
+
+ I have introduced her to Hayden Nutter, her nurse practitioner, who
+
+will assist in trying to achieve a little more diuresis overt he
+
+next few weeks.  We have given her a prescription for Zaroxylyn
+
+to begin at 2.5 mg p.o. q.d., which will help result in some
+
+degree of mild diuresis.  Nonetheless, she understands that
+
+significant weight loss can only occur through a weight reduction
+
+program.  I have of course explained to her the increased cardiac
+
+morbidity associated with her current lifestyle.  Beyond this, I
+
+have not altered her current medical regimen.
+
+ 
+
+Of course, I thank you for allowing me to assist in his care.
+
+ 
+
+Sincerely yours,
+
+ 
+
+Dictated By: Brandon Neilson
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+______________________________
+
+Brandon Neilson, M.D.
+
+ 
+
+ 
+
+eScription document:8-5334486 AFFocus
+
+ 
+
+ 
+
+ 
+
+DD: 10/01/70
+
+DT: 10/02/70
+
+DV: 10/01/70
+
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="after DCT" type1="statin" type2="">
+      <MEDICATION id="M0" start="890" end="901" text="simvastatin" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M1" start="890" end="901" text="simvastatin" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M2" start="890" end="901" text="simvastatin" time="after DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC1" time="during DCT" type1="aspirin" type2="">
+      <MEDICATION id="M3" start="864" end="871" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M4" start="864" end="871" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M5" start="864" end="871" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <OBESE id="DOC2" time="after DCT" indicator="mention">
+      <OBESE id="O0" start="2344" end="2351" text="obesity" time="after DCT" indicator="mention" comment=""/>
+      <OBESE id="O1" start="669" end="676" text="obesity" time="after DCT" indicator="mention" comment=""/>
+      <OBESE id="O2" start="2337" end="2351" text="morbid obesity" time="after DCT" indicator="mention" comment=""/>
+    </OBESE>
+    <MEDICATION id="DOC3" time="after DCT" type1="aspirin" type2="">
+      <MEDICATION id="M6" start="864" end="871" text="aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M7" start="864" end="871" text="aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M8" start="864" end="871" text="aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC4" time="after DCT" type1="nitrate" type2="">
+      <MEDICATION id="M9" start="950" end="968" text="isosorbide nitrate" time="after DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M10" start="949" end="968" text=" isosorbide nitrate" time="after DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M11" start="950" end="968" text="isosorbide nitrate" time="after DCT" type1="nitrate" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC5" time="during DCT" type1="nitrate" type2="">
+      <MEDICATION id="M12" start="950" end="968" text="isosorbide nitrate" time="during DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M13" start="949" end="968" text=" isosorbide nitrate" time="during DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M14" start="950" end="968" text="isosorbide nitrate" time="during DCT" type1="nitrate" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC6" time="after DCT" type1="insulin" type2="">
+      <MEDICATION id="M15" start="1114" end="1129" text="Humulin insulin" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M16" start="1207" end="1214" text="Humalog" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M17" start="1114" end="1121" text="Humulin" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M18" start="1207" end="1214" text="Humalog" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M19" start="1114" end="1129" text="Humulin insulin" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M20" start="1207" end="1214" text="Humalog" time="after DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC7" time="before DCT" type1="thiazolidinedione" type2="">
+      <MEDICATION id="M21" start="1012" end="1017" text="Actos" time="before DCT" type1="thiazolidinedione" type2="" comment=""/>
+      <MEDICATION id="M22" start="1012" end="1017" text="Actos" time="before DCT" type1="thiazolidinedione" type2="" comment=""/>
+      <MEDICATION id="M23" start="1012" end="1017" text="Actos" time="before DCT" type1="thiazolidinedione" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC8" time="after DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M24" start="920" end="930" text="metoprolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M25" start="920" end="930" text="metoprolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M26" start="920" end="930" text="metoprolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <SMOKER id="DOC9" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" status="unknown"/>
+      <SMOKER id="S2" status="unknown"/>
+    </SMOKER>
+    <MEDICATION id="DOC10" time="after DCT" type1="ARB" type2="">
+      <MEDICATION id="M27" start="987" end="993" text="Avapro" time="after DCT" type1="ARB" type2="" comment=""/>
+      <MEDICATION id="M28" start="987" end="993" text="Avapro" time="after DCT" type1="ARB" type2="" comment=""/>
+      <MEDICATION id="M29" start="987" end="993" text="Avapro" time="after DCT" type1="ARB" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC11" time="before DCT" type1="statin" type2="">
+      <MEDICATION id="M30" start="890" end="901" text="simvastatin" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M31" start="890" end="901" text="simvastatin" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M32" start="890" end="901" text="simvastatin" time="before DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC12" time="during DCT" type1="statin" type2="">
+      <MEDICATION id="M33" start="890" end="901" text="simvastatin" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M34" start="890" end="901" text="simvastatin" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M35" start="890" end="901" text="simvastatin" time="during DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <OBESE id="DOC13" time="before DCT" indicator="mention">
+      <OBESE id="O3" start="2344" end="2351" text="obesity" time="before DCT" indicator="mention" comment=""/>
+      <OBESE id="O4" start="669" end="676" text="obesity" time="before DCT" indicator="mention" comment=""/>
+      <OBESE id="O5" start="2337" end="2351" text="morbid obesity" time="before DCT" indicator="mention" comment=""/>
+    </OBESE>
+    <FAMILY_HIST id="DOC14" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <MEDICATION id="DOC15" time="before DCT" type1="aspirin" type2="">
+      <MEDICATION id="M36" start="864" end="871" text="aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M37" start="864" end="871" text="aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M38" start="864" end="871" text="aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC16" time="before DCT" type1="nitrate" type2="">
+      <MEDICATION id="M39" start="950" end="968" text="isosorbide nitrate" time="before DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M40" start="949" end="968" text=" isosorbide nitrate" time="before DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M41" start="950" end="968" text="isosorbide nitrate" time="before DCT" type1="nitrate" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC17" time="during DCT" type1="thiazolidinedione" type2="">
+      <MEDICATION id="M42" start="1012" end="1017" text="Actos" time="during DCT" type1="thiazolidinedione" type2="" comment=""/>
+      <MEDICATION id="M43" start="1012" end="1017" text="Actos" time="during DCT" type1="thiazolidinedione" type2="" comment=""/>
+      <MEDICATION id="M44" start="1012" end="1017" text="Actos" time="during DCT" type1="thiazolidinedione" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC18" time="before DCT" type1="insulin" type2="">
+      <MEDICATION id="M45" start="1114" end="1129" text="Humulin insulin" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M46" start="1207" end="1214" text="Humalog" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M47" start="1114" end="1121" text="Humulin" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M48" start="1207" end="1214" text="Humalog" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M49" start="1114" end="1129" text="Humulin insulin" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M50" start="1207" end="1214" text="Humalog" time="before DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <CAD id="DOC19" time="before DCT" indicator="event">
+      <CAD id="C0" start="2176" end="2206" text="inferior myocardial infarction" time="before DCT" indicator="event" comment=""/>
+      <CAD id="C1" start="2155" end="2206" text="evidence of a prior  inferior myocardial infarction" time="before DCT" indicator="event" comment=""/>
+      <CAD id="C2" start="2169" end="2206" text="prior  inferior myocardial infarction" time="before DCT" indicator="event" comment=""/>
+    </CAD>
+    <OBESE id="DOC20" time="during DCT" indicator="mention">
+      <OBESE id="O6" start="2344" end="2351" text="obesity" time="during DCT" indicator="mention" comment=""/>
+      <OBESE id="O7" start="669" end="676" text="obesity" time="during DCT" indicator="mention" comment=""/>
+      <OBESE id="O8" start="2337" end="2351" text="morbid obesity" time="during DCT" indicator="mention" comment=""/>
+    </OBESE>
+    <MEDICATION id="DOC21" time="after DCT" type1="thiazolidinedione" type2="">
+      <MEDICATION id="M51" start="1012" end="1017" text="Actos" time="after DCT" type1="thiazolidinedione" type2="" comment=""/>
+      <MEDICATION id="M52" start="1012" end="1017" text="Actos" time="after DCT" type1="thiazolidinedione" type2="" comment=""/>
+      <MEDICATION id="M53" start="1012" end="1017" text="Actos" time="after DCT" type1="thiazolidinedione" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC22" time="during DCT" type1="insulin" type2="">
+      <MEDICATION id="M54" start="1114" end="1129" text="Humulin insulin" time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M55" start="1207" end="1214" text="Humalog" time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M56" start="1114" end="1121" text="Humulin" time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M57" start="1207" end="1214" text="Humalog" time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M58" start="1114" end="1129" text="Humulin insulin" time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M59" start="1207" end="1214" text="Humalog" time="during DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC23" time="before DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M60" start="920" end="930" text="metoprolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M61" start="920" end="930" text="metoprolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M62" start="920" end="930" text="metoprolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC24" time="during DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M63" start="920" end="930" text="metoprolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M64" start="920" end="930" text="metoprolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M65" start="920" end="930" text="metoprolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC25" time="during DCT" type1="ARB" type2="">
+      <MEDICATION id="M66" start="987" end="993" text="Avapro" time="during DCT" type1="ARB" type2="" comment=""/>
+      <MEDICATION id="M67" start="987" end="993" text="Avapro" time="during DCT" type1="ARB" type2="" comment=""/>
+      <MEDICATION id="M68" start="987" end="993" text="Avapro" time="during DCT" type1="ARB" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC26" time="before DCT" type1="ARB" type2="">
+      <MEDICATION id="M69" start="987" end="993" text="Avapro" time="before DCT" type1="ARB" type2="" comment=""/>
+      <MEDICATION id="M70" start="987" end="993" text="Avapro" time="before DCT" type1="ARB" type2="" comment=""/>
+      <MEDICATION id="M71" start="987" end="993" text="Avapro" time="before DCT" type1="ARB" type2="" comment=""/>
+    </MEDICATION>
+    <PHI id="P0" start="16" end="26" text="2070-10-01" TYPE="DATE"/>
+    <PHI id="P1" start="31" end="34" text="IMS" TYPE="HOSPITAL"/>
+    <PHI id="P2" start="64" end="67" text="TR7" TYPE="ROOM"/>
+    <PHI id="P3" start="69" end="85" text="33 Auburn Street" TYPE="STREET"/>
+    <PHI id="P4" start="123" end="135" text="JOSHI, KATHY" TYPE="PATIENT"/>
+    <PHI id="P5" start="137" end="145" text="Rehoboth" TYPE="CITY"/>
+    <PHI id="P6" start="147" end="149" text="NM" TYPE="STATE"/>
+    <PHI id="P7" start="150" end="155" text="42761" TYPE="ZIP"/>
+    <PHI id="P8" start="198" end="206" text="15842112" TYPE="MEDICALRECORD"/>
+    <PHI id="P9" start="208" end="222" text="(326) 176-2429" TYPE="PHONE"/>
+    <PHI id="P10" start="265" end="273" text="10/01/70" TYPE="DATE"/>
+    <PHI id="P11" start="287" end="302" text="Benjamin Taylor" TYPE="DOCTOR"/>
+    <PHI id="P12" start="310" end="335" text="Illini Community Hospital" TYPE="HOSPITAL"/>
+    <PHI id="P13" start="337" end="355" text="94 Cardinal Circle" TYPE="STREET"/>
+    <PHI id="P14" start="357" end="369" text="Three Rivers" TYPE="CITY"/>
+    <PHI id="P15" start="371" end="373" text="NM" TYPE="STATE"/>
+    <PHI id="P16" start="374" end="379" text="11424" TYPE="ZIP"/>
+    <PHI id="P17" start="397" end="403" text="Taylor" TYPE="DOCTOR"/>
+    <PHI id="P18" start="414" end="419" text="Joshi" TYPE="PATIENT"/>
+    <PHI id="P19" start="2306" end="2311" text="Joshy" TYPE="PATIENT"/>
+    <PHI id="P20" start="3143" end="3156" text="Hayden Nutter" TYPE="DOCTOR"/>
+    <PHI id="P21" start="3791" end="3806" text="Brandon Neilson" TYPE="DOCTOR"/>
+    <PHI id="P22" start="3855" end="3870" text="Brandon Neilson" TYPE="DOCTOR"/>
+    <PHI id="P23" start="3904" end="3913" text="8-5334486" TYPE="IDNUM"/>
+    <PHI id="P24" start="3936" end="3944" text="10/01/70" TYPE="DATE"/>
+    <PHI id="P25" start="3950" end="3958" text="10/02/70" TYPE="DATE"/>
+    <PHI id="P26" start="3964" end="3972" text="10/01/70" TYPE="DATE"/>
+  </TAGS>
+</root>

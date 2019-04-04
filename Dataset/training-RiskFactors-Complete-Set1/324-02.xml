@@ -1,0 +1,98 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2065-12-11
+
+                     MEDIQUIK EMERGENCY DEPT VISIT
+ 
+RUTLEDGE,XAVIER W.   539-54-14-3               VISIT DATE: 12/11/65
+I saw this patient December 11, 2065 with the resident, Dr. 
+William Arndt and the coordinator from Adventist Home. 
+PRESENTING COMPLAINT:  This 56-year-old man came in with redness 
+and pain in his left leg. 
+HISTORY OF PRESENTING COMPLAINT:  History of present illness 
+includes renal failure, renal transplant, insulin dependent 
+diabetes mellitus and peripheral vascular disease.  He recently had 
+a deep venous thrombosis of the left leg extending from the calf 
+into the common femoral vein which is being treated now with 
+Coumadin, but today he noticed the redness, swelling and pain in 
+the leg.  Please see the resident's hand written record for 
+explicit details of the patient's visit and findings. 
+REVIEW OF SYSTEMS:  Please see the resident's hand written record 
+for explicit details of the patient's visit and findings. 
+PAST MEDICAL HISTORY:  Please see the resident's hand written 
+record for explicit details of the patient's visit and findings. 
+MEDICATIONS:  Please see the resident's hand written record for 
+explicit details of the patient's visit and findings. 
+ALLERGIES:  Please see the resident's hand written record for 
+explicit details of the patient's visit and findings. 
+SOCIAL HISTORY AND FAMILY HISTORY:  Please see the resident's hand 
+written record for explicit details of the patient's visit and 
+findings. 
+PHYSICAL EXAMINATION:  On physical examination, about one half the 
+area of the distal leg more anteriorly is warm, red, discolored and 
+tender.  Homan's sign is negative. 
+THERAPY RENDERED/COURSE IN ED:  The patient was sent for Doppler 
+ultrasound of the leg which showed improved flow through the common 
+femoral vein, but persistent thrombosis in the superficial femoral 
+of the gastrocnemius and popliteal veins.  He was begun on 
+intravenous Nebcin for a presumed cellulitis.  The plan is several 
+days of hospitalization with elevation and intravenous antibiotics. 
+FINAL DIAGNOSIS:  Cellulitis of leg. 
+DISPOSITION (including condition upon discharge):  The patient was 
+admitted to the hospital in fair condition. 
+___________________________________                    BZ259/4420 
+YUTAKA PRITCHARD, M.D.       YP66                          D:12/11/65 
+                                                       T:12/11/65 
+Dictated by:  YUTAKA PRITCHARD, M.D.       YP66 
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <FAMILY_HIST id="DOC0" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC1" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" status="unknown"/>
+      <SMOKER id="S2" start="149" end="151" text="I " status="unknown" comment=""/>
+    </SMOKER>
+    <DIABETES id="DOC2" time="after DCT" indicator="mention">
+      <DIABETES id="D0" start="482" end="499" text="diabetes mellitus" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D1" start="463" end="499" text="insulin dependent  diabetes mellitus" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D2" start="482" end="499" text="diabetes mellitus" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC3" time="during DCT" indicator="mention">
+      <DIABETES id="D3" start="482" end="499" text="diabetes mellitus" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D4" start="463" end="499" text="insulin dependent  diabetes mellitus" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D5" start="482" end="499" text="diabetes mellitus" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC4" time="before DCT" indicator="mention">
+      <DIABETES id="D6" start="482" end="499" text="diabetes mellitus" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D7" start="463" end="499" text="insulin dependent  diabetes mellitus" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D8" start="482" end="499" text="diabetes mellitus" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <PHI id="P0" start="16" end="26" text="2065-12-11" TYPE="DATE"/>
+    <PHI id="P1" start="49" end="57" text="MEDIQUIK" TYPE="HOSPITAL"/>
+    <PHI id="P2" start="81" end="98" text="RUTLEDGE,XAVIER W" TYPE="PATIENT"/>
+    <PHI id="P3" start="102" end="113" text="539-54-14-3" TYPE="MEDICALRECORD"/>
+    <PHI id="P4" start="140" end="148" text="12/11/65" TYPE="DATE"/>
+    <PHI id="P5" start="168" end="185" text="December 11, 2065" TYPE="DATE"/>
+    <PHI id="P6" start="210" end="223" text="William Arndt" TYPE="DOCTOR"/>
+    <PHI id="P7" start="249" end="263" text="Adventist Home" TYPE="HOSPITAL"/>
+    <PHI id="P8" start="294" end="296" text="56" TYPE="AGE"/>
+    <PHI id="P9" start="2276" end="2286" text="BZ259/4420" TYPE="IDNUM"/>
+    <PHI id="P10" start="2288" end="2304" text="YUTAKA PRITCHARD" TYPE="DOCTOR"/>
+    <PHI id="P11" start="2317" end="2321" text="YP66" TYPE="USERNAME"/>
+    <PHI id="P12" start="2349" end="2357" text="12/11/65" TYPE="DATE"/>
+    <PHI id="P13" start="2416" end="2424" text="12/11/65" TYPE="DATE"/>
+    <PHI id="P14" start="2440" end="2456" text="YUTAKA PRITCHARD" TYPE="DOCTOR"/>
+    <PHI id="P15" start="2469" end="2473" text="YP66" TYPE="USERNAME"/>
+  </TAGS>
+</root>

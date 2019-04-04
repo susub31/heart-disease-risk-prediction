@@ -1,0 +1,239 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+
+
+
+
+                          OFFICE NOTE
+
+
+
+Esposito, Perla
+
+MR #146-55-23-5
+
+01/18/82
+
+
+
+Telephone:  349-3828
+
+
+
+80-year-old Chilean woman who has not been back in over a year with chief complaint of red eye.
+
+
+
+Has had a recent URI. Cough. Woke up this am with red right eye and 
+
+MEDICATIONS:  Procardia XL.  Lopressor.  Micronase.  Aspirin.
+
+
+
+ALLERGIES:  LISINOPRIL causes hyperkalemia.  
+
+
+
+FAMILY HISTORY:  No interval change.
+
+
+
+SOCIAL HISTORY:  Supportive family.  Retired.   No cigarettes. 
+
+No excess of alcohol.
+
+
+
+REVIEW OF SYSTEMS:  No chest pains.  No unusual nocturia.  Her
+
+last A1C was 6.1.  She has a history of a chronically elevated
+
+creatinine.  Her last one was 2.1 last January. The rest of the ROS is negative.
+
+  
+
+
+
+On physical examination she looks well.  
+
+================ Vital signs ================
+
+Blood Pressure:   142/62    156/60 (by myself)
+Weight:   141.5
+Pulse 68
+Skin: Unremarkable.
+
+HEENT:  EOMI. Right pupil reactive. S/p irridectomy on the left. NO retinopathy visualized although exam is limited.  The right conjunctiva is injected with minimal discharge.  Benign pharynx.  No lymphadenopathy.  No thyromegaly. Soft left carotid bruit vs. transmitted murmur. ?Mild facial droop.  Her lungs are clear. Brief II\VI systolic ejection murmur along the left sternal border radiating into the right
+
+sternal border.  Benign abdomen.  No hepatomegaly.  No
+
+splenomegaly.  No pedal edema.
+
+
+
+#1)  Conjunctivitis. Probably viral but she had more discharge this morning. Rx with Ilotycin.
+
+
+
+#2)  History of coronary disease.  No symptoms.
+
+
+
+#3)  Hypertension. She seems a little vague about her meds. She has not been back in more than a year and still has meds left. I will see her back shortly to recheck.
+
+
+
+#4)  Diabetes.  We'll check an A1C.
+
+
+
+#5)  Chronic renal insufficiency.  We'll check a creatinine.  The
+
+last value was 2.1.  
+
+
+
+#6)  General. Obtain a mammogram.
+
+
+
+
+
+
+
+Ulises J. Kelley, M.D.
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="during DCT" type1="aspirin" type2="">
+      <MEDICATION id="M0" start="340" end="347" text="Aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M1" start="340" end="347" text="Aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M2" start="340" end="347" text="Aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC1" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="1588" end="1600" text="Hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="1587" end="1600" text=" Hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H2" start="1588" end="1600" text="Hypertension" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <DIABETES id="DOC2" time="during DCT" indicator="mention">
+      <DIABETES id="D0" start="1758" end="1766" text="Diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D1" start="1757" end="1766" text=" Diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D2" start="1758" end="1766" text="Diabetes" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <MEDICATION id="DOC3" time="after DCT" type1="aspirin" type2="">
+      <MEDICATION id="M3" start="340" end="347" text="Aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M4" start="340" end="347" text="Aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M5" start="340" end="347" text="Aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC4" time="during DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M6" start="301" end="310" text="Procardia" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M7" start="300" end="310" text=" Procardia" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M8" start="301" end="310" text="Procardia" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC5" time="during DCT" indicator="high bp">
+      <HYPERTENSION id="H3" start="836" end="883" text=" Blood Pressure:   142/62    156/60 (by myself)" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H4" start="865" end="872" text="156/60 " time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H5" start="837" end="871" text="Blood Pressure:   142/62    156/60" time="during DCT" indicator="high bp" comment=""/>
+    </HYPERTENSION>
+    <MEDICATION id="DOC6" time="after DCT" type1="sulfonylureas" type2="">
+      <MEDICATION id="M9" start="328" end="337" text="Micronase" time="after DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M10" start="328" end="337" text="Micronase" time="after DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M11" start="328" end="337" text="Micronase" time="after DCT" type1="sulfonylureas" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC7" time="before DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M12" start="301" end="310" text="Procardia" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M13" start="300" end="310" text=" Procardia" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M14" start="301" end="310" text="Procardia" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC8" time="during DCT" type1="sulfonylureas" type2="">
+      <MEDICATION id="M15" start="328" end="337" text="Micronase" time="during DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M16" start="328" end="337" text="Micronase" time="during DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M17" start="328" end="337" text="Micronase" time="during DCT" type1="sulfonylureas" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC9" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H6" start="1588" end="1600" text="Hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H7" start="1587" end="1600" text=" Hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H8" start="1588" end="1600" text="Hypertension" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <MEDICATION id="DOC10" time="after DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M18" start="316" end="325" text="Lopressor" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M19" start="315" end="324" text=" Lopresso" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M20" start="316" end="325" text="Lopressor" time="after DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <DIABETES id="DOC11" time="before DCT" indicator="mention">
+      <DIABETES id="D3" start="1758" end="1766" text="Diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D4" start="1757" end="1766" text=" Diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D5" start="1758" end="1766" text="Diabetes" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <FAMILY_HIST id="DOC12" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <CAD id="DOC13" time="before DCT" indicator="mention">
+      <CAD id="C0" start="1548" end="1564" text="coronary disease" time="before DCT" indicator="mention" comment=""/>
+      <CAD id="C1" start="1548" end="1564" text="coronary disease" time="before DCT" indicator="mention" comment=""/>
+    </CAD>
+    <CAD id="DOC14" time="during DCT" indicator="mention">
+      <CAD id="C2" start="1548" end="1564" text="coronary disease" time="during DCT" indicator="mention" comment=""/>
+      <CAD id="C3" start="1548" end="1564" text="coronary disease" time="during DCT" indicator="mention" comment=""/>
+    </CAD>
+    <MEDICATION id="DOC15" time="before DCT" type1="aspirin" type2="">
+      <MEDICATION id="M21" start="340" end="347" text="Aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M22" start="340" end="347" text="Aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M23" start="340" end="347" text="Aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <SMOKER id="DOC16" status="never">
+      <SMOKER id="S0" start="489" end="504" text="No cigarettes. " status="never" comment=""/>
+      <SMOKER id="S1" start="489" end="501" text="No cigarette" status="never" comment=""/>
+      <SMOKER id="S2" start="489" end="503" text="No cigarettes." status="never" comment=""/>
+    </SMOKER>
+    <CAD id="DOC17" time="after DCT" indicator="mention">
+      <CAD id="C4" start="1548" end="1564" text="coronary disease" time="after DCT" indicator="mention" comment=""/>
+      <CAD id="C5" start="1548" end="1564" text="coronary disease" time="after DCT" indicator="mention" comment=""/>
+    </CAD>
+    <MEDICATION id="DOC18" time="before DCT" type1="sulfonylureas" type2="">
+      <MEDICATION id="M24" start="328" end="337" text="Micronase" time="before DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M25" start="328" end="337" text="Micronase" time="before DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M26" start="328" end="337" text="Micronase" time="before DCT" type1="sulfonylureas" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC19" time="after DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M27" start="301" end="310" text="Procardia" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M28" start="300" end="310" text=" Procardia" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M29" start="301" end="310" text="Procardia" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC20" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H9" start="1588" end="1600" text="Hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H10" start="1587" end="1600" text=" Hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H11" start="1588" end="1600" text="Hypertension" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <MEDICATION id="DOC21" time="before DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M30" start="316" end="325" text="Lopressor" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M31" start="315" end="324" text=" Lopresso" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M32" start="316" end="325" text="Lopressor" time="before DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC22" time="during DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M33" start="316" end="325" text="Lopressor" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M34" start="315" end="324" text=" Lopresso" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M35" start="316" end="325" text="Lopressor" time="during DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <DIABETES id="DOC23" time="after DCT" indicator="mention">
+      <DIABETES id="D6" start="1758" end="1766" text="Diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D7" start="1757" end="1766" text=" Diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D8" start="1758" end="1766" text="Diabetes" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <PHI id="P0" start="48" end="63" text="Esposito, Perla" TYPE="PATIENT"/>
+    <PHI id="P1" start="69" end="80" text="146-55-23-5" TYPE="MEDICALRECORD"/>
+    <PHI id="P2" start="82" end="90" text="01/18/82" TYPE="DATE"/>
+    <PHI id="P3" start="106" end="114" text="349-3828" TYPE="PHONE"/>
+    <PHI id="P4" start="118" end="120" text="80" TYPE="AGE"/>
+    <PHI id="P5" start="130" end="137" text="Chilean" TYPE="COUNTRY"/>
+    <PHI id="P6" start="698" end="705" text="January" TYPE="DATE"/>
+    <PHI id="P7" start="1925" end="1941" text="Ulises J. Kelley" TYPE="DOCTOR"/>
+  </TAGS>
+</root>

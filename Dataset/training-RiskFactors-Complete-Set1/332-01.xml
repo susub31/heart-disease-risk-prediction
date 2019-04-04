@@ -1,0 +1,129 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2094-01-29
+
+
+
+
+
+INTERNAL MEDICINE ASSOCIATES
+
+ROSELAND COMMUNITY HOSPITAL
+
+
+
+Major Problems
+
+Diabetes mellitus
+
+Blood sugars have been good at home.  Hemoglobin A1c's have been good.  We are rechecking that again.
+
+Hypertension
+
+Blood pressure is okay today, 140/68.  We will need to follow this closely.  Her potassium has been up a little bit.  We will need to change around her medications to see if the Norvasc that we put her on increased her potassium.
+
+Health maintenance
+
+She continues to decline sigmoidoscopy and mammogram.  The patient's cyst at the left leg has been removed and is well healed at this time.
+
+
+
+Physical examination
+
+Blood pressure 140/68  
+
+Weight   166 pounds
+
+Neck   Thyroid exam is unremarkable
+
+Nodes   No lymphadenopathy
+
+Chest   Lungs are clear with no wheezes, rales, or rhonchi
+
+Cor   No murmurs, rubs, or gallops.  Carotids with normal upstroke without bruits
+
+Extrem   Clear
+
+
+
+Disposition
+
+Return is to see me later in the spring.  Diabetes care is up-to-date.  She has her eyes checked and feet followed closely.  We will later discuss with her any further followup about the diabetes with Nutrition.
+
+
+
+Note transcribed by outside service   Transcription errors may be present.
+
+
+
+Signed electronically by   Ruba  Neil   on  Mar 8, 2094     
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="during DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M0" start="423" end="430" text="Norvasc" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M1" start="423" end="430" text="Norvasc" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M2" start="423" end="430" text="Norvasc" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <DIABETES id="DOC1" time="before DCT" indicator="mention">
+      <DIABETES id="D0" start="109" end="126" text="Diabetes mellitus" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D1" start="109" end="126" text="Diabetes mellitus" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D2" start="109" end="126" text="Diabetes mellitus" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <HYPERTENSION id="DOC2" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="231" end="243" text="Hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="230" end="243" text=" Hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H2" start="231" end="243" text="Hypertension" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <MEDICATION id="DOC3" time="before DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M3" start="423" end="430" text="Norvasc" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M4" start="423" end="430" text="Norvasc" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M5" start="423" end="430" text="Norvasc" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC4" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H3" start="231" end="243" text="Hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H4" start="230" end="243" text=" Hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H5" start="231" end="243" text="Hypertension" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <MEDICATION id="DOC5" time="after DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M6" start="423" end="430" text="Norvasc" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M7" start="423" end="430" text="Norvasc" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M8" start="423" end="430" text="Norvasc" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <DIABETES id="DOC6" time="during DCT" indicator="mention">
+      <DIABETES id="D3" start="109" end="126" text="Diabetes mellitus" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D4" start="109" end="126" text="Diabetes mellitus" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D5" start="109" end="126" text="Diabetes mellitus" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <HYPERTENSION id="DOC7" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H6" start="231" end="243" text="Hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H7" start="230" end="243" text=" Hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H8" start="231" end="243" text="Hypertension" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <FAMILY_HIST id="DOC8" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC9" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" start="93" end="99" text="Major " status="unknown" comment=""/>
+      <SMOKER id="S2" status="unknown"/>
+    </SMOKER>
+    <DIABETES id="DOC10" time="after DCT" indicator="mention">
+      <DIABETES id="D6" start="109" end="126" text="Diabetes mellitus" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D7" start="109" end="126" text="Diabetes mellitus" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D8" start="109" end="126" text="Diabetes mellitus" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <PHI id="P0" start="16" end="26" text="2094-01-29" TYPE="DATE"/>
+    <PHI id="P1" start="62" end="89" text="ROSELAND COMMUNITY HOSPITAL" TYPE="HOSPITAL"/>
+    <PHI id="P2" start="979" end="985" text="spring" TYPE="DATE"/>
+    <PHI id="P3" start="1266" end="1276" text="Ruba  Neil" TYPE="DOCTOR"/>
+    <PHI id="P4" start="1283" end="1294" text="Mar 8, 2094" TYPE="DATE"/>
+  </TAGS>
+</root>

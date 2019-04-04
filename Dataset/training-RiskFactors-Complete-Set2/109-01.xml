@@ -1,0 +1,221 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2098-08-18
+
+
+
+Jensen Clinic
+
+745 Greenfield Drive
+
+
+
+75 y.o. here infection on arm. Two days ago injured forearm on sharp corner of counter. Thin flap of skin lifted up. Self treated with irrigation and comporession. Noted redness last night and today. No fever or chills.
+
+
+
+Medications
+
+Asa (ACETYLSALICYLIC Acid) 81MG, PO QD
+
+Albuterol Inhaler 2 PUFF INH QID PRN shortness of breath
+
+Premarin (CONJUGATED Estrogens) 0.3MG, 1 Tablet(s) PO QOD
+
+K-dur (KCL Slow Rel.) 10MEQ, 1 Tablet(s) PO QD : Take as directed 
+
+Lipitor (ATORVASTATIN) 10MG, 1 Tablet(s) PO QD
+
+Hctz (HYDROCHLOROTHIAZIDE) 50MG, 1 Tablet(s) PO QD
+
+LISINOPRIL 20MG, 1 Tablet(s) PO QD : Take as directed 
+
+Synthroid (LEVOTHYROXINE Sodium) 25MCG, 1 Tablet(s) PO QD
+
+Celexa (CITALOPRAM) 40MG, 1 Tablet(s) PO QD 
+
+
+
+
+
+Allergies
+
+Halothane Gas - Unknown : liver 
+
+
+
+
+
+Social Hx
+
+widowed '91, lives alone, tob 1 ppd x 35,  began @ 11, quit 10/94!, etoh none, no exercise, hobbies: none, TV, friends
+
+
+
+ROS: no polyuria/polydipsia
+
+
+
+Exam
+
+T 97, well appearing, nontoxic
+
+pleasant affect, oriented x 3, cooperative
+
+Chest: cta, spine nontender
+
+CV: rrr, nl s1 s2
+
+Ext: no c/c/e. R arm with lipoma, no change in size, 2+ distal pulses
+
+derm: shallow ulcer L foream, curvilinear shape, 3sx1 shallow ulcer, surrounding erythema 5x 4 cm diameter, no red streaks, no lad
+
+
+
+
+
+Data
+
+tsh wnl Oct '96
+
+ldl 75, glucose 113 mg/dl Oct 2097
+
+tsh qns to run '97
+
+
+
+Assessment/Plan
+
+1. cellulitis s/p abrasion. No foreign bodies. Treat with Keflex 500 qid x 7 days. rtc < 1 wk to reassess.
+
+Td booster given today as patient cannot recall last booster. Believes it is more than 5 years, maybe longer ago than '91 which is the estimate in the chart.
+
+
+
+2. HTN:  Tolerating lisinopril 20mg po qd.
+
+
+
+3. hypothyroid: stable dose. recheck TSH
+
+
+
+4. obesity: reviewed options to cut calories, increase exercise
+
+
+
+
+
+_______________________________________
+
+Eric A. Morgan, M.D.
+
+
+
+]]></TEXT>
+  <TAGS>
+    <OBESE id="DOC5" time="after DCT" indicator="mention">
+      <OBESE id="O0" start="1805" end="1812" text="obesity" time="after DCT" indicator="mention" comment=""/>
+      <OBESE id="O1" start="1805" end="1812" text="obesity" time="after DCT" indicator="mention" comment=""/>
+      <OBESE id="O2" start="1805" end="1812" text="obesity" time="after DCT" indicator="mention" comment=""/>
+    </OBESE>
+    <OBESE id="DOC11" time="during DCT" indicator="mention">
+      <OBESE id="O3" start="1805" end="1812" text="obesity" time="during DCT" indicator="mention" comment=""/>
+      <OBESE id="O4" start="1805" end="1812" text="obesity" time="during DCT" indicator="mention" comment=""/>
+      <OBESE id="O5" start="1805" end="1812" text="obesity" time="during DCT" indicator="mention" comment=""/>
+    </OBESE>
+    <OBESE id="DOC16" time="before DCT" indicator="mention">
+      <OBESE id="O6" start="1805" end="1812" text="obesity" time="before DCT" indicator="mention" comment=""/>
+      <OBESE id="O7" start="1805" end="1812" text="obesity" time="before DCT" indicator="mention" comment=""/>
+      <OBESE id="O8" start="1805" end="1812" text="obesity" time="before DCT" indicator="mention" comment=""/>
+    </OBESE>
+    <MEDICATION id="DOC0" time="during DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M0" start="630" end="640" text="LISINOPRIL" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M1" start="630" end="640" text="LISINOPRIL" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M2" start="630" end="640" text="LISINOPRIL" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC1" time="before DCT" type1="statin" type2="">
+      <MEDICATION id="M3" start="530" end="537" text="Lipitor" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M4" start="530" end="537" text="Lipitor" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M5" start="530" end="537" text="Lipitor" time="before DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC2" time="during DCT" type1="statin" type2="">
+      <MEDICATION id="M6" start="530" end="537" text="Lipitor" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M7" start="530" end="537" text="Lipitor" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M8" start="530" end="537" text="Lipitor" time="during DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC3" time="during DCT" type1="aspirin" type2="">
+      <MEDICATION id="M9" start="305" end="308" text="Asa" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M10" start="305" end="308" text="Asa" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M11" start="305" end="308" text="Asa" time="during DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC4" time="after DCT" type1="statin" type2="">
+      <MEDICATION id="M12" start="530" end="537" text="Lipitor" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M13" start="530" end="537" text="Lipitor" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M14" start="530" end="537" text="Lipitor" time="after DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC6" time="before DCT" type1="aspirin" type2="">
+      <MEDICATION id="M15" start="305" end="308" text="Asa" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M16" start="305" end="308" text="Asa" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M17" start="305" end="308" text="Asa" time="before DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC7" time="before DCT" type1="diuretic" type2="">
+      <MEDICATION id="M18" start="578" end="582" text="Hctz" time="before DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M19" start="578" end="582" text="Hctz" time="before DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M20" start="578" end="582" text="Hctz" time="before DCT" type1="diuretic" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC8" time="after DCT" type1="aspirin" type2="">
+      <MEDICATION id="M21" start="305" end="308" text="Asa" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M22" start="305" end="308" text="Asa" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M23" start="305" end="308" text="Asa" time="after DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC9" time="before DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M24" start="630" end="640" text="LISINOPRIL" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M25" start="630" end="640" text="LISINOPRIL" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M26" start="630" end="640" text="LISINOPRIL" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC14" time="after DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M27" start="630" end="640" text="LISINOPRIL" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M28" start="630" end="640" text="LISINOPRIL" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M29" start="630" end="640" text="LISINOPRIL" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC17" time="after DCT" type1="diuretic" type2="">
+      <MEDICATION id="M30" start="578" end="582" text="Hctz" time="after DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M31" start="578" end="582" text="Hctz" time="after DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M32" start="578" end="582" text="Hctz" time="after DCT" type1="diuretic" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC19" time="during DCT" type1="diuretic" type2="">
+      <MEDICATION id="M33" start="578" end="582" text="Hctz" time="during DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M34" start="578" end="582" text="Hctz" time="during DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M35" start="578" end="582" text="Hctz" time="during DCT" type1="diuretic" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC12" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="1715" end="1718" text="HTN" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="1715" end="1718" text="HTN" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H2" start="1714" end="1718" text=" HTN" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC15" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H3" start="1715" end="1718" text="HTN" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H4" start="1715" end="1718" text="HTN" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H5" start="1714" end="1718" text=" HTN" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC18" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H6" start="1715" end="1718" text="HTN" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H7" start="1715" end="1718" text="HTN" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H8" start="1714" end="1718" text=" HTN" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <FAMILY_HIST id="DOC13" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC10" status="past">
+      <SMOKER id="S0" start="881" end="895" text="tob 1 ppd x 35" status="past" comment=""/>
+      <SMOKER id="S1" start="881" end="920" text="tob 1 ppd x 35,  began @ 11, quit 10/94" status="past" comment=""/>
+      <SMOKER id="S2" start="910" end="914" text="quit" status="past" comment=""/>
+    </SMOKER>
+  </TAGS>
+</root>

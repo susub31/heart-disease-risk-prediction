@@ -1,0 +1,94 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2105-08-27
+
+SICU visit (Hamilton 04239)
+
+8/26/05 11 45 pm
+
+
+74 yo male with a history of CAD, PVD s/p right femoral to above knee popliteal bypass with PTFE (5/00) and recent admission for RLE angioplasty X 22 who presents with R foot rest pain and discoloration and underwent fem pop bypass graft. The case was complicated by large blood loss anemia and hypotension.  In the PACU the patient continued to be hypotensive and have low uop. We placed a central line (starting CVP was 0) and continued resuscitation. The patient developed ST changes and also had acute on chronic renal failure (RIFLE F). WE transfused and transferred him to the ICU.  We discussed this at length with the surgical service as well as cardiology.
+ 
+I examined the patient reviewed the chart and discussed the case. I agree with history and exam as outlined in residents note
+ 
+Issues:
+Cardiac ischemia:  Ischemia was mostly due to hypotension and low HGB as well as tachycardia .  Will give aspirin and lower HR to 70's with Beta blockers. Contue statin.  Willt ransfuse to HGB around 10 and continue to check troponins
+ 
+Decreased myocardial function: he has low central venous saturation and increased lactate . Will give fluids and transfuse the patient.  Will get echo in am. If his central venous sat  and lactate does not signficantly improve with these measures would stay away from inotropes for now given his rate related ischemia
+ 
+Acute blood-loss naemia: will transfuse to 
+ 
+Metabolic acidosis: the patetin has signifcant metabolic acidosis. We will for now give volume. 
+ 
+Acute renal failure: He has significantly decreaed uop. We are sending  urine lytes and casts. Will increase filling pressures. For now would not use furosemide given low central filling pressures.     
+ 
+V. Hamilton 
+cc 122 min       
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="before DCT" type1="statin" type2="">
+      <MEDICATION id="M0" start="1042" end="1048" text="statin" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M1" start="1042" end="1048" text="statin" time="before DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC1" time="during DCT" type1="statin" type2="">
+      <MEDICATION id="M2" start="1042" end="1048" text="statin" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M3" start="1042" end="1048" text="statin" time="during DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC2" time="during DCT" type1="aspirin" type2="">
+      <MEDICATION id="M4" start="986" end="993" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M5" start="986" end="993" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M6" start="986" end="993" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC3" time="after DCT" type1="statin" type2="">
+      <MEDICATION id="M7" start="1042" end="1048" text="statin" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M8" start="1042" end="1048" text="statin" time="after DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <CAD id="DOC4" time="before DCT" indicator="event">
+      <CAD id="C0" start="880" end="896" text="Cardiac ischemia" time="before DCT" indicator="event" comment=""/>
+      <CAD id="C1" start="293" end="313" text="fem pop bypass graft" time="before DCT" indicator="event" comment=""/>
+    </CAD>
+    <CAD id="DOC5" time="before DCT" indicator="mention">
+      <CAD id="C2" start="104" end="108" text=" CAD" time="before DCT" indicator="mention" comment=""/>
+      <CAD id="C3" start="105" end="108" text="CAD" time="before DCT" indicator="mention" comment=""/>
+      <CAD id="C4" start="105" end="108" text="CAD" time="before DCT" indicator="mention" comment=""/>
+    </CAD>
+    <CAD id="DOC6" time="during DCT" indicator="mention">
+      <CAD id="C5" start="104" end="108" text=" CAD" time="during DCT" indicator="mention" comment=""/>
+      <CAD id="C6" start="880" end="896" text="Cardiac ischemia" time="during DCT" indicator="mention" comment=""/>
+      <CAD id="C7" start="105" end="108" text="CAD" time="during DCT" indicator="mention" comment=""/>
+      <CAD id="C8" start="105" end="108" text="CAD" time="during DCT" indicator="mention" comment=""/>
+    </CAD>
+    <FAMILY_HIST id="DOC7" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC8" status="unknown">
+      <SMOKER id="S0" start="3" end="9" text="Record" status="unknown" comment=""/>
+      <SMOKER id="S1" status="unknown"/>
+      <SMOKER id="S2" status="unknown"/>
+    </SMOKER>
+    <MEDICATION id="DOC9" time="during DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M9" start="1020" end="1033" text="Beta blockers" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M10" start="1020" end="1034" text="Beta blockers." time="during DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <CAD id="DOC10" time="after DCT" indicator="mention">
+      <CAD id="C9" start="104" end="108" text=" CAD" time="after DCT" indicator="mention" comment=""/>
+      <CAD id="C10" start="105" end="108" text="CAD" time="after DCT" indicator="mention" comment=""/>
+      <CAD id="C11" start="105" end="108" text="CAD" time="after DCT" indicator="mention" comment=""/>
+    </CAD>
+    <PHI id="P0" start="16" end="26" text="2105-08-27" TYPE="DATE"/>
+    <PHI id="P1" start="40" end="48" text="Hamilton" TYPE="DOCTOR"/>
+    <PHI id="P2" start="49" end="54" text="04239" TYPE="PHONE"/>
+    <PHI id="P3" start="57" end="64" text="8/26/05" TYPE="DATE"/>
+    <PHI id="P4" start="76" end="78" text="74" TYPE="AGE"/>
+    <PHI id="P5" start="174" end="178" text="5/00" TYPE="DATE"/>
+    <PHI id="P6" start="1787" end="1798" text="V. Hamilton" TYPE="DOCTOR"/>
+  </TAGS>
+</root>

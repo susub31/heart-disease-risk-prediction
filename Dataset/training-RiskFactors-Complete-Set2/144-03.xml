@@ -1,0 +1,301 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2131-05-30
+
+EDVISIT^22267708^JONES, URIEL^05/30/31^COOKE, FREDI
+
+CHIEF COMPLAINT:  Shortness of breath.
+
+HISTORY OF PRESENT ILLNESS:  A 67 year-old male was seen in
+
+transfer from Friends Hospital for evaluation of progressively
+
+worsening shortness of breath over the last 2 days, associated
+
+with increased fatigue and episodes of chest pressure yesterday. 
+
+He did note increase weight for the last 1-2 months,
+
+progressively worsening shortness of breath with minimal
+
+exertion.  He did have chest pressure at rest yesterday, which
+
+did radiate to his left shoulder.  This seemed to resolve
+
+spontaneously and then he noted shortness of breath with any kind
+
+of exertion at all.  The shortness of breath was exclusively
+
+exertional.  He has not noticed nausea, vomiting, diaphoresis,
+
+presyncopal symptoms or diarrhea.  No fevers.  He does have a
+
+slight cough that is nonproductive.  He was seen at a local
+
+Emergency Department today where he had laboratory studies as
+
+well as was given Lasix, albuterol, and nitroglycerin and states
+
+he has some relief of his symptoms associated with this.  He was
+
+cardioverted 2 days ago for atrial fibrillation by his
+
+cardiologist at SAH.  Additionally, at the outside Emergency
+
+Department, his INR was therapeutic at 2 as he is on Coumadin,
+
+but his troponin was elevated at 0.16.
+
+PAST MEDICAL HISTORY:  Significant for hypertension, orally
+
+controlled diabetes, hypercholesterolemia, and atrial flutter. 
+
+He has had a cardiac catheterization last in 2127.
+
+SOCIAL HISTORY:  He is a past smoker with 10 pack years of
+
+smoking.
+
+REVIEW OF SYSTEMS:  As noted in the written chart and HPI,
+
+otherwise negative.
+
+MEDICATIONS:  Coumadin, citalopram, metoprolol, lisinopril,
+
+glipizide, Cipro, and simvastatin.
+
+ALLERGIES:  He is allergic to penicillin.
+
+PHYSICAL EXAMINATION:  Temperature 99, pulse 63, respiratory rate
+
+20, blood pressure 140/86, and oxygen saturation 96% on room air.
+
+ HEENT:  Normocephalic and atraumatic.  Pleasant, calm.  Neck is
+
+supple.  Respiratory:  Clear to auscultation, except for
+
+scattered rales in the left lower lung field.  Cardiovascular: 
+
+Regular rate and rhythm without murmur.  Abdomen is soft and
+
+nontender.  Skin is intact, warm, and dry.  Extremities:  He has
+
+got 1+ edema of the bilateral lower extremities that is
+
+symmetric.  Neuropsych:  He is oriented x3, moves all extremities
+
+equally.
+
+LABORATORY DATA:  ECG shows a sinus rhythm at 65 with poor R-wave
+
+progression, but no acute ST segment abnormalities.  Chest x-ray
+
+shows interstitial increased markings with a small left pleural
+
+effusion and prominence of the ventricle consistent with mild
+
+pulmonary edema.  Cardiac biomarkers show troponin of 0.16 with
+
+creatinine of 1.43, CK-MB of 3.2 with normal index, and CK of 87.
+
+ BNP is still pending.  INR is 2.5, which is therapeutic on
+
+Coumadin.
+
+EMERGENCY DEPARTMENT COURSE:  At the outside Emergency
+
+Department, he did receive Lasix and he put off approximately 2
+
+liters of urine since then with significant symptomatic
+
+improvement in his dyspnea.  He has no further episodes of chest
+
+pain or pressure.  I did discuss the case with Dr. Davison,
+
+the SAH cardiologist on-call.  I believe this patient has CHF
+
+exacerbation.  He also was recently cardioverted, which ____
+
+explain his troponin elevation.  Additionally, his CHF
+
+exacerbation alone could explain his troponin elevation, and I
+
+doubt the patient has an acute coronary syndrome.  At this point,
+
+the patient is already anticoagulated by virtue of being on
+
+Coumadin.  We will hold any further heparinization or Lovenox at
+
+this time.  However, he will have serial cardiac biomarkers, will
+
+be admitted to the Cardiology Service for evaluation and for
+
+further evaluation and optimization of his congestive heart
+
+failure and for monitoring of his troponin levels.
+
+DIAGNOSIS:  Congestive heart failure exacerbation, troponin
+
+elevation, and diabetes.
+
+DISPOSITION:  Admission in stable condition.
+
+______________________________
+
+COOKE, FREDI M.D.
+
+D: 05/30/31
+
+T: 05/31/31
+
+Dictated By: COOKE, FREDI
+
+eScription document:0-8412167 BFFocus
+
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <HYPERLIPIDEMIA id="DOC10" time="during DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY0" start="1428" end="1448" text="hypercholesterolemia" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY1" start="1428" end="1448" text="hypercholesterolemia" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY2" start="1428" end="1448" text="hypercholesterolemia" time="during DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <HYPERLIPIDEMIA id="DOC19" time="after DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY3" start="1428" end="1448" text="hypercholesterolemia" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY4" start="1428" end="1448" text="hypercholesterolemia" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY5" start="1428" end="1448" text="hypercholesterolemia" time="after DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <HYPERLIPIDEMIA id="DOC22" time="before DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY6" start="1428" end="1448" text="hypercholesterolemia" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY7" start="1428" end="1448" text="hypercholesterolemia" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY8" start="1428" end="1448" text="hypercholesterolemia" time="before DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <MEDICATION id="DOC0" time="during DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M0" start="1723" end="1733" text="lisinopril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M1" start="1723" end="1733" text="lisinopril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M2" start="1723" end="1734" text="lisinopril," time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC1" time="after DCT" type1="statin" type2="">
+      <MEDICATION id="M3" start="1758" end="1769" text="simvastatin" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M4" start="1758" end="1769" text="simvastatin" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M5" start="1758" end="1770" text="simvastatin." time="after DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC5" time="after DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M6" start="1723" end="1733" text="lisinopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M7" start="1723" end="1733" text="lisinopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M8" start="1723" end="1734" text="lisinopril," time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC6" time="before DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M9" start="1723" end="1733" text="lisinopril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M10" start="1723" end="1733" text="lisinopril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M11" start="1723" end="1734" text="lisinopril," time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC8" time="after DCT" type1="nitrate" type2="">
+      <MEDICATION id="M12" start="1032" end="1045" text="nitroglycerin" time="after DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M13" start="1032" end="1045" text="nitroglycerin" time="after DCT" type1="nitrate" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC9" time="during DCT" type1="nitrate" type2="">
+      <MEDICATION id="M14" start="1032" end="1045" text="nitroglycerin" time="during DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M15" start="1032" end="1045" text="nitroglycerin" time="during DCT" type1="nitrate" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC12" time="after DCT" type1="sulfonylureas" type2="">
+      <MEDICATION id="M16" start="1736" end="1745" text="glipizide" time="after DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M17" start="1736" end="1745" text="glipizide" time="after DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M18" start="1736" end="1745" text="glipizide" time="after DCT" type1="sulfonylureas" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC13" time="during DCT" type1="sulfonylureas" type2="">
+      <MEDICATION id="M19" start="1736" end="1745" text="glipizide" time="during DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M20" start="1736" end="1745" text="glipizide" time="during DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M21" start="1736" end="1745" text="glipizide" time="during DCT" type1="sulfonylureas" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC15" time="after DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M22" start="1711" end="1721" text="metoprolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M23" start="1711" end="1721" text="metoprolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M24" start="1711" end="1721" text="metoprolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC16" time="before DCT" type1="statin" type2="">
+      <MEDICATION id="M25" start="1758" end="1769" text="simvastatin" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M26" start="1758" end="1769" text="simvastatin" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M27" start="1758" end="1770" text="simvastatin." time="before DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC17" time="during DCT" type1="statin" type2="">
+      <MEDICATION id="M28" start="1758" end="1769" text="simvastatin" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M29" start="1758" end="1769" text="simvastatin" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M30" start="1758" end="1770" text="simvastatin." time="during DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC20" time="before DCT" type1="nitrate" type2="">
+      <MEDICATION id="M31" start="1032" end="1045" text="nitroglycerin" time="before DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M32" start="1032" end="1045" text="nitroglycerin" time="before DCT" type1="nitrate" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC23" time="before DCT" type1="sulfonylureas" type2="">
+      <MEDICATION id="M33" start="1736" end="1745" text="glipizide" time="before DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M34" start="1736" end="1745" text="glipizide" time="before DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M35" start="1736" end="1745" text="glipizide" time="before DCT" type1="sulfonylureas" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC25" time="before DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M36" start="1711" end="1721" text="metoprolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M37" start="1711" end="1721" text="metoprolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M38" start="1711" end="1721" text="metoprolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC26" time="during DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M39" start="1711" end="1721" text="metoprolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M40" start="1711" end="1721" text="metoprolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M41" start="1711" end="1721" text="metoprolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC3" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="1385" end="1397" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="1385" end="1397" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H2" start="1385" end="1397" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC11" time="during DCT" indicator="high bp">
+      <HYPERTENSION id="H3" start="1886" end="1907" text="blood pressure 140/86" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H4" start="1886" end="1907" text="blood pressure 140/86" time="during DCT" indicator="high bp" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC14" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H5" start="1385" end="1397" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H6" start="1385" end="1397" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H7" start="1385" end="1397" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC24" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H8" start="1385" end="1397" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H9" start="1385" end="1397" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H10" start="1385" end="1397" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <FAMILY_HIST id="DOC18" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC2" status="past">
+      <SMOKER id="S0" start="1541" end="1592" text="He is a past smoker with 10 pack years of  smoking." status="past" comment=""/>
+      <SMOKER id="S1" start="1549" end="1591" text="past smoker with 10 pack years of  smoking" status="past" comment=""/>
+      <SMOKER id="S2" start="1548" end="1561" text=" past smoker " status="past" comment=""/>
+    </SMOKER>
+    <DIABETES id="DOC4" time="before DCT" indicator="mention">
+      <DIABETES id="D0" start="1418" end="1426" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D1" start="1399" end="1426" text="orally  controlled diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D2" start="3927" end="3935" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D3" start="1418" end="1426" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC7" time="during DCT" indicator="mention">
+      <DIABETES id="D4" start="1418" end="1426" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D5" start="1399" end="1426" text="orally  controlled diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D6" start="3927" end="3935" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D7" start="1418" end="1426" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC21" time="after DCT" indicator="mention">
+      <DIABETES id="D8" start="1418" end="1426" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D9" start="1399" end="1426" text="orally  controlled diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D10" start="3927" end="3935" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D11" start="1418" end="1426" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+  </TAGS>
+</root>

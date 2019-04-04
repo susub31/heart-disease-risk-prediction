@@ -1,0 +1,147 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2079-05-12
+
+
+
+
+
+MERCY CARE CENTER
+Mercy Internal Medicine Associates
+8 Newburgh Street
+Terrell, AR 72985
+
+Russell, Donna
+10418061
+05/12/79
+
+
+Ms. Russell comes in for further evaluation.  She has been in Rhode Island for 
+six months.  Her complaint is that she has heaviness in the chest.  She 
+does not have any palpitations.  She does not note that this is 
+associated with exertion.  She does have diaphoresis associated with it.  
+She does not have any shortness of breath.  This heaviness has been in 
+her chest on and off for the last six weeks.  She is quite concerned.
+
+She has a history of hypothyroidism and hypertension.  She also has 
+hyperlipidemia and is being treated with Lipitor.  Her health 
+maintenance has been in order.  She has just had a hysterectomy.  She 
+needs to have a follow-up mammogram done.  However, today I am most 
+concerned about her chest heaviness.
+
+PHYSICAL EXAMINATION:  Her blood pressure is 130/80, respiratory rate is 
+20 and pulse is 68.  Neck is supple.  There is no lymphadenopathy.  
+Chest is clear to both percussion and auscultation.  Cardiac exam is 
+regularly regular with no murmurs, gallops or rubs.  Abdomen is soft and 
+nontender.  There is no hepatosplenomegaly.  Extremities are clear of 
+cyanosis, clubbing and edema.
+
+LABORATORY DATA:  Her sodium is 145, electrolytes are all otherwise 
+within normal limits.  TSH is 2.0.  LFTs are pending at this time.  We 
+sent her for an electrocardiogram, which showed normal sinus rhythm with 
+nonspecific ST-T wave changes.  We also sent her for an exercise 
+tolerance test with preliminary reports showing that she went to a 
+maximum heart rate of 108, she was on the protocol for 6 minutes 50 
+seconds.  She had no evidence of ischemia.
+
+ASSESSMENT AND PLAN:
+1.	Chest heaviness.  I am not sure what is causing this.  She may have a 
+primary pulmonary problem.  She will be following up with us in one 
+week.  It is heartening to see that she does not have an abnormal 
+exercise tolerance test.
+2.	Hypothyroidism, well controlled at the present time.  Continue same 
+dose of Synthroid.
+3.	Hypertension, well controlled presently.
+4.	Hyperlipidemia.  We will recheck this on her next visit.
+
+
+
+RE:  Russell, Donna
+MRN #:  10418061
+May 12, 2079
+Page 2
+
+
+We will also need to schedule a follow-up mammogram.
+
+
+
+_______________________________
+Quinn Rutledge, M.D.
+
+QR/QR5
+957307.doc
+DD:  
+05/25/2079
+DT:  05/27/2079
+DV:  05/12/2079
+
+
+
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <HYPERLIPIDEMIA id="DOC4" time="before DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY0" start="662" end="676" text="hyperlipidemia" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY1" start="662" end="676" text="hyperlipidemia" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY2" start="662" end="676" text="hyperlipidemia" time="before DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <HYPERLIPIDEMIA id="DOC6" time="after DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY3" start="662" end="676" text="hyperlipidemia" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY4" start="662" end="676" text="hyperlipidemia" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY5" start="662" end="676" text="hyperlipidemia" time="after DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <HYPERLIPIDEMIA id="DOC10" time="during DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY6" start="662" end="676" text="hyperlipidemia" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY7" start="662" end="676" text="hyperlipidemia" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY8" start="662" end="676" text="hyperlipidemia" time="during DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <MEDICATION id="DOC0" time="before DCT" type1="statin" type2="">
+      <MEDICATION id="M0" start="703" end="710" text="Lipitor" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M1" start="703" end="710" text="Lipitor" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M2" start="703" end="710" text="Lipitor" time="before DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC1" time="during DCT" type1="statin" type2="">
+      <MEDICATION id="M3" start="703" end="710" text="Lipitor" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M4" start="703" end="710" text="Lipitor" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M5" start="703" end="710" text="Lipitor" time="during DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC3" time="after DCT" type1="statin" type2="">
+      <MEDICATION id="M6" start="703" end="710" text="Lipitor" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M7" start="703" end="710" text="Lipitor" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M8" start="703" end="710" text="Lipitor" time="after DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC2" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="633" end="645" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="633" end="645" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H2" start="633" end="645" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC5" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H3" start="633" end="645" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H4" start="633" end="645" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H5" start="633" end="645" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC7" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H6" start="633" end="645" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H7" start="633" end="645" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H8" start="633" end="645" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <FAMILY_HIST id="DOC8" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC9" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" status="unknown"/>
+      <SMOKER id="S2" start="3" end="9" text="Record" status="unknown" comment=""/>
+    </SMOKER>
+  </TAGS>
+</root>

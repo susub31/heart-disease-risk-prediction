@@ -1,0 +1,349 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2062-05-30
+
+
+
+
+
+Internal Medicine
+
+BARTON MEMORIAL HOSPITAL
+
+
+
+History of present illness
+
+			
+
+  This was a followup visit for this 28-year-old black man with the medical problems of type 1 diabetes mellitus, hypertension, thrombocytosis, and chronic renal insufficiency. The patient states that since I last saw him, he is being evaluated further for renal transplant. In addition, attempts were made to place an AV fistula for dialysis in his right arm and this did not work out. Given that this one did not work out, a decision was made to wait to see if there was a transplant candidate for him to get a renal transplant rather than put all of the pieces in place for hemodialysis if in fact he would need it. Most recently, the patient's creatinine was 6.4 and his BUN was 46 two weeks ago.
+
+
+
+Major Problems
+
+
+
+
+
+Diabetes mellitus
+
+Type 1 diabetes mellitus.  The patient's diabetes is currently well controlled on his current regimen of NPH and Regular Insulin.  Most recently, his hemoglobin A1c was 6.6 on 02/27/2062.  The patient states that all of his fingersticks at home have been consistently between 70 and 110.
+
+
+
+Chronic renal insufficiency
+
+The patient is being evaluated for renal transplant and possible candidate that his family members and friends will be tested to see whether there are a match shortly.
+
+
+
+Hypertension
+
+The patient is on a tremendous amount of medication to treat his hypertension. Currently, he is on labetalol 600 mg PO BID, furosemide 20 mg PO QD, clonidine 0.3 mg PO QHS, lisinopril 40 mg PO QD, and nifedipine XL 90 mg PO QHS. BHypertension is currently well controlled on this regimen.
+
+
+
+Erectile dysfunction
+
+The patient was experiencing erectile dysfunction largely on Toprol.  For this reason, the Toprol was discontinued and the patient is having less of a problem with this issue currently.
+
+
+
+Anemia
+
+The patient's anemia is due to multiple different factors.  He has recently been started on erythropoietin, which he is getting via injection in the Internal Medicine three times a week.  Most recently, his hematocrit was 29.4% two weeks ago.
+
+
+
+Thrombocytosis
+
+The patient is on Hydria 500 mg PO QD for this problem and he is being followed by Hematology.
+
+
+
+Hyperlipidemia
+
+The patient's hyperlipidemia is new.  Most recently, his lipids were done on 02/27/2062 and at that time his total cholesterol was 294 and his LDL was 209.  This is a new problem for the patient, given that his lipids were fairly normal six months ago.  Given this, the patient was started on Lipitor 20 mg PO QD for hyperlipidemia.  We will repeat his lipid panel at the time of his next visit in eight weeks.
+
+
+
+Active Medications
+
+
+
+aspirin 81mg po qd
+
+clonidine 0.3mg po 1 tabs po q pm
+
+furosemide 20 mg po qd
+
+Humulin n 40 units qam sc 36 units qpm take 30-60min before a meal or hs
+
+Hydrea 500mg po bid
+
+Insulin syringes (u 100) 
+
+labetalol HCl tablets 600 mg po bid
+
+Lancets 
+
+Lipitor 20mg po qd
+
+lisinopril 40mg po qd
+
+Nexium 40mg po bid take 1h before meal
+
+nifedipine xl 90mg sr po qhs do not cut/crush/chew
+
+Onetouch test strips 
+
+potassium chloride 10meq po qd
+
+regular insulin 25 units qam  sc 20 units qpm give 30-60min before a meal
+
+
+
+Change in therapies and Renewals
+
+
+
+Hydrea 500mg po bid QTY:60 Refills:5 Start: 10/16/2061
+
+Toprol xl 100 mg po bid QTY:30 Refills:5 Start: 10/16/2061 End: 5/30/2062 - Inactivated
+
+furosemide 20 mg po qd QTY:30 Refills:5 Start: 10/16/2061
+
+labetalol HCl tablets 600 mg po bid QTY:60 Refills:5 Start: 05/30/2062
+
+Lipitor 20mg po qd QTY:30 Refills:5 Start: 05/30/2062
+
+
+
+Physical examination
+
+Blood pressure 120/88  
+
+Weight   215 pounds
+
+General appearance   This was a well-developed, well-nourished black man, in no distress
+
+Chest   Lungs were clear throughout to AandP
+
+Cor   Regular rate and rhythm with no murmurs, rubs, or gallops
+
+
+
+Selected recent labs
+
+			
+
+  Fingerstick blood sugar 75.
+
+
+
+Disposition
+
+The patient will follow up with me again in six to eight weeks.
+
+
+
+Note transcribed by outside service
+
+			
+
+  Transcription errors may be present.
+
+
+
+Signed electronically by Ali, Felicia on Jun 6, 2062     
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="during DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M0" start="1533" end="1543" text="lisinopril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M1" start="1533" end="1543" text="lisinopril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M2" start="2951" end="2961" text="lisinopril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC1" time="after DCT" type1="statin" type2="">
+      <MEDICATION id="M3" start="2540" end="2547" text="Lipitor" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M4" start="2540" end="2547" text="Lipitor" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M5" start="2931" end="2938" text="Lipitor" time="after DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC2" time="during DCT" type1="aspirin" type2="">
+      <MEDICATION id="M6" start="2683" end="2690" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M7" start="2683" end="2690" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M8" start="2683" end="2690" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <DIABETES id="DOC3" time="before DCT" indicator="A1C">
+      <DIABETES id="D0" start="1005" end="1028" text="hemoglobin A1c was 6.6 " time="before DCT" indicator="A1C" comment=""/>
+      <DIABETES id="D1" start="1005" end="1027" text="hemoglobin A1c was 6.6" time="before DCT" indicator="A1C" comment=""/>
+      <DIABETES id="D2" start="1016" end="1027" text="A1c was 6.6" time="before DCT" indicator="A1C" comment=""/>
+    </DIABETES>
+    <HYPERTENSION id="DOC4" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="226" end="238" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="226" end="238" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H2" start="1346" end="1358" text="Hypertension" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <MEDICATION id="DOC5" time="after DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M9" start="1533" end="1543" text="lisinopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M10" start="1533" end="1543" text="lisinopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M11" start="2951" end="2961" text="lisinopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <DIABETES id="DOC6" time="during DCT" indicator="mention">
+      <DIABETES id="D3" start="200" end="224" text="type 1 diabetes mellitus" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D4" start="199" end="224" text=" type 1 diabetes mellitus" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D5" start="855" end="879" text="Type 1 diabetes mellitus" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <MEDICATION id="DOC7" time="after DCT" type1="aspirin" type2="">
+      <MEDICATION id="M12" start="2683" end="2690" text="aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M13" start="2683" end="2690" text="aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M14" start="2683" end="2690" text="aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERLIPIDEMIA id="DOC8" time="during DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY0" start="2231" end="2245" text="Hyperlipidemia" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY1" start="2261" end="2275" text="hyperlipidemia" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY2" start="2231" end="2245" text="Hyperlipidemia" time="during DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <MEDICATION id="DOC9" time="during DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M15" start="1561" end="1571" text="nifedipine" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M16" start="1561" end="1574" text="nifedipine XL" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M17" start="3014" end="3024" text="nifedipine" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC10" time="after DCT" type1="insulin" type2="">
+      <MEDICATION id="M18" start="968" end="983" text="Regular Insulin" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M19" start="960" end="963" text="NPH" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M20" start="960" end="963" text="NPH" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M21" start="2762" end="2771" text="Humulin n" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M22" start="3121" end="3136" text="regular insulin" time="after DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC11" time="before DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M23" start="1561" end="1571" text="nifedipine" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M24" start="1561" end="1574" text="nifedipine XL" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M25" start="3014" end="3024" text="nifedipine" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC12" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H3" start="226" end="238" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H4" start="226" end="238" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H5" start="1346" end="1358" text="Hypertension" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <MEDICATION id="DOC13" time="after DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M26" start="1459" end="1468" text="labetalol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M27" start="1459" end="1468" text="labetalol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M28" start="3290" end="3299" text="Toprol xl" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M29" start="2884" end="2893" text="labetalol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <SMOKER id="DOC14" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" status="unknown"/>
+      <SMOKER id="S2" status="unknown"/>
+    </SMOKER>
+    <HYPERLIPIDEMIA id="DOC15" time="before DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY3" start="2261" end="2275" text="hyperlipidemia" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY4" start="2231" end="2245" text="Hyperlipidemia" time="before DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <MEDICATION id="DOC16" time="before DCT" type1="statin" type2="">
+      <MEDICATION id="M30" start="2540" end="2547" text="Lipitor" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M31" start="2931" end="2938" text="Lipitor" time="before DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC17" time="during DCT" type1="statin" type2="">
+      <MEDICATION id="M32" start="2540" end="2547" text="Lipitor" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M33" start="2540" end="2547" text="Lipitor" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M34" start="2931" end="2938" text="Lipitor" time="during DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERLIPIDEMIA id="DOC18" time="before DCT" indicator="high LDL">
+      <HYPERLIPIDEMIA id="HY5" start="2386" end="2401" text="his LDL was 209" time="before DCT" indicator="high LDL" comment=""/>
+      <HYPERLIPIDEMIA id="HY6" start="2390" end="2401" text="LDL was 209" time="before DCT" indicator="high LDL" comment=""/>
+    </HYPERLIPIDEMIA>
+    <FAMILY_HIST id="DOC19" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <HYPERLIPIDEMIA id="DOC20" time="after DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY7" start="2261" end="2275" text="hyperlipidemia" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY8" start="2261" end="2275" text="hyperlipidemia" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY9" start="2231" end="2245" text="Hyperlipidemia" time="after DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <MEDICATION id="DOC21" time="before DCT" type1="aspirin" type2="">
+      <MEDICATION id="M35" start="2683" end="2690" text="aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M36" start="2683" end="2690" text="aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M37" start="2683" end="2690" text="aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <DIABETES id="DOC22" time="before DCT" indicator="mention">
+      <DIABETES id="D6" start="200" end="224" text="type 1 diabetes mellitus" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D7" start="199" end="224" text=" type 1 diabetes mellitus" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D8" start="855" end="879" text="Type 1 diabetes mellitus" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <MEDICATION id="DOC23" time="before DCT" type1="insulin" type2="">
+      <MEDICATION id="M38" start="968" end="983" text="Regular Insulin" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M39" start="960" end="963" text="NPH" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M40" start="960" end="963" text="NPH" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M41" start="2762" end="2771" text="Humulin n" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M42" start="3121" end="3136" text="regular insulin" time="before DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC24" time="before DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M43" start="1533" end="1543" text="lisinopril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M44" start="1533" end="1543" text="lisinopril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M45" start="2951" end="2961" text="lisinopril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERLIPIDEMIA id="DOC25" time="before DCT" indicator="high chol.">
+      <HYPERLIPIDEMIA id="HY10" start="2352" end="2381" text="his total cholesterol was 294" time="before DCT" indicator="high chol." comment=""/>
+      <HYPERLIPIDEMIA id="HY11" start="2356" end="2381" text="total cholesterol was 294" time="before DCT" indicator="high chol." comment=""/>
+    </HYPERLIPIDEMIA>
+    <MEDICATION id="DOC26" time="after DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M46" start="1561" end="1571" text="nifedipine" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M47" start="1561" end="1574" text="nifedipine XL" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M48" start="3014" end="3024" text="nifedipine" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC27" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H6" start="226" end="238" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H7" start="226" end="238" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H8" start="1346" end="1358" text="Hypertension" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <MEDICATION id="DOC28" time="during DCT" type1="insulin" type2="">
+      <MEDICATION id="M49" start="968" end="983" text="Regular Insulin" time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M50" start="960" end="963" text="NPH" time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M51" start="960" end="963" text="NPH" time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M52" start="2762" end="2771" text="Humulin n" time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M53" start="3121" end="3136" text="regular insulin" time="during DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC29" time="before DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M54" start="1459" end="1468" text="labetalol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M55" start="1765" end="1771" text="Toprol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M56" start="1459" end="1468" text="labetalol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M57" start="3290" end="3296" text="Toprol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M58" start="2884" end="2893" text="labetalol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC30" time="during DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M59" start="1459" end="1468" text="labetalol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M60" start="1459" end="1468" text="labetalol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M61" start="2884" end="2893" text="labetalol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <DIABETES id="DOC31" time="after DCT" indicator="mention">
+      <DIABETES id="D9" start="200" end="224" text="type 1 diabetes mellitus" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D10" start="199" end="224" text=" type 1 diabetes mellitus" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D11" start="855" end="879" text="Type 1 diabetes mellitus" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <PHI id="P0" start="16" end="26" text="2062-05-30" TYPE="DATE"/>
+    <PHI id="P1" start="32" end="49" text="Internal Medicine" TYPE="DEPARTMENT"/>
+    <PHI id="P2" start="51" end="75" text="BARTON MEMORIAL HOSPITAL" TYPE="HOSPITAL"/>
+    <PHI id="P3" start="149" end="151" text="28" TYPE="AGE"/>
+    <PHI id="P4" start="1031" end="1041" text="02/27/2062" TYPE="DATE"/>
+    <PHI id="P5" start="2020" end="2037" text="Internal Medicine" TYPE="DEPARTMENT"/>
+    <PHI id="P6" start="2324" end="2334" text="02/27/2062" TYPE="DATE"/>
+    <PHI id="P7" start="3278" end="3288" text="10/16/2061" TYPE="DATE"/>
+    <PHI id="P8" start="3338" end="3348" text="10/16/2061" TYPE="DATE"/>
+    <PHI id="P9" start="3354" end="3363" text="5/30/2062" TYPE="DATE"/>
+    <PHI id="P10" start="3426" end="3436" text="10/16/2061" TYPE="DATE"/>
+    <PHI id="P11" start="3498" end="3508" text="05/30/2062" TYPE="DATE"/>
+    <PHI id="P12" start="3553" end="3563" text="05/30/2062" TYPE="DATE"/>
+    <PHI id="P13" start="4087" end="4099" text="Ali, Felicia" TYPE="DOCTOR"/>
+    <PHI id="P14" start="4103" end="4114" text="Jun 6, 2062" TYPE="DATE"/>
+  </TAGS>
+</root>

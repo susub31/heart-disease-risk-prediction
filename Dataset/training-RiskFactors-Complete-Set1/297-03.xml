@@ -1,0 +1,154 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2093-12-12
+
+SPENCER STATE HOSPITAL
+SPENCER Internal Medicine Associates
+100 Burrit St                             Vicente, Kadeem
+Fayetteville, MI  31474                             94859580
+                                              12-18-93
+ 
+ 
+ 
+HPI:  Mr. Vicente returns for follow-up.  He is status post TURP by Dr. 
+Nixon.  He is having a little bit of incontinence, but Dr. Nixon 
+thinks that this should get better.
+ 
+We will have to recheck his platelets, which have been in the 120 to 145 
+range.  We also will look back at his echocardiogram, which is showing 
+that he had slight mitral and tricuspid regurgitation as well as mildly 
+dilated LV with inferior hypokinesis.  He has remained on digoxin status 
+post his myocardial infarction.
+ 
+We want to recheck his cholesterol today.  We also have been concerned 
+that he has been a little depressed but mostly because he is concerned 
+about his wife's situation with breast cancer.  We had a long discussion 
+about this.
+ 
+Physical Examination:  On physical examination, his weight is 250 lbs.  
+His blood pressure was 178/80.  The follow-up was 170/80.  His neck was 
+supple.  Chest was clear to both percussion and auscultation.  Cardiac 
+exam was regularly regular with no murmurs, gallops or rubs.  Abdomen 
+was soft and nontender with no hepatosplenomegaly.  Extremities were 
+clear of cyanosis, clubbing or edema.  Rectal tone was normal and guaiac 
+negative.
+ 
+Laboratory Data:  His hematocrit was 39.9.  Platelets were within normal 
+limits.  White count is 8.3.  Digoxin is 0.9.  Lytes are within normal 
+limits.  
+ 
+Assessment and Plan:
+1.   Status post TURP.  He appears to be recovering well.  He has had 
+     slight incontinence, but I suspect this will pass.
+2.   Thrombocytopenia.  This was very relative.  It now appears to have 
+     resolved.
+3.   Coronary artery disease.  As he recovers from his TURP, I question 
+     whether it might be reasonable to go ahead and reexercise him.  At 
+     the present time, he is quite stable on an aspirin, digoxin and 
+     Lasix.  However, it may be that he would benefit from further 
+     treatment with anti-anginals.
+4.   Hypercholesterolemia.  This has been well-controlled recently.  His 
+     last cholesterol was 168 in August of 2093.
+5.   Depression.  He continues on Ambien.  He has some discretion about 
+     his wife's breast cancer, and he appears to have some of his 
+     uncertainty resolved.    
+ 
+_________________________
+Miles Echeverria, M.D.                                                      
+ 
+GH:VO:0860/DD:12-18-93/DT:12-20-93/DV:12-18-93                          
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <CAD id="DOC0" time="before DCT" indicator="mention">
+      <CAD id="C0" start="1848" end="1872" text="Coronary artery disease." time="before DCT" indicator="mention" comment=""/>
+      <CAD id="C1" start="1848" end="1871" text="Coronary artery disease" time="before DCT" indicator="mention" comment=""/>
+      <CAD id="C2" start="1848" end="1871" text="Coronary artery disease" time="before DCT" indicator="mention" comment=""/>
+    </CAD>
+    <MEDICATION id="DOC1" time="during DCT" type1="aspirin" type2="">
+      <MEDICATION id="M0" start="2037" end="2044" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M1" start="2037" end="2044" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M2" start="2037" end="2044" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <CAD id="DOC2" time="before DCT" indicator="event">
+      <CAD id="C3" start="743" end="768" text="his myocardial infarction" time="before DCT" indicator="event" comment=""/>
+      <CAD id="C4" start="747" end="768" text="myocardial infarction" time="before DCT" indicator="event" comment=""/>
+    </CAD>
+    <MEDICATION id="DOC3" time="before DCT" type1="aspirin" type2="">
+      <MEDICATION id="M3" start="2037" end="2044" text="aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M4" start="2037" end="2044" text="aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M5" start="2037" end="2044" text="aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC4" time="during DCT" indicator="high bp">
+      <HYPERTENSION id="H0" start="1080" end="1106" text=" blood pressure was 178/80" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H1" start="1100" end="1106" text="178/80" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H2" start="1081" end="1106" text="blood pressure was 178/80" time="during DCT" indicator="high bp" comment=""/>
+    </HYPERTENSION>
+    <HYPERLIPIDEMIA id="DOC5" time="before DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY0" start="2167" end="2187" text="Hypercholesterolemia" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY1" start="2167" end="2187" text="Hypercholesterolemia" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY2" start="2167" end="2187" text="Hypercholesterolemia" time="before DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <HYPERLIPIDEMIA id="DOC6" time="after DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY3" start="2167" end="2187" text="Hypercholesterolemia" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY4" start="2167" end="2187" text="Hypercholesterolemia" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY5" start="2167" end="2187" text="Hypercholesterolemia" time="after DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <CAD id="DOC7" time="during DCT" indicator="mention">
+      <CAD id="C5" start="1848" end="1872" text="Coronary artery disease." time="during DCT" indicator="mention" comment=""/>
+      <CAD id="C6" start="1848" end="1871" text="Coronary artery disease" time="during DCT" indicator="mention" comment=""/>
+      <CAD id="C7" start="1848" end="1871" text="Coronary artery disease" time="during DCT" indicator="mention" comment=""/>
+    </CAD>
+    <MEDICATION id="DOC8" time="after DCT" type1="aspirin" type2="">
+      <MEDICATION id="M6" start="2037" end="2044" text="aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M7" start="2037" end="2044" text="aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M8" start="2037" end="2044" text="aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <FAMILY_HIST id="DOC9" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC10" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" start="3" end="9" text="Record" status="unknown" comment=""/>
+      <SMOKER id="S2" status="unknown"/>
+    </SMOKER>
+    <CAD id="DOC11" time="after DCT" indicator="mention">
+      <CAD id="C8" start="1848" end="1872" text="Coronary artery disease." time="after DCT" indicator="mention" comment=""/>
+      <CAD id="C9" start="1848" end="1871" text="Coronary artery disease" time="after DCT" indicator="mention" comment=""/>
+      <CAD id="C10" start="1848" end="1871" text="Coronary artery disease" time="after DCT" indicator="mention" comment=""/>
+    </CAD>
+    <HYPERLIPIDEMIA id="DOC12" time="during DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY6" start="2167" end="2187" text="Hypercholesterolemia" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY7" start="2167" end="2187" text="Hypercholesterolemia" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY8" start="2167" end="2187" text="Hypercholesterolemia" time="during DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <PHI id="P0" start="16" end="26" text="2093-12-12" TYPE="DATE"/>
+    <PHI id="P1" start="28" end="50" text="SPENCER STATE HOSPITAL" TYPE="HOSPITAL"/>
+    <PHI id="P2" start="51" end="58" text="SPENCER" TYPE="HOSPITAL"/>
+    <PHI id="P3" start="88" end="101" text="100 Burrit St" TYPE="STREET"/>
+    <PHI id="P4" start="130" end="145" text="Vicente, Kadeem" TYPE="PATIENT"/>
+    <PHI id="P5" start="146" end="158" text="Fayetteville" TYPE="CITY"/>
+    <PHI id="P6" start="160" end="162" text="MI" TYPE="STATE"/>
+    <PHI id="P7" start="164" end="169" text="31474" TYPE="ZIP"/>
+    <PHI id="P8" start="198" end="206" text="94859580" TYPE="MEDICALRECORD"/>
+    <PHI id="P9" start="253" end="261" text="12-18-93" TYPE="DATE"/>
+    <PHI id="P10" start="278" end="285" text="Vicente" TYPE="PATIENT"/>
+    <PHI id="P11" start="341" end="346" text="Nixon" TYPE="DOCTOR"/>
+    <PHI id="P12" start="400" end="405" text="Nixon" TYPE="DOCTOR"/>
+    <PHI id="P13" start="2269" end="2283" text="August of 2093" TYPE="DATE"/>
+    <PHI id="P14" start="2484" end="2500" text="Miles Echeverria" TYPE="DOCTOR"/>
+    <PHI id="P15" start="2563" end="2573" text="GH:VO:0860" TYPE="IDNUM"/>
+    <PHI id="P16" start="2577" end="2585" text="12-18-93" TYPE="DATE"/>
+    <PHI id="P17" start="2589" end="2597" text="12-20-93" TYPE="DATE"/>
+    <PHI id="P18" start="2601" end="2609" text="12-18-93" TYPE="DATE"/>
+  </TAGS>
+</root>

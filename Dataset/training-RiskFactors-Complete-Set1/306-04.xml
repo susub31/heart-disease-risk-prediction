@@ -1,0 +1,292 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2117-08-19
+
+Immanuel Medical Center
+
+Emergency Department Record
+
+
+
+Patient: TRAVIS, PEGGY             MRN: 0834010        DOB:  3/08/2061     Sex: F
+
+Registration Date/Time: 8/19/2117 3:52:00 PM            Provider: NICHOLAS SINGH
+
+
+
+
+
+Time Patient Seen
+
+17:00
+
+Chief Complaint
+
+Swelling in the right foot.
+
+HPI
+
+56 yo f a known diabetic for past 3 yrs has come with complaints of swellin and redness of the R foot for one week,she hit her toe against a beaureu after wqhich she developed pain ,swelling and redness.There is loss of sensation.no h/o fever ,chills and rigor.
+
+PMHx
+
+Diabetes,hypertension,stroke
+
+PSurHx
+
+None
+
+Meds
+
+diabetic medications
+
+Allergy
+
+No Known Drug Allergies
+
+Social Hx
+
+No Etoh/drug
+
+
+
+ROS
+
+General
+
+Negative
+
+Constitutional
+
+No major weight loss or gain, fatigue, fever, chills.
+
+Head/Eyes
+
+No visual changes, lesions, headaches
+
+ENT/Neck
+
+No hearing loss, tinnitus, vertigo, rhinorrhea, hoarseness, difficulty swallowing, oral lesions, stiffness
+
+Chest/Respiratory
+
+No coughing, wheezing, dyspnea
+
+Cardiovascular
+
+No chest pain, palpitations, PND, orthopnea
+
+GI/Abdominal
+
+No pain, nausea, vomiting, diarrhea, melena, bleeding, heartburn
+
+GU/Flank/CVA/Pelvic
+
+No menstrual irregularity, vaginal discharge, frequency, urgency, dysuria, bleeding
+
+Musculoskeletal/Extr/Back
+
+bilateral pedal edema,ulcer in the right foot.
+
+Skin
+
+See HPI
+
+Neuro
+
+Slurred speech,weakness in the right lower limb
+
+Psych
+
+No depression, anxiety, unusual stress
+
+Heme/Lymph/Imm
+
+No bruising, adenopathy, chills, sweats, fevers
+
+Endo
+
+No polyuria, polydipsia
+
+
+
+Physical Exam
+
+Constitutional
+
+Patient is a well developed, well nourished, healthy appearing, alert female, no acute distress, no obvious discomfort
+
+Head/Eyes
+
+NC/AT, pupils are equal, round and react normally to light, EOM's are full, no ocular discharge, conjunctiva normal
+
+ENT
+
+There is no nasal discharge. TM's clear, auditory canal without lesions, no intraoral lesions, good dentition, uvula midline, tonsils and pharynx without inflammation or exudates
+
+Neck
+
+Full range of motion, no stiffness or tenderness, thyroid normal size without nodularity.  Carotid pulses are intact bilaterally without bruits, no lymphadenopathy, no masses, no neck vein distention
+
+Chest/Respiratory
+
+Clear to auscultation and percussion, no crackles, wheezes or rhonchi
+
+Cardiovascular
+
+Regular rate and rhythm, normal S1 & S2, no murmurs, gallops or rubs
+
+GI/Abdomen
+
+Soft, normal bowel sounds, nontender, no intra-abdominal masses or hepatosplenomegaly
+
+Genitourinary
+
+Speculum and bimanual examination normal, no masses or tenderness
+
+Musculoskeletal
+
+No cyanosis, clubbing, or joint swelling
+
+Skin
+
+ulcer right foot,swelling of R foot,redness
+
+Neurologic
+
+Loss of sensation of b/l foot,slurring of speech,cn 1to12 normal ,power of lower limb muscle 4/5. UL POWER 5/5.
+
+Psychiatric
+
+No visual or auditory hallucination, not suicidal, not homicidal
+
+X-ray Interpretation
+
+X-ray right foot.
+
+Impression/Plan
+
+R Diabetic foot
+
+
+
+ED Attending Physician Note
+
+HPI
+
+56 year-old female reports blunt trauma to right great toe one week ago now with increasing redness and swelling
+
+ROS
+
+Paste and the itching sensation, joint pain, fever,
+
+Vitals
+
+See Nursing Notes
+
+PE
+
+Gen: nontoxic HEENT MMM PERRLA EOMI neck NT supple heart s1s2 RRR -m lungs CTAx2 abd soft NT ND ext -c/c/e FROM all jts   neuro  sens symmetric to LT/PP distally, skin erythema of right great toe with soft tissue swelling and erythema extending into the forefoot with edema 
+
+
+
+Medical Decision Making ED Course
+
+ED IV antibiotics, check CBC and Chem-7; glucose normal; admit for diabetic foot infection/cellulitis
+
+Condition on Discharge
+
+Stable
+
+Diagnoses
+
+Right foot cellulitis
+
+Review Comments
+
+I have personally seen and examined the patient and confirmed the resident's examination, reviewed and agree with the resident's documentation of history, and discussed the evaluation, plan of care and disposition of the patient with the resident.
+
+
+
+This note has been electronically signed by NICHOLAS SINGH, MD 8/25/2117 6:25:59 PM
+
+
+
+Clinical staff documenting in the ED note include:
+
+
+
+Attending/Nurse Practitioners(s)
+
+
+
+NICHOLAS SINGH, MD
+
+Other Providers
+
+
+
+HEATHER HERNANDEZ, Medical Student
+
+
+
+]]></TEXT>
+  <TAGS>
+    <DIABETES id="DOC0" time="after DCT" indicator="mention">
+      <DIABETES id="D0" start="599" end="607" text="Diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D1" start="599" end="607" text="Diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D2" start="346" end="354" text="diabetic" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <HYPERTENSION id="DOC1" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="608" end="620" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="608" end="620" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H2" start="608" end="620" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC2" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H3" start="608" end="620" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H4" start="608" end="620" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H5" start="608" end="620" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <DIABETES id="DOC3" time="during DCT" indicator="mention">
+      <DIABETES id="D3" start="599" end="607" text="Diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D4" start="599" end="607" text="Diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D5" start="346" end="354" text="diabetic" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <HYPERTENSION id="DOC4" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H6" start="608" end="620" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H7" start="608" end="620" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H8" start="608" end="620" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <FAMILY_HIST id="DOC5" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC6" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" status="unknown"/>
+      <SMOKER id="S2" start="716" end="728" text="No Etoh/drug" status="unknown" comment=""/>
+    </SMOKER>
+    <DIABETES id="DOC7" time="before DCT" indicator="mention">
+      <DIABETES id="D6" start="599" end="607" text="Diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D7" start="599" end="607" text="Diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D8" start="346" end="354" text="diabetic" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <PHI id="P0" start="16" end="26" text="2117-08-19" TYPE="DATE"/>
+    <PHI id="P1" start="28" end="51" text="Immanuel Medical Center" TYPE="HOSPITAL"/>
+    <PHI id="P2" start="93" end="106" text="TRAVIS, PEGGY" TYPE="PATIENT"/>
+    <PHI id="P3" start="124" end="131" text="0834010" TYPE="MEDICALRECORD"/>
+    <PHI id="P4" start="145" end="154" text="3/08/2061" TYPE="DATE"/>
+    <PHI id="P5" start="191" end="200" text="8/19/2117" TYPE="DATE"/>
+    <PHI id="P6" start="233" end="247" text="NICHOLAS SINGH" TYPE="DOCTOR"/>
+    <PHI id="P7" start="330" end="332" text="56" TYPE="AGE"/>
+    <PHI id="P8" start="3037" end="3039" text="56" TYPE="AGE"/>
+    <PHI id="P9" start="4034" end="4048" text="NICHOLAS SINGH" TYPE="DOCTOR"/>
+    <PHI id="P10" start="4053" end="4062" text="8/25/2117" TYPE="DATE"/>
+    <PHI id="P11" start="4167" end="4181" text="NICHOLAS SINGH" TYPE="DOCTOR"/>
+    <PHI id="P12" start="4206" end="4223" text="HEATHER HERNANDEZ" TYPE="DOCTOR"/>
+  </TAGS>
+</root>

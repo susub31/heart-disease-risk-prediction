@@ -1,0 +1,200 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2062-06-10
+
+Medical Walk In Unit
+
+Hartsville General Hospital
+
+21 Brook St 
+
+Pataskala, RI 33689
+
+Phone: 929-462-2794   Fax: 648-875-5821 
+
+
+
+PCP: 
+
+
+
+
+
+Nursing Assessment:  
+
+WT:    Temp:    P: 100     BP: 190/116
+
+
+
+Reason for visit: Pt just left the EW.  Noted HTN has been off meds for a while.  Was nor given any meds
+
+
+
+Lab Data :
+
+
+
+Allergies:      
+
+
+
+
+
+Medication: 
+
+off meds for more than 3 months
+
+
+
+History of the Present Illness:                                
+
+59 y/o female here for high blood pressure.  Pt was seen in EW for medications and was given Seroquel, Neurontin, and amytriptyline.  Pt has been out of meds for more than 3 months.
+
+
+
+Pt remembers being atenolol and HCTZ.  Pt plans to come to the medical walk-in tomorrow with all her medications.
+
+
+
+Pt denies HA, visual problems, chest pain, problems with urination.
+
+
+
+Father had CAD and died at age 55.  Mother died when she was 89 (10 months ago).  Pt never had a heart attack.  Pt never smoked.
+
+
+
+Pertinent PMH:  
+
+diabetes
+
+HTN
+
+mood disorder
+
+
+
+Physical Exam:  
+
+Gen: NAD
+
+Vitals: HR 100, BP 200/130 on right arm
+
+Heart: reg, no murmur
+
+Lungs: CTAB
+
+
+
+Assessment/Plan:
+
+high blood pressure
+
+-- metoprolol 50 po now and then bid
+
+-- lisinopril 10 po now and then qd
+
+-- follow-up in the EW now to make sure BP is lower before discharge
+
+
+
+Follow-up:
+
+to EW
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="during DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M0" start="1234" end="1244" text="lisinopril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M1" start="1234" end="1244" text="lisinopril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <DIABETES id="DOC1" time="before DCT" indicator="mention">
+      <DIABETES id="D0" start="1015" end="1023" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D1" start="1015" end="1023" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <HYPERTENSION id="DOC2" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="515" end="534" text="high blood pressure" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="280" end="283" text="HTN" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H2" start="280" end="283" text="HTN" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H3" start="1025" end="1028" text="HTN" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <DIABETES id="DOC3" time="during DCT" indicator="mention">
+      <DIABETES id="D2" start="1015" end="1023" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D3" start="1015" end="1023" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <HYPERTENSION id="DOC4" time="during DCT" indicator="high bp">
+      <HYPERTENSION id="H4" start="219" end="230" text="BP: 190/116" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H5" start="218" end="230" text=" BP: 190/116" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H6" start="1091" end="1114" text="BP 200/130 on right arm" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H7" start="219" end="230" text="BP: 190/116" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H8" start="1091" end="1101" text="BP 200/130" time="during DCT" indicator="high bp" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC5" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H9" start="515" end="534" text="high blood pressure" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H10" start="280" end="283" text="HTN" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H11" start="280" end="283" text="HTN" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H12" start="1025" end="1028" text="HTN" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <MEDICATION id="DOC6" time="before DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M2" start="696" end="704" text="atenolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M3" start="696" end="704" text="atenolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M4" start="696" end="704" text="atenolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M5" start="1196" end="1206" text="metoprolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC7" time="after DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M6" start="1234" end="1244" text="lisinopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M7" start="1234" end="1244" text="lisinopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M8" start="1234" end="1244" text="lisinopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <FAMILY_HIST id="DOC8" indicator="present">
+      <FAMILY_HIST id="F0" start="865" end="898" text="Father had CAD and died at age 55" indicator="present" comment=""/>
+      <FAMILY_HIST id="F1" start="865" end="898" text="Father had CAD and died at age 55" indicator="present" comment=""/>
+      <FAMILY_HIST id="F2" start="865" end="898" text="Father had CAD and died at age 55" indicator="present" comment=""/>
+    </FAMILY_HIST>
+    <HYPERTENSION id="DOC9" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H13" start="515" end="534" text="high blood pressure" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H14" start="280" end="283" text="HTN" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H15" start="280" end="283" text="HTN" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H16" start="1025" end="1028" text="HTN" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <MEDICATION id="DOC10" time="before DCT" type1="diuretic" type2="">
+      <MEDICATION id="M9" start="709" end="713" text="HCTZ" time="before DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M10" start="709" end="713" text="HCTZ" time="before DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M11" start="709" end="713" text="HCTZ" time="before DCT" type1="diuretic" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC11" time="after DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M12" start="1196" end="1206" text="metoprolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M13" start="1196" end="1206" text="metoprolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M14" start="1196" end="1206" text="metoprolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC12" time="during DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M15" start="1196" end="1206" text="metoprolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M16" start="1196" end="1206" text="metoprolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <DIABETES id="DOC13" time="after DCT" indicator="mention">
+      <DIABETES id="D4" start="1015" end="1023" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D5" start="1015" end="1023" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <SMOKER id="DOC14" status="never">
+      <SMOKER id="S0" start="977" end="992" text="Pt never smoked" status="never" comment=""/>
+      <SMOKER id="S1" start="977" end="993" text="Pt never smoked." status="never" comment=""/>
+      <SMOKER id="S2" start="980" end="993" text="never smoked." status="never" comment=""/>
+    </SMOKER>
+    <PHI id="P0" start="16" end="26" text="2062-06-10" TYPE="DATE"/>
+    <PHI id="P1" start="50" end="77" text="Hartsville General Hospital" TYPE="HOSPITAL"/>
+    <PHI id="P2" start="79" end="90" text="21 Brook St" TYPE="STREET"/>
+    <PHI id="P3" start="93" end="102" text="Pataskala" TYPE="CITY"/>
+    <PHI id="P4" start="104" end="106" text="RI" TYPE="STATE"/>
+    <PHI id="P5" start="107" end="112" text="33689" TYPE="ZIP"/>
+    <PHI id="P6" start="121" end="133" text="929-462-2794" TYPE="PHONE"/>
+    <PHI id="P7" start="141" end="153" text="648-875-5821" TYPE="FAX"/>
+    <PHI id="P8" start="492" end="494" text="59" TYPE="AGE"/>
+    <PHI id="P9" start="896" end="898" text="55" TYPE="AGE"/>
+    <PHI id="P10" start="926" end="928" text="89" TYPE="AGE"/>
+  </TAGS>
+</root>

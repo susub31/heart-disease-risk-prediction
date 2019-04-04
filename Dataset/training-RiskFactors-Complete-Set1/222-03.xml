@@ -1,0 +1,144 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2095-10-23
+
+                     RAH EMERGENCY DEPT VISIT
+ 
+DUVALL,BRADY C   425-03-15-1                 VISIT DATE: 10/23/95
+HISTORY OF PRESENTING COMPLAINT:  The patient is an unfortunate 73 
+year old man who has had two myocardial infarctions in the past, 
+including an IMI, and ventricular tachycardia and ventricular 
+fibrillation who has an AICD in who presents today with his AICD 
+firing multiple times.  The patient's AICD actually fired multiple 
+times while he was in the Emergency Department. 
+REVIEW OF SYSTEMS:  The patient has no chest pain, syncope, or 
+shortness of breath.  He presents in ventricular tachycardia with 
+his AICD firing. 
+PAST MEDICAL HISTORY:  The patient has a significant coronary 
+artery disease history and recently had his pacer placed, 
+approximately a month ago.  He has had two myocardial infarctions. 
+He has diabetes. 
+MEDICATIONS:  Glyburide and metformin. 
+ALLERGIES:  Atenolol. 
+PHYSICAL EXAMINATION:  VITAL SIGNS:  Vital signs remained stable, 
+including blood pressure.  HEENT:  Normal.  LUNGS:  Clear. 
+CARDIOVASCULAR:  Tachycardic with a paced rhythm.  ABDOMEN:  Soft, 
+non-tender.  LUNGS:  Clear bilaterally. 
+LABORATORY EVALUATION:  The patient's EKG shows ventricular 
+tachycardia and some ST elevations in the inferior leads.  Chest 
+x-ray was clear.  Electrolytes were sent to check his potassium. 
+THERAPY RENDERED/COURSE IN ED:  The patient was loaded on lidocaine 
+and paced on a lidocaine drip.  He also received Lasix and 
+metoprolol.  He also received 2 mg of Ativan for sedation.  He had 
+no chest pain while he was in the Emergency Department;  his only 
+pain was from the pacer firing. 
+CONSULTATIONS (including PCP):  The patient was seen by Internal Medicine and also by the Internal Medicine fellow. 
+FINAL DIAGNOSIS:  History of coronary artery disease, now with 
+ventricular tachycardia and ST elevations on EKG with pacer firing. 
+DISPOSITION (including condition upon discharge):  The patient was 
+urgently rushed to the Cath Lab.  He is currently in stable 
+condition. 
+___________________________________                    OT109/6637 
+FRANK EMMONS, M.D.       FE01                           D:10/23/95 
+                                                       T:10/23/95 
+Dictated by:  FRANK EMMONS, M.D.       FE01 
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="before DCT" type1="metformin" type2="">
+      <MEDICATION id="M0" start="907" end="916" text="metformin" time="before DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M1" start="907" end="916" text="metformin" time="before DCT" type1="metformin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC1" time="after DCT" type1="metformin" type2="">
+      <MEDICATION id="M2" start="907" end="916" text="metformin" time="after DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M3" start="907" end="916" text="metformin" time="after DCT" type1="metformin" type2="" comment=""/>
+    </MEDICATION>
+    <CAD id="DOC2" time="before DCT" indicator="mention">
+      <CAD id="C0" start="724" end="748" text="coronary  artery disease" time="before DCT" indicator="mention" comment=""/>
+      <CAD id="C1" start="724" end="748" text="coronary  artery disease" time="before DCT" indicator="mention" comment=""/>
+      <CAD id="C2" start="1814" end="1838" text="coronary artery disease," time="before DCT" indicator="mention" comment=""/>
+      <CAD id="C3" start="724" end="748" text="coronary  artery disease" time="before DCT" indicator="mention" comment=""/>
+    </CAD>
+    <CAD id="DOC3" time="before DCT" indicator="event">
+      <CAD id="C4" start="234" end="262" text=" two myocardial infarctions " time="before DCT" indicator="event" comment=""/>
+      <CAD id="C5" start="235" end="261" text="two myocardial infarctions" time="before DCT" indicator="event" comment=""/>
+      <CAD id="C6" start="832" end="858" text="two myocardial infarctions" time="before DCT" indicator="event" comment=""/>
+      <CAD id="C7" start="235" end="292" text="two myocardial infarctions in the past,  including an IMI" time="before DCT" indicator="event" comment=""/>
+    </CAD>
+    <DIABETES id="DOC4" time="during DCT" indicator="mention">
+      <DIABETES id="D0" start="868" end="878" text="diabetes. " time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D1" start="868" end="878" text="diabetes. " time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D2" start="868" end="876" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <MEDICATION id="DOC5" time="during DCT" type1="sulfonylureas" type2="">
+      <MEDICATION id="M4" start="893" end="903" text="Glyburide " time="during DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M5" start="893" end="902" text="Glyburide" time="during DCT" type1="sulfonylureas" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC6" time="during DCT" type1="metformin" type2="">
+      <MEDICATION id="M6" start="907" end="916" text="metformin" time="during DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M7" start="907" end="916" text="metformin" time="during DCT" type1="metformin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC7" time="after DCT" type1="sulfonylureas" type2="">
+      <MEDICATION id="M8" start="893" end="903" text="Glyburide " time="after DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M9" start="893" end="902" text="Glyburide" time="after DCT" type1="sulfonylureas" type2="" comment=""/>
+    </MEDICATION>
+    <DIABETES id="DOC8" time="before DCT" indicator="mention">
+      <DIABETES id="D3" start="868" end="878" text="diabetes. " time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D4" start="868" end="878" text="diabetes. " time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D5" start="868" end="876" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC9" time="after DCT" indicator="mention">
+      <DIABETES id="D6" start="868" end="878" text="diabetes. " time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D7" start="868" end="878" text="diabetes. " time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D8" start="868" end="876" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <CAD id="DOC10" time="during DCT" indicator="mention">
+      <CAD id="C8" start="724" end="748" text="coronary  artery disease" time="during DCT" indicator="mention" comment=""/>
+      <CAD id="C9" start="724" end="748" text="coronary  artery disease" time="during DCT" indicator="mention" comment=""/>
+      <CAD id="C10" start="1814" end="1838" text="coronary artery disease," time="during DCT" indicator="mention" comment=""/>
+      <CAD id="C11" start="724" end="748" text="coronary  artery disease" time="during DCT" indicator="mention" comment=""/>
+    </CAD>
+    <FAMILY_HIST id="DOC11" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC12" status="unknown">
+      <SMOKER id="S0" start="3" end="9" text="Record" status="unknown" comment=""/>
+      <SMOKER id="S1" status="unknown"/>
+      <SMOKER id="S2" status="unknown"/>
+    </SMOKER>
+    <CAD id="DOC13" time="after DCT" indicator="mention">
+      <CAD id="C12" start="724" end="748" text="coronary  artery disease" time="after DCT" indicator="mention" comment=""/>
+      <CAD id="C13" start="724" end="748" text="coronary  artery disease" time="after DCT" indicator="mention" comment=""/>
+      <CAD id="C14" start="1814" end="1838" text="coronary artery disease," time="after DCT" indicator="mention" comment=""/>
+      <CAD id="C15" start="724" end="748" text="coronary  artery disease" time="after DCT" indicator="mention" comment=""/>
+    </CAD>
+    <MEDICATION id="DOC14" time="before DCT" type1="sulfonylureas" type2="">
+      <MEDICATION id="M10" start="893" end="903" text="Glyburide " time="before DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M11" start="893" end="902" text="Glyburide" time="before DCT" type1="sulfonylureas" type2="" comment=""/>
+    </MEDICATION>
+    <PHI id="P0" start="16" end="26" text="2095-10-23" TYPE="DATE"/>
+    <PHI id="P1" start="49" end="52" text="RAH" TYPE="HOSPITAL"/>
+    <PHI id="P2" start="76" end="90" text="DUVALL,BRADY C" TYPE="PATIENT"/>
+    <PHI id="P3" start="93" end="104" text="425-03-15-1" TYPE="MEDICALRECORD"/>
+    <PHI id="P4" start="133" end="141" text="10/23/95" TYPE="DATE"/>
+    <PHI id="P5" start="206" end="208" text="73" TYPE="AGE"/>
+    <PHI id="P6" start="1724" end="1741" text="Internal Medicine" TYPE="DEPARTMENT"/>
+    <PHI id="P7" start="1758" end="1775" text="Internal Medicine" TYPE="DEPARTMENT"/>
+    <PHI id="P8" start="2114" end="2124" text="OT109/6637" TYPE="IDNUM"/>
+    <PHI id="P9" start="2126" end="2138" text="FRANK EMMONS" TYPE="DOCTOR"/>
+    <PHI id="P10" start="2151" end="2155" text="FE01" TYPE="USERNAME"/>
+    <PHI id="P11" start="2184" end="2192" text="10/23/95" TYPE="DATE"/>
+    <PHI id="P12" start="2251" end="2259" text="10/23/95" TYPE="DATE"/>
+    <PHI id="P13" start="2275" end="2287" text="FRANK EMMONS" TYPE="DOCTOR"/>
+    <PHI id="P14" start="2300" end="2304" text="FE01" TYPE="USERNAME"/>
+  </TAGS>
+</root>

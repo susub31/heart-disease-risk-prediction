@@ -1,0 +1,142 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2081-05-01
+
+ 
+ 
+ 
+ 
+ 
+May 01, 2081
+ 
+ 
+ 
+Usha Gibbons, M.D.
+CIMA
+Cooley Dickinson Hospital
+08 Pinehaven Dr.
+Schuyler, FL  76969
+ 
+ 
+RE:  Wonda Benitez
+     MR #892-76-95-4
+ 
+Dear Usha:
+ 
+I had the pleasure of seeing one of your clinic patients, Ms.
+Benitez, in my cardiovascular clinic for follow-up for palpitations,
+hypertension, and status post coronary artery bypass surgery.  As
+you know, she has been complaining of leg cramps mostly at night. 
+She has been taking quinine for this, however develops palpitations
+whenever she takes the quinine.  She has not been taking this since
+the initial two doses.  I suspect that her leg cramps are probably
+secondary to intermittent passing fluxes.  I have told her to eat
+a banana during the evening and possibly this would avoid leg
+cramps in the evening.  In the meantime, her EKG showed sinus
+bradycardia at a rate of 50 per minute.  There is borderline first
+degree AV block and anterolateral infarct by EKG which is unchanged
+from previous tracing.  We will continue her on Vasotec 10 mg bid
+as well as Lopressor 12.5 mg bid.  She will see me in follow-up in
+three months' time.
+ 
+Again, thank you for referring this patient to my cardiovascular
+clinic.
+ 
+With warm regards.
+ 
+Sincerely,
+ 
+ 
+ 
+Gordon Q. Iniguez, M.D.
+ 
+DD: 05/01/81
+DT: 05/05/81
+DV: 05/01/81
+ 
+ ******** Approved but not reviewed by Attending Provider ********
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="during DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M0" start="1043" end="1050" text="Vasotec" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M1" start="1043" end="1050" text="Vasotec" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC1" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="334" end="346" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="334" end="346" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H2" start="334" end="346" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <CAD id="DOC2" time="before DCT" indicator="event">
+      <CAD id="C0" start="364" end="394" text="coronary artery bypass surgery" time="before DCT" indicator="event" comment=""/>
+      <CAD id="C1" start="364" end="387" text="coronary artery bypass " time="before DCT" indicator="event" comment=""/>
+      <CAD id="C2" start="352" end="394" text="status post coronary artery bypass surgery" time="before DCT" indicator="event" comment=""/>
+    </CAD>
+    <MEDICATION id="DOC3" time="before DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M2" start="1043" end="1050" text="Vasotec" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M3" start="1043" end="1050" text="Vasotec" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC4" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H3" start="334" end="346" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H4" start="334" end="346" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H5" start="334" end="346" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <MEDICATION id="DOC5" time="before DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M4" start="1072" end="1081" text="Lopressor" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M5" start="1072" end="1081" text="Lopressor" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M6" start="1072" end="1082" text="Lopressor " time="before DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC6" time="after DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M7" start="1043" end="1050" text="Vasotec" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M8" start="1043" end="1050" text="Vasotec" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC7" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H6" start="334" end="346" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H7" start="334" end="346" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H8" start="334" end="346" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <MEDICATION id="DOC8" time="after DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M9" start="1072" end="1081" text="Lopressor" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M10" start="1072" end="1081" text="Lopressor" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M11" start="1072" end="1082" text="Lopressor " time="after DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <SMOKER id="DOC9" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" start="3" end="10" text="Record " status="unknown" comment=""/>
+      <SMOKER id="S2" status="unknown"/>
+    </SMOKER>
+    <MEDICATION id="DOC10" time="during DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M12" start="1072" end="1081" text="Lopressor" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M13" start="1072" end="1081" text="Lopressor" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M14" start="1072" end="1082" text="Lopressor " time="during DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <FAMILY_HIST id="DOC11" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <PHI id="P0" start="16" end="26" text="2081-05-01" TYPE="DATE"/>
+    <PHI id="P1" start="38" end="50" text="May 01, 2081" TYPE="DATE"/>
+    <PHI id="P2" start="57" end="69" text="Usha Gibbons" TYPE="DOCTOR"/>
+    <PHI id="P3" start="76" end="80" text="CIMA" TYPE="DEPARTMENT"/>
+    <PHI id="P4" start="81" end="106" text="Cooley Dickinson Hospital" TYPE="HOSPITAL"/>
+    <PHI id="P5" start="107" end="123" text="08 Pinehaven Dr." TYPE="STREET"/>
+    <PHI id="P6" start="124" end="132" text="Schuyler" TYPE="CITY"/>
+    <PHI id="P7" start="134" end="136" text="FL" TYPE="STATE"/>
+    <PHI id="P8" start="138" end="143" text="76969" TYPE="ZIP"/>
+    <PHI id="P9" start="153" end="166" text="Wonda Benitez" TYPE="PATIENT"/>
+    <PHI id="P10" start="176" end="187" text="892-76-95-4" TYPE="MEDICALRECORD"/>
+    <PHI id="P11" start="195" end="199" text="Usha" TYPE="DOCTOR"/>
+    <PHI id="P12" start="265" end="272" text="Benitez" TYPE="PATIENT"/>
+    <PHI id="P13" start="1263" end="1280" text="Gordon Q. Iniguez" TYPE="DOCTOR"/>
+    <PHI id="P14" start="1293" end="1301" text="05/01/81" TYPE="DATE"/>
+    <PHI id="P15" start="1306" end="1314" text="05/05/81" TYPE="DATE"/>
+    <PHI id="P16" start="1319" end="1327" text="05/01/81" TYPE="DATE"/>
+  </TAGS>
+</root>

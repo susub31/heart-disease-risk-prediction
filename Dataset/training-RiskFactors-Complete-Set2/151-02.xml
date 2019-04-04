@@ -1,0 +1,139 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2076-03-08
+
+INPATIENT CONSULTATION
+
+PATIENT: Ulysses Quin
+LMH NUMBER: 9523697
+REFERRING PHYSICIAN: Dr. Ziemba 
+DATE OF Consultation: 3/08/76
+
+PATIENT ID: Mr. Quin is a 74 y/o gentleman with metastatic prostate cancer, new L4 met with pain who is seen for consideration of radiation therapy.
+ 
+HPI:  
+Mr. Quin's oncological history begain in 2061 when he was diagnosed with prostate cancer (unknown gleason, PSA).  He underwent radical prostatectomy in 2061 and salvage XRT in 2062.  His care was at BNH and we don't have his XRT records.  The patient recalls 37 treatments.   The patient was well until he had an elevated PSA of 3.52 in 10/75.  He underwent a bone scan in 11/75 showing worrisome uptake at L5. In 1/76 he had a PSA of 17.46.  He has also developed lower back pain requiring MS Contin for pain control.  His course was complicated by a possible bladder/urethral infection.  He is incontinent from his surgery.  In 2/76 he had a cystoscopy which revealed nodules in the bladder (TCC vs. prostatic scar/inflammation).  
+The patient's LLP worsened.   He reports occasional severe shooting pain that lead to gait imbalance.  On the day of presentation, he experienced severe acute back pain while getting out of bed.  The pain was so intolerable that he asked his daughter to bring him to the emergency room. Just before arrival to the ED he developed stridor, in his words he was    sucking air in and out.     ENT was consulted in the ED and determined that he had a limited glottic gap, and that the acute stridor was most likely secondary to anxiety and increased air flow through a restricted glottic opening, recommending humidified air by shovel air mask, steroids, and outpatient followup.  MRI of the lumbar spine showed metastatic disease involving of the L4 vertebral body, extending into the pedicles, both L4-5 neural foramina, and the prevertebral soft tissues.  No compression of the thecal sac.
+
+Mr. Quin reports improved pain since admission.  He still has some pain when moving from one position to anther.  he denies fecal incontinence, saddle anesthesia, LE weakness or paresthesia.  He would like to be cared at the LMH from now on.  The patient had an oncologist from BNH but does not remember his name.
+
+PAST MEDICAL HISTORY:  
+Prostate Ca (history per HPI)
+HTN
+PVD
+ED
+Type 2 DM on oral agent
+Vocal cord polyp excision in 2064
+H/o COPD
+ 
+MEDICATIONS:  
+Bicalutamide 50 mg po qd
+Glyburide 10 mg po qd
+HCTZ 12.5 mg po qd
+MS Contin 30 mg bid
+Morphine 15 mg po q4h
+Senna Colace and lactulose prn constipation
+ 
+ALLERGIES: 
+NKDA
+ 
+SOCIAL HISTORY: Notary.  CPA and lives with wife in Tonganoxie.
+Habits:  60 pack year smoking history
+Past heavy alcohol consumption but none now
+                                                                                                                                           PHYSICAL EXAM:  
+General: Well-appearing, in no acute distress.  
+HEENT: PERRL.  EOMI.  Oropharynx is clear.  
+Neck: Supple 
+Lymph nodes: No cervical, supraclavicular, axillary, or inguinal lymphadenopathy.  
+Cardiac: S1, S2, no murmurs, rubs, or gallops.  
+Chest: Lungs clear to auscultation bilaterally.  
+Abdomen: Soft, nontender, nondistended, with positive bowel sounds.  old midline surgical scars.
+Extremities:  Well perfused with no edema. No bony pain to palpation.
+Neurologic:  CN II-XII grossly intact with no focal neurologic deficits. 5/5 LE strength, movements limited by pain.  normal gait.  toes down bilaterally
+GU: no penial or testicular abnormalities.  +pads
+
+IMPRESSION and PLAN:   
+74 y/o gentleman with metastatic prostate cancer, new L4 metastasis and pain.  The patient's LBP is likely due to his spine met.  Based on the MRI results, his symptoms and his exam we believe he is an appropriate candidate for palliative radiotherapy to his L-spine.  I discussed with Mr. Quin the likely cause of his pain.  We then discussed the treatment options.  Mr. Quin would like to undergo a course of palliative radiotherapy to relieve his pain.  We will simulate (plan) the patient's XRT tomorrow am, with a treatment to follow on the same day.  All of the patient's questions were answered to his satisfaction.  We would also recommend an GU oncology consultation regarding the patient's ADT and other possible systemic therapies.  The patient only had L-spine MRI, a bone scan may be of benefit to establish the extent of metastatic disease.
+
+Quenton Zacharie Odell, MD
+Quanita Ziemer, MD
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC1" time="during DCT" type1="diuretic" type2="">
+      <MEDICATION id="M0" start="2451" end="2455" text="HCTZ" time="during DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M1" start="2451" end="2455" text="HCTZ" time="during DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M2" start="2451" end="2455" text="HCTZ" time="during DCT" type1="diuretic" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC2" time="before DCT" type1="sulfonylureas" type2="">
+      <MEDICATION id="M3" start="2429" end="2438" text="Glyburide" time="before DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M4" start="2429" end="2438" text="Glyburide" time="before DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M5" start="2429" end="2438" text="Glyburide" time="before DCT" type1="sulfonylureas" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC3" time="before DCT" type1="diuretic" type2="">
+      <MEDICATION id="M6" start="2451" end="2455" text="HCTZ" time="before DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M7" start="2451" end="2455" text="HCTZ" time="before DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M8" start="2451" end="2455" text="HCTZ" time="before DCT" type1="diuretic" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC5" time="after DCT" type1="sulfonylureas" type2="">
+      <MEDICATION id="M9" start="2429" end="2438" text="Glyburide" time="after DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M10" start="2429" end="2438" text="Glyburide" time="after DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M11" start="2429" end="2438" text="Glyburide" time="after DCT" type1="sulfonylureas" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC7" time="during DCT" type1="sulfonylureas" type2="">
+      <MEDICATION id="M12" start="2429" end="2438" text="Glyburide" time="during DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M13" start="2429" end="2438" text="Glyburide" time="during DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M14" start="2429" end="2438" text="Glyburide" time="during DCT" type1="sulfonylureas" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC10" time="after DCT" type1="diuretic" type2="">
+      <MEDICATION id="M15" start="2451" end="2455" text="HCTZ" time="after DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M16" start="2451" end="2455" text="HCTZ" time="after DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M17" start="2451" end="2455" text="HCTZ" time="after DCT" type1="diuretic" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC4" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="2309" end="2312" text="HTN" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="2309" end="2312" text="HTN" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H2" start="2309" end="2312" text="HTN" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC9" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H3" start="2309" end="2312" text="HTN" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H4" start="2309" end="2312" text="HTN" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H5" start="2309" end="2312" text="HTN" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC12" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H6" start="2309" end="2312" text="HTN" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H7" start="2309" end="2312" text="HTN" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H8" start="2309" end="2312" text="HTN" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <FAMILY_HIST id="DOC11" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC6" status="ever">
+      <SMOKER id="S0" start="2663" end="2678" text="smoking history" status="ever" comment=""/>
+      <SMOKER id="S1" start="2650" end="2678" text="60 pack year smoking history" status="ever" comment=""/>
+    </SMOKER>
+    <DIABETES id="DOC0" time="before DCT" indicator="mention">
+      <DIABETES id="D0" start="2320" end="2329" text="Type 2 DM" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D1" start="2327" end="2329" text="DM" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D2" start="2320" end="2329" text="Type 2 DM" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC8" time="after DCT" indicator="mention">
+      <DIABETES id="D3" start="2320" end="2329" text="Type 2 DM" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D4" start="2327" end="2329" text="DM" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D5" start="2320" end="2329" text="Type 2 DM" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC13" time="during DCT" indicator="mention">
+      <DIABETES id="D6" start="2320" end="2329" text="Type 2 DM" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D7" start="2327" end="2329" text="DM" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D8" start="2320" end="2329" text="Type 2 DM" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+  </TAGS>
+</root>

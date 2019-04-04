@@ -1,0 +1,225 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2086-09-06
+
+DISCHARGE SUMMARY
+
+     
+
+ NAME: IORIO, OLIVIA L                  UNIT NUMBER: 929-02-28
+
+ ADMISSION DATE: 08/29/2086             DISCHARGE DATE: 09/06/2086
+
+     
+
+ PRINCIPAL DIAGNOSIS:  REVISION Thromosed AV fistula.
+
+     
+
+ ASSOCIATED DIAGNOSIS:  End stage renal disease, Status post 2 failed renal
+
+     transplant, seizures, hypertension, anemia.
+
+     
+
+ HISTORY OF PRESENT ILLNESS:  This 29 year old young woman, Status post 2
+
+     failed transplants for membranoproliferative glomerulonephritis age 9 months, Status
+
+     post bilateral nephrectomies with a history of seizures and multiple access
+
+     failures admitted for left arm AV fistula revision and thrombectomy. 
+
+     
+
+     ALLERGIES:  Demerol leads to seizure, Penicillin rash, Quinolone seizure,
+
+     Vancomycin Redman's syndrome this med needs to be given over 4 hours.
+
+     
+
+PAST MEDICAL HISTORY:
+
+ - ESRD 2/2 MPGN Dx age 9 mos
+
+ - on HD TThSa at Educare-Pullman
+
+ - previously on PD
+
+ - multiple failed vascular accesses, current AVF placed by Dr. Schmitt 05/85
+
+ - ruptured and infected L thigh graft
+
+ - s/p 2 failed LRRTx (2069, 2078), some issues of non-compliance
+
+  -HTN
+
+  -s/p 3-1/2 parathyroidectomy
+
+  -seizure disorder, last seizure 08/80
+
+  -previous suicidal ideation
+
+
+
+SOCIAL HISTORY:former Construction Worker, lives with mother
+
+
+
+PHYSICAL EXAMINATION: blood pressure is 130/70, pulse 90 and regular.
+
+     Fundi not well visualized. periorbital edema, conjunctival injection, neck was supple, 
+
+     carotid upstroke normal chest clear to auscultation and percussion, S4 no S3 gallop or rub,
+
+     Abdomen, soft, nontender. Bowel sounds are normal. Extremity 
+
+     1+ edema. 
+
+     
+
+IMPRESSION: end stage renal disease on hemodialysis, seizure
+
+     disorder thrombosed A-V fistula, volume overload.
+
+
+
+HOSPITAL COURSE: The patient underwent revision of her left upper arm A-V fistulae by Dr. Schmitt
+
+On 8/30/86 without complications. Because her arm was swollen her subsequent dialysis was done 
+
+Utilizing a temporary femoral dialysis catheter. She was noted to be persistently anemic with a 
+
+Hematocrit of 23.3% on 9/05/86. It was felt that her low hematocrit was due to both blood loss from
+
+Persistent severe menorrhagia as well as a dilutional component from fluid overload. She was electively 
+
+transfused 2 units of packed cells on 9/05/86 while on dialysis utilizing her revised A-V fistulae. 
+
+The rest of her hospital course was uneventful. She was hyperphosphatemic in hospital and was given dietary counseling for use of her phosphate binders. She was discharged home with recommendations for a GYN
+
+Follow-up to assess her persistent mennorhagia and for f/u with her vascular surgeon Dr. Schmitt. She will continue 3x/week dialysis in her Educare-Pullman outpatient unit.
+
+     
+
+MEDICATINS ON DISCHARGE:   
+
+PREDNISONE  2.5 MG PO  QAM    o NEPHRO-VIT RX (NEPHRO-VIT )  1 TAB PO  QAM     
+
+PHENYTOIN (DILANTIN )  200 MG PO  BID   
+
+CARBAMAZEPINE (TEGRETOL )  250 MG PO  BID     
+
+PAROXETINE (PAXIL )  20 MG PO  QAM     
+
+NIFEDIPINE (EXTENDED RELEASE) (NIFEDICAL )  30 MG PO  ONLY ON MORNINGS WHEN SHE DOES NOT GET DIALYSIS      
+
+ATENOLOL  50 MG PO  EACH MORNING ON DAYS SHE DOES NOT GET DIALYSIS   
+
+DOXEPIN HCL (DOXEPIN )  50 MG PO  QPM   
+
+ALPRAZOLAM (XANAX )  2-2.5 MG PO  QPM   
+
+ZYRTEC  10 MG PO  QPM     
+
+WARFARIN SODIUM (COUMADIN )  2 MG PO  QPM  
+
+CLOPIDOGREL (PLAVIX )  75 MG PO  QD 
+
+CALCIUM ACETATE ( 1 TABLET=667 MG) (PHOSLO )  2001 MG PO  TID   
+
+PANTOPRAZOLE (PROTONIX )  40 MG PO  QD    
+
+
+
+
+
+CHARLES ULLAH, M.D.
+
+MEDIQUIK RENAL ASSOCIATES
+
+Pager 93301
+
+     
+
+
+
+     
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="before DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M0" start="3175" end="3183" text="ATENOLOL" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M1" start="3175" end="3183" text="ATENOLOL" time="before DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC1" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="359" end="371" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="359" end="371" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H2" start="1182" end="1185" text="HTN" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H3" start="359" end="371" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC2" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H4" start="359" end="371" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H5" start="359" end="371" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H6" start="1182" end="1185" text="HTN" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H7" start="359" end="371" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <FAMILY_HIST id="DOC3" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <HYPERTENSION id="DOC4" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H8" start="359" end="371" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H9" start="359" end="371" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H10" start="1182" end="1185" text="HTN" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H11" start="359" end="371" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <MEDICATION id="DOC5" time="after DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M2" start="3175" end="3183" text="ATENOLOL" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M3" start="3175" end="3183" text="ATENOLOL" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M4" start="3175" end="3183" text="ATENOLOL" time="after DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <SMOKER id="DOC6" status="unknown">
+      <SMOKER id="S0" start="1293" end="1307" text="SOCIAL HISTORY" status="unknown" comment=""/>
+      <SMOKER id="S1" status="unknown"/>
+      <SMOKER id="S2" status="unknown"/>
+    </SMOKER>
+    <MEDICATION id="DOC7" time="during DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M5" start="3175" end="3183" text="ATENOLOL" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M6" start="3175" end="3183" text="ATENOLOL" time="during DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <PHI id="P0" start="16" end="26" text="2086-09-06" TYPE="DATE"/>
+    <PHI id="P1" start="61" end="76" text="IORIO, OLIVIA L" TYPE="PATIENT"/>
+    <PHI id="P2" start="107" end="116" text="929-02-28" TYPE="MEDICALRECORD"/>
+    <PHI id="P3" start="135" end="145" text="08/29/2086" TYPE="DATE"/>
+    <PHI id="P4" start="174" end="184" text="09/06/2086" TYPE="DATE"/>
+    <PHI id="P5" start="424" end="426" text="29" TYPE="AGE"/>
+    <PHI id="P6" start="537" end="545" text="9 months" TYPE="AGE"/>
+    <PHI id="P7" start="930" end="935" text="9 mos" TYPE="AGE"/>
+    <PHI id="P8" start="946" end="947" text="T" TYPE="DATE"/>
+    <PHI id="P9" start="947" end="949" text="Th" TYPE="DATE"/>
+    <PHI id="P10" start="949" end="951" text="Sa" TYPE="DATE"/>
+    <PHI id="P11" start="955" end="970" text="Educare-Pullman" TYPE="HOSPITAL"/>
+    <PHI id="P12" start="1057" end="1064" text="Schmitt" TYPE="DOCTOR"/>
+    <PHI id="P13" start="1065" end="1070" text="05/85" TYPE="DATE"/>
+    <PHI id="P14" start="1135" end="1139" text="2069" TYPE="DATE"/>
+    <PHI id="P15" start="1141" end="1145" text="2078" TYPE="DATE"/>
+    <PHI id="P16" start="1253" end="1258" text="08/80" TYPE="DATE"/>
+    <PHI id="P17" start="1315" end="1334" text="Construction Worker" TYPE="PROFESSION"/>
+    <PHI id="P18" start="1922" end="1929" text="Schmitt" TYPE="DOCTOR"/>
+    <PHI id="P19" start="1934" end="1941" text="8/30/86" TYPE="DATE"/>
+    <PHI id="P20" start="2149" end="2156" text="9/05/86" TYPE="DATE"/>
+    <PHI id="P21" start="2371" end="2378" text="9/05/86" TYPE="DATE"/>
+    <PHI id="P22" start="2733" end="2740" text="Schmitt" TYPE="DOCTOR"/>
+    <PHI id="P23" start="2784" end="2799" text="Educare-Pullman" TYPE="HOSPITAL"/>
+    <PHI id="P24" start="3555" end="3568" text="CHARLES ULLAH" TYPE="DOCTOR"/>
+    <PHI id="P25" start="3576" end="3584" text="MEDIQUIK" TYPE="HOSPITAL"/>
+    <PHI id="P26" start="3609" end="3614" text="93301" TYPE="PHONE"/>
+  </TAGS>
+</root>

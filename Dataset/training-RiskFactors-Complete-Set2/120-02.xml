@@ -1,0 +1,99 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2075-02-25
+
+CC: presents to urgent care for return to work letter
+ 
+HPI:  Pt is a 55 yo g1p0 who previously worked as an investment consultant who has
+not worked recently secondary to caring for her ill mother who has recently
+passed away.  Ms. Hardy was last seen for an annual exam in 10/73 after which
+she has neglected her f/u appts.  Of note, pt was recently seen in ED for c/o
+"it felt like my BP was high".  Pt had sl HA, but o/w denies confusion,
+lethargy, CP, SOB, visual changes, or generalized edema.
+ 
+PMHx: h/o transfusion prior to 2064 (adm for UTI)
+      h/o UTI
+      h/o abnl mammo
+SocHx:  divorced
+        h/o DV during marriage
+        now sexually active, condoms, no DV
+        no tob/etoh/ivda
+        works as invest cons. 
+FamHx:  mother died esoph CA at 90yo
+        2 bros, 1 sister with HTN 
+        1 sister DM 
+Meds:  MVI, Ca++  
+All:  NKDA
+ 
+PE:  BP 160/100 x2 (sitting)
+NAD, optic discs crisp, RRR no m/g/r, no carotid bruits, lungs CTA B, abd
+benign, breasts WNL, pelvic without lesions/masses/tend, ext WNL, neg guiaic.
+ 
+A/P:
+ 
+Breasts:  1.5 cm cluster of mildly susp calcifications in upper outer
+left breast on 2064 mammogram.  Pt failed f/u mammo despite repeated
+attempts to contact pt by PCP.  Breast exam nl today.  Pt rescheduled
+for mammo on 3/3/75.  Pt understands importance for compliance of this
+appt.
+ 
+Cardiac: Pt with likely primary HTN.  BP's 160/100 in 2073 and as well as
+today.  Pt refused meds at prev visit.  Counseled pt extensively regarding
+appropriate f/u with PCP.  No evidence end organ damage.  Will have pt f/u with
+PCP on 3/27 to initiate first line anti-HTN. 
+ 
+Gyn:  Pt still with regular menses.  No evidence of perimenopause on ROS.
+ 
+Endocrine:  Chol 279, HDL 60, TG 128, VLDL 26, CLDL 193.  Will f/u with PCP to
+address initiation of lipid lowering agent.  Recently dc'd Atkins diet.
+ 
+HCM:  Last pap WNL.  Pap performed today.  Needs to be scheduled for flex sig.
+ 
+Nelson Sims
+ ******** Approved but not reviewed by Provider ********
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <HYPERLIPIDEMIA id="DOC5" time="during DCT" indicator="high chol.">
+      <HYPERLIPIDEMIA id="HY0" start="1731" end="1739" text="Chol 279" time="during DCT" indicator="high chol." comment=""/>
+      <HYPERLIPIDEMIA id="HY1" start="1731" end="1739" text="Chol 279" time="during DCT" indicator="high chol." comment=""/>
+    </HYPERLIPIDEMIA>
+    <HYPERTENSION id="DOC0" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="1390" end="1401" text="primary HTN" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="1398" end="1401" text="HTN" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H2" start="1398" end="1401" text="HTN" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC1" time="during DCT" indicator="high bp">
+      <HYPERTENSION id="H3" start="893" end="916" text="BP 160/100 x2 (sitting)" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H4" start="1404" end="1416" text="BP's 160/100" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H5" start="893" end="903" text="BP 160/100" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H6" start="893" end="904" text="BP 160/100 " time="during DCT" indicator="high bp" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC2" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H7" start="1390" end="1401" text="primary HTN" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H8" start="1398" end="1401" text="HTN" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H9" start="1398" end="1401" text="HTN" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC3" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H10" start="1390" end="1401" text="primary HTN" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H11" start="1398" end="1401" text="HTN" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H12" start="1398" end="1401" text="HTN" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <FAMILY_HIST id="DOC4" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC6" status="never">
+      <SMOKER id="S0" start="715" end="721" text="no tob" status="never" comment=""/>
+      <SMOKER id="S1" start="710" end="721" text="     no tob" status="never" comment=""/>
+      <SMOKER id="S2" start="715" end="722" text="no tob/" status="never" comment=""/>
+    </SMOKER>
+  </TAGS>
+</root>

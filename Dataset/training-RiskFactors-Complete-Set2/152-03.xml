@@ -1,0 +1,320 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2089-05-19
+
+CCU JAR Transfer Note
+
+Pt: Tiffany Ulrich
+
+MR#: 824-59-51
+
+Date of Admission:  5/19/89
+
+Cardiologist: Jewett
+
+
+
+ID:   81 year old with cardiac risk factors of HTN, hyperlipidemia p/w IMI
+
+
+
+HPI:   	 Ms Ulrich has the above risk factors which include HTN and hyperlipidemia and on the day of admission developed 6/10  left arm pain and lower gum pain associated with some nausea around 11: pm, she drove with her daughter to the GNC ED where EKG was positive for inferior STEMI and she was treated wit TNG, integrillin, lopressor and sent to cath.
+
+
+
+In the cath lab she had a noted culprit PDA lesion and had a 2.25 mm by 18mm stent, the rest of her anatomy included 20% LM, 30% LAD, 30% LCX, 40% dominant RCA. She had an angioseal placed and was transferred to the CCU
+
+
+
+CCU Course: Her stay in the CCU was uneventful, she had her integrillin continued for 12 hours and was started on ASA, Plavix, Lopressor and ACE 
+
+
+
+
+
+PMH: 
+
+HTN
+
+Osetoarthritis 
+
+Breast CA
+
+Elevated Cholesterol
+
+Recent admission for CHF
+
+	 
+
+
+
+Meds on admission:  	
+
+Norvasc
+
+Atenolol
+
+Lasix 40
+
+Atacand 32mg qd
+
+
+
+Meds on Transfer:
+
+ASA
+
+Heparin SC
+
+Nexium 40mg qd
+
+Nitrofurantin
+
+Pravachol 40mg qd
+
+Plavix 75 mg qd
+
+Atacand 16mg qd
+
+Lopressor 37.5 mg tid
+
+ 	
+
+All:  	Narcotics cause GI upset
+
+
+
+SH:  	Non-smoker, rare ETOH
+
+	
+
+FH:  Father died of stroke in 80's, mother w/ CHF
+
+
+
+
+
+
+
+Exam:  	
+
+
+
+Please today's PN
+
+
+
+Labs:  
+
+	
+
+Please see today's labs
+
+
+
+
+
+
+
+
+
+
+
+CXR:	
+
+There is increase in central lung markings. I cannot exclude
+
+	developing pulmonary edema. The heart appears slightly larger in
+
+	size but this may be due to lower lung volumes. The right
+
+	diaphragm remains mildly elevated.
+
+
+
+
+
+
+
+EKG:	NSR, w/ 1mm STE in III and AVF
+
+
+
+
+
+____________________________________________
+
+Impr:	:   81 year old with cardiac risk factors of HTN, hyperlipidemia p/w IMI
+
+
+
+Plan: 	
+
+	
+
+CV:
+
+Ischemia - s/p setnt to RCA, ASA, Plavix, Pravachol, Lopressor and ARB
+
+                     Stress test  in 4-6 weeks
+
+
+
+Pump - F/U ECHO in 3 days, prior h/o CHF
+
+
+
+Rhythm --  Had some NSVT, increase B-Blocker, monitor lytes
+
+
+
+	
+
+FEN- Nexium, heparin SC	
+
+
+
+UTI-  Marodantin for 3 days 	
+
+
+
+
+
+
+
+
+
+_________________________________
+
+Vernon Voorhees
+
+95540
+
+
+
+
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <HYPERLIPIDEMIA id="DOC6" time="during DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY0" start="192" end="207" text="hyperlipidemia " time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY1" start="192" end="206" text="hyperlipidemia" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY2" start="192" end="206" text="hyperlipidemia" time="during DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <HYPERLIPIDEMIA id="DOC12" time="before DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY3" start="192" end="207" text="hyperlipidemia " time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY4" start="192" end="206" text="hyperlipidemia" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY5" start="192" end="206" text="hyperlipidemia" time="before DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <HYPERLIPIDEMIA id="DOC16" time="after DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY6" start="192" end="207" text="hyperlipidemia " time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY7" start="192" end="206" text="hyperlipidemia" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY8" start="192" end="206" text="hyperlipidemia" time="after DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <MEDICATION id="DOC0" time="during DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M0" start="942" end="946" text="ACE " time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M1" start="942" end="945" text="ACE" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC1" time="after DCT" type1="statin" type2="">
+      <MEDICATION id="M2" start="1184" end="1193" text="Pravachol" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M3" start="1184" end="1193" text="Pravachol" time="after DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC2" time="during DCT" type1="aspirin" type2="">
+      <MEDICATION id="M4" start="915" end="918" text="ASA" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M5" start="915" end="918" text="ASA" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M6" start="915" end="918" text="ASA" time="during DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC3" time="during DCT" type1="thienopyridine" type2="">
+      <MEDICATION id="M7" start="920" end="926" text="Plavix" time="during DCT" type1="thienopyridine" type2="" comment=""/>
+      <MEDICATION id="M8" start="920" end="926" text="Plavix" time="during DCT" type1="thienopyridine" type2="" comment=""/>
+      <MEDICATION id="M9" start="920" end="926" text="Plavix" time="during DCT" type1="thienopyridine" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC5" time="after DCT" type1="aspirin" type2="">
+      <MEDICATION id="M10" start="915" end="918" text="ASA" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M11" start="915" end="918" text="ASA" time="after DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC8" time="before DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M12" start="1069" end="1076" text="Norvasc" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M13" start="1069" end="1076" text="Norvasc" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M14" start="1069" end="1076" text="Norvasc" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC9" time="after DCT" type1="thienopyridine" type2="">
+      <MEDICATION id="M15" start="920" end="926" text="Plavix" time="after DCT" type1="thienopyridine" type2="" comment=""/>
+      <MEDICATION id="M16" start="920" end="926" text="Plavix" time="after DCT" type1="thienopyridine" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC11" time="after DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M17" start="928" end="937" text="Lopressor" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M18" start="547" end="556" text="lopressor" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M19" start="1078" end="1086" text="Atenolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC13" time="after DCT" type1="ARB" type2="">
+      <MEDICATION id="M20" start="1220" end="1227" text="Atacand" time="after DCT" type1="ARB" type2="" comment=""/>
+      <MEDICATION id="M21" start="1098" end="1105" text="Atacand" time="after DCT" type1="ARB" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC14" time="during DCT" type1="statin" type2="">
+      <MEDICATION id="M22" start="1934" end="1944" text=" Pravachol" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M23" start="1184" end="1193" text="Pravachol" time="during DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC20" time="before DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M24" start="1078" end="1086" text="Atenolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M25" start="1078" end="1086" text="Atenolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M26" start="547" end="556" text="lopressor" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M27" start="1078" end="1086" text="Atenolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC21" time="during DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M28" start="928" end="938" text="Lopressor " time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M29" start="547" end="556" text="lopressor" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M30" start="928" end="937" text="Lopressor" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M31" start="547" end="556" text="lopressor" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M32" start="1078" end="1086" text="Atenolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC22" time="before DCT" type1="ARB" type2="">
+      <MEDICATION id="M33" start="1098" end="1105" text="Atacand" time="before DCT" type1="ARB" type2="" comment=""/>
+      <MEDICATION id="M34" start="1098" end="1105" text="Atacand" time="before DCT" type1="ARB" type2="" comment=""/>
+      <MEDICATION id="M35" start="1098" end="1105" text="Atacand" time="before DCT" type1="ARB" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC4" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="187" end="190" text="HTN" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="187" end="190" text="HTN" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H2" start="187" end="190" text="HTN" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC10" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H3" start="187" end="190" text="HTN" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H4" start="187" end="190" text="HTN" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H5" start="187" end="190" text="HTN" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC19" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H6" start="187" end="190" text="HTN" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H7" start="187" end="190" text="HTN" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H8" start="187" end="190" text="HTN" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <CAD id="DOC7" time="during DCT" indicator="event">
+      <CAD id="C0" start="655" end="660" text="stent" time="during DCT" indicator="event" comment=""/>
+      <CAD id="C1" start="490" end="504" text="inferior STEMI" time="during DCT" indicator="event" comment=""/>
+    </CAD>
+    <CAD id="DOC18" time="before DCT" indicator="event">
+      <CAD id="C2" start="499" end="504" text="STEMI" time="before DCT" indicator="event" comment=""/>
+      <CAD id="C3" start="211" end="214" text="IMI" time="before DCT" indicator="event" comment=""/>
+      <CAD id="C4" start="211" end="214" text="IMI" time="before DCT" indicator="event" comment=""/>
+      <CAD id="C5" start="477" end="505" text="positive for inferior STEMI " time="before DCT" indicator="event" comment=""/>
+      <CAD id="C6" start="639" end="660" text="2.25 mm by 18mm stent" time="before DCT" indicator="event" comment=""/>
+    </CAD>
+    <FAMILY_HIST id="DOC15" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC17" status="never">
+      <SMOKER id="S0" start="1305" end="1315" text="Non-smoker" status="never" comment=""/>
+      <SMOKER id="S1" start="1305" end="1315" text="Non-smoker" status="never" comment=""/>
+      <SMOKER id="S2" start="1305" end="1316" text="Non-smoker," status="never" comment=""/>
+    </SMOKER>
+  </TAGS>
+</root>

@@ -1,0 +1,115 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2122-07-08
+
+
+
+
+ 
+
+
+Neurology Attending Staff:
+
+
+July 8, 2122
+Time of exam 1:05 PM
+Patient: Lloyd Coleman
+Reason for admission: headache, gait instability, mental slowness
+
+
+I had the pleasure of meeting Mr. Craft who has been admitted to the Neurology service for evaluation and management.  Along with the Neurology Residents, I personally interviewed, examined, and counseled the patient, confirmed the history and findings, reviewed records and studies, and discussed the impression and recommendations.  For greater details of H/P/ROS/meds/exam/labs/studies, and assessment &amp; plan, please refer to the neurology resident admit note by Dr. Robert Neil (and below under my assessment). 
+
+
+ROS performed across 10 systems are negative (as noted in neurology note) except as noted in Hx/Assessment and resident's note. 
+
+
+Cognitive and Elemental neurologic exam as noted in neurology resident note. 
+Of note, AFVSS, was asleep but awoke to voice and became alert, attentive to examiner, but had moderate psychomotor retardation. Was slowly conversant and followed simple multiple step commands across midline. 
+Oriented to time/date/place. 
+Great d/w simple attention (MOY backwards only to Nov, skipped Oct went to September and then went forwards again). 
+Able to perform complex attention and working memory bihemispheric Newberry location alpha-numeric task after a second trial. 
+Language: fluent w/o dysarthria. Farily Intact naming for high and low frequency items except clasp and had some mild retrieval d/w. 
+Memory: gives good details of recent events including hospitalizations. 
+Leprosarium name and address: 5/5 registration --&gt; 2/5 recall in 5 min --&gt; 1/3 recognition from a list
+Presidential candidates = Xayarath and Golden
+Calculations: # of quarters in $6.75 = 27
+Moderate d/w Luria fist-side-palm that improved w/ verbal cuing but still poor L&gt;R. 
+No EDSS, neglect, R-L confusion or apraxia. 
+Mood: "low ... my daughter has cancer that spread to the bones"; Affect: congruent. 
+
+
+CN's II-XII intact, good up and down gaze and w/o IV or VI CN palsy. 
+No PND, abnl movements, tremor, asterixis, or UE ataxia. Slow but okay FFM, FNF, RAM. 
+Full MS, nl DTR's and tone. Plantar responses flexor. 
+Mildly diminished stocking distributaion of LT/Cold/VS both legs to mid-shins. HKS mild d/w. 
+Unable to stand w/ feet together even w/ eyes open. Moderate retropulsion trying to stand and moderate to severe retropulsion w/o spontaneously recovery on pull-test. Narraw base, small step size w/ low steppage, cautious and w/ retropulsion, slow rate w/ 10 step en bloc turning w/ imbalance (backwards). 
+No photo- or phono-phobia, no nuchal rigidity.
+
+
+Labs/Studies: of note BUN 21, Cr 1.2, MCV 95, Hct 41.6, wbc 13.3
+
+
+Neuroimaging: Personally reviewed HCT - mildly large vents, no s/o SDH or SAH or infarct/mass lx/hemorrhage. 
+
+
+Assessment:: Likely Communicating Hydrocephalus with mild elevation of ICP in context of minor head trauma.  On exam shows psychomotor retardation, d/w concentration, retrieval (including memory and words), frontal fucntions including set-switching on Lurias, and working memory. He also has moderate retropulsion on exam worse on pull-test than spontaneously, and hypomimia. His vents are mildly dilated in context of general cerebral atrophy that is not o/w out-of-proportion for his advanced age. Onset of his sx's including bilateral headache described as constant 6-8/10 pressure at posterior vertex w/ occ. radiation foward made worse by lying down for some time (worse in the mornings) and better in the afternoons or after sitting or standing. No blurred vision but mild nausea w/o vomiting. No nuchal rigidity or photo-phonophobia. No f/c/ns/cp/sob/rash/weakness/changes in sensation. Describes very clear psychomotor retardation since first fall including d/w concentraion, memory and word retrieval, and extreme slowness in mental processing (including reading - used to be a speed reader and now reads one word at a time very slowly). He's had some urinary urgency but no incontinencey. Describes his d/w gait as not being able to get his legs to do what he wants them to do despite having good strength. Additionally, feels that he's always losing his balance backwards. No suggestion of meningoencephalitis, stroke or seizure. Had mild bilat tinnitus but no vertigo. Does ascribe rare very transient visual distortion and object movement (up/down). WBC mildly elevated but no fever and U/A and CXR are negative. 
+
+
+Overall, there is a diad of gait apraxia and frontal cognitive dysfunction and psychomotor retardation (no urinary incontinence) in context of sx's of mildly elevated ICP and mildly enlarged vents. Has a mild small and large fiber distal symmetric polyneuropathy which exacerbates his gait difficulties. He is also at least mildly anxious and moderately anxious.  Had bradycardia in ED - now better but need to follow. 
+
+
+Plan: 
+
+- Optimize pain/headache control
+- Neuro checks q4hrs
+- Cardiac telemetry
+- Elevated ICP (mild) precautions with HOB &gt; 45 degrees; and gentle hydration (he is dehydrated by labs)
+- MRI of brain to better assess vents and possible transependymal flow, as well as to exclude much less likely brainstem and posterior fossa lesions. Also need to assess posterior circulation w/ MRA (had mild constant tinnutus), and assess for small SDH (b/o h/o head trauma). 
+- check B12, homocysteine, TSH, ESR, hsCRP, ANA
+
+- After Brain MRI is reviewed, need to assess fundi, gait and cognition (formally score and time) and then perform diagnostic LP for hydrocephalus -- measuring opening and closing pressure after removing ~ 20cc and sending for cell count, glucose, TP, and xanthochromia as well as keeping ~ 10 cc. 
+
+- Hold sotalol, complete cardiac/MI r/o by enzymes. 
+- Follow wbc and monitor for s/s infection. 
+
+
+Discussed assessment and plan with pt and family who understand and agree. 
+
+
+
+
+
+
+Tom Tejeda, M.D., Ph.D.
+
+
+
+
+
+
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="before DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M0" start="5745" end="5752" text="sotalol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M1" start="5740" end="5752" text="Hold sotalol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <FAMILY_HIST id="DOC1" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC2" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" status="unknown"/>
+      <SMOKER id="S2" start="3" end="10" text="Record " status="unknown" comment=""/>
+    </SMOKER>
+  </TAGS>
+</root>

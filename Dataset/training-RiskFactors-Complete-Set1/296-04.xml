@@ -1,0 +1,270 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2100-07-07
+
+
+
+Humalog 0-2/4-8/6-10	111-64-17
+
+Lantus 10 U hs	Xayarath, Nancy
+
+Prograf 2 mg bid
+
+Imuran 100 mg qhs
+
+Prednisone 2.5 mg qd starting last week
+
+Omeprazole 20 mg qd
+
+Lipitor 40 mg qd
+
+Toprol XL 25 mg qPM
+
+Imdur 30 mg qd
+
+Coumadin 4 mg tablets (for SVC stent): 4 mg 2/7; 6 mg 5/7
+
+ASA 325 mg qd
+
+Caltrate with D 1200-1500 mg per day in divided doses
+
+Fosamax 70 mg qw
+
+Centrum QD
+
+Folate 1 mg qd   not taking
+
+Celexa 20 mg qd
+
+
+
+July 07, 2100
+
+
+
+Interim History:	
+
+Comes to review her medical problems.
+
+
+
+She had been losing weight and feeling fatigued. She has been at her current weight for several weeks and feels that she has stabilized. Appetite has been good. 
+
+
+
+Home Blood Tests:  No records. She reports that she drops from the 200's to the normal range in the morning. Her bedtime test is about 3-4 hours after summer.  
+
+Retinopathy:	Saw Dr. Xiques in the Spring. May need laser for p-cataract film. Retinas stable.
+
+Nephropathy:	Cr 1.0 in September. Saw Dr. Caldwell re her Charcot foot. He put her in a boot and wheelchair for 3 weeks and it resolved well. 
+
+Cardiac:	Gets little tingling sensations in her anterior chest, occurring at any times. Not specifically at times of physical exercise. 
+
+Vascular:	No claudication
+
+
+
+Past Medical History: 
+
+Medications: Prograf reduced.
+
+
+
+Review of Systems: 
+
+GI: Feels that her abdomen is uncomfortable much of the time. Not precipitated or relieved by food. Upper and lower abdominal. No change in volume or nature of ileostomy output. She has dysphagia for liquids, sometimes with regurgitation. 
+
+Had Pap and mammogram through ANC gynecologist.
+
+She saw Dr. Wilhelm for sinus problems. He got an MRI. It showed a meningioma of the jugular foramen. Dr. Wilhelm's note indicated that she would see Dr. New for that and indeed she has seen Dr. New, although she says it is for a tumor on the vocal cord. 
+
+He also wanted her to see Dr. Carter about a vocal cord paralysis, and that visit is upcoming. 
+
+
+
+
+
+Physical Exam:	
+
+Looks well.
+
+BP:   118/70		P:   72, regular
+
+Wt:   118.5 without shoes, down 8.5
+
+HEENT:	Anicteric. 
+
+Carotids:	Normal pulses, without bruits
+
+Chest:	Clear to auscultation
+
+Heart:	Dyskinetic prominent apical impulse. Normal S1; single S2.  S4.  2/6 systolic ejection murmur
+
+Abdomen:	No hepatosplenomegaly. No masses. Small epigastric hernia with mild tenderness in that area. Ileostomy. No palpable AAA. 
+
+Extremities:	No edema.       DP 2+,=.  PT absent. Prominent mound of tissue in the plantar aspect of L foot, from Charcot changes, but with very normal skin covering.  Good foot care.
+
+
+
+Impressions and Plan:	
+
+Many active issues.
+
+Hard to assess control without data. Must bring them to visits.
+
+For now, reduce the Lantus to 8 U since she drops overnight by history.
+
+Will need to talk with Dr. Wilhelm and Dr. New about their respective perspectives and figure out who is addressing the meningioma and hydrocephalus. May need to see a neurologist. 
+
+Refer to Dr. Sanders for evaluation of her gastrointestinal discomfort and dysphagia for liquids. I suspect a motility disorder.
+
+She needs follow-up with Dr. Arndt. 
+
+1 hour; most counseling and coordination of care.
+
+A1c, Electrolytes, BUN/Creatinine, CBC, anti-gliadin antibodies, anti-transglutaminase antibodies, TSH.
+
+
+
+Appointments:	1 month
+
+
+
+cc:	Transplant Clinic
+
+	Fredrich van Butler, M.D.
+
+	Nicole Arndt, M.D.
+
+	Lawrence Wilhelm, M.D., Minnie Hamilton Health Care Center, 727 Seneca Drive, Suite 9B,
+
+		 Red Springs, WA 77286
+
+	Nicholas New, M.D., BKMC
+
+	Ophelia Sanders, M.D.
+
+
+
+
+
+			Lawrence K. Townsend, M.D., Ph.D.
+
+      
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="after DCT" type1="statin" type2="">
+      <MEDICATION id="M0" start="193" end="200" text="Lipitor" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M1" start="193" end="200" text="Lipitor" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M2" start="193" end="201" text="Lipitor " time="after DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC1" time="during DCT" type1="aspirin" type2="">
+      <MEDICATION id="M3" start="307" end="310" text="ASA" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M4" start="307" end="310" text="ASA" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M5" start="307" end="310" text="ASA" time="during DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <SMOKER id="DOC2" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" status="unknown"/>
+      <SMOKER id="S2" start="3" end="10" text="Record " status="unknown" comment=""/>
+    </SMOKER>
+    <MEDICATION id="DOC3" time="after DCT" type1="aspirin" type2="">
+      <MEDICATION id="M6" start="307" end="310" text="ASA" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M7" start="307" end="310" text="ASA" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M8" start="307" end="310" text="ASA" time="after DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC4" time="after DCT" type1="insulin" type2="">
+      <MEDICATION id="M9" start="30" end="37" text="Humalog" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M10" start="62" end="68" text="Lantus" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M11" start="30" end="37" text="Humalog" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M12" start="62" end="68" text="Lantus" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M13" start="29" end="69" text=" Humalog 0-2/4-8/6-10 111-64-17  Lantus " time="after DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC5" time="after DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M14" start="211" end="220" text="Toprol XL" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M15" start="211" end="220" text="Toprol XL" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M16" start="211" end="218" text="Toprol " time="after DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC6" time="before DCT" type1="statin" type2="">
+      <MEDICATION id="M17" start="193" end="200" text="Lipitor" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M18" start="193" end="200" text="Lipitor" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M19" start="193" end="201" text="Lipitor " time="before DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC7" time="during DCT" type1="statin" type2="">
+      <MEDICATION id="M20" start="193" end="200" text="Lipitor" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M21" start="193" end="200" text="Lipitor" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M22" start="193" end="201" text="Lipitor " time="during DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <FAMILY_HIST id="DOC8" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <MEDICATION id="DOC9" time="before DCT" type1="aspirin" type2="">
+      <MEDICATION id="M23" start="307" end="310" text="ASA" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M24" start="307" end="310" text="ASA" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M25" start="307" end="310" text="ASA" time="before DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC10" time="before DCT" type1="insulin" type2="">
+      <MEDICATION id="M26" start="30" end="37" text="Humalog" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M27" start="62" end="68" text="Lantus" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M28" start="30" end="37" text="Humalog" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M29" start="62" end="68" text="Lantus" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M30" start="29" end="69" text=" Humalog 0-2/4-8/6-10 111-64-17  Lantus " time="before DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC11" time="during DCT" type1="insulin" type2="">
+      <MEDICATION id="M31" start="30" end="37" text="Humalog" time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M32" start="62" end="68" text="Lantus" time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M33" start="30" end="37" text="Humalog" time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M34" start="62" end="68" text="Lantus" time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M35" start="29" end="69" text=" Humalog 0-2/4-8/6-10 111-64-17  Lantus " time="during DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC12" time="before DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M36" start="211" end="220" text="Toprol XL" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M37" start="211" end="220" text="Toprol XL" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M38" start="211" end="218" text="Toprol " time="before DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC13" time="during DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M39" start="211" end="220" text="Toprol XL" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M40" start="211" end="220" text="Toprol XL" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M41" start="211" end="218" text="Toprol " time="during DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <PHI id="P0" start="16" end="26" text="2100-07-07" TYPE="DATE"/>
+    <PHI id="P1" start="51" end="60" text="111-64-17" TYPE="MEDICALRECORD"/>
+    <PHI id="P2" start="77" end="92" text="Xayarath, Nancy" TYPE="PATIENT"/>
+    <PHI id="P3" start="455" end="468" text="July 07, 2100" TYPE="DATE"/>
+    <PHI id="P4" start="880" end="886" text="Xiques" TYPE="DOCTOR"/>
+    <PHI id="P5" start="894" end="900" text="Spring" TYPE="DATE"/>
+    <PHI id="P6" start="978" end="987" text="September" TYPE="DATE"/>
+    <PHI id="P7" start="997" end="1005" text="Caldwell" TYPE="DOCTOR"/>
+    <PHI id="P8" start="1615" end="1618" text="ANC" TYPE="HOSPITAL"/>
+    <PHI id="P9" start="1646" end="1653" text="Wilhelm" TYPE="DOCTOR"/>
+    <PHI id="P10" start="1740" end="1747" text="Wilhelm" TYPE="DOCTOR"/>
+    <PHI id="P11" start="1788" end="1791" text="New" TYPE="DOCTOR"/>
+    <PHI id="P12" start="1829" end="1832" text="New" TYPE="DOCTOR"/>
+    <PHI id="P13" start="1921" end="1927" text="Carter" TYPE="DOCTOR"/>
+    <PHI id="P14" start="2813" end="2820" text="Wilhelm" TYPE="DOCTOR"/>
+    <PHI id="P15" start="2829" end="2832" text="New" TYPE="DOCTOR"/>
+    <PHI id="P16" start="2982" end="2989" text="Sanders" TYPE="DOCTOR"/>
+    <PHI id="P17" start="3128" end="3133" text="Arndt" TYPE="DOCTOR"/>
+    <PHI id="P18" start="3344" end="3363" text="Fredrich van Butler" TYPE="DOCTOR"/>
+    <PHI id="P19" start="3372" end="3384" text="Nicole Arndt" TYPE="DOCTOR"/>
+    <PHI id="P20" start="3393" end="3409" text="Lawrence Wilhelm" TYPE="DOCTOR"/>
+    <PHI id="P21" start="3417" end="3451" text="Minnie Hamilton Health Care Center" TYPE="HOSPITAL"/>
+    <PHI id="P22" start="3453" end="3469" text="727 Seneca Drive" TYPE="STREET"/>
+    <PHI id="P23" start="3471" end="3479" text="Suite 9B" TYPE="ROOM"/>
+    <PHI id="P24" start="3485" end="3496" text="Red Springs" TYPE="CITY"/>
+    <PHI id="P25" start="3498" end="3500" text="WA" TYPE="STATE"/>
+    <PHI id="P26" start="3501" end="3506" text="77286" TYPE="ZIP"/>
+    <PHI id="P27" start="3509" end="3521" text="Nicholas New" TYPE="DOCTOR"/>
+    <PHI id="P28" start="3529" end="3533" text="BKMC" TYPE="HOSPITAL"/>
+    <PHI id="P29" start="3536" end="3551" text="Ophelia Sanders" TYPE="DOCTOR"/>
+    <PHI id="P30" start="3566" end="3586" text="Lawrence K. Townsend" TYPE="DOCTOR"/>
+  </TAGS>
+</root>

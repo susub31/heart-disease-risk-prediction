@@ -1,0 +1,104 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2089-04-04
+
+ 
+
+SDU JAR Transfer Note
+
+Name: 	 Catherine Kong
+MR:	6746781
+DOA:  	4/3/89
+DOT: 4/4/89
+PCP:  William Sawyer
+Attending: WARD
+CODE: FULL
+
+
+HPI:  
+Please see admit note for details of history prior to admission.
+
+Overnight in the SDU, patient was given several stepwise doses of lasix. She put out about 500cc to 30 IV lasix, then another 300cc to 40 IV lasix. Patient was hypoxic on a NRB with sats in low 90s and RR of 45, but improved when transitioned to high flow O2 with saturation in high 90s and RR of 30.
+
+Bedside TTE done in the morning confirmed aortic valve leaflet vegetations and moderate AI. CT surgery was consulted, and given prior hx of angina and recent episodes of chest pain, they requested cardiac cath prior to OR for valve replacement.
+
+
+ASSESSMENT AND PLAN: 
+
+70 yo F p/w acute CHF 2/2 aortic insufficiency from subacute aortic valve endocarditis
+
+CV:
+Ischemia: History of stable angina, no prior MI. No acute ST changes, borderline troponin elevation, recent history of chest pain at rest.
+Cardiac cath today to eval for CAD
+Hold anticoagulation given likely CT surgery
+Pump: AV endocarditis by TTE resulting in moderate AI and significant pulmonary edema. Per discussion with microbiology lab at Community Hospital, patient was positive for Beta Strep Group B 2/2 bottles on 2/21/89, sensitivities were not done.
+Continue amp/vanc/gent, await culture and sensitivity results
+Continue to titrate lasix to TBB     1-2 liters per day
+Rhythm: Normal sinus rhythm
+Continue to monitor for any development of AV block that might indicate aortic valve abscess
+
+NIDDM
+Hold metformin, RISS
+
+_______________________
+Jay Wallace, MD, MPH pager 92149
+
+
+
+]]></TEXT>
+  <TAGS>
+    <DIABETES id="DOC0" time="before DCT" indicator="mention">
+      <DIABETES id="D0" start="1608" end="1610" text="DM" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D1" start="1605" end="1610" text="NIDDM" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D2" start="1605" end="1610" text="NIDDM" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <MEDICATION id="DOC1" time="before DCT" type1="insulin" type2="">
+      <MEDICATION id="M0" start="1627" end="1631" text="RISS" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M1" start="1627" end="1631" text="RISS" time="before DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC2" time="before DCT" type1="metformin" type2="">
+      <MEDICATION id="M2" start="1616" end="1625" text="metformin" time="before DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M3" start="1616" end="1625" text="metformin" time="before DCT" type1="metformin" type2="" comment=""/>
+    </MEDICATION>
+    <CAD id="DOC3" time="before DCT" indicator="symptom">
+      <CAD id="C0" start="667" end="686" text=" prior hx of angina" time="before DCT" indicator="symptom" comment=""/>
+      <CAD id="C1" start="674" end="686" text="hx of angina" time="before DCT" indicator="symptom" comment=""/>
+      <CAD id="C2" start="902" end="936" text="Ischemia: History of stable angina" time="before DCT" indicator="symptom" comment=""/>
+      <CAD id="C3" start="923" end="936" text="stable angina" time="before DCT" indicator="symptom" comment=""/>
+    </CAD>
+    <DIABETES id="DOC4" time="during DCT" indicator="mention">
+      <DIABETES id="D3" start="1608" end="1610" text="DM" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D4" start="1605" end="1610" text="NIDDM" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D5" start="1605" end="1610" text="NIDDM" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <FAMILY_HIST id="DOC5" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC6" status="unknown">
+      <SMOKER id="S0" start="3" end="10" text="Record " status="unknown" comment=""/>
+      <SMOKER id="S1" status="unknown"/>
+      <SMOKER id="S2" status="unknown"/>
+    </SMOKER>
+    <DIABETES id="DOC7" time="after DCT" indicator="mention">
+      <DIABETES id="D6" start="1608" end="1610" text="DM" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D7" start="1605" end="1610" text="NIDDM" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D8" start="1605" end="1610" text="NIDDM" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <PHI id="P0" start="16" end="26" text="2089-04-04" TYPE="DATE"/>
+    <PHI id="P1" start="62" end="76" text="Catherine Kong" TYPE="PATIENT"/>
+    <PHI id="P2" start="81" end="88" text="6746781" TYPE="MEDICALRECORD"/>
+    <PHI id="P3" start="96" end="102" text="4/3/89" TYPE="DATE"/>
+    <PHI id="P4" start="108" end="114" text="4/4/89" TYPE="DATE"/>
+    <PHI id="P5" start="121" end="135" text="William Sawyer" TYPE="DOCTOR"/>
+    <PHI id="P6" start="810" end="812" text="70" TYPE="AGE"/>
+    <PHI id="P7" start="1248" end="1266" text="Community Hospital" TYPE="HOSPITAL"/>
+    <PHI id="P8" start="1327" end="1334" text="2/21/89" TYPE="DATE"/>
+    <PHI id="P9" start="1657" end="1668" text="Jay Wallace" TYPE="DOCTOR"/>
+    <PHI id="P10" start="1684" end="1689" text="92149" TYPE="PHONE"/>
+  </TAGS>
+</root>

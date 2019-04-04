@@ -1,0 +1,266 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2073-04-02
+
+
+
+
+
+INTERNAL MEDICINE ASSOCIATES
+
+FOLSOM CONVALESCENT HOSPITAL
+
+
+
+Reason for visit   Annual examination.
+
+
+
+History of present illness   The patient has done very well over the last year.  He has maintained his weight, which has been quite difficult given the social commitments that he has.  He is requiring to eat out quite a bit.  He has also done a large amount of traveling over the last three to four months.  This caused him to be more exhausted than usual.  His incarcerated hernia repair has stood up.  He has some discomfort occasionally in that area, but for the most part feels that this is back to normal.  He is careful with his diet as much as he can be.  He had a cold over the last month or so.  It slowly resolved.  He is asymptomatic presently.
+
+
+
+Major Problems
+
+Hypertension
+
+
+
+Hyperlipidemia
+
+
+
+Glucose intolerance
+
+
+
+
+
+Change in therapies and Renewals
+
+Nexium 20 mg PO QD Refills:2 total of 90
+
+Toprol XL 50 mg PO QD Refills:2 total of 90
+
+Effexor 75 mg PO QD Refills:2 total of 90
+
+Ecotrin 325 mg PO QD Refills:3
+
+Zocor 10 mg PO QD Refills:3 90
+
+vitamin e   
+
+vitamin c   
+
+calcium supplement   
+
+flaxseed oil   
+
+metformin hydrochloride 500 mg po qd QTY:90 Refills:3 Start: 4/2/2073 take with meals
+
+
+
+Procedures
+
+Coronary artery bypass  STATUS POST.
+
+Hernia repair  Incarcerated Hernia repair.. STATUS POST.
+
+
+
+Social history   Still active in business.  He is Treasurer for the Masons.  Does not smoke.  Drinks a few glasses of wine or Martini at night.  He has 10 grandchildren.
+
+
+
+Review of systems   Recent night sweats, chronic tinnitus, leg cramps on walking, no GI or urinary problems, and notes some easy bruising.
+
+
+
+Physical examination
+
+Pulse   72 and regular
+
+Blood pressure 120/70  
+
+General appearance   Well appearing
+
+Heent   Oropharynx clear
+
+Neck   Carotids, no bruits.  Thyroid, nonpalpable
+
+Chest   Clear
+
+Cor   RRR
+
+Abdomen   Benign
+
+Rectal exam   Guaiac negative.  Prostate, slightly enlarged
+
+Genitalia   Genitalia, within normal
+
+Extrem   Within normal limits.  Pulses intact.  He has fungal infections of his nails on his 
+
+feet
+
+Musc skel   There is some bruising of his left deltoid
+
+
+
+Assessment and plan   The patient is generally doing well.  His cardiac risk management is doing fine.  His blood pressure is in good control.  His recent cholesterol profile is excellent.  He has slightly elevated fasting blood sugars.  We discussed options including diet and exercise which I think he has been very good on.  Discussed starting metformin based on recent data that this may help prevent his development of diabetes.  We will begin metformin 500 mg PO QD.  We will check his renal and liver function in one week and his bruising is likely due to his aspirin.  We need to follow up on a renal ultrasound for cysts that were discovered during his hernia operation, and I will make these arrangements.  The patient is to return to clinic in three months     Coronary artery diseas
+
+
+
+Selected recent labs   We reviewed his laboratories.  These were done earlier in the week.
+
+
+
+Note transcribed by outside service   Transcription errors may be present.
+
+
+
+Signed electronically by   Stephen  Mccullough   on  Apr 09, 2073     
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="after DCT" type1="statin" type2="">
+      <MEDICATION id="M0" start="1066" end="1071" text="Zocor" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M1" start="1066" end="1071" text="Zocor" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M2" start="1066" end="1071" text="Zocor" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M3" start="1066" end="1071" text="Zocor" time="after DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC1" time="during DCT" type1="aspirin" type2="">
+      <MEDICATION id="M4" start="1034" end="1041" text="Ecotrin" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M5" start="1034" end="1041" text="Ecotrin" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M6" start="1034" end="1041" text="Ecotrin" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M7" start="1034" end="1041" text="Ecotrin" time="during DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC2" time="after DCT" type1="metformin" type2="">
+      <MEDICATION id="M8" start="2616" end="2625" text="metformin" time="after DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M9" start="1166" end="1175" text="metformin" time="after DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M10" start="1166" end="1189" text="metformin hydrochloride" time="after DCT" type1="metformin" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC3" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="811" end="823" text="Hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="811" end="823" text="Hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H2" start="811" end="823" text="Hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H3" start="811" end="823" text="Hypertension" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERLIPIDEMIA id="DOC4" time="before DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY0" start="827" end="841" text="Hyperlipidemia" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY1" start="827" end="841" text="Hyperlipidemia" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY2" start="827" end="841" text="Hyperlipidemia" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY3" start="827" end="841" text="Hyperlipidemia" time="before DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <MEDICATION id="DOC5" time="after DCT" type1="aspirin" type2="">
+      <MEDICATION id="M11" start="1034" end="1041" text="Ecotrin" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M12" start="1034" end="1041" text="Ecotrin" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M13" start="1034" end="1041" text="Ecotrin" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M14" start="1034" end="1041" text="Ecotrin" time="after DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERLIPIDEMIA id="DOC6" time="during DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY4" start="827" end="841" text="Hyperlipidemia" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY5" start="827" end="841" text="Hyperlipidemia" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY6" start="827" end="841" text="Hyperlipidemia" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY7" start="827" end="841" text="Hyperlipidemia" time="during DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <HYPERTENSION id="DOC7" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H4" start="811" end="823" text="Hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H5" start="811" end="823" text="Hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H6" start="811" end="823" text="Hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H7" start="811" end="823" text="Hypertension" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <MEDICATION id="DOC8" time="after DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M15" start="946" end="955" text="Toprol XL" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M16" start="946" end="955" text="Toprol XL" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M17" start="946" end="955" text="Toprol XL" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M18" start="946" end="955" text="Toprol XL" time="after DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <CAD id="DOC9" time="after DCT" indicator="mention">
+      <CAD id="C0" start="2939" end="2961" text="Coronary artery diseas" time="after DCT" indicator="mention" comment=""/>
+      <CAD id="C1" start="2939" end="2962" text="Coronary artery diseas " time="after DCT" indicator="mention" comment=""/>
+      <CAD id="C2" start="2938" end="2961" text=" Coronary artery diseas" time="after DCT" indicator="mention" comment=""/>
+    </CAD>
+    <MEDICATION id="DOC10" time="before DCT" type1="statin" type2="">
+      <MEDICATION id="M19" start="1066" end="1071" text="Zocor" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M20" start="1066" end="1071" text="Zocor" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M21" start="1066" end="1071" text="Zocor" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M22" start="1066" end="1071" text="Zocor" time="before DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC11" time="during DCT" type1="statin" type2="">
+      <MEDICATION id="M23" start="1066" end="1071" text="Zocor" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M24" start="1066" end="1071" text="Zocor" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M25" start="1066" end="1071" text="Zocor" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M26" start="1066" end="1071" text="Zocor" time="during DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <FAMILY_HIST id="DOC12" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+      <FAMILY_HIST id="F3" indicator="not present"/>
+    </FAMILY_HIST>
+    <HYPERLIPIDEMIA id="DOC13" time="after DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY8" start="827" end="841" text="Hyperlipidemia" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY9" start="827" end="841" text="Hyperlipidemia" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY10" start="827" end="841" text="Hyperlipidemia" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY11" start="827" end="841" text="Hyperlipidemia" time="after DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <CAD id="DOC14" time="during DCT" indicator="mention">
+      <CAD id="C3" start="2939" end="2961" text="Coronary artery diseas" time="during DCT" indicator="mention" comment=""/>
+      <CAD id="C4" start="2939" end="2962" text="Coronary artery diseas " time="during DCT" indicator="mention" comment=""/>
+      <CAD id="C5" start="2938" end="2961" text=" Coronary artery diseas" time="during DCT" indicator="mention" comment=""/>
+    </CAD>
+    <MEDICATION id="DOC15" time="before DCT" type1="aspirin" type2="">
+      <MEDICATION id="M27" start="1034" end="1041" text="Ecotrin" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M28" start="1034" end="1041" text="Ecotrin" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M29" start="1034" end="1041" text="Ecotrin" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M30" start="1034" end="1041" text="Ecotrin" time="before DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <SMOKER id="DOC16" status="never">
+      <SMOKER id="S0" start="1442" end="1456" text="Does not smoke" status="never" comment=""/>
+      <SMOKER id="S1" start="1442" end="1456" text="Does not smoke" status="never" comment=""/>
+      <SMOKER id="S2" start="1442" end="1456" text="Does not smoke" status="never" comment=""/>
+      <SMOKER id="S3" start="1441" end="1456" text=" Does not smoke" status="never" comment=""/>
+    </SMOKER>
+    <CAD id="DOC17" time="before DCT" indicator="event">
+      <CAD id="C6" start="1267" end="1289" text="Coronary artery bypass" time="before DCT" indicator="event" comment=""/>
+      <CAD id="C7" start="1267" end="1303" text="Coronary artery bypass  STATUS POST." time="before DCT" indicator="event" comment=""/>
+      <CAD id="C8" start="1267" end="1302" text="Coronary artery bypass  STATUS POST" time="before DCT" indicator="event" comment=""/>
+      <CAD id="C9" start="1267" end="1302" text="Coronary artery bypass  STATUS POST" time="before DCT" indicator="event" comment=""/>
+    </CAD>
+    <HYPERTENSION id="DOC18" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H8" start="811" end="823" text="Hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H9" start="811" end="823" text="Hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H10" start="811" end="823" text="Hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H11" start="811" end="823" text="Hypertension" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <MEDICATION id="DOC19" time="before DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M31" start="946" end="955" text="Toprol XL" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M32" start="946" end="955" text="Toprol XL" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M33" start="946" end="955" text="Toprol XL" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M34" start="946" end="955" text="Toprol XL" time="before DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC20" time="during DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M35" start="946" end="955" text="Toprol XL" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M36" start="946" end="955" text="Toprol XL" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M37" start="946" end="955" text="Toprol XL" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M38" start="946" end="955" text="Toprol XL" time="during DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <CAD id="DOC21" time="before DCT" indicator="mention">
+      <CAD id="C10" start="2939" end="2961" text="Coronary artery diseas" time="before DCT" indicator="mention" comment=""/>
+      <CAD id="C11" start="2939" end="2962" text="Coronary artery diseas " time="before DCT" indicator="mention" comment=""/>
+      <CAD id="C12" start="2938" end="2961" text=" Coronary artery diseas" time="before DCT" indicator="mention" comment=""/>
+    </CAD>
+    <PHI id="P0" start="16" end="26" text="2073-04-02" TYPE="DATE"/>
+    <PHI id="P1" start="62" end="90" text="FOLSOM CONVALESCENT HOSPITAL" TYPE="HOSPITAL"/>
+    <PHI id="P2" start="1227" end="1235" text="4/2/2073" TYPE="DATE"/>
+    <PHI id="P3" start="1415" end="1424" text="Treasurer" TYPE="PROFESSION"/>
+    <PHI id="P4" start="1429" end="1439" text="the Masons" TYPE="ORGANIZATION"/>
+    <PHI id="P5" start="3164" end="3183" text="Stephen  Mccullough" TYPE="DOCTOR"/>
+    <PHI id="P6" start="3190" end="3202" text="Apr 09, 2073" TYPE="DATE"/>
+  </TAGS>
+</root>

@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2079-02-13
+
+                     PMH EMERGENCY DEPT VISIT
+ 
+WESTYN-NUEL,KELLI   898-97-85-6            VISIT DATE: 02/13/79
+This patient was seen with Dr. Quilla Uehara, an Emergency 
+Medicine resident.  The PRESENTING COMPLAINT, HISTORY OF PRESENTING 
+COMPLAINT, PAST MEDICAL HISTORY, MEDICATIONS, ALLERGIES, SOCIAL 
+HISTORY, FAMILY HISTORY, and REVIEW OF SYSTEMS:  As noted on the 
+record by Dr. Uehara, and as reviewed with the patient and with Dr. 
+Uehara.  Briefly, the patient is a pleasant 64-year-old woman, who 
+has had episodes of severe left-sided pressure-like chest pain off 
+and on through the course of this week.  This has occurred with 
+exertion and has always cleared with rest.  She is pain-free at 
+present, but presents to the Emergency Department because she 
+reported to her family that she had ceased taking her high blood 
+pressure medications. 
+PHYSICAL EXAMINATION:  The physical examination is as noted by Dr. 
+Uehara.  Basically, the examination is completely normal with the 
+exception of the blood pressure, which ranges from 220 to 230 over 
+100 to 110.  The patient's electrocardiogram does not show acute 
+changes. 
+LABORATORY EVALUATION:  The cardiac troponin I is 0.53. 
+THERAPY RENDERED/COURSE IN ED:  I concur with Dr. Uehara that the 
+patient has a strong history for unstable angina.  The patient will 
+be admitted to the hospital for further evaluation.  She has 
+remained pain-free while in the Emergency Department and has 
+received nitroglycerin paste.  Her blood pressure will be treated 
+with initiation of an ACE inhibitor. 
+FINAL DIAGNOSIS:  Unstable angina. 
+DISPOSITION (including condition upon discharge):  The patient is 
+admitted to the hospital in satisfactory condition. 
+___________________________________                    IZ329/1982 
+STEPHEN X. PIKE, M.D.  SP59                               D:02/13/79 
+                                                       T:02/13/79 
+Dictated by:  STEPHEN X. PIKE, M.D.  SP59 
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC3" time="after DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M0" start="1555" end="1585" text="initiation of an ACE inhibitor" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M1" start="1572" end="1585" text="ACE inhibitor" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M2" start="1569" end="1585" text="an ACE inhibitor" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC5" time="during DCT" type1="nitrate" type2="">
+      <MEDICATION id="M3" start="1492" end="1511" text="nitroglycerin paste" time="during DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M4" start="1492" end="1506" text="nitroglycerin " time="during DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M5" start="1492" end="1511" text="nitroglycerin paste" time="during DCT" type1="nitrate" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC0" time="during DCT" indicator="high bp">
+      <HYPERTENSION id="H0" start="1073" end="1101" text="220 to 230 over  100 to 110." time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H1" start="1073" end="1100" text="220 to 230 over  100 to 110" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H2" start="1073" end="1100" text="220 to 230 over  100 to 110" time="during DCT" indicator="high bp" comment=""/>
+    </HYPERTENSION>
+    <CAD id="DOC1" time="before DCT" indicator="symptom">
+      <CAD id="C0" start="557" end="599" text="severe left-sided pressure-like chest pain" time="before DCT" indicator="symptom" comment=""/>
+      <CAD id="C1" start="545" end="599" text="episodes of severe left-sided pressure-like chest pain" time="before DCT" indicator="symptom" comment=""/>
+    </CAD>
+    <FAMILY_HIST id="DOC2" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC4" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" start="3" end="9" text="Record" status="unknown" comment=""/>
+      <SMOKER id="S2" status="unknown"/>
+    </SMOKER>
+  </TAGS>
+</root>

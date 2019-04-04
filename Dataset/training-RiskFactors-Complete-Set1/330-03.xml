@@ -1,0 +1,154 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2084-06-12
+
+
+
+
+VIGIL, ANTHONY
+40984972
+06/12/2084
+
+
+Joshua A. Root, M.D.
+Nutfield Surgicenter
+980 Westwood Dr, Suite 8466
+Bangkok, NJ  53591
+
+Dear Dr. Root:
+
+We had the pleasure of seeing this patient today in followup of his transplant of 03/25/2084.  He is doing quite well.  There are no exertional complaints of dyspnea or chest discomfort.  He is taking his medications without problems and denies fever, cough, rash or diarrhea.
+
+He tells me his blood pressures at home are as high as 140-160 in the morning systolic dropping to the 130 systolic in the evenings.
+
+His current medications are unchanged and include Neoral 125 mg b.i.d., prednisone 15 mg daily, CellCept 1 g b.i.d., aspirin 325 mg daily, Bactrim double strength one tablet every other day, calcium and vitamin D one tablet b.i.d., diltiazem CD 240 mg q.a.m. and 120 q.p.m., Lantus Insulin 20 units at bedtime, magnesium gluconate 500 mg b.i.d., multivitamin daily, Neurontin 100 mg t.i.d., NovoLog insulin p.r.n., nystatin elixir 5 mL q.i.d., omeprazole 40 mg daily, Valcyte 450 mg daily, vitamin C 500 mg b.i.d., and vitamin E 400 mg b.i.d.
+
+On exam, he looks great.  His blood pressure is 166/98 initially, 148/82 on repeat.  His heart rate is 110.  He weighs 163 pounds.  His head and neck examination is unremarkable.  His venous pressures are less than 7 cm of water.  The lungs are clear.  The cardiac exam reveals a tachycardic rhythm with no rub, murmur or gallop.  The abdomen is unremarkable.  His numerous surgical wounds are well healed.  His extremities are warm without edema.
+
+Electrocardiography is notable for sinus tachycardia at 108 beats per minute, some nonspecific ST changes.  He underwent right heart catheterization and biopsy today.  His right atrial pressure was 5.  His wedge pressure was 17.  His PA pressures were 40/20 with a mean of 30.  The biopsy results are pending at the time of this dictation.
+
+In summary, the patient is doing well now six weeks after cardiac transplantation.  We will be making changes to his immunosuppressive regimen as dictated by the results of his blood work and biopsy.  It is very gratifying to see how well he is doing.  We will be sure to update you on a regular basis.
+
+Sincerely,
+
+
+______________________________
+Glenn V Baxter, M.D.
+
+
+
+
+
+eScription document:2-6397786 SFFocus
+
+CC: Amir Naranjo M.D.
+Boys Town National Research Hospital
+3 Kelly Street
+Bangkok, NJ 53591
+
+
+DD: 06/12/84
+DT: 06/12/84
+DV: 06/12/84
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="during DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M0" start="818" end="827" text="diltiazem" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M1" start="818" end="828" text="diltiazem " time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC1" time="during DCT" type1="aspirin" type2="">
+      <MEDICATION id="M2" start="703" end="710" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M3" start="703" end="711" text="aspirin " time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M4" start="703" end="710" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC2" time="before DCT" type1="insulin" type2="">
+      <MEDICATION id="M5" start="861" end="867" text="Lantus" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M6" start="977" end="984" text="NovoLog" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M7" start="861" end="875" text="Lantus Insulin" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M8" start="861" end="875" text="Lantus Insulin" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M9" start="977" end="992" text="NovoLog insulin" time="before DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC3" time="before DCT" type1="aspirin" type2="">
+      <MEDICATION id="M10" start="703" end="710" text="aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M11" start="703" end="711" text="aspirin " time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M12" start="703" end="710" text="aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC4" time="during DCT" indicator="high bp">
+      <HYPERTENSION id="H0" start="1178" end="1213" text="166/98 initially, 148/82 on repeat." time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H1" start="1178" end="1184" text="166/98" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H2" start="1156" end="1184" text="His blood pressure is 166/98" time="during DCT" indicator="high bp" comment=""/>
+    </HYPERTENSION>
+    <MEDICATION id="DOC5" time="before DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M13" start="818" end="827" text="diltiazem" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M14" start="818" end="828" text="diltiazem " time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC6" time="after DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M15" start="818" end="827" text="diltiazem" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M16" start="818" end="828" text="diltiazem " time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC7" time="after DCT" type1="aspirin" type2="">
+      <MEDICATION id="M17" start="703" end="710" text="aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M18" start="703" end="711" text="aspirin " time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M19" start="703" end="710" text="aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <FAMILY_HIST id="DOC8" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC9" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" start="158" end="162" text="Dear" status="unknown" comment=""/>
+      <SMOKER id="S2" status="unknown"/>
+    </SMOKER>
+    <HYPERTENSION id="DOC10" time="before DCT" indicator="high bp">
+      <HYPERTENSION id="H3" start="468" end="583" text="blood pressures at home are as high as 140-160 in the morning systolic dropping to the 130 systolic in the evenings" time="before DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H4" start="468" end="514" text="blood pressures at home are as high as 140-160" time="before DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H5" start="464" end="514" text="his blood pressures at home are as high as 140-160" time="before DCT" indicator="high bp" comment=""/>
+    </HYPERTENSION>
+    <MEDICATION id="DOC11" time="during DCT" type1="insulin" type2="">
+      <MEDICATION id="M20" start="861" end="867" text="Lantus" time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M21" start="977" end="984" text="NovoLog" time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M22" start="861" end="875" text="Lantus Insulin" time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M23" start="861" end="875" text="Lantus Insulin" time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M24" start="977" end="992" text="NovoLog insulin" time="during DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC12" time="after DCT" type1="insulin" type2="">
+      <MEDICATION id="M25" start="861" end="867" text="Lantus" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M26" start="977" end="984" text="NovoLog" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M27" start="861" end="875" text="Lantus Insulin" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M28" start="861" end="875" text="Lantus Insulin" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M29" start="977" end="992" text="NovoLog insulin" time="after DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <PHI id="P0" start="16" end="26" text="2084-06-12" TYPE="DATE"/>
+    <PHI id="P1" start="31" end="45" text="VIGIL, ANTHONY" TYPE="PATIENT"/>
+    <PHI id="P2" start="46" end="54" text="40984972" TYPE="MEDICALRECORD"/>
+    <PHI id="P3" start="55" end="65" text="06/12/2084" TYPE="DATE"/>
+    <PHI id="P4" start="68" end="82" text="Joshua A. Root" TYPE="DOCTOR"/>
+    <PHI id="P5" start="89" end="109" text="Nutfield Surgicenter" TYPE="HOSPITAL"/>
+    <PHI id="P6" start="110" end="125" text="980 Westwood Dr" TYPE="STREET"/>
+    <PHI id="P7" start="127" end="137" text="Suite 8466" TYPE="ROOM"/>
+    <PHI id="P8" start="138" end="145" text="Bangkok" TYPE="CITY"/>
+    <PHI id="P9" start="147" end="149" text="NJ" TYPE="STATE"/>
+    <PHI id="P10" start="151" end="156" text="53591" TYPE="ZIP"/>
+    <PHI id="P11" start="167" end="171" text="Root" TYPE="DOCTOR"/>
+    <PHI id="P12" start="256" end="266" text="03/25/2084" TYPE="DATE"/>
+    <PHI id="P13" start="2268" end="2282" text="Glenn V Baxter" TYPE="DOCTOR"/>
+    <PHI id="P14" start="2314" end="2323" text="2-6397786" TYPE="IDNUM"/>
+    <PHI id="P15" start="2337" end="2349" text="Amir Naranjo" TYPE="DOCTOR"/>
+    <PHI id="P16" start="2355" end="2391" text="Boys Town National Research Hospital" TYPE="HOSPITAL"/>
+    <PHI id="P17" start="2392" end="2406" text="3 Kelly Street" TYPE="STREET"/>
+    <PHI id="P18" start="2407" end="2414" text="Bangkok" TYPE="CITY"/>
+    <PHI id="P19" start="2416" end="2418" text="NJ" TYPE="STATE"/>
+    <PHI id="P20" start="2419" end="2424" text="53591" TYPE="ZIP"/>
+    <PHI id="P21" start="2431" end="2439" text="06/12/84" TYPE="DATE"/>
+    <PHI id="P22" start="2444" end="2452" text="06/12/84" TYPE="DATE"/>
+    <PHI id="P23" start="2457" end="2465" text="06/12/84" TYPE="DATE"/>
+  </TAGS>
+</root>

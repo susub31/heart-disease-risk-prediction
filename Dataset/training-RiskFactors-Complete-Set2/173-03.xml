@@ -1,0 +1,106 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2073-02-03
+
+                     SOUT SIDE EMERGENCY DEPT VISIT
+
+ 
+
+NARVAEZ,OTIS   045-61-32-6                      VISIT DATE: 02/03/73
+
+The patient was seen with the medical resident.  This is a brief 
+
+addendum to the chart.  I have discussed management with the 
+
+internal medicine resident who saw the patient.
+
+HISTORY OF PRESENTING COMPLAINT:  Briefly, this is a gentleman who 
+
+is status post lung surgery who complains of feeling weak, with 
+
+mild shortness of breath and fevers over the last couple of days.  
+
+He has noted some drainage and redness of his surgical site on the 
+
+left side.  He has had no headache, chest pain, abdominal pain.  He 
+
+has had mildly loose stools and felt weak and somewhat 
+
+light-headed.  His wife reports that he had been confused overnight 
+
+after taking his medications.  The patient states that this 
+
+happened last night and has now resolved. 
+
+PAST MEDICAL HISTORY:  As documented.
+
+SOCIAL HISTORY AND FAMILY HISTORY:  As documented.  The patient is 
+
+a past smoker.  He has a family history of MI.
+
+PHYSICAL EXAMINATION:  GENERAL APPEARANCE:  The patient is mildly 
+
+uncomfortable, in no acute distress.  VITAL SIGNS:  Blood pressure 
+
+is 170/70, respiratory rate 18, pulse initially of 112, temperature 
+
+101.5.  HEENT:  Normocephalic, atraumatic.  NECK:  Supple.  CHEST:  
+
+Clear.  Slightly dull on the left side.  He has superficial redness 
+
+along the surgical incision site with drainage.  HEART:  Regular 
+
+rate.  ABDOMEN:  Soft, nontender.  EXTREMITIES:  Nontender.  
+
+NEUROLOGIC:  He is oriented x 4 and appropriate, with a normal 
+
+neurologic exam.
+
+CONSULTATIONS (including PCP):  CT surgery has been consulted.
+
+FINAL DIAGNOSIS:  This is a gentleman with fever and drainage from 
+
+his surgical site.
+
+DISPOSITION (including condition upon discharge):  The patient will 
+
+be admitted for IV antibiotics.  A CT of the chest is pending at 
+
+the time of this dictation.  Condition on admission is stable. 
+
+___________________________________                    OP274/66298 
+
+BRIAN YOCKEY, M.D.  BY01                                 D:02/03/73 
+
+                                                       T:02/04/73 
+
+Dictated by:  BRIAN YOCKEY, M.D.  BY01 
+
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <HYPERTENSION id="DOC1" time="during DCT" indicator="high bp">
+      <HYPERTENSION id="H0" start="1185" end="1211" text="Blood pressure   is 170/70" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H1" start="1205" end="1211" text="170/70" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H2" start="1205" end="1211" text="170/70" time="during DCT" indicator="high bp" comment=""/>
+    </HYPERTENSION>
+    <FAMILY_HIST id="DOC0" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC2" status="past">
+      <SMOKER id="S0" start="1019" end="1030" text="past smoker" status="past" comment=""/>
+      <SMOKER id="S1" start="1019" end="1030" text="past smoker" status="past" comment=""/>
+      <SMOKER id="S2" start="1019" end="1030" text="past smoker" status="past" comment=""/>
+    </SMOKER>
+  </TAGS>
+</root>

@@ -1,0 +1,187 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2062-01-29
+
+TRIBAL INTERNAL MEDICINE ASSOCIATES          Hart, Matthew
+                                              1-29-62
+ 
+ 
+ 
+History of Present Illness: This was the first Internal Medicine clinic visit for 
+this 38-year-old black male with a history of non-insulin dependent 
+diabetes diagnosed a year ago, maintained on Diabeta 5 mg. q.d.  Also 
+with a history of borderline hypertension previously on 
+hydrochlorothiazide 25 mg. q.d. for the last year, which he discontinued 
+last Sunday, who now comes in because over the last two to three weeks 
+he has been having trouble with increased dizziness and headaches, and 
+he is afraid that his sugar is up.  He states that over the last two or 
+three weeks, he gets stars and floaters and sometimes halos of light 
+followed by mild headaches.  He says that the visual changes are usually 
+accompanied by the headache, and the headache is usually relieved with 
+Excedrin in 5 minutes to an hour.  He does admit to a history of 
+migraines but states that in the past his migraines have been much more 
+severe than this, though the visual aura is very similar to his previous 
+migraine aura.  
+ 
+He states that he was seen in the emergency room on 1-12, at which time 
+they did a finger stick which was about 180, and they told him to come 
+to this appointment at this time.  He denies any fevers.  He does have a 
+recent 25 lb weight gain and he admits to new nocturia of 2-3 times a 
+night over the last three weeks.  He also has been complaining of 
+diarrhea two or three times a week over the last two to three weeks, 
+which is watery in nature without any blood.  He has no nausea or 
+vomiting or any fever, and he has never had problems with diarrhea like 
+this in the past.  His past medical history is otherwise benign.  
+ 
+Habits:  He does have a history of cocaine abuse, and while he was free 
+basing about one year ago, he came into the emergency room with chest 
+pain and was told that this was secondary to lack of oxygen to his heart 
+from the cocaine, since which time he has been using cocaine much less 
+frequently.  He denies any tobacco use, and he drinks alcohol socially.  
+He is currently unemployed and lives with his mother.  He is sexually 
+active with one sexual partner and denies any other risk factors.
+ 
+Family History:  His family history is notable for a grandmother with 
+diabetes and hypertension, mother with heart disease and father with 
+history of breast CA, who is currently getting radiation therapy here.  
+His oldest brother died of street violence and his younger brother is 
+alive and well without any medical problems. 
+ 
+Physical Examination;  He is a mildly obese black male in no acute 
+distress with weight of 270 lbs.  Blood pressure 138/88 in the right arm 
+and 132/94 in the left arm.  Pulse regular at about 80.  HEENT was 
+notable for normal fundi without any evidence of diabetic retinopathy or 
+hypertensive retinopathy.  Oropharynx was clear.  He had no thyromegaly.  
+His chest was clear.  His breasts showed no masses or discharge, and his 
+                                              1-29-62
+ 
+ 
+ 
+heart sounds were normal.  His abdomen was obese, soft, nontender, 
+without any hepatosplenomegaly.  Genitalia: normal, with bilaterally 
+descended testes, and his rectal exam was normal tone with brown trace 
+heme positive stool.  Neurologic exam was intact. 
+ 
+Assessment and Plan:  
+ 
+1.   Non-insulin dependent diabetes with possible symptoms of increased 
+     sugar at this time.  Will check a fasting blood sugar tomorrow 
+     morning as well as a hemoglobin A1C, and may increase his Diabeta 
+     to 10 mg. q.d.  He will be referred to a nutritionist for diet 
+     control as well.  
+2.   Hypertension: borderline hypertension at this time off meds.  I 
+     will recheck his blood pressure in a week to two weeks, and if it 
+     is still borderline at that time, will follow only with a low-salt 
+     diet.  
+3.   Trace heme positive stool: may be from his diarrhea.  I will get a 
+     stool culture and O&P since the diarrhea is persistent for two to 
+     three weeks, and follow it at this time.
+4.   Patient requesting HIV test: and HIV counseling was given at this 
+     point, and a test will be drawn, and I will give him the result 
+     when it is back, though I feel that he is very low risk at this 
+     time.  
+ 
+ 
+_________________________
+Cadence Barton, M.D. 
+ 
+FL:RP:2786
+DD:1-29-62
+DT:1-30-62
+DV:1-29-62
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <OBESE id="DOC3" time="after DCT" indicator="mention">
+      <OBESE id="O0" start="2676" end="2681" text="obese" time="after DCT" indicator="mention" comment=""/>
+      <OBESE id="O1" start="2676" end="2681" text="obese" time="after DCT" indicator="mention" comment=""/>
+    </OBESE>
+    <OBESE id="DOC7" time="during DCT" indicator="mention">
+      <OBESE id="O2" start="2676" end="2681" text="obese" time="during DCT" indicator="mention" comment=""/>
+      <OBESE id="O3" start="2676" end="2681" text="obese" time="during DCT" indicator="mention" comment=""/>
+      <OBESE id="O4" start="2676" end="2681" text="obese" time="during DCT" indicator="mention" comment=""/>
+    </OBESE>
+    <OBESE id="DOC13" time="before DCT" indicator="mention">
+      <OBESE id="O5" start="2676" end="2681" text="obese" time="before DCT" indicator="mention" comment=""/>
+      <OBESE id="O6" start="2676" end="2681" text="obese" time="before DCT" indicator="mention" comment=""/>
+    </OBESE>
+    <MEDICATION id="DOC2" time="after DCT" type1="sulfonylureas" type2="">
+      <MEDICATION id="M0" start="344" end="351" text="Diabeta" time="after DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M1" start="344" end="351" text="Diabeta" time="after DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M2" start="344" end="351" text="Diabeta" time="after DCT" type1="sulfonylureas" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC5" time="before DCT" type1="diuretic" type2="">
+      <MEDICATION id="M3" start="427" end="446" text="hydrochlorothiazide" time="before DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M4" start="427" end="446" text="hydrochlorothiazide" time="before DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M5" start="427" end="447" text="hydrochlorothiazide " time="before DCT" type1="diuretic" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC9" time="before DCT" type1="sulfonylureas" type2="">
+      <MEDICATION id="M6" start="344" end="351" text="Diabeta" time="before DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M7" start="344" end="351" text="Diabeta" time="before DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M8" start="344" end="351" text="Diabeta" time="before DCT" type1="sulfonylureas" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC10" time="during DCT" type1="sulfonylureas" type2="">
+      <MEDICATION id="M9" start="344" end="351" text="Diabeta" time="during DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M10" start="344" end="351" text="Diabeta" time="during DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M11" start="344" end="351" text="Diabeta" time="during DCT" type1="sulfonylureas" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC1" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="388" end="411" text="borderline hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="3731" end="3743" text="Hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H2" start="3745" end="3768" text="borderline hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H3" start="399" end="411" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H4" start="387" end="411" text=" borderline hypertension" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC6" time="during DCT" indicator="high bp">
+      <HYPERTENSION id="H5" start="2784" end="2806" text="132/94 in the left arm" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H6" start="2784" end="2790" text="132/94" time="during DCT" indicator="high bp" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC8" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H7" start="388" end="411" text="borderline hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H8" start="3731" end="3743" text="Hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H9" start="3745" end="3768" text="borderline hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H10" start="399" end="411" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H11" start="387" end="411" text=" borderline hypertension" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC12" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H12" start="388" end="411" text="borderline hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H13" start="3731" end="3743" text="Hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H14" start="3745" end="3768" text="borderline hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H15" start="399" end="411" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H16" start="387" end="411" text=" borderline hypertension" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <FAMILY_HIST id="DOC14" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC4" status="never">
+      <SMOKER id="S0" start="2107" end="2130" text=" denies any tobacco use" status="never" comment=""/>
+      <SMOKER id="S1" start="2108" end="2130" text="denies any tobacco use" status="never" comment=""/>
+    </SMOKER>
+    <DIABETES id="DOC0" time="before DCT" indicator="mention">
+      <DIABETES id="D0" start="276" end="307" text="non-insulin dependent  diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D1" start="3424" end="3454" text="Non-insulin dependent diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D2" start="276" end="307" text="non-insulin dependent  diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D3" start="299" end="307" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC11" time="during DCT" indicator="mention">
+      <DIABETES id="D4" start="276" end="307" text="non-insulin dependent  diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D5" start="3424" end="3454" text="Non-insulin dependent diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D6" start="276" end="307" text="non-insulin dependent  diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D7" start="299" end="307" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC15" time="after DCT" indicator="mention">
+      <DIABETES id="D8" start="276" end="307" text="non-insulin dependent  diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D9" start="3424" end="3454" text="Non-insulin dependent diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D10" start="276" end="307" text="non-insulin dependent  diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D11" start="299" end="307" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+  </TAGS>
+</root>

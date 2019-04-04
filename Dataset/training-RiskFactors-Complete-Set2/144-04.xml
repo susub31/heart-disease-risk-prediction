@@ -1,0 +1,384 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2133-08-02
+
+
+Stallworth Rehabilitation Hospital/Newport Bariatric Surgery Program
+ 
+Postop  Nutrition Assessment
+
+Patient:  Uriel Jones                                     DOB:   1/7/74                  
+Date:   
+8/2/33
+
+Surgeon:   Dr.  Black              Surgical date:    s/p gastric bypass 5/11/33 
+
+
+
+
+S:
+
+Hx:  Pt was seen by his request with his wife.  Pt is married and 3 children ages 27, 22, and 19.  Pt lives with wife and 2 children.  Pt work as Small Equipment Mechanic.     
+
+Reported diet stage:  4
+
+Adjustments:   tried soda
+
+Issues with current diet:   chix, hamburger
+
+Food intolerance:    soda in can
+
+Nausea     
+  
+      no   
+
+Vomiting   
+  
+
+    
+yes, x1 pace, occ, 
+with dry chix
+
+Diarrhea        
+    occ loose stools
+
+Constipation       occ needs more
+
+Hydration         
+  needs more
+
+Other:    
+
+24-hour dietary recall:
+
+B:        yogurt Yoplait with fruit and pb and some granola
+
+Sn:    
+
+L:       
+chix, BBQ small thigh and 2 wings, brown rice
+
+Sn:      oc carrots of fruit
+
+D:       
+1-2 eggs with shrimp and toast with marg and jelly
+
+Sn:      none
+
+Beverages:    G2 on walk, water, iced coffee with cream 
+
+Supplements:   
+most days walk, 3 miles
+
+
+
+O:
+
+Age:   59 y                               Sex:   male                            
+
+Ht: 
+5&#8217;7.5&#8221;                                   Wt:  
+255#                             
+
+BMI:   39.4
+
+Previous weight:           273# 6/20/33    /   295#  5/24/33        
+
+IBW: 138-168#              Excess Wt:  87-117#
+
+Preoperative weight: 333#  1/11/33            Cumulative Wt Change:  down 78#
+
+PMH:  
+edema, type 2 DM, OSA with CPAP, hypercholesterolemia, HTN, cardiac myopathy, OA in knees, open chole
+
+Medications:  lantus, humalog sliding scale, Coumadin
+
+Current meds 5/24/33:  CPAP, coumadin, ASA 81 mg, K citrate, furosemide, fluoxitine, cordarone, metoprolol, glucosamine and chondroitin, lisinopril, crestor, norvasc, pepcid
+
+Current meds 6/20/33:  off lantus, humalog, 
+
+Current meds 8/2/33:  
+CPAP, coumadin, ASA 81 mg, K citrate, furosemide, fluoxitine, cordarone, 
+metoprolol, d/c glucosamine and chondroitin, lisinopril, crestor, norvasc, pepcid
+
+Labs:  to be evaluated per surgeon, BS 110 am
+
+Prescribed diet:  stage  4
+
+Patient educational material used: Dietary Guidelines for Gastric Bypass, protein list
+
+                                                                                                            
+
+A:
+
+59 y.o. male  referred to nutrition followup for gastric bypass.
+
+
+
+Weight Assessment:  Pt weighs 255 lbs and is 68 inches tall with BMI of 39.4.     Obesity Class: 3
+
+
+
+Est. Energy Needs: 
+BMR 1940 kcal/day, ~2700-3000 cal/day for weight maintenance.
+
+
+
+Dietary Assessment:
+
+
+Pt presents with h/o edema, type 2 DM, OSA with CPAP, hypercholesterolemia, HTN, cardiac myopathy, OA in knees, open chole and morbid obesity s/p gastric bypass surgery x 3 months compliant with fluid, protein and vitamin and mineral supplementation recommendations
+
+Pt to cont on stage 4
+
+
+
+
+
+Issues discussed:
+
+x  Diet stage:    4              x  Protein intake:  60 grams/day                     x  Fluid intake: &gt;64 oz/day
+
+x  Multivitamin/mineral     x  Calcium w/Vit D:  1200-1500 mg calcium         Vitamin B12
+
+x  Slowly eating and drinking, small portion sized, healthful food choices
+
+x  Protein foods, food preparation methods
+
+x  meal planning
+
+
+
+P:
+
+Recommendations:
+
+
+Cont diet stage:  4
+
+Expected adherence:  good
+
+Goals:  &gt;64 ounces fluid/day, &gt;60 grams protein/day
+
+Cont Multivitamin/mineral daily, cont 1200-1500 
+mg calcium with added vitamin D daily 
+
+Use protein list as guide
+
+Increase food variety and consistency slowly
+
+Cont current activity, increase as able
+
+Call or email with any questions or problems
+
+
+
+
+
+RTC 3 months postop surg, RD
+
+
+
+Sonja Bauer, MS, RD, LDN
+
+8/2/33
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <HYPERLIPIDEMIA id="DOC9" time="during DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY0" start="1634" end="1654" text="hypercholesterolemia" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY1" start="1634" end="1654" text="hypercholesterolemia" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY2" start="2768" end="2788" text="hypercholesterolemia" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY3" start="1634" end="1654" text="hypercholesterolemia" time="during DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <HYPERLIPIDEMIA id="DOC21" time="after DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY4" start="1634" end="1654" text="hypercholesterolemia" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY5" start="1634" end="1654" text="hypercholesterolemia" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY6" start="2768" end="2788" text="hypercholesterolemia" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY7" start="1634" end="1654" text="hypercholesterolemia" time="after DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <HYPERLIPIDEMIA id="DOC24" time="before DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY8" start="1634" end="1654" text="hypercholesterolemia" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY9" start="1634" end="1654" text="hypercholesterolemia" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY10" start="2768" end="2788" text="hypercholesterolemia" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY11" start="1634" end="1654" text="hypercholesterolemia" time="before DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <OBESE id="DOC3" time="after DCT" indicator="mention">
+      <OBESE id="O0" start="2587" end="2603" text="Obesity Class: 3" time="after DCT" indicator="mention" comment=""/>
+      <OBESE id="O1" start="2841" end="2855" text="morbid obesity" time="after DCT" indicator="mention" comment=""/>
+      <OBESE id="O2" start="2585" end="2604" text="  Obesity Class: 3 " time="after DCT" indicator="mention" comment=""/>
+    </OBESE>
+    <OBESE id="DOC19" time="before DCT" indicator="mention">
+      <OBESE id="O3" start="2587" end="2603" text="Obesity Class: 3" time="before DCT" indicator="mention" comment=""/>
+      <OBESE id="O4" start="2841" end="2855" text="morbid obesity" time="before DCT" indicator="mention" comment=""/>
+      <OBESE id="O5" start="2585" end="2604" text="  Obesity Class: 3 " time="before DCT" indicator="mention" comment=""/>
+    </OBESE>
+    <OBESE id="DOC25" time="during DCT" indicator="mention">
+      <OBESE id="O6" start="2587" end="2603" text="Obesity Class: 3" time="during DCT" indicator="mention" comment=""/>
+      <OBESE id="O7" start="2841" end="2855" text="morbid obesity" time="during DCT" indicator="mention" comment=""/>
+      <OBESE id="O8" start="2585" end="2604" text="  Obesity Class: 3 " time="during DCT" indicator="mention" comment=""/>
+    </OBESE>
+    <OBESE id="DOC30" time="during DCT" indicator="BMI">
+      <OBESE id="O9" start="1384" end="1395" text="BMI:   39.4" time="during DCT" indicator="BMI" comment=""/>
+      <OBESE id="O10" start="1384" end="1395" text="BMI:   39.4" time="during DCT" indicator="BMI" comment=""/>
+      <OBESE id="O11" start="2570" end="2584" text="BMI of 39.4.  " time="during DCT" indicator="BMI" comment=""/>
+      <OBESE id="O12" start="2570" end="2582" text="BMI of 39.4." time="during DCT" indicator="BMI" comment=""/>
+    </OBESE>
+    <MEDICATION id="DOC0" time="during DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M0" start="1896" end="1906" text="lisinopril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M1" start="1896" end="1906" text="lisinopril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M2" start="2122" end="2132" text="lisinopril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M3" start="1896" end="1906" text="lisinopril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC1" time="after DCT" type1="statin" type2="">
+      <MEDICATION id="M4" start="1908" end="1915" text="crestor" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M5" start="1908" end="1915" text="crestor" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M6" start="2134" end="2141" text="crestor" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M7" start="1908" end="1915" text="crestor" time="after DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC2" time="during DCT" type1="aspirin" type2="">
+      <MEDICATION id="M8" start="1798" end="1801" text="ASA" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M9" start="1798" end="1801" text="ASA" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M10" start="2019" end="2022" text="ASA" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M11" start="1798" end="1801" text="ASA" time="during DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC5" time="after DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M12" start="1896" end="1906" text="lisinopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M13" start="1896" end="1906" text="lisinopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M14" start="2122" end="2132" text="lisinopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M15" start="1896" end="1906" text="lisinopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC6" time="before DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M16" start="1896" end="1906" text="lisinopril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M17" start="1896" end="1906" text="lisinopril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M18" start="2122" end="2132" text="lisinopril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M19" start="1896" end="1906" text="lisinopril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC8" time="after DCT" type1="aspirin" type2="">
+      <MEDICATION id="M20" start="1798" end="1801" text="ASA" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M21" start="1798" end="1801" text="ASA" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M22" start="2019" end="2022" text="ASA" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M23" start="1798" end="1801" text="ASA" time="after DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC10" time="during DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M24" start="1917" end="1924" text="norvasc" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M25" start="1917" end="1924" text="norvasc" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M26" start="2143" end="2150" text="norvasc" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M27" start="1917" end="1924" text="norvasc" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC11" time="after DCT" type1="insulin" type2="">
+      <MEDICATION id="M28" start="1717" end="1724" text=" lantus" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M29" start="1718" end="1747" text="lantus, humalog sliding scale" time="after DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC12" time="before DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M30" start="1917" end="1924" text="norvasc" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M31" start="1917" end="1924" text="norvasc" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M32" start="2143" end="2150" text="norvasc" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M33" start="1917" end="1924" text="norvasc" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC14" time="after DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M34" start="1855" end="1865" text="metoprolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M35" start="1855" end="1865" text="metoprolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M36" start="2077" end="2087" text="metoprolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M37" start="1855" end="1865" text="metoprolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC17" time="before DCT" type1="statin" type2="">
+      <MEDICATION id="M38" start="1908" end="1915" text="crestor" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M39" start="1908" end="1915" text="crestor" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M40" start="2134" end="2141" text="crestor" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M41" start="1908" end="1915" text="crestor" time="before DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC18" time="during DCT" type1="statin" type2="">
+      <MEDICATION id="M42" start="1908" end="1915" text="crestor" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M43" start="1908" end="1915" text="crestor" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M44" start="2134" end="2141" text="crestor" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M45" start="1908" end="1915" text="crestor" time="during DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC22" time="before DCT" type1="aspirin" type2="">
+      <MEDICATION id="M46" start="1798" end="1801" text="ASA" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M47" start="1798" end="1801" text="ASA" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M48" start="2019" end="2022" text="ASA" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M49" start="1798" end="1801" text="ASA" time="before DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC23" time="before DCT" type1="insulin" type2="">
+      <MEDICATION id="M50" start="1717" end="1724" text=" lantus" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M51" start="1961" end="1978" text="lantus, humalog, " time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M52" start="1718" end="1747" text="lantus, humalog sliding scale" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M53" start="1957" end="1976" text="off lantus, humalog" time="before DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC26" time="after DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M54" start="1917" end="1924" text="norvasc" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M55" start="1917" end="1924" text="norvasc" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M56" start="2143" end="2150" text="norvasc" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M57" start="1917" end="1924" text="norvasc" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC28" time="during DCT" type1="insulin" type2="">
+      <MEDICATION id="M58" start="1717" end="1724" text=" lantus" time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M59" start="1718" end="1747" text="lantus, humalog sliding scale" time="during DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC29" time="before DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M60" start="1855" end="1865" text="metoprolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M61" start="1855" end="1865" text="metoprolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M62" start="2077" end="2087" text="metoprolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M63" start="1855" end="1865" text="metoprolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC31" time="during DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M64" start="1855" end="1865" text="metoprolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M65" start="1855" end="1865" text="metoprolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M66" start="2077" end="2087" text="metoprolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M67" start="1855" end="1865" text="metoprolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC4" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="1656" end="1659" text="HTN" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="1656" end="1659" text="HTN" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H2" start="2790" end="2793" text="HTN" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H3" start="1656" end="1659" text="HTN" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC13" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H4" start="1656" end="1659" text="HTN" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H5" start="1656" end="1659" text="HTN" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H6" start="2790" end="2793" text="HTN" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H7" start="1656" end="1659" text="HTN" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC27" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H8" start="1656" end="1659" text="HTN" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H9" start="1656" end="1659" text="HTN" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H10" start="2790" end="2793" text="HTN" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H11" start="1656" end="1659" text="HTN" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <FAMILY_HIST id="DOC20" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC15" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" status="unknown"/>
+      <SMOKER id="S2" status="unknown"/>
+    </SMOKER>
+    <DIABETES id="DOC7" time="during DCT" indicator="mention">
+      <DIABETES id="D0" start="1615" end="1617" text="DM" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D1" start="1608" end="1618" text="type 2 DM," time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D2" start="2742" end="2752" text="type 2 DM," time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D3" start="1615" end="1617" text="DM" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC16" time="before DCT" indicator="mention">
+      <DIABETES id="D4" start="1615" end="1617" text="DM" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D5" start="1608" end="1618" text="type 2 DM," time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D6" start="2742" end="2752" text="type 2 DM," time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D7" start="1615" end="1617" text="DM" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC32" time="after DCT" indicator="mention">
+      <DIABETES id="D8" start="1615" end="1617" text="DM" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D9" start="1608" end="1618" text="type 2 DM," time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D10" start="2742" end="2752" text="type 2 DM," time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D11" start="1615" end="1617" text="DM" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+  </TAGS>
+</root>

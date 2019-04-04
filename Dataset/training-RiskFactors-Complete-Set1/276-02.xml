@@ -1,0 +1,224 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2060-07-28
+
+
+
+
+GIPSON, ALEC
+32707420
+07/28/2060
+
+
+Vernon Lozano, M.D.
+CV Division, Ireton Medical Clinic
+91 Neptune Lane
+Abilene, FL  81494
+
+Dear Vernon,
+
+I write to summarize for your records the recent IMC course of your patient, Dr. Alec Gipson, who was admitted to our cardiology service on 07/25/2060 with progressive angina and a small, non-ST elevation MI.  His cardiac troponin rose to 0.13.  There were no demonstrable ECG changes, though we queried the possibility of a left circumflex event.  He had been previously scheduled for semi-urgent catheterization and angiography on 07/26/2060.
+
+His condition stabilized with institution of anti-thrombotic and anti-ischemic therapy.  He was taken to the catheterization laboratory by Dr. Otero on 07/26/2060.  Angiography demonstrated a high-grade lesion in the proximal portion of a large first diagonal branch, as well as a significant stenosis in the first obtuse marginal branch.  The diagonal lesion was managed with angioplasty and deployment of a drug-eluting stent.  A drug-eluting stent could not be delivered to the obtuse marginal lesion; a bare-metal stent was positioned without difficulty.  He did have smoldering chest discomfort of an anginal nature following the procedure.  The cardiac troponin elevated further to a peak value of 0.86 as of 07/27/2060 (08:54).  He also had a mild, vagal reaction characterized by flushing and transient bradycardia.
+
+He felt much improved the following day.  A repeat cardiac troponin returned at a lower level of 0.75.  An abdominal ultrasound showed no evidence of an AAA.  After consultation with you, we felt that he could return home, under the care of his wife.
+
+He was discharged on the afternoon of 07/27/2060.  His medications included Ecotrin 325 mg daily, clopidogrel 75 mg daily, losartan 100 mg daily, metformin 500 mg b.i.d., Toprol-XL 50 mg b.i.d., niacin 500 mg b.i.d., ramipril 2.5 mg daily, and nitroglycerin if needed.
+
+Please let me know if I can provide you with any further information.
+
+Sincerely yours,
+
+
+______________________________
+Victor Quijano, M.D.
+
+
+
+
+
+eScription document:6-5332849 DFFocus
+
+
+
+DD: 07/28/60
+DT: 07/29/60
+DV: 07/28/60
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="during DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M0" start="1911" end="1920" text="ramipril " time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M1" start="1911" end="1919" text="ramipril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M2" start="1911" end="1919" text="ramipril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC1" time="before DCT" type1="niacin" type2="">
+      <MEDICATION id="M3" start="1889" end="1896" text="niacin " time="before DCT" type1="niacin" type2="" comment=""/>
+      <MEDICATION id="M4" start="1889" end="1895" text="niacin" time="before DCT" type1="niacin" type2="" comment=""/>
+      <MEDICATION id="M5" start="1888" end="1895" text=" niacin" time="before DCT" type1="niacin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC2" time="during DCT" type1="aspirin" type2="">
+      <MEDICATION id="M6" start="1770" end="1777" text="Ecotrin" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M7" start="1770" end="1777" text="Ecotrin" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M8" start="1770" end="1777" text="Ecotrin" time="during DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC3" time="during DCT" type1="thienopyridine" type2="">
+      <MEDICATION id="M9" start="1792" end="1803" text="clopidogrel" time="during DCT" type1="thienopyridine" type2="" comment=""/>
+      <MEDICATION id="M10" start="1792" end="1803" text="clopidogrel" time="during DCT" type1="thienopyridine" type2="" comment=""/>
+      <MEDICATION id="M11" start="1792" end="1803" text="clopidogrel" time="during DCT" type1="thienopyridine" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC4" time="after DCT" type1="metformin" type2="">
+      <MEDICATION id="M12" start="1840" end="1849" text="metformin" time="after DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M13" start="1840" end="1849" text="metformin" time="after DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M14" start="1840" end="1850" text="metformin " time="after DCT" type1="metformin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC5" time="during DCT" type1="metformin" type2="">
+      <MEDICATION id="M15" start="1840" end="1849" text="metformin" time="during DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M16" start="1840" end="1849" text="metformin" time="during DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M17" start="1840" end="1850" text="metformin " time="during DCT" type1="metformin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC6" time="after DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M18" start="1911" end="1920" text="ramipril " time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M19" start="1911" end="1919" text="ramipril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M20" start="1911" end="1919" text="ramipril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC7" time="during DCT" type1="niacin" type2="">
+      <MEDICATION id="M21" start="1889" end="1896" text="niacin " time="during DCT" type1="niacin" type2="" comment=""/>
+      <MEDICATION id="M22" start="1889" end="1895" text="niacin" time="during DCT" type1="niacin" type2="" comment=""/>
+      <MEDICATION id="M23" start="1888" end="1895" text=" niacin" time="during DCT" type1="niacin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC8" time="after DCT" type1="aspirin" type2="">
+      <MEDICATION id="M24" start="1770" end="1777" text="Ecotrin" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M25" start="1770" end="1777" text="Ecotrin" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M26" start="1770" end="1777" text="Ecotrin" time="after DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC9" time="after DCT" type1="nitrate" type2="">
+      <MEDICATION id="M27" start="1938" end="1951" text="nitroglycerin" time="after DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M28" start="1938" end="1951" text="nitroglycerin" time="after DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M29" start="1938" end="1951" text="nitroglycerin" time="after DCT" type1="nitrate" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC10" time="during DCT" type1="nitrate" type2="">
+      <MEDICATION id="M30" start="1938" end="1951" text="nitroglycerin" time="during DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M31" start="1938" end="1951" text="nitroglycerin" time="during DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M32" start="1938" end="1951" text="nitroglycerin" time="during DCT" type1="nitrate" type2="" comment=""/>
+    </MEDICATION>
+    <CAD id="DOC11" time="before DCT" indicator="test">
+      <CAD id="C0" start="782" end="954" text="Angiography demonstrated a high-grade lesion in the proximal portion of a large first diagonal branch, as well as a significant stenosis in the first obtuse marginal branch" time="before DCT" indicator="test" comment=""/>
+      <CAD id="C1" start="385" end="414" text="cardiac troponin rose to 0.13" time="before DCT" indicator="test" comment=""/>
+    </CAD>
+    <MEDICATION id="DOC12" time="after DCT" type1="thienopyridine" type2="">
+      <MEDICATION id="M33" start="1792" end="1803" text="clopidogrel" time="after DCT" type1="thienopyridine" type2="" comment=""/>
+      <MEDICATION id="M34" start="1792" end="1803" text="clopidogrel" time="after DCT" type1="thienopyridine" type2="" comment=""/>
+      <MEDICATION id="M35" start="1792" end="1803" text="clopidogrel" time="after DCT" type1="thienopyridine" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC13" time="after DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M36" start="1865" end="1874" text="Toprol-XL" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M37" start="1865" end="1874" text="Toprol-XL" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M38" start="1865" end="1871" text="Toprol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <SMOKER id="DOC14" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" status="unknown"/>
+      <SMOKER id="S2" start="3" end="9" text="Record" status="unknown" comment=""/>
+    </SMOKER>
+    <MEDICATION id="DOC15" time="after DCT" type1="ARB" type2="">
+      <MEDICATION id="M39" start="1817" end="1825" text="losartan" time="after DCT" type1="ARB" type2="" comment=""/>
+      <MEDICATION id="M40" start="1817" end="1825" text="losartan" time="after DCT" type1="ARB" type2="" comment=""/>
+      <MEDICATION id="M41" start="1817" end="1825" text="losartan" time="after DCT" type1="ARB" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC16" time="after DCT" type1="niacin" type2="">
+      <MEDICATION id="M42" start="1889" end="1896" text="niacin " time="after DCT" type1="niacin" type2="" comment=""/>
+      <MEDICATION id="M43" start="1889" end="1895" text="niacin" time="after DCT" type1="niacin" type2="" comment=""/>
+      <MEDICATION id="M44" start="1888" end="1895" text=" niacin" time="after DCT" type1="niacin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC17" time="before DCT" type1="metformin" type2="">
+      <MEDICATION id="M45" start="1840" end="1849" text="metformin" time="before DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M46" start="1840" end="1849" text="metformin" time="before DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M47" start="1840" end="1850" text="metformin " time="before DCT" type1="metformin" type2="" comment=""/>
+    </MEDICATION>
+    <FAMILY_HIST id="DOC18" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <MEDICATION id="DOC19" time="before DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M48" start="1911" end="1920" text="ramipril " time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M49" start="1911" end="1919" text="ramipril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M50" start="1911" end="1919" text="ramipril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC20" time="before DCT" type1="aspirin" type2="">
+      <MEDICATION id="M51" start="1770" end="1777" text="Ecotrin" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M52" start="1770" end="1777" text="Ecotrin" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M53" start="1770" end="1777" text="Ecotrin" time="before DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC21" time="before DCT" type1="nitrate" type2="">
+      <MEDICATION id="M54" start="1938" end="1951" text="nitroglycerin" time="before DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M55" start="1938" end="1951" text="nitroglycerin" time="before DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M56" start="1938" end="1951" text="nitroglycerin" time="before DCT" type1="nitrate" type2="" comment=""/>
+    </MEDICATION>
+    <CAD id="DOC22" time="before DCT" indicator="event">
+      <CAD id="C2" start="352" end="377" text="small, non-ST elevation M" time="before DCT" indicator="event" comment=""/>
+      <CAD id="C3" start="994" end="1174" text="angioplasty and deployment of a drug-eluting stent.  A drug-eluting stent could not be delivered to the obtuse marginal lesion; a bare-metal stent was positioned without difficulty" time="before DCT" indicator="event" comment=""/>
+      <CAD id="C4" start="352" end="378" text="small, non-ST elevation MI" time="before DCT" indicator="event" comment=""/>
+      <CAD id="C5" start="1039" end="1044" text="stent" time="before DCT" indicator="event" comment=""/>
+    </CAD>
+    <CAD id="DOC23" time="before DCT" indicator="symptom">
+      <CAD id="C6" start="327" end="345" text="progressive angina" time="before DCT" indicator="symptom" comment=""/>
+      <CAD id="C7" start="327" end="345" text="progressive angina" time="before DCT" indicator="symptom" comment=""/>
+    </CAD>
+    <MEDICATION id="DOC24" time="before DCT" type1="thienopyridine" type2="">
+      <MEDICATION id="M57" start="1792" end="1803" text="clopidogrel" time="before DCT" type1="thienopyridine" type2="" comment=""/>
+      <MEDICATION id="M58" start="1792" end="1803" text="clopidogrel" time="before DCT" type1="thienopyridine" type2="" comment=""/>
+      <MEDICATION id="M59" start="1792" end="1803" text="clopidogrel" time="before DCT" type1="thienopyridine" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC25" time="before DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M60" start="1865" end="1874" text="Toprol-XL" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M61" start="1865" end="1874" text="Toprol-XL" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M62" start="1865" end="1871" text="Toprol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC26" time="during DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M63" start="1865" end="1874" text="Toprol-XL" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M64" start="1865" end="1874" text="Toprol-XL" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M65" start="1865" end="1871" text="Toprol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC27" time="during DCT" type1="ARB" type2="">
+      <MEDICATION id="M66" start="1817" end="1825" text="losartan" time="during DCT" type1="ARB" type2="" comment=""/>
+      <MEDICATION id="M67" start="1817" end="1825" text="losartan" time="during DCT" type1="ARB" type2="" comment=""/>
+      <MEDICATION id="M68" start="1817" end="1825" text="losartan" time="during DCT" type1="ARB" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC28" time="before DCT" type1="ARB" type2="">
+      <MEDICATION id="M69" start="1817" end="1825" text="losartan" time="before DCT" type1="ARB" type2="" comment=""/>
+      <MEDICATION id="M70" start="1817" end="1825" text="losartan" time="before DCT" type1="ARB" type2="" comment=""/>
+      <MEDICATION id="M71" start="1817" end="1825" text="losartan" time="before DCT" type1="ARB" type2="" comment=""/>
+    </MEDICATION>
+    <PHI id="P0" start="16" end="26" text="2060-07-28" TYPE="DATE"/>
+    <PHI id="P1" start="31" end="43" text="GIPSON, ALEC" TYPE="PATIENT"/>
+    <PHI id="P2" start="44" end="52" text="32707420" TYPE="MEDICALRECORD"/>
+    <PHI id="P3" start="53" end="63" text="07/28/2060" TYPE="DATE"/>
+    <PHI id="P4" start="66" end="79" text="Vernon Lozano" TYPE="DOCTOR"/>
+    <PHI id="P5" start="99" end="120" text="Ireton Medical Clinic" TYPE="HOSPITAL"/>
+    <PHI id="P6" start="121" end="136" text="91 Neptune Lane" TYPE="STREET"/>
+    <PHI id="P7" start="137" end="144" text="Abilene" TYPE="CITY"/>
+    <PHI id="P8" start="146" end="148" text="FL" TYPE="STATE"/>
+    <PHI id="P9" start="150" end="155" text="81494" TYPE="ZIP"/>
+    <PHI id="P10" start="162" end="168" text="Vernon" TYPE="DOCTOR"/>
+    <PHI id="P11" start="220" end="223" text="IMC" TYPE="HOSPITAL"/>
+    <PHI id="P12" start="252" end="263" text="Alec Gipson" TYPE="PATIENT"/>
+    <PHI id="P13" start="311" end="321" text="07/25/2060" TYPE="DATE"/>
+    <PHI id="P14" start="604" end="614" text="07/26/2060" TYPE="DATE"/>
+    <PHI id="P15" start="760" end="765" text="Otero" TYPE="DOCTOR"/>
+    <PHI id="P16" start="769" end="779" text="07/26/2060" TYPE="DATE"/>
+    <PHI id="P17" start="1332" end="1342" text="07/27/2060" TYPE="DATE"/>
+    <PHI id="P18" start="1732" end="1742" text="07/27/2060" TYPE="DATE"/>
+    <PHI id="P19" start="2085" end="2099" text="Victor Quijano" TYPE="DOCTOR"/>
+    <PHI id="P20" start="2131" end="2140" text="6-5332849" TYPE="IDNUM"/>
+    <PHI id="P21" start="2156" end="2164" text="07/28/60" TYPE="DATE"/>
+    <PHI id="P22" start="2169" end="2177" text="07/29/60" TYPE="DATE"/>
+    <PHI id="P23" start="2182" end="2190" text="07/28/60" TYPE="DATE"/>
+  </TAGS>
+</root>

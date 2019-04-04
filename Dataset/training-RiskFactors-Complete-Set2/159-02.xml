@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2087-10-19
+
+LOVELAND INTERNAL MEDICINE ASSOCIATES          Youngman, Cody
+                                              06386371
+                                              10-19-87
+ 
+ 
+ 
+HPI:  Ms. Youngman is a 30-year-old woman with diabetes who comes in for a 
+regular follow-up.
+ 
+Assessment and Plan:
+1.   Diabetes.  She said she has been doing well, sticking to her diet, 
+     has had no hypoglycemic episodes, and that her fingersticks have been 
+     ranging between 120 and 160, never above and never below.  This is 
+     borne out by her last hemoglobin A1C on 6-04-87 which was 4.9.  She 
+     definitely does have good control, and she is working hard as her weight 
+     is down to 236 lb from 238.75 on 6-29-87.  She had a recent hemoglobin A1C 
+     and urine dip.  She, however, is due for an eye exam as she has no had one 
+     for over a year and is willing to go, so I referred her.  She also needs 
+     to see a Podiatrist as she has not seen one; she will go.
+ 
+2.   Health maintenance.  Patient does not want a flu shot.  Otherwise, 
+     she is up to date except for a Pap smear, but she had her daughter 
+     with her so asked if she could have her Pap smear on her next visit.  
+     We will do so.
+ 
+3.   Migraine headaches.  She said she has had one every day recently.  
+     This is worse than her usual.  The Motrin was not helping.  I 
+     therefore prescribed Midrin and explained to her expressly how to 
+     use.  Should this not help, she will page me as she knows how to do.  
+     I will see her back soon to make sure this is getting better.
+ 
+4.   Ankle pain.  Patient has chronic ankle pain.  She went to an 
+     Orthopedist who told her a while back to lose weight and see if it 
+     got better.  She has been slowly losing weight with no improvement 
+     and would like to go back to the Orthopedist.  I therefore referred 
+     her at her request.
+ 
+ 
+ 
+_________________________
+Xitlali Crane, M.D. 
+ 
+FS:XI:4842
+DD:10-19-87
+DT:10-20-87
+DV:10-19-87
+ ******** Approved but not reviewed by Attending Provider ********
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <FAMILY_HIST id="DOC2" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC3" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" start="3" end="10" text="Record " status="unknown" comment=""/>
+      <SMOKER id="S2" status="unknown"/>
+    </SMOKER>
+    <DIABETES id="DOC0" time="before DCT" indicator="mention">
+      <DIABETES id="D0" start="253" end="261" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D1" start="329" end="337" text="Diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D2" start="253" end="261" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC1" time="during DCT" indicator="mention">
+      <DIABETES id="D3" start="253" end="261" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D4" start="329" end="337" text="Diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D5" start="253" end="261" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC4" time="after DCT" indicator="mention">
+      <DIABETES id="D6" start="253" end="261" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D7" start="329" end="337" text="Diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D8" start="253" end="261" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+  </TAGS>
+</root>

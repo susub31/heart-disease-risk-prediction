@@ -1,0 +1,250 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2066-05-09
+
+
+EDUCARE-FARGO INPATIENT DIALYSIS ADMIT NOTE
+
+
+
+Admitting Service: Renal
+Admitting/Referring MD: Oliver Napier 
+Outpatient Dialysis Unit: CMHuck FAT
+Estimated dry weight: 110 kg ?
+Dialysis access:  LAVG
+ 
+Reason for admission:N/V/D
+ 
+HPI: 45 yo M with ESRD on HD, diabetes, bilateral TMA, legally blind, admitted for N/V/D x 1 day prior to admission.  The patient reports having beef burgers that may have been the cause of his GI upset.  All sx resolved after being NPO w/ so IVF overnight, no more diarrhea.  Denies F/C/SOB/CP, had occ abd pain which resolved. Starting to advance his diet slowly this am.  Last dialysis was on Friday.
+
+
+Past Medical History: 
+ESRD on HD x 2yrs
+Type 1 DM since age 25 - +legally blind, PVD, nephropathy
+bilateral TMA
+
+
+Vascular access history: L AVG, tunneled catheter before that
+ 
+Allergies: NKDA
+Medications: (per report, can not confirm w/ pt as he does not know them) Celexa 40mg daily, Zelnorm 6mg bid, ASA 81mg daily, Lipitor 20mg qhs, Phoslo 1334mg qac, Gemfibrozil 300mg bid, Insulin, Lisinopril 40mg daily, Reglan, Toprol XL 50mg daily, Nephrocaps, Omeprazole 20mg daily, Senna, Renagel 1600mg qac, Sensipar 30mg daily
+
+
+
+
+Social History:  neg tob, neg EtOH, lives w/ elderly diabetic mother, poor social supports
+ 
+Family History: Mother also with diabetes/debilitated 
+
+
+PHYSICAL EXAM
+
+Weight: 113 kg
+Temp: 96.8
+BP: 200/90
+HR: 95
+ 
+Gen: Pleasant male in NAD
+HEENT: O&amp;P clear and moist
+Neck: supple, no LAD, JVP 10cm
+Lungs: CTA b/l
+Cor: regular, s1s2, no m/r/g
+Abd: soft, NTND, no HSM
+Ext: no edema in LE b/l, bilateral TMAs.
+Vascular access: site clean and without inflammation, systolic and diastolic bruit present
+ 
+
+LABS:
+
+
+pending this am
+
+
+ASSESSMENT AND PLAN:
+
+45 yo M with ESRD from DM, now admitted for GI upset, resolved.
+
+
+1. Reason for admission: N/V/D, resolved, the pt is now hungry and wants to advance his diet, so this illness truly seems to be self-limited, would advance diet slowly, diabetic renal diet please.
+
+
+
+2. Dialysis Adequacy: tbd
+
+
+3. BP: Suspect that this is a combination of held medication this am (and poor complainace? he does not know his meds) and volume overload.  UF 3-4L at HD today.
+
+
+4. Anemia management: Hgb below goal, on epogen.
+
+
+5. Mineral metabolism (Ca/Phos/PTH): continuing zemplar, phos binders, check phos today.
+
+
+6. Nutrition: On nephrocaps, needs low K/phos diabetic diet.
+
+
+7. Vascular access: AVG functioning well.
+ 
+8. Dialysis prescription: 4.5 h, F200, 400/800, 2K, 2.5Ca, 5L UF, 5000Units heparin.
+ 
+ 
+Dr. Napier to staff shortly.
+ 
+ 
+ 
+ 
+
+
+------------------------
+Olivia France, M.D.
+Renal fellow
+pager 69637
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="during DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M0" start="1058" end="1079" text="Lisinopril 40mg daily" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M1" start="1058" end="1068" text="Lisinopril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M2" start="1058" end="1069" text="Lisinopril " time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC1" time="after DCT" type1="statin" type2="">
+      <MEDICATION id="M3" start="989" end="1005" text="Lipitor 20mg qhs" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M4" start="989" end="996" text="Lipitor" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M5" start="989" end="996" text="Lipitor" time="after DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC2" time="during DCT" type1="aspirin" type2="">
+      <MEDICATION id="M6" start="973" end="987" text="ASA 81mg daily" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M7" start="973" end="976" text="ASA" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M8" start="973" end="976" text="ASA" time="during DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC3" time="after DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M9" start="1058" end="1079" text="Lisinopril 40mg daily" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M10" start="1058" end="1068" text="Lisinopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M11" start="1058" end="1069" text="Lisinopril " time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <DIABETES id="DOC4" time="during DCT" indicator="mention">
+      <DIABETES id="D0" start="292" end="300" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D1" start="709" end="718" text="Type 1 DM" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D2" start="292" end="300" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D3" start="292" end="300" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <MEDICATION id="DOC5" time="after DCT" type1="aspirin" type2="">
+      <MEDICATION id="M12" start="973" end="987" text="ASA 81mg daily" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M13" start="973" end="976" text="ASA" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M14" start="973" end="976" text="ASA" time="after DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC6" time="after DCT" type1="insulin" type2="">
+      <MEDICATION id="M15" start="1049" end="1056" text="Insulin" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M16" start="1049" end="1056" text="Insulin" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M17" start="1049" end="1056" text="Insulin" time="after DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC7" time="during DCT" indicator="high bp">
+      <HYPERTENSION id="H0" start="1388" end="1398" text="BP: 200/90" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H1" start="1388" end="1398" text="BP: 200/90" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H2" start="1388" end="1398" text="BP: 200/90" time="during DCT" indicator="high bp" comment=""/>
+    </HYPERTENSION>
+    <MEDICATION id="DOC8" time="after DCT" type1="fibrate" type2="">
+      <MEDICATION id="M18" start="1026" end="1047" text="Gemfibrozil 300mg bid" time="after DCT" type1="fibrate" type2="" comment=""/>
+      <MEDICATION id="M19" start="1026" end="1037" text="Gemfibrozil" time="after DCT" type1="fibrate" type2="" comment=""/>
+      <MEDICATION id="M20" start="1026" end="1037" text="Gemfibrozil" time="after DCT" type1="fibrate" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC9" time="after DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M21" start="1089" end="1109" text="Toprol XL 50mg daily" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M22" start="1089" end="1098" text="Toprol XL" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M23" start="1089" end="1095" text="Toprol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <DIABETES id="DOC10" time="before DCT" indicator="mention">
+      <DIABETES id="D4" start="292" end="300" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D5" start="709" end="718" text="Type 1 DM" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D6" start="292" end="300" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D7" start="292" end="300" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <MEDICATION id="DOC11" time="before DCT" type1="statin" type2="">
+      <MEDICATION id="M24" start="989" end="1005" text="Lipitor 20mg qhs" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M25" start="989" end="996" text="Lipitor" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M26" start="989" end="996" text="Lipitor" time="before DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC12" time="during DCT" type1="statin" type2="">
+      <MEDICATION id="M27" start="989" end="1005" text="Lipitor 20mg qhs" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M28" start="989" end="996" text="Lipitor" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M29" start="989" end="996" text="Lipitor" time="during DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC13" time="before DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M30" start="1089" end="1109" text="Toprol XL 50mg daily" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M31" start="1089" end="1098" text="Toprol XL" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M32" start="1089" end="1095" text="Toprol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC14" time="before DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M33" start="1058" end="1079" text="Lisinopril 40mg daily" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M34" start="1058" end="1068" text="Lisinopril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M35" start="1058" end="1069" text="Lisinopril " time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC15" time="before DCT" type1="aspirin" type2="">
+      <MEDICATION id="M36" start="973" end="987" text="ASA 81mg daily" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M37" start="973" end="976" text="ASA" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M38" start="973" end="976" text="ASA" time="before DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <SMOKER id="DOC16" status="never">
+      <SMOKER id="S0" start="1214" end="1221" text="neg tob" status="never" comment=""/>
+      <SMOKER id="S1" start="1214" end="1221" text="neg tob" status="never" comment=""/>
+      <SMOKER id="S2" start="1214" end="1221" text="neg tob" status="never" comment=""/>
+    </SMOKER>
+    <MEDICATION id="DOC17" time="during DCT" type1="fibrate" type2="">
+      <MEDICATION id="M39" start="1026" end="1047" text="Gemfibrozil 300mg bid" time="during DCT" type1="fibrate" type2="" comment=""/>
+      <MEDICATION id="M40" start="1026" end="1037" text="Gemfibrozil" time="during DCT" type1="fibrate" type2="" comment=""/>
+      <MEDICATION id="M41" start="1026" end="1037" text="Gemfibrozil" time="during DCT" type1="fibrate" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC18" time="before DCT" type1="insulin" type2="">
+      <MEDICATION id="M42" start="1049" end="1056" text="Insulin" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M43" start="1049" end="1056" text="Insulin" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M44" start="1049" end="1056" text="Insulin" time="before DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC19" time="before DCT" type1="fibrate" type2="">
+      <MEDICATION id="M45" start="1026" end="1047" text="Gemfibrozil 300mg bid" time="before DCT" type1="fibrate" type2="" comment=""/>
+      <MEDICATION id="M46" start="1026" end="1037" text="Gemfibrozil" time="before DCT" type1="fibrate" type2="" comment=""/>
+      <MEDICATION id="M47" start="1026" end="1037" text="Gemfibrozil" time="before DCT" type1="fibrate" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC20" time="during DCT" type1="insulin" type2="">
+      <MEDICATION id="M48" start="1049" end="1056" text="Insulin" time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M49" start="1049" end="1056" text="Insulin" time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M50" start="1049" end="1056" text="Insulin" time="during DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <FAMILY_HIST id="DOC21" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <MEDICATION id="DOC22" time="during DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M51" start="1089" end="1109" text="Toprol XL 50mg daily" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M52" start="1089" end="1098" text="Toprol XL" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M53" start="1089" end="1095" text="Toprol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <DIABETES id="DOC23" time="after DCT" indicator="mention">
+      <DIABETES id="D8" start="292" end="300" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D9" start="709" end="718" text="Type 1 DM" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D10" start="292" end="300" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D11" start="292" end="300" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <PHI id="P0" start="16" end="26" text="2066-05-09" TYPE="DATE"/>
+    <PHI id="P1" start="29" end="42" text="EDUCARE-FARGO" TYPE="HOSPITAL"/>
+    <PHI id="P2" start="125" end="138" text="Oliver Napier" TYPE="DOCTOR"/>
+    <PHI id="P3" start="166" end="169" text="CMH" TYPE="HOSPITAL"/>
+    <PHI id="P4" start="173" end="174" text="F" TYPE="DATE"/>
+    <PHI id="P5" start="174" end="175" text="A" TYPE="DATE"/>
+    <PHI id="P6" start="175" end="176" text="T" TYPE="DATE"/>
+    <PHI id="P7" start="267" end="269" text="45" TYPE="AGE"/>
+    <PHI id="P8" start="658" end="664" text="Friday" TYPE="DATE"/>
+    <PHI id="P9" start="729" end="731" text="25" TYPE="AGE"/>
+    <PHI id="P10" start="1747" end="1749" text="45" TYPE="AGE"/>
+    <PHI id="P11" start="2547" end="2553" text="Napier" TYPE="DOCTOR"/>
+    <PHI id="P12" start="2607" end="2620" text="Olivia France" TYPE="DOCTOR"/>
+    <PHI id="P13" start="2646" end="2651" text="69637" TYPE="PHONE"/>
+  </TAGS>
+</root>

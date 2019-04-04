@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2099-06-29
+
+
+
+Mr. Fredrick returns to clinic three years following right middle lobectomy for T1N0 carcinoid.  He is a 50-year-old man without symptomatic complaints.  He denies any stridor, wheezing, productive cough, shortness of breath, hemoptysis or fever.  He had a recent chest CT scan which was of concern to him.
+
+On physical exam today, the patient appears quite well.  HEENT examination shows no JVD or thyromegaly.  No supraclavicular, cervical or axillary adenopathy is noted.  His blood pressure today is 132/92, with a regular heart rate and rhythm of 86.  S1 and S2 are within normal limits; there is no murmur, rub or gallop.  His resting O2 saturation is 98% on room air, with a respiratory rate of 16 per minute.  His temperature is 98.6, and his weight is 228 pounds.  Chest examination reveals clear breath sounds bilaterally to percussion and auscultatory examination.  He has good chest wall excursion and no evidence of wheezing.  He does not have any egophony.  His abdomen is soft, nondistended and nontender, without hepatosplenomegaly; and his extremities show no evidence of edema, cyanosis or clubbing.  The surgical wound is well-healed.  There is no evidence of local recurrence.
+
+The chest CT scan shows two small nodules that do not appear to have significantly changed given the correction for volume averaging. The area of his previous resection shows no suggestion of recurrence.
+
+In summary, Mr. Fredrick has two small pulmonary abnormalities that are not particularly suggestive of recurrent disease.  I agree with Dr. Ordonez's plan to repeat the CT scan in four months.
+
+
+Larry T. Jansen, M.D.
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <HYPERTENSION id="DOC2" time="during DCT" indicator="high bp">
+      <HYPERTENSION id="H0" start="534" end="540" text="132/92" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H1" start="534" end="540" text="132/92" time="during DCT" indicator="high bp" comment=""/>
+    </HYPERTENSION>
+    <FAMILY_HIST id="DOC0" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC1" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" start="3" end="10" text="Record " status="unknown" comment=""/>
+      <SMOKER id="S2" status="unknown"/>
+    </SMOKER>
+  </TAGS>
+</root>

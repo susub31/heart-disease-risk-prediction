@@ -1,0 +1,315 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2092-05-16
+
+
+
+Correction Hospital Physician Group
+
+925 Tolles Street                                    HOOPER, PABLO
+
+Labelle, MI 97848                            90338035
+
+(055) 025-9878                                           05/16/92
+
+(908) 649-3317
+
+
+
+CHIEF COMPLAINT:  Follow-up laboratory testing.
+
+
+
+HISTORY OF PRESENT ILLNESS:  The patient is a 56-year-old white
+
+man who I have not seen since November of 2088.  Approximately
+
+four weeks ago, he started noting visual changes.  He saw colored
+
+spots floating in his visual field.  He has been noting some
+
+decreased depth perception and visual acuity.  At the same time,
+
+he has been getting throbbing unilateral headaches, which he
+
+believes were migraines.  He saw an ophthalmologist at Mediquik who told him that his eye exam was within normal limits.
+
+ He was then referred to Dr. Gill for neurologic evaluation. 
+
+Dr. Gill did not note any significant neurologic deficits. 
+
+However, during his workup, he did check a hemoglobin A1c, which
+
+came back at 10.2.  Of note, the last time I saw the patient, I
+
+had sent him a letter stating that his glucose was slightly
+
+elevated and asking him to return for a fasting glucose.  He
+
+never returned for that testing.
+
+
+
+PAST MEDICAL HISTORY: Hypertension, hypercholesterolemia,
+
+obesity, and gout.
+
+
+
+MEDICATIONS:  HCTZ 50 mg p.o. q.d.,  Atenolol 50 mg p.o. b.i.d.,
+
+allopurinol 300 mg p.o. q.d.
+
+
+
+ALLERGIES:  No known drug allergies.
+
+
+
+FAMILY HISTORY:  Negative for diabetes but positive for kidney
+
+failure.  This is thought to be due to glomerulonephritis.
+
+
+
+SOCIAL HISTORY:  He is a Graphic Arts Technician in Oconto.  He is
+
+currently on a leave of absence from work.  He is a nonsmoker.
+
+
+
+REVIEW OF SYSTEMS:  He believes that he has lost some weight over
+
+the past four weeks but cannot quantify the amount.  He has been
+
+noting anxiety symptoms, increased urinary frequency, and
+
+nocturia.  Otherwise, constitutional, HEENT, cardiac,
+
+respiratory, GI, GU, musculoskeletal, neurologic, and
+
+dermatologic are negative.
+
+
+
+PHYSICAL EXAMINATION:  In general, he is a pleasant obese white
+
+man in no acute distress.  Vitals: Blood pressure 134/90, pulse
+
+66 and regular, and weight 249 pounds.  HEENT:  PERRL, EOMI,
+
+anicteric sclerae.  Clear oropharynx with dry mucous membranes. 
+
+Neck is supple with no lymphadenopathy, no thyromegaly.  Chest: 
+
+CTA&P bilaterally.  Heart: RRR, no MRG.  Abdomen:  Obese, soft,
+
+NT/ND, NABS, no HSM.  Extremities:  No CCE.  Neuro:  A&O x 3, 2+
+
+DTRs bilaterally.
+
+
+
+LABORATORY DATA: EKG shows normal sinus rhythm at 73 beats per
+
+minute, normal axis and intervals, no ST-T-wave changes.
+
+
+
+ASSESSMENT AND PLAN:
+
+1.   Diabetes.  The patient was advised that his laboratory
+
+testing and symptoms are all consistent with adult-onset
+
+diabetes.  Given the severity of his symptoms, I have elected to
+
+start him on metformin 500 mg p.o. q.d.  Use and side effects
+
+were reviewed.  He will have Chem-7, urinary microalbumin and
+
+fasting lipid profile checked today.  Unfortunately, he was not
+
+actually fasting.  He will also be referred to Gretchen Drew and
+
+Bertha Ely for further diabetic and nutritional education. 
+
+He will be started on lisinopril instead of  HCTZ.  He is asked
+
+to return in six weeks for follow up of his blood pressure.  He
+
+was advised that his visual changes are likely due to lens
+
+swelling due to the uncontrolled diabetes.  I assume that this
+
+will resolve as the blood sugars come under better control.  He
+
+was given a written note regarding leave of absence from his job
+
+until his symptoms clear.
+
+2.  Migraines.  The patient does sound as if he is also having
+
+migraines.  We will address this at future visits.
+
+
+
+
+
+______________________________
+
+Patti O. Bush, M.D.
+
+
+
+eScription document:3-6062838 EMSSten Tel
+
+
+
+DD: 05/16/92
+
+DT: 05/17/92
+
+DV: 05/16/92
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="after DCT" type1="metformin" type2="">
+      <MEDICATION id="M0" start="2879" end="2888" text="metformin" time="after DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M1" start="2879" end="2888" text="metformin" time="after DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M2" start="2879" end="2888" text="metformin" time="after DCT" type1="metformin" type2="" comment=""/>
+    </MEDICATION>
+    <OBESE id="DOC1" time="after DCT" indicator="mention">
+      <OBESE id="O0" start="1307" end="1314" text="obesity" time="after DCT" indicator="mention" comment=""/>
+      <OBESE id="O1" start="2111" end="2116" text="obese" time="after DCT" indicator="mention" comment=""/>
+      <OBESE id="O2" start="2434" end="2439" text="Obese" time="after DCT" indicator="mention" comment=""/>
+      <OBESE id="O3" start="1307" end="1315" text="obesity," time="after DCT" indicator="mention" comment=""/>
+      <OBESE id="O4" start="1307" end="1314" text="obesity" time="after DCT" indicator="mention" comment=""/>
+    </OBESE>
+    <HYPERTENSION id="DOC2" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="1270" end="1282" text="Hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="1270" end="1282" text="Hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H2" start="1270" end="1282" text="Hypertension" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <MEDICATION id="DOC3" time="after DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M3" start="3206" end="3216" text="lisinopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M4" start="3206" end="3217" text="lisinopril " time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M5" start="3206" end="3216" text="lisinopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <DIABETES id="DOC4" time="during DCT" indicator="mention">
+      <DIABETES id="D0" start="2686" end="2694" text="Diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D1" start="2787" end="2808" text="adult-onset  diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D2" start="3407" end="3415" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D3" start="2686" end="2694" text="Diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D4" start="2686" end="2694" text="Diabetes" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <MEDICATION id="DOC5" time="before DCT" type1="diuretic" type2="">
+      <MEDICATION id="M6" start="1343" end="1347" text="HCTZ" time="before DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M7" start="1343" end="1347" text="HCTZ" time="before DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M8" start="1343" end="1347" text="HCTZ" time="before DCT" type1="diuretic" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERLIPIDEMIA id="DOC6" time="during DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY0" start="1284" end="1304" text="hypercholesterolemia" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY1" start="1284" end="1304" text="hypercholesterolemia" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY2" start="1284" end="1304" text="hypercholesterolemia" time="during DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <HYPERTENSION id="DOC7" time="during DCT" indicator="high bp">
+      <HYPERTENSION id="H3" start="2159" end="2180" text="Blood pressure 134/90" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H4" start="2159" end="2180" text="Blood pressure 134/90" time="during DCT" indicator="high bp" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC8" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H5" start="1270" end="1282" text="Hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H6" start="1270" end="1282" text="Hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H7" start="1270" end="1282" text="Hypertension" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <MEDICATION id="DOC9" time="after DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M9" start="1366" end="1374" text="Atenolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M10" start="1366" end="1374" text="Atenolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M11" start="1366" end="1374" text="Atenolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <DIABETES id="DOC10" time="before DCT" indicator="A1C">
+      <DIABETES id="D5" start="1037" end="1041" text="10.2" time="before DCT" indicator="A1C" comment=""/>
+      <DIABETES id="D6" start="1001" end="1041" text="hemoglobin A1c, which  came back at 10.2" time="before DCT" indicator="A1C" comment=""/>
+      <DIABETES id="D7" start="1001" end="1041" text="hemoglobin A1c, which  came back at 10.2" time="before DCT" indicator="A1C" comment=""/>
+    </DIABETES>
+    <OBESE id="DOC11" time="before DCT" indicator="mention">
+      <OBESE id="O5" start="1307" end="1314" text="obesity" time="before DCT" indicator="mention" comment=""/>
+      <OBESE id="O6" start="2111" end="2116" text="obese" time="before DCT" indicator="mention" comment=""/>
+      <OBESE id="O7" start="2434" end="2439" text="Obese" time="before DCT" indicator="mention" comment=""/>
+      <OBESE id="O8" start="1307" end="1315" text="obesity," time="before DCT" indicator="mention" comment=""/>
+      <OBESE id="O9" start="1307" end="1314" text="obesity" time="before DCT" indicator="mention" comment=""/>
+    </OBESE>
+    <FAMILY_HIST id="DOC12" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <HYPERLIPIDEMIA id="DOC13" time="after DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY3" start="1284" end="1304" text="hypercholesterolemia" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY4" start="1284" end="1304" text="hypercholesterolemia" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY5" start="1284" end="1304" text="hypercholesterolemia" time="after DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <SMOKER id="DOC14" status="never">
+      <SMOKER id="S0" start="1713" end="1722" text="nonsmoker" status="never" comment=""/>
+      <SMOKER id="S1" start="1705" end="1723" text="He is a nonsmoker." status="never" comment=""/>
+      <SMOKER id="S2" start="1705" end="1722" text="He is a nonsmoker" status="never" comment=""/>
+    </SMOKER>
+    <HYPERLIPIDEMIA id="DOC15" time="before DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY6" start="1284" end="1304" text="hypercholesterolemia" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY7" start="1284" end="1304" text="hypercholesterolemia" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY8" start="1284" end="1304" text="hypercholesterolemia" time="before DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <OBESE id="DOC16" time="during DCT" indicator="mention">
+      <OBESE id="O10" start="1307" end="1314" text="obesity" time="during DCT" indicator="mention" comment=""/>
+      <OBESE id="O11" start="2111" end="2116" text="obese" time="during DCT" indicator="mention" comment=""/>
+      <OBESE id="O12" start="2434" end="2439" text="Obese" time="during DCT" indicator="mention" comment=""/>
+      <OBESE id="O13" start="1307" end="1315" text="obesity," time="during DCT" indicator="mention" comment=""/>
+      <OBESE id="O14" start="1307" end="1314" text="obesity" time="during DCT" indicator="mention" comment=""/>
+    </OBESE>
+    <HYPERTENSION id="DOC17" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H8" start="1270" end="1282" text="Hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H9" start="1270" end="1282" text="Hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H10" start="1270" end="1282" text="Hypertension" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <MEDICATION id="DOC18" time="before DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M12" start="1366" end="1374" text="Atenolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M13" start="1366" end="1374" text="Atenolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M14" start="1366" end="1374" text="Atenolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC19" time="during DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M15" start="1366" end="1374" text="Atenolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M16" start="1366" end="1374" text="Atenolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M17" start="1366" end="1374" text="Atenolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <PHI id="P0" start="16" end="26" text="2092-05-16" TYPE="DATE"/>
+    <PHI id="P1" start="30" end="49" text="Correction Hospital" TYPE="HOSPITAL"/>
+    <PHI id="P2" start="67" end="84" text="925 Tolles Street" TYPE="STREET"/>
+    <PHI id="P3" start="120" end="133" text="HOOPER, PABLO" TYPE="PATIENT"/>
+    <PHI id="P4" start="135" end="142" text="Labelle" TYPE="CITY"/>
+    <PHI id="P5" start="144" end="146" text="MI" TYPE="STATE"/>
+    <PHI id="P6" start="147" end="152" text="97848" TYPE="ZIP"/>
+    <PHI id="P7" start="180" end="188" text="90338035" TYPE="MEDICALRECORD"/>
+    <PHI id="P8" start="190" end="204" text="(055) 025-9878" TYPE="PHONE"/>
+    <PHI id="P9" start="247" end="255" text="05/16/92" TYPE="DATE"/>
+    <PHI id="P10" start="257" end="271" text="(908) 649-3317" TYPE="PHONE"/>
+    <PHI id="P11" start="372" end="374" text="56" TYPE="AGE"/>
+    <PHI id="P12" start="421" end="437" text="November of 2088" TYPE="DATE"/>
+    <PHI id="P13" start="767" end="775" text="Mediquik" TYPE="HOSPITAL"/>
+    <PHI id="P14" start="863" end="867" text="Gill" TYPE="DOCTOR"/>
+    <PHI id="P15" start="901" end="905" text="Gill" TYPE="DOCTOR"/>
+    <PHI id="P16" start="1618" end="1641" text="Graphic Arts Technician" TYPE="PROFESSION"/>
+    <PHI id="P17" start="1645" end="1651" text="Oconto" TYPE="CITY"/>
+    <PHI id="P18" start="3104" end="3117" text="Gretchen Drew" TYPE="DOCTOR"/>
+    <PHI id="P19" start="3123" end="3133" text="Bertha Ely" TYPE="DOCTOR"/>
+    <PHI id="P20" start="3748" end="3761" text="Patti O. Bush" TYPE="DOCTOR"/>
+    <PHI id="P21" start="3791" end="3800" text="3-6062838" TYPE="IDNUM"/>
+    <PHI id="P22" start="3820" end="3828" text="05/16/92" TYPE="DATE"/>
+    <PHI id="P23" start="3834" end="3842" text="05/17/92" TYPE="DATE"/>
+    <PHI id="P24" start="3848" end="3856" text="05/16/92" TYPE="DATE"/>
+  </TAGS>
+</root>

@@ -1,0 +1,146 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2084-08-23
+
+ 
+
+ 
+
+ 
+
+ 
+
+Follow-up for labile hypertension.  At the time of our last visit, she 
+
+began Procardia XL 30 mg daily and completed a series of 24 hour urine 
+
+tests.  All of the urine tests returned normal.  After being on the dose 
+
+of Procardia, she noticed some continuation of her symptoms and Dr. Iniguez 
+
+suggested that she increase the dose to two tablets daily.  She has been 
+
+on that dose for the last two weeks and has noticed dramatic change in 
+
+her symptoms.  Shes having much fewer spells and her blood pressure, 
+
+likewise is much lower than it had been.  Overall, she is pleased with 
+
+these results.
+
+ 
+
+Her other medications have remained the same although she has 
+
+discontinued using immediate release Nifedipine and Nitroglycerin both 
+
+sublingual and patches.
+
+ 
+
+BP initially 142/52, later by me 170/68
+
+Weight 155 lbs.
+
+Pulse 68
+
+Her examination remains unchanged except she has 2+ edema in her left 
+
+leg and 1+ in the right leg.
+
+ 
+
+Assessment:  Labile hypertension-clinically improved.
+
+ 
+
+Plan:
+
+ 
+
+1.  Change Procardia XL to 60 mg once daily and continue other 
+
+medications as is.
+
+2.  I suggested that she return for her regular follow-up with Dr. Gibbons 
+
+and Dr. Iniguez.  I would be happy to see her in the future but do not 
+
+feel that additional visits here are necessary.
+
+ 
+
+ 
+
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="during DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M0" start="118" end="131" text=" Procardia XL" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M1" start="119" end="129" text="Procardia " time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M2" start="119" end="128" text="Procardia" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M3" start="1067" end="1076" text="Procardia" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC1" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="61" end="73" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="61" end="73" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H2" start="61" end="73" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H3" start="1008" end="1020" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC2" time="during DCT" indicator="high bp">
+      <HYPERTENSION id="H4" start="828" end="854" text="142/52, later by me 170/68" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H5" start="848" end="854" text="170/68" time="during DCT" indicator="high bp" comment=""/>
+    </HYPERTENSION>
+    <MEDICATION id="DOC3" time="before DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M4" start="118" end="131" text=" Procardia XL" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M5" start="714" end="761" text="discontinued using immediate release Nifedipine" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M6" start="119" end="129" text="Procardia " time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M7" start="119" end="128" text="Procardia" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M8" start="1067" end="1076" text="Procardia" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC4" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H6" start="61" end="73" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H7" start="61" end="73" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H8" start="61" end="73" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H9" start="1008" end="1020" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <MEDICATION id="DOC5" time="after DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M9" start="118" end="131" text=" Procardia XL" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M10" start="119" end="129" text="Procardia " time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M11" start="119" end="128" text="Procardia" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M12" start="1067" end="1076" text="Procardia" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC6" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H10" start="61" end="73" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H11" start="61" end="73" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H12" start="61" end="73" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H13" start="1008" end="1020" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <FAMILY_HIST id="DOC7" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC8" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" start="3" end="10" text="Record " status="unknown" comment=""/>
+      <SMOKER id="S2" status="unknown"/>
+    </SMOKER>
+    <MEDICATION id="DOC9" time="before DCT" type1="nitrate" type2="">
+      <MEDICATION id="M13" start="766" end="779" text="Nitroglycerin" time="before DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M14" start="765" end="780" text=" Nitroglycerin " time="before DCT" type1="nitrate" type2="" comment=""/>
+    </MEDICATION>
+    <PHI id="P0" start="16" end="26" text="2084-08-23" TYPE="DATE"/>
+    <PHI id="P1" start="329" end="336" text="Iniguez" TYPE="DOCTOR"/>
+    <PHI id="P2" start="1208" end="1215" text="Gibbons" TYPE="DOCTOR"/>
+    <PHI id="P3" start="1226" end="1233" text="Iniguez" TYPE="DOCTOR"/>
+  </TAGS>
+</root>

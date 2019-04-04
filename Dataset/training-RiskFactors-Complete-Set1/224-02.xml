@@ -1,0 +1,295 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2083-10-18
+
+
+	CARDIOLOGY
+	
+
+	WETZEL COUNTY HOSPITAL
+	
+
+
+	Reason for visit:
+   Mr Qazi returns for followup of his coronary disease.
+
+
+	Interval History:
+   He was recently transferred in January to the WCH after presenting to the Florida Hospital Orlando with a non ST segment elevation MI in the anterolateral zone. He underwent angioplasty and stenting of his proximal LAD using a 2.5 x 13 mm Cypher drug eluting stent.
+
+He has no symptoms of chest pain or pressure, no palpitations dyspnea or orthopnea.
+
+He has gained some weight and needs to work on that.
+
+
+	Past medical history:
+   1. CAD:
+-Cath 1/73: 80% prox RCA stenosis w/ thrombus, mod D1 stenosis, clear Lcx.  LV gram EF 69%, normal motion. 
+-Cath 9/81: Critical proximal ramus lesion.  RCA with proximal 40% lesion, patent RCA stent. Patent left main, apical LAD with 99% lesion with L-L collaterals. Cfx 35% mid lesion. Normal LVEDP, no AS.  LVf 50-55%.
+-Also with h/o RCA stent, unclear where procedure was done and patient unable to recall details.
+2. HTN
+3. Hyperlipidemia
+
+	
+
+
+	Medications (Confirmed):
+
+	
+Ecotrin  325 mg po daily
+Lipitor  80mg po daily
+nitroglycerin  0.4 mg sl every 5 minutes PRN chest pain
+Plavix  75mg po daily
+Toprol XL  50 mg mg po bid
+Tricor  48mg po daily
+
+
+	Family history:
+   Mother: deceased in 60's with leukemia
+Father: extensive CAD, with first MI in 50's.  Had MI x7, died in 70s.
+
+
+
+	Social history:
+   He runs  Mason house,a halfway home.  He has h/o drug/ETOH abuse but denies x 25 years.  He is not married, no children.
+Tobacco: + for 40 years 2-4ppd.
+
+
+
+	Review of systems:
+   There are no new findings except as above.
+
+All the following a normal or negative: General: Unexpected weight gain or weight loss, night sweats fever or chills. Head and neck: Headaches, dizzy spells hoarseness. Respiratory: Cough wheezing, sputum production, hemoptysis. Cardiovascular: See history above. Gastrointestinal: Frequent heartburn or indigestion, difficulty swallowing, nausea vomiting jaundice, unusual constipation or diarrhea, black or bloody stools. Urinary: Frequent urination at night, urinary infections, kidney stones, blood in the urine. Neurologic: Transient paralysis, seizures, loss of vision in one eye, numbness or tingling in the feet. Hematologic: Easy bruising, recurrent infections. Skin: New rashes or eruptions, poor healing of foot sores, moles changing in size or color. Endocrine: Polyuria, polydipsia, heat or cold intolerance. Musculoskeletal: Low back pain, joint pains, joint swelling.
+
+
+Physical examination:
+	
+-temp:    afebrile
+-Pulse: 60  
+-resp. rate: 14  
+-General:   No acute distress.
+-Skin:   No rashes, anicteric.
+-HEENT:   Unremarkable
+-Neck:   Carotids 2+ without bruits. JVP no jugular venous distention.
+-Chest:   Clear to auscultation and percussion.
+-Cardiac:   Left ventricular impulse discrete and nondisplaced. Regular rate and rhythm, normal S1 and S2, with no S3 or S4. There were no murmurs, clicks or rubs.
+-Abdomen:   Normal bowel sounds, soft and nontender, with no hepatosplenomegaly or masses appreciated.
+-Extremities:   No edema. 2+ PT bilateral
+-BP: 120/70  
+
+
+	EKG:
+   Normal sinus rhythm with incomplete right bundle branch block. there are very small Q-waves in leads V2 V3 V4 and V5 The tracing is  Unchanged
+
+Selected recent labs:
+
+	 In April following his last visit his total cholesterol was 104, triglycerides 70, HDL 40 and LDL 50. Glycohemoglobin was 8.5.
+	
+
+
+	Assessment and plan:
+     He is doing quite well at this point and has no symptoms he will remain on his present medications and I will see him again in another year.
+
+	
+Quinten B. Prado, MD pager #82910
+
+	
+cc:  Ezra Tovar M.D.
+
+	
+Signed electronically by  Quinten B. Prado, MD
+Document Status: Final
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="after DCT" type1="statin" type2="">
+      <MEDICATION id="M0" start="1116" end="1123" text="Lipitor" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M1" start="1116" end="1123" text="Lipitor" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M2" start="1116" end="1125" text="Lipitor  " time="after DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC1" time="during DCT" type1="aspirin" type2="">
+      <MEDICATION id="M3" start="1091" end="1099" text="Ecotrin " time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M4" start="1091" end="1098" text="Ecotrin" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M5" start="1091" end="1098" text="Ecotrin" time="during DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC2" time="during DCT" type1="thienopyridine" type2="">
+      <MEDICATION id="M6" start="1195" end="1201" text="Plavix" time="during DCT" type1="thienopyridine" type2="" comment=""/>
+      <MEDICATION id="M7" start="1195" end="1201" text="Plavix" time="during DCT" type1="thienopyridine" type2="" comment=""/>
+      <MEDICATION id="M8" start="1195" end="1201" text="Plavix" time="during DCT" type1="thienopyridine" type2="" comment=""/>
+    </MEDICATION>
+    <DIABETES id="DOC3" time="before DCT" indicator="A1C">
+      <DIABETES id="D0" start="3412" end="3436" text="Glycohemoglobin was 8.5." time="before DCT" indicator="A1C" comment=""/>
+      <DIABETES id="D1" start="3412" end="3436" text="Glycohemoglobin was 8.5." time="before DCT" indicator="A1C" comment=""/>
+    </DIABETES>
+    <HYPERTENSION id="DOC4" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="1035" end="1038" text="HTN" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="1035" end="1038" text="HTN" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H2" start="1035" end="1038" text="HTN" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERLIPIDEMIA id="DOC5" time="before DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY0" start="1042" end="1056" text="Hyperlipidemia" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY1" start="1039" end="1056" text="3. Hyperlipidemia" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY2" start="1042" end="1056" text="Hyperlipidemia" time="before DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <MEDICATION id="DOC6" time="after DCT" type1="aspirin" type2="">
+      <MEDICATION id="M9" start="1091" end="1099" text="Ecotrin " time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M10" start="1091" end="1098" text="Ecotrin" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M11" start="1091" end="1098" text="Ecotrin" time="after DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC7" time="after DCT" type1="nitrate" type2="">
+      <MEDICATION id="M12" start="1139" end="1152" text="nitroglycerin" time="after DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M13" start="1139" end="1152" text="nitroglycerin" time="after DCT" type1="nitrate" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC8" time="during DCT" type1="nitrate" type2="">
+      <MEDICATION id="M14" start="1139" end="1152" text="nitroglycerin" time="during DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M15" start="1139" end="1152" text="nitroglycerin" time="during DCT" type1="nitrate" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERLIPIDEMIA id="DOC9" time="during DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY3" start="1042" end="1056" text="Hyperlipidemia" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY4" start="1039" end="1056" text="3. Hyperlipidemia" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY5" start="1042" end="1056" text="Hyperlipidemia" time="during DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <MEDICATION id="DOC10" time="after DCT" type1="fibrate" type2="">
+      <MEDICATION id="M16" start="1244" end="1251" text="Tricor " time="after DCT" type1="fibrate" type2="" comment=""/>
+      <MEDICATION id="M17" start="1244" end="1250" text="Tricor" time="after DCT" type1="fibrate" type2="" comment=""/>
+      <MEDICATION id="M18" start="1244" end="1250" text="Tricor" time="after DCT" type1="fibrate" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC11" time="after DCT" type1="thienopyridine" type2="">
+      <MEDICATION id="M19" start="1195" end="1201" text="Plavix" time="after DCT" type1="thienopyridine" type2="" comment=""/>
+      <MEDICATION id="M20" start="1195" end="1201" text="Plavix" time="after DCT" type1="thienopyridine" type2="" comment=""/>
+      <MEDICATION id="M21" start="1195" end="1201" text="Plavix" time="after DCT" type1="thienopyridine" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC12" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H3" start="1035" end="1038" text="HTN" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H4" start="1035" end="1038" text="HTN" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H5" start="1035" end="1038" text="HTN" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <MEDICATION id="DOC13" time="after DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M22" start="1217" end="1228" text="Toprol XL  " time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M23" start="1217" end="1223" text="Toprol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M24" start="1217" end="1224" text="Toprol " time="after DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <CAD id="DOC14" time="after DCT" indicator="mention">
+      <CAD id="C0" start="130" end="146" text="coronary disease" time="after DCT" indicator="mention" comment=""/>
+      <CAD id="C1" start="608" end="612" text="CAD:" time="after DCT" indicator="mention" comment=""/>
+      <CAD id="C2" start="608" end="611" text="CAD" time="after DCT" indicator="mention" comment=""/>
+      <CAD id="C3" start="130" end="146" text="coronary disease" time="after DCT" indicator="mention" comment=""/>
+      <CAD id="C4" start="1139" end="1153" text="nitroglycerin " time="after DCT" indicator="mention" comment=""/>
+    </CAD>
+    <FAMILY_HIST id="DOC15" indicator="present">
+      <FAMILY_HIST id="F0" start="1327" end="1397" text="Father: extensive CAD, with first MI in 50's.  Had MI x7, died in 70s." indicator="present" comment=""/>
+      <FAMILY_HIST id="F1" start="1327" end="1397" text="Father: extensive CAD, with first MI in 50's.  Had MI x7, died in 70s." indicator="present" comment=""/>
+    </FAMILY_HIST>
+    <MEDICATION id="DOC16" time="before DCT" type1="statin" type2="">
+      <MEDICATION id="M25" start="1116" end="1123" text="Lipitor" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M26" start="1116" end="1123" text="Lipitor" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M27" start="1116" end="1125" text="Lipitor  " time="before DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC17" time="during DCT" type1="statin" type2="">
+      <MEDICATION id="M28" start="1116" end="1123" text="Lipitor" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M29" start="1116" end="1123" text="Lipitor" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M30" start="1116" end="1125" text="Lipitor  " time="during DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <CAD id="DOC18" time="before DCT" indicator="test">
+      <CAD id="C5" start="614" end="675" text="Cath 1/73: 80% prox RCA stenosis w/ thrombus, mod D1 stenosis" time="before DCT" indicator="test" comment=""/>
+      <CAD id="C6" start="722" end="880" text="Cath 9/81: Critical proximal ramus lesion.  RCA with proximal 40% lesion, patent RCA stent. Patent left main, apical LAD with 99% lesion with L-L collaterals." time="before DCT" indicator="test" comment=""/>
+      <CAD id="C7" start="613" end="720" text="-Cath 1/73: 80% prox RCA stenosis w/ thrombus, mod D1 stenosis, clear Lcx.  LV gram EF 69%, normal motion. " time="before DCT" indicator="test" comment=""/>
+      <CAD id="C8" start="721" end="858" text="-Cath 9/81: Critical proximal ramus lesion.  RCA with proximal 40% lesion, patent RCA stent. Patent left main, apical LAD with 99% lesion" time="before DCT" indicator="test" comment=""/>
+      <CAD id="C9" start="832" end="858" text="apical LAD with 99% lesion" time="before DCT" indicator="test" comment=""/>
+    </CAD>
+    <HYPERLIPIDEMIA id="DOC19" time="after DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY6" start="1042" end="1056" text="Hyperlipidemia" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY7" start="1039" end="1056" text="3. Hyperlipidemia" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY8" start="1042" end="1056" text="Hyperlipidemia" time="after DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <CAD id="DOC20" time="during DCT" indicator="mention">
+      <CAD id="C10" start="130" end="146" text="coronary disease" time="during DCT" indicator="mention" comment=""/>
+      <CAD id="C11" start="608" end="612" text="CAD:" time="during DCT" indicator="mention" comment=""/>
+      <CAD id="C12" start="608" end="611" text="CAD" time="during DCT" indicator="mention" comment=""/>
+      <CAD id="C13" start="130" end="146" text="coronary disease" time="during DCT" indicator="mention" comment=""/>
+      <CAD id="C14" start="1139" end="1153" text="nitroglycerin " time="during DCT" indicator="mention" comment=""/>
+    </CAD>
+    <MEDICATION id="DOC21" time="before DCT" type1="aspirin" type2="">
+      <MEDICATION id="M31" start="1091" end="1099" text="Ecotrin " time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M32" start="1091" end="1098" text="Ecotrin" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M33" start="1091" end="1098" text="Ecotrin" time="before DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC22" time="before DCT" type1="nitrate" type2="">
+      <MEDICATION id="M34" start="1139" end="1152" text="nitroglycerin" time="before DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M35" start="1139" end="1152" text="nitroglycerin" time="before DCT" type1="nitrate" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC23" time="during DCT" type1="fibrate" type2="">
+      <MEDICATION id="M36" start="1244" end="1251" text="Tricor " time="during DCT" type1="fibrate" type2="" comment=""/>
+      <MEDICATION id="M37" start="1244" end="1250" text="Tricor" time="during DCT" type1="fibrate" type2="" comment=""/>
+      <MEDICATION id="M38" start="1244" end="1250" text="Tricor" time="during DCT" type1="fibrate" type2="" comment=""/>
+    </MEDICATION>
+    <CAD id="DOC24" time="before DCT" indicator="event">
+      <CAD id="C15" start="278" end="331" text="non ST segment elevation MI in the anterolateral zone" time="before DCT" indicator="event" comment=""/>
+      <CAD id="C16" start="346" end="436" text="angioplasty and stenting of his proximal LAD using a 2.5 x 13 mm Cypher drug eluting stent" time="before DCT" indicator="event" comment=""/>
+      <CAD id="C17" start="950" end="959" text="RCA stent" time="before DCT" indicator="event" comment=""/>
+      <CAD id="C18" start="277" end="305" text=" non ST segment elevation MI" time="before DCT" indicator="event" comment=""/>
+      <CAD id="C19" start="346" end="436" text="angioplasty and stenting of his proximal LAD using a 2.5 x 13 mm Cypher drug eluting stent" time="before DCT" indicator="event" comment=""/>
+      <CAD id="C20" start="278" end="307" text="non ST segment elevation MI i" time="before DCT" indicator="event" comment=""/>
+      <CAD id="C21" start="346" end="370" text="angioplasty and stenting" time="before DCT" indicator="event" comment=""/>
+    </CAD>
+    <SMOKER id="DOC25" status="current">
+      <SMOKER id="S0" start="1542" end="1573" text="Tobacco: + for 40 years 2-4ppd." status="current" comment=""/>
+      <SMOKER id="S1" start="1542" end="1573" text="Tobacco: + for 40 years 2-4ppd." status="current" comment=""/>
+    </SMOKER>
+    <MEDICATION id="DOC26" time="before DCT" type1="fibrate" type2="">
+      <MEDICATION id="M39" start="1244" end="1251" text="Tricor " time="before DCT" type1="fibrate" type2="" comment=""/>
+      <MEDICATION id="M40" start="1244" end="1250" text="Tricor" time="before DCT" type1="fibrate" type2="" comment=""/>
+      <MEDICATION id="M41" start="1244" end="1250" text="Tricor" time="before DCT" type1="fibrate" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC27" time="before DCT" type1="thienopyridine" type2="">
+      <MEDICATION id="M42" start="1195" end="1201" text="Plavix" time="before DCT" type1="thienopyridine" type2="" comment=""/>
+      <MEDICATION id="M43" start="1195" end="1201" text="Plavix" time="before DCT" type1="thienopyridine" type2="" comment=""/>
+      <MEDICATION id="M44" start="1195" end="1201" text="Plavix" time="before DCT" type1="thienopyridine" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC28" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H6" start="1035" end="1038" text="HTN" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H7" start="1035" end="1038" text="HTN" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H8" start="1035" end="1038" text="HTN" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <MEDICATION id="DOC29" time="before DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M45" start="1217" end="1228" text="Toprol XL  " time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M46" start="1217" end="1223" text="Toprol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M47" start="1217" end="1224" text="Toprol " time="before DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC30" time="during DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M48" start="1217" end="1228" text="Toprol XL  " time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M49" start="1217" end="1223" text="Toprol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M50" start="1217" end="1224" text="Toprol " time="during DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <CAD id="DOC31" time="before DCT" indicator="mention">
+      <CAD id="C22" start="130" end="146" text="coronary disease" time="before DCT" indicator="mention" comment=""/>
+      <CAD id="C23" start="608" end="612" text="CAD:" time="before DCT" indicator="mention" comment=""/>
+      <CAD id="C24" start="608" end="611" text="CAD" time="before DCT" indicator="mention" comment=""/>
+      <CAD id="C25" start="130" end="146" text="coronary disease" time="before DCT" indicator="mention" comment=""/>
+      <CAD id="C26" start="1139" end="1153" text="nitroglycerin " time="before DCT" indicator="mention" comment=""/>
+    </CAD>
+    <PHI id="P0" start="16" end="26" text="2083-10-18" TYPE="DATE"/>
+    <PHI id="P1" start="45" end="67" text="WETZEL COUNTY HOSPITAL" TYPE="HOSPITAL"/>
+    <PHI id="P2" start="97" end="101" text="Qazi" TYPE="PATIENT"/>
+    <PHI id="P3" start="203" end="210" text="January" TYPE="DATE"/>
+    <PHI id="P4" start="218" end="221" text="WCH" TYPE="HOSPITAL"/>
+    <PHI id="P5" start="246" end="270" text="Florida Hospital Orlando" TYPE="HOSPITAL"/>
+    <PHI id="P6" start="619" end="623" text="1/73" TYPE="DATE"/>
+    <PHI id="P7" start="727" end="731" text="9/81" TYPE="DATE"/>
+    <PHI id="P8" start="1308" end="1312" text="60's" TYPE="AGE"/>
+    <PHI id="P9" start="1367" end="1371" text="50's" TYPE="AGE"/>
+    <PHI id="P10" start="1393" end="1396" text="70s" TYPE="AGE"/>
+    <PHI id="P11" start="1430" end="1441" text="Mason house" TYPE="ORGANIZATION"/>
+    <PHI id="P12" start="1442" end="1456" text="a halfway home" TYPE="OTHER"/>
+    <PHI id="P13" start="3313" end="3318" text="April" TYPE="DATE"/>
+    <PHI id="P14" start="3612" end="3628" text="Quinten B. Prado" TYPE="DOCTOR"/>
+    <PHI id="P15" start="3640" end="3645" text="82910" TYPE="PHONE"/>
+    <PHI id="P16" start="3654" end="3664" text="Ezra Tovar" TYPE="DOCTOR"/>
+    <PHI id="P17" start="3699" end="3715" text="Quinten B. Prado" TYPE="DOCTOR"/>
+  </TAGS>
+</root>

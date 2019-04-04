@@ -1,0 +1,175 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2085-10-17
+
+ 
+ 
+ 
+ 
+ 
+ 
+October 17, 2085
+ 
+ 
+Nicodemus S. Paz, M.D.
+5 Fox Meadow Road
+Hebron,  WI  31155
+ 
+RE:  Edwin Workman
+     MR #612-48-04-0
+ 
+Dear Dr. Paz:
+ 
+I had the pleasure of seeing Mr. Workman in follow-up today. 
+Overall, he is doing very well from a cardiovascular perspective. 
+Unfortunately, he continues to gain weight but overall he is doing
+well. 
+ 
+His current medical regimen includes cyclosporin 150 b.i.d.,
+prednisone 6 mg q.d., Imuran 275 q.d., Cardizem CD 300 mg q.d.,
+Cardura 4 mg q.d., one baby aspirin a day, Axid 150 b.i.d.,
+pravachol 20 q.d., magnesium oxide 250 mg b.i.d., calcium and
+vitamin D, insulin NPH 54 units and 10 Regular in the morning, 32
+units of NPH and 8 of Regular in the evening.  
+ 
+On physical examination, he was obese.  Blood pressure of 150/90
+with a heart rate of 85, weight was 305 pounds which is increased
+5 pounds from September 21st.  Chest was clear to auscultation and
+percussion.  Cardiac exam reveals a flat JVP at 30 degrees, a non-
+displaced PMI with a normal S1, S2 without murmurs, rubs or
+gallops.  Carotids are 2+ bilaterally without bruits.  His abdomen
+is obese, soft and nontender.  It is difficult to appreciate any
+organomegaly.  There is no hepatojugular reflux.  Extremities are
+without edema. 
+ 
+Electrocardiogram reveals normal sinus rhythm with a rate of 85. 
+Intervals of .16/.08/.34 with an axis of 60 degrees.  This is a
+normal tracing unchanged from previous tracing.
+ 
+Therefore, Mr. Workman is doing well from a cardiovascular
+perspective.  We will make the necessary adjustments in his medical
+regimen according to his laboratory results.  Unfortunately, he did
+take his cyclosporin this morning and therefore he will mail his
+labs back to us.
+ 
+I did discuss with him attempting some weight loss with portion
+control.  I think it might work to give him some reasonable goals
+such as a weight loss of 30 pounds as apposed to 130.
+ 
+Workman, Edwin
+MR #612-48-04-0                    -2-            October 17, 2085
+ 
+Mr. Workman will return in January for a biopsy and clinic visit.  
+Best regards.
+ 
+Sincerely,
+ 
+ 
+ 
+Elmer Knott, M.D.
+Vallejo General Hospital
+39 Lacy Street
+Brookshire,  MO  15345
+ 
+DD: 10/17/85
+DT: 10/18/85
+DV: 10/17/85
+ 
+/ingalls
+ 
+ ******** Approved but not reviewed by Attending Provider ********
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="after DCT" type1="statin" type2="">
+      <MEDICATION id="M0" start="571" end="580" text="pravachol" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M1" start="571" end="580" text="pravachol" time="after DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC1" time="during DCT" type1="aspirin" type2="">
+      <MEDICATION id="M2" start="539" end="546" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M3" start="539" end="546" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M4" start="534" end="547" text="baby aspirin " time="during DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC2" time="after DCT" type1="aspirin" type2="">
+      <MEDICATION id="M5" start="539" end="546" text="aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M6" start="539" end="546" text="aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M7" start="534" end="547" text="baby aspirin " time="after DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC3" time="during DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M8" start="486" end="494" text="Cardizem" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M9" start="486" end="494" text="Cardizem" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M10" start="486" end="494" text="Cardizem" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC4" time="after DCT" type1="insulin" type2="">
+      <MEDICATION id="M11" start="652" end="655" text="NPH" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M12" start="672" end="679" text="Regular" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M13" start="644" end="651" text="insulin" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M14" start="644" end="655" text="insulin NPH" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M15" start="672" end="679" text="Regular" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M16" start="708" end="711" text="NPH" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M17" start="721" end="728" text="Regular" time="after DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC6" time="before DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M18" start="486" end="494" text="Cardizem" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M19" start="486" end="494" text="Cardizem" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M20" start="486" end="494" text="Cardizem" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC8" time="before DCT" type1="statin" type2="">
+      <MEDICATION id="M21" start="571" end="580" text="pravachol" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M22" start="571" end="580" text="pravachol" time="before DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC9" time="during DCT" type1="statin" type2="">
+      <MEDICATION id="M23" start="571" end="580" text="pravachol" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M24" start="571" end="580" text="pravachol" time="during DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC10" time="before DCT" type1="aspirin" type2="">
+      <MEDICATION id="M25" start="539" end="546" text="aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M26" start="539" end="546" text="aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M27" start="534" end="547" text="baby aspirin " time="before DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC11" time="before DCT" type1="insulin" type2="">
+      <MEDICATION id="M28" start="652" end="655" text="NPH" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M29" start="672" end="679" text="Regular" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M30" start="644" end="651" text="insulin" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M31" start="644" end="655" text="insulin NPH" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M32" start="672" end="679" text="Regular" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M33" start="708" end="711" text="NPH" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M34" start="721" end="728" text="Regular" time="before DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC12" time="after DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M35" start="486" end="494" text="Cardizem" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M36" start="486" end="494" text="Cardizem" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M37" start="486" end="494" text="Cardizem" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC13" time="during DCT" type1="insulin" type2="">
+      <MEDICATION id="M38" start="652" end="655" text="NPH" time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M39" start="672" end="679" text="Regular" time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M40" start="644" end="651" text="insulin" time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M41" start="644" end="655" text="insulin NPH" time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M42" start="672" end="679" text="Regular" time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M43" start="708" end="711" text="NPH" time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M44" start="721" end="728" text="Regular" time="during DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC5" time="during DCT" indicator="high bp">
+      <HYPERTENSION id="H0" start="807" end="813" text="150/90" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H1" start="806" end="813" text=" 150/90" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H2" start="789" end="813" text="Blood pressure of 150/90" time="during DCT" indicator="high bp" comment=""/>
+    </HYPERTENSION>
+    <FAMILY_HIST id="DOC14" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC7" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" start="3" end="9" text="Record" status="unknown" comment=""/>
+      <SMOKER id="S2" status="unknown"/>
+    </SMOKER>
+  </TAGS>
+</root>

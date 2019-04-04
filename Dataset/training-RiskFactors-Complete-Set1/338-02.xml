@@ -1,0 +1,254 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2090-12-25
+
+
+
+
+
+POLK GENERAL HOSPITAL
+
+Internal Medicine
+
+86 Lisbon Lane                             Golden, Matias
+
+Palacios, NE  73819                             97198841
+
+                                              12-25-90 
+
+
+
+
+
+
+
+The patient is a 36-year-old man who comes in with a problem list that 
+
+includes diabetes, high cholesterol, microalbuminuria, and probable lichen simplex 
+
+chronicus.
+
+
+
+Since I last saw him, he has changed insurances and needs new refills on 
+
+all his medications. He has been without it for a couple of days. He has 
+
+had no polyuria or polydipsia, and generally feels well. He has no chest 
+
+pain, shortness of breath - no abdominal discomfort. He has no problems 
+
+with is feet or eyesight. He has not seen an eye doctor in the past 
+
+year.
+
+
+
+MEDICATIONS:
+
+Lisinopril, metformin, simvastatin, Glyburide. He is not currently using 
+
+the metronidazole pill any longer. 
+
+
+
+Laboratory Data: Last cholesterol was an LDL of 101 in September, Hgb 
+
+A1C of 6.1.
+
+
+
+PHYSICAL EXAM:
+
+Patient is well appearing. His blood pressure is 140/82 in the right arm 
+
+sitting, but this is also off his lisinopril. His weight is 168 lbs. 
+
+Examination of the feet reveals response to vibratory sensation and 
+
+light touch. There are no lesions. There is an approximately 2cm 
+
+nonscaling plaque over the dorsal lateral aspect of the right ankle, 
+
+which is pruritic.
+
+
+
+IMPRESSION AND PLAN:
+
+1. Diabetes mellitus. Wait until he is back on his medications before 
+
+checking his laboratory tests, including the microalbumin. He will come 
+
+back in a few months to have these done.
+
+2. Hyperlipidemia. I will check his lipids on his return visit.
+
+3. Lichen simplex chronicus. Topical lidex was prescribed b.i.d. to the 
+
+effected area only.
+
+
+
+I will see him in several months in follow up visit on his laboratory 
+
+work.
+
+
+
+
+
+
+
+_________________________
+
+Xaiden Roberson, M.D.
+
+
+
+kp:WX:6214; DD:12-25-90; DT:12-28-90; DV:12-25-90 
+
+
+
+========================== Preceptor's Note ==========================
+
+
+
+
+
+______________________________                              
+
+
+
+Xian, Marlene Xaniyah, M.D.
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="during DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M0" start="818" end="828" text="Lisinopril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M1" start="818" end="828" text="Lisinopril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC1" time="after DCT" type1="statin" type2="">
+      <MEDICATION id="M2" start="1472" end="1495" text="back on his medications" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M3" start="841" end="852" text="simvastatin" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M4" start="841" end="852" text="simvastatin" time="after DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC2" time="after DCT" type1="metformin" type2="">
+      <MEDICATION id="M5" start="1472" end="1495" text="back on his medications" time="after DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M6" start="830" end="839" text="metformin" time="after DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M7" start="830" end="839" text="metformin" time="after DCT" type1="metformin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC3" time="during DCT" type1="metformin" type2="">
+      <MEDICATION id="M8" start="830" end="839" text="metformin" time="during DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M9" start="830" end="839" text="metformin" time="during DCT" type1="metformin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC4" time="after DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M10" start="1119" end="1154" text="but this is also off his lisinopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M11" start="818" end="828" text="Lisinopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M12" start="818" end="828" text="Lisinopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC5" time="before DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M13" start="818" end="828" text="Lisinopril" time="before DCT" type1="ACE inhibitor" type2="" comment="pt has been out of all meds for a few days"/>
+      <MEDICATION id="M14" start="818" end="828" text="Lisinopril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M15" start="818" end="828" text="Lisinopril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <DIABETES id="DOC6" time="during DCT" indicator="mention">
+      <DIABETES id="D0" start="336" end="344" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D1" start="336" end="344" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D2" start="336" end="344" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <HYPERLIPIDEMIA id="DOC7" time="during DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY0" start="345" end="363" text=" high cholesterol," time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY1" start="346" end="363" text="high cholesterol," time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY2" start="346" end="362" text="high cholesterol" time="during DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <MEDICATION id="DOC8" time="after DCT" type1="sulfonylureas" type2="">
+      <MEDICATION id="M16" start="1472" end="1495" text="back on his medications" time="after DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M17" start="854" end="863" text="Glyburide" time="after DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M18" start="854" end="863" text="Glyburide" time="after DCT" type1="sulfonylureas" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC9" time="during DCT" type1="sulfonylureas" type2="">
+      <MEDICATION id="M19" start="854" end="863" text="Glyburide" time="during DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M20" start="854" end="863" text="Glyburide" time="during DCT" type1="sulfonylureas" type2="" comment=""/>
+    </MEDICATION>
+    <SMOKER id="DOC10" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" start="254" end="258" text="The " status="unknown" comment=""/>
+      <SMOKER id="S2" status="unknown"/>
+    </SMOKER>
+    <DIABETES id="DOC11" time="before DCT" indicator="mention">
+      <DIABETES id="D3" start="336" end="344" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D4" start="336" end="344" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D5" start="336" end="344" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <MEDICATION id="DOC12" time="before DCT" type1="statin" type2="">
+      <MEDICATION id="M21" start="841" end="852" text="simvastatin" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M22" start="841" end="852" text="simvastatin" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M23" start="841" end="852" text="simvastatin" time="before DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC13" time="during DCT" type1="statin" type2="">
+      <MEDICATION id="M24" start="841" end="852" text="simvastatin" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M25" start="841" end="852" text="simvastatin" time="during DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC14" time="before DCT" type1="metformin" type2="">
+      <MEDICATION id="M26" start="830" end="839" text="metformin" time="before DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M27" start="830" end="839" text="metformin" time="before DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M28" start="830" end="839" text="metformin" time="before DCT" type1="metformin" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERLIPIDEMIA id="DOC15" time="before DCT" indicator="high LDL">
+      <HYPERLIPIDEMIA id="HY3" start="973" end="983" text="LDL of 101" time="before DCT" indicator="high LDL" comment=""/>
+      <HYPERLIPIDEMIA id="HY4" start="973" end="983" text="LDL of 101" time="before DCT" indicator="high LDL" comment=""/>
+      <HYPERLIPIDEMIA id="HY5" start="973" end="983" text="LDL of 101" time="before DCT" indicator="high LDL" comment=""/>
+    </HYPERLIPIDEMIA>
+    <HYPERLIPIDEMIA id="DOC16" time="after DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY6" start="345" end="363" text=" high cholesterol," time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY7" start="346" end="363" text="high cholesterol," time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY8" start="346" end="362" text="high cholesterol" time="after DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <HYPERLIPIDEMIA id="DOC17" time="before DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY9" start="345" end="363" text=" high cholesterol," time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY10" start="346" end="363" text="high cholesterol," time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY11" start="346" end="362" text="high cholesterol" time="before DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <MEDICATION id="DOC18" time="before DCT" type1="sulfonylureas" type2="">
+      <MEDICATION id="M29" start="854" end="863" text="Glyburide" time="before DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M30" start="854" end="863" text="Glyburide" time="before DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M31" start="854" end="863" text="Glyburide" time="before DCT" type1="sulfonylureas" type2="" comment=""/>
+    </MEDICATION>
+    <FAMILY_HIST id="DOC19" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <DIABETES id="DOC20" time="after DCT" indicator="mention">
+      <DIABETES id="D6" start="336" end="344" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D7" start="336" end="344" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D8" start="336" end="344" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <PHI id="P0" start="16" end="26" text="2090-12-25" TYPE="DATE"/>
+    <PHI id="P1" start="32" end="53" text="POLK GENERAL HOSPITAL" TYPE="HOSPITAL"/>
+    <PHI id="P2" start="55" end="72" text="Internal Medicine" TYPE="DEPARTMENT"/>
+    <PHI id="P3" start="74" end="88" text="86 Lisbon Lane" TYPE="STREET"/>
+    <PHI id="P4" start="117" end="131" text="Golden, Matias" TYPE="PATIENT"/>
+    <PHI id="P5" start="133" end="141" text="Palacios" TYPE="CITY"/>
+    <PHI id="P6" start="143" end="145" text="NE" TYPE="STATE"/>
+    <PHI id="P7" start="147" end="152" text="73819" TYPE="ZIP"/>
+    <PHI id="P8" start="181" end="189" text="97198841" TYPE="MEDICALRECORD"/>
+    <PHI id="P9" start="237" end="245" text="12-25-90" TYPE="DATE"/>
+    <PHI id="P10" start="271" end="273" text="36" TYPE="AGE"/>
+    <PHI id="P11" start="987" end="996" text="September" TYPE="DATE"/>
+    <PHI id="P12" start="1895" end="1910" text="Xaiden Roberson" TYPE="DOCTOR"/>
+    <PHI id="P13" start="1920" end="1922" text="kp" TYPE="DOCTOR"/>
+    <PHI id="P14" start="1923" end="1925" text="WX" TYPE="DOCTOR"/>
+    <PHI id="P15" start="1926" end="1930" text="6214" TYPE="IDNUM"/>
+    <PHI id="P16" start="1935" end="1943" text="12-25-90" TYPE="DATE"/>
+    <PHI id="P17" start="1948" end="1956" text="12-28-90" TYPE="DATE"/>
+    <PHI id="P18" start="1961" end="1969" text="12-25-90" TYPE="DATE"/>
+    <PHI id="P19" start="2114" end="2135" text="Xian, Marlene Xaniyah" TYPE="DOCTOR"/>
+  </TAGS>
+</root>

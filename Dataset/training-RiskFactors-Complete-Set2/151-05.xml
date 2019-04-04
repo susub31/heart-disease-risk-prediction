@@ -1,0 +1,327 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2078-01-31
+
+
+
+Chief Complaint
+
+urosepsis
+
+
+
+History of Present Illness
+
+Mr. Quin is well known to me. He has a severely dysfunctional bladder and severe urethral stricture 2/2 radiation therapy for prostate CA. He has been dependent on a SP tube for bladder drainage, however, after the past 2 SP tube changes, he has developed urosepsis. He now presents again in urosepsis after his most recent SP tube change. He also complains of bilateral pelvic/hip pain which is limiting his ability to walk without a walker. This is a marked change over the past 3 months. 
+
+
+
+Review of Systems
+
+             No weight loss
+
+             No difficulty with blurry vision or double vision, 
+
+             No breathing problems, wheezing, or shortness of breath
+
+             No blood clots or swollen glands
+
+
+
+
+
+Past Medical History
+
+Prostate cancer - s/p RRP and XRT
+
+Claudication : has buttock pain when walking which resolves when stopping. He has decreased pulses in his DPs bilaterally and has a h/o smoking and diabetes.
+
+Diabetes mellitus type 2 
+
+Anemia 
+
+Coronary artery disease 
+
+
+
+Medications
+
+Aspirin (ACETYLSALICYLIC Acid)   81 MG (81MG TABLET take 1) PO QD 
+
+      GLYBURIDE   5 MG (5MG TABLET take 1) PO TID 
+
+      LISINOPRIL   40 MG (40MG TABLET take 1) PO QD x 30 days
+
+      Neurontin (GABAPENTIN)   300 MG (300MG CAPSULE take 1) PO TID 
+
+      Norvasc (AMLODIPINE)   10 MG (10MG TABLET take 1) PO QD 
+
+      Percocet 10 Mg/325 Mg (OXYCODONE 10 Mg/acetaminophen 325 Mg)   -325MG TABLET take 1-2 PO Q6H PRN pain 
+
+          Toprol Xl (METOPROLOL Succinate Extended Release)   50 MG (50MG TAB.SR 24H take 1) PO QD , please come to officein 1 months and have heart rate and blod perssure checked
+
+
+
+Allergies
+
+NKDA
+
+
+
+Physical Exam
+
+Vital Signs:
+
+VSS
+
+General appearance:  Well developed, well nourished
+
+Respiratory:  Normal rate, breathing non-labored.  
+
+Back/Flank:  No CVA tenderness or masses
+
+Abdominal exam:  soft, NT, SPT in place
+
+Obese, no organomegaly, no masses
+
+Groin - no palpable fluid collections
+
+Lymphatic exam:   No inguinal adenopathy
+
+Neurologic:  Alert and oriented.  Conversant. Normal gait.
+
+Psychiatric:  Affect appropriate, speech non-pressured.  Normal syntax.
+
+Skin:  Normal turgor, no jaundice
+
+Rectal Exam:  Normal tone, no masses
+
+GU Complete
+
+No scrotal lesions
+
+Epididymis normal
+
+Testes normally descended, no masses
+
+Urethral meatus normal caliber, normal position
+
+phallus without skin lesions
+
+Prostate absent
+
+
+
+
+
+
+
+Laboratory Data
+
+Cr - 1.2
+
+ 
+
+Microbiology Detail for QUIN, ULYSSES 
+
+   LMH     URINE                     29-Jan-2078 04:19  Accession # 1263L4557
+
+Detail:
+
+  Specimen: 1263L4557        Collected 29-Jan-78 02:30                     
+
+                             Received  29-Jan-78 04:19                     
+
+  Ordering Provider: Unknown, Missing No Info
+
+  Specimen Group:    URINE
+
+  Specimen Type:     URINE
+
+  Urine Culture - Final    Reported: 31-Jan-78 15:51
+
+    Abundant (>=100,000 CFU/ml) ESCHERICHIA COLI
+
+      RAPID METHOD
+
+      Antibiotic                      Interpretation
+
+      ----------------------------------------------
+
+      Amikacin                        Susceptible   
+
+      Amoxicillin/Clavulanate         Susceptible   
+
+      Ampicillin                      Resistant     
+
+      Aztreonam                       Susceptible   
+
+      Cefazolin                       Susceptible   
+
+      Cefepime                        Susceptible   
+
+      Ceftriaxone                     Susceptible   
+
+      Ciprofloxacin                   Susceptible   
+
+      Gentamicin                      Resistant     
+
+      Levofloxacin                    Susceptible   
+
+      Nitrofurantoin                  Susceptible   
+
+      Piperacillin                    Intermediate  
+
+      Tetracycline                    Resistant     
+
+      Trimethoprim/Sulfamethoxazole   Resistant     
+
+    Confidential Material Please Handle Appropriately.
+
+ 
+
+
+
+
+
+Assessment
+
+1. Urosepsis - Treat as you are with Levofloxacin.
+
+2. Bilateral hip pain - given subacute nature of this worsening problem, I would obtain a CT scan of the lower abdomen/pelvis to r/o any drainable fluid collections that we cannot appreciate on PE.
+
+3. Long term plan - I have discussed with Mr. Quin that we are likely headed toward needing a surgical urinary diversion with an ileal conduit. He understands this and is still considering this. We will continue this discussion in outpatient follow up.
+
+ 
+
+ 
+
+
+
+______________________________
+
+Quinton H. Welch
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="during DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M0" start="1235" end="1247" text="  LISINOPRIL" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M1" start="1237" end="1247" text="LISINOPRIL" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M2" start="1237" end="1247" text="LISINOPRIL" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC1" time="during DCT" type1="aspirin" type2="">
+      <MEDICATION id="M3" start="1111" end="1118" text="Aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M4" start="1111" end="1118" text="Aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M5" start="1111" end="1118" text="Aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC4" time="after DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M6" start="1235" end="1247" text="  LISINOPRIL" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M7" start="1237" end="1247" text="LISINOPRIL" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M8" start="1237" end="1247" text="LISINOPRIL" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC6" time="after DCT" type1="aspirin" type2="">
+      <MEDICATION id="M9" start="1111" end="1118" text="Aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M10" start="1111" end="1118" text="Aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M11" start="1111" end="1118" text="Aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC7" time="during DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M12" start="1369" end="1377" text=" Norvasc" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M13" start="1370" end="1377" text="Norvasc" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M14" start="1370" end="1377" text="Norvasc" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC8" time="after DCT" type1="sulfonylureas" type2="">
+      <MEDICATION id="M15" start="1185" end="1194" text="GLYBURIDE" time="after DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M16" start="1185" end="1194" text="GLYBURIDE" time="after DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M17" start="1185" end="1194" text="GLYBURIDE" time="after DCT" type1="sulfonylureas" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC9" time="before DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M18" start="1369" end="1377" text=" Norvasc" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M19" start="1370" end="1377" text="Norvasc" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M20" start="1370" end="1377" text="Norvasc" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC10" time="during DCT" type1="sulfonylureas" type2="">
+      <MEDICATION id="M21" start="1185" end="1194" text="GLYBURIDE" time="during DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M22" start="1185" end="1194" text="GLYBURIDE" time="during DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M23" start="1185" end="1194" text="GLYBURIDE" time="during DCT" type1="sulfonylureas" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC11" time="after DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M24" start="1548" end="1554" text="Toprol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M25" start="1548" end="1558" text="Toprol Xl " time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M26" start="1538" end="1558" text="          Toprol Xl " time="after DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC14" time="before DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M27" start="1235" end="1247" text="  LISINOPRIL" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M28" start="1237" end="1247" text="LISINOPRIL" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M29" start="1237" end="1247" text="LISINOPRIL" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC16" time="before DCT" type1="aspirin" type2="">
+      <MEDICATION id="M30" start="1111" end="1118" text="Aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M31" start="1111" end="1118" text="Aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M32" start="1111" end="1118" text="Aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC18" time="before DCT" type1="sulfonylureas" type2="">
+      <MEDICATION id="M33" start="1185" end="1194" text="GLYBURIDE" time="before DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M34" start="1185" end="1194" text="GLYBURIDE" time="before DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M35" start="1185" end="1194" text="GLYBURIDE" time="before DCT" type1="sulfonylureas" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC19" time="after DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M36" start="1369" end="1377" text=" Norvasc" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M37" start="1370" end="1377" text="Norvasc" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M38" start="1370" end="1377" text="Norvasc" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC20" time="before DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M39" start="1548" end="1554" text="Toprol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M40" start="1548" end="1558" text="Toprol Xl " time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M41" start="1538" end="1558" text="          Toprol Xl " time="before DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC21" time="during DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M42" start="1548" end="1554" text="Toprol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M43" start="1548" end="1558" text="Toprol Xl " time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M44" start="1538" end="1558" text="          Toprol Xl " time="during DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <CAD id="DOC12" time="after DCT" indicator="mention">
+      <CAD id="C0" start="1070" end="1094" text="Coronary artery disease " time="after DCT" indicator="mention" comment=""/>
+      <CAD id="C1" start="1070" end="1093" text="Coronary artery disease" time="after DCT" indicator="mention" comment=""/>
+      <CAD id="C2" start="1070" end="1094" text="Coronary artery disease " time="after DCT" indicator="mention" comment=""/>
+    </CAD>
+    <CAD id="DOC15" time="during DCT" indicator="mention">
+      <CAD id="C3" start="1070" end="1094" text="Coronary artery disease " time="during DCT" indicator="mention" comment=""/>
+      <CAD id="C4" start="1070" end="1093" text="Coronary artery disease" time="during DCT" indicator="mention" comment=""/>
+      <CAD id="C5" start="1070" end="1094" text="Coronary artery disease " time="during DCT" indicator="mention" comment=""/>
+    </CAD>
+    <CAD id="DOC22" time="before DCT" indicator="mention">
+      <CAD id="C6" start="1070" end="1094" text="Coronary artery disease " time="before DCT" indicator="mention" comment=""/>
+      <CAD id="C7" start="1070" end="1093" text="Coronary artery disease" time="before DCT" indicator="mention" comment=""/>
+      <CAD id="C8" start="1070" end="1094" text="Coronary artery disease " time="before DCT" indicator="mention" comment=""/>
+    </CAD>
+    <FAMILY_HIST id="DOC13" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC2" status="past">
+      <SMOKER id="S0" start="1011" end="1018" text="smoking" status="past" comment=""/>
+      <SMOKER id="S1" start="1007" end="1018" text="h/o smoking" status="past" comment=""/>
+    </SMOKER>
+    <DIABETES id="DOC3" time="before DCT" indicator="mention">
+      <DIABETES id="D0" start="1023" end="1031" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D1" start="1034" end="1058" text="Diabetes mellitus type 2" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D2" start="1023" end="1031" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC5" time="during DCT" indicator="mention">
+      <DIABETES id="D3" start="1023" end="1031" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D4" start="1034" end="1058" text="Diabetes mellitus type 2" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D5" start="1023" end="1031" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC17" time="after DCT" indicator="mention">
+      <DIABETES id="D6" start="1023" end="1031" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D7" start="1034" end="1058" text="Diabetes mellitus type 2" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D8" start="1023" end="1031" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+  </TAGS>
+</root>

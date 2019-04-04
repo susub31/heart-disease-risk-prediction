@@ -1,0 +1,124 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2064-06-19
+
+
+
+
+
+
+
+
+
+
+
+Arthritis Center 				(581) 730-4429
+Richard F. Vidal, M.D.
+
+
+June 19, 2064
+
+Frank Ito, M.D.
+Jewish Hospital
+61 Church Street
+Murfreesboro, UT  97331
+
+RE:  Rivers, Ida 
+MRN: 71701456 
+DOV: 06/19/64
+
+Dear Dr. Ito,
+
+Ida was seen back today for evaluation of Sjogren's as well as left wrist 
+pain.  Her Sjogren's has been reasonably stable.  She still remains with 
+difficulty in controlling her blood sugar.  She has continued difficulty with 
+her oral cavity.  She has had no extraglandular symptoms -- specifically, 
+polyneuropathy, myopathy, or purpura.
+
+She uses artificial tears and saliva.  She remains on insulin and estrogens.
+
+She has a one-week history of pain and swelling of her left wrist.  She was 
+seen at the Graduate Hospital Emergency Room several days ago.  Radiographs of the 
+wrist show chondrocalcinosis.  She was started on Motrin with some response 
+but still has active symptoms.  She is wearing a splint.
+
+Today on exam, she is afebrile.  There was OA involving the DIP joints.  PIPs 
+and MCPs were nontender.  The left wrist showed swelling and heat with 
+diminished motion.  Right wrist showed full range of motion.  Elbows, 
+shoulders, hips, knees, ankles, and feet did not show active synovitis.  
+There was no adenopathy and lungs were clear.
+
+I aspirated the left wrist under sterile technique.  No fluid was obtained.  
+I injected it with 40 mg of Depo-Medrol.
+
+Clinically, I think she has had pseudogout.  She has chondrocalcinosis on 
+radiograph and has a clinical picture consistent with crystal disease.  In 
+addition, she has primary Sjogren's.  The two diseases are unrelated.
+
+In addition to injection of her wrist, I switched her from Motrin to Celebrex 
+200 mg twice a day due to side effect profile issues.  She should probably 
+take that for about five to seven days.  Side effects were reviewed.
+
+I would like to see her back in four months.  She will be returning to you 
+for further care in the interim.
+
+
+
+Frank Ito, M.D.
+RE:  Rivers, Ida 
+MRN: 71701456 
+Page 2
+
+
+ADDENDUM:  At her next visit, I will want her to check her calcium and 
+thyroid status since that can be associated with CPPD disease.
+
+With best wishes,
+
+
+ 
+_______________________________ 
+Richard F. Vidal, M.D. 
+ 
+DD: 06/19/64 
+DT: 06/22/64 
+DV: 06/19/64
+/turpin
+
+
+ 
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="after DCT" type1="insulin" type2="">
+      <MEDICATION id="M0" start="647" end="654" text="insulin" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M1" start="647" end="654" text="insulin" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M2" start="647" end="654" text="insulin" time="after DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC1" time="during DCT" type1="insulin" type2="">
+      <MEDICATION id="M3" start="647" end="654" text="insulin" time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M4" start="647" end="654" text="insulin" time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M5" start="647" end="654" text="insulin" time="during DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC4" time="before DCT" type1="insulin" type2="">
+      <MEDICATION id="M6" start="647" end="654" text="insulin" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M7" start="647" end="654" text="insulin" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M8" start="647" end="654" text="insulin" time="before DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <FAMILY_HIST id="DOC2" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC3" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" status="unknown"/>
+      <SMOKER id="S2" start="3" end="10" text="Record " status="unknown" comment=""/>
+    </SMOKER>
+  </TAGS>
+</root>

@@ -1,0 +1,323 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2067-03-10
+
+
+
+
+
+
+
+
+PCC: Respiratory
+
+26 Monica Street
+
+Buena Vista, CT  84376
+
+272-413-0358
+
+
+
+FERRARA, LAUREN
+
+48185437
+
+03/10/2067
+
+
+
+MAJOR DIAGNOSIS:  Lung mass.
+
+
+
+HISTORY OF PRESENT ILLNESS:  Lauren is a 75-year-old woman.  She has only a very remote history of smoking, smoking not at all after the age of 30.  In early March, she was undergoing a routine physical.  At that time, she reported she had some mild weight loss.  However, she had been trying to lose weight.  She had no respiratory symptoms of dyspnea or cough.  A chest x-ray was obtained, which revealed a 6 cm left lung mass.  The patient subsequently had a CT scan.  The CT scan revealed a 4 x 6 lung mass in the posterior subsegment of the right upper lobe.  There were some modestly enlarged hilar nodes, but all below 2 cm.  She has some tiny sub 5 mm nodules in both lungs.  The patient is referred by her primary care physician, Dr. Jordon for further evaluation.  The patient has no history of lung .  She has no history of asthma or allergies.  She has not had any history of TB or a positive PPD.  She may have had some mild asbestos exposure when she worked in a publishing company, which had asbestos containing pipes.  She has no history of malignancy.  She has no avocational exposures to dust or danders.
+
+
+
+PAST MEDICAL HISTORY:  Includes:
+
+1.  Mild vascular dementia.
+
+2.  Hypertension.
+
+3.  Hyperlipidemia.
+
+4.  Diabetes.
+
+5.  Hypothyroidism.
+
+6.  Peripheral vascular disease.
+
+7.  Anemia.
+
+8.  Renal artery stenosis with mild renal failure.
+
+9.  Carotid artery stenosis.
+
+
+
+MEDICATIONS:  Levoxyl 88 mcg a day, Plavix 75 mg a day, Aricept 10 mg a day, furosemide 20 mg a day, nifedipine 90 mg a day, Crestor 20 mg a day, metoprolol 25 mg a day, calcium, Zetia 10 mg a day, vitamin D, Nephrocaps 1 mg a day, fish oil, aspirin 81 mg a day.
+
+
+
+ALLERGIES:  Penicillin and estrogens and red dye #5.
+
+
+
+SOCIAL HISTORY:  She lives with her husband.  She does not drink.  She has a very remote smoking history in her teens and early 20s.
+
+
+
+FAMILY HISTORY:  Noncontributory.
+
+
+
+REVIEW OF SYSTEMS:  Otherwise, negative.
+
+
+
+PHYSICAL EXAMINATION:  She is in no distress.  Her O2 saturation is 95%.  Her blood pressure is 130/70, her pulse is 53.  Head and neck exam:  She is normocephalic and atraumatic.  Her nares are without discharge.  Oropharynx with dentures.  She has no erythema or exudate.  Neck is supple without adenopathy, thyromegaly, or bruits.  Her thorax is kyphotic.  She has normal fremitus and percussion.  Her lungs are clear.  Cardiac exam:  No JVD, S1, S2 without S3, S4, or murmurs.  Abdomen is soft.  Extremities have no clubbing, cyanosis, or edema.  She has residual of vascular surgery in her legs.  She has slightly diminished peripheral pulses.
+
+
+
+LABORATORY DATA:  Spirometry is normal.
+
+
+
+IMAGING STUDIES:  A chest CT is as noted.
+
+
+
+IMPRESSION AND PLAN:  A 75-year-old with a large right lung mass.  This is likely to be malignant, although a nonmalignant process or inflammatory processes are remotely possible.  At this point, I am going to refer her for a PET CT scan.  Her small nodules in her lung fields bilaterally are all sub 5mm and may not be related to this malignancy.  She does have modestly enlarged hilar nodes.  I am going to refer her to Thoracic Surgery for consideration of a mediastinoscopy and potential resection.  She would likely require cardiac clearance before this would occur.  She can follow up with me after her surgery if this proves to be an inflammatory lung disorder.  Otherwise, she will follow up with Oncology.  If she was deemed not to be an appropriate surgical candidate, either because of metastatic disease or because of comorbidity, she could have this lesion biopsied via a transthoracic needle aspirate.
+
+
+
+
+
+______________________________
+
+Pamela Falk, M.D.
+
+
+
+
+
+
+
+
+
+
+
+eScription document:5-33744827 EMSSten Tel
+
+
+
+CC: Jaclyn Jordon M.D.
+
+Mondovi Hospital
+
+566 Ferncroft Drive
+
+Union City, CT, 33636
+
+Fax: 
+
+Email: 
+
+
+
+
+
+
+
+DD: 03/10/67
+
+DT: 03/10/67
+
+DV: 03/10/67
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="after DCT" type1="statin" type2="">
+      <MEDICATION id="M0" start="1705" end="1712" text="Crestor" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M1" start="1705" end="1713" text="Crestor " time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M2" start="1705" end="1724" text="Crestor 20 mg a day" time="after DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC1" time="during DCT" type1="aspirin" type2="">
+      <MEDICATION id="M3" start="1822" end="1829" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M4" start="1822" end="1829" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M5" start="1822" end="1841" text="aspirin 81 mg a day" time="during DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC2" time="during DCT" type1="thienopyridine" type2="">
+      <MEDICATION id="M6" start="1616" end="1622" text="Plavix" time="during DCT" type1="thienopyridine" type2="" comment=""/>
+      <MEDICATION id="M7" start="1616" end="1622" text="Plavix" time="during DCT" type1="thienopyridine" type2="" comment=""/>
+      <MEDICATION id="M8" start="1616" end="1634" text="Plavix 75 mg a day" time="during DCT" type1="thienopyridine" type2="" comment=""/>
+    </MEDICATION>
+    <SMOKER id="DOC3" status="past">
+      <SMOKER id="S0" start="271" end="290" text=" history of smoking" status="past" comment=""/>
+      <SMOKER id="S1" start="283" end="290" text="smoking" status="past" comment=""/>
+      <SMOKER id="S2" start="260" end="329" text="very remote history of smoking, smoking not at all after the age of 3" status="past" comment=""/>
+      <SMOKER id="S3" start="1984" end="2033" text="remote smoking history in her teens and early 20s" status="past" comment=""/>
+    </SMOKER>
+    <HYPERTENSION id="DOC4" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="1377" end="1389" text="Hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="1377" end="1390" text="Hypertension." time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H2" start="1377" end="1389" text="Hypertension" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERLIPIDEMIA id="DOC5" time="before DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY0" start="1396" end="1410" text="Hyperlipidemia" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY1" start="1396" end="1410" text="Hyperlipidemia" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY2" start="1396" end="1410" text="Hyperlipidemia" time="before DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <DIABETES id="DOC6" time="during DCT" indicator="mention">
+      <DIABETES id="D0" start="1417" end="1425" text="Diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D1" start="1417" end="1425" text="Diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D2" start="1417" end="1425" text="Diabetes" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <MEDICATION id="DOC7" time="after DCT" type1="aspirin" type2="">
+      <MEDICATION id="M9" start="1822" end="1829" text="aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M10" start="1822" end="1829" text="aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M11" start="1822" end="1841" text="aspirin 81 mg a day" time="after DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERLIPIDEMIA id="DOC8" time="during DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY3" start="1396" end="1410" text="Hyperlipidemia" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY4" start="1396" end="1410" text="Hyperlipidemia" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY5" start="1396" end="1410" text="Hyperlipidemia" time="during DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <MEDICATION id="DOC9" time="during DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M12" start="1681" end="1691" text="nifedipine" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M13" start="1681" end="1691" text="nifedipine" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M14" start="1681" end="1703" text="nifedipine 90 mg a day" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC10" time="after DCT" type1="ezetimibe" type2="">
+      <MEDICATION id="M15" start="1759" end="1764" text="Zetia" time="after DCT" type1="ezetimibe" type2="" comment=""/>
+      <MEDICATION id="M16" start="1759" end="1765" text="Zetia " time="after DCT" type1="ezetimibe" type2="" comment=""/>
+      <MEDICATION id="M17" start="1759" end="1776" text="Zetia 10 mg a day" time="after DCT" type1="ezetimibe" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC11" time="before DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M18" start="1681" end="1691" text="nifedipine" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M19" start="1681" end="1691" text="nifedipine" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M20" start="1681" end="1703" text="nifedipine 90 mg a day" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC12" time="after DCT" type1="thienopyridine" type2="">
+      <MEDICATION id="M21" start="1616" end="1622" text="Plavix" time="after DCT" type1="thienopyridine" type2="" comment=""/>
+      <MEDICATION id="M22" start="1616" end="1622" text="Plavix" time="after DCT" type1="thienopyridine" type2="" comment=""/>
+      <MEDICATION id="M23" start="1616" end="1634" text="Plavix 75 mg a day" time="after DCT" type1="thienopyridine" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC13" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H3" start="1377" end="1389" text="Hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H4" start="1377" end="1390" text="Hypertension." time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H5" start="1377" end="1389" text="Hypertension" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <MEDICATION id="DOC14" time="after DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M24" start="1726" end="1736" text="metoprolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M25" start="1726" end="1736" text="metoprolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M26" start="1726" end="1748" text="metoprolol 25 mg a day" time="after DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <DIABETES id="DOC15" time="before DCT" indicator="mention">
+      <DIABETES id="D3" start="1417" end="1425" text="Diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D4" start="1417" end="1425" text="Diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D5" start="1417" end="1425" text="Diabetes" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <MEDICATION id="DOC16" time="during DCT" type1="ezetimibe" type2="">
+      <MEDICATION id="M27" start="1759" end="1764" text="Zetia" time="during DCT" type1="ezetimibe" type2="" comment=""/>
+      <MEDICATION id="M28" start="1759" end="1765" text="Zetia " time="during DCT" type1="ezetimibe" type2="" comment=""/>
+      <MEDICATION id="M29" start="1759" end="1776" text="Zetia 10 mg a day" time="during DCT" type1="ezetimibe" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC17" time="before DCT" type1="statin" type2="">
+      <MEDICATION id="M30" start="1705" end="1712" text="Crestor" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M31" start="1705" end="1713" text="Crestor " time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M32" start="1705" end="1724" text="Crestor 20 mg a day" time="before DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC18" time="during DCT" type1="statin" type2="">
+      <MEDICATION id="M33" start="1705" end="1712" text="Crestor" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M34" start="1705" end="1713" text="Crestor " time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M35" start="1705" end="1724" text="Crestor 20 mg a day" time="during DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC19" time="before DCT" type1="ezetimibe" type2="">
+      <MEDICATION id="M36" start="1759" end="1764" text="Zetia" time="before DCT" type1="ezetimibe" type2="" comment=""/>
+      <MEDICATION id="M37" start="1759" end="1765" text="Zetia " time="before DCT" type1="ezetimibe" type2="" comment=""/>
+      <MEDICATION id="M38" start="1759" end="1776" text="Zetia 10 mg a day" time="before DCT" type1="ezetimibe" type2="" comment=""/>
+    </MEDICATION>
+    <FAMILY_HIST id="DOC20" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <HYPERLIPIDEMIA id="DOC21" time="after DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY6" start="1396" end="1410" text="Hyperlipidemia" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY7" start="1396" end="1410" text="Hyperlipidemia" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY8" start="1396" end="1410" text="Hyperlipidemia" time="after DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <MEDICATION id="DOC22" time="before DCT" type1="aspirin" type2="">
+      <MEDICATION id="M39" start="1822" end="1829" text="aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M40" start="1822" end="1829" text="aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M41" start="1822" end="1841" text="aspirin 81 mg a day" time="before DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC23" time="after DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M42" start="1681" end="1691" text="nifedipine" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M43" start="1681" end="1691" text="nifedipine" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M44" start="1681" end="1703" text="nifedipine 90 mg a day" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC24" time="before DCT" type1="thienopyridine" type2="">
+      <MEDICATION id="M45" start="1616" end="1622" text="Plavix" time="before DCT" type1="thienopyridine" type2="" comment=""/>
+      <MEDICATION id="M46" start="1616" end="1622" text="Plavix" time="before DCT" type1="thienopyridine" type2="" comment=""/>
+      <MEDICATION id="M47" start="1616" end="1634" text="Plavix 75 mg a day" time="before DCT" type1="thienopyridine" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC25" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H6" start="1377" end="1389" text="Hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H7" start="1377" end="1390" text="Hypertension." time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H8" start="1377" end="1389" text="Hypertension" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <MEDICATION id="DOC26" time="before DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M48" start="1726" end="1736" text="metoprolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M49" start="1726" end="1736" text="metoprolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M50" start="1726" end="1748" text="metoprolol 25 mg a day" time="before DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC27" time="during DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M51" start="1726" end="1736" text="metoprolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M52" start="1726" end="1736" text="metoprolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M53" start="1726" end="1748" text="metoprolol 25 mg a day" time="during DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <DIABETES id="DOC28" time="after DCT" indicator="mention">
+      <DIABETES id="D6" start="1417" end="1425" text="Diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D7" start="1417" end="1425" text="Diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D8" start="1417" end="1425" text="Diabetes" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <PHI id="P0" start="16" end="26" text="2067-03-10" TYPE="DATE"/>
+    <PHI id="P1" start="35" end="38" text="PCC" TYPE="HOSPITAL"/>
+    <PHI id="P2" start="53" end="69" text="26 Monica Street" TYPE="STREET"/>
+    <PHI id="P3" start="71" end="82" text="Buena Vista" TYPE="CITY"/>
+    <PHI id="P4" start="84" end="86" text="CT" TYPE="STATE"/>
+    <PHI id="P5" start="88" end="93" text="84376" TYPE="ZIP"/>
+    <PHI id="P6" start="95" end="107" text="272-413-0358" TYPE="PHONE"/>
+    <PHI id="P7" start="111" end="126" text="FERRARA, LAUREN" TYPE="PATIENT"/>
+    <PHI id="P8" start="128" end="136" text="48185437" TYPE="MEDICALRECORD"/>
+    <PHI id="P9" start="138" end="148" text="03/10/2067" TYPE="DATE"/>
+    <PHI id="P10" start="213" end="219" text="Lauren" TYPE="PATIENT"/>
+    <PHI id="P11" start="225" end="227" text="75" TYPE="AGE"/>
+    <PHI id="P12" start="328" end="330" text="30" TYPE="AGE"/>
+    <PHI id="P13" start="342" end="347" text="March" TYPE="DATE"/>
+    <PHI id="P14" start="927" end="933" text="Jordon" TYPE="DOCTOR"/>
+    <PHI id="P15" start="1159" end="1179" text="a publishing company" TYPE="ORGANIZATION"/>
+    <PHI id="P16" start="2030" end="2033" text="20s" TYPE="AGE"/>
+    <PHI id="P17" start="2883" end="2885" text="75" TYPE="AGE"/>
+    <PHI id="P18" start="3812" end="3823" text="Pamela Falk" TYPE="DOCTOR"/>
+    <PHI id="P19" start="3861" end="3871" text="5-33744827" TYPE="IDNUM"/>
+    <PHI id="P20" start="3891" end="3904" text="Jaclyn Jordon" TYPE="DOCTOR"/>
+    <PHI id="P21" start="3911" end="3927" text="Mondovi Hospital" TYPE="HOSPITAL"/>
+    <PHI id="P22" start="3929" end="3948" text="566 Ferncroft Drive" TYPE="STREET"/>
+    <PHI id="P23" start="3950" end="3960" text="Union City" TYPE="CITY"/>
+    <PHI id="P24" start="3962" end="3964" text="CT" TYPE="STATE"/>
+    <PHI id="P25" start="3966" end="3971" text="33636" TYPE="ZIP"/>
+    <PHI id="P26" start="3999" end="4007" text="03/10/67" TYPE="DATE"/>
+    <PHI id="P27" start="4013" end="4021" text="03/10/67" TYPE="DATE"/>
+    <PHI id="P28" start="4027" end="4035" text="03/10/67" TYPE="DATE"/>
+  </TAGS>
+</root>

@@ -1,0 +1,130 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2083-07-18
+
+ 
+ 
+July 18, 2083
+ 
+ 
+Vincent Ventura, M.D.
+4971 Edmatteric Drive
+Cheney, TX 37523
+ 
+RE:  Peggy Tinsley
+     MR #236-67-03-3
+ 
+Dear Dr. Ventura:
+ 
+Peggy Tinsley was seen in the renal clinic today.  This patient
+with end stage renal disease secondary to diabetes was initiated
+on hemodialysis 2 weeks ago in MH.  She has been doing well
+except for the complaint of fevers and rigors intermittently for
+the past week.  There is no history of cough, dyspnea, or chest
+pain.  She denies any dysuria, urgency, or frequency.  Her blood
+sugars at home have been between 120 and 180.  
+ 
+Her current medications include Tums 5 to 6 tabs with meals,
+Erythropoietin, Premarin and Provera, Nephrox 150 mg tid, insulin
+NPH 10 units qam.
+ 
+On July 17, after hemodialysis, Ms. Tinsley was given a partial
+dose of Vancomycin and developed pruritus.  CBC at the time
+revealed a white count of 6.2 with a hematocrit of 25.2.  Blood
+cultures were sent.
+ 
+On examination today this lady appeared well with a BP of 110/60
+and a pulse of 88.  She was afebrile.  Head and neck examination
+was unremarkable and chest was clear to IPPA.  On cardiovascular
+examination JVP was at the sternal angle and there was no
+peripheral edema.  Heart sounds were normal.
+ 
+Urinalysis did not reveal and white cells and contained 3+
+protein and 2+ glucose.
+ 
+Miss Tinsley should be followed up at her dialysis center. 
+There does not appear to be any evidence of a graft infection. 
+She should also have a urine sent for culture to rule out urinary
+tract infection.  Because of her early satiety she has been
+eating poorly and we might suggest that she be started on a
+gastroprokinetic agent such as Cisapride 10 mg qid.
+Vincent Ventura, M.D.         -2-
+RE:  Peggy Tinsley
+     MR #236-67-03-3
+ 
+ 
+Thank you for allowing us to be involved in the care of this
+patient.
+ 
+Yours sincerely,
+ 
+ 
+ 
+Martin Y. Pruitt, M.D.
+Renal Fellow
+ 
+ 
+ 
+Y. Quinton Xanders, M.D.
+Attending Physician
+ 
+DD: 07/18/83
+DT: 07/23/83
+DV: 07/18/83
+ 
+/bradford
+ 
+cc:  Dr. Uriel Palmer
+     Dr. Isaac Upson, Cheney, TX 37523
+ 
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC1" time="before DCT" type1="insulin" type2="">
+      <MEDICATION id="M0" start="727" end="751" text="insulin NPH 10 units qam" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M1" start="727" end="739" text="insulin NPH " time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M2" start="727" end="734" text="insulin" time="before DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC3" time="during DCT" type1="insulin" type2="">
+      <MEDICATION id="M3" start="727" end="751" text="insulin NPH 10 units qam" time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M4" start="727" end="739" text="insulin NPH " time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M5" start="727" end="734" text="insulin" time="during DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC7" time="after DCT" type1="insulin" type2="">
+      <MEDICATION id="M6" start="727" end="751" text="insulin NPH 10 units qam" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M7" start="727" end="739" text="insulin NPH " time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M8" start="727" end="734" text="insulin" time="after DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <FAMILY_HIST id="DOC4" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC5" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" status="unknown"/>
+      <SMOKER id="S2" start="3" end="10" text="Record " status="unknown" comment=""/>
+    </SMOKER>
+    <DIABETES id="DOC0" time="after DCT" indicator="mention">
+      <DIABETES id="D0" start="281" end="289" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D1" start="281" end="289" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D2" start="281" end="289" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC2" time="during DCT" indicator="mention">
+      <DIABETES id="D3" start="281" end="289" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D4" start="281" end="289" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D5" start="281" end="289" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC6" time="before DCT" indicator="mention">
+      <DIABETES id="D6" start="281" end="289" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D7" start="281" end="289" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D8" start="281" end="289" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+  </TAGS>
+</root>

@@ -1,0 +1,114 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2082-11-15
+
+
+
+
+NAME:     Yearwood, Alicia 
+MRN:      1872985
+
+PROBLEMS:  
+
+(1)  Grief: Misses her husband terribly.  Her family is supportive.
+
+(2)  Got flu vaccine on November 3.
+
+(3)  Hypertension: No chest pain, shortness of breath, leg swelling or fatigue.  
+
+MEDICATIONS:  Aspirin q.o.d., MVI, calcium, atenolol 25 mg p.o. q.d.  
+
+PHYSICAL EXAM:  Weight: 125 pounds.  Blood pressure: 150/74.  Patient looks
+generally the same.  No JVD.  No bruits.  Lungs clear.  Heart: S1, S2, regular rate
+and rhythm, no murmurs, rubs or gallops.  Abdomen: Soft, nondistended,
+nontender, no hepatosplenomegaly, no masses, normal bowel sounds.  Extremities:
+No peripheral edema.  Pulses 2+.
+
+ASSESSMENT AND PLAN:  
+
+(1)  Hypertension:  Above goal.  Increased atenolol to 50 mg p.o. q.d., #90 with
+     3 refills.  Check chemistries.  Also lipids, fasting.
+
+(2)  Mammogram ordered.
+
+(3)  Grief: Offered support.
+
+(4)  Weight loss: Most of it occurred when her husband died.  Has actually been
+     stable recently.  Check CBC.  Labs as above.  
+
+(5)  The patient will follow up in a few months.
+
+Hayden Richard, M.D.
+
+HR/edwards/black
+  
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="during DCT" type1="aspirin" type2="">
+      <MEDICATION id="M0" start="294" end="301" text="Aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M1" start="294" end="302" text="Aspirin " time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M2" start="294" end="301" text="Aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC1" time="before DCT" type1="aspirin" type2="">
+      <MEDICATION id="M3" start="294" end="301" text="Aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M4" start="294" end="302" text="Aspirin " time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M5" start="294" end="301" text="Aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC4" time="before DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M6" start="324" end="332" text="atenolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M7" start="324" end="331" text="atenolo" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M8" start="324" end="332" text="atenolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC6" time="after DCT" type1="aspirin" type2="">
+      <MEDICATION id="M9" start="294" end="301" text="Aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M10" start="294" end="302" text="Aspirin " time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M11" start="294" end="301" text="Aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC7" time="after DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M12" start="324" end="332" text="atenolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M13" start="324" end="331" text="atenolo" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M14" start="324" end="332" text="atenolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC9" time="during DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M15" start="324" end="332" text="atenolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M16" start="324" end="331" text="atenolo" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M17" start="324" end="332" text="atenolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC2" time="during DCT" indicator="high bp">
+      <HYPERTENSION id="H0" start="405" end="411" text="150/74" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H1" start="389" end="411" text="Blood pressure: 150/74" time="during DCT" indicator="high bp" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC3" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H2" start="202" end="214" text="Hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H3" start="202" end="214" text="Hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H4" start="202" end="214" text="Hypertension" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC5" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H5" start="202" end="214" text="Hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H6" start="202" end="214" text="Hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H7" start="202" end="214" text="Hypertension" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC10" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H8" start="202" end="214" text="Hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H9" start="202" end="214" text="Hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H10" start="202" end="214" text="Hypertension" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <FAMILY_HIST id="DOC11" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC8" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" start="3" end="9" text="Record" status="unknown" comment=""/>
+      <SMOKER id="S2" status="unknown"/>
+    </SMOKER>
+  </TAGS>
+</root>

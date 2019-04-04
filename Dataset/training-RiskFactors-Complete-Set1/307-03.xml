@@ -1,0 +1,182 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2059-05-28
+
+EDVISIT^43471375^KIMBROUGH, AMELIA^05/29/59^STEELE, SHAYLYN
+
+This patient was seen with resident, Dr. Elmore.  Resident's
+
+note was reviewed.  The patient was seen and examined by me, and
+
+I confirm the resident's findings.
+
+HISTORY OF PRESENT ILLNESS:  In brief, Ms. Kimbrough is a
+
+46-year-old woman with history of hypothyroidism, anxiety,
+
+diabetes, and nephrotic syndrome.  She is also dialysis
+
+dependent.  Her last dialysis was yesterday, she developed acute
+
+onset chest pressure with severe shortness of breath and
+
+diaphoresis while at home.  Called EMS and was brought to the
+
+Emergency Department.  The patient is unable to give a full
+
+history and at this time secondary to her significant respiratory
+
+distress.  Please review resident's note for full details of
+
+obtainable past medical history, social history, review of
+
+systems, medications, and allergies.
+
+PHYSICAL EXAMINATION:  I confirm the physical exam is as
+
+documented.  The patient is awake in severe respiratory distress.
+
+ Pulse is 126, respirations 40, blood pressure is initially noted
+
+at 253/129, and oximetry is 92% on facemask.  Physical exam
+
+reveals a diaphoretic woman who is breathing rapidly with
+
+accessory muscle use, nasal flaring and tripoding.  She has rales
+
+halfway up bilaterally with inspiratory and expiratory wheezes. 
+
+Cardiac exam reveals tachycardia.  Abdomen is obese but soft. 
+
+Extremity exam reveals bilateral 3+ edema up to the knees. 
+
+Rectal exam reveals trace heme-positive stool that is brown.
+
+On route, the patient received multiple doses of sublingual
+
+nitroglycerin as well as IV Lasix.  She is known to make urine, a
+
+Foley catheter was placed immediately.  IV access was
+
+established, and the patient received large doses of diuretics. 
+
+Was immediately started on IV nitroglycerin and a BiPAP.  On
+
+BiPAP, the patient's oxygenation was 100%.
+
+LABORATORY DATA:  Labs were obtained, which showed a hematocrit
+
+of 36, and BUN and creatinine of 15 and 5.1.  BNP was noted at
+
+700.  Cardiac enzymes:  CK was 334, CK-MB 4.9, and troponin was
+
+less than assay.  However, labs were obtained within half an hour
+
+of her symptoms starting, magnesium was low at 1.6.  Urinalysis
+
+was negative and urine HCG was negative.  EKG was sinus
+
+tachycardia without any ST or T-wave changes concerning for
+
+rate-related ischemia.  There were no prior EKGs available. 
+
+Chest x-ray showed bilateral CHF.  The Nephrology fellow covering
+
+hemodialysis was notified that the patient would need immediate
+
+hemodialysis and this was scheduled for 6:00 a.m.
+
+DIAGNOSIS:  End-stage renal disease, hemodialysis dependent, and
+
+CHF.
+
+ASSESSMENT:  Given the patient's constellation of symptoms, it is
+
+likely that she had an ischemic event that caused flash pulmonary
+
+edema and subsequent symptomatology.  Given the current regimen,
+
+in the Emergency Department, the patient gradually improved.  The
+
+respiratory rate was noted at 23.  Her heart rate came down to
+
+113 and blood pressure was well controlled on the IV
+
+nitroglycerin noted finally at 140/77.  The patient was taken to
+
+hemodialysis at 7:45 and admitted to the hospital thereafter for
+
+ ******** Not reviewed by Attending Physician ********
+
+______________________________
+
+STEELE, SHAYLYN 
+
+D: 05/29/59
+
+T: 05/30/59
+
+Dictated By: STEELE, SHAYLYN
+
+eScription document:3-2301636 BFFocus transcriptionists
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <DIABETES id="DOC0" time="after DCT" indicator="mention">
+      <DIABETES id="D0" start="372" end="380" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D1" start="372" end="380" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D2" start="372" end="380" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <HYPERTENSION id="DOC1" time="during DCT" indicator="high bp">
+      <HYPERTENSION id="H0" start="1061" end="1107" text="blood pressure is initially noted  at 253/129," time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H1" start="1099" end="1106" text="253/129" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H2" start="1099" end="1106" text="253/129" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H3" start="3068" end="3074" text="140/77" time="during DCT" indicator="high bp" comment=""/>
+    </HYPERTENSION>
+    <DIABETES id="DOC2" time="during DCT" indicator="mention">
+      <DIABETES id="D3" start="372" end="380" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D4" start="372" end="380" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D5" start="372" end="380" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <FAMILY_HIST id="DOC3" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC4" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" status="unknown"/>
+      <SMOKER id="S2" status="unknown"/>
+    </SMOKER>
+    <DIABETES id="DOC5" time="before DCT" indicator="mention">
+      <DIABETES id="D6" start="372" end="380" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D7" start="372" end="380" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D8" start="372" end="380" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <MEDICATION id="DOC6" time="during DCT" type1="nitrate" type2="">
+      <MEDICATION id="M0" start="3037" end="3050" text="nitroglycerin" time="during DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M1" start="1585" end="1610" text="sublingual  nitroglycerin" time="during DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M2" start="1597" end="1610" text="nitroglycerin" time="during DCT" type1="nitrate" type2="" comment=""/>
+    </MEDICATION>
+    <PHI id="P0" start="16" end="26" text="2059-05-28" TYPE="DATE"/>
+    <PHI id="P1" start="36" end="44" text="43471375" TYPE="MEDICALRECORD"/>
+    <PHI id="P2" start="45" end="62" text="KIMBROUGH, AMELIA" TYPE="PATIENT"/>
+    <PHI id="P3" start="63" end="71" text="05/29/59" TYPE="DATE"/>
+    <PHI id="P4" start="72" end="87" text="STEELE, SHAYLYN" TYPE="DOCTOR"/>
+    <PHI id="P5" start="130" end="136" text="Elmore" TYPE="DOCTOR"/>
+    <PHI id="P6" start="296" end="305" text="Kimbrough" TYPE="PATIENT"/>
+    <PHI id="P7" start="312" end="314" text="46" TYPE="AGE"/>
+    <PHI id="P8" start="3257" end="3272" text="STEELE, SHAYLYN" TYPE="DOCTOR"/>
+    <PHI id="P9" start="3278" end="3286" text="05/29/59" TYPE="DATE"/>
+    <PHI id="P10" start="3291" end="3299" text="05/30/59" TYPE="DATE"/>
+    <PHI id="P11" start="3314" end="3329" text="STEELE, SHAYLYN" TYPE="DOCTOR"/>
+    <PHI id="P12" start="3351" end="3360" text="3-2301636" TYPE="IDNUM"/>
+  </TAGS>
+</root>

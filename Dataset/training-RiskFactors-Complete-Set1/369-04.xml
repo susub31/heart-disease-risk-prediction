@@ -1,0 +1,176 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2083-01-23
+
+
+
+Middle Tennessee Institute
+
+242 Crest View Terrace                                        QIN, OWEN
+
+Queen Creek, ND 23115                            88491427
+
+(906) 178-3611                                            01/23/83
+
+
+
+
+
+HISTORY OF PRESENT ILLNESS: Mr. Qin is a patient of Dr. Potter's, who is in today for urgent care.  He is complaining of a funny sensation in his neck and occasional soreness in his left neck.  Sometimes it hurts worse with breathing.  Sometimes he feels a little catch and a fleeting moment of shortness of breath.  Of note, he was admitted to the hospital last week for these symptoms.  He was admitted, I think 01/15-01/16.  He was ruled out for an MI and actually had a stress test, which showed no evidence of ischemia.  Furthermore, he was monitored the entire time, including while he was having this symptom of a funny feeling in his chest followed by a little shortness of breath or catching his breath as he describes it and no arrhythmia was documented whatsoever.  He was ultimately discharged from the hospital with the diagnosis of Costa chondritis.  He is describing this pain in his left neck and he wonders if it is somehow related to the pain in his chest.  He said he tried gargling with mouthwash some and that did seem to help a little.  This neck or throat pain has been going on for the past three days.
+
+
+
+PAST MEDICAL HISTORY:  Remarkable for osteoarthritis, hypertension and other noncontributory problems.
+
+
+
+MEDICATIONS:  Aspirin, atenolol, Lipitor and vitamin E.
+
+
+
+ALLERGIES:  None.
+
+
+
+PHYSICAL EXAMINATION:  Today, he is alert and oriented.  His weight is 255.25 pounds, blood pressure 110/80, pulse 68, temperature 97.4.  Sinuses: Non-tender.  Nasal turbinates: Benign.  Tympanic membranes: With good light reflex, landmarks well seen.  Oropharynx: Without erythema, exudate, edema.  Neck: Supple, without adenopathy.  I am able to locate the spot that's bothering him by pressing on the mid outside of his left neck near where his carotid pulse is, but he does not have a lot of discomfort with this pressure and it does not seem to be quite what he is getting at.  Carotids are 2+ bilaterally.  Lungs: Clear to auscultation and percussion throughout.  Heart: Regular, without murmur, rub or gallop.
+
+
+
+ASSESSMENT AND PLAN:  I was unable to find a clear etiology for Mr. Quevedo discomfort, although I think he is probably right that it is related to the musculoskeletal chest pain that he is having.  I did reassure him and tell him that it was okay for him to take ibuprofen for this as he had been directed in the hospital.  He does have an appointment to see Dr. Potter in follow-up in the next couple weeks and he will call or return if any new symptoms develop.
+
+
+
+
+
+
+
+
+
+
+
+______________________________
+
+Rawan Pineda, M.D.
+
+
+
+
+
+Dictated By: Rawan Pineda
+
+
+
+
+
+eScription document:6-3221670 JSSten Tel
+
+
+
+
+
+
+
+DD: 01/23/83
+
+DT: 01/23/83
+
+DV: 01/23/83
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="before DCT" type1="statin" type2="">
+      <MEDICATION id="M0" start="1531" end="1538" text="Lipitor" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M1" start="1531" end="1538" text="Lipitor" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M2" start="1531" end="1538" text="Lipitor" time="before DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC1" time="during DCT" type1="statin" type2="">
+      <MEDICATION id="M3" start="1531" end="1538" text="Lipitor" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M4" start="1531" end="1538" text="Lipitor" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M5" start="1531" end="1538" text="Lipitor" time="during DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC2" time="during DCT" type1="aspirin" type2="">
+      <MEDICATION id="M6" start="1512" end="1519" text="Aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M7" start="1512" end="1519" text="Aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M8" start="1512" end="1519" text="Aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC3" time="after DCT" type1="statin" type2="">
+      <MEDICATION id="M9" start="1531" end="1538" text="Lipitor" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M10" start="1531" end="1538" text="Lipitor" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M11" start="1531" end="1538" text="Lipitor" time="after DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC4" time="after DCT" type1="aspirin" type2="">
+      <MEDICATION id="M12" start="1512" end="1519" text="Aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M13" start="1512" end="1519" text="Aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M14" start="1512" end="1519" text="Aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC5" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="1446" end="1458" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="1446" end="1458" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <MEDICATION id="DOC6" time="before DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M15" start="1521" end="1529" text="atenolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M16" start="1521" end="1529" text="atenolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M17" start="1521" end="1529" text="atenolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC7" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H2" start="1446" end="1458" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H3" start="1446" end="1458" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <MEDICATION id="DOC8" time="before DCT" type1="aspirin" type2="">
+      <MEDICATION id="M18" start="1512" end="1519" text="Aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M19" start="1512" end="1519" text="Aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M20" start="1512" end="1519" text="Aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC9" time="after DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M21" start="1521" end="1529" text="atenolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M22" start="1521" end="1529" text="atenolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M23" start="1521" end="1529" text="atenolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <SMOKER id="DOC10" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" status="unknown"/>
+      <SMOKER id="S2" start="262" end="269" text="HISTORY" status="unknown" comment=""/>
+    </SMOKER>
+    <MEDICATION id="DOC11" time="during DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M24" start="1521" end="1529" text="atenolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M25" start="1521" end="1529" text="atenolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M26" start="1521" end="1529" text="atenolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC12" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H4" start="1446" end="1458" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H5" start="1446" end="1458" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <FAMILY_HIST id="DOC13" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <PHI id="P0" start="16" end="26" text="2083-01-23" TYPE="DATE"/>
+    <PHI id="P1" start="30" end="56" text="Middle Tennessee Institute" TYPE="HOSPITAL"/>
+    <PHI id="P2" start="58" end="80" text="242 Crest View Terrace" TYPE="STREET"/>
+    <PHI id="P3" start="120" end="129" text="QIN, OWEN" TYPE="PATIENT"/>
+    <PHI id="P4" start="131" end="142" text="Queen Creek" TYPE="CITY"/>
+    <PHI id="P5" start="144" end="146" text="ND" TYPE="STATE"/>
+    <PHI id="P6" start="147" end="152" text="23115" TYPE="ZIP"/>
+    <PHI id="P7" start="180" end="188" text="88491427" TYPE="MEDICALRECORD"/>
+    <PHI id="P8" start="190" end="204" text="(906) 178-3611" TYPE="PHONE"/>
+    <PHI id="P9" start="248" end="256" text="01/23/83" TYPE="DATE"/>
+    <PHI id="P10" start="294" end="297" text="Qin" TYPE="PATIENT"/>
+    <PHI id="P11" start="318" end="326" text="Potter's" TYPE="DOCTOR"/>
+    <PHI id="P12" start="676" end="681" text="01/15" TYPE="DATE"/>
+    <PHI id="P13" start="682" end="687" text="01/16" TYPE="DATE"/>
+    <PHI id="P14" start="2366" end="2373" text="Quevedo" TYPE="PATIENT"/>
+    <PHI id="P15" start="2662" end="2668" text="Potter" TYPE="DOCTOR"/>
+    <PHI id="P16" start="2806" end="2818" text="Rawan Pineda" TYPE="DOCTOR"/>
+    <PHI id="P17" start="2843" end="2855" text="Rawan Pineda" TYPE="DOCTOR"/>
+    <PHI id="P18" start="2881" end="2890" text="6-3221670" TYPE="IDNUM"/>
+    <PHI id="P19" start="2913" end="2921" text="01/23/83" TYPE="DATE"/>
+    <PHI id="P20" start="2927" end="2935" text="01/23/83" TYPE="DATE"/>
+    <PHI id="P21" start="2941" end="2949" text="01/23/83" TYPE="DATE"/>
+  </TAGS>
+</root>

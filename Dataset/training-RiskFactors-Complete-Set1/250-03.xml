@@ -1,0 +1,275 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2081-02-19
+
+
+
+Titonka Cardiovascular Care Center
+
+TCC ER5
+
+54 Buker St                                      YERGER, URANIA
+
+Port Louis, GA 52114                                           58348900
+
+(784) 032-8966                                           02/19/81
+
+
+
+
+
+Xan Dillon, M.D.
+
+22 East Dunstable Road
+
+Nouakchott, GA  95269
+
+
+
+Dear Dr. Dillon:
+
+
+
+I had the pleasure of seeing Urania Yerger today in Titonka Care Center in followup of her coronary artery disease (CABG in October 2078), hypertension, and heart failure.  Since increasing her Lasix dose approximately 12 months ago, she has had substantial improvement in her heart failure symptoms.  She continues to admit to fatigue and musculoskeletal pain as limiting her exertion, but no longer experiences significant dyspnea.  She denies orthopnea, PND, or ankle edema.
+
+
+
+Her current medications are aspirin 325 mg p.o. q.d., Lasix 60 mg p.o. q.d., glipizide 10 mg p.o. q.d., losartan 100 mg p.o. q.d., Toprol-XL 100 mg p.o. q.d., simvastatin 10 mg p.o. q.d., Avandia, and multivitamins.
+
+
+
+Her blood pressure today is 165/70 and her heart rate is in the low 60s.  She is comfortable seated on the exam table.  Her jugular venous pressure is approximately 8 cm with prominent V waves.  There are very rare crackles at the bases.  Cardiac exam reveals a nondisplaced PMI with regular rate and rhythm, normal intensity S1 and S2.  P2 is increased.  There is a grade 3/6 holosystolic murmur, loudest at the apex.  She has no edema of the extremities and they are warm to touch.
+
+
+
+Her ECG reveals sinus rhythm with normal axis intervals.  There is nonspecific ST abnormality, unchanged from her tracing in August.
+
+
+
+In summary, Ms. Yerger remains free of recurrent angina or heart failure symptoms.  She does have evident persistent elevated right cardiac pressures on exam that may be related to her underlying pulmonary disease.  In light of her systolic hypertension, we increased her Toprol to 150 mg p.o. q.d.  She will have her blood pressure checked in the coming week and call the result to me.
+
+
+
+I look forward to seeing her again in approximately six months.  It remains a pleasure being involved in this delightful woman's care.
+
+
+
+Sincerely yours,
+
+
+
+
+
+
+
+
+
+
+
+______________________________
+
+Vaughn A. Xander, MD
+
+
+
+
+
+Dictated By: Vaughn A. Xander
+
+
+
+
+
+eScription document:5-0269342 GC
+
+
+
+
+
+
+
+DD: 02/19/81
+
+DT: 02/19/81
+
+DV: 02/19/81
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="after DCT" type1="statin" type2="">
+      <MEDICATION id="M0" start="1011" end="1022" text="simvastatin" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M1" start="1011" end="1022" text="simvastatin" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M2" start="1011" end="1022" text="simvastatin" time="after DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC1" time="during DCT" type1="aspirin" type2="">
+      <MEDICATION id="M3" start="880" end="887" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M4" start="880" end="887" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M5" start="880" end="887" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC2" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="510" end="522" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="510" end="522" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H2" start="510" end="522" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <MEDICATION id="DOC3" time="after DCT" type1="aspirin" type2="">
+      <MEDICATION id="M6" start="880" end="887" text="aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M7" start="880" end="887" text="aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M8" start="880" end="887" text="aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC4" time="during DCT" indicator="high bp">
+      <HYPERTENSION id="H3" start="1071" end="1105" text="Her blood pressure today is 165/70" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H4" start="1099" end="1105" text="165/70" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H5" start="1075" end="1105" text="blood pressure today is 165/70" time="during DCT" indicator="high bp" comment=""/>
+    </HYPERTENSION>
+    <MEDICATION id="DOC5" time="after DCT" type1="sulfonylureas" type2="">
+      <MEDICATION id="M9" start="929" end="938" text="glipizide" time="after DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M10" start="929" end="938" text="glipizide" time="after DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M11" start="929" end="938" text="glipizide" time="after DCT" type1="sulfonylureas" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC6" time="during DCT" type1="sulfonylureas" type2="">
+      <MEDICATION id="M12" start="929" end="938" text="glipizide" time="during DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M13" start="929" end="938" text="glipizide" time="during DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M14" start="929" end="938" text="glipizide" time="during DCT" type1="sulfonylureas" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC7" time="before DCT" type1="thiazolidinedione" type2="">
+      <MEDICATION id="M15" start="1040" end="1047" text="Avandia" time="before DCT" type1="thiazolidinedione" type2="" comment=""/>
+      <MEDICATION id="M16" start="1040" end="1047" text="Avandia" time="before DCT" type1="thiazolidinedione" type2="" comment=""/>
+      <MEDICATION id="M17" start="1040" end="1047" text="Avandia" time="before DCT" type1="thiazolidinedione" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC8" time="after DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M18" start="983" end="992" text="Toprol-XL" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M19" start="1966" end="1972" text="Toprol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M20" start="982" end="992" text=" Toprol-XL" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M21" start="983" end="992" text="Toprol-XL" time="after DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <SMOKER id="DOC9" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" status="unknown"/>
+      <SMOKER id="S2" status="unknown"/>
+    </SMOKER>
+    <CAD id="DOC10" time="after DCT" indicator="mention">
+      <CAD id="C0" start="462" end="508" text="coronary artery disease (CABG in October 2078)" time="after DCT" indicator="mention" comment=""/>
+      <CAD id="C1" start="462" end="485" text="coronary artery disease" time="after DCT" indicator="mention" comment=""/>
+      <CAD id="C2" start="462" end="486" text="coronary artery disease " time="after DCT" indicator="mention" comment=""/>
+    </CAD>
+    <MEDICATION id="DOC11" time="after DCT" type1="ARB" type2="">
+      <MEDICATION id="M22" start="956" end="964" text="losartan" time="after DCT" type1="ARB" type2="" comment=""/>
+      <MEDICATION id="M23" start="956" end="964" text="losartan" time="after DCT" type1="ARB" type2="" comment=""/>
+      <MEDICATION id="M24" start="956" end="964" text="losartan" time="after DCT" type1="ARB" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC12" time="before DCT" type1="statin" type2="">
+      <MEDICATION id="M25" start="1011" end="1022" text="simvastatin" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M26" start="1011" end="1022" text="simvastatin" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M27" start="1011" end="1022" text="simvastatin" time="before DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC13" time="during DCT" type1="statin" type2="">
+      <MEDICATION id="M28" start="1011" end="1022" text="simvastatin" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M29" start="1011" end="1022" text="simvastatin" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M30" start="1011" end="1022" text="simvastatin" time="during DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC14" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H6" start="510" end="522" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H7" start="510" end="522" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H8" start="510" end="522" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <FAMILY_HIST id="DOC15" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <CAD id="DOC16" time="during DCT" indicator="mention">
+      <CAD id="C3" start="462" end="508" text="coronary artery disease (CABG in October 2078)" time="during DCT" indicator="mention" comment=""/>
+      <CAD id="C4" start="462" end="485" text="coronary artery disease" time="during DCT" indicator="mention" comment=""/>
+      <CAD id="C5" start="462" end="486" text="coronary artery disease " time="during DCT" indicator="mention" comment=""/>
+    </CAD>
+    <MEDICATION id="DOC17" time="before DCT" type1="aspirin" type2="">
+      <MEDICATION id="M31" start="880" end="887" text="aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M32" start="880" end="887" text="aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M33" start="880" end="887" text="aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <CAD id="DOC18" time="before DCT" indicator="mention">
+      <CAD id="C6" start="462" end="508" text="coronary artery disease (CABG in October 2078)" time="before DCT" indicator="mention" comment=""/>
+      <CAD id="C7" start="462" end="485" text="coronary artery disease" time="before DCT" indicator="mention" comment=""/>
+      <CAD id="C8" start="462" end="486" text="coronary artery disease " time="before DCT" indicator="mention" comment=""/>
+    </CAD>
+    <MEDICATION id="DOC19" time="during DCT" type1="thiazolidinedione" type2="">
+      <MEDICATION id="M34" start="1040" end="1047" text="Avandia" time="during DCT" type1="thiazolidinedione" type2="" comment=""/>
+      <MEDICATION id="M35" start="1040" end="1047" text="Avandia" time="during DCT" type1="thiazolidinedione" type2="" comment=""/>
+      <MEDICATION id="M36" start="1040" end="1047" text="Avandia" time="during DCT" type1="thiazolidinedione" type2="" comment=""/>
+    </MEDICATION>
+    <CAD id="DOC20" time="before DCT" indicator="event">
+      <CAD id="C9" start="487" end="508" text="CABG in October 2078)" time="before DCT" indicator="event" comment=""/>
+      <CAD id="C10" start="487" end="491" text="CABG" time="before DCT" indicator="event" comment=""/>
+    </CAD>
+    <MEDICATION id="DOC21" time="before DCT" type1="sulfonylureas" type2="">
+      <MEDICATION id="M37" start="929" end="938" text="glipizide" time="before DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M38" start="929" end="938" text="glipizide" time="before DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M39" start="929" end="938" text="glipizide" time="before DCT" type1="sulfonylureas" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC22" time="after DCT" type1="thiazolidinedione" type2="">
+      <MEDICATION id="M40" start="1040" end="1047" text="Avandia" time="after DCT" type1="thiazolidinedione" type2="" comment=""/>
+      <MEDICATION id="M41" start="1040" end="1047" text="Avandia" time="after DCT" type1="thiazolidinedione" type2="" comment=""/>
+      <MEDICATION id="M42" start="1040" end="1047" text="Avandia" time="after DCT" type1="thiazolidinedione" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC23" time="before DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M43" start="983" end="992" text="Toprol-XL" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M44" start="1966" end="1972" text="Toprol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M45" start="982" end="992" text=" Toprol-XL" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M46" start="983" end="992" text="Toprol-XL" time="before DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC24" time="during DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M47" start="983" end="992" text="Toprol-XL" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M48" start="1966" end="1972" text="Toprol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M49" start="982" end="992" text=" Toprol-XL" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M50" start="983" end="992" text="Toprol-XL" time="during DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC25" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H9" start="510" end="522" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H10" start="510" end="522" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H11" start="510" end="522" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <MEDICATION id="DOC26" time="during DCT" type1="ARB" type2="">
+      <MEDICATION id="M51" start="956" end="964" text="losartan" time="during DCT" type1="ARB" type2="" comment=""/>
+      <MEDICATION id="M52" start="956" end="964" text="losartan" time="during DCT" type1="ARB" type2="" comment=""/>
+      <MEDICATION id="M53" start="956" end="964" text="losartan" time="during DCT" type1="ARB" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC27" time="before DCT" type1="ARB" type2="">
+      <MEDICATION id="M54" start="956" end="964" text="losartan" time="before DCT" type1="ARB" type2="" comment=""/>
+      <MEDICATION id="M55" start="956" end="964" text="losartan" time="before DCT" type1="ARB" type2="" comment=""/>
+      <MEDICATION id="M56" start="956" end="964" text="losartan" time="before DCT" type1="ARB" type2="" comment=""/>
+    </MEDICATION>
+    <PHI id="P0" start="16" end="26" text="2081-02-19" TYPE="DATE"/>
+    <PHI id="P1" start="30" end="64" text="Titonka Cardiovascular Care Center" TYPE="HOSPITAL"/>
+    <PHI id="P2" start="66" end="73" text="TCC ER5" TYPE="ROOM"/>
+    <PHI id="P3" start="75" end="86" text="54 Buker St" TYPE="STREET"/>
+    <PHI id="P4" start="124" end="138" text="YERGER, URANIA" TYPE="PATIENT"/>
+    <PHI id="P5" start="140" end="150" text="Port Louis" TYPE="CITY"/>
+    <PHI id="P6" start="152" end="154" text="GA" TYPE="STATE"/>
+    <PHI id="P7" start="155" end="160" text="52114" TYPE="ZIP"/>
+    <PHI id="P8" start="203" end="211" text="58348900" TYPE="MEDICALRECORD"/>
+    <PHI id="P9" start="213" end="227" text="(784) 032-8966" TYPE="PHONE"/>
+    <PHI id="P10" start="270" end="278" text="02/19/81" TYPE="DATE"/>
+    <PHI id="P11" start="284" end="294" text="Xan Dillon" TYPE="DOCTOR"/>
+    <PHI id="P12" start="302" end="324" text="22 East Dunstable Road" TYPE="STREET"/>
+    <PHI id="P13" start="326" end="336" text="Nouakchott" TYPE="CITY"/>
+    <PHI id="P14" start="338" end="340" text="GA" TYPE="STATE"/>
+    <PHI id="P15" start="342" end="347" text="95269" TYPE="ZIP"/>
+    <PHI id="P16" start="360" end="366" text="Dillon" TYPE="DOCTOR"/>
+    <PHI id="P17" start="400" end="413" text="Urania Yerger" TYPE="PATIENT"/>
+    <PHI id="P18" start="423" end="442" text="Titonka Care Center" TYPE="HOSPITAL"/>
+    <PHI id="P19" start="495" end="507" text="October 2078" TYPE="DATE"/>
+    <PHI id="P20" start="1683" end="1689" text="August" TYPE="DATE"/>
+    <PHI id="P21" start="1710" end="1716" text="Yerger" TYPE="PATIENT"/>
+    <PHI id="P22" start="2282" end="2298" text="Vaughn A. Xander" TYPE="DOCTOR"/>
+    <PHI id="P23" start="2321" end="2337" text="Vaughn A. Xander" TYPE="DOCTOR"/>
+    <PHI id="P24" start="2363" end="2375" text="5-0269342 GC" TYPE="IDNUM"/>
+    <PHI id="P25" start="2387" end="2395" text="02/19/81" TYPE="DATE"/>
+    <PHI id="P26" start="2401" end="2409" text="02/19/81" TYPE="DATE"/>
+    <PHI id="P27" start="2415" end="2423" text="02/19/81" TYPE="DATE"/>
+  </TAGS>
+</root>

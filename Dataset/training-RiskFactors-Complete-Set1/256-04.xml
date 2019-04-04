@@ -1,0 +1,208 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2152-08-26
+
+
+	CARDIOLOGY
+	
+
+	VALLEY COUNTY HOSPITAL
+	
+
+Whitney V Keller M.D. 
+052 Penny Lane
+Punta Gorda, OK 98634
+
+Dear Whitney:
+
+  I was pleased to see Michelle Klein this morning for a post hospitalization followup evaluation.  You know Michelle well, she does have coronary artery disease, has had an LAD stent placed in 2148, and had a normal stress sestamibi study in November 2151.  She has moderate mitral insufficiency.  Her left atrial dimension is 52 and RV pressure 42.  She is diabetic and has hypertension.  She was hospitalized with a diarrheal bleeding issue attributed to salmonella infection attributed to tomatoes it also affecting her husband and this was accomplished at the Copley Hospital.
+
+Her medications were modified somewhat.  She presently takes atenolol 50 mg a day, verapamil 120 mg per day, Lipitor 10 mg a day, Diovan 80 mg per day, they held her aspirin and her Imdur, she takes Prilosec 40 mg BID, and metformin 500 mg BID.  Her blood pressure remains high today at 147/70, it had been similar range when I saw her in June this year.  Pending her diarrhea at home, we may need to go back up on some of her medications, but at this point we will change.  She is symptom free vis-a-vie her heart.
+
+Her exam shows no cyanosis, clubbing, or edema.  Normal thyroid, normal neck veins, and arteries.  Clear lungs.  Normal abdomen, nontender, and no mass felt.  Her heart palpates normally.  There were no thrills and no scars.  Her first sound is soft and second is normal.  There is a 1/6 apical mitral insufficiency murmur with positive response to isometrics.  There were no diastolic murmurs.  Blood pressure is 145/70.
+
+The electrocardiogram was normal with trace nonspecific ST flattening.
+
+I will plan to reassess Michelle in four months and she will have a recheck several times a month of her blood pressure at home and she will send diaries to me.  If her blood pressure is continued at home to be in her present level, we will advance her medications to accommodate this.  If there are any questions feel free to call me.
+
+Sincerely yours,
+
+	
+Tony Wilkinson, MD
+
+	
+Signed electronically by  Tony Wilkinson, MD
+Document Status: Final
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="after DCT" type1="statin" type2="">
+      <MEDICATION id="M0" start="839" end="846" text="Lipitor" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M1" start="839" end="846" text="Lipitor" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M2" start="839" end="846" text="Lipitor" time="after DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC1" time="after DCT" type1="metformin" type2="">
+      <MEDICATION id="M3" start="953" end="962" text="metformin" time="after DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M4" start="953" end="962" text="metformin" time="after DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M5" start="953" end="962" text="metformin" time="after DCT" type1="metformin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC2" time="during DCT" type1="metformin" type2="">
+      <MEDICATION id="M6" start="953" end="962" text="metformin" time="during DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M7" start="953" end="962" text="metformin" time="during DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M8" start="953" end="962" text="metformin" time="during DCT" type1="metformin" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC3" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="523" end="535" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="523" end="535" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H2" start="523" end="535" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <DIABETES id="DOC4" time="before DCT" indicator="mention">
+      <DIABETES id="D0" start="506" end="514" text="diabetic" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D1" start="506" end="514" text="diabetic" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D2" start="506" end="514" text="diabetic" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC5" time="during DCT" indicator="mention">
+      <DIABETES id="D3" start="506" end="514" text="diabetic" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D4" start="506" end="514" text="diabetic" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D5" start="506" end="514" text="diabetic" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <MEDICATION id="DOC6" time="during DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M9" start="813" end="822" text="verapamil" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M10" start="813" end="822" text="verapamil" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M11" start="813" end="822" text="verapamil" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC7" time="during DCT" indicator="high bp">
+      <HYPERTENSION id="H3" start="1017" end="1023" text="147/70" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H4" start="980" end="1023" text="blood pressure remains high today at 147/70" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H5" start="1643" end="1667" text="Blood pressure is 145/70" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H6" start="1017" end="1023" text="147/70" time="during DCT" indicator="high bp" comment=""/>
+    </HYPERTENSION>
+    <MEDICATION id="DOC8" time="before DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M12" start="813" end="822" text="verapamil" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M13" start="813" end="822" text="verapamil" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M14" start="813" end="822" text="verapamil" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC9" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H7" start="523" end="535" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H8" start="523" end="535" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H9" start="523" end="535" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <MEDICATION id="DOC10" time="after DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M15" start="791" end="799" text="atenolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M16" start="791" end="799" text="atenolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M17" start="791" end="799" text="atenolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <SMOKER id="DOC11" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" status="unknown"/>
+      <SMOKER id="S2" status="unknown"/>
+    </SMOKER>
+    <CAD id="DOC12" time="after DCT" indicator="mention">
+      <CAD id="C0" start="285" end="308" text="coronary artery disease" time="after DCT" indicator="mention" comment=""/>
+      <CAD id="C1" start="285" end="308" text="coronary artery disease" time="after DCT" indicator="mention" comment=""/>
+      <CAD id="C2" start="285" end="308" text="coronary artery disease" time="after DCT" indicator="mention" comment=""/>
+    </CAD>
+    <MEDICATION id="DOC13" time="after DCT" type1="ARB" type2="">
+      <MEDICATION id="M18" start="860" end="866" text="Diovan" time="after DCT" type1="ARB" type2="" comment=""/>
+      <MEDICATION id="M19" start="860" end="866" text="Diovan" time="after DCT" type1="ARB" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC14" time="before DCT" type1="statin" type2="">
+      <MEDICATION id="M20" start="839" end="846" text="Lipitor" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M21" start="839" end="846" text="Lipitor" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M22" start="839" end="846" text="Lipitor" time="before DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC15" time="during DCT" type1="statin" type2="">
+      <MEDICATION id="M23" start="839" end="846" text="Lipitor" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M24" start="839" end="846" text="Lipitor" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M25" start="839" end="846" text="Lipitor" time="during DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC16" time="before DCT" type1="metformin" type2="">
+      <MEDICATION id="M26" start="953" end="962" text="metformin" time="before DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M27" start="953" end="962" text="metformin" time="before DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M28" start="953" end="962" text="metformin" time="before DCT" type1="metformin" type2="" comment=""/>
+    </MEDICATION>
+    <FAMILY_HIST id="DOC17" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <CAD id="DOC18" time="during DCT" indicator="mention">
+      <CAD id="C3" start="285" end="308" text="coronary artery disease" time="during DCT" indicator="mention" comment=""/>
+      <CAD id="C4" start="285" end="308" text="coronary artery disease" time="during DCT" indicator="mention" comment=""/>
+      <CAD id="C5" start="285" end="308" text="coronary artery disease" time="during DCT" indicator="mention" comment=""/>
+    </CAD>
+    <MEDICATION id="DOC19" time="before DCT" type1="aspirin" type2="">
+      <MEDICATION id="M29" start="896" end="903" text="aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M30" start="896" end="903" text="aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M31" start="887" end="903" text="held her aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC20" time="before DCT" type1="nitrate" type2="">
+      <MEDICATION id="M32" start="912" end="917" text="Imdur" time="before DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M33" start="887" end="918" text="held her aspirin and her Imdur," time="before DCT" type1="nitrate" type2="" comment=""/>
+    </MEDICATION>
+    <DIABETES id="DOC21" time="after DCT" indicator="mention">
+      <DIABETES id="D6" start="506" end="514" text="diabetic" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D7" start="506" end="514" text="diabetic" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D8" start="506" end="514" text="diabetic" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <CAD id="DOC22" time="before DCT" indicator="event">
+      <CAD id="C6" start="321" end="331" text="LAD stent " time="before DCT" indicator="event" comment=""/>
+      <CAD id="C7" start="314" end="345" text="had an LAD stent placed in 2148" time="before DCT" indicator="event" comment=""/>
+    </CAD>
+    <MEDICATION id="DOC23" time="after DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M34" start="813" end="822" text="verapamil" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M35" start="813" end="822" text="verapamil" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M36" start="813" end="822" text="verapamil" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC24" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H10" start="523" end="535" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H11" start="523" end="535" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H12" start="523" end="535" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <MEDICATION id="DOC25" time="before DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M37" start="791" end="799" text="atenolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M38" start="791" end="799" text="atenolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M39" start="791" end="799" text="atenolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC26" time="during DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M40" start="791" end="799" text="atenolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M41" start="791" end="799" text="atenolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M42" start="791" end="799" text="atenolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <CAD id="DOC27" time="before DCT" indicator="mention">
+      <CAD id="C8" start="285" end="308" text="coronary artery disease" time="before DCT" indicator="mention" comment=""/>
+      <CAD id="C9" start="285" end="308" text="coronary artery disease" time="before DCT" indicator="mention" comment=""/>
+      <CAD id="C10" start="285" end="308" text="coronary artery disease" time="before DCT" indicator="mention" comment=""/>
+    </CAD>
+    <MEDICATION id="DOC28" time="during DCT" type1="ARB" type2="">
+      <MEDICATION id="M43" start="860" end="866" text="Diovan" time="during DCT" type1="ARB" type2="" comment=""/>
+      <MEDICATION id="M44" start="860" end="866" text="Diovan" time="during DCT" type1="ARB" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC29" time="before DCT" type1="ARB" type2="">
+      <MEDICATION id="M45" start="860" end="866" text="Diovan" time="before DCT" type1="ARB" type2="" comment=""/>
+      <MEDICATION id="M46" start="860" end="866" text="Diovan" time="before DCT" type1="ARB" type2="" comment=""/>
+    </MEDICATION>
+    <PHI id="P0" start="16" end="26" text="2152-08-26" TYPE="DATE"/>
+    <PHI id="P1" start="45" end="67" text="VALLEY COUNTY HOSPITAL" TYPE="HOSPITAL"/>
+    <PHI id="P2" start="71" end="87" text="Whitney V Keller" TYPE="DOCTOR"/>
+    <PHI id="P3" start="94" end="108" text="052 Penny Lane" TYPE="STREET"/>
+    <PHI id="P4" start="109" end="120" text="Punta Gorda" TYPE="CITY"/>
+    <PHI id="P5" start="122" end="124" text="OK" TYPE="STATE"/>
+    <PHI id="P6" start="125" end="130" text="98634" TYPE="ZIP"/>
+    <PHI id="P7" start="137" end="144" text="Whitney" TYPE="DOCTOR"/>
+    <PHI id="P8" start="170" end="184" text="Michelle Klein" TYPE="PATIENT"/>
+    <PHI id="P9" start="256" end="264" text="Michelle" TYPE="PATIENT"/>
+    <PHI id="P10" start="341" end="345" text="2148" TYPE="DATE"/>
+    <PHI id="P11" start="390" end="403" text="November 2151" TYPE="DATE"/>
+    <PHI id="P12" start="712" end="727" text="Copley Hospital" TYPE="HOSPITAL"/>
+    <PHI id="P13" start="1069" end="1073" text="June" TYPE="DATE"/>
+    <PHI id="P14" start="1766" end="1774" text="Michelle" TYPE="PATIENT"/>
+    <PHI id="P15" start="2099" end="2113" text="Tony Wilkinson" TYPE="DOCTOR"/>
+    <PHI id="P16" start="2147" end="2161" text="Tony Wilkinson" TYPE="DOCTOR"/>
+  </TAGS>
+</root>

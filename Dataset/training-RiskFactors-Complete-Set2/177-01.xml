@@ -1,0 +1,121 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2070-09-14
+
+9/14/70
+
+Ito #1524720
+
+
+
+HPI:	
+
+64yo F RH presents with traumatic brain injury s/p being struck by car.  +struck head. +LOC, now recovered.  The patient denies any associated history of weakness, parasthesias, diplopia/blurry vision, loss of visual field, hearing loss/tinnitus, vertigo, nausea/vomiting.  
+
+	
+
+PMH: 	denies
+
+All:	NKDA
+
+Meds: 	denies
+
+
+
+Exam: 
+
+Gen: WDWN woman in NAD
+
+HEENT: NC/AT, MMM, OP clear
+
+Neck: Supple, FROM
+
+Neuro:
+
+Alert, responsive.  Oriented to person, place, time. Behavior perseverative, with obvious short-term memory loss, repetitive questions.
+
+Speech fluent, spontaneous.  Comprehension, naming, repetition normal. 
+
+
+
+Cranial Nerves: VFFTC, PERL, EOMI, ?mild left NL flattening, TML
+
+Motor: normal bulk and tone, no atrophy, fasciculations, tremor
+
+Moves upper extremities to command, full strength. No drift.
+
+Moves lower extremities to command, full strength
+
+Reflex:	Bi	BR	Knee	Ankle	Babinski
+
+	C5	C6	L3/4	S1	
+
+R	2	2	2	1	down
+
+L	2	2	2	1	down
+
+Sensory: Bilateral upper, lower extremities intact to light touch.
+
+
+
+Labs: 	wbc 11.5, hct 42.7, plts 367, coags 12.5/22.8, u/a 3+glu, lytes notable for glu 341, ucg neg 
+
+CT(I-):	4mm left subdural with adjacent SAH
+
+
+
+Impression: 64yo female with non-operative traumatic brain injury. Exam consistent with post-concussive symptoms. 
+
+
+
+1)	Continue to monitor neurologic exam - CT scan immediately if mental status or neurologic exam changes
+
+2)     Plan for repeat CT scan in AM.
+
+3)	Dilantin load 1g x 1 dose IV, then 100mg PO TID. Continue for 30 days.
+
+4)	Upon discharge, the patient should follow up with Missouri River Manor by calling 418-875-8781 for an appointment in one month with a repeat head CT.
+
+5)	The Hospital De Distrito will follow during this admission.
+
+
+
+Case discussed with Dr. Michael Glenn. Thank you for this consult.
+
+
+
+
+
+
+
+
+
+____________________
+
+Paul T. Quinby, MD, PhD
+
+NGH Neurosurgery
+
+x13650
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <FAMILY_HIST id="DOC0" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC1" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" status="unknown"/>
+      <SMOKER id="S2" start="2" end="10" text=" Record " status="unknown" comment=""/>
+    </SMOKER>
+  </TAGS>
+</root>

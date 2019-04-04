@@ -1,0 +1,371 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2067-05-03
+
+Narrative History
+
+   55 yo woman who presents for f/u 
+
+   
+
+   Seen in Cardiac rehab locally last week and BP 170/80.  They called us and we increased her HCTZ to 25 mg from 12.5 mg.  States her BP's were fine there since - 130-140/70-80.
+
+   
+
+   
+
+   Saw Dr Oakley 4/5/67 - she was happy with results of ETT at Clarkfield.  To f/u 7/67.  No CP's since last admit.
+
+   
+
+   Back to work and starting to walk.  No wt loss and discouraged by this, but just starting to exercise.
+
+   
+
+   No smoking for 3 months now!
+
+   
+
+   Still with hotflashes, wakes her up at night.
+
+Problems
+
+      FH breast cancer   37 yo s 
+
+
+
+      FH myocardial infarction   mother died 66 yo 
+
+
+
+      Hypertension
+
+
+
+      Uterine fibroids   u/s 2062 
+
+
+
+      Smoking
+
+
+
+      hyperlipidemia   CRF mild chol, cigs, HTN, Fhx and known hx CAD in pt. 
+
+
+
+      borderline diabetes mellitus   4/63 125 , follow hgbaic 
+
+
+
+      VPB   2065 - ETT showed freq PVC 
+
+
+
+      coronary artery disease   s/p ant SEMI + stent LAD 2/67, Dr Oakley 
+
+
+
+      thyroid nodule   2065, hot, follow TSH. 
+
+Medications
+
+      NORVASC (AMLODIPINE)     5MG  1 Tablet(s) PO QD  
+
+
+
+      PLAVIX (CLOPIDOGREL)   75 MG     PO QD  
+
+
+
+      ATENOLOL     50MG  1 Tablet(s) PO QD  
+
+
+
+      ASA (ACETYLSALICYLIC ACID)     325MG  1 Tablet(s) PO QD  
+
+
+
+      ZESTRIL (LISINOPRIL)     40MG  1 Tablet(s) PO QD   
+
+
+
+      LIPITOR (ATORVASTATIN)     10MG  1 Tablet(s) PO QD  
+
+
+
+      HCTZ (HYDROCHLOROTHIAZIDE)     25MG  1 Tablet(s) PO QD   
+
+
+
+      NITROGLYCERIN 1/150 (0.4 MG)   1 TAB     SL x1  PRN prn CP 
+
+Allergies
+
+      CECLOR (CEFACLOR)   Rash   
+
+Vital Signs
+
+      BLOOD PRESSURE-SITTING   150/70 
+
+         repeat 145/80   HR 60 reg  WT  202 lbs
+
+Physical Exam
+
+   Looks well.  Lungs clear,  CVS  RRRs1s2, Ext - no edema	
+
+Assessment and Plan
+
+   1. H/M - Pe next appt in few months.  Overdue for mammo - will need to stress this.
+
+   2.  CAD - cont with cardiac rehab, exercise, Dr Oakley, but doing well.
+
+   3.  BP - better on increased HCTZ.  Check labs next visit, good K recently and on ACEI.
+
+   4.  Cigs - great!
+
+   5. Hot flashes - doesn't want to try any other meds - will try to put up with it.
+
+   6. Hot thyroid nodule - recheck TSH next visit.
+
+   7. Borderline glc - ok hgba1c 3/67.
+
+   8.  Chol - ok, fasting on next visit.
+
+   
+
+   
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="during DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M0" start="1339" end="1346" text="ZESTRIL" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M1" start="1339" end="1347" text="ZESTRIL " time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M2" start="1339" end="1359" text="ZESTRIL (LISINOPRIL)" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC1" time="after DCT" type1="statin" type2="">
+      <MEDICATION id="M3" start="1400" end="1407" text="LIPITOR" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M4" start="1400" end="1407" text="LIPITOR" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M5" start="1400" end="1422" text="LIPITOR (ATORVASTATIN)" time="after DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC2" time="during DCT" type1="aspirin" type2="">
+      <MEDICATION id="M6" start="1272" end="1275" text="ASA" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M7" start="1272" end="1275" text="ASA" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M8" start="1271" end="1298" text=" ASA (ACETYLSALICYLIC ACID)" time="during DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC3" time="during DCT" type1="thienopyridine" type2="">
+      <MEDICATION id="M9" start="1174" end="1180" text="PLAVIX" time="during DCT" type1="thienopyridine" type2="" comment=""/>
+      <MEDICATION id="M10" start="1173" end="1180" text=" PLAVIX" time="during DCT" type1="thienopyridine" type2="" comment=""/>
+      <MEDICATION id="M11" start="1174" end="1194" text="PLAVIX (CLOPIDOGREL)" time="during DCT" type1="thienopyridine" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC4" time="before DCT" type1="diuretic" type2="">
+      <MEDICATION id="M12" start="1462" end="1466" text="HCTZ" time="before DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M13" start="185" end="189" text="HCTZ" time="before DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M14" start="1461" end="1466" text=" HCTZ" time="before DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M15" start="185" end="189" text="HCTZ" time="before DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M16" start="1462" end="1488" text="HCTZ (HYDROCHLOROTHIAZIDE)" time="before DCT" type1="diuretic" type2="" comment=""/>
+    </MEDICATION>
+    <SMOKER id="DOC5" status="past">
+      <SMOKER id="S0" start="516" end="545" text=" No smoking for 3 months now!" status="past" comment=""/>
+      <SMOKER id="S1" start="517" end="540" text="No smoking for 3 months" status="past" comment=""/>
+      <SMOKER id="S2" start="516" end="544" text=" No smoking for 3 months now" status="past" comment=""/>
+    </SMOKER>
+    <HYPERTENSION id="DOC6" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="710" end="722" text="Hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="710" end="722" text="Hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H2" start="710" end="722" text="Hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H3" start="825" end="828" text="HTN" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <MEDICATION id="DOC7" time="after DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M17" start="1339" end="1346" text="ZESTRIL" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M18" start="1339" end="1347" text="ZESTRIL " time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M19" start="1339" end="1359" text="ZESTRIL (LISINOPRIL)" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC8" time="before DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M20" start="1339" end="1346" text="ZESTRIL" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M21" start="1339" end="1347" text="ZESTRIL " time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M22" start="1339" end="1359" text="ZESTRIL (LISINOPRIL)" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC9" time="after DCT" type1="aspirin" type2="">
+      <MEDICATION id="M23" start="1272" end="1275" text="ASA" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M24" start="1272" end="1275" text="ASA" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M25" start="1271" end="1298" text=" ASA (ACETYLSALICYLIC ACID)" time="after DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC10" time="after DCT" type1="nitrate" type2="">
+      <MEDICATION id="M26" start="1529" end="1542" text="NITROGLYCERIN" time="after DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M27" start="1528" end="1557" text=" NITROGLYCERIN 1/150 (0.4 MG)" time="after DCT" type1="nitrate" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC11" time="during DCT" type1="nitrate" type2="">
+      <MEDICATION id="M28" start="1529" end="1542" text="NITROGLYCERIN" time="during DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M29" start="1528" end="1557" text=" NITROGLYCERIN 1/150 (0.4 MG)" time="during DCT" type1="nitrate" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC12" time="during DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M30" start="1115" end="1122" text="NORVASC" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M31" start="1115" end="1122" text="NORVASC" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M32" start="1115" end="1136" text="NORVASC (AMLODIPINE) " time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERLIPIDEMIA id="DOC13" time="during DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY0" start="787" end="801" text="hyperlipidemia" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY1" start="782" end="801" text="     hyperlipidemia" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY2" start="787" end="801" text="hyperlipidemia" time="during DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <HYPERTENSION id="DOC14" time="during DCT" indicator="high bp">
+      <HYPERTENSION id="H4" start="1679" end="1713" text=" 150/70            repeat 145/80  " time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H5" start="1680" end="1686" text="150/70" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H6" start="1680" end="1686" text="150/70" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H7" start="1705" end="1711" text="145/80" time="during DCT" indicator="high bp" comment=""/>
+    </HYPERTENSION>
+    <MEDICATION id="DOC15" time="after DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M33" start="1115" end="1122" text="NORVASC" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M34" start="1115" end="1122" text="NORVASC" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M35" start="1115" end="1136" text="NORVASC (AMLODIPINE) " time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC16" time="before DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M36" start="1115" end="1122" text="NORVASC" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M37" start="1115" end="1122" text="NORVASC" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M38" start="1115" end="1136" text="NORVASC (AMLODIPINE) " time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC17" time="after DCT" type1="thienopyridine" type2="">
+      <MEDICATION id="M39" start="1174" end="1180" text="PLAVIX" time="after DCT" type1="thienopyridine" type2="" comment=""/>
+      <MEDICATION id="M40" start="1173" end="1180" text=" PLAVIX" time="after DCT" type1="thienopyridine" type2="" comment=""/>
+      <MEDICATION id="M41" start="1174" end="1194" text="PLAVIX (CLOPIDOGREL)" time="after DCT" type1="thienopyridine" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC18" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H8" start="710" end="722" text="Hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H9" start="710" end="722" text="Hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H10" start="710" end="722" text="Hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H11" start="825" end="828" text="HTN" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <MEDICATION id="DOC19" time="after DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M42" start="1224" end="1232" text="ATENOLOL" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M43" start="1224" end="1233" text="ATENOLOL " time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M44" start="1224" end="1232" text="ATENOLOL" time="after DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <CAD id="DOC20" time="after DCT" indicator="mention">
+      <CAD id="C0" start="838" end="850" text="known hx CAD" time="after DCT" indicator="mention" comment=""/>
+      <CAD id="C1" start="977" end="1000" text="coronary artery disease" time="after DCT" indicator="mention" comment=""/>
+      <CAD id="C2" start="1173" end="1180" text=" PLAVIX" time="after DCT" indicator="mention" comment=""/>
+      <CAD id="C3" start="847" end="850" text="CAD" time="after DCT" indicator="mention" comment=""/>
+      <CAD id="C4" start="977" end="1001" text="coronary artery disease " time="after DCT" indicator="mention" comment=""/>
+      <CAD id="C5" start="1930" end="1933" text="CAD" time="after DCT" indicator="mention" comment=""/>
+    </CAD>
+    <MEDICATION id="DOC21" time="before DCT" type1="statin" type2="">
+      <MEDICATION id="M45" start="1400" end="1407" text="LIPITOR" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M46" start="1400" end="1407" text="LIPITOR" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M47" start="1400" end="1422" text="LIPITOR (ATORVASTATIN)" time="before DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC22" time="during DCT" type1="statin" type2="">
+      <MEDICATION id="M48" start="1400" end="1407" text="LIPITOR" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M49" start="1400" end="1407" text="LIPITOR" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M50" start="1400" end="1422" text="LIPITOR (ATORVASTATIN)" time="during DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC23" time="during DCT" type1="diuretic" type2="">
+      <MEDICATION id="M51" start="1462" end="1466" text="HCTZ" time="during DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M52" start="185" end="189" text="HCTZ" time="during DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M53" start="1461" end="1466" text=" HCTZ" time="during DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M54" start="185" end="189" text="HCTZ" time="during DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M55" start="1462" end="1488" text="HCTZ (HYDROCHLOROTHIAZIDE)" time="during DCT" type1="diuretic" type2="" comment=""/>
+    </MEDICATION>
+    <FAMILY_HIST id="DOC24" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <HYPERLIPIDEMIA id="DOC25" time="after DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY3" start="787" end="801" text="hyperlipidemia" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY4" start="782" end="801" text="     hyperlipidemia" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY5" start="787" end="801" text="hyperlipidemia" time="after DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <CAD id="DOC26" time="during DCT" indicator="mention">
+      <CAD id="C6" start="838" end="850" text="known hx CAD" time="during DCT" indicator="mention" comment=""/>
+      <CAD id="C7" start="977" end="1000" text="coronary artery disease" time="during DCT" indicator="mention" comment=""/>
+      <CAD id="C8" start="1173" end="1180" text=" PLAVIX" time="during DCT" indicator="mention" comment=""/>
+      <CAD id="C9" start="847" end="850" text="CAD" time="during DCT" indicator="mention" comment=""/>
+      <CAD id="C10" start="977" end="1001" text="coronary artery disease " time="during DCT" indicator="mention" comment=""/>
+      <CAD id="C11" start="1930" end="1933" text="CAD" time="during DCT" indicator="mention" comment=""/>
+    </CAD>
+    <MEDICATION id="DOC27" time="before DCT" type1="aspirin" type2="">
+      <MEDICATION id="M56" start="1272" end="1275" text="ASA" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M57" start="1272" end="1275" text="ASA" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M58" start="1271" end="1298" text=" ASA (ACETYLSALICYLIC ACID)" time="before DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC28" time="before DCT" indicator="high bp">
+      <HYPERTENSION id="H12" start="137" end="146" text="BP 170/80" time="before DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H13" start="137" end="148" text="BP 170/80. " time="before DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H14" start="140" end="146" text="170/80" time="before DCT" indicator="high bp" comment=""/>
+    </HYPERTENSION>
+    <MEDICATION id="DOC29" time="before DCT" type1="nitrate" type2="">
+      <MEDICATION id="M59" start="1529" end="1542" text="NITROGLYCERIN" time="before DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M60" start="1528" end="1557" text=" NITROGLYCERIN 1/150 (0.4 MG)" time="before DCT" type1="nitrate" type2="" comment=""/>
+    </MEDICATION>
+    <CAD id="DOC30" time="before DCT" indicator="event">
+      <CAD id="C12" start="1001" end="1045" text="  s/p ant SEMI + stent LAD 2/67, Dr Oakley  " time="before DCT" indicator="event" comment=""/>
+      <CAD id="C13" start="1011" end="1027" text="SEMI + stent LAD" time="before DCT" indicator="event" comment=""/>
+      <CAD id="C14" start="1003" end="1027" text="s/p ant SEMI + stent LAD" time="before DCT" indicator="event" comment=""/>
+    </CAD>
+    <HYPERLIPIDEMIA id="DOC31" time="before DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY6" start="787" end="801" text="hyperlipidemia" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY7" start="782" end="801" text="     hyperlipidemia" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY8" start="787" end="801" text="hyperlipidemia" time="before DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <MEDICATION id="DOC32" time="after DCT" type1="diuretic" type2="">
+      <MEDICATION id="M61" start="1462" end="1466" text="HCTZ" time="after DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M62" start="185" end="189" text="HCTZ" time="after DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M63" start="1461" end="1466" text=" HCTZ" time="after DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M64" start="185" end="189" text="HCTZ" time="after DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M65" start="1462" end="1488" text="HCTZ (HYDROCHLOROTHIAZIDE)" time="after DCT" type1="diuretic" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC33" time="before DCT" type1="thienopyridine" type2="">
+      <MEDICATION id="M66" start="1174" end="1180" text="PLAVIX" time="before DCT" type1="thienopyridine" type2="" comment=""/>
+      <MEDICATION id="M67" start="1173" end="1180" text=" PLAVIX" time="before DCT" type1="thienopyridine" type2="" comment=""/>
+      <MEDICATION id="M68" start="1174" end="1194" text="PLAVIX (CLOPIDOGREL)" time="before DCT" type1="thienopyridine" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC34" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H15" start="710" end="722" text="Hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H16" start="710" end="722" text="Hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H17" start="710" end="722" text="Hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H18" start="825" end="828" text="HTN" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <MEDICATION id="DOC35" time="before DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M69" start="1224" end="1232" text="ATENOLOL" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M70" start="1224" end="1233" text="ATENOLOL " time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M71" start="1224" end="1232" text="ATENOLOL" time="before DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC36" time="during DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M72" start="1224" end="1232" text="ATENOLOL" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M73" start="1224" end="1233" text="ATENOLOL " time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M74" start="1224" end="1232" text="ATENOLOL" time="during DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <CAD id="DOC37" time="before DCT" indicator="mention">
+      <CAD id="C15" start="838" end="850" text="known hx CAD" time="before DCT" indicator="mention" comment=""/>
+      <CAD id="C16" start="977" end="1000" text="coronary artery disease" time="before DCT" indicator="mention" comment=""/>
+      <CAD id="C17" start="1173" end="1180" text=" PLAVIX" time="before DCT" indicator="mention" comment=""/>
+      <CAD id="C18" start="847" end="850" text="CAD" time="before DCT" indicator="mention" comment=""/>
+      <CAD id="C19" start="977" end="1001" text="coronary artery disease " time="before DCT" indicator="mention" comment=""/>
+      <CAD id="C20" start="1930" end="1933" text="CAD" time="before DCT" indicator="mention" comment=""/>
+    </CAD>
+    <PHI id="P0" start="16" end="26" text="2067-05-03" TYPE="DATE"/>
+    <PHI id="P1" start="50" end="52" text="55" TYPE="AGE"/>
+    <PHI id="P2" start="290" end="296" text="Oakley" TYPE="DOCTOR"/>
+    <PHI id="P3" start="297" end="303" text="4/5/67" TYPE="DATE"/>
+    <PHI id="P4" start="343" end="353" text="Clarkfield" TYPE="HOSPITAL"/>
+    <PHI id="P5" start="363" end="367" text="7/67" TYPE="DATE"/>
+    <PHI id="P6" start="637" end="639" text="37" TYPE="AGE"/>
+    <PHI id="P7" start="694" end="696" text="66" TYPE="AGE"/>
+    <PHI id="P8" start="755" end="759" text="2062" TYPE="DATE"/>
+    <PHI id="P9" start="899" end="903" text="4/63" TYPE="DATE"/>
+    <PHI id="P10" start="940" end="944" text="2065" TYPE="DATE"/>
+    <PHI id="P11" start="1028" end="1032" text="2/67" TYPE="DATE"/>
+    <PHI id="P12" start="1037" end="1043" text="Oakley" TYPE="DOCTOR"/>
+    <PHI id="P13" start="1071" end="1075" text="2065" TYPE="DATE"/>
+    <PHI id="P14" start="1974" end="1980" text="Oakley" TYPE="DOCTOR"/>
+    <PHI id="P15" start="2284" end="2288" text="3/67" TYPE="DATE"/>
+  </TAGS>
+</root>

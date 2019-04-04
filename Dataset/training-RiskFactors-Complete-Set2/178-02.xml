@@ -1,0 +1,137 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2121-06-06
+
+
+Problems
+Diabetes mellitus type 2 : 10/20
+Hyperlipidemia : 10/20
+Smoking 
+FH Uncoded Information:
+	 Comments: Father: age + 80 prostate cancer; diabetesMother: age 40 + uterine cancerSiblings:1bMarital status:mChildren:1F - 16FH is notable for the presence (+) or absence(-) of CAD ;Cancer ++ ;diabetes + ;HTN ; genetic disorder
+Medications
+Lipitor (ATORVASTATIN) 10MG TABLET take 1 Tablet(s) QD 
+Aspirin (ACETYLSALICYLIC ACID) 81MG TABLET EC take 1 Tablet(s) PO QD 
+Allergies
+Tetracycline Hcl - headache,
+Health Maintenance
+Influenza Vaccine 02/20/2121 given 
+Cholesterol 03/14/2121 137 
+M-alb/creat ratio 10/17/2120 9.4 
+Mammogram 07/31/2120 see report in Results 
+Pap Smear 09/13/2120 see report in Results 
+Pneumovax 02/20/2121 11/20 
+UA-Protein 07/25/12 NEG 
+Ophthal Exam 02/20/2121 set up 
+Triglycerides 03/14/2121 85 
+Cholesterol-LDL 03/14/2121 76 
+Microalbumin 10/17/2120 1.0 
+Bone Density 02/20/2121 set up 
+Hct (Hematocrit) 08/28/2120 40.8 
+Cholesterol-HDL 03/14/2121 44 
+Hgb (Hemoglobin) 08/28/2120 14.0 
+HbA1c 01/13/2121 7.50
+COLONOSCOPY 
+Vital Signs
+BP 120/88
+AGE 57y8.4m
+Comes in today because she was diagnosed yesterday with an oral mucosal cancer
+Feels well otherwise
+no chest pain or dyspnoea
+lesion on floor of mouth
+no nodes
+carotid bruits
+chest clear
+hs 1,2
+refer to oral surgeon
+set up carotid us again
+reminded about colonoscopy 
+
+ 
+
+
+ 
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <HYPERLIPIDEMIA id="DOC7" time="before DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY0" start="71" end="85" text="Hyperlipidemia" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY1" start="71" end="93" text="Hyperlipidemia : 10/20" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY2" start="71" end="85" text="Hyperlipidemia" time="before DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <HYPERLIPIDEMIA id="DOC9" time="after DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY3" start="71" end="85" text="Hyperlipidemia" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY4" start="71" end="93" text="Hyperlipidemia : 10/20" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY5" start="71" end="85" text="Hyperlipidemia" time="after DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <HYPERLIPIDEMIA id="DOC14" time="during DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY6" start="71" end="85" text="Hyperlipidemia" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY7" start="71" end="93" text="Hyperlipidemia : 10/20" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY8" start="71" end="85" text="Hyperlipidemia" time="during DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <MEDICATION id="DOC0" time="before DCT" type1="statin" type2="">
+      <MEDICATION id="M0" start="370" end="377" text="Lipitor" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M1" start="370" end="377" text="Lipitor" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M2" start="370" end="377" text="Lipitor" time="before DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC1" time="during DCT" type1="statin" type2="">
+      <MEDICATION id="M3" start="370" end="377" text="Lipitor" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M4" start="370" end="377" text="Lipitor" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M5" start="370" end="377" text="Lipitor" time="during DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC2" time="during DCT" type1="aspirin" type2="">
+      <MEDICATION id="M6" start="426" end="433" text="Aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M7" start="426" end="433" text="Aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M8" start="426" end="433" text="Aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC3" time="after DCT" type1="statin" type2="">
+      <MEDICATION id="M9" start="370" end="377" text="Lipitor" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M10" start="370" end="377" text="Lipitor" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M11" start="370" end="377" text="Lipitor" time="after DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC5" time="before DCT" type1="aspirin" type2="">
+      <MEDICATION id="M12" start="426" end="433" text="Aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M13" start="426" end="433" text="Aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M14" start="426" end="433" text="Aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC11" time="after DCT" type1="aspirin" type2="">
+      <MEDICATION id="M15" start="426" end="433" text="Aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M16" start="426" end="433" text="Aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M17" start="426" end="433" text="Aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <FAMILY_HIST id="DOC12" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC6" status="current">
+      <SMOKER id="S0" start="94" end="101" text="Smoking" status="current" comment=""/>
+      <SMOKER id="S1" start="94" end="102" text="Smoking " status="current" comment=""/>
+    </SMOKER>
+    <DIABETES id="DOC4" time="before DCT" indicator="A1C">
+      <DIABETES id="D0" start="1045" end="1066" text="HbA1c 01/13/2121 7.50" time="before DCT" indicator="A1C" comment=""/>
+      <DIABETES id="D1" start="1045" end="1066" text="HbA1c 01/13/2121 7.50" time="before DCT" indicator="A1C" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC8" time="before DCT" indicator="mention">
+      <DIABETES id="D2" start="38" end="62" text="Diabetes mellitus type 2" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D3" start="38" end="70" text="Diabetes mellitus type 2 : 10/20" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D4" start="38" end="46" text="Diabetes" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC10" time="during DCT" indicator="mention">
+      <DIABETES id="D5" start="38" end="62" text="Diabetes mellitus type 2" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D6" start="38" end="70" text="Diabetes mellitus type 2 : 10/20" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D7" start="38" end="46" text="Diabetes" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC13" time="after DCT" indicator="mention">
+      <DIABETES id="D8" start="38" end="62" text="Diabetes mellitus type 2" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D9" start="38" end="70" text="Diabetes mellitus type 2 : 10/20" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D10" start="38" end="46" text="Diabetes" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+  </TAGS>
+</root>

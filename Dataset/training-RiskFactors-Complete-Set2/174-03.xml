@@ -1,0 +1,228 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2083-11-29
+
+ 
+
+ 
+
+ 
+
+November 29, 2083
+
+ 
+
+Dr. Xzavior Welch
+
+Internal Medicine 
+
+Southside Medical Center
+
+73 Wood St
+
+Palmetto, WI 88933
+
+ 
+
+RE: Lloyd Gregg 
+
+    MR#65772757
+
+ 
+
+Dear Xzavior, 
+
+ 
+
+I had the pleasure of seeing Lloyd Gregg for follow
+
+up of his emphysema.
+
+ 
+
+The patient reports that he continues to lead a very
+
+active lifestyle working as a sales representative roughly 10 hours
+
+a day, frequently lifting 60 pound boxes.  When he
+
+returns home from work he cooks dinner and this
+
+combined with his work schedule and picking up his
+
+daughter from school and walking the dog has prohibited
+
+him from a regular exercise program.  Needless to say,
+
+he has remained active.  He is not limited in these
+
+activities by his respiratory function with the
+
+exception of some periodic exacerbation of dyspnea with
+
+heavy lifting.  He uses albuterol during these
+
+instances anywhere between 0 and 2 to 3 times per day. 
+
+His usual peak expiratory flow rate is roughly 300-350
+
+liters per minute.  He knows that when his PEFR falls
+
+to below 250 for 3 days in a row to contact you for
+
+advice as well as burst of prednisone and he has had 1
+
+burst of prednisone since our last visit in April.
+
+ 
+
+His medical regimen is notable for Flovent 220
+
+micrograms per puffs, 2 puffs twice a day, Serevent MDI
+
+2 puffs twice a day, Allopurinol, colchicine, Vasotec
+
+and the albuterol as mentioned above. 
+
+ 
+
+RE: Lloyd Gregg            -2-  November 29,2083 
+
+    MR#65772757
+
+ 
+
+The patient's review of systems is notable for the absence of
+
+fevers, chills, sweats, chest discomfort, symptoms of GERD,
+
+change in his bowel or bladder habits or weight.  He does
+
+continue to have nearly continuous post nasal drip which leads to
+
+frequent clearing of his throat and occasional cough.  There is
+
+no hemoptysis or significant sputum production.
+
+ 
+
+On physical exam, he appears well, is in no respiratory distress. 
+
+NC/AT, PERRL, EOMI, AS, pink conjunctiva.  TM's are clear with
+
+normal light reflexes bilaterally.  His nasal mucosa is notable
+
+for mild erythema bilaterally with a clear nasal discharge.  No
+
+significant LAN in the cervical or supraclavicular axillary
+
+chains.  Chest exam reveals an increased AP diameter and
+
+prolongation of his expiratory phase.  He has an occasional
+
+expiratory wheeze.  There are no focal findings of consolidation
+
+and air movement is moderate.  No significant JVD and he has a
+
+regular rate and rhythm with an S4, S1, a normally split S2 and
+
+there are no murmurs, rubs or S3.  Abdomen is benign without HSM,
+
+focal tenderness or masses.  His extremities are without
+
+clubbing, cyanosis or edema.  His weight is 223 pounds. 
+
+Temperature 97.1 degrees, pulse 86 per minute, BP 142/82 and his
+
+respiratory rate is 20 with a room air resting oxygen saturation
+
+of 97 percent.
+
+ 
+
+My impression is that the patient's severe airflow obstruction
+
+secondary to emphysema is stable on his current medical regimen. 
+
+I once again encouraged him to continue to lead robust and active
+
+life.  We agreed that the current action plan for a burst of
+
+prednisone is appropriate and I also have provided him my contact
+
+information in the event that he cannot reach you in the midst of
+
+a flare.  I have refilled all of his current prescriptions.  To
+
+try and prevent him from requiring these frequent bursts of
+
+prednisone through the winter months, we have also begun
+
+Combivent 2 puffs 4 times a day as well as Nasonex nasal spray to
+
+be used 2 puffs in each nostril once a day.  We talked about
+
+vaccinations and he reported that he has recently received the
+
+influenza vaccine and he has previously received the pneumonia
+
+vaccine.
+
+ 
+
+Thank you for allowing me to participate in Mr. Gregg's care. 
+
+He will follow up with us on a routine basis in 6 month's time
+
+but will contact us sooner should he develop more symptoms of a
+
+flare of his COPD.  
+
+RE: Lloyd Gregg            -3-            November 29, 2083 
+
+    MR#65772757
+
+ 
+
+With best regards, 
+
+ 
+
+ 
+
+Thomas Iyer, M.D.
+
+/felder
+
+ 
+
+ 
+
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <HYPERTENSION id="DOC2" time="during DCT" indicator="high bp">
+      <HYPERTENSION id="H0" start="2733" end="2739" text="142/82" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H1" start="2730" end="2739" text="BP 142/82" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H2" start="2730" end="2739" text="BP 142/82" time="during DCT" indicator="high bp" comment=""/>
+    </HYPERTENSION>
+    <FAMILY_HIST id="DOC0" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC1" status="unknown">
+      <SMOKER id="S0" start="3" end="9" text="Record" status="unknown" comment=""/>
+      <SMOKER id="S1" status="unknown"/>
+      <SMOKER id="S2" status="unknown"/>
+    </SMOKER>
+  </TAGS>
+</root>

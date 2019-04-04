@@ -1,0 +1,156 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2087-03-21
+
+
+
+
+STANTON NURSING HOME PRIMARY CARE
+093 Balcom Street, Eigth Floor
+Oil City, VA  14172
+
+RE:		Ordonez, Mrs.
+SNH#:		008-37-16 
+
+March 21, 2087
+
+Reason for visit:  Patient is a 59 year old woman seen today together with Dr. Barajas.
+
+MEDICATIONS:  She is currently on atenolol 50 mg b.i.d., HCTZ 50 mg q.d., Zestril 20 mg q.d.  
+
+PHYSICAL EXAMINATION:  Her blood pressure is 150/80 with a pulse of 76.  
+
+PLAN:  
+1.	I would increase her atenolol to 100 mg in the morning and 50 mg in the late afternoon.
+2.	Diabetes is in suboptimal control, despite maximum dose Micronase.  Creatinine of 1.4 would argue against using Glucophage.  Check hemoglobin A1C and then we will decide on her medication. 
+
+
+
+Samuel Vinson, M.D. 
+
+PC:RP: 1660
+DD: 3-21-87
+DT: 3-22-87
+DV: 3-21-87 
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="during DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M0" start="334" end="341" text="Zestril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M1" start="334" end="341" text="Zestril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M2" start="334" end="341" text="Zestril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC1" time="before DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M3" start="294" end="302" text="atenolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M4" start="294" end="302" text="atenolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M5" start="463" end="471" text="atenolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M6" start="294" end="302" text="atenolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <DIABETES id="DOC2" time="before DCT" indicator="mention">
+      <DIABETES id="D0" start="533" end="541" text="Diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D1" start="533" end="541" text="Diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D2" start="533" end="541" text="Diabetes" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <MEDICATION id="DOC3" time="during DCT" type1="diuretic" type2="">
+      <MEDICATION id="M7" start="317" end="321" text="HCTZ" time="during DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M8" start="317" end="321" text="HCTZ" time="during DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M9" start="317" end="321" text="HCTZ" time="during DCT" type1="diuretic" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC4" time="after DCT" type1="sulfonylureas" type2="">
+      <MEDICATION id="M10" start="589" end="598" text="Micronase" time="after DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M11" start="589" end="598" text="Micronase" time="after DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M12" start="589" end="598" text="Micronase" time="after DCT" type1="sulfonylureas" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC5" time="after DCT" type1="diuretic" type2="">
+      <MEDICATION id="M13" start="317" end="321" text="HCTZ" time="after DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M14" start="317" end="321" text="HCTZ" time="after DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M15" start="317" end="321" text="HCTZ" time="after DCT" type1="diuretic" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC6" time="during DCT" indicator="high bp">
+      <HYPERTENSION id="H0" start="401" end="407" text="150/80" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H1" start="383" end="407" text="blood pressure is 150/80" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H2" start="383" end="408" text="blood pressure is 150/80 " time="during DCT" indicator="high bp" comment=""/>
+    </HYPERTENSION>
+    <MEDICATION id="DOC7" time="before DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M16" start="334" end="341" text="Zestril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M17" start="334" end="341" text="Zestril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M18" start="334" end="341" text="Zestril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC8" time="before DCT" type1="sulfonylureas" type2="">
+      <MEDICATION id="M19" start="589" end="598" text="Micronase" time="before DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M20" start="589" end="598" text="Micronase" time="before DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M21" start="589" end="598" text="Micronase" time="before DCT" type1="sulfonylureas" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC9" time="after DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M22" start="334" end="341" text="Zestril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M23" start="334" end="341" text="Zestril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M24" start="334" end="341" text="Zestril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC10" time="during DCT" type1="sulfonylureas" type2="">
+      <MEDICATION id="M25" start="589" end="598" text="Micronase" time="during DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M26" start="589" end="598" text="Micronase" time="during DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M27" start="589" end="598" text="Micronase" time="during DCT" type1="sulfonylureas" type2="" comment=""/>
+    </MEDICATION>
+    <DIABETES id="DOC11" time="during DCT" indicator="mention">
+      <DIABETES id="D3" start="533" end="541" text="Diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D4" start="533" end="541" text="Diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D5" start="533" end="541" text="Diabetes" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <MEDICATION id="DOC12" time="before DCT" type1="diuretic" type2="">
+      <MEDICATION id="M28" start="317" end="321" text="HCTZ" time="before DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M29" start="317" end="321" text="HCTZ" time="before DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M30" start="317" end="321" text="HCTZ" time="before DCT" type1="diuretic" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC13" time="after DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M31" start="294" end="302" text="atenolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M32" start="294" end="302" text="atenolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M33" start="463" end="471" text="atenolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M34" start="294" end="302" text="atenolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <SMOKER id="DOC14" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" status="unknown"/>
+      <SMOKER id="S2" status="unknown"/>
+    </SMOKER>
+    <MEDICATION id="DOC15" time="during DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M35" start="294" end="302" text="atenolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M36" start="294" end="302" text="atenolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M37" start="463" end="471" text="atenolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M38" start="294" end="302" text="atenolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <DIABETES id="DOC16" time="after DCT" indicator="mention">
+      <DIABETES id="D6" start="533" end="541" text="Diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D7" start="533" end="541" text="Diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D8" start="533" end="541" text="Diabetes" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <FAMILY_HIST id="DOC17" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <PHI id="P0" start="16" end="26" text="2087-03-21" TYPE="DATE"/>
+    <PHI id="P1" start="31" end="51" text="STANTON NURSING HOME" TYPE="HOSPITAL"/>
+    <PHI id="P2" start="65" end="82" text="093 Balcom Street" TYPE="STREET"/>
+    <PHI id="P3" start="84" end="95" text="Eigth Floor" TYPE="ROOM"/>
+    <PHI id="P4" start="96" end="104" text="Oil City" TYPE="CITY"/>
+    <PHI id="P5" start="106" end="108" text="VA" TYPE="STATE"/>
+    <PHI id="P6" start="110" end="115" text="14172" TYPE="ZIP"/>
+    <PHI id="P7" start="122" end="129" text="Ordonez" TYPE="PATIENT"/>
+    <PHI id="P8" start="136" end="139" text="SNH" TYPE="HOSPITAL"/>
+    <PHI id="P9" start="143" end="152" text="008-37-16" TYPE="MEDICALRECORD"/>
+    <PHI id="P10" start="155" end="169" text="March 21, 2087" TYPE="DATE"/>
+    <PHI id="P11" start="203" end="205" text="59" TYPE="AGE"/>
+    <PHI id="P12" start="250" end="257" text="Barajas" TYPE="DOCTOR"/>
+    <PHI id="P13" start="726" end="739" text="Samuel Vinson" TYPE="DOCTOR"/>
+    <PHI id="P14" start="748" end="759" text="PC:RP: 1660" TYPE="IDNUM"/>
+    <PHI id="P15" start="764" end="771" text="3-21-87" TYPE="DATE"/>
+    <PHI id="P16" start="776" end="783" text="3-22-87" TYPE="DATE"/>
+    <PHI id="P17" start="788" end="795" text="3-21-87" TYPE="DATE"/>
+  </TAGS>
+</root>

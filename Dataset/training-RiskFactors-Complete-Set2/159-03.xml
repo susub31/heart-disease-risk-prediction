@@ -1,0 +1,137 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2088-09-14
+
+LOVELAND INTERNAL MEDICINE ASSOCIATES          Youngman, Cody
+                                              06386371
+                                              9-14-88
+ 
+ 
+ 
+HPI:  Ms. Youngman is a 31 year old woman with a history of morbid obesity, 
+complicated by diabetes, who was a former patient of Dr. Xitlali Crane.  
+She comes in today for routine follow-up.  Patient's diabetes was 
+initially diagnosed during gestation with her daughter.  Patient was 
+formerly controlled by insulin but has lost 61 pounds over the last 16 
+months and is now off all medications and states her finger sticks have 
+been excellent with a peak of about 150, with most well below that.  
+Patient also has a history of        in situ which was treated with laser 
+treatment to the cervix.  She is a hemophiliac carrier.  Has a history of 
+migraines and currently is being treated by Dr. Jacoby for depression.  
+Since her last visit with Dr. Crane, patient apparently attempted suicide 
+in July.  It is unclear how serious the attempt was although she did cut 
+her left upper extremity.  Since then she states that she has been feeling 
+a lot better and feels that she has really made progress with Dr. Jacoby.  
+Her mood seems fine today in clinic.  Patient denies any medical symptoms 
+at this time.
+ 
+Patient's cardiac risk factors include smoking 5-6 cigarettes a day.  A 
+positive family history of coronary artery disease including a mother who 
+just died of a heart attack in May at age 53 and had had a previous MI at 
+age 40 and a CABG at age 43.  Patient does not have hypercholesterolemia 
+or hypertension but does have the diabetes history as noted above.
+ 
+SOCIAL HISTORY:  Notable for tobacco use as noted above and she drinks 
+about one beer per day when she is distraught that she continues to do.  
+She says that she should not be drinking with her medications.
+ 
+PHYSICAL EXAM:  Moderately obese Hispanic woman in no acute distress.  
+Blood pressure: 120/70.  HEENT: unremarkable.  Neck: no JVD, carotids were 
+2+ bilaterally without bruits.  Chest: clear.  Cardiac: within normal 
+limits.  Abdomen: benign.  Extremities: without edema.
+ 
+ASSESSMENT/PLAN:
+1.   Weight control:  Patient has had excellent weight loss over the last 
+     16 months.  I told her how impressed I was with this.  She, in fact, 
+     does not require any oral hypoglycemics for good sugar control at 
+     this time.  I will let her continue this dietary control for the next 
+     six months and check her hemoglobin A1C at that time to assess her 
+     control.  However, in the past, she has been very straight forward 
+     with Dr. Crane according to her notes.
+2.   Depression:  Patient continues to be actively depressed.  Is 
+     currently on trazodone, Klonopin, Paxil and Motrin.  She will 
+     continue to follow-up with Dr. Jacoby with whom she seems to be very 
+     happy.
+LOVELAND INTERNAL MEDICINE ASSOCIATES          Youngman, Cody
+Page 2                                        06386371
+                                              9-14-88
+ 
+ 
+ 
+3.   General health care:  Patient will need a pelvic exam in six months 
+     time.  Patient currently has an intrauterine device which was placed 
+     in June.  She does not take oral contraceptives because of her 
+     history of diabetes and history of heart disease.  She was instructed 
+     that she should go to Gynecological Clinic if any symptoms related to 
+     the IUD occur.
+4.   Diabetes:  Patient's blood sugars have had peaks of about 150 as 
+     mentioned above.  I will check her hemoglobin A1C in six months time.  
+     Patient feels good with no polydipsia, no urinary frequency and no 
+     headache.  I elected, therefore, not to treat it at this time.  
+     Patient was given prescriptions for fingersticks and lancets.
+ 
+ 
+ 
+_________________________
+Raymond Castaneda, M.D.
+ 
+NW:ZR:8898
+DD:9-14-88
+DT:9-15-88
+DV:9-14-88
+ Attending Physician: YOCOM,GARY ZACHARY,M.D.
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <OBESE id="DOC2" time="after DCT" indicator="mention">
+      <OBESE id="O0" start="265" end="279" text="morbid obesity" time="after DCT" indicator="mention" comment=""/>
+      <OBESE id="O1" start="272" end="279" text="obesity" time="after DCT" indicator="mention" comment=""/>
+      <OBESE id="O2" start="272" end="279" text="obesity" time="after DCT" indicator="mention" comment=""/>
+    </OBESE>
+    <OBESE id="DOC4" time="during DCT" indicator="mention">
+      <OBESE id="O3" start="265" end="279" text="morbid obesity" time="during DCT" indicator="mention" comment=""/>
+      <OBESE id="O4" start="272" end="279" text="obesity" time="during DCT" indicator="mention" comment=""/>
+      <OBESE id="O5" start="272" end="279" text="obesity" time="during DCT" indicator="mention" comment=""/>
+    </OBESE>
+    <OBESE id="DOC7" time="before DCT" indicator="mention">
+      <OBESE id="O6" start="265" end="279" text="morbid obesity" time="before DCT" indicator="mention" comment=""/>
+      <OBESE id="O7" start="272" end="279" text="obesity" time="before DCT" indicator="mention" comment=""/>
+      <OBESE id="O8" start="272" end="279" text="obesity" time="before DCT" indicator="mention" comment=""/>
+    </OBESE>
+    <MEDICATION id="DOC0" time="before DCT" type1="insulin" type2="">
+      <MEDICATION id="M0" start="516" end="523" text="insulin" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M1" start="493" end="524" text="formerly controlled by insulin " time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M2" start="516" end="523" text="insulin" time="before DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <FAMILY_HIST id="DOC8" indicator="present">
+      <FAMILY_HIST id="F0" start="1457" end="1574" text="a mother who  just died of a heart attack in May at age 53 and had had a previous MI at  age 40 and a CABG at age 43." indicator="present" comment=""/>
+      <FAMILY_HIST id="F1" start="1538" end="1553" text=" MI at  age 40 " indicator="present" comment=""/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC3" status="current">
+      <SMOKER id="S0" start="1362" end="1390" text="smoking 5-6 cigarettes a day" status="current" comment=""/>
+      <SMOKER id="S1" start="1362" end="1390" text="smoking 5-6 cigarettes a day" status="current" comment=""/>
+      <SMOKER id="S2" start="1362" end="1370" text="smoking " status="current" comment=""/>
+    </SMOKER>
+    <DIABETES id="DOC1" time="during DCT" indicator="mention">
+      <DIABETES id="D0" start="297" end="305" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D1" start="297" end="305" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D2" start="297" end="305" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC5" time="before DCT" indicator="mention">
+      <DIABETES id="D3" start="297" end="305" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D4" start="297" end="305" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D5" start="297" end="305" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC6" time="after DCT" indicator="mention">
+      <DIABETES id="D6" start="297" end="305" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D7" start="297" end="305" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D8" start="297" end="305" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+  </TAGS>
+</root>

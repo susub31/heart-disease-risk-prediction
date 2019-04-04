@@ -1,0 +1,131 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2074-06-04
+
+ 
+ 
+ 
+ 
+Jun 04, 2074
+ 
+ 
+Jacob Bautista, M.D.
+589 Eldorado Circle
+Coeburn, WA 42646
+ 
+Re:  Kenneth Umstead
+     MR#  401-10-87-8
+ 
+Dear Jac:
+ 
+I saw your patient Kenneth Umstead in the Cardiology Office today and
+he feels he has actually improved.  His primary limitation had been
+his claudication, but he feels that he can walk better now than in
+the past.  We had a repeat evaluation of his segmental leg pressure
+and volumes, and these actually were unchanged from a prior study
+two years ago.  The post volume recordings were normal in each leg. 
+Systolic pressure gradients were present in the right leg
+consistent with mild anterior tibial/dorsalis pedis disease.  No
+systolic pressure gradients were found in the left leg.  These were
+unchanged from January, 2072.  Mr. Umstead feels that he can be more
+physically active and is less limited.
+ 
+His current medical regimen includes Metoprolol 50 mg b.i.d.,
+Nifedipine XL 60 mg q.d., and Lasix 20 mg q.d.
+ 
+Of note, in October, 2073, he was found by colonoscopy to have four
+polyps which were removed.  Apparently, no malignant cells were
+seen in the pathologic specimens.
+ 
+On exam, he is comfortable with a blood pressure of 122/68, heart
+rate 63 and regular, weight 205 lbs.  HEENT unremarkable.  Chest
+was clear.  Cardiac exam showed no jugular venous distention at 30
+degrees, PMI is normal.  S1 and S2 normal but physiologically
+split.  There was an S4 and a I/VI systolic ejection murmur at the
+lower left sternal border.  Abdominal exam was unremarkable. 
+Extremities show no edema or cyanosis.
+ 
+His resting 12 lead EKG demonstrates normal sinus rhythm, left axis
+deviation, and persisting X waves across the precordium consistent
+with his left anterior hemiblock.
+ 
+I think Mr. Umstead is doing quite well.  He asked that I see him
+again in six months for routine re-evaluation, and I would be happy
+to do so. If any problems develop in the interim please don't
+hesitate to contact me.  Thank you for allowing me to participate
+in his care.
+ 
+Kenneth Umstead
+MR#  401-10-87-8              -2-            Jun 04, 2074
+ 
+With best regards. 
+ 
+Sincerely, 
+ 
+ 
+ 
+Marshall O. Lehman, M.D. 
+Wilson Medical Center
+30 Whipple St
+Tonkawa, WA 67495
+ 
+DD: 06/04/74
+DT: 06/08/74
+DV: 06/04/74
+ 
+ 
+ 
+MOL/farrar
+ 
+ ******** Approved but not reviewed by Attending Provider ********
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="during DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M0" start="942" end="952" text="Nifedipine" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M1" start="942" end="952" text="Nifedipine" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M2" start="942" end="952" text="Nifedipine" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC1" time="after DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M3" start="942" end="952" text="Nifedipine" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M4" start="942" end="952" text="Nifedipine" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M5" start="942" end="952" text="Nifedipine" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC2" time="before DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M6" start="917" end="927" text="Metoprolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M7" start="917" end="927" text="Metoprolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M8" start="917" end="927" text="Metoprolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC3" time="before DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M9" start="942" end="952" text="Nifedipine" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M10" start="942" end="952" text="Nifedipine" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M11" start="942" end="952" text="Nifedipine" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC4" time="after DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M12" start="917" end="927" text="Metoprolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M13" start="917" end="927" text="Metoprolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M14" start="917" end="927" text="Metoprolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC6" time="during DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M15" start="917" end="927" text="Metoprolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M16" start="917" end="927" text="Metoprolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M17" start="917" end="927" text="Metoprolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <FAMILY_HIST id="DOC7" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC5" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" status="unknown"/>
+      <SMOKER id="S2" start="3" end="9" text="Record" status="unknown" comment=""/>
+    </SMOKER>
+  </TAGS>
+</root>

@@ -1,0 +1,272 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2076-06-19
+
+Physical exam - Male
+
+
+
+Patient is a 45 yo  M who presents for yearly physical exam.  He has been lost to f/u x > 1 year and was recently hospitalized for R foot ulcer/heel.
+
+
+
+Active medical issues include:
+
+Diabetes mellitus : dxed dec 2074 when admitted with foot ulcer. On metformin. 4/75: BG at home 160-170 6/76: BG at home 120-200. Taking glyburide 5 mg qd instead of metformin bec afraid of renal failure. To see diabetes ctr doc in July
+
+
+
+Smoking : 12 cig/day x 30 years 
+
+6/76: still smoking, thinking about quitting
+
+
+
+Lower extremity ulcer : Right leg. Admitted to RSC 12/2074 - rxed with dicloxacillin 
+
+6/76: admitted to RSC 2 weeks ago with R foot ulcer, rxed with abx, wound care. Followed by surgical clinic - f/u 2 weeks. Wet dry dressings. Pain meds as needed
+
+
+
+neuropathy :  6/76: neuropathy bilateral. No longer on ultram - on neurontin
+
+
+
+Other issues: impotence.  Asking for viagra.  No chest pain, not on nitrates.
+
+ROS otherwise negative
+
+
+
+Current medications:Medications
+
+Neurontin (GABAPENTIN) 100MG, 1 Capsule(s) PO TID : for diabetic neuropahty and pain from heel ulcer
+
+GLYBURIDE 5MG, 1 Tablet(s) PO QD
+
+Percocet 5 Mg/325 Mg (OXYCODONE 5 Mg/acet... 1 TAB PO Q4-6H PRN prn foot ulcer pain : Take as directed 
+
+
+
+Allergies
+
+Codeine - GI upset 
+
+
+
+Social History:
+
+Single.  Divorced.  He has 1 child - he does not have custody.  He worked up until Dec 2074 - editor at DRS Technologies and burned himself on both legs - developed ulcer.  No workman's comp case pending.  Working again as editor.  Lives in an apartment with his girlfriend.
+
+
+
+Smoke 12 cig/day x 30 years.  NO etoh.  Rec marijuana.  No ivda.  Does not wear seat belts.  Walks regularly.
+
+
+
+Family history:  Mother has diabetes - on dialysis.  Father also has diabetes. He has 2 brothers - one has diabetes.  Negative for early CAD, stroke, htn, hyperlipidemia, bleeding/clotting disorders, breast CA, colon CA, skin CA.  FH otherwise negative.
+
+
+
+PE:
+
+Vital signs
+
+bp 126/70  Wt 130 lbs
+
+
+
+Gen: NAD.  A&Ox4.
+
+Affect: normal
+
+HEENT: PERRLA. EOMs intact.  Oropharynx clear
+
+Neck: supple, no adenopathy, no thyromegaly or thyroid nodules.  NO carotid bruits
+
+Lungs: CTAB.  No crackles or wheezes
+
+Cardiac:  RRR.  No m/g/r
+
+Abdomen: soft, ND, NT, nl BS.  No masses or hsm
+
+Ext: no edema.  Pulses 2+ bilaterally.
+
+Back: no flank tenderness, no spinal tenderness
+
+Skin:  R heel ulcer noted - granulation tissue present, healing well.
+
+Neuro DTRS 2+ bilat, strength 5/5 bilat, gait nl.  MOnofilament diminished bilaterally feet
+
+
+
+A/P:
+
+
+
+Diabetes mellitus : dxed dec 2074 when admitted with foot ulcer. On metformin. 4/75: BG at home 160-170 6/76: BG at home 120-200. Taking glyburide 5 mg qd instead of metformin bec afraid of renal failure. HbA1c pending, microalb pending. Reviewd foot care. Needs eye exam at some point. To see diabetes ctr doc in July
+
+
+
+Smoking : 12 cig/day x 30 years
+
+ 6/76: still smoking, thinking about quitting - counseled.
+
+
+
+Lower extremity ulcer : Right leg. Admitted to RSC 12/2074 - rxed with dicloxacillin 6/76: admitted to RSC 2 weeks ago with R foot ulcer, rxed with abx, wound care. Followed by surgical clinic - f/u 2 weeks. Wet dry dressings. Pain meds as needed
+
+
+
+neuropathy : 4/75: started 5 days ago (Fri) - seen in er - sent home. Has signif pain and swelling posteriorly in lower thigh on R - worse since ER eval. To RSC ER again for eval - needs CT thigh/knee and r/o dvt eval. Gave ultram for pain 
+
+6/76: resolved and now with neuropathy bilateral. No longer on ultram , cont neurontin.
+
+
+
+Impotence: gave sample of viagra today - 1 50 mg 6 pack, counseled useage.
+
+
+
+Health maintenance
+
+Cholesterol 06/19/2076 Done/scheduled 
+
+Complete Physical Exam 06/19/2076 
+
+Home glucose monitoring 06/19/2076 
+
+Hypoglycemia Assessment/Counseling 06/19/2076 
+
+Microalbumin 06/19/2076 pending 
+
+Podiatry exam 06/19/2076 + neuropathy and dec sensation 
+
+Smoking status 06/19/2076 Current smoker 
+
+UA-Protein 04/06/2075 Trace 
+
+HBA1C 06/09/2076 CANCELLED Test request exceeds frequency limits. Cancelled per laboratory policy.Check prior result.
+
+Hct (Hematocrit) 06/11/2076 45.0 
+
+Hgb (Hemoglobin) 06/11/2076 15.9 
+
+
+
+f/u 3 mos
+
+
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <DIABETES id="DOC0" time="before DCT" indicator="mention">
+      <DIABETES id="D0" start="237" end="254" text="Diabetes mellitus" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D1" start="237" end="254" text="Diabetes mellitus" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D2" start="237" end="254" text="Diabetes mellitus" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D3" start="449" end="457" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D4" start="2556" end="2573" text="Diabetes mellitus" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <MEDICATION id="DOC1" time="before DCT" type1="sulfonylureas" type2="">
+      <MEDICATION id="M0" start="374" end="383" text="glyburide" time="before DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M1" start="374" end="383" text="glyburide" time="before DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M2" start="374" end="383" text="glyburide" time="before DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M3" start="1131" end="1140" text="GLYBURIDE" time="before DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M4" start="2693" end="2702" text="glyburide" time="before DCT" type1="sulfonylureas" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC2" time="before DCT" type1="metformin" type2="">
+      <MEDICATION id="M5" start="305" end="314" text="metformin" time="before DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M6" start="305" end="314" text="metformin" time="before DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M7" start="305" end="314" text="metformin" time="before DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M8" start="2624" end="2633" text="metformin" time="before DCT" type1="metformin" type2="" comment=""/>
+    </MEDICATION>
+    <SMOKER id="DOC3" status="current">
+      <SMOKER id="S0" start="477" end="509" text="Smoking : 12 cig/day x 30 years " status="current" comment=""/>
+      <SMOKER id="S1" start="487" end="508" text="12 cig/day x 30 years" status="current" comment=""/>
+      <SMOKER id="S2" start="477" end="509" text="Smoking : 12 cig/day x 30 years " status="current" comment=""/>
+      <SMOKER id="S3" start="1601" end="1628" text="Smoke 12 cig/day x 30 years" status="current" comment=""/>
+      <SMOKER id="S4" start="2878" end="2909" text="Smoking : 12 cig/day x 30 years" status="current" comment=""/>
+      <SMOKER id="S5" start="3933" end="3948" text="Current smoker " status="current" comment=""/>
+    </SMOKER>
+    <MEDICATION id="DOC4" time="after DCT" type1="sulfonylureas" type2="">
+      <MEDICATION id="M9" start="374" end="383" text="glyburide" time="after DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M10" start="374" end="383" text="glyburide" time="after DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M11" start="374" end="383" text="glyburide" time="after DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M12" start="1131" end="1140" text="GLYBURIDE" time="after DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M13" start="2693" end="2702" text="glyburide" time="after DCT" type1="sulfonylureas" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC5" time="during DCT" type1="sulfonylureas" type2="">
+      <MEDICATION id="M14" start="374" end="383" text="glyburide" time="during DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M15" start="374" end="383" text="glyburide" time="during DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M16" start="374" end="383" text="glyburide" time="during DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M17" start="1131" end="1140" text="GLYBURIDE" time="during DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M18" start="2693" end="2702" text="glyburide" time="during DCT" type1="sulfonylureas" type2="" comment=""/>
+    </MEDICATION>
+    <DIABETES id="DOC6" time="during DCT" indicator="mention">
+      <DIABETES id="D5" start="237" end="254" text="Diabetes mellitus" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D6" start="237" end="254" text="Diabetes mellitus" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D7" start="237" end="254" text="Diabetes mellitus" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D8" start="449" end="457" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D9" start="2556" end="2573" text="Diabetes mellitus" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <FAMILY_HIST id="DOC7" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <DIABETES id="DOC8" time="after DCT" indicator="mention">
+      <DIABETES id="D10" start="237" end="254" text="Diabetes mellitus" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D11" start="237" end="254" text="Diabetes mellitus" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D12" start="237" end="254" text="Diabetes mellitus" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D13" start="449" end="457" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D14" start="2556" end="2573" text="Diabetes mellitus" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <PHI id="P0" start="16" end="26" text="2076-06-19" TYPE="DATE"/>
+    <PHI id="P1" start="65" end="67" text="45" TYPE="AGE"/>
+    <PHI id="P2" start="262" end="270" text="dec 2074" TYPE="DATE"/>
+    <PHI id="P3" start="316" end="320" text="4/75" TYPE="DATE"/>
+    <PHI id="P4" start="341" end="345" text="6/76" TYPE="DATE"/>
+    <PHI id="P5" start="469" end="473" text="July" TYPE="DATE"/>
+    <PHI id="P6" start="511" end="515" text="6/76" TYPE="DATE"/>
+    <PHI id="P7" start="606" end="609" text="RSC" TYPE="HOSPITAL"/>
+    <PHI id="P8" start="610" end="617" text="12/2074" TYPE="DATE"/>
+    <PHI id="P9" start="646" end="650" text="6/76" TYPE="DATE"/>
+    <PHI id="P10" start="664" end="667" text="RSC" TYPE="HOSPITAL"/>
+    <PHI id="P11" start="825" end="829" text="6/76" TYPE="DATE"/>
+    <PHI id="P12" start="1406" end="1414" text="Dec 2074" TYPE="DATE"/>
+    <PHI id="P13" start="1417" end="1423" text="editor" TYPE="PROFESSION"/>
+    <PHI id="P14" start="1427" end="1443" text="DRS Technologies" TYPE="ORGANIZATION"/>
+    <PHI id="P15" start="1546" end="1552" text="editor" TYPE="PROFESSION"/>
+    <PHI id="P16" start="2581" end="2589" text="dec 2074" TYPE="DATE"/>
+    <PHI id="P17" start="2635" end="2639" text="4/75" TYPE="DATE"/>
+    <PHI id="P18" start="2660" end="2664" text="6/76" TYPE="DATE"/>
+    <PHI id="P19" start="2870" end="2874" text="July" TYPE="DATE"/>
+    <PHI id="P20" start="2912" end="2916" text="6/76" TYPE="DATE"/>
+    <PHI id="P21" start="3020" end="3023" text="RSC" TYPE="HOSPITAL"/>
+    <PHI id="P22" start="3024" end="3031" text="12/2074" TYPE="DATE"/>
+    <PHI id="P23" start="3058" end="3062" text="6/76" TYPE="DATE"/>
+    <PHI id="P24" start="3076" end="3079" text="RSC" TYPE="HOSPITAL"/>
+    <PHI id="P25" start="3236" end="3240" text="4/75" TYPE="DATE"/>
+    <PHI id="P26" start="3262" end="3265" text="Fri" TYPE="DATE"/>
+    <PHI id="P27" start="3380" end="3383" text="RSC" TYPE="HOSPITAL"/>
+    <PHI id="P28" start="3465" end="3469" text="6/76" TYPE="DATE"/>
+    <PHI id="P29" start="3666" end="3676" text="06/19/2076" TYPE="DATE"/>
+    <PHI id="P30" start="3717" end="3727" text="06/19/2076" TYPE="DATE"/>
+    <PHI id="P31" start="3754" end="3764" text="06/19/2076" TYPE="DATE"/>
+    <PHI id="P32" start="3802" end="3812" text="06/19/2076" TYPE="DATE"/>
+    <PHI id="P33" start="3828" end="3838" text="06/19/2076" TYPE="DATE"/>
+    <PHI id="P34" start="3863" end="3873" text="06/19/2076" TYPE="DATE"/>
+    <PHI id="P35" start="3922" end="3932" text="06/19/2076" TYPE="DATE"/>
+    <PHI id="P36" start="3961" end="3971" text="04/06/2075" TYPE="DATE"/>
+    <PHI id="P37" start="3986" end="3996" text="06/09/2076" TYPE="DATE"/>
+    <PHI id="P38" start="4116" end="4126" text="06/11/2076" TYPE="DATE"/>
+    <PHI id="P39" start="4151" end="4161" text="06/11/2076" TYPE="DATE"/>
+  </TAGS>
+</root>

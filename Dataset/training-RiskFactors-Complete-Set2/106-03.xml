@@ -1,0 +1,202 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2087-09-11
+
+
+
+
+
+
+
+NAME:    Justus, Quiana
+
+MRN:     9814048
+
+
+
+The patient comes in today for follow up of several medical problems. She has a
+
+history of type 2 diabetes. Her sugars have not been optimally controlled. They are
+
+usually in the 190-200 range in the morning. Her weight is stable. She has no lower
+
+extremity numbness or weakness.  
+
+
+
+She has a history of hyperlipidemia. She stopped her Lescol 2 weeks ago because it
+
+was expensive. She also never increased the dose above 20 mg. She has had side
+
+effects with atorvastatin and pravastatin in the past. Please see her allergy list in
+
+LMR.
+
+
+
+She has a half sister who had colon cancer at age 88. Quiana has had rare
+
+occasional blood streaking when she wipes herself after being constipated. She is
+
+aware of what a colonoscopy is but absolutely refuses a colonoscopy. She is aware
+
+that she is at increased risk for colon cancer given her family history. She has no
+
+nausea, vomiting, diarrhea, melena or weight loss.
+
+
+
+She has chronic lower back pain and bilateral leg pain that is probably due to spinal
+
+stenosis. She has lower back pain and pain in her legs that is worse with walking. It
+
+helps when she uses a carriage to walk around in the store. She denies lower
+
+extremity numbness, change in her bowel or bladder, fevers or chills. Her last MRI
+
+was done in Walsenburg in a wide body machine and was consistent with spinal stenosis. 
+
+She has taken Ultram. She is aware that Vioxx may increase people's risk for cardiac
+
+disease and has stopped taking it. Dr. Yeager, her rheumatologist, referred her to Dr.
+
+North in Internal Medicine for possible injections. 
+
+
+
+PHYSICAL EXAM: No acute distress. Her blood pressure is 180/90. However, her
+
+daughter,Iyanna Field, checks her blood pressure at home and it is very well controlled. 
+
+The patient gets very anxious here in the clinic. Neck supple without JVD or bruits.
+
+Lungs clear without wheezes, rales or rhonchi. Cardiac: Rate regularly regular,
+
+normal S1, S2 without S3, S4 or murmurs. No C/C/E. Distal pulses intact.
+
+
+
+ASSESSMENT AND PLAN:  
+
+
+
+(1)  Type 2 diabetes. Check hemoglobin A1c. Continue current medications.
+
+
+
+(2)  Hyperlipidemia. She should be on medication to keep her LDL below 100. She
+
+     said that she would resume the medication.
+
+
+
+(3)  Hypertension which is never well controlled on her visits here. Her daughter is
+
+     a nursing professional and does report that her blood pressure is very well controlled
+
+     in the 120/80 range when she checks at home. We will continue her current
+
+     regimen.
+
+
+
+(4)  Lower back pain. Probably secondary to spinal stenosis. She has an
+
+     appointment with Dr. North.
+
+
+
+
+
+    
+
+ 
+
+
+
+
+
+Ida Xayachack, M.D.
+
+
+
+IX/delarosa/bishop
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <HYPERLIPIDEMIA id="DOC4" time="before DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY0" start="388" end="402" text="hyperlipidemia" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY1" start="388" end="402" text="hyperlipidemia" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY2" start="388" end="402" text="hyperlipidemia" time="before DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <HYPERLIPIDEMIA id="DOC6" time="after DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY3" start="388" end="402" text="hyperlipidemia" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY4" start="388" end="402" text="hyperlipidemia" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY5" start="388" end="402" text="hyperlipidemia" time="after DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <HYPERLIPIDEMIA id="DOC12" time="during DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY6" start="388" end="402" text="hyperlipidemia" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY7" start="388" end="402" text="hyperlipidemia" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY8" start="388" end="402" text="hyperlipidemia" time="during DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <MEDICATION id="DOC0" time="before DCT" type1="statin" type2="">
+      <MEDICATION id="M0" start="408" end="426" text="stopped her Lescol" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M1" start="544" end="585" text="atorvastatin and pravastatin in the past." time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M2" start="420" end="426" text="Lescol" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M3" start="420" end="426" text="Lescol" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M4" start="544" end="556" text="atorvastatin" time="before DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC2" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="2313" end="2325" text="Hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="2313" end="2325" text="Hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H2" start="2313" end="2325" text="Hypertension" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC3" time="during DCT" indicator="high bp">
+      <HYPERTENSION id="H3" start="1717" end="1725" text="180/90. " time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H4" start="1717" end="1723" text="180/90" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H5" start="1699" end="1724" text="blood pressure is 180/90." time="during DCT" indicator="high bp" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC5" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H6" start="2313" end="2325" text="Hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H7" start="2313" end="2325" text="Hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H8" start="2313" end="2325" text="Hypertension" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC8" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H9" start="2313" end="2325" text="Hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H10" start="2313" end="2325" text="Hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H11" start="2313" end="2325" text="Hypertension" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <FAMILY_HIST id="DOC9" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC10" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" start="3" end="9" text="Record" status="unknown" comment=""/>
+      <SMOKER id="S2" status="unknown"/>
+    </SMOKER>
+    <DIABETES id="DOC1" time="before DCT" indicator="mention">
+      <DIABETES id="D0" start="178" end="186" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D1" start="178" end="186" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D2" start="171" end="186" text="type 2 diabetes" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC7" time="during DCT" indicator="mention">
+      <DIABETES id="D3" start="178" end="186" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D4" start="178" end="186" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D5" start="171" end="186" text="type 2 diabetes" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC11" time="after DCT" indicator="mention">
+      <DIABETES id="D6" start="178" end="186" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D7" start="178" end="186" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D8" start="171" end="186" text="type 2 diabetes" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+  </TAGS>
+</root>

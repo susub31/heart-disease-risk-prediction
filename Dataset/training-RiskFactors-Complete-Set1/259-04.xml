@@ -1,0 +1,116 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2095-06-03
+
+
+Urology Consult Note 
+
+
+Patient Name: Yee, Michael
+PH#:  12693819
+Date/Time: 6/03/95  
+Attending:  Ferreira
+
+
+CC:       Obstructive Uropathy
+
+HPI:      77yM  well known to Dr Ferreira/Wright practice. Muscular Dystrophy, CRI. Stents initially placed Nov 2093 for elevated Cr and CT with hydro (bsl Cr was 1.5-1.7); unknown etiology. Last changed Dec 2094. Continues to present with UTI's intermittently normally treated in ED. This admission presents with renal failure/hyperkalemia (Crt up to 8, K 8), urinary tract infection and mental status changes. 
+
+
+PMH: Muscular Dystrophy, CRI with baseline of 1.5, hyperkalemia secondary to hyperaldosteronemia (type III RTA) CAD s/p CABG, seizure disorder, fungal UTI, PVD, GERD, COPD (2.5L home O2), IDDM
+PSH:  CABG; cystoscopy, B RPG, B ureteral stent placement 11/93; cystoscopy, B ureteral stent change 2/94 and then again 12/94.
+MED:    See admission list
+ALL:     EmycinPE:       AFVSS
+            NAD, delirious
+            S/NT/ND
+            Foley intact with clear urine, soiling of bed, deferred DRE            
+LABS:   BUN/Crt: 209/8.5&#224; 7.8, K 8&#224;4.3, 14.6&#224;11/31/313MICRO: UA positive for infection; Ucx and Blood Cx pending RADS:     RUS 3/29: Left kidney not visualized.  The right kidney is without evidence of hydronephrosis.  There is an echogenicity in the right renal cortex compatible with chronic renal medical disease.               Last CT was in 12/94 and showed bilateral stability of stents, no obvious processUnderlying obstruction. 
+
+
+A/P:  77M w/ multiple medical problems including muscular dystrophy and B ureteral obstruction managed with chronic indwelling stents, the etiology which is unclear, now admitted w/ ARF, hyperkalemia and a presumed UTI.  His ureteral stents were last changed 12/94, but he has never obtained a diagnosis for his B ureteral obstruction; in 12/94, left RPG showed hydroureter to UVJ and on the right a distal ureteral stricture was noted at the UVJ. Difficult management issue since fails to follow-up and is normally cared for during acute episode admissions. We recommend:
+
+F/U UCx and continue empiric treatment; managed by ID in the past and their services may be helpful if he doesn&#8217;t respond at present.  
+Continue hydration and treatment for hyperkalemia/ARF; may benefit from renal consult given h/o RTA
+F/U RUS to assess for recurrent hydronephrosis. Left kidney not well visualized at last US.  Depending on the results of this study, consider ureteral stent change vs. staged removal.  Needs to be medically optimized prior to undergoing anaesthesia.
+D/w Dr. Ferreira, who agrees with above plan. 
+
+
+                                                                                                                                                
+                                                                                    Leo Villalobos, M.D.
+                                                                                    PGY-4 Urology Consult Resident
+
+
+
+]]></TEXT>
+  <TAGS>
+    <CAD id="DOC0" time="before DCT" indicator="mention">
+      <CAD id="C0" start="698" end="701" text="CAD" time="before DCT" indicator="mention" comment=""/>
+      <CAD id="C1" start="698" end="701" text="CAD" time="before DCT" indicator="mention" comment=""/>
+      <CAD id="C2" start="698" end="701" text="CAD" time="before DCT" indicator="mention" comment=""/>
+    </CAD>
+    <CAD id="DOC1" time="before DCT" indicator="event">
+      <CAD id="C3" start="706" end="710" text="CABG" time="before DCT" indicator="event" comment=""/>
+      <CAD id="C4" start="706" end="710" text="CABG" time="before DCT" indicator="event" comment=""/>
+      <CAD id="C5" start="785" end="789" text="CABG" time="before DCT" indicator="event" comment=""/>
+    </CAD>
+    <DIABETES id="DOC2" time="before DCT" indicator="mention">
+      <DIABETES id="D0" start="774" end="778" text="IDDM" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D1" start="774" end="778" text="IDDM" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D2" start="774" end="778" text="IDDM" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC3" time="after DCT" indicator="mention">
+      <DIABETES id="D3" start="774" end="778" text="IDDM" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D4" start="774" end="778" text="IDDM" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D5" start="774" end="778" text="IDDM" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <CAD id="DOC4" time="during DCT" indicator="mention">
+      <CAD id="C6" start="698" end="701" text="CAD" time="during DCT" indicator="mention" comment=""/>
+      <CAD id="C7" start="698" end="701" text="CAD" time="during DCT" indicator="mention" comment=""/>
+      <CAD id="C8" start="698" end="701" text="CAD" time="during DCT" indicator="mention" comment=""/>
+    </CAD>
+    <FAMILY_HIST id="DOC5" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC6" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" status="unknown"/>
+      <SMOKER id="S2" status="unknown"/>
+    </SMOKER>
+    <CAD id="DOC7" time="after DCT" indicator="mention">
+      <CAD id="C9" start="698" end="701" text="CAD" time="after DCT" indicator="mention" comment=""/>
+      <CAD id="C10" start="698" end="701" text="CAD" time="after DCT" indicator="mention" comment=""/>
+      <CAD id="C11" start="698" end="701" text="CAD" time="after DCT" indicator="mention" comment=""/>
+    </CAD>
+    <DIABETES id="DOC8" time="during DCT" indicator="mention">
+      <DIABETES id="D6" start="774" end="778" text="IDDM" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D7" start="774" end="778" text="IDDM" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D8" start="774" end="778" text="IDDM" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <PHI id="P0" start="16" end="26" text="2095-06-03" TYPE="DATE"/>
+    <PHI id="P1" start="67" end="79" text="Yee, Michael" TYPE="PATIENT"/>
+    <PHI id="P2" start="80" end="82" text="PH" TYPE="HOSPITAL"/>
+    <PHI id="P3" start="86" end="94" text="12693819" TYPE="MEDICALRECORD"/>
+    <PHI id="P4" start="106" end="113" text="6/03/95" TYPE="DATE"/>
+    <PHI id="P5" start="128" end="136" text="Ferreira" TYPE="DOCTOR"/>
+    <PHI id="P6" start="181" end="183" text="77" TYPE="AGE"/>
+    <PHI id="P7" start="204" end="212" text="Ferreira" TYPE="DOCTOR"/>
+    <PHI id="P8" start="213" end="219" text="Wright" TYPE="DOCTOR"/>
+    <PHI id="P9" start="279" end="287" text="Nov 2093" TYPE="DATE"/>
+    <PHI id="P10" start="375" end="383" text="Dec 2094" TYPE="DATE"/>
+    <PHI id="P11" start="837" end="842" text="11/93" TYPE="DATE"/>
+    <PHI id="P12" start="880" end="884" text="2/94" TYPE="DATE"/>
+    <PHI id="P13" start="900" end="905" text="12/94" TYPE="DATE"/>
+    <PHI id="P14" start="1238" end="1242" text="3/29" TYPE="DATE"/>
+    <PHI id="P15" start="1457" end="1462" text="12/94" TYPE="DATE"/>
+    <PHI id="P16" start="1556" end="1558" text="77" TYPE="AGE"/>
+    <PHI id="P17" start="1809" end="1814" text="12/94" TYPE="DATE"/>
+    <PHI id="P18" start="1889" end="1894" text="12/94" TYPE="DATE"/>
+    <PHI id="P19" start="2624" end="2632" text="Ferreira" TYPE="DOCTOR"/>
+    <PHI id="P20" start="2894" end="2908" text="Leo Villalobos" TYPE="DOCTOR"/>
+  </TAGS>
+</root>

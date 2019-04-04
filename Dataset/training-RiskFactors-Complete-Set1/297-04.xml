@@ -1,0 +1,277 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2094-06-12
+
+June 12, 2094
+ 
+ 
+Miles Echeverria, M.D.
+Spencer Internal Medicine Associates
+Spencer State Hospital
+16 Burrit St
+Fayetteville, MI  31474
+ 
+RE:  Vicente, Kadeem F.
+     MRN: 948-59-58-0
+ 
+Dear Miles:
+ 
+I had the pleasure of seeing Mr. Vicente in Cardiovascular Care today.  This lovely 77-year old man has had past medical
+history notable for coronary artery disease, hypertension, benign
+prostatic hypertrophy, depression, insomnia, osteoarthritis status
+post total knee replacement.
+ 
+He presents today because of a recent exacerbation of symptomatic
+coronary artery disease.  His history of coronary artery disease
+begins with his presentation following his total knee replacement
+in June of 2091.  In 10/91 he had an episode of profound weakness
+and sat down.  He had no clear substernal chest pressure, loss of
+consciousness or edema.  Workup at that time included a thallium
+test which did not clearly demonstrate ischemia and an
+echocardiogram with an ejection fraction of 50%.  He began therapy
+at that point in time with aspirin, niacin, vitamin E, Lasix,
+Zestril, Zantac, Minipress, Amitriptyline, and Digoxin.  He had
+been free of exertional neck, chest, arm and jaw pain, paroxysmal
+nocturnal dyspnea, orthopnea, palpitations, claudication and TIA
+until this past spring.  He actually had done very well with risk
+factor reduction including completing cardiac rehab at MJH and
+following a stringent weight reduction program and decreasing his
+weight.  In March of 2094 he began noticing that when he was going
+up the 19 steps in his house he began having mid-sternal chest
+discomfort and some dyspnea at the top of the stairs.  He stopped
+working with the physiotherapist at that point and was initiated on
+nitrate therapy.  Since that time he has noted that he has had
+significant decrease in symptoms and over the past week has
+actually had no need to take sublingual nitroglycerine and has been
+taking the full flight of stairs without difficulty.  He does note
+fatigue and insomnia such that he is sleeping only 2 to 3 hours a
+night.  He does continue to be free of paroxysmal nocturnal
+dyspnea, orthopnea, palpitations or lightheadedness.
+ 
+Medical regimen includes Ambien, Paxil, Isordil 20 t.i.d.,
+Atenolol, Digoxin, Zantac and aspirin.  He has no known drug
+allergies.
+ 
+On physical exam blood pressure when he first arrived at Clinic was
+noted to be 220/100.  At the present time it is 180/100 with a
+Vicente, Kadeem F.
+MRN: 948-59-58-0
+June 12, 2094
+Page Two
+ 
+heart rate of 55 and a respiratory rate of 10.  There is no
+increase in jugular venous pressure.  His carotids are free of
+bruits.  His lungs are entirely clear to auscultation throughout,
+and cardiac exam is notable for a non-displaced PMI, S1 and
+physiologically-split S2 with no murmur, rub or gallop.  Abdominal
+exam is notable for a ventral hernia.  There is no organomegaly and
+neither are there bruits present.  Lower extremities are notable
+for 2+ femoral, popliteal, dorsalis pedis and posterior tibial
+pulses with no edema.  Skin exam is notable only for the senile
+angioma.
+ 
+Electrocardiogram is notable for a left bundle branch block which
+is new since prior tracing available here of 4/03/94.  MIBI was
+notable only for a potential fixed anteroseptal defect and no
+significant ischemia on 5/6/94.  The ejection fraction on a gated
+spect was 57%.  
+ 
+In summary, it appears that Mr. Vicente may have experienced a new
+myocardial infarction resulting in a left bundle branch block in
+March of 2094.  He could, however, also have developed his
+progressive conduction system disease and have the fixed defect on
+his MIBI attributable only to a left bundle branch block.  I will
+be reviewing the primary images to make my final decision.  In
+either regard he is now free of symptoms on his current medical
+regimen despite his increased weight and his increased blood
+pressure.  I certainly agree with further assistance from nutrition
+and weight loss and proceeding with Imdur therapy which I would
+increase to 60 mg p.o. q.d.  I also would consider further decrease
+of his LDL with statin therapy but would only consider this after
+assessing his response to re-initiation his nutrition program. 
+Given his lack of symptoms at the present time with his usual daily
+activity, I would prefer to proceed on the medical therapy route. 
+I think that he could be reintroduced to rehab at MJH with the
+hopes that further education can get him back on line in terms of
+risk factor reduction.  
+ 
+I certainly look forward to discussing this case further with you. 
+It's certainly a pleasure to participate in his care.
+ 
+Sincerely,
+ 
+ 
+ 
+Gwen K. Xique, M.D.
+DD: 06/12/94
+DT: 06/17/94
+DV: 06/12/94
+/jackman
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="during DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M0" start="1093" end="1100" text="Zestril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M1" start="1093" end="1100" text="Zestril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC1" time="before DCT" type1="niacin" type2="">
+      <MEDICATION id="M2" start="1067" end="1073" text="niacin" time="before DCT" type1="niacin" type2="" comment=""/>
+      <MEDICATION id="M3" start="1067" end="1073" text="niacin" time="before DCT" type1="niacin" type2="" comment=""/>
+      <MEDICATION id="M4" start="1067" end="1073" text="niacin" time="before DCT" type1="niacin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC2" time="during DCT" type1="aspirin" type2="">
+      <MEDICATION id="M5" start="1058" end="1065" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M6" start="1058" end="1065" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M7" start="1058" end="1065" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC3" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="396" end="408" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="396" end="408" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H2" start="396" end="408" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <CAD id="DOC4" time="before DCT" indicator="symptom">
+      <CAD id="C0" start="1595" end="1623" text="mid-sternal chest discomfort" time="before DCT" indicator="symptom" comment=""/>
+      <CAD id="C1" start="1595" end="1641" text="mid-sternal chest discomfort and some dyspnea " time="before DCT" indicator="symptom" comment=""/>
+    </CAD>
+    <MEDICATION id="DOC5" time="during DCT" type1="niacin" type2="">
+      <MEDICATION id="M8" start="1067" end="1073" text="niacin" time="during DCT" type1="niacin" type2="" comment=""/>
+      <MEDICATION id="M9" start="1067" end="1073" text="niacin" time="during DCT" type1="niacin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC6" time="after DCT" type1="aspirin" type2="">
+      <MEDICATION id="M10" start="1058" end="1065" text="aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M11" start="1058" end="1065" text="aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M12" start="1058" end="1065" text="aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC7" time="after DCT" type1="nitrate" type2="">
+      <MEDICATION id="M13" start="2226" end="2233" text="Isordil" time="after DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M14" start="1910" end="1924" text="nitroglycerine" time="after DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M15" start="2226" end="2233" text="Isordil" time="after DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M16" start="3991" end="3996" text="Imdur" time="after DCT" type1="nitrate" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC8" time="during DCT" type1="nitrate" type2="">
+      <MEDICATION id="M17" start="2226" end="2233" text="Isordil" time="during DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M18" start="1910" end="1924" text="nitroglycerine" time="during DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M19" start="2226" end="2233" text="Isordil" time="during DCT" type1="nitrate" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC9" time="during DCT" indicator="high bp">
+      <HYPERTENSION id="H3" start="2399" end="2406" text="220/100" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H4" start="2399" end="2442" text="220/100.  At the present time it is 180/100" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H5" start="2435" end="2442" text="180/100" time="during DCT" indicator="high bp" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC10" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H6" start="396" end="408" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H7" start="396" end="408" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H8" start="396" end="408" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <MEDICATION id="DOC11" time="after DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M20" start="2245" end="2253" text="Atenolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M21" start="2245" end="2253" text="Atenolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M22" start="2245" end="2253" text="Atenolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <SMOKER id="DOC12" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" status="unknown"/>
+      <SMOKER id="S2" start="3" end="10" text="Record " status="unknown" comment=""/>
+    </SMOKER>
+    <CAD id="DOC13" time="after DCT" indicator="mention">
+      <CAD id="C2" start="371" end="394" text="coronary artery disease" time="after DCT" indicator="mention" comment=""/>
+      <CAD id="C3" start="371" end="394" text="coronary artery disease" time="after DCT" indicator="mention" comment=""/>
+      <CAD id="C4" start="371" end="394" text="coronary artery disease" time="after DCT" indicator="mention" comment=""/>
+    </CAD>
+    <MEDICATION id="DOC14" time="after DCT" type1="niacin" type2="">
+      <MEDICATION id="M23" start="1067" end="1073" text="niacin" time="after DCT" type1="niacin" type2="" comment=""/>
+      <MEDICATION id="M24" start="1067" end="1073" text="niacin" time="after DCT" type1="niacin" type2="" comment=""/>
+    </MEDICATION>
+    <FAMILY_HIST id="DOC15" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <MEDICATION id="DOC16" time="before DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M25" start="1093" end="1100" text="Zestril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M26" start="1093" end="1100" text="Zestril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M27" start="1093" end="1100" text="Zestril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <CAD id="DOC17" time="during DCT" indicator="mention">
+      <CAD id="C5" start="371" end="394" text="coronary artery disease" time="during DCT" indicator="mention" comment=""/>
+      <CAD id="C6" start="371" end="394" text="coronary artery disease" time="during DCT" indicator="mention" comment=""/>
+      <CAD id="C7" start="371" end="394" text="coronary artery disease" time="during DCT" indicator="mention" comment=""/>
+    </CAD>
+    <MEDICATION id="DOC18" time="before DCT" type1="aspirin" type2="">
+      <MEDICATION id="M28" start="1058" end="1065" text="aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M29" start="1058" end="1065" text="aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M30" start="1058" end="1065" text="aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC19" time="before DCT" type1="nitrate" type2="">
+      <MEDICATION id="M31" start="2226" end="2233" text="Isordil" time="before DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M32" start="1898" end="1924" text=" sublingual nitroglycerine" time="before DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M33" start="1910" end="1924" text="nitroglycerine" time="before DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M34" start="2226" end="2233" text="Isordil" time="before DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M35" start="1747" end="1754" text="nitrate" time="before DCT" type1="nitrate" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC20" time="after DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M36" start="1093" end="1100" text="Zestril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M37" start="1093" end="1100" text="Zestril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC21" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H9" start="396" end="408" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H10" start="396" end="408" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H11" start="396" end="408" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <MEDICATION id="DOC22" time="before DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M38" start="2245" end="2253" text="Atenolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M39" start="2245" end="2253" text="Atenolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M40" start="2245" end="2253" text="Atenolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC23" time="during DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M41" start="2245" end="2253" text="Atenolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M42" start="2245" end="2253" text="Atenolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M43" start="2245" end="2253" text="Atenolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <CAD id="DOC24" time="before DCT" indicator="mention">
+      <CAD id="C8" start="371" end="394" text="coronary artery disease" time="before DCT" indicator="mention" comment=""/>
+      <CAD id="C9" start="371" end="394" text="coronary artery disease" time="before DCT" indicator="mention" comment=""/>
+      <CAD id="C10" start="371" end="394" text="coronary artery disease" time="before DCT" indicator="mention" comment=""/>
+    </CAD>
+    <PHI id="P0" start="16" end="26" text="2094-06-12" TYPE="DATE"/>
+    <PHI id="P1" start="28" end="41" text="June 12, 2094" TYPE="DATE"/>
+    <PHI id="P2" start="46" end="62" text="Miles Echeverria" TYPE="DOCTOR"/>
+    <PHI id="P3" start="69" end="76" text="Spencer" TYPE="HOSPITAL"/>
+    <PHI id="P4" start="106" end="128" text="Spencer State Hospital" TYPE="HOSPITAL"/>
+    <PHI id="P5" start="129" end="141" text="16 Burrit St" TYPE="STREET"/>
+    <PHI id="P6" start="142" end="154" text="Fayetteville" TYPE="CITY"/>
+    <PHI id="P7" start="156" end="158" text="MI" TYPE="STATE"/>
+    <PHI id="P8" start="160" end="165" text="31474" TYPE="ZIP"/>
+    <PHI id="P9" start="173" end="191" text="Vicente, Kadeem F." TYPE="PATIENT"/>
+    <PHI id="P10" start="202" end="213" text="948-59-58-0" TYPE="MEDICALRECORD"/>
+    <PHI id="P11" start="221" end="226" text="Miles" TYPE="DOCTOR"/>
+    <PHI id="P12" start="263" end="270" text="Vicente" TYPE="PATIENT"/>
+    <PHI id="P13" start="274" end="293" text="Cardiovascular Care" TYPE="DEPARTMENT"/>
+    <PHI id="P14" start="314" end="316" text="77" TYPE="AGE"/>
+    <PHI id="P15" start="715" end="727" text="June of 2091" TYPE="DATE"/>
+    <PHI id="P16" start="733" end="738" text="10/91" TYPE="DATE"/>
+    <PHI id="P17" start="1304" end="1310" text="spring" TYPE="DATE"/>
+    <PHI id="P18" start="1409" end="1412" text="MJH" TYPE="HOSPITAL"/>
+    <PHI id="P19" start="1495" end="1508" text="March of 2094" TYPE="DATE"/>
+    <PHI id="P20" start="2450" end="2468" text="Vicente, Kadeem F." TYPE="PATIENT"/>
+    <PHI id="P21" start="2474" end="2485" text="948-59-58-0" TYPE="MEDICALRECORD"/>
+    <PHI id="P22" start="2486" end="2499" text="June 12, 2094" TYPE="DATE"/>
+    <PHI id="P23" start="3209" end="3216" text="4/03/94" TYPE="DATE"/>
+    <PHI id="P24" start="3314" end="3320" text="5/6/94" TYPE="DATE"/>
+    <PHI id="P25" start="3407" end="3414" text="Vicente" TYPE="PATIENT"/>
+    <PHI id="P26" start="3507" end="3520" text="March of 2094" TYPE="DATE"/>
+    <PHI id="P27" start="4402" end="4405" text="MJH" TYPE="HOSPITAL"/>
+    <PHI id="P28" start="4649" end="4662" text="Gwen K. Xique" TYPE="DOCTOR"/>
+    <PHI id="P29" start="4673" end="4681" text="06/12/94" TYPE="DATE"/>
+    <PHI id="P30" start="4686" end="4694" text="06/17/94" TYPE="DATE"/>
+    <PHI id="P31" start="4699" end="4707" text="06/12/94" TYPE="DATE"/>
+    <PHI id="P32" start="4709" end="4716" text="jackman" TYPE="DOCTOR"/>
+  </TAGS>
+</root>

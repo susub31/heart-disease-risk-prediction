@@ -1,0 +1,105 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2065-10-20
+
+                     GRANITE EMERGENCY DEPT VISIT
+ 
+BIRD,TERRI   809-10-69-0                    VISIT DATE: 10/20/65
+PRESENTING COMPLAINT: 
+HISTORY OF PRESENTING COMPLAINT:  The patient is a 70 year old 
+female with long past medical history of medical problems, 
+including abdominal aortic aneurysm repair, chronic pneumonia, 
+chronic wound infection, history of chronic urinary tract 
+infections, change in mental status, peripheral vascular disease, 
+hypertension, and coronary artery disease.  The patient was in her 
+usual state of poor health when she was noticed by caregivers to be 
+confused and lethargic.  The patient was transferred to the 
+emergency room department. 
+REVIEW OF SYSTEMS: 
+PAST MEDICAL HISTORY: 
+MEDICATIONS:  Unknown medications at this time. 
+ALLERGIES:  Sulfa and penicillin.  Aspirin and all cephalosporins. 
+SOCIAL HISTORY AND FAMILY HISTORY: 
+PHYSICAL EXAMINATION:  Temperature 101.6 degrees, pulse 90, 
+respiratory rate 18, blood pressure 114/60, room air saturation 
+91%.  HEENT:  Normocephalic, atraumatic.  Pupils equal, round, and 
+reactive to light and accommodation.  Neck supple and nontender. 
+Chest:  Bibasilar crackles.  Left sided rhonchi.  Abdomen:  Obvious 
+infected wound.  Minimally tender.  Extremities:  Negative. 
+Neurologic:  Symmetric.  Alert and oriented times two.  Reflexes 
+normal, strength normal. 
+LABORATORY EVALUATION:  WBC 28. 
+THERAPY RENDERED/COURSE IN ED:  The patient was given IV 
+antibiotics and will be admitted to the medical service for workup. 
+PROCEDURES: 
+CONSULTATIONS (including PCP): 
+FINAL DIAGNOSIS:  Urosepsis. 
+DISPOSITION (including condition upon discharge):  She was admitted 
+in poor condition. 
+___________________________________                    ZD548/6212 
+                                                       D:10/21/65 
+                                                       T:10/21/65 
+Dictated by:  RUBEN ZACARIAS, M.D.  RZ1 
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <CAD id="DOC0" time="before DCT" indicator="mention">
+      <CAD id="C0" start="500" end="523" text="coronary artery disease" time="before DCT" indicator="mention" comment=""/>
+      <CAD id="C1" start="500" end="523" text="coronary artery disease" time="before DCT" indicator="mention" comment=""/>
+      <CAD id="C2" start="500" end="523" text="coronary artery disease" time="before DCT" indicator="mention" comment=""/>
+    </CAD>
+    <HYPERTENSION id="DOC1" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="482" end="494" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="482" end="494" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H2" start="482" end="495" text="hypertension," time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC2" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H3" start="482" end="494" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H4" start="482" end="494" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H5" start="482" end="495" text="hypertension," time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <CAD id="DOC3" time="during DCT" indicator="mention">
+      <CAD id="C3" start="500" end="523" text="coronary artery disease" time="during DCT" indicator="mention" comment=""/>
+      <CAD id="C4" start="500" end="523" text="coronary artery disease" time="during DCT" indicator="mention" comment=""/>
+      <CAD id="C5" start="500" end="523" text="coronary artery disease" time="during DCT" indicator="mention" comment=""/>
+    </CAD>
+    <HYPERTENSION id="DOC4" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H6" start="482" end="494" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H7" start="482" end="494" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H8" start="482" end="495" text="hypertension," time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <FAMILY_HIST id="DOC5" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC6" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" status="unknown"/>
+      <SMOKER id="S2" start="868" end="874" text="SOCIAL" status="unknown" comment=""/>
+    </SMOKER>
+    <CAD id="DOC7" time="after DCT" indicator="mention">
+      <CAD id="C6" start="500" end="523" text="coronary artery disease" time="after DCT" indicator="mention" comment=""/>
+      <CAD id="C7" start="500" end="523" text="coronary artery disease" time="after DCT" indicator="mention" comment=""/>
+      <CAD id="C8" start="500" end="523" text="coronary artery disease" time="after DCT" indicator="mention" comment=""/>
+    </CAD>
+    <PHI id="P0" start="16" end="26" text="2065-10-20" TYPE="DATE"/>
+    <PHI id="P1" start="49" end="56" text="GRANITE" TYPE="HOSPITAL"/>
+    <PHI id="P2" start="80" end="90" text="BIRD,TERRI" TYPE="PATIENT"/>
+    <PHI id="P3" start="93" end="104" text="809-10-69-0" TYPE="MEDICALRECORD"/>
+    <PHI id="P4" start="136" end="144" text="10/20/65" TYPE="DATE"/>
+    <PHI id="P5" start="219" end="221" text="70" TYPE="AGE"/>
+    <PHI id="P6" start="1765" end="1775" text="ZD548/6212" TYPE="IDNUM"/>
+    <PHI id="P7" start="1834" end="1842" text="10/21/65" TYPE="DATE"/>
+    <PHI id="P8" start="1901" end="1909" text="10/21/65" TYPE="DATE"/>
+    <PHI id="P9" start="1925" end="1939" text="RUBEN ZACARIAS" TYPE="DOCTOR"/>
+    <PHI id="P10" start="1947" end="1950" text="RZ1" TYPE="USERNAME"/>
+  </TAGS>
+</root>

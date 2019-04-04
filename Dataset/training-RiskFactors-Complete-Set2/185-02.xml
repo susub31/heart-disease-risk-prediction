@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2151-01-25
+
+ January 25, 2151 (initial office note) Frank Caldwell:
+	He is a 75 year old man who is referred by Dr. Freda Erickson of Mauston for consultation regarding a biopsy proven adenocarcinoma in the head of the pancreas. He apparently developed some twinge type pain in his right upper quadrant which he describes as    zingers    6 or 7 weeks ago. Work-up then involved imaging with a CT scan which I reviewed but do not have the written report on. This shows a mass in the head of the pancreas abutting and perhaps distorting the portal vein. He has not had any jaundice and does not have any change in his bowel functions. A subsequent endoscopic ultrasound examination confirms the mass in the head of the pancreas with features of portal vein invasion. Fine needle aspiration has confirmed adenocarcinoma. The mass itself is about 2   cm in diameter.
+	His family history does not include any pancreatic cancer but his father had lung cancer.
+	He denies smoking, drinking but exercises by walking about 5 days a week.
+	His past surgical history includes a resection of an aortic aneurysm in 2131, cholecystectomy in 2131, prostatectomy for cancer in 2142 and resection of a lung cancer in 2143.
+	His current medications include Lipitor 40mg a day, Glyburide 5mg three times a day (he has been taking it for 6     7 years), Lisinopril 5mg a day and a baby aspirin.
+	He is said to be allergic to Sudafed and the dye used for CAT scans (the latter was apparently salivary gland swelling on the day following a CAT scan - - it is unclear whether the two are related).
+	His review of systems also includes kidneys stones and spinal stenosis. He has had some mild recent weight loss. He denies symptoms of heart disease, neurologic disease or respiratory disease. His review of systems is otherwise unremarkable.
+	I think he is not a candidate for attempted surgical resection at this time. With the findings consistent with portal vein invasion, he should first be treated with chemoradiation. He may be a candidate for subsequent surgery, probably not resection but perhaps intra-operative radiation therapy. I   ve explained this to him, his wife and daughter. After discussing the various alternatives we have agreed to have him evaluated in the Sawtooth Cancer Clinic for treatment planning for chemoradiation, with consideration of subsequent IORT. He comes from Elk Ridge and probably would prefer to have his treatment carried out at the Elk Ridge Health Center in coordination with us. This seems quite reasonable and we will proceed to set that up. I will also get a CA19-9 today and plan to see him at the completion of his chemoradiation.
+	I spent 45 minutes in consultation and coordination of care.
+						Benjaman Y. Macias, M.D.
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="during DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M0" start="1351" end="1361" text="Lisinopril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M1" start="1351" end="1361" text="Lisinopril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M2" start="1351" end="1361" text="Lisinopril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC1" time="before DCT" type1="statin" type2="">
+      <MEDICATION id="M3" start="1256" end="1263" text="Lipitor" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M4" start="1256" end="1263" text="Lipitor" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M5" start="1256" end="1264" text="Lipitor " time="before DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC2" time="during DCT" type1="statin" type2="">
+      <MEDICATION id="M6" start="1256" end="1263" text="Lipitor" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M7" start="1256" end="1263" text="Lipitor" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M8" start="1256" end="1264" text="Lipitor " time="during DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC3" time="during DCT" type1="aspirin" type2="">
+      <MEDICATION id="M9" start="1383" end="1390" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M10" start="1383" end="1390" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M11" start="1383" end="1390" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC4" time="after DCT" type1="sulfonylureas" type2="">
+      <MEDICATION id="M12" start="1276" end="1285" text="Glyburide" time="after DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M13" start="1276" end="1285" text="Glyburide" time="after DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M14" start="1276" end="1285" text="Glyburide" time="after DCT" type1="sulfonylureas" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC5" time="before DCT" type1="aspirin" type2="">
+      <MEDICATION id="M15" start="1383" end="1390" text="aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M16" start="1383" end="1390" text="aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M17" start="1383" end="1390" text="aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC6" time="before DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M18" start="1351" end="1361" text="Lisinopril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M19" start="1351" end="1361" text="Lisinopril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M20" start="1351" end="1361" text="Lisinopril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC7" time="before DCT" type1="sulfonylureas" type2="">
+      <MEDICATION id="M21" start="1276" end="1285" text="Glyburide" time="before DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M22" start="1276" end="1285" text="Glyburide" time="before DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M23" start="1276" end="1285" text="Glyburide" time="before DCT" type1="sulfonylureas" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC8" time="after DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M24" start="1351" end="1361" text="Lisinopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M25" start="1351" end="1361" text="Lisinopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M26" start="1351" end="1361" text="Lisinopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC9" time="during DCT" type1="sulfonylureas" type2="">
+      <MEDICATION id="M27" start="1276" end="1285" text="Glyburide" time="during DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M28" start="1276" end="1285" text="Glyburide" time="during DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M29" start="1276" end="1285" text="Glyburide" time="during DCT" type1="sulfonylureas" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC10" time="after DCT" type1="aspirin" type2="">
+      <MEDICATION id="M30" start="1383" end="1390" text="aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M31" start="1383" end="1390" text="aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M32" start="1383" end="1390" text="aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC11" time="after DCT" type1="statin" type2="">
+      <MEDICATION id="M33" start="1256" end="1263" text="Lipitor" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M34" start="1256" end="1263" text="Lipitor" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M35" start="1256" end="1264" text="Lipitor " time="after DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <FAMILY_HIST id="DOC12" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC13" status="never">
+      <SMOKER id="S0" start="975" end="989" text="denies smoking" status="never" comment=""/>
+      <SMOKER id="S1" start="975" end="990" text="denies smoking," status="never" comment=""/>
+      <SMOKER id="S2" start="975" end="989" text="denies smoking" status="never" comment=""/>
+    </SMOKER>
+  </TAGS>
+</root>

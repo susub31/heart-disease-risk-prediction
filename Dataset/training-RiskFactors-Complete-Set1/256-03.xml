@@ -1,0 +1,274 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2151-08-30
+
+ 
+76 year old mother of four - 1 grandchild.
+Retired  performer.
+Husband Nathaniel Klein
+
+
+Nodular thyroid
+
+
+HPI
+Health generally ok.
+Complex migraine.
+CAD - stent  2144. T. William is cardiologist.
+XRT - none.
+
+2150			CT scan -multiple nodules in thyroid
+				US - Multiple nodules. Largest is L lower 1.6 x 1.3 x 1.2 cm 					Hypoechoic. Smaller right nodules are also hypoechoic. Some
+				macrocalcification in the larger nodule.
+
+June 2150		FNA. Benign follicular cells and colloid.  L nodule
+
+Aug 2151		US -  Right 4 x 4 x 4 mm
+				Midpole right 9 x8 x8
+				Midpole 7 x 4 x 9
+				Lower pole 1.1 x 1 x 1.3 solid.
+				Right 8 x 5 x 1
+				Left thyroid 6 x 5 x 7
+				Midpole L 1.5 x 1.0 x 1.5 cm. 
+				Lower pole 5 x 3 x 6 mm
+
+Interim History and ROS
+
+Compared current and prior US. No change in size. L nodule has been FNA'd
+Question is whether right will need FNA. 
+Now has diabetes and is now on Metformin. Discussed stopped before contrast agents. 
+She and husband have been working on estate of friend. 
+
+ROS
+
+Constitutional:  Weight stable. Appetite normal. Tends to be hot.  Energy down.
+Head No frequent headaches. No hair loss. 
+Eye : Vision down - has cataracts. 
+Throat : No difficulty swallowing. Voice unchanged. No neck pressure
+Cardiac:  No chest pain. No palpitations.
+Respiratory : No exertional dyspnea. Increaed cough since Jan 2151. Had chest x-ray ok. Takes protonix in a.m. 
+GI: Digestion fine. No difficulty with bowel movements.
+GU: Urination without difficulty. Menopausal. 
+NM: No pain or aches - save occ ankle aches. Strength is good. 
+Psych: Difficulty sleeping - up to urinate or suddently awake or husband snoring.  Mood is fine.
+ 
+ 
+
+Medications
+Lipitor 10
+Isordil
+Verapamil 240
+Atenolol 25
+Metformin 500 x 2
+ASA
+Protonix 40 
+HCTZ 12.5 each a.m.
+Vits
+
+Allergies
+Sulfa
+Vinegar
+
+H Social History
+
+Born Estill
+Husband Nathaniel Klein - pt of mine. 
+
+Past Medical History
+
+Appendect
+D and C
+Migraine
+CAD
+Mastoid surgery at age 7 month.
+
+   
+
+
+Physical Examination
+Increased weight. blondish hair. Glasses.
+Vital Signs:  P 84     BP 140/80    Resp 12
+HEENT: PRERLA Full EOM Conj clear. No proptosis. Pharynx without lesions. 2plus carotids. No post cervical supra clavicular nodes. Thyroid: Diff feeling but probable rt lower pole nodule. Left nodule 1 plus cm. 
+
+Impression
+
+Thyroid Nodules. Multinodular thyroid.
+Compared current and prior US  - Stable but consider whether the right nodule will need an FNA.
+Review with radiology and decide.
+
+ 
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="after DCT" type1="statin" type2="">
+      <MEDICATION id="M0" start="1705" end="1712" text="Lipitor" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M1" start="1705" end="1712" text="Lipitor" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M2" start="1705" end="1712" text="Lipitor" time="after DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC1" time="during DCT" type1="aspirin" type2="">
+      <MEDICATION id="M3" start="1768" end="1771" text="ASA" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M4" start="1768" end="1771" text="ASA" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M5" start="1768" end="1771" text="ASA" time="during DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC2" time="after DCT" type1="metformin" type2="">
+      <MEDICATION id="M6" start="926" end="935" text="Metformin" time="after DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M7" start="926" end="935" text="Metformin" time="after DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M8" start="926" end="935" text="Metformin" time="after DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M9" start="1750" end="1759" text="Metformin" time="after DCT" type1="metformin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC3" time="during DCT" type1="metformin" type2="">
+      <MEDICATION id="M10" start="926" end="935" text="Metformin" time="during DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M11" start="926" end="935" text="Metformin" time="during DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M12" start="1750" end="1759" text="Metformin" time="during DCT" type1="metformin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC4" time="before DCT" type1="aspirin" type2="">
+      <MEDICATION id="M13" start="1768" end="1771" text="ASA" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M14" start="1768" end="1771" text="ASA" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M15" start="1768" end="1771" text="ASA" time="before DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <DIABETES id="DOC5" time="before DCT" indicator="mention">
+      <DIABETES id="D0" start="903" end="911" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D1" start="903" end="911" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D2" start="903" end="911" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC6" time="during DCT" indicator="mention">
+      <DIABETES id="D3" start="903" end="911" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D4" start="903" end="911" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D5" start="903" end="911" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <MEDICATION id="DOC7" time="after DCT" type1="aspirin" type2="">
+      <MEDICATION id="M16" start="1768" end="1771" text="ASA" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M17" start="1768" end="1771" text="ASA" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M18" start="1768" end="1771" text="ASA" time="after DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC8" time="after DCT" type1="nitrate" type2="">
+      <MEDICATION id="M19" start="1716" end="1723" text="Isordil" time="after DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M20" start="1716" end="1723" text="Isordil" time="after DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M21" start="1716" end="1723" text="Isordil" time="after DCT" type1="nitrate" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC9" time="during DCT" type1="nitrate" type2="">
+      <MEDICATION id="M22" start="1716" end="1723" text="Isordil" time="during DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M23" start="1716" end="1723" text="Isordil" time="during DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M24" start="1716" end="1723" text="Isordil" time="during DCT" type1="nitrate" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC10" time="during DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M25" start="1724" end="1733" text="Verapamil" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M26" start="1724" end="1733" text="Verapamil" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M27" start="1724" end="1733" text="Verapamil" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC11" time="during DCT" indicator="high bp">
+      <HYPERTENSION id="H0" start="2083" end="2093" text=" BP 140/80" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H1" start="2084" end="2093" text="BP 140/80" time="during DCT" indicator="high bp" comment=""/>
+    </HYPERTENSION>
+    <MEDICATION id="DOC12" time="before DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M28" start="1724" end="1733" text="Verapamil" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M29" start="1724" end="1733" text="Verapamil" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M30" start="1724" end="1733" text="Verapamil" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC13" time="after DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M31" start="1738" end="1746" text="Atenolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M32" start="1738" end="1746" text="Atenolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M33" start="1738" end="1746" text="Atenolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <SMOKER id="DOC14" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" status="unknown"/>
+      <SMOKER id="S2" status="unknown"/>
+    </SMOKER>
+    <CAD id="DOC15" time="after DCT" indicator="mention">
+      <CAD id="C0" start="180" end="183" text="CAD" time="after DCT" indicator="mention" comment=""/>
+      <CAD id="C1" start="180" end="183" text="CAD" time="after DCT" indicator="mention" comment=""/>
+    </CAD>
+    <MEDICATION id="DOC16" time="before DCT" type1="statin" type2="">
+      <MEDICATION id="M34" start="1705" end="1712" text="Lipitor" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M35" start="1705" end="1712" text="Lipitor" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M36" start="1705" end="1712" text="Lipitor" time="before DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC17" time="during DCT" type1="statin" type2="">
+      <MEDICATION id="M37" start="1705" end="1712" text="Lipitor" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M38" start="1705" end="1712" text="Lipitor" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M39" start="1705" end="1712" text="Lipitor" time="during DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC18" time="during DCT" type1="diuretic" type2="">
+      <MEDICATION id="M40" start="1785" end="1789" text="HCTZ" time="during DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M41" start="1785" end="1789" text="HCTZ" time="during DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M42" start="1785" end="1789" text="HCTZ" time="during DCT" type1="diuretic" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC19" time="before DCT" type1="metformin" type2="">
+      <MEDICATION id="M43" start="926" end="935" text="Metformin" time="before DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M44" start="926" end="935" text="Metformin" time="before DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M45" start="1750" end="1759" text="Metformin" time="before DCT" type1="metformin" type2="" comment=""/>
+    </MEDICATION>
+    <FAMILY_HIST id="DOC20" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <CAD id="DOC21" time="during DCT" indicator="mention">
+      <CAD id="C2" start="180" end="183" text="CAD" time="during DCT" indicator="mention" comment=""/>
+      <CAD id="C3" start="180" end="183" text="CAD" time="during DCT" indicator="mention" comment=""/>
+    </CAD>
+    <MEDICATION id="DOC22" time="after DCT" type1="diuretic" type2="">
+      <MEDICATION id="M46" start="1785" end="1789" text="HCTZ" time="after DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M47" start="1785" end="1789" text="HCTZ" time="after DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M48" start="1785" end="1789" text="HCTZ" time="after DCT" type1="diuretic" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC23" time="before DCT" type1="nitrate" type2="">
+      <MEDICATION id="M49" start="1716" end="1723" text="Isordil" time="before DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M50" start="1716" end="1723" text="Isordil" time="before DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M51" start="1716" end="1723" text="Isordil" time="before DCT" type1="nitrate" type2="" comment=""/>
+    </MEDICATION>
+    <DIABETES id="DOC24" time="after DCT" indicator="mention">
+      <DIABETES id="D6" start="903" end="911" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D7" start="903" end="911" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D8" start="903" end="911" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <MEDICATION id="DOC25" time="before DCT" type1="diuretic" type2="">
+      <MEDICATION id="M52" start="1785" end="1789" text="HCTZ" time="before DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M53" start="1785" end="1789" text="HCTZ" time="before DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M54" start="1785" end="1789" text="HCTZ" time="before DCT" type1="diuretic" type2="" comment=""/>
+    </MEDICATION>
+    <CAD id="DOC26" time="before DCT" indicator="event">
+      <CAD id="C4" start="186" end="198" text="stent  2144." time="before DCT" indicator="event" comment=""/>
+      <CAD id="C5" start="186" end="191" text="stent" time="before DCT" indicator="event" comment=""/>
+    </CAD>
+    <MEDICATION id="DOC27" time="after DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M55" start="1724" end="1733" text="Verapamil" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M56" start="1724" end="1733" text="Verapamil" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M57" start="1724" end="1733" text="Verapamil" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC28" time="before DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M58" start="1738" end="1746" text="Atenolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M59" start="1738" end="1746" text="Atenolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M60" start="1738" end="1746" text="Atenolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC29" time="during DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M61" start="1738" end="1746" text="Atenolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M62" start="1738" end="1746" text="Atenolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M63" start="1738" end="1746" text="Atenolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <CAD id="DOC30" time="before DCT" indicator="mention">
+      <CAD id="C6" start="180" end="183" text="CAD" time="before DCT" indicator="mention" comment=""/>
+      <CAD id="C7" start="180" end="183" text="CAD" time="before DCT" indicator="mention" comment=""/>
+    </CAD>
+    <PHI id="P0" start="16" end="26" text="2151-08-30" TYPE="DATE"/>
+    <PHI id="P1" start="30" end="32" text="76" TYPE="AGE"/>
+    <PHI id="P2" start="82" end="91" text="performer" TYPE="PROFESSION"/>
+    <PHI id="P3" start="101" end="116" text="Nathaniel Klein" TYPE="PATIENT"/>
+    <PHI id="P4" start="193" end="197" text="2144" TYPE="DATE"/>
+    <PHI id="P5" start="199" end="209" text="T. William" TYPE="DOCTOR"/>
+    <PHI id="P6" start="240" end="244" text="2150" TYPE="DATE"/>
+    <PHI id="P7" start="460" end="469" text="June 2150" TYPE="DATE"/>
+    <PHI id="P8" start="524" end="532" text="Aug 2151" TYPE="DATE"/>
+    <PHI id="P9" start="1370" end="1378" text="Jan 2151" TYPE="DATE"/>
+    <PHI id="P10" start="1859" end="1865" text="Estill" TYPE="CITY"/>
+    <PHI id="P11" start="1874" end="1889" text="Nathaniel Klein" TYPE="PATIENT"/>
+    <PHI id="P12" start="1982" end="1989" text="7 month" TYPE="AGE"/>
+  </TAGS>
+</root>

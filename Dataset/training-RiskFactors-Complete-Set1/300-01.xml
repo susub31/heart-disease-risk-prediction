@@ -1,0 +1,347 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2087-09-18
+
+
+
+
+
+
+
+
+
+
+CHIEF COMPLAINT:  BP CHECK
+
+
+
+HISTORY OF PRESENT ILLNESS: 
+
+
+
+The patient presents to the office for follow-up of (#1) hypertension. 
+
+
+
+The patient presents to the office for follow-up of (#2) anemia. He saw Dr willis and has an appt fdor colonoscopy in Nov.
+
+
+
+
+
+PAST MEDICAL HISTORY: Entered By:ostrowski  On:04/26/2086 
+
+ 
+
+PMH significant for HTN. 
+
+
+
+
+
+PAST SURGICAL HISTORY: Entered By:ostrowski  On:05/02/2086 
+
+ tonsillectomy.
+
+
+
+
+
+FAMILY HISTORY: Entered By:ostrowski  On:05/02/2086 
+
+Father deceaced Alsheimer's
+
+Mother NIDDM, HTN, CVA, Nephrogenic DI.
+
+
+
+SOCIAL HISTORY: Entered By:ostrowski  On:05/02/2086 
+
+ 
+
+EtOH:  rare use.   
+
+Drugs:  no drug abuse.   
+
+Tobacco:  none.   
+
+Family:  single.   
+
+Work:     Senior Manager of Goods Production            .
+
+
+
+REVIEW OF SYSTEMS: Constitution:  Constitution:  good general health, no fever, no change in weight . 
+
+ Cardiovascular:  no palpitations, no chest pain or dyspnea. 
+
+ Respiratory:  no cough, no wheezing or dyspnea. 
+
+ Urinary:  no dysuria or frequent urination  
+
+ Gastrointestinal:  no abdominal pain, no diarrhea, no constipation, no nausea or vomiting.
+
+ Endocrine:  no temperature intolerance or weight changes. 
+
+ 
+
+
+
+
+
+VITAL SIGNS: 
+
+Date/Time: 09/18/2087  05:39 PM  - ostrowski
+
+Pulse 1: 80 bpm 
+
+Blood Pressure 1: 130 / 88 mmHg 
+
+Weight: 302.00 lbs.
+
+
+
+
+
+
+
+EXAMINATION: 
+
+
+
+[Neck] - supple no lymphadenopathy or thyromegaly, 
+
+[CV] - regular rate no murmurs, rubs or gallops, no heave; carotid and pedal pulses normal and 
+
+[Respiratory] - clear breath sounds bilaterally, no accessory muscle use, normal percussion. 
+
+
+
+
+
+CONSTITUTIONAL: The patient appears severely obese.  Appears properly developed for stated age, in no apparent distress.  
+
+
+
+
+
+OTHER: HB 12.5
+
+
+
+
+
+IMPRESSION: Hypertension
+
+Obesity
+
+Minimal anemia but with drop over past 4 months.
+
+
+
+
+
+ALLERGIES: 
+
+No Known Drug Allergies 05/21/2087 ostrowski
+
+
+
+
+
+MEDICATIONS: 
+
+Lidex cream No Match bid prn up to 2 week : 01/09/2087 - 02/02/2090 ACT : ostrowski
+
+   Script:  Amt: 45 grams  Refill: 1 Date: 09/29/2089 : ostrowski
+
+
+
+HCTZ 25mg qd : 05/02/2086 - 09/29/2089 ACT : ostrowski
+
+   Script:  Amt: 100  Refill: 3 Date: 10/21/2088 : ostrowski
+
+
+
+K-Dur 10MEQ qod : 05/02/2086 - 03/06/2092 ACT : ostrowski
+
+   Script:  Amt: #30  Refill: 11 Date: 08/03/2090 : ostrowski
+
+
+
+Zestril 5MG qd : 05/02/2086 - 10/21/2088 ACT : ostrowski
+
+   Script:  Amt: 30  Refill: 11 Date: 09/18/2087 : ostrowski
+
+
+
+
+
+
+
+PROBLEMS - CARE PLANS: 
+
+Problem: problem
+
+Code: 285.9 Anemia, unspecified
+
+Careplan: 
+
+GI consult for endoscopy. Email sent to Dr Willis requesting expedite proceedure in view of lower HCT.
+
+Problem: problem
+
+Code: 401.9 Hypertension
+
+Careplan: 
+
+
+
+Diet:  low sodium and low cholesterol. weight loss increse exercise.
+
+ASA QD
+
+ Refill meds
+
+FU 3 mo.
+
+
+
+E/M Codes: 42789
+
+
+
+
+THIS IS A COPY PRODUCED FOR THE LMR. THE ORGINAL IS STORED ON THE COMPENDIA SERVER AT SMI KESSEL GROUP HOME AND IN PRINT IN THE PATIENT'S SMI PAPER RECORD.
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="during DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M0" start="2356" end="2363" text="Zestril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M1" start="2356" end="2363" text="Zestril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M2" start="2356" end="2363" text="Zestril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC1" time="during DCT" type1="diuretic" type2="">
+      <MEDICATION id="M3" start="2112" end="2116" text="HCTZ" time="during DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M4" start="2112" end="2116" text="HCTZ" time="during DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M5" start="2112" end="2116" text="HCTZ" time="during DCT" type1="diuretic" type2="" comment=""/>
+    </MEDICATION>
+    <OBESE id="DOC2" time="after DCT" indicator="mention">
+      <OBESE id="O0" start="1817" end="1824" text="Obesity" time="after DCT" indicator="mention" comment=""/>
+      <OBESE id="O1" start="1679" end="1693" text="severely obese" time="after DCT" indicator="mention" comment=""/>
+      <OBESE id="O2" start="1688" end="1693" text="obese" time="after DCT" indicator="mention" comment=""/>
+      <OBESE id="O3" start="1817" end="1824" text="Obesity" time="after DCT" indicator="mention" comment=""/>
+    </OBESE>
+    <SMOKER id="DOC3" status="never">
+      <SMOKER id="S0" start="709" end="723" text="Tobacco:  none" status="never" comment=""/>
+      <SMOKER id="S1" start="709" end="723" text="Tobacco:  none" status="never" comment=""/>
+      <SMOKER id="S2" start="709" end="723" text="Tobacco:  none" status="never" comment=""/>
+    </SMOKER>
+    <MEDICATION id="DOC4" time="before DCT" type1="diuretic" type2="">
+      <MEDICATION id="M6" start="2112" end="2116" text="HCTZ" time="before DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M7" start="2112" end="2116" text="HCTZ" time="before DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M8" start="2112" end="2116" text="HCTZ" time="before DCT" type1="diuretic" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC5" time="after DCT" type1="aspirin" type2="">
+      <MEDICATION id="M9" start="2802" end="2805" text="ASA" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M10" start="2802" end="2805" text="ASA" time="after DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC6" time="after DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M11" start="2356" end="2363" text="Zestril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M12" start="2356" end="2363" text="Zestril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M13" start="2356" end="2363" text="Zestril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <OBESE id="DOC7" time="during DCT" indicator="mention">
+      <OBESE id="O4" start="1817" end="1824" text="Obesity" time="during DCT" indicator="mention" comment=""/>
+      <OBESE id="O5" start="1679" end="1693" text="severely obese" time="during DCT" indicator="mention" comment=""/>
+      <OBESE id="O6" start="1688" end="1693" text="obese" time="during DCT" indicator="mention" comment=""/>
+      <OBESE id="O7" start="1817" end="1824" text="Obesity" time="during DCT" indicator="mention" comment=""/>
+    </OBESE>
+    <HYPERTENSION id="DOC8" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="156" end="168" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="156" end="168" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H2" start="156" end="168" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <MEDICATION id="DOC9" time="after DCT" type1="diuretic" type2="">
+      <MEDICATION id="M14" start="2112" end="2116" text="HCTZ" time="after DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M15" start="2112" end="2116" text="HCTZ" time="after DCT" type1="diuretic" type2="" comment=""/>
+      <MEDICATION id="M16" start="2112" end="2116" text="HCTZ" time="after DCT" type1="diuretic" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC10" time="before DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M17" start="2356" end="2363" text="Zestril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M18" start="2356" end="2363" text="Zestril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M19" start="2356" end="2363" text="Zestril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC11" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H3" start="156" end="168" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H4" start="156" end="168" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H5" start="156" end="168" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <OBESE id="DOC12" time="before DCT" indicator="mention">
+      <OBESE id="O8" start="1817" end="1824" text="Obesity" time="before DCT" indicator="mention" comment=""/>
+      <OBESE id="O9" start="1679" end="1693" text="severely obese" time="before DCT" indicator="mention" comment=""/>
+      <OBESE id="O10" start="1688" end="1693" text="obese" time="before DCT" indicator="mention" comment=""/>
+      <OBESE id="O11" start="1817" end="1824" text="Obesity" time="before DCT" indicator="mention" comment=""/>
+    </OBESE>
+    <FAMILY_HIST id="DOC13" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <HYPERTENSION id="DOC14" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H6" start="156" end="168" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H7" start="156" end="168" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H8" start="156" end="168" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <MEDICATION id="DOC15" time="during DCT" type1="aspirin" type2="">
+      <MEDICATION id="M20" start="2802" end="2805" text="ASA" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M21" start="2802" end="2805" text="ASA" time="during DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <PHI id="P0" start="16" end="26" text="2087-09-18" TYPE="DATE"/>
+    <PHI id="P1" start="249" end="255" text="willis" TYPE="DOCTOR"/>
+    <PHI id="P2" start="292" end="295" text="Nov" TYPE="DATE"/>
+    <PHI id="P3" start="335" end="344" text="ostrowski" TYPE="DOCTOR"/>
+    <PHI id="P4" start="349" end="359" text="04/26/2086" TYPE="DATE"/>
+    <PHI id="P5" start="430" end="439" text="ostrowski" TYPE="DOCTOR"/>
+    <PHI id="P6" start="444" end="454" text="05/02/2086" TYPE="DATE"/>
+    <PHI id="P7" start="505" end="514" text="ostrowski" TYPE="DOCTOR"/>
+    <PHI id="P8" start="519" end="529" text="05/02/2086" TYPE="DATE"/>
+    <PHI id="P9" start="631" end="640" text="ostrowski" TYPE="DOCTOR"/>
+    <PHI id="P10" start="645" end="655" text="05/02/2086" TYPE="DATE"/>
+    <PHI id="P11" start="760" end="794" text="Senior Manager of Goods Production" TYPE="PROFESSION"/>
+    <PHI id="P12" start="1263" end="1273" text="09/18/2087" TYPE="DATE"/>
+    <PHI id="P13" start="1287" end="1296" text="ostrowski" TYPE="DOCTOR"/>
+    <PHI id="P14" start="1917" end="1927" text="05/21/2087" TYPE="DATE"/>
+    <PHI id="P15" start="1928" end="1937" text="ostrowski" TYPE="DOCTOR"/>
+    <PHI id="P16" start="2002" end="2012" text="01/09/2087" TYPE="DATE"/>
+    <PHI id="P17" start="2015" end="2025" text="02/02/2090" TYPE="DATE"/>
+    <PHI id="P18" start="2032" end="2041" text="ostrowski" TYPE="DOCTOR"/>
+    <PHI id="P19" start="2086" end="2096" text="09/29/2089" TYPE="DATE"/>
+    <PHI id="P20" start="2099" end="2108" text="ostrowski" TYPE="DOCTOR"/>
+    <PHI id="P21" start="2127" end="2137" text="05/02/2086" TYPE="DATE"/>
+    <PHI id="P22" start="2140" end="2150" text="09/29/2089" TYPE="DATE"/>
+    <PHI id="P23" start="2157" end="2166" text="ostrowski" TYPE="DOCTOR"/>
+    <PHI id="P24" start="2206" end="2216" text="10/21/2088" TYPE="DATE"/>
+    <PHI id="P25" start="2219" end="2228" text="ostrowski" TYPE="DOCTOR"/>
+    <PHI id="P26" start="2250" end="2260" text="05/02/2086" TYPE="DATE"/>
+    <PHI id="P27" start="2263" end="2273" text="03/06/2092" TYPE="DATE"/>
+    <PHI id="P28" start="2280" end="2289" text="ostrowski" TYPE="DOCTOR"/>
+    <PHI id="P29" start="2330" end="2340" text="08/03/2090" TYPE="DATE"/>
+    <PHI id="P30" start="2343" end="2352" text="ostrowski" TYPE="DOCTOR"/>
+    <PHI id="P31" start="2373" end="2383" text="05/02/2086" TYPE="DATE"/>
+    <PHI id="P32" start="2386" end="2396" text="10/21/2088" TYPE="DATE"/>
+    <PHI id="P33" start="2403" end="2412" text="ostrowski" TYPE="DOCTOR"/>
+    <PHI id="P34" start="2452" end="2462" text="09/18/2087" TYPE="DATE"/>
+    <PHI id="P35" start="2465" end="2474" text="ostrowski" TYPE="DOCTOR"/>
+    <PHI id="P36" start="2613" end="2619" text="Willis" TYPE="DOCTOR"/>
+    <PHI id="P37" start="2847" end="2852" text="42789" TYPE="IDNUM"/>
+    <PHI id="P38" start="2943" end="2946" text="SMI" TYPE="HOSPITAL"/>
+    <PHI id="P39" start="2947" end="2964" text="KESSEL GROUP HOME" TYPE="HOSPITAL"/>
+    <PHI id="P40" start="2995" end="2998" text="SMI" TYPE="HOSPITAL"/>
+  </TAGS>
+</root>

@@ -1,0 +1,198 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2072-01-01
+
+EDVISIT^84091519^THOMAS-YOSEF, JULIA^01/01/72^HOFFMAN, VICTOR
+
+Seen by me along with Dr. Ickes on 01/01/2072.  History as
+
+documented by Dr. Ickes was reviewed by me with the patient and
+
+found to be accurate and complete.  The physical exam was
+
+confirmed by my examination.  Evaluation and management was also
+
+concurred with.
+
+HISTORY OF PRESENT ILLNESS:  In brief, this is a 51-year-old
+
+woman with history of coronary artery disease status post MI
+
+stenting in 2068, presents with 3-day history of substernal chest
+
+pain radiating to her back, and also complaining of mild pain of
+
+inner medial aspect of her right arm, feels like her anginal
+
+symptoms that she had in 2068 with some very mild shortness of
+
+breath and even though she is quite sedentary and she noted that
+
+there is an increase in pain with exertion, position, as well as
+
+eating.  She took many Tums with no relief and says takes Zantac
+
+chronically, but ran out of it.  She says that the pain is
+
+burning epigastric at times, and the thing that is concerning was
+
+her back pain that was reminiscent of the pain that she had when
+
+she had her MI.
+
+PAST MEDICAL HISTORY:  She has a history of hypertension,
+
+diabetes, MI, and breast cancer status post lumpectomy and
+
+radiation.  Last stress test was may be in October, which was
+
+normal.
+
+FAMILY HISTORY:  Positive for breast cancer and diabetes
+
+mellitus.
+
+SOCIAL HISTORY:  She does not drink.  She smoked in the past,
+
+quit 15 years ago.
+
+REVIEW OF SYSTEMS:  As documented in the chart.  Please see notes
+
+for details.
+
+ALLERGIES:  As documented in the chart.  Please see notes for
+
+details.
+
+MEDICATIONS:  As documented in the chart.  Please see notes for
+
+details.
+
+PHYSICAL EXAMINATION:  Awake, alert, well-developed,
+
+well-nourished woman, and in no apparent distress.  Afebrile,
+
+slightly 96.7, pulse 72, respirations 16, blood pressure 124/72,
+
+and O2 saturation 98%.  Anicteric sclerae.  Mucous membranes are
+
+moist.  Neck is supple.  Lungs are clear of rales, wheezes, or
+
+rhonchi.  Cardiovascular:  Regular rate and rhythm.  Abdomen is
+
+obese.  Bowel sounds normoactive, nontender, and no guarding,
+
+rebound, or rigidity.  The skin is intact, warm, and dry.  She
+
+has point tenderness over the upper thoracic cage and trace pedal
+
+edema.
+
+LABORATORY DATA:  The patient has a normal CBC and normal
+
+electrolytes.  D-dimer was less than 200.  Troponin and CK were
+
+normal.
+
+IMAGING STUDIES:  EKG sinus rhythm with unchanged from previous. 
+
+Chest CT was negative PE.
+
+EMERGENCY DEPARTMENT COURSE:  As such, she was admitted to the
+
+Observation Unit for a second set of enzymes which if normal will
+
+be discharged home, after walking to see if she has any
+
+exertional component, as such, she was subsequently discharged to
+
+home in stable and satisfactory condition.  She was admitted to
+
+the Observation Unit 01/01/2072 with diagnosis of chest pain.
+
+______________________________
+
+HOFFMAN, VICTOR M.D.
+
+D: 01/01/72
+
+T: 01/02/72
+
+Dictated By: HOFFMAN, VICTOR
+
+eScription document:0-5469816 BFFocus
+
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <HYPERTENSION id="DOC1" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="1193" end="1205" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="1193" end="1205" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H2" start="1193" end="1205" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC5" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H3" start="1193" end="1205" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H4" start="1193" end="1205" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H5" start="1193" end="1205" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC9" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H6" start="1193" end="1205" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H7" start="1193" end="1205" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H8" start="1193" end="1205" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <CAD id="DOC0" time="before DCT" indicator="mention">
+      <CAD id="C0" start="442" end="466" text="coronary artery disease " time="before DCT" indicator="mention" comment=""/>
+      <CAD id="C1" start="442" end="465" text="coronary artery disease" time="before DCT" indicator="mention" comment=""/>
+      <CAD id="C2" start="442" end="465" text="coronary artery disease" time="before DCT" indicator="mention" comment=""/>
+    </CAD>
+    <CAD id="DOC2" time="before DCT" indicator="event">
+      <CAD id="C3" start="465" end="500" text=" status post MI  stenting in 2068, " time="before DCT" indicator="event" comment=""/>
+      <CAD id="C4" start="478" end="480" text="MI" time="before DCT" indicator="event" comment=""/>
+      <CAD id="C5" start="482" end="490" text="stenting" time="before DCT" indicator="event" comment=""/>
+      <CAD id="C6" start="478" end="480" text="MI" time="before DCT" indicator="event" comment=""/>
+    </CAD>
+    <CAD id="DOC8" time="during DCT" indicator="mention">
+      <CAD id="C7" start="442" end="466" text="coronary artery disease " time="during DCT" indicator="mention" comment=""/>
+      <CAD id="C8" start="442" end="465" text="coronary artery disease" time="during DCT" indicator="mention" comment=""/>
+      <CAD id="C9" start="442" end="465" text="coronary artery disease" time="during DCT" indicator="mention" comment=""/>
+    </CAD>
+    <CAD id="DOC10" time="after DCT" indicator="mention">
+      <CAD id="C10" start="442" end="466" text="coronary artery disease " time="after DCT" indicator="mention" comment=""/>
+      <CAD id="C11" start="442" end="465" text="coronary artery disease" time="after DCT" indicator="mention" comment=""/>
+      <CAD id="C12" start="442" end="465" text="coronary artery disease" time="after DCT" indicator="mention" comment=""/>
+    </CAD>
+    <FAMILY_HIST id="DOC6" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC4" status="past">
+      <SMOKER id="S0" start="1447" end="1491" text="She smoked in the past,  quit 15 years ago. " status="past" comment=""/>
+      <SMOKER id="S1" start="1446" end="1489" text=" She smoked in the past,  quit 15 years ago" status="past" comment=""/>
+      <SMOKER id="S2" start="1472" end="1477" text="quit " status="past" comment=""/>
+    </SMOKER>
+    <DIABETES id="DOC3" time="before DCT" indicator="mention">
+      <DIABETES id="D0" start="1208" end="1216" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D1" start="1208" end="1216" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D2" start="1208" end="1216" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC7" time="after DCT" indicator="mention">
+      <DIABETES id="D3" start="1208" end="1216" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D4" start="1208" end="1216" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D5" start="1208" end="1216" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC11" time="during DCT" indicator="mention">
+      <DIABETES id="D6" start="1208" end="1216" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D7" start="1208" end="1216" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D8" start="1208" end="1216" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+  </TAGS>
+</root>

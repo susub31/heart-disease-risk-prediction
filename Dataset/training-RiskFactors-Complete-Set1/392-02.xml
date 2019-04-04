@@ -1,0 +1,207 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2112-01-17
+
+ CC:  Follow-up labs/MRI
+
+HPI:  49 y.o. female with h/o diabetes who had meds resumed on last visit.  She is unable to check her blood sugar due to unable to afford strips and insurance will not pay for them.  She was started on pravachol for hyperlipidemia and lisinopril for microalbuminuira on last visit without side effect to meds.  She had an MRI of hips which shows mild DJD and arterial noninvasives showing mild disease on the right and moderate on the left.  Mammogram was negative.  She continues to smoke but is done to one pack/day from two pack/day.  She denies any chest pain, shortness of breath or palpitations.  She has difficulty walking long distances due to claudication.
+
+Problems
+Peripheral vascular disease   
+Diabetes mellitus type 2   
+Hyperlipidemia   
+Claudication   
+
+Medications
+Claritin (LORATADINE) 10 MG (10MG TABLET take 1) PO QD x 30 days 
+Glipizide Xl (GLIPIZIDE Xl) 10 MG (10MG TAB OSM 24 take 1) PO QD x 30 days 
+IBUPROFEN 800 MG (800MG TABLET take 1) PO TID PRN pain x 30 days, Take with food or milk. 
+LISINOPRIL 2.5 MG (2.5MG TABLET take 1) PO QD x 30 days 
+METFORMIN 500 MG (500MG TABLET take 1) PO BID x 30 days 
+Pravastatin (PRAVASTATIN) 10 MG (10MG TABLET take 1) PO QHS x 30 days 
+Tylenol #3 (ACETAMINOPHEN W/codeine 30mg) 1 TAB PO Q6H x 21 days, Do not drive, drink alcohol with this medication. 
+
+Allergies
+NKA   
+
+Family/social History
+Coronary Artery Disease  Relative: Brother; Comments: H/o 4V CABG 
+Bone Cancer Relative: Father; Age of Onset: 53; Living: No  
+Uterine Cancer Relative: Mother; Age of Onset: 46; Living: No  
+Diabetes Mellitus Type 2 Relative: Brother;Relative: Sister;Relative: Grandfather, maternal; 
+
+Health Maint
+Smoking status 01/17/2112  Current smoker  Last Counsel date: 01/17/2112, No Of Cigarettes Smoked per Day: 10-19 CIG/DAY (1/2-1 ppd), Readiness to Change: Ready to quit now 
+Mammogram 01/11/2112 see report in Results    
+Pap Smear 09/28/99 see report in Results    
+Pneumovax 12/26/2111     
+
+Flowsheets
+BLOOD PRESSURE 110/72  
+PULSE 78  
+WEIGHT 207 lb 
+AGE 49y7.7m  
+
+EXAM:  Deferred.
+
+A/P:  1.  PVD.  Start walking program, d/c tobacco, cholesterol, diabetes and hypertension control.  Start Pletal.  Will also evaluate for CAD given multiple risk factors.  Check EKG and schedule nonexercise stress test. 
+2.  Diabetes.  Continue current meds and check labs at f/u visit in 2 months.  Referral for eye exam.
+3.  Hyperlipidemia.  Continue on Pravachol and check last at next visit.
+4.  Tobacco use.  Pt advised to d/c tobacco.  She wants to try on her own and if no success will consider supplemental therapies.
+
+
+
+
+_____________________________________________
+Grace C. Valerie-Yun, M.D.
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="during DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M0" start="290" end="300" text="lisinopril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M1" start="290" end="300" text="lisinopril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M2" start="1070" end="1080" text="LISINOPRIL" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M3" start="290" end="300" text="lisinopril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC1" time="after DCT" type1="statin" type2="">
+      <MEDICATION id="M4" start="257" end="266" text="pravachol" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M5" start="1184" end="1195" text="Pravastatin" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M6" start="257" end="266" text="pravachol" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M7" start="1184" end="1195" text="Pravastatin" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M8" start="2457" end="2466" text="Pravachol" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M9" start="257" end="266" text="pravachol" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M10" start="1184" end="1195" text="Pravastatin" time="after DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC2" time="after DCT" type1="metformin" type2="">
+      <MEDICATION id="M11" start="1127" end="1136" text="METFORMIN" time="after DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M12" start="1127" end="1136" text="METFORMIN" time="after DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M13" start="1127" end="1136" text="METFORMIN" time="after DCT" type1="metformin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC3" time="during DCT" type1="metformin" type2="">
+      <MEDICATION id="M14" start="1127" end="1136" text="METFORMIN" time="during DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M15" start="1127" end="1136" text="METFORMIN" time="during DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M16" start="1127" end="1136" text="METFORMIN" time="during DCT" type1="metformin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC4" time="after DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M17" start="290" end="300" text="lisinopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M18" start="290" end="300" text="lisinopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M19" start="1070" end="1080" text="LISINOPRIL" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M20" start="290" end="300" text="lisinopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC5" time="before DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M21" start="290" end="300" text="lisinopril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M22" start="290" end="300" text="lisinopril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M23" start="1070" end="1080" text="LISINOPRIL" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M24" start="290" end="300" text="lisinopril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <DIABETES id="DOC6" time="during DCT" indicator="mention">
+      <DIABETES id="D0" start="84" end="92" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D1" start="84" end="92" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D2" start="762" end="788" text="Diabetes mellitus type 2  " time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D3" start="2165" end="2173" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D4" start="2326" end="2334" text="Diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D5" start="84" end="92" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <HYPERLIPIDEMIA id="DOC7" time="during DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY0" start="271" end="285" text="hyperlipidemia" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY1" start="271" end="285" text="hyperlipidemia" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY2" start="790" end="804" text="Hyperlipidemia" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY3" start="2428" end="2442" text="Hyperlipidemia" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY4" start="271" end="285" text="hyperlipidemia" time="during DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <MEDICATION id="DOC8" time="after DCT" type1="sulfonylureas" type2="">
+      <MEDICATION id="M25" start="903" end="915" text="Glipizide Xl" time="after DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M26" start="903" end="912" text="Glipizide" time="after DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M27" start="903" end="912" text="Glipizide" time="after DCT" type1="sulfonylureas" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC9" time="during DCT" type1="sulfonylureas" type2="">
+      <MEDICATION id="M28" start="903" end="915" text="Glipizide Xl" time="during DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M29" start="903" end="912" text="Glipizide" time="during DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M30" start="903" end="912" text="Glipizide" time="during DCT" type1="sulfonylureas" type2="" comment=""/>
+    </MEDICATION>
+    <FAMILY_HIST id="DOC10" indicator="present">
+      <FAMILY_HIST id="F0" start="1413" end="1456" text="Coronary Artery Disease  Relative: Brother;" indicator="present" comment=""/>
+      <FAMILY_HIST id="F1" start="1413" end="1479" text="Coronary Artery Disease  Relative: Brother; Comments: H/o 4V CABG " indicator="present" comment=""/>
+    </FAMILY_HIST>
+    <DIABETES id="DOC11" time="before DCT" indicator="mention">
+      <DIABETES id="D6" start="84" end="92" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D7" start="84" end="92" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D8" start="762" end="788" text="Diabetes mellitus type 2  " time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D9" start="2165" end="2173" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D10" start="2326" end="2334" text="Diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D11" start="84" end="92" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <MEDICATION id="DOC12" time="before DCT" type1="statin" type2="">
+      <MEDICATION id="M31" start="257" end="266" text="pravachol" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M32" start="1184" end="1195" text="Pravastatin" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M33" start="257" end="266" text="pravachol" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M34" start="1184" end="1195" text="Pravastatin" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M35" start="2457" end="2466" text="Pravachol" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M36" start="257" end="266" text="pravachol" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M37" start="1184" end="1195" text="Pravastatin" time="before DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC13" time="during DCT" type1="statin" type2="">
+      <MEDICATION id="M38" start="257" end="266" text="pravachol" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M39" start="1184" end="1195" text="Pravastatin" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M40" start="257" end="266" text="pravachol" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M41" start="1184" end="1195" text="Pravastatin" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M42" start="2457" end="2466" text="Pravachol" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M43" start="257" end="266" text="pravachol" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M44" start="1184" end="1195" text="Pravastatin" time="during DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC14" time="before DCT" type1="metformin" type2="">
+      <MEDICATION id="M45" start="1127" end="1136" text="METFORMIN" time="before DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M46" start="1127" end="1136" text="METFORMIN" time="before DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M47" start="1127" end="1136" text="METFORMIN" time="before DCT" type1="metformin" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERLIPIDEMIA id="DOC15" time="after DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY5" start="271" end="285" text="hyperlipidemia" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY6" start="271" end="285" text="hyperlipidemia" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY7" start="790" end="804" text="Hyperlipidemia" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY8" start="2428" end="2442" text="Hyperlipidemia" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY9" start="271" end="285" text="hyperlipidemia" time="after DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <HYPERLIPIDEMIA id="DOC16" time="before DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY10" start="271" end="285" text="hyperlipidemia" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY11" start="271" end="285" text="hyperlipidemia" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY12" start="790" end="804" text="Hyperlipidemia" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY13" start="2428" end="2442" text="Hyperlipidemia" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY14" start="271" end="285" text="hyperlipidemia" time="before DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <SMOKER id="DOC17" status="current">
+      <SMOKER id="S0" start="526" end="544" text="continues to smoke" status="current" comment=""/>
+      <SMOKER id="S1" start="1740" end="1754" text="Current smoker" status="current" comment=""/>
+      <SMOKER id="S2" start="526" end="545" text="continues to smoke " status="current" comment=""/>
+    </SMOKER>
+    <MEDICATION id="DOC18" time="before DCT" type1="sulfonylureas" type2="">
+      <MEDICATION id="M48" start="903" end="915" text="Glipizide Xl" time="before DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M49" start="903" end="912" text="Glipizide" time="before DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M50" start="903" end="912" text="Glipizide" time="before DCT" type1="sulfonylureas" type2="" comment=""/>
+    </MEDICATION>
+    <DIABETES id="DOC19" time="after DCT" indicator="mention">
+      <DIABETES id="D12" start="84" end="92" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D13" start="84" end="92" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D14" start="762" end="788" text="Diabetes mellitus type 2  " time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D15" start="2165" end="2173" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D16" start="2326" end="2334" text="Diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D17" start="84" end="92" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <PHI id="P0" start="16" end="26" text="2112-01-17" TYPE="DATE"/>
+    <PHI id="P1" start="60" end="62" text="49" TYPE="AGE"/>
+    <PHI id="P2" start="1524" end="1526" text="53" TYPE="AGE"/>
+    <PHI id="P3" start="1588" end="1590" text="46" TYPE="AGE"/>
+    <PHI id="P4" start="1728" end="1738" text="01/17/2112" TYPE="DATE"/>
+    <PHI id="P5" start="1775" end="1785" text="01/17/2112" TYPE="DATE"/>
+    <PHI id="P6" start="1897" end="1907" text="01/11/2112" TYPE="DATE"/>
+    <PHI id="P7" start="1944" end="1952" text="09/28/99" TYPE="DATE"/>
+    <PHI id="P8" start="1989" end="1999" text="12/26/2111" TYPE="DATE"/>
+    <PHI id="P9" start="2071" end="2078" text="49y7.7m" TYPE="AGE"/>
+    <PHI id="P10" start="2677" end="2697" text="Grace C. Valerie-Yun" TYPE="DOCTOR"/>
+  </TAGS>
+</root>

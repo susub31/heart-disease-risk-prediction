@@ -1,0 +1,194 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2092-11-16
+
+ 
+ 
+ 
+ 
+ 
+ 
+November 16, 2092
+ 
+ 
+ 
+Stuart J. Long, M.D.
+Glenn Helen Medical Group
+Glenn Helen Infirmary
+Algoma, CO  71183
+ 
+RE:  Roberta Vincent
+     MR #380-18-32-2
+ 
+Dear Dr. Long:
+ 
+Thank you for referring Ms. Roberta Vincent to the Renal Services Clinic.  I had the pleasure of seeing her on November 16,
+2092.  Please allow me to summarize her history for our records.
+ 
+Ms. Vincent is a 56-year-old mother of eight with chronic renal
+failure of unknown etiology.  She is six years status post
+hysterectomy for endometriosis during which an occult
+leiomyosarcoma was discovered.  She has an extensive history of
+hidradenitis, obesity, and hypertension.  She had one stillborn
+infant, one premature infant, and three spontaneous abortions. 
+SFOC records are unavailable at this time.
+ 
+Her medications include Premarin 0.625 qd, Diltiazem 240 qd,
+furosemide 40 mg qd, Mevacor 20 mg qd, Calcitriol 0.25 mcg qd,
+Niferex 300 mg qd, Vitamin E 400 units qd, fish oil qd, and Keflex
+250 mg qid.
+ 
+On physical examination Ms. Vincent is a 56-year-old woman in no
+distress.  Her weight is 101.5 kilograms, or 223 lbs.  Temperature
+is normal.  Pulse is 88 beats per minute.  Blood pressure is
+178/96.  There is striking hirsutism and moon facies.  There is a
+buffalo hump.  The lungs show scattered wheezing.  Cardiovascular
+exam is normal.  There are discolorations of the skin across the
+neck, upper extremities, and trunk which are hyperpigmented but not
+raised.  The abdomen is obese without palpable masses.  There is a
+ventral hernia deep in the lower part of the abdomen.  The
+extremities show trace edema.  There are several areas of
+superficial petechiae.
+ 
+In summary, this 56-year-old woman has chronic renal failure of
+unclear etiology.  She does report an episode of lower extremity
+swelling in association with an episode of hidradenitis.  ThisRoberta Vincent
+MR #380-18-32-2               -2-            November 16, 2092
+ 
+ 
+raises the possibility of a post-infectious glomerulonephritis now
+in a chronic phase.  Other diagnostic possibilities include other
+forms of chronic glomerulonephritis including systemic lupus
+erythematosus given the history of spontaneous abortions. 
+Nevertheless, I agree that kidney biopsy is not indicated at this
+time given the advanced nature of her disease and the increased
+risk due to her body habitus.
+ 
+I discussed several options in renal replacement therapy with Ms.
+Vincent. Although she has no medical conditions which would
+preclude living-related or cadaveric kidney transplantation, her
+obesity and glucose intolerance along with the history of
+hidradenitis make transplantation a less attractive option.  I have
+encouraged Ms. Vincent to attempt a gradual weight loss program in
+order to improve her fitness prior to either dialysis or
+transplantation.  Nevertheless, her appearance is quite reminiscent
+of Cushing's disease, and this should be worked up if it has not
+been performed previously.
+ 
+I have arranged an iothalamate GFR to more closely approximate her
+kidney function and a follow-up appointment in two months' time to
+meet with Helen Uren and consider creation of a native AV
+fistula or placement of a graft.
+ 
+Thank you once again for your kind referral.
+ 
+Respectfully,
+ 
+ 
+ 
+Elias Q. Mercado, M.D.
+ 
+ 
+ 
+S. Quenton Jolley, M.D.
+Glenn Helen Medical Group
+80 Whitney St
+Algoma, CO  71183
+ 
+DD: 11/16/92
+DT: 11/24/92
+DV: 11/16/92
+ 
+/joshi
+ 
+cc:  Edward Xanthos, M.D.
+     Saint Francis Outpatient Center
+     784 Greatstone Drive
+     Boulder, CO  72529
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <OBESE id="DOC5" time="after DCT" indicator="mention">
+      <OBESE id="O0" start="660" end="667" text="obesity" time="after DCT" indicator="mention" comment=""/>
+      <OBESE id="O1" start="660" end="667" text="obesity" time="after DCT" indicator="mention" comment=""/>
+      <OBESE id="O2" start="660" end="667" text="obesity" time="after DCT" indicator="mention" comment=""/>
+    </OBESE>
+    <OBESE id="DOC8" time="during DCT" indicator="mention">
+      <OBESE id="O3" start="660" end="667" text="obesity" time="during DCT" indicator="mention" comment=""/>
+      <OBESE id="O4" start="660" end="667" text="obesity" time="during DCT" indicator="mention" comment=""/>
+      <OBESE id="O5" start="660" end="667" text="obesity" time="during DCT" indicator="mention" comment=""/>
+      <OBESE id="O6" start="1506" end="1512" text="obese " time="during DCT" indicator="mention" comment=""/>
+    </OBESE>
+    <OBESE id="DOC12" time="before DCT" indicator="mention">
+      <OBESE id="O7" start="660" end="667" text="obesity" time="before DCT" indicator="mention" comment=""/>
+      <OBESE id="O8" start="660" end="667" text="obesity" time="before DCT" indicator="mention" comment=""/>
+      <OBESE id="O9" start="660" end="667" text="obesity" time="before DCT" indicator="mention" comment=""/>
+    </OBESE>
+    <MEDICATION id="DOC0" time="during DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M0" start="862" end="871" text="Diltiazem" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M1" start="862" end="871" text="Diltiazem" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M2" start="862" end="871" text="Diltiazem" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC1" time="before DCT" type1="statin" type2="">
+      <MEDICATION id="M3" start="901" end="908" text="Mevacor" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M4" start="901" end="908" text="Mevacor" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M5" start="901" end="908" text="Mevacor" time="before DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC2" time="during DCT" type1="statin" type2="">
+      <MEDICATION id="M6" start="901" end="908" text="Mevacor" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M7" start="901" end="908" text="Mevacor" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M8" start="901" end="908" text="Mevacor" time="during DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC4" time="after DCT" type1="statin" type2="">
+      <MEDICATION id="M9" start="901" end="908" text="Mevacor" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M10" start="901" end="908" text="Mevacor" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M11" start="901" end="908" text="Mevacor" time="after DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC7" time="before DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M12" start="862" end="871" text="Diltiazem" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M13" start="862" end="871" text="Diltiazem" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M14" start="862" end="871" text="Diltiazem" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC10" time="after DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M15" start="862" end="871" text="Diltiazem" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M16" start="862" end="871" text="Diltiazem" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M17" start="862" end="871" text="Diltiazem" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC3" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="673" end="685" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="673" end="685" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H2" start="673" end="685" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC6" time="during DCT" indicator="high bp">
+      <HYPERTENSION id="H3" start="1217" end="1223" text="178/96" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H4" start="1199" end="1223" text="Blood pressure is 178/96" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H5" start="1217" end="1223" text="178/96" time="during DCT" indicator="high bp" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC9" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H6" start="673" end="685" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H7" start="673" end="685" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H8" start="673" end="685" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC11" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H9" start="673" end="685" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H10" start="673" end="685" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H11" start="673" end="685" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <FAMILY_HIST id="DOC13" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC14" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" status="unknown"/>
+      <SMOKER id="S2" start="3" end="10" text="Record " status="unknown" comment=""/>
+    </SMOKER>
+  </TAGS>
+</root>

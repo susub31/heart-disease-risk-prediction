@@ -1,0 +1,119 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2073-10-24
+
+10/24/73
+ 
+This is my first visit with Teresa Hardy (MR#36052413), a 54 yo F here to
+meet her new PCP. She has not seen a doctor in many years.  She made this appt,
+because she had heavy vaginal bleeding 2 weeks ago.  She normally has her
+periods q28d, with 5 days of heavy flow.  Her last period lasted for 15 days
+with the usual clots and heavy flow.  The bleeding stopped 2 weeks ago, and
+there is no spotting now.  She denies any abd pain.  She denies possiblity of
+pregnancy, although she has unprotected intercourse with a longtime partner.
+ 
+PMH:  staph aureus UTI 2066
+      h/o multiple UTI's
+      last PAP in 5/64 - squamous metaplasia
+ 
+Allergies:  NKDA
+ 
+Meds:  MVI, Vit E, Calcium supplement
+ 
+SHx:  former banker,but now investment consultant.  No tob, EtOH,
+IVDA.  Reports 1 blood transufion before 2064 when she had a UTI.  Divorced.
+No children.
+ 
+Fhx:  M 90 - DM, esophageal CA
+      F - died of old age
+      5 brothers and 3 sisters
+      2 brothers and 1 sister with HTN, 1 sister with DM.
+ 
+PE:  pleasant, cooperative, talkative, obese, NAD
+VS:  P96  BP 162/100
+Skin:  warm, dry, no rashes
+HEENT:  NC AT  EOMI  PERRL 3/3-> 2/2, OP clear
+Neck:  no LAD or thyromegaly, carotids 2+ s bruits, JVP 6 cm
+Lungs:  CTA B
+CV:  RRR S1 S2 no m/r/g
+Breasts:  symmetric.  NO palpable masses
+Abd:  obese, NT ND + BS
+Back:  no CVA, spinal, paraspinal tenderness
+Rectal:  heme negative, no masses
+Pelvic:  normal external genitalia,  mild vaginal prolapse.  Cervix normal.  No
+lesions or masses.  PAP samples taken.  Bimanual exam unremarkable 
+Ext:  trace to 1+ BLE edema (pretibial)     
+Neuro:  nonfocal
+ 
+Impression:  54 yo perimenopausal woman.
+Plan:
+1.  GYN - prolonged menstrual cycle likely from perimenopausal state.  Since
+this was her first episode of prolonged bleeding, will not pursue further w/u
+at this point.  Pt given reassurance, and asked to continue to record the dates
+and duration of her menses.  Pt denied h/o fibroids or FHx of GYN cancer. 
+ 
+2.  CV - pt reports h/o BP's of 160/80 in the past.  She was 162/100 today.
+She was very reluctant to initiate any BP medicine (I suggested atenolol 25 mg
+po QAM), and want to try diet and exercise first.  She understands the health
+risks of HTN and knows that it is very common among African Americans.  Will
+follow this issue closely and readdress at next visit.
+ 
+3.  Health maintenance - await PAP results.  Will check CBC, SMA7 and lipid
+panel today.  Will schedule screening mammogram at next visit.
+ 
+4.  f/u with me in 1 month. 
+ 
+ 
+ 
+ 
+----------------------------------------------------------------------------
+Preceptor EVANS,NELSON MAC,M.D. Note:
+Seen with Dr. Thorpe and discussed.  Is perimenopausal, had 15-day period once. 
+No pap since 2064.  BP was 162/100.  Dr. Thorpe did a pap, will follow periods. 
+SUspect she is hypertensive, but she is reluctant to take meds.  Discussed
+risks of htn with her.  She will FU with Dr. Thorpe.
+ ******** Approved by Preceptor EVANS,NELSON MAC,M.D. ********
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <OBESE id="DOC0" time="after DCT" indicator="mention">
+      <OBESE id="O0" start="1081" end="1086" text="obese" time="after DCT" indicator="mention" comment=""/>
+      <OBESE id="O1" start="1334" end="1339" text="obese" time="after DCT" indicator="mention" comment=""/>
+      <OBESE id="O2" start="1081" end="1086" text="obese" time="after DCT" indicator="mention" comment=""/>
+    </OBESE>
+    <OBESE id="DOC2" time="during DCT" indicator="mention">
+      <OBESE id="O3" start="1081" end="1086" text="obese" time="during DCT" indicator="mention" comment=""/>
+      <OBESE id="O4" start="1081" end="1086" text="obese" time="during DCT" indicator="mention" comment=""/>
+      <OBESE id="O5" start="1334" end="1339" text="obese" time="during DCT" indicator="mention" comment=""/>
+      <OBESE id="O6" start="1081" end="1086" text="obese" time="during DCT" indicator="mention" comment=""/>
+    </OBESE>
+    <OBESE id="DOC3" time="before DCT" indicator="mention">
+      <OBESE id="O7" start="1081" end="1086" text="obese" time="before DCT" indicator="mention" comment=""/>
+      <OBESE id="O8" start="1334" end="1339" text="obese" time="before DCT" indicator="mention" comment=""/>
+      <OBESE id="O9" start="1081" end="1086" text="obese" time="before DCT" indicator="mention" comment=""/>
+    </OBESE>
+    <HYPERTENSION id="DOC1" time="during DCT" indicator="high bp">
+      <HYPERTENSION id="H0" start="1102" end="1112" text="BP 162/100" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H1" start="1102" end="1112" text="BP 162/100" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H2" start="2063" end="2070" text="162/100" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H3" start="2034" end="2040" text="160/80" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H4" start="1101" end="1112" text=" BP 162/100" time="during DCT" indicator="high bp" comment=""/>
+    </HYPERTENSION>
+    <FAMILY_HIST id="DOC4" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC5" status="never">
+      <SMOKER id="S0" start="788" end="794" text="No tob" status="never" comment=""/>
+      <SMOKER id="S1" start="788" end="794" text="No tob" status="never" comment=""/>
+      <SMOKER id="S2" start="788" end="794" text="No tob" status="never" comment=""/>
+    </SMOKER>
+  </TAGS>
+</root>

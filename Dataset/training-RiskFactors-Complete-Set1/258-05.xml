@@ -1,0 +1,249 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2070-01-20
+
+
+
+Sheboygan Memorial Medical Center
+
+69 Aston Street                                        SCHWARTZ, XAVIER
+
+Helena, MD 97756                                      49921666
+
+(871) 720-9439                                           01/20/70
+
+
+
+
+
+HISTORY OF PRESENT ILLNESS:  This is an elderly patient, 82, with known diabetes and coronary artery disease, which has required placement of a pacemaker.
+
+
+
+I last saw his blood sugar and it was 276 and his A1c in October was 7.  So, I had him back today to discuss diabetic management and also review his general health in terms of his diabetes and his other medications.
+
+
+
+We went over his medications to start with and he is taking them exactly as it was shown in the computer.  These include atenolol 25, Glucotrol 10 twice a day, Actos 45, Lipitor 40 a day, Lasix 40 a day, and Procardia XL 60 mg q.d., and Coumadin.  He is followed by Dr. Itzel Jaimes for his cardiac problems and by a diabetologist at the Claiborne for managing his diabetes.
+
+
+
+He had no other complaints.  His bowel movements are regular.  He still has nocturia x3 and was recently seen by a urologist who felt there was no need for any intervention.
+
+
+
+He otherwise was in good spirits and has no immediate complaints.
+
+
+
+His social situation, his allergies and and his family history and past medical history, are overall as previously recorded.  There are no other pertinent findings in the review of systems.
+
+
+
+PHYSICAL EXAMINATION:  His blood pressure was 140/60.  He looks well.  I did not measure his weight.  His heart rate was around 64-68.  His pupils are equal and reactive to light and extraocular movements were full.  Mucous membranes of the mouth and tongue were normal.  Lungs were clear to percussion and auscultation.  Cardiac exam showed regular sinus rhythm, a normal S2 and no significant murmurs.  Liver and spleen were not palpable.  He had only 1+ peripheral edema which is less than usual.
+
+
+
+ASSESSMENT AND PLAN:  He seems stable, I think the biggest problem is regulation of diabetes and I have asked him to get a hemoglobin A1c and to measure his blood sugar when he gets up in the morning and in the afternoon before he has supper.  He will come back to see me in about a month's time to follow up on these issues. CAD is stable with pacemaker
+
+
+
+HGB A1c is 7.0, Hct is down to 31.6, epo 37, creatinine stable at 1.6, MCV 93.3.  Most likely anemia of chronic illness but need to check smear and stools
+
+
+
+
+
+
+
+______________________________
+
+Xenia Bridges, MD
+
+
+
+Plan send stool cards, check iron if not done recently, reviedw smear. 
+
+
+
+Dictated By: Xenia Bridges
+
+
+
+
+
+eScription document:6-0750267 EMSSten Tel
+
+
+
+
+
+
+
+DD: 01/20/70
+
+DT: 01/20/70
+
+DV: 01/20/70
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="after DCT" type1="statin" type2="">
+      <MEDICATION id="M0" start="820" end="827" text="Lipitor" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M1" start="820" end="823" text="Lip" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M2" start="820" end="827" text="Lipitor" time="after DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <DIABETES id="DOC1" time="before DCT" indicator="A1C">
+      <DIABETES id="D0" start="477" end="501" text="his A1c in October was 7" time="before DCT" indicator="A1C" comment=""/>
+      <DIABETES id="D1" start="2327" end="2342" text=" HGB A1c is 7.0" time="before DCT" indicator="A1C" comment=""/>
+      <DIABETES id="D2" start="481" end="502" text="A1c in October was 7." time="before DCT" indicator="A1C" comment=""/>
+      <DIABETES id="D3" start="480" end="501" text=" A1c in October was 7" time="before DCT" indicator="A1C" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC2" time="after DCT" indicator="mention">
+      <DIABETES id="D4" start="345" end="353" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D5" start="1015" end="1023" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D6" start="345" end="353" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D7" start="345" end="353" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC3" time="during DCT" indicator="mention">
+      <DIABETES id="D8" start="345" end="353" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D9" start="1015" end="1023" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D10" start="345" end="353" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D11" start="345" end="353" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <MEDICATION id="DOC4" time="during DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M3" start="858" end="867" text="Procardia" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M4" start="858" end="867" text="Procardia" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M5" start="858" end="867" text="Procardia" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC5" time="during DCT" indicator="high bp">
+      <HYPERTENSION id="H0" start="1490" end="1519" text="His blood pressure was 140/60" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H1" start="1512" end="1519" text=" 140/60" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H2" start="1494" end="1519" text="blood pressure was 140/60" time="during DCT" indicator="high bp" comment=""/>
+    </HYPERTENSION>
+    <MEDICATION id="DOC6" time="after DCT" type1="sulfonylureas" type2="">
+      <MEDICATION id="M6" start="784" end="793" text="Glucotrol" time="after DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M7" start="784" end="793" text="Glucotrol" time="after DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M8" start="784" end="793" text="Glucotrol" time="after DCT" type1="sulfonylureas" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC7" time="before DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M9" start="858" end="867" text="Procardia" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M10" start="858" end="867" text="Procardia" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M11" start="858" end="867" text="Procardia" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC8" time="during DCT" type1="sulfonylureas" type2="">
+      <MEDICATION id="M12" start="784" end="793" text="Glucotrol" time="during DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M13" start="784" end="793" text="Glucotrol" time="during DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M14" start="784" end="793" text="Glucotrol" time="during DCT" type1="sulfonylureas" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC9" time="before DCT" type1="thiazolidinedione" type2="">
+      <MEDICATION id="M15" start="810" end="815" text="Actos" time="before DCT" type1="thiazolidinedione" type2="" comment=""/>
+      <MEDICATION id="M16" start="810" end="815" text="Actos" time="before DCT" type1="thiazolidinedione" type2="" comment=""/>
+      <MEDICATION id="M17" start="810" end="815" text="Actos" time="before DCT" type1="thiazolidinedione" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC10" time="after DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M18" start="771" end="779" text="atenolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M19" start="771" end="779" text="atenolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M20" start="771" end="779" text="atenolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <SMOKER id="DOC11" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" status="unknown"/>
+      <SMOKER id="S2" status="unknown"/>
+    </SMOKER>
+    <CAD id="DOC12" time="after DCT" indicator="mention">
+      <CAD id="C0" start="358" end="381" text="coronary artery disease" time="after DCT" indicator="mention" comment=""/>
+      <CAD id="C1" start="2296" end="2299" text="CAD" time="after DCT" indicator="mention" comment=""/>
+      <CAD id="C2" start="358" end="382" text="coronary artery disease," time="after DCT" indicator="mention" comment=""/>
+      <CAD id="C3" start="358" end="381" text="coronary artery disease" time="after DCT" indicator="mention" comment=""/>
+    </CAD>
+    <MEDICATION id="DOC13" time="before DCT" type1="statin" type2="">
+      <MEDICATION id="M21" start="820" end="827" text="Lipitor" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M22" start="820" end="823" text="Lip" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M23" start="820" end="827" text="Lipitor" time="before DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC14" time="during DCT" type1="statin" type2="">
+      <MEDICATION id="M24" start="820" end="827" text="Lipitor" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M25" start="820" end="823" text="Lip" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M26" start="820" end="827" text="Lipitor" time="during DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <FAMILY_HIST id="DOC15" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <CAD id="DOC16" time="during DCT" indicator="mention">
+      <CAD id="C4" start="358" end="381" text="coronary artery disease" time="during DCT" indicator="mention" comment=""/>
+      <CAD id="C5" start="2296" end="2299" text="CAD" time="during DCT" indicator="mention" comment=""/>
+      <CAD id="C6" start="358" end="382" text="coronary artery disease," time="during DCT" indicator="mention" comment=""/>
+      <CAD id="C7" start="358" end="381" text="coronary artery disease" time="during DCT" indicator="mention" comment=""/>
+    </CAD>
+    <DIABETES id="DOC17" time="before DCT" indicator="mention">
+      <DIABETES id="D12" start="345" end="353" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D13" start="1015" end="1023" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D14" start="345" end="353" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D15" start="345" end="353" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <MEDICATION id="DOC18" time="during DCT" type1="thiazolidinedione" type2="">
+      <MEDICATION id="M27" start="810" end="815" text="Actos" time="during DCT" type1="thiazolidinedione" type2="" comment=""/>
+      <MEDICATION id="M28" start="810" end="815" text="Actos" time="during DCT" type1="thiazolidinedione" type2="" comment=""/>
+      <MEDICATION id="M29" start="810" end="815" text="Actos" time="during DCT" type1="thiazolidinedione" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC19" time="before DCT" type1="sulfonylureas" type2="">
+      <MEDICATION id="M30" start="784" end="793" text="Glucotrol" time="before DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M31" start="784" end="793" text="Glucotrol" time="before DCT" type1="sulfonylureas" type2="" comment=""/>
+      <MEDICATION id="M32" start="784" end="793" text="Glucotrol" time="before DCT" type1="sulfonylureas" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC20" time="after DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M33" start="858" end="867" text="Procardia" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M34" start="858" end="867" text="Procardia" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M35" start="858" end="867" text="Procardia" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC21" time="after DCT" type1="thiazolidinedione" type2="">
+      <MEDICATION id="M36" start="810" end="815" text="Actos" time="after DCT" type1="thiazolidinedione" type2="" comment=""/>
+      <MEDICATION id="M37" start="810" end="815" text="Actos" time="after DCT" type1="thiazolidinedione" type2="" comment=""/>
+      <MEDICATION id="M38" start="810" end="815" text="Actos" time="after DCT" type1="thiazolidinedione" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC22" time="before DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M39" start="771" end="779" text="atenolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M40" start="771" end="779" text="atenolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M41" start="771" end="779" text="atenolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC23" time="during DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M42" start="771" end="779" text="atenolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M43" start="771" end="779" text="atenolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M44" start="771" end="779" text="atenolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <CAD id="DOC24" time="before DCT" indicator="mention">
+      <CAD id="C8" start="358" end="381" text="coronary artery disease" time="before DCT" indicator="mention" comment=""/>
+      <CAD id="C9" start="2296" end="2299" text="CAD" time="before DCT" indicator="mention" comment=""/>
+      <CAD id="C10" start="358" end="382" text="coronary artery disease," time="before DCT" indicator="mention" comment=""/>
+      <CAD id="C11" start="358" end="381" text="coronary artery disease" time="before DCT" indicator="mention" comment=""/>
+    </CAD>
+    <PHI id="P0" start="16" end="26" text="2070-01-20" TYPE="DATE"/>
+    <PHI id="P1" start="30" end="63" text="Sheboygan Memorial Medical Center" TYPE="HOSPITAL"/>
+    <PHI id="P2" start="65" end="80" text="69 Aston Street" TYPE="STREET"/>
+    <PHI id="P3" start="120" end="136" text="SCHWARTZ, XAVIER" TYPE="PATIENT"/>
+    <PHI id="P4" start="138" end="144" text="Helena" TYPE="CITY"/>
+    <PHI id="P5" start="146" end="148" text="MD" TYPE="STATE"/>
+    <PHI id="P6" start="149" end="154" text="97756" TYPE="ZIP"/>
+    <PHI id="P7" start="192" end="200" text="49921666" TYPE="MEDICALRECORD"/>
+    <PHI id="P8" start="202" end="216" text="(871) 720-9439" TYPE="PHONE"/>
+    <PHI id="P9" start="259" end="267" text="01/20/70" TYPE="DATE"/>
+    <PHI id="P10" start="330" end="332" text="82" TYPE="AGE"/>
+    <PHI id="P11" start="488" end="495" text="October" TYPE="DATE"/>
+    <PHI id="P12" start="920" end="932" text="Itzel Jaimes" TYPE="DOCTOR"/>
+    <PHI id="P13" start="988" end="997" text="Claiborne" TYPE="HOSPITAL"/>
+    <PHI id="P14" start="2522" end="2535" text="Xenia Bridges" TYPE="DOCTOR"/>
+    <PHI id="P15" start="2631" end="2644" text="Xenia Bridges" TYPE="DOCTOR"/>
+    <PHI id="P16" start="2670" end="2679" text="6-0750267" TYPE="IDNUM"/>
+    <PHI id="P17" start="2703" end="2711" text="01/20/70" TYPE="DATE"/>
+    <PHI id="P18" start="2717" end="2725" text="01/20/70" TYPE="DATE"/>
+    <PHI id="P19" start="2731" end="2739" text="01/20/70" TYPE="DATE"/>
+  </TAGS>
+</root>

@@ -1,0 +1,168 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2090-12-13
+
+Pt. of Dr. Jaramillo presents for initial visit as new PCP.  He is currently being evaluated for R leg claudication.  He reports having pain inhis R leg after walking for one block -- he rests for a few minutes and then it goes away.  He denies pain in his left leg.  No CP or SOB.
+
+
+
+PROBLEMS
+
+Hypothyroidism  
+
+Seizure disorder  controlled with dilantin-related to AVM -- occurred 9-10 yrs ago
+
+Noncongenital arteriovenous malformation  left temporal AVM
+
+Hyperlipidemia  
+
+Peripheral vascular disease  
+
+Osteoporosis  
+
+
+
+PSH:  
+
+Cholecystectomy in 2060's
+
+Appendectomy 50 yrs ago
+
+
+
+ALLERGY
+
+NKDA    
+
+
+
+MEDICATIONS
+
+LEVOXYL (LEVOTHYROXINE SODIUM)   75MCG  1 Tablet(s) PO QD 
+
+DILANTIN (PHENYTOIN)   100MG  1 Capsule(s) PO TID 
+
+LIPITOR (ATORVASTATIN)   10MG  1 Tablet(s) PO QHS  30 day(s)
+
+FOSAMAX (ALENDRONATE)   70MG  1 Tablet(s) PO QWEEK  30 day(s)
+
+
+
+SH:  Smoked 2ppd x 35 yrs and stopped 15 yrs ago; occ wine with dinner; worked before as a securities investment broker; lives with wife and daughter
+
+
+
+ROS:  As per HPI; denies GI or GU complaints; reports having a rectal done at his last PE with Dr. Jaramillo; rest of ROS unremarkable.
+
+
+
+VS:  125/75       88
+
+PE:  General -- alert; no acute distress
+
+Neck -- no bruits; no JVD
+
+Lungs -- CTA bilaterally
+
+CV -- RRR; nml s1s2
+
+Abd -- soft
+
+Rectal -- refused; said Dr. Jaramillo did in 10/90
+
+Ext -- L DP 1+ with good LLE cap refill; no RLE DP pulse palpable
+
+
+
+11/12/90 LE studies
+
+Test today demonstrates A-I disease (worse on the right), right SFA occlusion and right distal popliteal/tibial vesssel disease. On the right, patient is fairly well collateralized across the ankl level at rest and poorly after 4.5 minutes of exercise. On the left, patient is well collateralized across the ankle level at rest and after 4.5 minutes of exercise. 
+
+
+
+10/17/90  TSH and chem 7 WNL; Dilantin level stable
+
+
+
+A/P:  76 yo male hx seizure d/o s/p ICH, hypothyroidism, hyperlipidemia, PVD presents for general f/u.  Found to have RLE arterial disease.
+
+1.  PV -- will refer to Dr. Uddin for further eval.  Not on ASA due to hx ICH -- will ask his Neurologist Dr. Acuna if trental OK before starting
+
+2.  Hyperlipidemia -- check fasting lipids and LFTs this week; continue current Lipitor dose
+
+3.  Endo -- continue current Synthroid dose
+
+4.  Neuro -- pt's level has always been in this range, so won't change at this time
+
+5.  HCM -- continue Fosamax; will pursue GI studies in future visits
+
+
+
+RTC 2-3 months
+
+
+
+______________________________________________
+
+Debra A. Rosenberg, M.D.
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <HYPERLIPIDEMIA id="DOC3" time="before DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY0" start="486" end="500" text="Hyperlipidemia" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY1" start="486" end="502" text="Hyperlipidemia  " time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY2" start="486" end="500" text="Hyperlipidemia" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY3" start="1952" end="1966" text="hyperlipidemia" time="before DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY4" start="2187" end="2201" text="Hyperlipidemia" time="before DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <HYPERLIPIDEMIA id="DOC5" time="after DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY5" start="486" end="500" text="Hyperlipidemia" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY6" start="486" end="502" text="Hyperlipidemia  " time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY7" start="486" end="500" text="Hyperlipidemia" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY8" start="1952" end="1966" text="hyperlipidemia" time="after DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY9" start="2187" end="2201" text="Hyperlipidemia" time="after DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <HYPERLIPIDEMIA id="DOC7" time="during DCT" indicator="mention">
+      <HYPERLIPIDEMIA id="HY10" start="486" end="500" text="Hyperlipidemia" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY11" start="486" end="502" text="Hyperlipidemia  " time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY12" start="486" end="500" text="Hyperlipidemia" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY13" start="1952" end="1966" text="hyperlipidemia" time="during DCT" indicator="mention" comment=""/>
+      <HYPERLIPIDEMIA id="HY14" start="2187" end="2201" text="Hyperlipidemia" time="during DCT" indicator="mention" comment=""/>
+    </HYPERLIPIDEMIA>
+    <MEDICATION id="DOC0" time="before DCT" type1="statin" type2="">
+      <MEDICATION id="M0" start="761" end="768" text="LIPITOR" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M1" start="761" end="769" text="LIPITOR " time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M2" start="761" end="768" text="LIPITOR" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M3" start="2263" end="2270" text="Lipitor" time="before DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC1" time="during DCT" type1="statin" type2="">
+      <MEDICATION id="M4" start="761" end="768" text="LIPITOR" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M5" start="761" end="769" text="LIPITOR " time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M6" start="761" end="768" text="LIPITOR" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M7" start="2263" end="2270" text="Lipitor" time="during DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC2" time="after DCT" type1="statin" type2="">
+      <MEDICATION id="M8" start="761" end="768" text="LIPITOR" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M9" start="761" end="769" text="LIPITOR " time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M10" start="761" end="768" text="LIPITOR" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M11" start="2263" end="2270" text="Lipitor" time="after DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <FAMILY_HIST id="DOC6" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC4" status="past">
+      <SMOKER id="S0" start="892" end="936" text=" Smoked 2ppd x 35 yrs and stopped 15 yrs ago" status="past" comment=""/>
+      <SMOKER id="S1" start="918" end="936" text="stopped 15 yrs ago" status="past" comment=""/>
+      <SMOKER id="S2" start="893" end="936" text="Smoked 2ppd x 35 yrs and stopped 15 yrs ago" status="past" comment=""/>
+    </SMOKER>
+  </TAGS>
+</root>

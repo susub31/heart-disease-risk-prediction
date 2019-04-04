@@ -1,0 +1,205 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2087-03-09
+
+
+
+
+
+
+
+VIGIL, ANTHONY
+40984972
+03/09/2087
+
+
+
+
+Amir Naranjo, M.D.
+Saint Josephs Hospital Of Atlanta
+4 Kelly Street
+Bangkok, NJ  53591
+
+
+Dear Dr. Naranjo:
+
+
+We saw Anthony Vigil in the Internal Medicine at the Dixmont State Hospital on 03/09/2087.  He underwent orthotopic heart transplant at the Dixmont State Hospital on 03/30/2084 and returns now for his annual evaluation.  In the interval since last seen, he has done reasonably well.  His last annual evaluation at Lorain Community Hospital revealed an ejection fraction of 55% by echocardiography and no coronary disease, although left anterior descending was tortuous.  Filling pressures were normal, then with a wedge of 15 and a right atrial pressure of 9 while the pulmonary artery pressure was 30/19 with a mean of 25.  The patient does have a herniated disk at L4 and stenosis at L5.  He has lower extremity cramps, which potentially due to his spine disease have been markedly exacerbated by Pravachol.  The Pravachol was therefore stopped, restarted, and stopped again.  He continues to take insulin and his last hemoglobin A1c was 6.6.  He has had two recent episodes of mild hypoglycemia.  He has had no dermatologic evaluation.  He denies angina, congestive heart failure, or arrhythmias.
+
+
+Physical Examination:  Reveals a weight of 183 pounds, blood pressure of 121/71, pulse of 100.  Jugular venous pressure is 8 cm of water.  Carotid upstrokes are brisk without bruits.  There are diminished breath sounds in the left lung.  Point of maximum impulse is not displaced.  First heart sound is normal, second crisp and clear.  He has an S4 at the left sternal border.  The abdomen is without hepatosplenomegaly.  There is no peripheral edema.  Peripheral pulses are diminished.
+
+
+The electrocardiogram reveals a right bundle-branch block pattern with an intrinsic rate of 98 beats per minute.  There are nonspecific T-wave changes particularly in the early precordium.
+
+
+Current Medications:  Calcium with D 1250 mg twice per day, Cardura 4 mg, CellCept 1000 mg twice per day, diltiazem CD 240 mg twice per day, Ecotrin 81 mg per day, Lantus insulin 26 units at night, magnesium oxide 400 mg twice per day, vitamin, cyclosporine 100 mg twice per day, Neurontin 100 mg twice per day, NovoLog insulin as needed, prednisone 5 mg per day, vitamins C 500 mg twice per day, and vitamin E 400 units twice per day.
+
+
+Impression:  The patient will undergo his annual evaluation over the next 24 hours.  This will include blood work, chest x-ray, echocardiogram, metabolic exercise stress test, cardiac catheterization, coronary angiography, and endomyocardial biopsy.  We will see him after completion of these studies and review the results with him.  We will transmit the results to you as well at that time.
+
+
+Sincerely,
+
+
+
+
+______________________________
+Michael P Rasmussen, MD
+
+
+
+
+
+
+
+
+
+
+eScription document:0-4411667 IFFocus
+
+
+CC: Joshua Root M.D.
+Bloomfield Care Center
+724 Westwood Dr
+Bangkok, NJ, 53591
+Fax: 
+Email: 
+
+
+
+
+CC: James Ingles M.D.
+Lorain Community Hospital
+88 Cote Avenue
+Phnom Penh, NJ, 71738
+Fax: 
+Email: 
+
+
+
+
+
+
+DD: 03/09/87
+DT: 03/09/87
+DV: 03/09/87
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="during DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M0" start="2070" end="2079" text="diltiazem" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M1" start="2070" end="2079" text="diltiazem" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC1" time="before DCT" type1="statin" type2="">
+      <MEDICATION id="M2" start="997" end="1058" text="Pravachol was therefore stopped, restarted, and stopped again" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M3" start="981" end="990" text="Pravachol" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M4" start="981" end="990" text="Pravachol" time="before DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC2" time="after DCT" type1="insulin" type2="">
+      <MEDICATION id="M5" start="1082" end="1089" text="insulin" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M6" start="2128" end="2134" text="Lantus" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M7" start="2276" end="2283" text="NovoLog" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M8" start="1082" end="1089" text="insulin" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M9" start="1082" end="1089" text="insulin" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M10" start="2128" end="2142" text="Lantus insulin" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M11" start="2276" end="2291" text="NovoLog insulin" time="after DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC3" time="before DCT" type1="insulin" type2="">
+      <MEDICATION id="M12" start="1082" end="1089" text="insulin" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M13" start="2128" end="2134" text="Lantus" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M14" start="2276" end="2283" text="NovoLog" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M15" start="1082" end="1089" text="insulin" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M16" start="1082" end="1089" text="insulin" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M17" start="2128" end="2142" text="Lantus insulin" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M18" start="2276" end="2291" text="NovoLog insulin" time="before DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <DIABETES id="DOC4" time="before DCT" indicator="A1C">
+      <DIABETES id="D0" start="1103" end="1125" text="hemoglobin A1c was 6.6" time="before DCT" indicator="A1C" comment=""/>
+      <DIABETES id="D1" start="1114" end="1125" text="A1c was 6.6" time="before DCT" indicator="A1C" comment=""/>
+      <DIABETES id="D2" start="1103" end="1125" text="hemoglobin A1c was 6.6" time="before DCT" indicator="A1C" comment=""/>
+    </DIABETES>
+    <MEDICATION id="DOC5" time="before DCT" type1="aspirin" type2="">
+      <MEDICATION id="M19" start="2105" end="2112" text="Ecotrin" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M20" start="2105" end="2112" text="Ecotrin" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M21" start="2105" end="2112" text="Ecotrin" time="before DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC6" time="before DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M22" start="2070" end="2079" text="diltiazem" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M23" start="2070" end="2079" text="diltiazem" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC7" time="after DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M24" start="2070" end="2079" text="diltiazem" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M25" start="2070" end="2079" text="diltiazem" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC8" time="after DCT" type1="aspirin" type2="">
+      <MEDICATION id="M26" start="2105" end="2112" text="Ecotrin" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M27" start="2105" end="2112" text="Ecotrin" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M28" start="2105" end="2112" text="Ecotrin" time="after DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <FAMILY_HIST id="DOC9" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC10" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" start="182" end="183" text="W" status="unknown" comment=""/>
+      <SMOKER id="S2" status="unknown"/>
+    </SMOKER>
+    <MEDICATION id="DOC11" time="during DCT" type1="insulin" type2="">
+      <MEDICATION id="M29" start="1082" end="1089" text="insulin" time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M30" start="2128" end="2134" text="Lantus" time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M31" start="2276" end="2283" text="NovoLog" time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M32" start="1082" end="1089" text="insulin" time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M33" start="1082" end="1089" text="insulin" time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M34" start="2128" end="2142" text="Lantus insulin" time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M35" start="2276" end="2291" text="NovoLog insulin" time="during DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC12" time="during DCT" type1="aspirin" type2="">
+      <MEDICATION id="M36" start="2105" end="2112" text="Ecotrin" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M37" start="2105" end="2112" text="Ecotrin" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M38" start="2105" end="2112" text="Ecotrin" time="during DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <PHI id="P0" start="16" end="26" text="2087-03-09" TYPE="DATE"/>
+    <PHI id="P1" start="34" end="48" text="VIGIL, ANTHONY" TYPE="PATIENT"/>
+    <PHI id="P2" start="49" end="57" text="40984972" TYPE="MEDICALRECORD"/>
+    <PHI id="P3" start="58" end="68" text="03/09/2087" TYPE="DATE"/>
+    <PHI id="P4" start="73" end="85" text="Amir Naranjo" TYPE="DOCTOR"/>
+    <PHI id="P5" start="92" end="125" text="Saint Josephs Hospital Of Atlanta" TYPE="HOSPITAL"/>
+    <PHI id="P6" start="126" end="140" text="4 Kelly Street" TYPE="STREET"/>
+    <PHI id="P7" start="141" end="148" text="Bangkok" TYPE="CITY"/>
+    <PHI id="P8" start="150" end="152" text="NJ" TYPE="STATE"/>
+    <PHI id="P9" start="154" end="159" text="53591" TYPE="ZIP"/>
+    <PHI id="P10" start="171" end="178" text="Naranjo" TYPE="DOCTOR"/>
+    <PHI id="P11" start="189" end="202" text="Anthony Vigil" TYPE="PATIENT"/>
+    <PHI id="P12" start="210" end="227" text="Internal Medicine" TYPE="DEPARTMENT"/>
+    <PHI id="P13" start="235" end="257" text="Dixmont State Hospital" TYPE="HOSPITAL"/>
+    <PHI id="P14" start="261" end="271" text="03/09/2087" TYPE="DATE"/>
+    <PHI id="P15" start="322" end="344" text="Dixmont State Hospital" TYPE="HOSPITAL"/>
+    <PHI id="P16" start="348" end="358" text="03/30/2084" TYPE="DATE"/>
+    <PHI id="P17" start="496" end="521" text="Lorain Community Hospital" TYPE="HOSPITAL"/>
+    <PHI id="P18" start="2843" end="2862" text="Michael P Rasmussen" TYPE="DOCTOR"/>
+    <PHI id="P19" start="2897" end="2906" text="0-4411667" TYPE="IDNUM"/>
+    <PHI id="P20" start="2921" end="2932" text="Joshua Root" TYPE="DOCTOR"/>
+    <PHI id="P21" start="2938" end="2960" text="Bloomfield Care Center" TYPE="HOSPITAL"/>
+    <PHI id="P22" start="2961" end="2976" text="724 Westwood Dr" TYPE="STREET"/>
+    <PHI id="P23" start="2977" end="2984" text="Bangkok" TYPE="CITY"/>
+    <PHI id="P24" start="2986" end="2988" text="NJ" TYPE="STATE"/>
+    <PHI id="P25" start="2990" end="2995" text="53591" TYPE="ZIP"/>
+    <PHI id="P26" start="3018" end="3030" text="James Ingles" TYPE="DOCTOR"/>
+    <PHI id="P27" start="3036" end="3061" text="Lorain Community Hospital" TYPE="HOSPITAL"/>
+    <PHI id="P28" start="3062" end="3076" text="88 Cote Avenue" TYPE="STREET"/>
+    <PHI id="P29" start="3077" end="3087" text="Phnom Penh" TYPE="CITY"/>
+    <PHI id="P30" start="3089" end="3091" text="NJ" TYPE="STATE"/>
+    <PHI id="P31" start="3093" end="3098" text="71738" TYPE="ZIP"/>
+    <PHI id="P32" start="3123" end="3131" text="03/09/87" TYPE="DATE"/>
+    <PHI id="P33" start="3136" end="3144" text="03/09/87" TYPE="DATE"/>
+    <PHI id="P34" start="3149" end="3157" text="03/09/87" TYPE="DATE"/>
+  </TAGS>
+</root>

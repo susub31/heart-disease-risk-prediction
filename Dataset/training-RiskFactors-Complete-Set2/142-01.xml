@@ -1,0 +1,129 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2078-10-28
+
+
+	CARDIOLOGY
+	
+
+	PREAKNESS HEALTHCARE CENTER
+	
+
+
+	Interval History:
+   Roger Easterling, M.D. 
+27 Caroll St, #734 
+Bluefield, ME 12111 
+
+Dear Dr. Easterling: 
+
+I had the pleasure of seeing Mr. Brian Martin in the Cardiology Service on 10/28/2078. He has a history of chest pain and was evaluated at Klickitat Valley Hospital for the same by you and, I believe, Dr. Inglis. He reportedly had an echo and a treadmill test that were unconcerning. 
+
+His episodes of chest pain are interesting. He feels a sharp pain for maybe a second or two in his chest followed by rapid palpitations associated with some jaw aching. The palpitations are of sudden onset as well as sudden offset. They were occurring up to one time per day through his hospitalization at Klickitat Valley a couple of weeks ago and now have occurred on two occasions since discharge. He is otherwise in fairly good health.
+
+
+	Past medical history:
+   1) Nonalcoholic steatotic hepatosis 
+2) Palpitations 
+3) Rotator cuff surgery in 2071
+
+	
+
+	Allergies:
+	
+No known drug allergy
+
+
+	Medications (Confirmed):
+
+	
+aspirin  81 mg po daily
+penicillin VK  500 mg po 4 x day
+
+
+	Family history:
+   Mother died at age 62 of a heart attack. He has four siblings, all in good health. 
+
+
+	Social history:
+   He is married with two sons, age 21 and 18, both of whom are in good health. He works as an Revenue Officer for Springfield Armory Inc in Picture Rocks, Maine.
+
+Habits: He has never used street drugs. He does not smoke tobacco. He drinks 6 beers/alcohol per week and 2 cups of coffee per day.
+
+
+	Review of systems:
+   Negative in detail as detailed on his questionnaire and confirmed during the office visit.
+
+Physical examination:
+	
+-BP: 110/70  
+-Pulse: 59  BPM regular
+-resp. rate: 16  unlabored
+-Skin:   without lesions or nodules.
+-HEENT:   EOMI.  PERRLA.  Sclerae are anicteric.  Conjunctivae noninjected.  Mucous membranes moist.  No oropharyngeal lesions.
+-Neck:   carotids 2+ without bruits; jugular venous pressure &lt;5 cm of water; thyroid without nodules; trachea midline.
+-Chest:   lungs clear to auscultation, resonant to percussion, and symmetric in expansion.
+-Cardiac:   regular with a normal S1/S2; no murmurs, rubs, or gallops.
+-Abdomen:   soft, nontender, without organomegaly or other masses.
+-Extremities:   no clubbing, cyanosis, or edema.
+-Neuro:   reflexes were 1+; cranial nerves 2-12 were intact; motor and sensory modalities were intact in all four extremities.
+
+
+	EKG:
+   10/28/2078: Sinus bradycardia. Otherwise the tracing is within normal limits.
+
+
+	Assessment and plan:
+   Mr. Martin has episodic palpitations associated with some chest discomfort. Sometimes it is difficult for patients to distinguish between palpitations and chest pain per se. It may also be that his palpitations raise his heart rate to the point where he becomes ischemic, notwithstanding the negative stress test that he had in the past. 
+
+We will request the records of the echo and the stress test so we can have them for our files here and I have asked him to complete a 30-day event recording and follow up with me after that has been completed. 
+
+I will certainly keep you informed about how things progress. 
+
+Yours truly, 
+
+Norman C. Ivers, M.D.
+
+	
+Norman C. Ivers, MD
+
+	
+Transcribed by: Nina Uresti
+
+	
+Signed electronically by  Norman C. Ivers, MD
+Document Status: Final
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="during DCT" type1="aspirin" type2="">
+      <MEDICATION id="M0" start="1099" end="1106" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M1" start="1099" end="1106" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M2" start="1099" end="1106" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC1" time="after DCT" type1="aspirin" type2="">
+      <MEDICATION id="M3" start="1099" end="1106" text="aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M4" start="1099" end="1106" text="aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M5" start="1099" end="1106" text="aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC2" time="before DCT" type1="aspirin" type2="">
+      <MEDICATION id="M6" start="1099" end="1106" text="aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M7" start="1099" end="1106" text="aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M8" start="1099" end="1106" text="aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <FAMILY_HIST id="DOC3" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC4" status="never">
+      <SMOKER id="S0" start="1488" end="1510" text="does not smoke tobacco" status="never" comment=""/>
+      <SMOKER id="S1" start="1488" end="1502" text="does not smoke" status="never" comment=""/>
+      <SMOKER id="S2" start="1485" end="1510" text="He does not smoke tobacco" status="never" comment=""/>
+    </SMOKER>
+  </TAGS>
+</root>

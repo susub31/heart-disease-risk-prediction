@@ -1,0 +1,193 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2095-03-31
+
+
+
+
+
+INTERNAL MEDICINE ASSOCIATES
+
+YORK CONVALESCENT HOSPITAL
+
+
+
+History of present illness
+
+			
+
+  Oneill was hospitalized at the Muscatine Health Center shortly after leaving the YCH following his catheterization and placement of the stent by Dr.  Hall.  Because of the recurrent chest pain at Muscatine Health he was catheterized again from the left groin and the stent seemed to be functioning normally.  He was given the usual supportive therapy and discharged.  He is now taking Isordil 30 mg SR daily as isosorbide mononitrate.  He takes metoprolol 25 mg one-half BID, Procardia XL 30 mg daily, furosemide 20 mg per day, K-Dur 20 mEq daily, Flomax 0.4 mg daily, Singulair 10 mg daily, Advair 25/50 mg daily, Prilosec 20 mg per day, terazosin 10 mg per day, and atorvastatin 10 mg HS.  He states that he feels completely well.  He has noted good healing in the left groin.  No new issues.
+
+
+
+Change in therapies and Renewals
+
+
+
+isosorbide mononitrate 30 mg SR po qd QTY:90 Refills:3 Start: 03/31/2095
+
+metoprolol 25mg po 1/2 bid QTY:90 Refills:3 Start: 03/31/2095
+
+
+
+Physical examination
+
+Blood pressure 140/70    by the nurse, 135/75 by my exam 10 minutes later.
+
+Weight   194 pounds.
+
+Neck   Neck veins are flat in the sitting positing.  No neck bruits.
+
+Cor   Heart sounds are fine.  No clicks or murmurs.
+
+Abdomen   Soft but protuberant.  No masses felt or abdominal bruits.
+
+Extrem   Trace of peripheral edema bilaterally.
+
+
+
+Assessment and plan
+
+			
+
+  I believe he will do well.  We will be starting his diuretic again now.  No more chest pain.  Followup will be with Dr.  Hall on schedule.  He will call if new symptoms develop.  Followup urinalysis and culture are planned.  Unable to pass his urine today, but will get one when possible and he will pass it here so that we can get a urinalysis as well.
+
+
+
+Note transcribed by outside service
+
+			
+
+  Transcription errors may be present.
+
+
+
+Signed electronically by Noel, Eddie on Apr 11, 2095     
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="during DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M0" start="603" end="612" text="Procardia" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M1" start="603" end="612" text="Procardia" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M2" start="603" end="612" text="Procardia" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M3" start="603" end="615" text="Procardia XL" time="during DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC1" time="before DCT" type1="statin" type2="">
+      <MEDICATION id="M4" start="795" end="807" text="atorvastatin" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M5" start="795" end="807" text="atorvastatin" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M6" start="795" end="807" text="atorvastatin" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M7" start="795" end="807" text="atorvastatin" time="before DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <CAD id="DOC2" time="before DCT" indicator="symptom">
+      <CAD id="C0" start="309" end="319" text="chest pain" time="before DCT" indicator="symptom" comment=""/>
+      <CAD id="C1" start="299" end="319" text="recurrent chest pain" time="before DCT" indicator="symptom" comment=""/>
+      <CAD id="C2" start="299" end="319" text="recurrent chest pain" time="before DCT" indicator="symptom" comment=""/>
+    </CAD>
+    <MEDICATION id="DOC3" time="during DCT" type1="statin" type2="">
+      <MEDICATION id="M8" start="795" end="807" text="atorvastatin" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M9" start="795" end="807" text="atorvastatin" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M10" start="795" end="807" text="atorvastatin" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M11" start="795" end="807" text="atorvastatin" time="during DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC4" time="after DCT" type1="statin" type2="">
+      <MEDICATION id="M12" start="795" end="807" text="atorvastatin" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M13" start="795" end="807" text="atorvastatin" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M14" start="795" end="807" text="atorvastatin" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M15" start="795" end="807" text="atorvastatin" time="after DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC5" time="after DCT" type1="nitrate" type2="">
+      <MEDICATION id="M16" start="512" end="519" text="Isordil" time="after DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M17" start="512" end="519" text="Isordil" time="after DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M18" start="512" end="519" text="Isordil" time="after DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M19" start="538" end="560" text="isosorbide mononitrate" time="after DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M20" start="961" end="983" text="isosorbide mononitrate" time="after DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M21" start="512" end="519" text="Isordil" time="after DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M22" start="538" end="560" text="isosorbide mononitrate" time="after DCT" type1="nitrate" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC6" time="during DCT" indicator="high bp">
+      <HYPERTENSION id="H0" start="1122" end="1143" text="Blood pressure 140/70" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H1" start="1137" end="1143" text="140/70" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H2" start="1122" end="1145" text="Blood pressure 140/70  " time="during DCT" indicator="high bp" comment=""/>
+    </HYPERTENSION>
+    <MEDICATION id="DOC7" time="before DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M23" start="603" end="612" text="Procardia" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M24" start="603" end="612" text="Procardia" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M25" start="603" end="612" text="Procardia" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M26" start="603" end="615" text="Procardia XL" time="before DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC8" time="before DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M27" start="572" end="582" text="metoprolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M28" start="572" end="582" text="metoprolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M29" start="572" end="582" text="metoprolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M30" start="1035" end="1045" text="metoprolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M31" start="572" end="582" text="metoprolol" time="before DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC9" time="after DCT" type1="calcium channel blocker" type2="">
+      <MEDICATION id="M32" start="603" end="612" text="Procardia" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M33" start="603" end="612" text="Procardia" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M34" start="603" end="612" text="Procardia" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+      <MEDICATION id="M35" start="603" end="615" text="Procardia XL" time="after DCT" type1="calcium channel blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC10" time="after DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M36" start="572" end="582" text="metoprolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M37" start="572" end="582" text="metoprolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M38" start="572" end="582" text="metoprolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M39" start="1035" end="1045" text="metoprolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M40" start="572" end="582" text="metoprolol" time="after DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <SMOKER id="DOC11" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" status="unknown"/>
+      <SMOKER id="S2" status="unknown"/>
+      <SMOKER id="S3" status="unknown"/>
+    </SMOKER>
+    <MEDICATION id="DOC12" time="during DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M41" start="572" end="582" text="metoprolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M42" start="572" end="582" text="metoprolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M43" start="572" end="582" text="metoprolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M44" start="1035" end="1045" text="metoprolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M45" start="572" end="582" text="metoprolol" time="during DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC13" time="before DCT" type1="nitrate" type2="">
+      <MEDICATION id="M46" start="512" end="519" text="Isordil" time="before DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M47" start="512" end="519" text="Isordil" time="before DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M48" start="512" end="519" text="Isordil" time="before DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M49" start="538" end="560" text="isosorbide mononitrate" time="before DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M50" start="961" end="983" text="isosorbide mononitrate" time="before DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M51" start="512" end="519" text="Isordil" time="before DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M52" start="538" end="560" text="isosorbide mononitrate" time="before DCT" type1="nitrate" type2="" comment=""/>
+    </MEDICATION>
+    <FAMILY_HIST id="DOC14" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+      <FAMILY_HIST id="F3" indicator="not present"/>
+    </FAMILY_HIST>
+    <MEDICATION id="DOC15" time="during DCT" type1="nitrate" type2="">
+      <MEDICATION id="M53" start="512" end="519" text="Isordil" time="during DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M54" start="512" end="519" text="Isordil" time="during DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M55" start="512" end="519" text="Isordil" time="during DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M56" start="538" end="560" text="isosorbide mononitrate" time="during DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M57" start="961" end="983" text="isosorbide mononitrate" time="during DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M58" start="512" end="519" text="Isordil" time="during DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M59" start="538" end="560" text="isosorbide mononitrate" time="during DCT" type1="nitrate" type2="" comment=""/>
+    </MEDICATION>
+    <PHI id="P0" start="16" end="26" text="2095-03-31" TYPE="DATE"/>
+    <PHI id="P1" start="62" end="88" text="YORK CONVALESCENT HOSPITAL" TYPE="HOSPITAL"/>
+    <PHI id="P2" start="127" end="133" text="Oneill" TYPE="PATIENT"/>
+    <PHI id="P3" start="158" end="181" text="Muscatine Health Center" TYPE="HOSPITAL"/>
+    <PHI id="P4" start="208" end="211" text="YCH" TYPE="HOSPITAL"/>
+    <PHI id="P5" start="277" end="281" text="Hall" TYPE="DOCTOR"/>
+    <PHI id="P6" start="323" end="339" text="Muscatine Health" TYPE="HOSPITAL"/>
+    <PHI id="P7" start="1023" end="1033" text="03/31/2095" TYPE="DATE"/>
+    <PHI id="P8" start="1086" end="1096" text="03/31/2095" TYPE="DATE"/>
+    <PHI id="P9" start="1613" end="1617" text="Hall" TYPE="DOCTOR"/>
+    <PHI id="P10" start="1958" end="1969" text="Noel, Eddie" TYPE="DOCTOR"/>
+    <PHI id="P11" start="1973" end="1985" text="Apr 11, 2095" TYPE="DATE"/>
+  </TAGS>
+</root>

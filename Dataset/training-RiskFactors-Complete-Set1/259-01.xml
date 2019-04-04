@@ -1,0 +1,135 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2090-04-09
+
+                     VALLEY LANE EMERGENCY DEPT VISIT
+
+ 
+
+                                                VISIT DATE: 04/09/90
+
+The patient was seen and examined in the emergency department on 
+
+04/09/90.  The patient was seen with Dr. Jarman.  I have discussed 
+
+management with the resident physician, reviewed the medical 
+
+record.  
+
+PRESENTING COMPLAINT:  Possible seizure.
+
+HISTORY OF PRESENTING COMPLAINT:  This is a 72-year-old gentleman 
+
+who was brought in after having an episode of being unresponsive, 
+
+per his wife.  He seemed to have his eyes roll back in his head.  
+
+There was no definite tonic-clonic movement.  His wife relates the 
+
+fact that he had seizures in the past although she does not know if 
+
+this was a seizure.  Patient denied chest pain, shortness of 
+
+breath, or abdominal pain.  No history of trauma.  
+
+REVIEW OF SYSTEMS:  Patient denies fever or chills, otherwise, 
+
+negative.  
+
+PAST MEDICAL HISTORY:  Diabetes, CABG, seizure disorder.
+
+SOCIAL HISTORY AND FAMILY HISTORY:  Patient is a past smoker.  
+
+PHYSICAL EXAMINATION:  GENERAL:  Patient is comfortable, awake, 
+
+alert but not oriented to date, in no acute distress.  HEENT:  
+
+Normocephalic, atraumatic.  CHEST:  Clear. HEART:  Regular rate.  
+
+ABDOMEN:  Soft, nontender.  EXTREMITIES:  Nontender.   
+
+LABORATORY EVALUATION:  White count 8.3, hematocrit 36.2, 
+
+creatinine 0.7, CK 107.  EKG shows peak T-waves anteriorly, T-waves 
+
+are peak compared to old.   
+
+THERAPY RENDERED/COURSE IN ED:  This gentleman had a syncopal 
+
+episode which may represent seizure activity.  Also, with his EKG 
+
+changes, plan is for hospital admission for telemetry, for 
+
+observation, and will also get neurologic consultation.  
+
+CONSULTATIONS (including PCP):  Neurology.
+
+FINAL DIAGNOSIS:
+
+DISPOSITION (including condition upon discharge):  The patient is 
+
+in stable condition.
+
+___________________________________                    KW419/3572
+
+ANDREW TANG, M.D.  AT57                                 D:04/09/90 
+
+                                                       T:04/11/90 
+
+Dictated by:  ANDREW TANG, M.D.  AT57 
+
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <DIABETES id="DOC0" time="before DCT" indicator="mention">
+      <DIABETES id="D0" start="968" end="976" text="Diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D1" start="968" end="976" text="Diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D2" start="968" end="976" text="Diabetes" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <CAD id="DOC1" time="before DCT" indicator="event">
+      <CAD id="C0" start="978" end="982" text="CABG" time="before DCT" indicator="event" comment=""/>
+      <CAD id="C1" start="978" end="982" text="CABG" time="before DCT" indicator="event" comment=""/>
+      <CAD id="C2" start="978" end="982" text="CABG" time="before DCT" indicator="event" comment=""/>
+    </CAD>
+    <SMOKER id="DOC2" status="past">
+      <SMOKER id="S0" start="1051" end="1064" text=" past smoker." status="past" comment=""/>
+      <SMOKER id="S1" start="1039" end="1066" text="Patient is a past smoker.  " status="past" comment=""/>
+    </SMOKER>
+    <DIABETES id="DOC3" time="during DCT" indicator="mention">
+      <DIABETES id="D3" start="968" end="976" text="Diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D4" start="968" end="976" text="Diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D5" start="968" end="976" text="Diabetes" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <FAMILY_HIST id="DOC4" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <DIABETES id="DOC5" time="after DCT" indicator="mention">
+      <DIABETES id="D6" start="968" end="976" text="Diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D7" start="968" end="976" text="Diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D8" start="968" end="976" text="Diabetes" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <PHI id="P0" start="16" end="26" text="2090-04-09" TYPE="DATE"/>
+    <PHI id="P1" start="49" end="60" text="VALLEY LANE" TYPE="HOSPITAL"/>
+    <PHI id="P2" start="146" end="154" text="04/09/90" TYPE="DATE"/>
+    <PHI id="P3" start="223" end="231" text="04/09/90" TYPE="DATE"/>
+    <PHI id="P4" start="264" end="270" text="Jarman" TYPE="DOCTOR"/>
+    <PHI id="P5" start="452" end="454" text="72" TYPE="AGE"/>
+    <PHI id="P6" start="1943" end="1953" text="KW419/3572" TYPE="IDNUM"/>
+    <PHI id="P7" start="1955" end="1966" text="ANDREW TANG" TYPE="DOCTOR"/>
+    <PHI id="P8" start="1974" end="1978" text="AT57" TYPE="USERNAME"/>
+    <PHI id="P9" start="2013" end="2021" text="04/09/90" TYPE="DATE"/>
+    <PHI id="P10" start="2081" end="2089" text="04/11/90" TYPE="DATE"/>
+    <PHI id="P11" start="2106" end="2117" text="ANDREW TANG" TYPE="DOCTOR"/>
+    <PHI id="P12" start="2125" end="2129" text="AT57" TYPE="USERNAME"/>
+  </TAGS>
+</root>

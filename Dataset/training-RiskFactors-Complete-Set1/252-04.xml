@@ -1,0 +1,254 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2071-07-20
+
+EDVISIT^15842112^Joshi, Kathy^07/20/71^KATZ, LAURA
+
+This patient was seen, interviewed, and examined by myself
+
+primarily.
+
+HISTORY OF PRESENT ILLNESS:  This is a 65-year-old female who
+
+presents with body swelling and shortness of breath.  The patient
+
+is unable to say when she specifically noted her lower extremity
+
+swelling.  She states that approximately 1 year prior to arrival
+
+she had to throw out all of her shoes except for 2 pairs because
+
+all those shoes had become tight.  At the present time, the
+
+patient is only able to wear sandals and apparently her
+
+co-workers noted her to be significantly swollen and suggested
+
+that she see a physician.  The patient states that there was no
+
+acute change in her swelling today.  She states that she has had
+
+a cough for 1 month.  Again, there was no acute change.  Today,
+
+she denies any chest pain at any time.  She does complain of
+
+dyspnea and specifically dyspnea on exertion, no PND, no
+
+orthopnea, and no change in her overall energy level.
+
+PAST MEDICAL HISTORY:  MI, atrial fibrillation, and diabetes
+
+mellitus.
+
+MEDICATIONS:  Coumadin, aspirin, insulin, Lasix, and Avapro. 
+
+Otherwise as per the written note.
+
+ALLERGIES:  No known drug allergies.
+
+SOCIAL HISTORY:  Significant for no tobacco use, no alcohol use. 
+
+The patient works as an animal trainer.  She lives with family.
+
+FAMILY HISTORY:  Noncontributory.
+
+REVIEW OF SYSTEMS:  She denies fevers or chills, chest pain or
+
+palpitations, abdominal pain, or dark stools.
+
+PHYSICAL EXAMINATION:  This is a well-developed, well-nourished
+
+female, edematous.  Temperature 100.9, pulse 97, respiratory rate
+
+of 22, blood pressure is 178/64, and oxygen saturation is 89% on
+
+room air and 94% on 2 L nasal cannula.  HEENT is normocephalic
+
+and atraumatic.  Moist mucous membranes.  Extraocular motions are
+
+intact.  Sclerae are anicteric.  Neck is supple.  Full range of
+
+motion.  JVD is difficult to assess due to the patient's body
+
+habitus.  Lungs:  Positive crackles in the lower 1/4 of the lung
+
+field bilaterally.  There is no dullness to percussion.  Cardiac:
+
+ Irregularly regular, not tachycardic, no murmur is auscultated. 
+
+Rectal:  Heme-negative stool.  Abdomen:  Positive bowel sounds,
+
+soft, distended, no fluid wave, no hepatomegaly is palpated but
+
+palpation is somewhat limited by the patient's body habitus. 
+
+Skin is warm, dry, and intact.  There are various ecchymotic
+
+lesions on the extremities.  Extremities:  2+ edema of the
+
+bilateral lower extremities in the mid thighs.  Neurologic: 
+
+Alert and oriented x3.  Follows all commands appropriate.  Short
+
+and long-term memories are intact.
+
+LABORATORY DATA:  Significant for a chest x-ray which has a
+
+right-sided pleural effusion and increased pulmonary vasculature
+
+as well as stable cardiomegaly.  Glucose of 223, BUN of 31, a
+
+creatinine of 1.2, bicarbonate of 24, CK of 87, BNP of 2570, MB
+
+of 0.9, and troponin which is less than assay.  White count of
+
+5.1, hematocrit of 34.2, and platelets of 124,000.  INR of 4.6.
+
+EMERGENCY DEPARTMENT COURSE:  The patient was seen, interviewed,
+
+and examined in the Emergency Department with labs and studies
+
+obtained as documented above.  Her past medical records were
+
+reviewed.  The patient is in congestive heart failure.  She
+
+received Lasix and lisinopril as well as aspirin while in the
+
+Emergency Department and she has been diuresing appropriately
+
+after receiving the Lasix.  She has been supplemented with oxygen
+
+by nasal cannula.  The source of her fever is not clear.  She
+
+will need to have a repeat chest x-ray as her pulmonary edema
+
+ ******** Not reviewed by Attending Physician ********
+
+evidence of cellulitis.  UA is pending.  The patient also needs
+
+serial cardiac enzymes and an echocardiogram but this will be
+
+handled by the inpatient department.  I did speak with the patient's
+
+cardiologist and she will be admitted to the Cardiology Service.
+
+DIAGNOSIS:  Congestive heart failure.
+
+DISPOSITION:  The patient is admitted in satisfactory condition.
+
+______________________________
+
+KATZ, LAURA M.D.
+
+D: 07/20/71
+
+T: 07/20/71
+
+Dictated By: KATZ, LAURA
+
+eScription document:1-9370540 BFFocus
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="during DCT" type1="aspirin" type2="">
+      <MEDICATION id="M0" start="1130" end="1137" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M1" start="1130" end="1137" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M2" start="1130" end="1137" text="aspirin" time="during DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <DIABETES id="DOC1" time="before DCT" indicator="mention">
+      <DIABETES id="D0" start="1085" end="1093" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D1" start="1085" end="1103" text="diabetes  mellitus" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D2" start="1085" end="1093" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <MEDICATION id="DOC2" time="after DCT" type1="insulin" type2="">
+      <MEDICATION id="M3" start="1139" end="1146" text="insulin" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M4" start="1139" end="1146" text="insulin" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M5" start="1139" end="1146" text="insulin" time="after DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <CAD id="DOC3" time="before DCT" indicator="event">
+      <CAD id="C0" start="1056" end="1058" text="MI" time="before DCT" indicator="event" comment=""/>
+      <CAD id="C1" start="1056" end="1058" text="MI" time="before DCT" indicator="event" comment=""/>
+      <CAD id="C2" start="1056" end="1058" text="MI" time="before DCT" indicator="event" comment=""/>
+    </CAD>
+    <DIABETES id="DOC4" time="during DCT" indicator="mention">
+      <DIABETES id="D3" start="1085" end="1093" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D4" start="1085" end="1103" text="diabetes  mellitus" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D5" start="1085" end="1093" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <MEDICATION id="DOC5" time="before DCT" type1="aspirin" type2="">
+      <MEDICATION id="M6" start="1130" end="1137" text="aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M7" start="1130" end="1137" text="aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M8" start="1130" end="1137" text="aspirin" time="before DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC6" time="during DCT" type1="insulin" type2="">
+      <MEDICATION id="M9" start="1139" end="1146" text="insulin" time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M10" start="1139" end="1146" text="insulin" time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M11" start="1139" end="1146" text="insulin" time="during DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC7" time="during DCT" indicator="high bp">
+      <HYPERTENSION id="H0" start="1677" end="1684" text=" 178/64" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H1" start="1660" end="1684" text="blood pressure is 178/64" time="during DCT" indicator="high bp" comment=""/>
+      <HYPERTENSION id="H2" start="1660" end="1684" text="blood pressure is 178/64" time="during DCT" indicator="high bp" comment=""/>
+    </HYPERTENSION>
+    <DIABETES id="DOC8" time="after DCT" indicator="mention">
+      <DIABETES id="D6" start="1085" end="1093" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D7" start="1085" end="1103" text="diabetes  mellitus" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D8" start="1085" end="1093" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <MEDICATION id="DOC9" time="before DCT" type1="ARB" type2="">
+      <MEDICATION id="M12" start="1159" end="1165" text="Avapro" time="before DCT" type1="ARB" type2="" comment=""/>
+      <MEDICATION id="M13" start="1159" end="1165" text="Avapro" time="before DCT" type1="ARB" type2="" comment=""/>
+      <MEDICATION id="M14" start="1159" end="1165" text="Avapro" time="before DCT" type1="ARB" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC10" time="after DCT" type1="aspirin" type2="">
+      <MEDICATION id="M15" start="1130" end="1137" text="aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M16" start="1130" end="1137" text="aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+      <MEDICATION id="M17" start="1130" end="1137" text="aspirin" time="after DCT" type1="aspirin" type2="" comment=""/>
+    </MEDICATION>
+    <FAMILY_HIST id="DOC11" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC12" status="never">
+      <SMOKER id="S0" start="1276" end="1290" text="no tobacco use" status="never" comment=""/>
+      <SMOKER id="S1" start="1276" end="1290" text="no tobacco use" status="never" comment=""/>
+      <SMOKER id="S2" start="1276" end="1290" text="no tobacco use" status="never" comment=""/>
+    </SMOKER>
+    <MEDICATION id="DOC13" time="during DCT" type1="ARB" type2="">
+      <MEDICATION id="M18" start="1159" end="1165" text="Avapro" time="during DCT" type1="ARB" type2="" comment=""/>
+      <MEDICATION id="M19" start="1159" end="1165" text="Avapro" time="during DCT" type1="ARB" type2="" comment=""/>
+      <MEDICATION id="M20" start="1159" end="1165" text="Avapro" time="during DCT" type1="ARB" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC14" time="after DCT" type1="ARB" type2="">
+      <MEDICATION id="M21" start="1159" end="1165" text="Avapro" time="after DCT" type1="ARB" type2="" comment=""/>
+      <MEDICATION id="M22" start="1159" end="1165" text="Avapro" time="after DCT" type1="ARB" type2="" comment=""/>
+      <MEDICATION id="M23" start="1159" end="1165" text="Avapro" time="after DCT" type1="ARB" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC15" time="before DCT" type1="insulin" type2="">
+      <MEDICATION id="M24" start="1139" end="1146" text="insulin" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M25" start="1139" end="1146" text="insulin" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M26" start="1139" end="1146" text="insulin" time="before DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <PHI id="P0" start="16" end="26" text="2071-07-20" TYPE="DATE"/>
+    <PHI id="P1" start="36" end="44" text="15842112" TYPE="MEDICALRECORD"/>
+    <PHI id="P2" start="45" end="57" text="Joshi, Kathy" TYPE="PATIENT"/>
+    <PHI id="P3" start="58" end="66" text="07/20/71" TYPE="DATE"/>
+    <PHI id="P4" start="67" end="78" text="KATZ, LAURA" TYPE="DOCTOR"/>
+    <PHI id="P5" start="191" end="193" text="65" TYPE="AGE"/>
+    <PHI id="P6" start="1334" end="1348" text="animal trainer" TYPE="PROFESSION"/>
+    <PHI id="P7" start="3812" end="3832" text="inpatient department" TYPE="DEPARTMENT"/>
+    <PHI id="P8" start="4070" end="4081" text="KATZ, LAURA" TYPE="DOCTOR"/>
+    <PHI id="P9" start="4091" end="4099" text="07/20/71" TYPE="DATE"/>
+    <PHI id="P10" start="4104" end="4112" text="07/20/71" TYPE="DATE"/>
+    <PHI id="P11" start="4127" end="4138" text="KATZ, LAURA" TYPE="DOCTOR"/>
+    <PHI id="P12" start="4160" end="4169" text="1-9370540" TYPE="IDNUM"/>
+  </TAGS>
+</root>

@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2087-08-12
+
+
+
+
+XANDERS, RUTH
+56419927
+08/12/2087
+
+
+Quinton Sparks, M.D.
+Cardiovascular Division
+Louisville Care Center
+08 Mosele Court
+Changchun, LA  14176
+
+Dear Quin,
+
+Just a note for the records regarding Ms. Xanders's recent admission to our Cardiology Service between 08/09/2087 and 08/12/2087.  As you know, she is a lovely 47-year-old woman with type 1 diabetes, hypertension, cigarette smoking and end-stage renal disease for which she underwent transplantation in 2083. She is now under evaluation for pancreatic transplantation.  She has not had symptoms of angina or left ventricular dysfunction and LVEF has been normal.  An exercise test in July 2087 achieved 79% of the maximal predicted heart rate, no chest discomfort, but 1-mm of ST depression in the lateral leads.  Her other recent issues have included marked anemia, possibly related to her immunosuppressive drugs (negative upper and lower endoscopy) and transient hyperglycemia following a glucocorticoid bolus.
+
+At the time of admission, the hematocrit remained in the low 20s and she was transfused in preparation for cardiac catheterization.  Appropriate bicarbonate and Mucomyst therapies were administered, and we also took advantage of the precatheterization time to reinforce the importance of smoking cessation.
+
+Coronary angiography on 08/11/2087 demonstrated a co-dominant system with chronic occlusion of the right coronary artery with left to right collaterals perfusing that territory.  There was also a 95% stenosis of the proximal LAD.  After careful consideration of the options, Dr. Valdez placed a Cypher stent at that location successfully.  She tolerated the procedure well,  was ambulatory the following morning and the creatinine had actually improved to 2.0; the hematocrit remained "stable" in the mid 20s.  She will likely be discharged later today, following a discussion with the renal transplant service regarding augmenting her antihypertensive regime.
+
+She understands the importance of uninterrupted clopidogrel therapy,  preferably for more than one year.
+
+It was a pleasure to participate in Ms. Xanders's care.  A copy of the discharge abstract as list of discharge medications will be forwarded to you separately.
+
+With best regards.
+
+Sincerely yours,
+
+
+______________________________
+Stanley V Stanley, MD
+
+
+
+
+
+eScription document:3-2627386 KFFocus
+
+
+
+DD: 08/12/87
+DT: 08/12/87
+DV: 08/12/87
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC4" time="after DCT" type1="thienopyridine" type2="">
+      <MEDICATION id="M0" start="2018" end="2029" text="clopidogrel" time="after DCT" type1="thienopyridine" type2="" comment=""/>
+      <MEDICATION id="M1" start="2018" end="2029" text="clopidogrel" time="after DCT" type1="thienopyridine" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC1" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="385" end="397" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="385" end="397" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H2" start="385" end="397" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC3" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H3" start="385" end="397" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H4" start="385" end="397" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H5" start="385" end="397" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <HYPERTENSION id="DOC5" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H6" start="385" end="397" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H7" start="385" end="397" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H8" start="385" end="397" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <FAMILY_HIST id="DOC6" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC2" status="current">
+      <SMOKER id="S0" start="409" end="416" text="smoking" status="current" comment=""/>
+      <SMOKER id="S1" start="399" end="416" text="cigarette smoking" status="current" comment=""/>
+      <SMOKER id="S2" start="398" end="416" text=" cigarette smoking" status="current" comment=""/>
+    </SMOKER>
+    <DIABETES id="DOC0" time="before DCT" indicator="mention">
+      <DIABETES id="D0" start="375" end="383" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D1" start="368" end="383" text="type 1 diabetes" time="before DCT" indicator="mention" comment=""/>
+      <DIABETES id="D2" start="375" end="383" text="diabetes" time="before DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC7" time="after DCT" indicator="mention">
+      <DIABETES id="D3" start="375" end="383" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D4" start="368" end="383" text="type 1 diabetes" time="after DCT" indicator="mention" comment=""/>
+      <DIABETES id="D5" start="375" end="383" text="diabetes" time="after DCT" indicator="mention" comment=""/>
+    </DIABETES>
+    <DIABETES id="DOC8" time="during DCT" indicator="mention">
+      <DIABETES id="D6" start="375" end="383" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D7" start="368" end="383" text="type 1 diabetes" time="during DCT" indicator="mention" comment=""/>
+      <DIABETES id="D8" start="375" end="383" text="diabetes" time="during DCT" indicator="mention" comment=""/>
+    </DIABETES>
+  </TAGS>
+</root>

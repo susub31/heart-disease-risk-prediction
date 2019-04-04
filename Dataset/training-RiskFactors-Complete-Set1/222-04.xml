@@ -1,0 +1,308 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2097-06-13
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+June 13, 2097
+
+ 
+
+ 
+
+ 
+
+Dennis Cannon, M.D.
+
+Cardiovascular Division
+
+Redwood Area Hospital
+
+28 Tamworth Place
+
+Cass City MS  25448
+
+ 
+
+RE:BRADY DUVALL
+
+RAH#425 03 15 1
+
+ 
+
+Dear Denny:
+
+ 
+
+Just a note to tell you that I saw Brady Duvall again today for his 
+
+congestive heart failure.  His clinical course is well known to you.  
+
+He has had a slight increase in peripheral edema.  This has occurred 
+
+despite a medical regimen that includes Lasix 40 mg daily, aldactone 25 
+
+mg daily, Coumadin, atenolol 25 mg daily, amiodarone 200 mg daily, 
+
+insulin, vancomycin that was recently discontinued, Zocor 80 mg daily, 
+
+clonopin, Plavix, and glucophage.  He is also on captopril 6.25 mg po 
+
+t.i.d.
+
+ 
+
+From a functional point of view, he seems to be stable although, as 
+
+noted, he has had a slight increase in peripheral edema.  His past 
+
+clinical course is well known to you.  As you know, he had an 
+
+epicardial abscess from electrode placement.  
+
+ 
+
+From a clinical point of view, he is otherwise stable.
+
+ 
+
+Physical examination today is of note for a weight of 193 pounds, blood 
+
+pressure 120/60, with a resting pulse of 76.  Neck veins are distended, 
+
+with positive hepatojugular reflux.  His carotid volume is diminished.  
+
+His lungs are 
+
+ 
+
+Page Two
+
+RE:BRADY DUVALL
+
+RAH#425 03 15 1
+
+June 13, 2097
+
+ 
+
+ 
+
+ 
+
+generally clear, without rales or rhonchi.  Examination of the heart 
+
+reveals a quiet precordium.  There is a soft S3 gallop, no murmur of 
+
+mitral regurgitation, and no obvious murmur of tricuspid regurgitation.  
+
+Abdomen is of note for a liver at the right costal margin.  There is +2 
+
+peripheral edema.
+
+ 
+
+The resting electrocardiogram shows paced rhythm.
+
+ 
+
+We will be increasing his Lasix to 80 mg daily and following him 
+
+closely by telephone over the next several days.  I have made no other 
+
+changes in his current medical regimen.
+
+ 
+
+Many thanks for letting us participate in his care.
+
+ 
+
+With best regards.
+
+ 
+
+Sincerely yours,
+
+ 
+
+ 
+
+ 
+
+U. L. Dana, Jr., M.D.
+
+ 
+
+DD: 06/13/97
+
+DT: 06/18/97
+
+DV: 06/13/97
+
+ 
+
+/elizondo
+
+ 
+
+ 
+
+ 
+
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+
+]]></TEXT>
+  <TAGS>
+    <MEDICATION id="DOC0" time="during DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M0" start="734" end="743" text="captopril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M1" start="734" end="744" text="captopril " time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M2" start="734" end="743" text="captopril" time="during DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC1" time="after DCT" type1="statin" type2="">
+      <MEDICATION id="M3" start="664" end="669" text="Zocor" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M4" start="664" end="669" text="Zocor" time="after DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M5" start="664" end="669" text="Zocor" time="after DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC2" time="during DCT" type1="thienopyridine" type2="">
+      <MEDICATION id="M6" start="695" end="701" text="Plavix" time="during DCT" type1="thienopyridine" type2="" comment=""/>
+      <MEDICATION id="M7" start="694" end="701" text=" Plavix" time="during DCT" type1="thienopyridine" type2="" comment=""/>
+      <MEDICATION id="M8" start="695" end="702" text="Plavix," time="during DCT" type1="thienopyridine" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC3" time="after DCT" type1="metformin" type2="">
+      <MEDICATION id="M9" start="707" end="717" text="glucophage" time="after DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M10" start="707" end="717" text="glucophage" time="after DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M11" start="707" end="718" text="glucophage." time="after DCT" type1="metformin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC4" time="during DCT" type1="metformin" type2="">
+      <MEDICATION id="M12" start="707" end="717" text="glucophage" time="during DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M13" start="707" end="717" text="glucophage" time="during DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M14" start="707" end="718" text="glucophage." time="during DCT" type1="metformin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC5" time="after DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M15" start="734" end="743" text="captopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M16" start="734" end="744" text="captopril " time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M17" start="734" end="743" text="captopril" time="after DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC6" time="after DCT" type1="insulin" type2="">
+      <MEDICATION id="M18" start="612" end="619" text="insulin" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M19" start="612" end="619" text="insulin" time="after DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M20" start="612" end="619" text="insulin" time="after DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC7" time="after DCT" type1="thienopyridine" type2="">
+      <MEDICATION id="M21" start="695" end="701" text="Plavix" time="after DCT" type1="thienopyridine" type2="" comment=""/>
+      <MEDICATION id="M22" start="694" end="701" text=" Plavix" time="after DCT" type1="thienopyridine" type2="" comment=""/>
+      <MEDICATION id="M23" start="695" end="702" text="Plavix," time="after DCT" type1="thienopyridine" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC8" time="after DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M24" start="562" end="572" text=" atenolol " time="after DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M25" start="563" end="572" text="atenolol " time="after DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <SMOKER id="DOC9" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" start="3" end="9" text="Record" status="unknown" comment=""/>
+      <SMOKER id="S2" status="unknown"/>
+    </SMOKER>
+    <MEDICATION id="DOC10" time="before DCT" type1="statin" type2="">
+      <MEDICATION id="M26" start="664" end="669" text="Zocor" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M27" start="664" end="669" text="Zocor" time="before DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M28" start="664" end="669" text="Zocor" time="before DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC11" time="during DCT" type1="statin" type2="">
+      <MEDICATION id="M29" start="664" end="669" text="Zocor" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M30" start="664" end="669" text="Zocor" time="during DCT" type1="statin" type2="" comment=""/>
+      <MEDICATION id="M31" start="664" end="669" text="Zocor" time="during DCT" type1="statin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC12" time="before DCT" type1="metformin" type2="">
+      <MEDICATION id="M32" start="707" end="717" text="glucophage" time="before DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M33" start="707" end="717" text="glucophage" time="before DCT" type1="metformin" type2="" comment=""/>
+      <MEDICATION id="M34" start="707" end="718" text="glucophage." time="before DCT" type1="metformin" type2="" comment=""/>
+    </MEDICATION>
+    <FAMILY_HIST id="DOC13" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <MEDICATION id="DOC14" time="before DCT" type1="ACE inhibitor" type2="">
+      <MEDICATION id="M35" start="734" end="743" text="captopril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M36" start="734" end="744" text="captopril " time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+      <MEDICATION id="M37" start="734" end="743" text="captopril" time="before DCT" type1="ACE inhibitor" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC15" time="before DCT" type1="insulin" type2="">
+      <MEDICATION id="M38" start="612" end="619" text="insulin" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M39" start="612" end="619" text="insulin" time="before DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M40" start="612" end="619" text="insulin" time="before DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC16" time="before DCT" type1="thienopyridine" type2="">
+      <MEDICATION id="M41" start="695" end="701" text="Plavix" time="before DCT" type1="thienopyridine" type2="" comment=""/>
+      <MEDICATION id="M42" start="694" end="701" text=" Plavix" time="before DCT" type1="thienopyridine" type2="" comment=""/>
+      <MEDICATION id="M43" start="695" end="702" text="Plavix," time="before DCT" type1="thienopyridine" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC17" time="during DCT" type1="insulin" type2="">
+      <MEDICATION id="M44" start="612" end="619" text="insulin" time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M45" start="612" end="619" text="insulin" time="during DCT" type1="insulin" type2="" comment=""/>
+      <MEDICATION id="M46" start="612" end="619" text="insulin" time="during DCT" type1="insulin" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC18" time="before DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M47" start="562" end="572" text=" atenolol " time="before DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M48" start="563" end="572" text="atenolol " time="before DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <MEDICATION id="DOC19" time="during DCT" type1="beta blocker" type2="">
+      <MEDICATION id="M49" start="562" end="572" text=" atenolol " time="during DCT" type1="beta blocker" type2="" comment=""/>
+      <MEDICATION id="M50" start="563" end="572" text="atenolol " time="during DCT" type1="beta blocker" type2="" comment=""/>
+    </MEDICATION>
+    <PHI id="P0" start="16" end="26" text="2097-06-13" TYPE="DATE"/>
+    <PHI id="P1" start="67" end="80" text="June 13, 2097" TYPE="DATE"/>
+    <PHI id="P2" start="91" end="104" text="Dennis Cannon" TYPE="DOCTOR"/>
+    <PHI id="P3" start="137" end="158" text="Redwood Area Hospital" TYPE="HOSPITAL"/>
+    <PHI id="P4" start="160" end="177" text="28 Tamworth Place" TYPE="STREET"/>
+    <PHI id="P5" start="179" end="188" text="Cass City" TYPE="CITY"/>
+    <PHI id="P6" start="189" end="191" text="MS" TYPE="STATE"/>
+    <PHI id="P7" start="193" end="198" text="25448" TYPE="ZIP"/>
+    <PHI id="P8" start="206" end="218" text="BRADY DUVALL" TYPE="PATIENT"/>
+    <PHI id="P9" start="220" end="223" text="RAH" TYPE="HOSPITAL"/>
+    <PHI id="P10" start="224" end="235" text="425 03 15 1" TYPE="MEDICALRECORD"/>
+    <PHI id="P11" start="245" end="250" text="Denny" TYPE="DOCTOR"/>
+    <PHI id="P12" start="291" end="303" text="Brady Duvall" TYPE="PATIENT"/>
+    <PHI id="P13" start="1335" end="1347" text="BRADY DUVALL" TYPE="PATIENT"/>
+    <PHI id="P14" start="1349" end="1352" text="RAH" TYPE="HOSPITAL"/>
+    <PHI id="P15" start="1353" end="1364" text="425 03 15 1" TYPE="MEDICALRECORD"/>
+    <PHI id="P16" start="1366" end="1379" text="June 13, 2097" TYPE="DATE"/>
+    <PHI id="P17" start="2047" end="2062" text="U. L. Dana, Jr." TYPE="DOCTOR"/>
+    <PHI id="P18" start="2077" end="2085" text="06/13/97" TYPE="DATE"/>
+    <PHI id="P19" start="2091" end="2099" text="06/18/97" TYPE="DATE"/>
+    <PHI id="P20" start="2105" end="2113" text="06/13/97" TYPE="DATE"/>
+    <PHI id="P21" start="2119" end="2127" text="elizondo" TYPE="DOCTOR"/>
+  </TAGS>
+</root>

@@ -1,0 +1,142 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <TEXT><![CDATA[
+
+
+Record date: 2091-11-15
+
+CARDIOLOGY
+
+KELLIHER CARE CENTER
+
+
+
+Reason for visit:
+
+   F/u of coronary disease and hypertension.   
+
+
+
+Interval History:
+
+   Ted continues to feel well. He has not taken nitroglycerine for 6 months. He exercises for 25 minutes 3 days per week on the treadmill and does not get chest pain. He does continue to gain weight because of dietary caloric indiscretion. He is not having any edema or orthopnea. 
+
+
+
+Family history:
+
+   Brother has been diagnosed with prostate cancer. 
+
+
+
+Physical examination:
+
+-General:   No acute distress.
+
+-Skin:   No rashes, anicteric.
+
+-Heent:   Unremarkable
+
+-Neck:   Carotids 2+ without bruits. JVP no jugular venous distention.
+
+-Chest:   Clear to auscultation and percussion.
+
+-Cardiac:   Left ventricular impulse discrete and nondisplaced. Regular rate and rhythm, normal S1 and S2, with no S3 +S4. There were no murmurs, clicks or rubs.
+
+-Extremities:   No cyanosis, clubbing or edema. 2+ femoral pulses without bruits. 2+ pedal pulses.
+
+-Neuro:   A&O x3, CN 2-12 grossly intact. 
+
+-Abdomen:   Normal bowel sounds, soft and has mild epigastric tenderness, with no hepatosplenomegaly or masses appreciated.
+
+-BP: 127/55  
+
+-Pulse: 43  
+
+-weight: 185  lbs.
+
+-BMI:   
+
+
+
+EKG:
+
+   Sinus rhythm, intraventricular conduction defect, poor RWave progression, unchanged from previous.
+
+
+
+
+
+Impression:
+
+   Ted continues to do well. I discussed with him the reason for his persistent positive stress test and the posterolateral redistribution being related to the circumflex occlusion. There is good collaterals to this territory and I told Ted he needs to continue to exercise to build up those collaterals. We will repeat a stress test on him next spring to make sure he has not had progression of disease in his other arteries. 
+
+
+
+
+
+CC:   Ulysses B. Gilbert, MD of KCC Gastrointerology
+
+
+Signed electronically by   Yosef Q Ullrich MD  on  Jan 15, 2092     
+
+
+
+]]></TEXT>
+  <TAGS>
+    <CAD id="DOC0" time="before DCT" indicator="mention">
+      <CAD id="C0" start="93" end="110" text="coronary disease " time="before DCT" indicator="mention" comment=""/>
+      <CAD id="C1" start="93" end="109" text="coronary disease" time="before DCT" indicator="mention" comment=""/>
+      <CAD id="C2" start="93" end="109" text="coronary disease" time="before DCT" indicator="mention" comment=""/>
+    </CAD>
+    <HYPERTENSION id="DOC1" time="before DCT" indicator="mention">
+      <HYPERTENSION id="H0" start="114" end="126" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H1" start="114" end="126" text="hypertension" time="before DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H2" start="113" end="126" text=" hypertension" time="before DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <MEDICATION id="DOC2" time="before DCT" type1="nitrate" type2="">
+      <MEDICATION id="M0" start="201" end="215" text="nitroglycerine" time="before DCT" type1="nitrate" type2="" comment=""/>
+      <MEDICATION id="M1" start="200" end="215" text=" nitroglycerine" time="before DCT" type1="nitrate" type2="" comment=""/>
+    </MEDICATION>
+    <HYPERTENSION id="DOC3" time="during DCT" indicator="mention">
+      <HYPERTENSION id="H3" start="114" end="126" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H4" start="114" end="126" text="hypertension" time="during DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H5" start="113" end="126" text=" hypertension" time="during DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <CAD id="DOC4" time="during DCT" indicator="mention">
+      <CAD id="C3" start="93" end="110" text="coronary disease " time="during DCT" indicator="mention" comment=""/>
+      <CAD id="C4" start="93" end="109" text="coronary disease" time="during DCT" indicator="mention" comment=""/>
+      <CAD id="C5" start="93" end="109" text="coronary disease" time="during DCT" indicator="mention" comment=""/>
+    </CAD>
+    <HYPERTENSION id="DOC5" time="after DCT" indicator="mention">
+      <HYPERTENSION id="H6" start="114" end="126" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H7" start="114" end="126" text="hypertension" time="after DCT" indicator="mention" comment=""/>
+      <HYPERTENSION id="H8" start="113" end="126" text=" hypertension" time="after DCT" indicator="mention" comment=""/>
+    </HYPERTENSION>
+    <FAMILY_HIST id="DOC6" indicator="not present">
+      <FAMILY_HIST id="F0" indicator="not present"/>
+      <FAMILY_HIST id="F1" indicator="not present"/>
+      <FAMILY_HIST id="F2" indicator="not present"/>
+    </FAMILY_HIST>
+    <SMOKER id="DOC7" status="unknown">
+      <SMOKER id="S0" status="unknown"/>
+      <SMOKER id="S1" status="unknown"/>
+      <SMOKER id="S2" start="3" end="9" text="Record" status="unknown" comment=""/>
+    </SMOKER>
+    <CAD id="DOC8" time="after DCT" indicator="mention">
+      <CAD id="C6" start="93" end="110" text="coronary disease " time="after DCT" indicator="mention" comment=""/>
+      <CAD id="C7" start="93" end="109" text="coronary disease" time="after DCT" indicator="mention" comment=""/>
+      <CAD id="C8" start="93" end="109" text="coronary disease" time="after DCT" indicator="mention" comment=""/>
+    </CAD>
+    <PHI id="P0" start="16" end="26" text="2091-11-15" TYPE="DATE"/>
+    <PHI id="P1" start="40" end="60" text="KELLIHER CARE CENTER" TYPE="HOSPITAL"/>
+    <PHI id="P2" start="156" end="159" text="Ted" TYPE="PATIENT"/>
+    <PHI id="P3" start="1365" end="1368" text="Ted" TYPE="PATIENT"/>
+    <PHI id="P4" start="1599" end="1602" text="Ted" TYPE="PATIENT"/>
+    <PHI id="P5" start="1801" end="1819" text="Ulysses B. Gilbert" TYPE="DOCTOR"/>
+    <PHI id="P6" start="1827" end="1830" text="KCC" TYPE="HOSPITAL"/>
+    <PHI id="P7" start="1831" end="1847" text="Gastrointerology" TYPE="DEPARTMENT"/>
+    <PHI id="P8" start="1877" end="1892" text="Yosef Q Ullrich" TYPE="DOCTOR"/>
+    <PHI id="P9" start="1901" end="1913" text="Jan 15, 2092" TYPE="DATE"/>
+  </TAGS>
+</root>
