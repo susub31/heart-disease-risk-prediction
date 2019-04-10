@@ -1,0 +1,3530 @@
+0	0	a	Record date: 2073-09-15
+1	0	a	CARDIOLOGY
+2	0	a	MAHASKA COUNTY HOSPITAL
+3	0	a	Reason for visit:
+4	0	a	   Angiography for claudication and chronic renal insufficiency
+5	0	a	Interval History:
+6	0	a	   Mr. Vines is a 70 year old male who has experienced claudication for approximately five to six years.
+7	0	a	He describes his claudication as bilateral shin pain which radiates up to his knees.
+8	0	a	His symptoms have worsened over the past two to three years and are now limiting his lifestyle.
+9	0	a	He is able to walk approximately two to three city blocks when the pain starts and is relieved with rest.
+10	0	a	He denies rest symptoms.
+11	0	a	He was recently evaluated by Dr. Curtis Cochran for his claudication syjmptoms.
+12	0	a	After an extensive conversation and a review of hsi options, Mr. Vines decided to pursue catheter based revascularization.
+13	0	a	He underwent adominal aortography and iliofemoral angiography today which demonstrated:
+14	0	a	-grossly patent celiac axis, SMA and IMA
+15	0	a	-single renal arteries bilaterally with ostial/proximal 65-70% stenosis on the left; the right renal artery has proximal 30% stenosis
+16	0	a	-diffuse atherosclerosis of the infrarenal abdominal aorta with 10-20% stenosis
+17	0	a	-right common iliac artery diffuse 20-30% stenosis
+18	0	a	-right internal iliac artery ostial 70% stenosis
+19	0	a	-right external iliac artery patent
+20	0	a	-right common femoral artery patent
+21	0	a	-right profunda femoris patent
+22	0	a	-right SFA with bulky, calcific eccentric 95% stenosis
+23	0	a	-left internal iliac ostial 40% stenosis
+24	0	a	-left external iliac aratery patent
+25	0	a	-left common femoral artery calcific eccentric 70% stenosis
+26	0	a	-left profunda femoris patent
+27	0	a	-diffuse left SFA 60-70% stenosis in the mid vessel with supraimposed focal 80-90% stenosis
+28	0	a	-total occlusion of the left popliteal artery with reconstitution at the TP trunk
+29	0	a	-total occlusion of the left anterior tibial artery
+30	0	a	-collaterals reconstitute the left peroneal and posterior tibial artery
+31	1	a	Mr. Vines underwent dilation of the left femoral artery, dilation of the popliteal occlusion and overlapping Absolute stents to his left SFA.
+32	0	a	He arrives to Internal Medicine mildly hypertensive with SBP 140-170s.
+33	0	a	Past medical history:
+34	0	a	   1.
+35	2	a	CAD s/p MI 11/72
+36	1	a	cath 11/72 with pRCA 90%-treated with stent, LAD 50%
+37	0	a	2.
+38	0	a	PVD
+39	0	a	3.
+40	0	a	Hyperlipidemia
+41	0	a	4.
+42	0	a	Hypertension
+43	0	a	5.
+44	0	a	Chronic Renal Insufficiency
+45	0	a	6.
+46	0	a	DM Type 2
+47	0	a	7.
+48	0	a	PUD/GIB
+49	0	a	8.
+50	0	a	Peripheral Neuropathy
+51	0	a	9.  s/p splenectomy
+52	0	a	10.  s/p appendectomy
+53	0	a	Medications (home)
+54	0	a	ECASA 325 mg po qd
+55	0	a	Toprol XL 50mg po qd
+56	0	a	Lisinopril 40mg po qd
+57	0	a	Lipitor 40mg po qd
+58	0	a	Nexium 20mg po qd
+59	0	a	Ferrous Gluconate 325mg po bid
+60	0	a	Imdur 30mg po qd
+61	0	a	Humulin 10-20 units qam
+62	0	a	Humulin 30-35 units qpm
+63	0	a	Allergies:
+64	0	a	Penicillin allergy   He has penicillin allergies which causes rash.
+65	0	a	Family history:
+66	2	a	   Mother died in her 50s of CAD, multiple siblings with CAD
+67	0	a	Social history:
+68	0	a	   He had a 100-pack-year smoking history and quit since his hospitalization.
+69	0	a	He has not had any cigarettes since discharge from the hospitalization.
+70	0	a	He drinks alcohol occasionally and currently is employed as an editor and works about 10 hours per week and during the day usually takes care of his grandchildren, and he currently lives in New Haven.
+71	0	a	Review of systems:
+72	0	a	   GEN:denies fever, chills, weight loss
+73	0	a	RESP: denies shortness of breath, PND, orthopnea, cough
+74	0	a	CV: denies chest pain, LE edema, +claudication as per HPI
+75	0	a	GI: recent treatment for H.Pylori, denies nausea, vomiting, constipation, diarrhea, BRBPR
+76	0	a	GU: denies hematuria, dysuria
+77	0	a	NEURO: denies TIA, CVA
+78	0	a	Physical examination:
+79	0	a	-BP:   left arm 178/80, right arm 174/80
+80	0	a	-Chest:   Lungs are clear to auscultation (anteriorly)
+81	0	a	-Cardiac:   RRR S1 S2 early systolic ejection mumur, no rubs or gallops
+82	0	a	-Abdomen:   Soft, nontender, +bowel sounds, unable to appreciate abdominal bruit
+83	0	a	-Pulse: 62  
+84	0	a	-General:   Pleasant male in NAD lying falt post procedure
+85	0	a	-Neck:   Carotids 2+, normal upstrokes, + bilateral carotid bruits R > L, JVP 6cm
+86	0	a	-Extremities:   Right femoral 1+, no bruit, no hematoma, PT 1+, DP 1+, Left femoral 1+, soft bruit, PT 1+, DP 1+, no ulcers
+87	0	a	-resp.
+88	0	a	rate: 18  
+89	0	a	-weight: 191  lbs.
+90	0	a	-height: 71  in.
+91	1	a	-BMI: 26.7  Overweight, moderate risk
+92	0	a	-Neuro:   Alert and oriented X 3, grossly intact
+93	0	a	Selected recent labs:
+94	0	a	 09/10/73 - NA 142, K 4.5, CL 108, CO2 23.9, BUN 37, CRE 1.5, GLU 106, CA 9.7, HCT 37.2, RBC 4.09, WBC 9.4, PLT 309, ALYMP 4.00, %MONO 8, %EOS 3, %BASO 1, PT 12.4, PTT 26.1
+95	0	a	07/24/73 - HGBA1C 8.10
+96	0	a	07/22/73 - CHOL 148, TRIG 137, HDL 50, LDL 71
+97	0	a	05/08/73 - PHOS 2.1, MG 1.4, PT-INR 1.1
+98	0	a	05/06/73 - UA-GLUC NEGATIVE, UA-SPGR >1.030, UA-BLD NEGATIVE, UA-PH 5.0, UA-ALB , UA-NIT NEGATIVE
+99	0	a	04/28/73 - TSH 0.62
+100	0	a	Assessment and plan:
+101	0	a	   Mr. Vines is a 70 year old male who presents today for angiograpy for lifestyle limiting claudication.
+102	1	a	He underwent dilation of his left common femoral artery, dilation of his popliteal occlusion and placement of two overlapping Absolute stents to his left SFA.
+103	0	a	There will be further discussion to undergo a staged intervention of his left reanl artery and right SFA calcific lesions as an outpatient.
+104	0	a	1.
+105	0	a	PVD-Plan to continue current medical regimen.
+106	0	a	Plan for Plavix for one month.
+107	0	a	Further discussions of his left renal artery and right SFA lesions to be discussed as an outpatient.
+108	0	a	Patient would benefit from CNIS due t his bilateral carotid stenoses but may obtain as an outpatient.
+109	0	a	CARDIAC
+110	1	a	ISCHEMIA-No symptoms.
+111	0	a	Continue his current regimen.
+112	0	a	His recent lipid panel is at target.
+113	0	a	PUMP-Euvolemic on exam.
+114	0	a	Hypertensive on arrival to unit and received additional nitrates.
+115	0	a	Will monitor response and consider added Norvasc.
+116	0	a	RATE/RHYTHM-Well controlled on Toprol.
+117	0	a	RENAL-Patient received sodium bicarbonate drip for renal protection.
+118	0	a	Plan to add mucomyst.
+119	0	a	Monitor renal function and urine output.
+120	0	a	Continue lisinopril as he as been taking this as an outpatient and tolerating it.
+121	0	a	PUD-Continue PPI.
+122	0	a	DISPO-Anticipate discharge home in the am and follow-up with Dr. Cochran and his cardiologist Edward Benitez.
+123	0	a	Further plans per Dr. Cochran.
+124	0	a	Patricia N. Vallejo ACNP-BC
+125	0	a	Signed electronically by   Patricia N Vallejo MS,RN,ACNP  on  Sep 15, 2073
+126	0	a	Record date: 2076-03-20
+127	0	a	                          OFFICE NOTE
+128	0	a	Lydia Levine
+129	0	a	MR #813-25-60-5
+130	0	a	March 20, 2076
+131	0	a	Ms. Levine is a 50-year-old, perimenopausal woman with non-
+132	0	a	insulin dependent diabetes, hypercholesterolemia, and a history
+133	0	a	of tobacco use, who underwent a recent cardiac catheterization
+134	4	a	for a positive stress test.
+135	0	a	At catheterization she had a
+136	0	a	proximal 60% lesion in her RCA as well as a mid 60-70% RCA
+137	0	a	lesion, obtuse marginal lesion of 60%, and an LAD mid lesion of
+138	0	a	60%.
+139	0	a	At the time it was decided to continue medical therapy on
+140	0	a	Ms. Levine.
+141	0	a	Since her cardiac catheterization approximately two
+142	0	a	weeks ago, she has had no recurrent symptoms of chest pain.
+143	0	a	She
+144	0	a	continues on her medicines including Lopid 500 mg b.i.d.,
+145	2	a	atenolol, aspirin, and sublingual nitroglycerin as needed, as
+146	0	a	well as her oral hypoglycemic medicines.
+147	0	a	Physical Examination:  She is an obese, white female in no acute
+148	0	a	distress.
+149	0	a	Her vital signs are stable.
+150	0	a	Lungs are clear to
+151	0	a	auscultation.
+152	0	a	Cardiac exam reveals regular rate and rhythm,
+153	0	a	normal S1 and S2; no murmurs, rubs or gallops.
+154	0	a	She has no
+155	0	a	peripheral edema.
+156	0	a	Electrocardiogram shows a normal sinus rhythm at a rate of 70,
+157	0	a	axis of about 46, and there are no acute ST-T changes noted.
+158	0	a	Impression/Plan:  We will continue Ms. Levine on her current
+159	0	a	cardiac regimen.
+160	2	a	She has three-vessel coronary artery disease,
+161	0	a	non-obstructive in nature.
+162	0	a	As long as she remains asymptomatic
+163	0	a	on her current medical regimen, we will continue to follow her.
+164	0	a	She will return for a follow-up visit in approximately three
+165	0	a	months.
+166	0	a	Quinn Ivey, M.D.
+167	0	a	DD: 03/20/76
+168	0	a	DT: 03/22/76
+169	0	a	DV: 03/20/76
+170	0	a	/aponte
+171	0	a	 ******** Not reviewed by Attending Physician ********
+172	0	a	Record date: 2151-03-15
+173	0	a	"	CARDIOLOGY"
+174	0	a	"	"
+175	0	a	"	FRANCISCAN HEALTH CENTER"
+176	0	a	"	Reason for visit:"
+177	4	a	   chest pain, with known LCX lesion admit for cardiac cath in am.
+178	0	a	Interval History:
+179	3	a	   75 yr old male who is admitted with new onset chest pain.
+180	0	a	Pt has a hx of significant   AAA  repair in '31and newly diagnosed nonoperable pancreatic cancer.
+181	0	a	During evaluation of pancreatic cancer, CT revealed pseudoaneurysm of aortic graft.
+182	0	a	Before start of chemotherapy, pt underwent surgical repair of pseudoaneurysm.
+183	1	a	2/16/51 Pt had successful surgical repair of the pseudoaneurysm, complicated by a intraoperative NSTEMI with a peak troponin of .36.
+184	0	a	2/20/51 echo done showing EF of 70%.
+185	4	a	2/22/51 cath revealing LM normal, LAD 40% stenosis after D1, 95% stenosis at ostium of D1 and LCX 80% at the takeoff of OM2 with 70%ostial OM2 lesion, and RCA non-dominant with no significant disease.
+186	0	a	Because pt was not having any symptoms of angina, the decision was made not to intervene on the LCX lesion and to stress the pt at a later date.
+187	0	a	Currently pt is to begin treatment of his pancreatic cancer with chemotherapy and radiation.
+188	3	a	Today pt was to have his first treatment, but starting having chest pain and was sent to the ER for further evaluation.
+189	3	a	Recently for the past three days, pt reports on and off chest pain lasting 4-5 hours with raidation to jaw and left arm at rest and excertion.
+190	0	a	No assciated symptoms of SOB or diaphoresis.
+191	0	a	Pt thought he was having heartburn symptoms.
+192	3	a	In the ER, EKG showed mild lateral ST depression in V5-V6, initial troponin neg and chest pain relieved with one SL nitrogylcerin.
+193	0	a	Heparin started and pt transferred pain free to Cardiology.
+194	3	a	Upon arrival, pt had one episode of chest pain, EKG showed no acute changes, chest pain relieved with one SL nitrogylcerin.
+195	0	a	Past medical history:
+196	0	a	   NIDDM
+197	0	a	Spinal stenosis
+198	0	a	Kidney stones
+199	0	a	HTN
+200	0	a	AAA repair '31
+201	0	a	Cholecystectomy
+202	0	a	Prostate Cancer '42, prostatectomy
+203	0	a	Lung Cancer RLL '43, lobectomy
+204	0	a	Medications at Home:
+205	0	a	Glyburide 10mg BID
+206	0	a	Lisinopril 5mg daily
+207	0	a	ASA 81mg daily
+208	0	a	Metoprolol 25mg BID
+209	0	a	Zocor 20mg daily
+210	0	a	Plavix 75mg daily
+211	0	a	Allergies:
+212	0	a	Allergy   IV contrast-parotid swelling
+213	0	a	Drug allergy   sudaphed-insomnia  oxycodone-GI intolerance
+214	0	a	"	Family history:"
+215	0	a	   Father died aged 61 lung cancer
+216	0	a	Mother died aged 71
+217	0	a	Sister died of kidney failure
+218	0	a	"	Social history:"
+219	0	a	   Married and retired industrial instrument technician.
+220	0	a	Has five grown children and three grandchildren.
+221	0	a	Smoked for 32 years, 1ppd and quit in the 20's.
+222	0	a	Denies any ETOH.
+223	0	a	Review of systems:
+224	0	a	   Denies any headaches, stroke, visual distrubances, syncope or seizures.
+225	3	a	Denies any chest pain, SOB, dizziness, or palpations.
+226	0	a	Denis any SOB, cough, or difficulty breathing.
+227	0	a	Denies any abd pain, nausea or vomiting, black or bloody stools.
+228	0	a	Denies any difficutly with urination.
+229	0	a	Denies any weakness, numbness, or tingling in the extremites.
+230	0	a	Physical examination:
+231	0	a	-BP: 190/102  
+232	0	a	-Pulse: 60  
+233	0	a	-resp.
+234	0	a	rate: 20  98%  on 2L NC
+235	0	a	-temp: 98.2  
+236	0	a	-General:   No acute distress.
+237	0	a	-Skin:   No rashes, anicteric.
+238	0	a	-HEENT:   Unremarkable
+239	0	a	-Neck:   Carotids 2+ without bruits.
+240	0	a	JVP no jugular venous distention.
+241	0	a	-Chest:   Clear to auscultation.
+242	0	a	-Cardiac:   Regular rate and rhythm, normal S1 and S2, with no S3 or S4.
+243	0	a	There were no murmurs, clicks or rubs.
+244	0	a	Porta cath noted to the right subclavin.
+245	0	a	-Abdomen:   Normal bowel sounds, soft and nontender, with no hepatosplenomegaly or masses appreciated.
+246	0	a	-Extremities:   No cyanosis, clubbing or edema.
+247	0	a	2+ femoral pulses without bruits.
+248	0	a	Bilateral vertical incisions noted with steri strips, C,D,I with no redness and no thrill or bruits noted.
+249	0	a	2+ pedal pulses.
+250	0	a	-Neuro:   A&O x3, MAE.
+251	0	a	EKG:
+252	0	a	   No acute ST changes, normal axis with good R wave progression and <.5mm ST depression in V5 and V6.
+253	0	a	Selected recent labs:
+254	0	a	"	 Metabolic"
+255	0	a	Date     NA       K        CL       CO2      BUN      CRE      GLU      CA       PHOS     MG       
+256	0	a	03/15/51 140      4.3      102      26.2     22       1.2      166      9.5      2.9      1.7      
+257	0	a	Cardiac enzymes
+258	0	a	Date     TROP-I   
+259	0	a	03/15/51 NEGATIVE 
+260	0	a	Liver and Pancreatic Enzymes
+261	0	a	Date     ALB      TP       ALKP     DBILI    TBILI    ALT/SGPT AST/SGOT LDH      AMY      LIPS     
+262	0	a	03/15/51 4.5      7.9      88       0.1      0.4      27       32                65       3.1      
+263	0	a	09/06/50                                                                145                        
+264	0	a	Hematology
+265	0	a	Date     HCT      RBC      WBC      PLT      %BAND-M  ALYMP    %MONO    %EOS     %BASO    
+266	0	a	03/15/51 37.8     4.31     9.2      176               2.15     6        6        0        
+267	0	a	03/05/51                                     9                                            
+268	0	a	Coagulation
+269	0	a	Date     PT       PT-INR   PTT      
+270	0	a	03/15/51 11.2     0.9      PEND     
+271	0	a	other
+272	0	a	Date     HGB      MCV      MCH      MCHC     RDW      DIFFR    %POLY-A  %LYMPH-A ANISO    HYPO     
+273	0	a	03/15/51 12.7     88       29.5     33.7     15.0     RECEIVED                   None     None     
+274	0	a	03/05/51                                                       70.0     12.0                       
+275	0	a	Date     MACRO    MICRO    DDIMR-NG %LYMPH   AEOSN    ABASOP   AMONS    %NEUT    ANEUT    METHOD   
+276	0	a	03/15/51 None     None     2096     24       0.53     0.03     0.50     64       5.93     Auto     
+277	0	a	03/05/51                                                                                           
+278	0	a	"	Assessment and plan:"
+279	3	a	   75 yr old male with unoperable pancreatic cancer who is s/p pseudoaneurysm repair and with LCX lesion who is having unstable angina, initial troponin negative and admit for cardiac cath in am.
+280	0	a	Plan:
+281	0	a	Admit to Cardiology
+282	0	a	Currently on ASA and Plavix, will continue.
+283	0	a	Continue ACE, BUN and Creatine WNL.
+284	0	a	Continue BB, HR and BP well controlled.
+285	0	a	Will cycle cardiac enzymes.
+286	0	a	NPO for cardiac cath in am, pt will dye allergy, will pre medicate with po prednisone and benadryl.
+287	0	a	Pt with recent surgical repair of pseudoaneurysm with bilateral arteriotomies of femoral arteries, question of sones approach.
+288	0	a	Food and Nutrition Consult.
+289	0	a	Will continue Heparin  and SS.
+290	0	a	Pt has porta cath, will be flushed per protocol.
+291	0	a	Of note chemotherapy infusion stopped in ER and pump noted at bedside.
+292	0	a	Dr. Angeline Barajas following for pancreatic cancer.
+293	0	a	Further orders per attending.
+294	0	a	-frances cramer, RN
+295	0	a	Signed electronically by  frances cramer, RN
+296	0	a	Document Status: Final
+297	0	a	Record date: 2075-12-14
+298	0	a	"	CARDIOLOGY"
+299	0	a	"	"
+300	0	a	"	FOLSOM CONVALESCENT HOSPITAL"
+301	0	a	"	Interval History:"
+302	1	a	   Mr.  Lilly is now 81 years old and it has been six and half years since his coronary bypass procedure.
+303	0	a	Since I saw him last six months ago, he has generally done well.
+304	0	a	He has not had any angina.
+305	0	a	No dyspnea, orthopnea, lightheadedness, dizziness, palpitations, or syncope.
+306	0	a	He has reduced his exercise to three days a week-he exercises vigorously when he does exercise, but this seems to give him a little bit more in the way of stamina.
+307	0	a	Past medical history:
+308	0	a	   Noncontributory.
+309	0	a	Current Medications:
+310	0	a	  Nexium 40 mg BID
+311	0	a	 Ecotrin 325 mg qd
+312	0	a	 Toprol XL 50 mg qd
+313	0	a	 Effexor 75 mg qam; Dir: and 37.5 mg qpm
+314	0	a	 metformin hydrochloride 850 mg BID
+315	0	a	 Zocor 40 mg; Dir: 4 days a week and 80 mg 3 days a week
+316	0	a	 ranitidine HCl 300 mg qhs
+317	0	a	 flaxseed oil; Dir: Gel
+318	0	a	 vitamin b12 1 mg qd
+319	0	a	 vitamin c
+320	0	a	 Omega 1 tab tid; Dir: 3 fatty acids
+321	0	a	"	Family history:"
+322	0	a	Social history:
+323	0	a	   He has four children and 10 grandchildren.
+324	0	a	He just returned to Tunisia to visit family.
+325	0	a	He does not smoke.
+326	0	a	Minimal alcohol.
+327	0	a	His wife recently had quite a bad fall.
+328	0	a	Review of systems:
+329	0	a	   Weight is stable.
+330	0	a	No GI problems.
+331	0	a	Otherwise negative.
+332	0	a	Physical examination:
+333	0	a	-Pulse:   60
+334	0	a	-BP: 145/70    140-145/70
+335	0	a	-resp.
+336	0	a	rate:   16
+337	0	a	-General:   He looks great
+338	0	a	-Neck:   The jugular venous pressure was less than 5.
+339	0	a	No carotid bruits.
+340	0	a	No palpable lymph nodes
+341	0	a	-Chest:   The lungs were clear to percussion and auscultation
+342	0	a	-Cardiac:   Showed an S4.
+343	0	a	Normal S1.
+344	0	a	No murmurs
+345	0	a	-Abdomen:   Liver and spleen are not enlarged
+346	0	a	-Extremities:   Good femoral, popliteal, and pedal pulses
+347	0	a	"	EKG:"
+348	0	a	    shows first-degree AV bock and minor ST and T changes.
+349	0	a	No change from July 2075.
+350	0	a	Assessment and plan:
+351	0	a	   Mr.  Lilly is generally doing well.
+352	0	a	His blood pressure is a little higher than it usually is in the office today, and we probably should have him on ACE inhibitor with his mild diabetes.
+353	0	a	On the other hand, he is a little worked up over his wife's injury, and we will monitor his pressure.
+354	0	a	For now, we will sit tight.
+355	0	a	He will have a full battery of chemistries tomorrow-he sees Dr.  Mccullough, so far so good with respect to his cardiac sinus.
+356	0	a	Plan: Monitor blood pressure.
+357	0	a	Low threshold for starting an ACE inhibitor.
+358	0	a	Chemistries tomorrow.
+359	0	a	See again in six months.
+360	0	a	Changes to Medications this visit
+361	0	a	Nexium 40 mg   BID
+362	0	a	Ecotrin 325 mg   qd
+363	0	a	Toprol XL 50 mg   qd
+364	0	a	Effexor 75 mg   qam and 37.5 mg qpm
+365	0	a	metformin hydrochloride 850 mg   BID
+366	0	a	Zocor 40 mg    4 days a week and 80 mg 3 days a week
+367	0	a	ranitidine HCl 300 mg   qhs
+368	0	a	flaxseed oil     Gel
+369	0	a	vitamin b12 1 mg   qd
+370	0	a	vitamin c    
+371	0	a	Omega  1 tab  tid 3 fatty acidsCC:
+372	0	a	"	Stephen N Mccullough M.D."
+373	0	a	Signed electronically by   Michael  Delarosa MD  on  Dec 15, 2075
+374	0	a	Record date: 2095-07-25
+375	0	a	BMH Senior Health Return Visit 
+376	2	a	CC: 79 yo man hx depression, psychosis, insomnia, CAD, syncope, HTN, DMT2, carotid stenosis, PVD, recent right inguinal hernia repair c/b hydrocele, recent TURP for Bladder outlet obs presents for f/u of these and other chronic health problems
+377	0	a	HPI: Briefly, patient to BMH with syncope in spring 2094.
+378	0	a	Work up unremarkable including cerebrovascular imaging, cardiac cath, EP study, loop recorder.
+379	2	a	Noted to have stable CAD and is on regimen for that including ACEI, BB, ASA, Statin.
+380	0	a	In hospital, was noted that pt had had 40 lb weight loss over previous months.
+381	0	a	Chronically elevated PSA noted.
+382	0	a	Bone scan performed was unremarkable.
+383	0	a	Right inguinal hernia noted, was repaired in October.
+384	0	a	Pt noted to be depressed and psychotic, requiring inpt hospitalization on Psych floor.
+385	0	a	Depn successfully treated and psychosis improved as well.
+386	0	a	Has been followed by Dr. Nobles s/p d/c.
+387	0	a	Presented to BMH in early Feb with abdominal pain, found to have bladder outlet obs from enlarged prostate leading to b/l hydronephrosis.
+388	0	a	Repeatedly failed voiding trials s/p d/c despite maximal medical therapy.
+389	0	a	Therefore, had an uncomplicated TURP.
+390	0	a	Since TURP, pt had successful voiding trial.
+391	0	a	Had been asked to continue his proscar and 2 flomax qd for another month, then stop proscar and continue with just one flomax qd after this period of time.
+392	0	a	Still taking both, however, at this time.
+393	0	a	Seen by cardiology .Felt stable from CV perspective.
+394	0	a	Recommended lower ext ABIs/PVRs which pt declined at time.
+395	0	a	Recommended restarting ASA s/p TURP.
+396	0	a	Mood stable.
+397	0	a	Has been only taking 3.75mg Zyprexa qd, not been taking 7.5mg as prescribed.
+398	0	a	Has been having some weight loss per hx -- however, not so upon checking of weights in LMR.
+399	0	a	"Notes that he feels weaker than usual --""weak as a kitten."""
+400	0	a	Feels coincides with when he was hospitalized and meds then started.
+401	0	a	Also notes watery eyes x few months.
+402	0	a	WOnders whether this can be due to FLomax 
+403	0	a	PMH:
+404	0	a	1.
+405	0	a	NIDDM.
+406	0	a	Had had DM for &gt;15 yrs
+407	0	a	2.
+408	0	a	HTN x yrs
+409	0	a	3.
+410	0	a	Hyperlipidemia
+411	0	a	4.
+412	0	a	BPH
+413	0	a	5.
+414	0	a	Diverticulosis ( noted on abd CT)
+415	0	a	6.
+416	0	a	Basal cell carcinoma excisions on chest: followed by dermatologist
+417	0	a	7.
+418	0	a	Carotids Stenosis
+419	0	a	8.
+420	0	a	Claudication: walks a couple blocks before begins feeling cramps in
+421	0	a	leg
+422	0	a	9.
+423	0	a	Glaucoma
+424	0	a	10.
+425	0	a	Inguinal Hernia: 9/93 pending surgery
+426	0	a	11.
+427	0	a	?Ventral hernia
+428	0	a	12: Depression
+429	0	a	13: Psychosis
+430	0	a	14: Insomnia
+431	0	a	Medications
+432	0	a	Aspirin (ACETYLSALICYLIC ACID) 325 MG (325MG TABLET take 1) PO QD , on hold for hematuria 3/02/2095 
+433	0	a	Brimonidine TARTRATE 1 DROP (0.2% DROPS ) OU QAM 
+434	0	a	Cilostazol 100 MG (100MG TABLET take 1) PO BID , 3/022095 on hold for hematuria #90 Tablet(s)
+435	0	a	Dulcolax (BISACODYL) 5 MG (5MG TABLET take 1) PO QD 
+436	0	a	Flomax (TAMSULOSIN) 0.8 MG (0.4MG CAP.SR 24H take 2) PO QPM x 30 days #60 CAP.SR
+437	0	a	Glipizide 2.5 MG (5MG TABLET take 0.5) PO bid , before BK and dinner
+438	0	a	Metoprolol TARTRATE 12.5 MG (25MG TABLET take 0.5) PNGT BID x 90 days #90 Tablet(s)
+439	0	a	Mvi (MULTIVITAMINS) 1 TAB PO QD #1 Bottle(s)
+440	0	a	Norvasc (AMLODIPINE) 10 MG (5MG TABLET take 2) PO QD #90 Tablet(s)
+441	0	a	Proscar (FINASTERIDE (BPH)) 5 MG (5MG TABLET take 1) PO QD x 30 days #30 Tablet(s)
+442	0	a	Psyllium PACKET take 1 PO QD PRN 
+443	0	a	Remeron (MIRTAZAPINE) 15 MG (30MG TABLET take 0.5) PO QPM #90 Tablet(s)
+444	0	a	Sennosides 1 TAB PO QD 
+445	0	a	Zocor (SIMVASTATIN) 80 MG (80MG TABLET take 1) PO QHS #90 Tablet(s)
+446	0	a	Zyprexa (OLANZAPINE) 7.5 MG (5MG TABLET take 1.5) PO QD , Take 1 tab at bedtime #90 Tablet(s) 
+447	0	a	Allergies: NKDA
+448	0	a	Health Maintenance:
+449	0	a	Pneumovax: Has had in past 
+450	0	a	Influenza Vaccine: Gets flu vaccine each year - got this year through FHV
+451	0	a	Colonoscopy: Done in 2094 showing only mild sigmoid tics
+452	0	a	Pap test: n/a
+453	0	a	Mammograms: n/a
+454	0	a	Dex screening: never
+455	0	a	Dental: Sees dentist Dr. Uecker every few years
+456	0	a	Opthalmologic: Sees yearly through FHV
+457	0	a	Functional Status:
+458	0	a	ADLs: independent
+459	0	a	IADLs: independent
+460	0	a	Mobility: independent
+461	0	a	HCP: Wife, Ernestine is primary proxy.
+462	0	a	Alternative is daughter, Teresa Berry.
+463	0	a	PE:
+464	0	a	BP 112/58, P 60, RR 16, Temp 96.9 F, Ht 70 in, Wt 208 lb
+465	0	a	BMI 29.9 
+466	0	a	Gen: NAD, Ox3, Alert, pleasant, normal affect, normal thought process and content, denies AH, VH, SI.
+467	0	a	HEENT: PERRL, JVP 8cm
+468	0	a	Chest: CTA b/l
+469	0	a	Heart: RRR, normal s1 an s2
+470	0	a	Abd: obese, distended, soft, no organomegaly
+471	0	a	Ext: No edema b/l, distal legs hairless, 1+ DP pulses b/l, venous stasis changes, no ulcers
+472	0	a	Skin: no rashes, no lesions
+473	0	a	Neuro: CN 2-12 intact.
+474	0	a	Gait WNL
+475	0	a	Impression/Plan by issue:
+476	0	a	Urinary retention: s/p successful TURP.
+477	0	a	on Flomax/Proscar.
+478	0	a	Likely does not need Proscar at this time per 3/27 urology note.
+479	0	a	Will d/c.
+480	0	a	?
+481	0	a	need for FLomax s/p TURP given findings of weakness/runny eyes.
+482	0	a	WIll set up with Dr. Eastman for f/u.
+483	0	a	Depression: Appears fairly euthymic.
+484	0	a	Getting f/u thru Dr. Nobles and FHV.
+485	0	a	Continue Remeron.
+486	0	a	PRN f/u with me if symptoms worsen -- have explained this to pt  who agrees with plan.
+487	0	a	Psychosis: No evidence currenlty.
+488	0	a	On Zyprexa, had been taking half of prescribed dose.
+489	0	a	Dose not want further increase at this time.
+490	0	a	Ok as w/o delusions/psychosis.
+491	0	a	Weakness: Given low BP today, ?
+492	0	a	relationship to low BP vs. polypharmacy.
+493	0	a	TSH/CBC today.
+494	0	a	D/c proscar.
+495	0	a	Hope to D/c FLomax in near future.
+496	0	a	Runny eyes: ?relation to FLomax.
+497	0	a	Hope to be able to stop s/p urology visit.
+498	0	a	No evidence bacterial conjunctivitis at this time.
+499	0	a	Ophthalmology visit.
+500	0	a	Syncope: No further episodes.
+501	0	a	Getting f/u with cards for REVEAL interrogation.
+502	0	a	Constipation: Resolved.
+503	0	a	Now with daily BMs.
+504	0	a	Have encouraged continued adherence to laxatives.
+505	0	a	NTD
+506	0	a	Hernia: Repaired.
+507	0	a	No evidence of recurrence
+508	2	a	CAD: No CP.
+509	0	a	continue ASA, BB, ACEI.
+510	0	a	CP free.
+511	0	a	NTD for now
+512	0	a	PVD: stable symptoms.
+513	0	a	On full dose ASA.
+514	0	a	Pt not wanting further studies to characterize degree of disease at this time.
+515	0	a	Hyperlipidemia: Previous fasting lipid panel with LDL 51.
+516	0	a	Old data -- will resend today.
+517	0	a	Sending LFTs as well.
+518	0	a	12.
+519	0	a	DM: Recent A1c of 6.7.
+520	0	a	A1c today.
+521	0	a	13.
+522	0	a	HTN: BP today WNL.
+523	0	a	No changes in medication today.
+524	0	a	14.
+525	0	a	Hx elevated PSA: Hx of PSA ~9.5.
+526	0	a	Has gotten biopsy at FHV, WNL.
+527	0	a	Bone scan WNL.
+528	0	a	Now s/p TURP.
+529	0	a	PSA today
+530	0	a	15.
+531	0	a	Health maintenance: Pneumovax gotten thru FHV.
+532	0	a	Has had colo. 
+533	0	a	16.
+534	0	a	RTC in 4 months, sooner PRN; will fax labs to Dr. Potts at Florence Heights Village, phone 668-508-1062; fasx 534-184-9285
+535	0	a	Yusuf Lugo, MD, 42390
+536	0	a	Record date: 2095-12-03
+537	0	a	INTERNAL MEDICINE ASSOCIATES
+538	0	a	YORK CONVALESCENT HOSPITAL
+539	0	a	Reason for visit
+540	0	a	"	"
+541	0	a	  F/U multiple issues
+542	0	a	Major Problems
+543	0	a	Benign prostatic hypertrophy
+544	0	a	Followed by Urology.
+545	0	a	Remains with suprapubic.
+546	0	a	To have surgery in Jan 96
+547	0	a	Emphysema
+548	0	a	Prior tobacco.
+549	0	a	Does get COPD exacerbation from time to time.
+550	0	a	Element of asthma followed by pulm
+551	0	a	Hypertension
+552	0	a	On multiple meds.
+553	0	a	Will increase Lisinopril
+554	0	a	Hyperlipidemia
+555	0	a	On Lipitor
+556	0	a	Peripheral edema
+557	0	a	Takes lasix PRN
+558	0	a	Gastritis
+559	0	a	Not currently an issue
+560	2	a	Coronary artery disease
+561	1	a	Stent placed 3/11/95.
+562	0	a	Followed by Dr. Hall (Cardiology).
+563	0	a	Reports increasing frequency exertional pain
+564	0	a	Other Problems
+565	0	a	Smoking status: former smoker
+566	0	a	D/C 2060's
+567	0	a	Allergies
+568	0	a	No known allergies   He has no known allergies.
+569	0	a	No known drug allergy   
+570	0	a	Active Medications
+571	0	a	atorvastatin 10 mg po qhs
+572	0	a	furosemide 20mg po qd
+573	0	a	isosorbide mononitrate 30 mg sr po qd
+574	0	a	K dur 20meq po qd
+575	0	a	Levaquin 500 mg PO QD
+576	0	a	lisinopril 20 mg po qd
+577	0	a	Plavix 75mg po qd
+578	0	a	Singulair 10 mg qd
+579	0	a	terazosin 10 mg bid prostate
+580	0	a	Toprol xl 25 mg po qd
+581	0	a	triamcinolone 0.1 % Top BID
+582	0	a	Change in therapies and Renewals
+583	0	a	lisinopril 20 mg po qd QTY:90 Refills:3 Start: 9/3/2095
+584	0	a	Past medical history
+585	0	a	  See Problem list
+586	0	a	Family history
+587	0	a	  4 brothers/4 sisters
+588	0	a	Social history
+589	0	a	  Married; retired; 5 kids
+590	0	a	Habits/Risk Screening
+591	0	a	Smoking status: former smoker  D/C 2060's
+592	0	a	Alcohol use status: none/minimal  
+593	0	a	Review of systems
+594	0	a	  Otherwise neg in detail
+595	0	a	Physical examination
+596	0	a	Blood pressure 160/58  
+597	0	a	Weight 193.4  lbs 
+598	0	a	Temperature Afebrile  
+599	0	a	General appearance   Well developed, well nourished, no acute distress.
+600	0	a	Heent   NC/AT, PERRL, EOMI, O/P clear without erythema or exudates.
+601	0	a	Nodes   No cervical appreciated.
+602	0	a	Chest   Decreased A/E, scattered wheeze
+603	0	a	Cor   RRR nl s1, s2 without m/r/g.
+604	0	a	Abdomen   NT/ND, no HSM.
+605	0	a	Normal active bowel sounds.
+606	0	a	Extrem   Trace of peripheral edema bilaterally.
+607	0	a	Neuro   A&O x3, CN 2-12 grossly intact
+608	0	a	Selected recent labs
+609	0	a	  11/08/95 MCV 84, 11/08/95 PLT 289, 11/08/95 RBC 3.87 L, 11/08/95 HGB 11.7 L, 11/08/95 HCT 32.5 L, 11/08/95 WBC 10.7, 11/08/95 Glucose (Stat Lab) 194 H, 11/08/95 Creatinine (Stat Lab) 1.0, 11/08/95 BUN (Stat Lab) 22, 11/08/95 Chloride (Stat Lab) 107, 09/04/95 Ferritin 76, 09/04/95 Folic Acid 11.1, 09/04/95 Iron Binding Capacity 332, 09/04/95 Iron 31 L, 06/02/95 PSA, Monitor 11.3, 04/21/95 Low Density Lipoprotein 53, 04/21/95 High Density Lipoprotein 41, 04/21/95 Triglycerides 55, 04/21/95 Cholesterol 105, 03/12/95 Thyroid Stimulating Hormone 1.94  06/02/95 PSA, Monitor 11.3
+610	0	a	Assessment and plan
+611	2	a	  1) CAD - Stable at present: Continue meds
+612	0	a	2) HTN - Poor control.
+613	0	a	Increase Lisinopril
+614	0	a	3) Cholesterol - last profile 4/95 (LDL at goal)
+615	0	a	4) BPH - On Terazosin.
+616	0	a	Elevated PSA - Plan for intervention in Jan 96
+617	0	a	5) Gastritis - Not currently active
+618	0	a	6) COPD - Continue meds.
+619	0	a	F/U Pulm
+620	0	a	7) Edema - Continue Lasix
+621	0	a	HCM - Colonscopy; Stool cards; PSA (6/95); needs Pneumovax 
+622	0	a	Disposition
+623	0	a	F/U 4 months 
+624	0	a	Signed electronically by Overby, Fred  on Dec 3, 2095
+625	0	a	Record date: 2064-05-25
+626	0	a	CARDIAC SURGERY
+627	0	a	HEARTLAND COUNTY CLINIC
+628	0	a	Narrative Note:
+629	0	a	"			"
+630	0	a	June 25, 2064
+631	0	a	Dr. Charles Uher
+632	0	a	Danville State Hospital
+633	0	a	9362 Massachusetts Drive
+634	0	a	Clyde, NV  14436
+635	0	a	RE:  Michael Isenberg
+636	0	a	HCC# - 367-41-93
+637	0	a	Dear Dr. Uher:
+638	0	a	I saw our mutual patient, Mr. Isenberg, today in my office for a routine followup wound check.
+639	0	a	As you know, this is an 81 year-old man with a history of chronic renal insufficiency and diabetes.
+640	1	a	He underwent an off-pump double bypass on 3/31/64.
+641	0	a	He had an excellent post-operative recovery being discharged on day five.
+642	0	a	Since home, he reports having no further symptoms of shortness of breath or chest pain.
+643	0	a	He has been gradually increasing his daily activity and is now walking about five to ten minutes a day and two flights of steps.
+644	0	a	I have suggested that he gradually increase his daily exercise.
+645	0	a	On examination today his heart rate was 80 and regular.
+646	0	a	His chest incision was well healed and his sternum stable.
+647	0	a	His lungs were clear bilaterally.
+648	0	a	He had mild edema at his right ankle and a well-healed endoscopic vein harvest site.
+649	0	a	His current medications are aspirin 325 a day, Nexium 20 a day, Lisinopril 2.5 a day, Atenolol 25 a day, Plavix 75 a day, Glimepiride 1 mg. PO b.i.d., and Lipitor 80 mg. a day.
+650	0	a	Overall, I am obviously delighted to see Mr. Isenberg having recovered without complication from his revascularization.
+651	0	a	I trust that you have received a copy of his Discharge Summary previously.
+652	0	a	If not please let me know and we   ll forward you this.
+653	0	a	Thanks for letting us participate in the care of this pleasant gentleman and let me know if I can be of further assistance.
+654	0	a	Sincerely,
+655	0	a	Ian K. Ignacio, M.D.
+656	0	a	IKI:werner 
+657	0	a	Signed electronically by   Ian  Ignacio MD  on  Jun 30, 2064
+658	0	a	Record date: 2079-04-08
+659	0	a	OFFICE NOTE
+660	0	a	Perla Esposito
+661	0	a	MRN:146-55-23-5
+662	0	a	4/08/79
+663	0	a	Follow-up visit for this 77-year-old Chilean woman.
+664	0	a	She comes today bothered by right-sided shoulder pain.
+665	0	a	On a
+666	0	a	previous visit she had complained of this and I wanted to put her
+667	0	a	on Motrin but she wanted to try Tylenol.
+668	0	a	The pain bothers her
+669	0	a	sometimes at night and is throbbing.
+670	0	a	It bothers her when she
+671	0	a	tries to attach her bra behind her back.
+672	0	a	Other than that she has
+673	0	a	been doing fairly well.
+674	0	a	She has not had any chest pains.
+675	0	a	She has
+676	0	a	not had any symptoms of TIAs.
+677	0	a	She has a lot of concern about her
+678	0	a	chronic renal insufficiency and wants to discuss this.
+679	0	a	Medications: Lopressor.
+680	0	a	Hydochlorothiazide.
+681	0	a	Procardia XL.
+682	0	a	Micronase.
+683	0	a	Motrin.
+684	0	a	Aspirin.
+685	0	a	Allergies: Lisinopril causes hypokelemia.
+686	0	a	Family History: Non-contributory.
+687	0	a	Social History: She has a daughter, Rhodes, who has been very
+688	0	a	supportive.
+689	0	a	No cigarettes or alcohol.
+690	0	a	Review of Systems: She refuses general GYN screening.
+691	0	a	She had a
+692	0	a	hemoglobin A1C in March, which was 6.4.
+693	0	a	She had an ophthalmology
+694	0	a	exam in September.
+695	0	a	Physical Examination: Worried.
+696	0	a	Weight 131 lb.
+697	0	a	Blood pressure
+698	0	a	142/60.
+699	0	a	Pulse is 72.
+700	0	a	Skin exam unremarkable.
+701	0	a	HEENT: EOMI.
+702	0	a	No
+703	0	a	scleral icterus.
+704	0	a	No lymphadenopathy.
+705	0	a	No thyromegaly.
+706	0	a	I cannot
+707	0	a	hear any carotid bruits.
+708	0	a	Lungs are clear.
+709	0	a	No murmurs.
+710	0	a	No gallops.
+711	0	a	Benign abdomen.
+712	0	a	No hepatomegaly.
+713	0	a	No splenomegaly.
+714	0	a	No pedal edema.
+715	0	a	Examination of the right shoulder shows that she has tenderness
+716	0	a	on abduction beyond 110 but her most marked tenderness is with
+717	0	a	her internal rotation and she is unable to do this further than
+718	0	a	L5.
+719	0	a	Procedure: The right subdeltoid bursa was prepped with Betadine.
+720	0	a	The skin was infiltrated with 1% Xylocaine in a 27 gauge needle.
+721	0	a	The subdeltoid bursa itself was entered with a 21 gauge needle
+722	0	a	and a mixture of 1cc of 1% Xylocaine and 40mg of Depo-Medrol was
+723	0	a	injected.
+724	0	a	She tolerated the procedure well.
+725	0	a	Page 2                
+726	0	a	1.
+727	0	a	Rotator Cuff Tendonitis.
+728	0	a	She received an injection as above.
+729	0	a	2.
+730	2	a	CAD.
+731	0	a	Doing well without symptoms.
+732	0	a	3.
+733	0	a	Hypertension.
+734	0	a	Good control.
+735	0	a	4.
+736	0	a	Elevated Cholesterol.
+737	0	a	Her cholesterol has been better
+738	0	a	controlled.
+739	0	a	5.
+740	0	a	Cerebral Vascular Disease.
+741	0	a	She is doing well after her
+742	0	a	andardirectomy.
+743	0	a	She has a mild facial droop otherwise no clear
+744	0	a	evidence of stroke.
+745	0	a	6.
+746	0	a	Diabetes.
+747	0	a	She has excellent hemoglobin A1C and has had recent
+748	0	a	ophthalmology exam.
+749	0	a	Ulises J. Kelley, M.D.
+750	0	a	UJ: kuhn     
+751	0	a	 ******** Not reviewed by Attending Physician ********
+752	0	a	Record date: 2075-07-07
+753	0	a	INTERNAL MEDICINE ASSOCIATES
+754	0	a	FOLSOM CONVALESCENT HOSPITAL
+755	0	a	Reason for visit
+756	0	a	"			"
+757	0	a	  Annual Examination
+758	0	a	History of present illness
+759	0	a	  Feeling great.
+760	0	a	Weight gain.
+761	0	a	Spinal stenosis still aggravating and limiting.
+762	0	a	Groin rash.
+763	0	a	Recenrt examination by Dr. Delarosa (all well).
+764	0	a	Problem List (reviewed)
+765	0	a	Hyperlipidemia MAJOR 
+766	0	a	Anemia MAJOR 
+767	2	a	Coronary artery disease MAJOR 
+768	0	a	Stroke MAJOR 
+769	0	a	Dizziness MAJOR 
+770	0	a	Hypertension MAJOR 
+771	0	a	Impotence MAJOR 
+772	0	a	Benign prostatic hypertrophy MAJOR 
+773	0	a	Glucose intolerance MAJOR 
+774	0	a	Radiculopathy MAJOR 
+775	0	a	Hematuria MAJOR 
+776	0	a	Spinal stenosis MAJOR 
+777	0	a	Squamous cell carcinoma of skin 
+778	0	a	Overweight 
+779	0	a	Diabetes mellitus (adult onset) 
+780	0	a	Tinea cruris 
+781	0	a	Major Problems
+782	0	a	Hyperlipidemia
+783	0	a	LDL still > 70 may need more statin 10/1/73
+784	0	a	Anemia
+785	0	a	Dr. Vitale colonoscopy at Parker Hospital 1/2069 results?
+786	2	a	Coronary artery disease
+787	1	a	s/p bypass 5 vessel 6/16/2069
+788	0	a	Dr. Delarosa and Dr. Land
+789	0	a	Stroke
+790	0	a	Dizziness
+791	0	a	resolved off Altace
+792	0	a	Hypertension
+793	0	a	Impotence
+794	0	a	No erections for two years.
+795	0	a	Thinking about Viagra.
+796	0	a	Asked Dr. Delarosa in June 2070 who advised against use.
+797	0	a	Benign prostatic hypertrophy
+798	0	a	s/p TURP X 2 ( In PH)
+799	0	a	Glucose intolerance
+800	0	a	Radiculopathy
+801	0	a	New symptom.
+802	0	a	Decreased sensation at finger tips - 2nd,3rd, and 4th digits.
+803	0	a	Also notes suble weakness with change in handwriting.
+804	0	a	8/29/71 Carpal tunnel per EMG/NCS 1/3/72
+805	0	a	Hematuria
+806	0	a	Negative work up by Dr. Villalobos (cystoscopy , CT) 2073
+807	0	a	Spinal stenosis
+808	0	a	Feels legs are heavy.
+809	0	a	No pain.
+810	0	a	Upright position.
+811	0	a	Other Problems
+812	0	a	Squamous cell carcinoma of skin
+813	0	a	Overweight
+814	0	a	Diabetes mellitus (adult onset)
+815	0	a	Tinea cruris
+816	0	a	Active Medications
+817	0	a	calcium supplement 
+818	0	a	Ecotrin 325 mg PO QD
+819	0	a	Effexor 75 mg PO QD total of 90
+820	0	a	erythromycin (ilotycin) ointment 2 tubes apply bid
+821	0	a	flaxseed oil 
+822	0	a	folic acid 
+823	0	a	metformin hydrochloride 850 mg po bid take with meals
+824	0	a	Nexium 20 mg PO QD total of 90
+825	0	a	Toprol xl 50 mg PO QD total of 90
+826	0	a	vitamin c 
+827	0	a	vitamin e 
+828	0	a	Zocor 40mg po qpm
+829	0	a	Family history
+830	0	a	Social history
+831	0	a	  Still active in business.
+832	0	a	He is Treasurer for the Masons.
+833	0	a	Does not smoke.
+834	0	a	Drinks a few glasses of wine or Martini at night.
+835	0	a	He has 10 grandchildren.
+836	0	a	Habits/Risk Screening
+837	0	a	Smoking status: never smoked  
+838	0	a	Alcohol use status: moderate  
+839	0	a	Activity level: moderate  
+840	0	a	Review of systems
+841	0	a	  Leg cramps.
+842	0	a	Early fatigue.
+843	0	a	No chest pain, SOB, GI or GU issues
+844	0	a	Physical examination
+845	0	a	Blood pressure 140/80  
+846	0	a	Pulse   72 and regular
+847	0	a	Respiratory rate 16  
+848	0	a	Weight 185  
+849	0	a	General appearance   Well developed, well nourished, no acute distress.
+850	0	a	Skin   groin rash
+851	0	a	Heent   NC/AT, PERRL, EOMI, O/P clear without erythema or exudates.
+852	0	a	Neck   Carotids, no bruits.
+853	0	a	Thyroid, nonpalpable
+854	0	a	Nodes   No cervical, axillary or groin adenopathy appreciated.
+855	0	a	Chest   Clear to auscultation bilaterally.
+856	0	a	scar
+857	0	a	Cor   PMI at 5th ICS, MCL.
+858	0	a	RRR nl s1, s2 without m/r/g.
+859	0	a	Abdomen   NT/ND, no HSM.
+860	0	a	Normal active bowel sounds.
+861	0	a	Rectal exam   Guaiac negative.
+862	0	a	Prostate, slightly enlarged
+863	0	a	Genitalia   Genitalia, within normal
+864	0	a	Extrem   Within normal limits.
+865	0	a	Pulses intact.
+866	0	a	He has fungal infections of his nails on his  feet
+867	0	a	Musc skel   Stands, walks , squats w/o difficulty.
+868	0	a	pulses intact strength intact.
+869	0	a	DTRs intact
+870	0	a	Assessment and plan
+871	0	a	  Severe spinal stenosis.
+872	2	a	CAD/CABG stable.
+873	0	a	Lipid, BS, BP managed.
+874	0	a	Tinea start ketoconazole.
+875	0	a	BPH.
+876	0	a	Weight issues.
+877	0	a	H/o SCC.
+878	0	a	Disposition
+879	0	a	rtc 3 months 
+880	0	a	Signed electronically by Mccullough, Stephen N on Jul 07, 2075
+881	0	a	Record date: 2097-08-11
+882	0	a	EDVISIT^29964344^WHITAKER, VINCENT^08/11/97^TRAN, FREDDY
+883	0	a	I confirm that I have interviewed and examined the patient,
+884	0	a	reviewed the resident's documentation on the patient's chart, and
+885	0	a	discussed the evaluation, plan of care, and disposition with the
+886	0	a	patient and the resident, Dr. Nieto.
+887	0	a	Please see her note for
+888	0	a	full details.
+889	0	a	HISTORY OF PRESENT ILLNESS:  The patient is a 65-year-old
+890	0	a	gentleman with significant past medical history of hypertension;
+891	0	a	diabetes; AFib; CHF; chronic renal insufficiency; end-stage renal
+892	0	a	disease on hemodialysis Monday, Wednesday and Friday; history
+893	1	a	of PE and cardiac arrest as well as bacteremia who presents with
+894	0	a	cough, weakness, chest pain, and palpitations.
+895	0	a	At dialysis he
+896	0	a	was found coughing and was sent here via ambulance.
+897	0	a	He notes
+898	0	a	decreased appetite.
+899	0	a	He denies any fevers.
+900	0	a	He has noted some
+901	0	a	chills, some sweats, and some shortness of breath.
+902	0	a	PHYSICAL EXAMINATION:  He is slow.
+903	0	a	Temperature 95.9, pulse 89,
+904	0	a	respiratory rate 18, blood pressure 180/71, and saturation is 95%
+905	0	a	on 2 liters.
+906	0	a	He looks dyspneic, dehydrated with neck that is
+907	0	a	supple.
+908	0	a	No rales, rhonchi, or wheezing.
+909	0	a	Heart is regular
+910	0	a	without a murmur.
+911	0	a	Abdomen is soft, nontender, and nondistended.
+912	0	a	Skin is intact.
+913	0	a	He has 2+ pedal edema.
+914	0	a	He appears to be
+915	0	a	lethargic but no focal neurologically.
+916	0	a	LABORATORY DATA:  Review of his blood work shows a BUN of 31,
+917	0	a	creatinine of 6.07, sodium of 139, potassium of 5.6 and
+918	0	a	bicarbonate of 32.
+919	0	a	LFTs are normal.
+920	0	a	Lipase is 63.
+921	0	a	BNP is 501.
+922	0	a	Lactic acid is 3.
+923	0	a	Troponin is 0.04.
+924	0	a	White count 5, hematocrit
+925	0	a	42, and INR 2.
+926	0	a	Chest x-ray shows cardiomegaly, no acute
+927	0	a	pneumonia.
+928	0	a	An EKG with rate 106, normal ST-T changes.
+929	0	a	EMERGENCY DEPARTMENT COURSE:  The patient was covered empirically
+930	0	a	with vancomycin, ceftazidime, given gentle IV fluid bolus and is
+931	0	a	being admitted to Renal Medicine.
+932	0	a	At this time, he is
+933	0	a	hemodynamically stable.
+934	0	a	PRIMARY DIAGNOSIS:  Weakness, end-stage renal disease, and
+935	0	a	possible early infection including bacteremia.
+936	0	a	______________________________
+937	0	a	TRAN, FREDDY M.D.
+938	0	a	D: 08/11/97
+939	0	a	T: 08/11/97
+940	0	a	Dictated By: TRAN, FREDDY
+941	0	a	eScription document:1-0225776 BFFocus
+942	0	a	 ******** Not reviewed by Attending Physician ********
+943	0	a	Record date: 2081-12-03
+944	0	a	"	CARDIOLOGY"
+945	0	a	"	"
+946	0	a	"	ALGIERS MEDICAL CENTER"
+947	0	a	Nicholas M Osuna M.D.
+948	0	a	Internal Medicine
+949	0	a	AMC Interoffice Mail
+950	0	a	,  
+951	0	a	Dear Dr.  Osuna:
+952	0	a	  I had the pleasure of seeing Mr.  Nicholas Cortez in my office today in Cardiology at AMC.
+953	1	a	As you know, he is a 61-year-old white male who has a history of myocardial infarction approximately six years ago, stenting at that time, and subsequently had another stent placed in 2076.
+954	1	a	He has been noted to have an anteroapical aneurysm and when I saw him in October, was having some discomfort which may have been myocardial ischemia and angina.
+955	0	a	His blood pressure was elevated, so we added Diovan to control the blood pressure.
+956	0	a	He has had some dimunition in the symptoms and the frequency of these symptoms got arrangement for.
+957	0	a	Exercise test was also put in place and the exercise results are now available as well as the echocardiography that had been scheduled at that time.
+958	0	a	He still has occasional ankle swelling, but is able to walk without discomfort.
+959	0	a	He has gained some weight over the summer and is having difficulties staying away from salty foods, particularly he likes pastrami.
+960	0	a	He is no longer using a CPAP.
+961	0	a	Current Medications:
+962	0	a	  aspirin 325 mg qd
+963	0	a	 Diovan 80 mg qd
+964	0	a	 Imdur 30 mg qd
+965	0	a	 Lasix 10 mg qd
+966	0	a	 Lipitor 20 mg qd
+967	0	a	 lisinopril 40 mg qd
+968	0	a	 nitroglycerin
+969	0	a	"	Family history:"
+970	0	a	   Unchanged from previous visits.
+971	0	a	Social history:
+972	0	a	Review of systems:
+973	0	a	Physical examination:
+974	0	a	-Pulse:   80 and regular
+975	0	a	-BP: 135/90  
+976	0	a	-resp.
+977	0	a	rate:   12 and unlabored
+978	0	a	-General:   He is a mildly overweight white male in no acute distress.
+979	0	a	Alert and cooperative.
+980	0	a	Oriented x 3
+981	0	a	-Heent:   No xanthelasma, scleral icterus, proptosis, or lid lag.
+982	0	a	Mucous membranes are moist.
+983	0	a	Trachea is midline
+984	0	a	-Neck:   Thyroid is nonpalpable.
+985	0	a	Carotids are 2+ without bruits, have a normal upstroke.
+986	0	a	JVP is less than 7 cm of water
+987	0	a	-Chest:   Clear without rales, rhonchi, or wheezes
+988	0	a	-Cardiac:   Normal S1 and S2, a grade 1/6 holosystolic murmur at the left sternal border
+989	0	a	-Abdomen:   Normal bowel sounds.
+990	0	a	No organomegaly.
+991	0	a	No pulsatile masses
+992	0	a	-Extremities:   Peripheral pulses are 2+ and symmetric.
+993	0	a	He has trace pedal edema bilaterally
+994	0	a	Procedures:
+995	0	a	Echocardiogram STATUS POST shows an ejection fraction of 67%.
+996	0	a	concentric LVH, mildly dilated left ventricle with regional wall motion abnormalities, trace mitral regurgitation, and trace tricuspid regurgitation.
+997	0	a	Stress test STATUS POST nuclear stress test; which showed limited exercise capacity exercising for 5 minutes and 28 seconds.
+998	0	a	Imaging showed an ejection fraction of 31%.
+999	4	a	Perfusion images showed mild-to-distal anteroapical and septal scars associated with mild distal anterior ischemia.
+1000	0	a	The apex appeared more aneurysmal than the previous stress test and the LV was more dilated with a decrease in left ventricular ejection fraction from 38 to 31.
+1001	0	a	EKG:
+1002	1	a	    shows normal sinus rhythm, left atrial enlargement, and a right bundle branch block with an old IMI.
+1003	0	a	Assessment and plan:
+1004	1	a	   In summary, this is a very pleasant 61-year-old gentleman who has a history of a large anteroseptal MI approximately six years ago, had stenting his LAD in 2076, and now has a recurrence of what sounds like possible angina and a positive stress test has a decrease in LV function, increase in LV aneurysmal dilatation, and ischemia in the anterior distribution.
+1005	0	a	There is a discrepancy between the ejection fraction on the echo and I suspect that has to do with differences in technique.
+1006	0	a	I have talked with the patient about cardiac catheterization and I would like to get him in for that as soon as possible so we can assess the degree of coronary disease.
+1007	0	a	Hopefully it is amenable to percutaneous angioplasty, but I am somewhat concerned about the left ventricular aneurysm.
+1008	0	a	We will arrange for cardiac catheterization either next week or the following week and I will plan to see him back here in the office approximately a month which will be after his catheterization and hopeful angioplasty.
+1009	0	a	Changes to Medications this visit
+1010	0	a	aspirin 325 mg   qd
+1011	0	a	Diovan 80 mg   qd
+1012	0	a	Imdur 30 mg   qd
+1013	0	a	Lasix 10 mg   qd
+1014	0	a	Lipitor 20 mg   qd
+1015	0	a	lisinopril 40 mg   qd
+1016	0	a	nitroglycerin    
+1017	0	a	As always, it is a pleasure to be able to participate in the care of this very pleasant gentleman.
+1018	0	a	Best personal regards.
+1019	0	a	Sincerely yours,
+1020	0	a	Brent Cameron MD, PhD
+1021	0	a	"	Signed electronically by   Brent  Cameron MD, PhD  on  Dec 08, 2081"
+1022	0	a	Record date: 2077-07-28
+1023	0	a	Patient: HORNE,MILTON M  [ 2177024(GMH) ]  MDate of Visit: 07/28/2077
+1024	0	a	Returns for routine follow-up.
+1025	1	a	Hospitalized 6/77 with NSTEMI and he's s/p bare metal stent to the LAD.
+1026	0	a	Denies chest pain currently and he has an initial appointment with Dr. Issa later this week.
+1027	0	a	He hopes to start cardiac rehab after that visit.
+1028	0	a	Stable otherwise, GERD is controlled with Nexiuim.
+1029	0	a	Still has nocturia x 3-5 from BPH and he's being followed by Dr. Law.
+1030	0	a	PSA has been elevated in the past and he's s/p prostate biopsy.
+1031	0	a	Using CPAP for OSA, wants to change to nasal prongs from the mask.
+1032	0	a	S/P release of 5th trigger finger and the finger works fine now.
+1033	0	a	He wants to get the shingles vaccine, his remembers his mother's shingles and he doesn't want to get shingles.
+1034	0	a	Doesn't know whether he's had chickenpox.
+1035	0	a	Medication reconciliation done.
+1036	0	a	Problems
+1037	0	a	Umbilical hernia 
+1038	0	a	Gastroesophageal reflux disease 
+1039	0	a	Benign prostatic hypertrophy 
+1040	0	a	Trigger finger : 5th finger
+1041	0	a	Basal cell carcinoma 
+1042	0	a	Medications
+1043	0	a	Aspirin (ACETYLSALICYLIC ACID) 81 MG (81MG TABLET take 1) PO QD 
+1044	0	a	Atorvastatin 80 MG (80MG TABLET take 1) PO QHS 
+1045	0	a	Beconase AQ (BECLOMETHASONE DIPROPIONATE NASAL) 1-2 SPRAY NAS BID , Spray into each nostril.
+1046	0	a	#3 Month(s) Supply
+1047	0	a	Nexium (ESOMEPRAZOLE) 40 MG (40MG CAPSULE DR take 1) PO QD #90 Capsule(s)
+1048	0	a	Oxycodone 5 MG (5MG TABLET take 1) PO Q4H #40 Tablet(s)
+1049	0	a	Proscar (FINASTERIDE (BPH)) 5 MG (5MG TABLET take 1) PO QD #90 Tablet(s)
+1050	0	a	Uroxatral (ALFUZOSIN) 10 MG (10MG TAB.SR 24H take 1) PO QD #90 TAB.SR 
+1051	0	a	Allergies
+1052	0	a	NKA 
+1053	0	a	Vital Signs  BP 110/60  P 60  Wt.
+1054	0	a	216
+1055	0	a	EXAM
+1056	0	a	Chest: lungs clear
+1057	0	a	Cor: RR&amp;R, no murmurs or gallops
+1058	0	a	Abdomen: soft without organomegaly or masses.
+1059	0	a	Unbilical hernia present
+1060	0	a	Skin:  bruise on right leg largely resolved.
+1061	0	a	A/P
+1062	0	a	1.
+1063	1	a	NSTEMI, s/p stent to LAD.
+1064	0	a	Has cardiology appointment.
+1065	0	a	2.
+1066	0	a	Hyperlipidemia.
+1067	0	a	controlled on statin.
+1068	0	a	3.
+1069	0	a	OSA, on CPAP
+1070	0	a	4.
+1071	0	a	GERD, controlled with Nexium
+1072	0	a	5.
+1073	0	a	BPH, stable.
+1074	0	a	6.
+1075	0	a	Varicella antibody today; Zostavax if positive.
+1076	0	a	PSA, free PSA today along with fasting glucose.
+1077	0	a	7.
+1078	0	a	CPE 1/78.
+1079	0	a	____________________________________
+1080	0	a	Xiomara Barbara Xanthos, M.D.
+1081	0	a	Record date: 2079-07-28
+1082	0	a	                     MIDLAND EMERGENCY DEPT VISIT
+1083	0	a	NOONAN,FRANKIE   516-39-35-7                    VISIT DATE: 07/28/79
+1084	0	a	The patient was interviewed and examined by myself along with the 
+1085	0	a	resident, Dr. Welsh.
+1086	0	a	Please see his note for full details.
+1087	0	a	HISTORY OF PRESENTING COMPLAINT:  In brief, a 60 year-old male 
+1088	0	a	complaining of shortness of breath.
+1089	0	a	Ran out of his Lasix about 5-6 
+1090	0	a	days ago and now is with increasing lower extremity edema, 
+1091	0	a	orthopnea, PND.
+1092	0	a	Denies fever, chills, nausea or vomiting.
+1093	0	a	Sent 
+1094	0	a	here for evaluation by his PCP today.
+1095	0	a	REVIEW OF SYSTEMS:  No palpitations, no diaphoresis.
+1096	0	a	PAST MEDICAL HISTORY:  Insulin dependent diabetes mellitus, 
+1097	2	a	hypertension, coronary artery disease, and atrial fibrillation.
+1098	0	a	MEDICATIONS:  Insulin, Glucophage, Verapamil, Lasix, Relafen, and 
+1099	0	a	Coumadin.
+1100	0	a	ALLERGIES:  No known drug allergies.
+1101	0	a	SOCIAL HISTORY AND FAMILY HISTORY:  Does not drink, does not smoke.
+1102	0	a	PHYSICAL EXAMINATION:  VITAL SIGNS:  Blood pressure 136/88, O2 
+1103	0	a	saturation 95 percent, heart rate 54, temperature 97.8.
+1104	0	a	GENERAL: 
+1105	0	a	Well-developed, well-nourished male in no apparent distress, 
+1106	0	a	denying chest pain at this time.
+1107	0	a	HEENT:  Normocephalic, 
+1108	0	a	atraumatic.
+1109	0	a	Pupils were equal, round and reactive to light.
+1110	0	a	Extraocular muscles full.
+1111	0	a	NECK:  No evidence of jugular venous 
+1112	0	a	distension.
+1113	0	a	Supple.
+1114	0	a	LUNGS:  Clear to auscultation.
+1115	0	a	HEART: 
+1116	0	a	Regular rate and rhythm.
+1117	0	a	Normal S1 and S2.
+1118	0	a	No murmurs, rubs or 
+1119	0	a	gallops.
+1120	0	a	ABDOMEN:  Soft, non-tender and non-distended.
+1121	0	a	Active 
+1122	0	a	bowel sounds.
+1123	0	a	EXTREMITIES:  3+ pedal edema.
+1124	0	a	NEUROLOGIC:  Cranial 
+1125	0	a	nerves II-XII grossly intact.
+1126	0	a	Alert and oriented times three.
+1127	0	a	Motor 5/5.
+1128	0	a	Sensation intact to light touch throughout.
+1129	0	a	LABORATORY EVALUATION:  Basic labs included a white count of 6.9, 
+1130	0	a	hematocrit 39, BUN and creatinine of 10 and 1.0, with a potassium 
+1131	0	a	of 5.7.
+1132	0	a	CK was 186, troponin 0.04.
+1133	0	a	Amylase was 61.
+1134	0	a	Blood sugar 
+1135	0	a	was 253.
+1136	0	a	Chest x-ray showed cardiomegaly.
+1137	0	a	EKG showed atrial 
+1138	0	a	fibrillation at about 50.
+1139	0	a	Nonspecific ST-T wave changes.
+1140	0	a	THERAPY RENDERED/COURSE IN ED:  Differential of his shortness of 
+1141	0	a	breath includes congestive heart failure, ischemia.
+1142	0	a	He was 
+1143	0	a	admitted to the hospital for training of his congestive heart 
+1144	0	a	failure regimen.
+1145	0	a	His primary M.D.
+1146	0	a	was notified.
+1147	0	a	FINAL DIAGNOSIS: 
+1148	0	a	1.
+1149	0	a	Shortness of breath.
+1150	0	a	2.
+1151	0	a	Congestive heart failure.
+1152	0	a	DISPOSITION (including condition upon discharge):  He was admitted 
+1153	0	a	in stable condition.
+1154	0	a	___________________________________                    CQ102/93848
+1155	0	a	ROSE R. WALSH, M.D.
+1156	0	a	RW88                      D:09/04/79 
+1157	0	a	                                                       T:09/05/79 
+1158	0	a	Dictated by:  ROSE R. WALSH, M.D.
+1159	0	a	RW88 
+1160	0	a	 ******** Not reviewed by Attending Physician ********
+1161	0	a	Record date: 2072-07-06
+1162	0	a	JOSHI, KATHY
+1163	0	a	15842112
+1164	0	a	07/06/2072
+1165	0	a	Benjamin W. Taylor, M.D.
+1166	0	a	Illini Community Hospital
+1167	0	a	66 Cardinal Circle
+1168	0	a	Three Rivers, NM  11424
+1169	0	a	Dear Dr. Taylor:
+1170	0	a	Mrs. Joshi returns to the office for routine followup.
+1171	0	a	Since last seen, she apparently was without evidence of increasing BUN and creatinine and for this reason was advised to transiently hold both her lisinopril and Zaroxolyn.
+1172	0	a	By doing so, her creatinine fell from 2.2 to 1.6 and BUN from 117 to 57.
+1173	0	a	She subsequently has resumed her lisinopril therapy, as apparently her blood pressure increased off her ACE inhibitor.
+1174	0	a	In addition, as part of her followup last March, she underwent an adenosine MIBI stress test during which time she achieved a peak heart rate of 65, peak blood pressure of 129/50, stopping because she reached the end of the adenosine infusion protocol.
+1175	0	a	Her gated SPECT imaging demonstrated a global left ventricular ejection fraction of 38% with a mildly dilated left ventricle and akinesis of the basal inferoseptal and entire inferior wall.
+1176	0	a	Her rest-stress perfusion imaging showed similarly a large fixed perfusion defect in the inferior and basal inferoseptal wall without any area of reversible ischemia.
+1177	0	a	Her last echocardiogram performed in July 2071 showed a residual of left ventricular ejection fraction mildly reduced at 45% with severe inferoseptal and inferior hypokinesis.
+1178	0	a	In addition, at that time showed evidence for trivial mitral and tricuspid regurgitation and her echo was essentially unchanged from her prior study in March 2071.
+1179	0	a	Currently, she is concerned primarily about her inability to lose weight, and in fact states that during a recent vacation she actually discontinued her diet.
+1180	0	a	Presently, she continues on a regimen of Toprol-XL 37.5 mg p.o.
+1181	0	a	daily, simvastatin 80 mg p.o.
+1182	0	a	daily, lisinopril 5 mg p.o.
+1183	0	a	daily, potassium chloride 20 mEq p.o.
+1184	0	a	b.i.d., furosemide 160 mg p.o.
+1185	0	a	b.i.d., Coumadin, enteric-coated aspirin 81 mg p.o.
+1186	0	a	daily, Niferex 150 mg p.o.
+1187	0	a	daily, Humulin N 20 units subcutaneous q.a.m.
+1188	0	a	and Humulin N 20 units subcutaneous q.p.m.
+1189	0	a	Physical exam reveals a pleasant, mildly overweight woman in no acute distress.
+1190	0	a	Blood pressure right arm sitting 120/52, heart rate 45 and irregularly regular, respirations 14 and unlabored, and weight 253 pounds, which is 12 pounds above her weight of six months ago.
+1191	0	a	The neck is supple.
+1192	0	a	JVP is flat.
+1193	0	a	Carotids are without significant bruits.
+1194	0	a	Chest remains clear.
+1195	0	a	Cardiac exam shows normal S1, physiologically split S2 with a soft systolic ejection murmur radiating from the apex to the base.
+1196	0	a	No significant diastolic murmur or rub.
+1197	0	a	The abdomen is overweight, but otherwise benign without evidence of abdominal aneurysm or bruit.
+1198	0	a	Extremities reveal trace bipedal edema.
+1199	0	a	Peripheral pulses are detectable, albeit mildly diminished.
+1200	0	a	Electrocardiogram shows atrial fibrillation flutter with at times of significant AV block with pauses as high as approximately 2 seconds.
+1201	1	a	There is evidence of a prior inferior myocardial infarction and minor nonspecific ST and T-wave changes.
+1202	0	a	Compared with her last electrocardiogram, her heart rate at times is slower.
+1203	0	a	Impression:  Ms. Joshi remains stable from a cardiovascular perspective, however, I am obviously concerned about her potential for lightheadedness in light of her bradycardia.
+1204	0	a	I have asked her to decrease her Toprol-XL to 25 mg p.o.
+1205	0	a	daily and to repeat an EKG four to five days after doing so.
+1206	0	a	I of course have reminded her as to the importance of getting in contact with you or myself straight away should she develop any symptoms suggestive of lightheadedness or dizziness.
+1207	0	a	She understands that she may require a permanent pacemaker in the future.
+1208	0	a	Most recent blood studies show a significantly elevated glucose of 183 (she states she is trying to tailor her insulin regimen with you) and in January, normal liver function studies except for an alkaline phosphatase of 304 and lipid profile last September notable for a cholesterol of 134, triglyceride of 74, HDL 58, and LDL 61.
+1209	0	a	She understands the importance of continuing to adhere to a low-saturated fat, low-cholesterol diet while remaining on her antilipemic therapy.
+1210	0	a	She will discuss with you and her nephrologist the optimal management of her mild renal insufficiency.
+1211	0	a	In light of both her diabetes and coronary disease, it certainly would be optimal if possible to continue her on her ACE inhibitor.
+1212	0	a	At the present time, she does not meet criteria for prophylactic placement of an AICD and her New York Heart Association class I to II status precludes the need for consideration of biventricular pacing.
+1213	0	a	Other than reducing her beta-blocker regimen as described above, I have not further altered her current medical program.
+1214	0	a	I thank you very much for allowing me to assist in her care.
+1215	0	a	Sincerely yours,
+1216	0	a	Brandon W Neilson, M.D.
+1217	0	a	eScription document:0-2421626 RU
+1218	0	a	CC: James Nolen M.D.
+1219	0	a	48 Auburn Street
+1220	0	a	Rehoboth, NM 42761
+1221	0	a	DD: 07/06/72
+1222	0	a	DT: 07/07/72
+1223	0	a	DV: 07/06/72
+1224	0	a	Record date: 2094-03-14
+1225	0	a	 Youssef Null
+1226	0	a	Ludlow Medical Center
+1227	0	a	82 Manatee Street
+1228	0	a	Post, IN 86454
+1229	0	a	Dear Dr. Null, 
+1230	0	a	I had the pleasure of seeing Nick Hall in WSH cardiology clinic today in follow-up of his recent admission to the ICMA.
+1231	0	a	While I know that you are familiar with his history, please allow me to briefly review it for my records.
+1232	1	a	He is a lovely 53 year old gentleman whose history is remarkable for Hodgkins, status post mantle radiation in the early 70's; coronary artery disease, status post-PCI to the LAD and RCA in '90 and '87, respectively, and recently diagnosed squamous cell lung cancer.
+1233	1	a	MIBI done at LMC 1/24/94 showed normal EF without perfusion defects (no scar or ischemia); he exercised 10:30 on a standard Bruce iwthout symptoms.
+1234	1	a	He was admitted 2/94 for elective left upper lobectomy for his squamous cell lung cancer (ASA was stopped 1 week prior to surgery; he was not on plavix preop); in PACU following resection, he had a VT/VF arrest and was taken emergently to the cardiac catheterization lab, where he was found to have a massive volume of thrombus extending throughout his RCA.
+1235	1	a	After extensive suction catheter use and POBA, a good angiographic result was obtained; no stents were placed due to the heightened thrombotic state that he was in.
+1236	0	a	Remarkably, echocardiogram revealed normal LV systolic function, with basal inferoposterior HK noted.
+1237	0	a	His peak TnI was 33.6, his peak CK was 1710, and his peak MB was 87.2.
+1238	0	a	He had a relatively unremarkable course post-catheterization; plavix initiation was delayed until his chest tube was removed, after which it was started without incident.
+1239	0	a	He was discharged 2/11/94, and returns today for routine follow-up.
+1240	0	a	Regarding his squamous cell lung cancer, it is my understanding that he had no evidence of metastatic disease and that margins were negative; he is not currently planned for any adjuvant therapy, but will be closely followed.
+1241	0	a	Regarding his remote history of Hodgkins, he is followed at RFPC, and is due for an annual visit there in the next 1-2 months.
+1242	0	a	He has been walking outside for the past ~2 weeks (since the weather improved), walking about 2 miles in around 30 minutes.
+1243	0	a	He feels well, and has had no problems.
+1244	0	a	He notes some mild dyspnea with increased exertion (climbing hills), but denies any unusual dyspnea.
+1245	0	a	He denies chest pain, SOB at rest, orthopnea (stable 2 pillow use), PND, edema, palpitaitons, or claudication.
+1246	0	a	He brings with him a handwritten record of his recent hemodynamics - his BP runs in the 100-120's/60-80's, with rare systolics in the 130's.
+1247	0	a	His heart rate has been in the 70-80's.
+1248	0	a	His past medical history includes:
+1249	1	a	 CAD s/p IMI '88 (totally occluded RCA with good collaterals, revascularized with 3 stents to the RCA), MI '90 (LAD stent), inferior STEMI 2/94 as above s/p POBA
+1250	1	a	 VF arrest in setting of STEMI
+1251	0	a	 Hodgkin's '81 - splenectomy, XRT
+1252	0	a	 LUL squamous cell cancer s/p L upper lobectomy 2/94
+1253	0	a	 hyperlipidemia (low HDL and high LDL - tried niaspan in the past without much benefit)
+1254	0	a	 hypothyroid
+1255	0	a	 basal cell skin CA
+1256	0	a	 nephrolithiasis
+1257	0	a	His medications include:
+1258	0	a	 Lipitor 80 mg
+1259	0	a	 Plavix 75 mg
+1260	0	a	 ASA 325 mg po QD
+1261	0	a	 Lopressor 200 mg po BID
+1262	0	a	 Prilosec 20 mg
+1263	0	a	He has a history of intolerance (dizziness) with lisinopril.
+1264	0	a	His family history is notable for hyperlipidemia and hypertension, but negative for CAD.
+1265	0	a	He works in consulting, and travels around the Midwest as part of his job.
+1266	0	a	He is now back at work.
+1267	0	a	He is married, and lives in Lincoln City.
+1268	0	a	He and his wife have 4 children, ages 15 / 17 / 20 / 24; they have no pets.
+1269	0	a	He has never smoked cigarettes.
+1270	0	a	He drinks 3 glasses of wine/week, and a cup of coffee qam.
+1271	0	a	On physical exam today, he has a heart rate of 68 and a blood pressure of 134/75.
+1272	0	a	He is a well developed well nourished gentleman in no apparent distress.
+1273	0	a	His JVP is flat sitting at 90 degrees, and he has no carotid bruits.
+1274	0	a	His lungs are clear to auscultation bilaterally.
+1275	0	a	He has a regular rate and rhythm with a normal S1 S2, and no murmurs, rubs, or gallups.
+1276	0	a	His abdomen is benign.
+1277	0	a	He is warm and well perfused peripherally without significant edema, and with 2+ PT pulses bilaterally.
+1278	1	a	His EKG in clinic today is NSR at 68, with possible LAE, a nonspeciifc IVCD, and inferior Q waves in III/F, consistent with an inferior MI.
+1279	0	a	He has increased voltages consistent with LVH.
+1280	0	a	His recent cardiac tests include: 
+1281	0	a	 - echo 2/94 - EF 60%, basal inferoposterior HK, normal atrai, no significant valvular disease
+1282	1	a	 - cath 2/94 - right dominant system, patent LAD stent, proximal 60% LCx, proximal 90% thrombotic RCA occlusion (in-stent) with 100% ostial R-PDA thrombotic lesion s/p Angiojet/POBA with TIMI-3 excellent angiographic result 
+1283	1	a	In summary, this is a 53 year old man who had a VF arrest in the setting of perioperative inferior STEMI, status post extensive angiojet and POBA of acute in-stent thrombosis of presumed bare metal stents in his RCA.
+1284	0	a	He is asymptomatic from a cardiovascular standpoint, and somewhat remarkably did not take a large myocardial hit from this life-threatening event.
+1285	0	a	Our attention now shifts to the prevention of future events.
+1286	0	a	Given the degree of thrombus burden in his RCA at the time of cath, he is someone for whom we would strongly advise lifelong plavix and aspirin.
+1287	0	a	Furthermore, he is not someone for whom I would be comfortable with even temporary discontinuation of one of these agents - we would advise that ANY future procedures be done on aspirin and plavix.
+1288	0	a	His blood pressure and heart rate are well controlled on his current regimen, as demonstrated by his home records.
+1289	0	a	I have taken the liberty today of changing him from lopressor 200 bid to toprol 200 bid to minimize any ups and downs in his beta blockade, but otherwise, would not make any changes to his regimen at this time.
+1290	0	a	We will check a full set of labs today, but I suspect that no further changes will be required at this time.
+1291	0	a	Given his history of Hodgkin's, as well as his known CAD, he is clearly at risk for future events, and I suspect that we will take a rather aggressive stance in terms of monitoring for ischemia.
+1292	0	a	Certainly, if he has any concerning symptoms, we would have a low threshold to pursue an aggressive course.
+1293	0	a	At present, however, I am delighted with how well he is doing.
+1294	0	a	It was a pleasure to see Mr. Hall in cardiology clinic today.
+1295	0	a	I will plan to see him in follow-up in 6 months time, but he knows to call sooner should he have any problems or concerns.
+1296	0	a	Regards,
+1297	0	a	_____________________________________________
+1298	0	a	Florence Heather Gil, M.D., Ph.D.
+1299	0	a	CC: Dr. Nick Golden
+1300	0	a	        Thoracic Surgery 
+1301	0	a	        Wytheville South Hospital
+1302	0	a	        Dr. Paul Reilly
+1303	0	a	        Riverside Family Practice Center
+1304	0	a	Record date: 2092-03-10
+1305	0	a	"History of Present Illness	"
+1306	1	a	ID: 70 yo AMI s/p LAD intervention
+1307	0	a	HPI:
+1308	0	a	11/90 episode mild CP radiating to both arms and DOE.
+1309	0	a	ETT- 6', HR 150 (99%), -CP, +SOB, EKG normal, occ PAC, rare PVC (no imaging), SL TNG prescribed but not used
+1310	0	a	Did well, able to con't walking 1 mile or more a day and daily exercise routine of jumping rope and pushups
+1311	3	a	"2 weeks ago intermittent angina (SSCP/pressure to bilat arm with dyspnea, nausea, ""cold sweat"" +/- dizziness) with inclines/pushing, relieved by rest, lasting up to several mins but denies nocturnal, rest or prolonged episodes; decreasing exercise tolerance"
+1312	3	a	3/10 awoke 2 AM with stuttering angina, took 1 SL TNG (expired) with transient relief; 7 AM to RDC ER, 7/10 CP, EKG RB3, Q V1-3, TWI III/V1, biphasic V2-3, I/L/V4-6 0.5 mm STE (neg rt sided leads); rx SL TNG, ASA, IV Heparin, improved CP but nausea- resolved with addition of IV Lopressor, Aggrastat, Mylanta (painfree by 8:45 AM); CK 179/9/5%, Troponin T  0.124; some confusion and ?visual halluc (reported seeing red spots on daughters face and green lines on wall transiently) after Ativan 1 mg IV for anxiety at RDC and Fentanyl 50 mcg/Versed 0.5 mg at LMH: cath- right dom, distal RCA collat to dist LAD, 50% OM1 bifurcation lesion, 100% prox/severe long mid LAD- s/p PTCA/stent (4 X 15 AVE Bestent 2) proximal, PTCA mid with prolonged inflations, 25% resid, ?small dissection mid/distal; Integrelin and 375 cc dye, 3/10 CP on arrival to lab 1:30 pm, persistent 1-3/10 CP with nausea +/- dyspnea since arrival in holding area 3 pm, EKG with V3-6 0.5-1.5 mm STE unchanged from pre-procedure and ?sl more prominent V3, painfree with 2 SL TNG
+1313	0	a	CRF:      -HTN          +DM         +Chol         +FH Uncle MI 62        ex-tob X 32 yrs (avg 2 ppd X 35 yrs prior, pt states started age 6!)
+1314	0	a	"Past Medical History	"
+1315	0	a	asbestos exposure- no known pulm dx
+1316	0	a	arthritis- fingers
+1317	0	a	iritis
+1318	0	a	"Past Surgical History	"
+1319	0	a	s/p left thumb surgery
+1320	0	a	s/p skin Ca excision/cryotherapy (back, face)
+1321	0	a	"Medications	"
+1322	0	a	HOME: (Pts.
+1323	0	a	family to bring meds in 3/11)
+1324	0	a	ASA 325 mg qd
+1325	0	a	Glipizide (?XL) 5 mg q AM
+1326	0	a	Guaifenesin 2 tabs bid
+1327	0	a	Metamucil q PM
+1328	0	a	Natural tears ou qid
+1329	0	a	Lubricating eye ointment hs
+1330	0	a	MVI 1 qd
+1331	0	a	Ibuprofen 600 mg prn joint pain, sleep (few times/week)
+1332	0	a	HOSP: IV Aggrastat 11 cc/hr
+1333	0	a	IV TNG 17 incr to 50 mcg/min
+1334	0	a	"Allergies	"
+1335	0	a	Tylenol-rash
+1336	0	a	"Social History	"
+1337	0	a	lives alone, divorced, 7 children (2 sons in same town), medical care at Rusk State Hospital
+1338	0	a	"Habits	"
+1339	0	a	-ETOH           Caffeine- tea        
+1340	0	a	Diet- lowfat, NAS, 8 glasses H2O/day            
+1341	0	a	"Family History	"
+1342	0	a	-HTN     ?DM      -CVA         Mo Aplastic anemia, Bro leukemia
+1343	0	a	"Review of Systems	"
+1344	0	a	"intermittent right foot numbness +/- bilat elbow numbness, EMG 2 mos ago at RSH revealed ""nerve damage"" per pt, no etiology discussed or rx given per pt, URI 2 mos ago with small amt blood in nasal discharge attrib to dry nose- no signif nosebleeds, chronic nocturia X3-4 and recent nl PSA/prostate exam, occas constipation controlled with fiber; otherwise negative in detail"
+1345	0	a	"Physical Exam	  "
+1346	0	a	T 99.8          SR 80-90 no ect        RR 18        BP 120-130/70-80   sat 92% 3L/95% 5L           Ht:6'             Wt:200# per pt
+1347	0	a	"General Appearance	"
+1348	0	a	elderly white male in bed NAD, fair historian
+1349	0	a	"Neurological	"
+1350	0	a	PERL left 3.5, right 4 mm, brisk, EOMI, no nystagmus, no droop or ptosis, MAE 4/4, slightly lethargic but easily arousable to voice, O X 3, speech clear and appropriate
+1351	0	a	"Neck	"
+1352	0	a	2+ carotids, no bruit, JVP 6
+1353	0	a	"Cor/Cardiac	"
+1354	0	a	RRR, S1S2, no murmur/rub/gallop
+1355	0	a	"Chest	"
+1356	0	a	Lungs clear anteriorly
+1357	0	a	"Abdomen	"
+1358	0	a	Large, soft, NT/ND, nl BS, no hepatomegaly/mass/bruit
+1359	0	a	"Extremity	"
+1360	0	a	right fem A/V sheaths in, no heme/ooze, left 2+ fem no bruit, feet warm 2+ DP/PT, no edema
+1361	0	a	"External Labs	"
+1362	0	a	Lab:
+1363	0	a	EKG: NSR, nl axis, bord 1AVB, 0.20/0.14/0.43, RB3, Q V1-3, ST-T changes (as described in HPI)
+1364	0	a	"CXR: 3/10 RDC- ""NAD"""
+1365	0	a	"Plan	"
+1366	2	a	#1 CAD- 70 yo ruling in for MI s/p LAD intervention
+1367	3	a	-Ischemia- angina resolved with nitrates, reviewed EKG with Dr. Espinosa (in to examine pt) and discussed with Dr. Espinosa and Jessup, will keep sheaths in overnight, restart Hep no bolus when PTT down, con't Integrelin, ASA/Plavix (initiate Zantac prophylaxis and guiaic stools), NPO after midnight in case relook indicated, con't IV TNG 
+1368	0	a	-Pump- will obtain echo (no LV gram done), monitor I/O, diurese if CHF sx (sat lowish but no JVD/crackles, ?baseline pulm dz), con't post cath hydration and check creat in AM (375 cc dye), consider initiating Ace-I, hold on Ibuprofen for now
+1369	0	a	-Rhythm- suboptimal rate control, con't Lopressor 25 mg qid- change to bid dosing once tolerance better evaluated, watch for wheeze or ectopy
+1370	0	a	#2 DM- Accucheck bid, check HGbA1c, resume Glipizide in AM (unless relook cath), initiate Lipitor for LDL 126; defer PT/dietary consults for now
+1371	0	a	#3 ID- low grade temp and mild WBC elevation on admission, will check UA now, CXR in AM, initiate Ancef while sheaths in
+1372	0	a	#4 Neuro- transient confusion and ?visual halluc prob due to benzos/narcotics, neuro exam nonfocal, will maintain freq observation for pt safety, esp given sheaths overnight
+1373	0	a	Arushi Emerson, RNCS
+1374	0	a	Record date: 2133-02-11
+1375	0	a	 Date 2/10/33
+1376	0	a	Time 12:30am
+1377	0	a	SDU JAR Admission Note
+1378	0	a	Patient: Daniel Doherty
+1379	0	a	Medical Record Number: 767 02 38
+1380	0	a	Room: E5316Y
+1381	0	a	Date of Admission: 2/10/33
+1382	0	a	Attending Physician: Thomas Cotton
+1383	0	a	PCP: Robert Bailey (Central WV)
+1384	0	a	Code Status: FULL
+1385	0	a	Source: Patient unable to give history b/c of mental status, Medical Record
+1386	1	a	ID/CC: 68yoM h/o schizophrenia, medication non-compliance, presents s/p cardiac arrest.
+1387	0	a	History of Present Illness:  
+1388	0	a	Per Dibble General Hospital Records, the patient was admitted on 2/04/33 after collapsing in the mall.
+1389	0	a	His total time down is unclear, but the patient had an AED administered and he was shocked x2.
+1390	0	a	When EMTs arrived, they found the patient to be in VF w/ agonal breathing.
+1391	0	a	CPR was administered and he was shocked x3.
+1392	0	a	After the 3rd defibrillation, the patient awoke and was in NSR.
+1393	0	a	The patient could not recall any of the events.
+1394	0	a	At DGH, was hemodynamically stable and did not have a recurrence of malignant arrhythmia.
+1395	0	a	His EKG showed TWI v3-v6.
+1396	0	a	His troponins went from 0.01-0.27-0.34, CK 451 w/ MB 28 (full laboratory values not available).
+1397	0	a	TTE showed depressed LV function w/ EF 30%, w/ apical apical dyskinesis.
+1398	0	a	Head CT was negative for acute process.
+1399	0	a	His mental status demonstrated slowly recovering delirium.
+1400	0	a	He was found to have a pneumonia and treated with ceftriaxone/azithromycin.
+1401	0	a	His arrhythmias were treated with amiodarone IV, transitioned to po.
+1402	0	a	He was transferred to NAMC for cardiac catheterization.
+1403	0	a	Review of Systems:
+1404	0	a	Unavailable secondary to mental status.
+1405	0	a	Past Medical/Surgical History:
+1406	0	a	Hypercholesterolemia
+1407	0	a	Hypertension
+1408	0	a	Schizophrenia
+1409	0	a	H/o abnormal SPEP
+1410	0	a	TTE none in CAS
+1411	0	a	STRESS none in CAS
+1412	0	a	Allergies:
+1413	0	a	NKDA
+1414	0	a	Medications at home:
+1415	0	a	Aspirin 81mg qd
+1416	0	a	HCTZ 25mg qd
+1417	0	a	Lipitor 10mg qd
+1418	0	a	B12 1000mcg qd
+1419	0	a	Zyprexa ?
+1420	0	a	Medications on transfer:
+1421	0	a	Amiodarone 400mg bid
+1422	0	a	Azithromycin 250mg qd
+1423	0	a	Ceftriaxone 1000mg qd
+1424	0	a	Lovenox 50mg qd
+1425	0	a	Metoprolol 50mg bid
+1426	0	a	Ativan 1mg q4 prn
+1427	0	a	Percocet q4 prn
+1428	0	a	Social History:
+1429	0	a	Lives alone
+1430	0	a	TOB: quit 20y prior
+1431	0	a	ETOH: occasional
+1432	0	a	ILLICITS: unknown
+1433	0	a	Family History:
+1434	0	a	M: unknown
+1435	0	a	F: h/o MI
+1436	0	a	Physical Examination:
+1437	0	a	"GEN: 	somnolent, easily arousable w/ manual stimulation, answers some questions, but not very interactive, breathing at 20, mildly labored"
+1438	0	a	VS: 
+1439	0	a	T
+1440	0	a	98.2
+1441	0	a	P
+1442	0	a	55
+1443	0	a	BP
+1444	0	a	130/74
+1445	0	a	RR
+1446	0	a	20
+1447	0	a	O2SAT
+1448	0	a	96%2L
+1449	0	a	"	"
+1450	0	a	"HEENT: 	pinpoint pupils/equal, JVP at least 11cm"
+1451	0	a	"PULM: 	wheezes, moderate air movement"
+1452	0	a	"CV: 	bradycardic, regular, S1 and S2 normal, no murmurs"
+1453	0	a	"ABD: 	soft, NT/ND/NM/NHSM."
+1454	0	a	BS active
+1455	0	a	"EXT: 	no c/c/e, DPs 2+."
+1456	0	a	Femoral pulses symmetric, no bruits.
+1457	0	a	NEURO:   
+1458	0	a	"MS 	A&Ox1."
+1459	0	a	sleepy, arousable.
+1460	0	a	"CNs	mild L sided ptosis, o/w face symmetric."
+1461	0	a	"MOTOR	moving 4 extremities vigorously."
+1462	0	a	"SKIN:		no rash, good skin turgor"
+1463	0	a	Data: 
+1464	0	a	"NA        	          	          	151(H)    	          	          "
+1465	0	a	"K         	          	          	4.0       	          	          "
+1466	0	a	"CL        	          	          	117(H)    	          	          "
+1467	0	a	"CO2       	          	          	26.7      	          	          "
+1468	0	a	"BUN       	          	          	34(H)     	          	          "
+1469	0	a	"CRE       	          	          	1.3       	          	          "
+1470	0	a	"GLU       	          	          	110       	          	          "
+1471	0	a	"CA        	          	          	8.7       	          	          "
+1472	0	a	"PHOS      	          	          	3.3       	          	          "
+1473	0	a	"MG        	          	          	1.9       	          	          "
+1474	0	a	"TBILI     	          	          	0.3       	          	          "
+1475	0	a	"DBILI     	          	          	0.1       	          	          "
+1476	0	a	"TP        	          	          	7.1       	          	          "
+1477	0	a	"ALB       	          	          	3.5       	          	          "
+1478	0	a	"GLOB      	          	          	3.6       	          	          "
+1479	0	a	"AMY       	          	          	427(H)    	          	          "
+1480	0	a	"ALT/SGPT  	          	          	22        	          	          "
+1481	0	a	"AST/SGOT  	          	          	23        	          	          "
+1482	0	a	"ALKP      	          	          	51        	          	          "
+1483	0	a	"CK        	          	          	102       	          	          "
+1484	0	a	"CK-MB     	          	          	5.7       	          	          "
+1485	0	a	"CKMBRI    	          	          	5.6(H)    	          	          "
+1486	0	a	"TROP-T    	          	          	0.38(H)   	          	          "
+1487	0	a	"WBC       	          	          	10.1      	          	          "
+1488	0	a	"RBC       	          	          	4.17(L)   	          	          "
+1489	0	a	"HGB       	          	          	12.4(L)   	          	          "
+1490	0	a	"HCT       	          	          	35.8(L)   	          	          "
+1491	0	a	"MCV       	          	          	86        	          	          "
+1492	0	a	"MCH       	          	          	29.8      	          	          "
+1493	0	a	"MCHC      	          	          	34.7      	          	          "
+1494	0	a	"PLT       	          	          	356(H)    	          	          "
+1495	0	a	"RDW       	          	          	15.5(H)   	          	          "
+1496	0	a	"DIFFR     	          	          	Received  	          	          "
+1497	0	a	"METHOD    	          	          	PEND      	          	          "
+1498	0	a	"%NEUT     	          	          	PEND      	          	          "
+1499	0	a	"%LYMPH    	          	          	PEND      	          	          "
+1500	0	a	"%MONO     	          	          	PEND      	          	          "
+1501	0	a	"%EOS      	          	          	PEND      	          	          "
+1502	0	a	"%BASO     	          	          	PEND      	          	          "
+1503	0	a	"ANEUT     	          	          	PEND      	          	          "
+1504	0	a	"ALYMP     	          	          	PEND      	          	          "
+1505	0	a	"AMONS     	          	          	PEND      	          	          "
+1506	0	a	"AEOSN     	          	          	PEND      	          	          "
+1507	0	a	"ABASOP    	          	          	PEND      	          	          "
+1508	0	a	"ANISO     	          	          	PEND      	          	          "
+1509	0	a	"HYPO      	          	          	PEND      	          	          "
+1510	0	a	"MACRO     	          	          	PEND      	          	          "
+1511	0	a	"MICRO     	          	          	PEND      	          	          "
+1512	0	a	"PT        	          	          	17.1(HT)  	          	          "
+1513	0	a	"PT-INR    	          	          	1.6       	          	          "
+1514	0	a	"PTT       	120.3(H)  	          	127.2(HT) 	          	          "
+1515	0	a	"UA-COLOR  	          	AMBER     	          	          	          "
+1516	0	a	"UA-APP    	          	CLOUDY    	          	          	          "
+1517	0	a	"UA-GLUC   	          	Negative  	          	          	          "
+1518	0	a	"UA-BILI   	          	Negative  	          	          	          "
+1519	0	a	"UA-KET    	          	Negative  	          	          	          "
+1520	0	a	"UA-SPGR   	          	1.033     	          	          	          "
+1521	0	a	"UA-BLD    	          	Trace     	          	          	          "
+1522	0	a	"UA-PH     	          	5.5       	          	          	          "
+1523	0	a	"UA-PROT   	          	1+        	          	          	          "
+1524	0	a	"UA-UROBI  	          	Negative  	          	          	          "
+1525	0	a	"UA-NIT    	          	Negative  	          	          	          "
+1526	0	a	"UA-WBC    	          	Negative  	          	          	          "
+1527	0	a	"MIC-SED   	          	Completed 	          	          	          "
+1528	0	a	"HCAST     	          	10-20     	          	          	          "
+1529	0	a	"GCAST     	          	5-10      	          	          	          "
+1530	0	a	"UAS-RBC   	          	10-20     	          	          	          "
+1531	0	a	"UAS-WBC   	          	10-20     	          	          	          "
+1532	0	a	"UAS-BACT  	          	Moderate  	          	          	          "
+1533	0	a	"UAS-SQHI  	          	Moderate  	          	          	          "
+1534	0	a	EKG SB at 57bpm, Q in v1, III/AvF, left axis, TWI in v3-v6, new from previous.
+1535	0	a	QTc 430ms (manually calculated)
+1536	0	a	CXR enlarged cardiac silhouette, L basilar opacity.
+1537	0	a	Impression/Plan: 
+1538	1	a	68yoM h/o HTN/HL, schizophrenia, medication non-compliance presents s/p VF arrest, NSTEMI, AMS.
+1539	0	a	Patient likely had ischemic VT/VF.
+1540	0	a	Per outside records, the patient does not seem to have ongoing activity of his acute coronary syndrome.
+1541	0	a	His mental status continues to be poor, and is likely multifactorial; my suspicion is that he does have some level of anoxic brain injury as the dominant pathology.
+1542	1	a	NSTEMI:  npo p MN for cardiac cath in AM.
+1543	0	a	Patient not able to consent at this point, and does not have any clear family members that can do this for him.
+1544	0	a	Will follow his mental status exam.
+1545	0	a	-aspirin, metoprolol, lipitor, heparin IV.
+1546	0	a	-can add ACEi when he is taking po   s and if BPs need further titration.
+1547	0	a	-mucomyst for renal prophylaxis.
+1548	0	a	-for risk factors, check a1c.
+1549	1	a	S/P VF ARREST: likely in the setting of NSTEMI
+1550	0	a	"	-cath as above."
+1551	0	a	-nl QTc
+1552	0	a	"	-s/p amio IV load."
+1553	0	a	C/w amiodarone po load.
+1554	0	a	If reversible lesion, likely can d/c.
+1555	0	a	AMS: anoxic brain injury; current somnolence likely from narcotics.
+1556	0	a	-appreciate neurology consultation
+1557	0	a	"	-head CT"
+1558	0	a	"	-c/w home zyprexa."
+1559	0	a	Haldol prn.
+1560	0	a	BRONCHOSPASM: does not have significant smoking history.
+1561	0	a	?
+1562	0	a	aspiration vs cardiac wheezing
+1563	0	a	"	-albuterol/ipratropium nebs standing, and prn."
+1564	0	a	-gently diurese
+1565	0	a	"	-finish course of antibiotics; ceftriaxone/azithromycin until 2/12."
+1566	0	a	CHF: mild failure
+1567	0	a	"	-lasix 40iv x1."
+1568	0	a	goal TBB    500-1L
+1569	0	a	"	-follow creatinine, as he apparently bumped at OSH."
+1570	0	a	U/A: check urine culture
+1571	0	a	FEN: npo while somnolent.
+1572	0	a	Otherwise, low fat/chol, no added salt.
+1573	0	a	PROPHY:  on heparin IV.
+1574	0	a	CODE: FULL (patient cannot answer for himself)
+1575	0	a	DISPO: PT, OT, SLP eval
+1576	0	a	"             			                                  "
+1577	0	a	Raul Quilici, MD
+1578	0	a	Pager: #99591
+1579	0	a	Record date: 2134-02-15
+1580	0	a	EDVISIT^72484104^URQUHART, WENDELL^02/15/34^MARQUEZ, RONALD
+1581	0	a	I evaluated this patient independently.
+1582	0	a	I concur with findings
+1583	0	a	as noted on the medical record, supervised the care as provided
+1584	0	a	by the resident in the Emergency Department.
+1585	0	a	HISTORY OF PRESENT ILLNESS:  In brief, this is a 61-year-old male
+1586	0	a	with complaint of chest discomfort on exertion for the past six
+1587	0	a	weeks after climbing upstairs.
+1588	0	a	The patient noticed symptoms
+1589	0	a	again today.
+1590	0	a	He called his FLH physician who sent him to the
+1591	0	a	Emergency Department for probable admission.
+1592	0	a	The patient has had
+1593	1	a	a prior history of proximal RCA lesion and two stents placed in
+1594	0	a	06/2128 after similar episodes.
+1595	0	a	The patient has been doing well
+1596	0	a	since and recently has developed worsening symptoms.
+1597	0	a	He is
+1598	0	a	followed by Dr. Ure and contacted Dr. Ure's office who
+1599	0	a	sent him to the Emergency Department.
+1600	0	a	He denies chest pain at
+1601	0	a	rest.
+1602	0	a	He does not have abdominal pain.
+1603	0	a	No pain radiating to the
+1604	0	a	back.
+1605	0	a	No shortness of breath, dysuria, or additional symptoms.
+1606	2	a	PAST MEDICAL HISTORY:  Hypertension and coronary artery disease.
+1607	0	a	PAST SURGICAL HISTORY:  As noted, past surgical history is stent
+1608	0	a	placement.
+1609	0	a	SOCIAL HISTORY:  Past tobacco user.
+1610	0	a	FAMILY HISTORY:  Noncontributory.
+1611	0	a	REVIEW OF SYSTEMS:  Significant for that which is noted on the
+1612	0	a	HPI.
+1613	0	a	All other symptoms are negative as noted in the medical
+1614	0	a	record.
+1615	0	a	MEDICATIONS:  Please refer to the chart.
+1616	0	a	PHYSICAL EXAMINATION:  Vital signs are as noted in the medical
+1617	0	a	I examined this patient and agree with physical exam
+1618	0	a	findings as noted on the record.
+1619	0	a	Please refer to the chart.
+1620	0	a	Of
+1621	0	a	note, the patient has no specific physical exam findings, a
+1622	0	a	benign physical examination.
+1623	0	a	LABORATORY DATA:  Pending.
+1624	0	a	EKG is normal sinus rhythm with
+1625	0	a	biphasic T waves in III, V6 but otherwise normal, no acute ST-T
+1626	0	a	wave changes.
+1627	0	a	The patient is currently pain free.
+1628	0	a	ASSESSMENT AND MEDICAL DECISION MAKING:  This is a 61-year-old
+1629	0	a	male with likely stable angina that is worsening in character.
+1630	0	a	He will be admitted to Cardiology.
+1631	0	a	I discussed this case with
+1632	0	a	the cardiologist on call, Dr. Maxwell.
+1633	0	a	The patient will be
+1634	0	a	admitted for further workup and determination of catheterization
+1635	0	a	if necessary.
+1636	0	a	______________________________
+1637	0	a	MARQUEZ, RONALD M.D.
+1638	0	a	D: 02/15/34
+1639	0	a	T: 02/15/34
+1640	0	a	Dictated By: MARQUEZ, RONALD
+1641	0	a	eScription document:8-9594396 IFFocus
+1642	0	a	 ******** Not reviewed by Attending Physician ********
+1643	0	a	Record date: 2077-03-12
+1644	0	a	March 12, 2077
+1645	0	a	Urijah Whaley, M.D.
+1646	0	a	266 Bungalow Ave
+1647	0	a	Crystal Springs, MO 37319
+1648	0	a	RE:  Otis Narvaez
+1649	0	a	     MR #045-61-32-6
+1650	0	a	Dear Uddin:
+1651	0	a	Otis Narvaez is a 67 year old man who returned to the office today for follow-up after having
+1652	0	a	undergone an Adenosine PET scan on March 04, 2077.
+1653	0	a	His previous visit with me occurred on
+1654	0	a	February 19, 2077, where his acute complaint was shortness of breath with any activity.
+1655	0	a	He
+1656	0	a	"denied chest pain, but did admit to a ""tight"" feeling down his left arm on occasion."
+1657	0	a	This was not
+1658	0	a	associated with activity.
+1659	0	a	He admits to being a very sedentary person.
+1660	0	a	The results of his Adenosine MIBI were abnormal, with abnormal myocardial perfusion, global
+1661	0	a	LV function, and CT coronary angiography.
+1662	0	a	There were no significant findings on the clinical
+1663	0	a	evaluation.
+1664	0	a	The response was non-ischemic, and there were no EKG changes during infusion.
+1665	0	a	The results revealed a small calcified plaque in the proximal LAD coronary artery without flow-
+1666	0	a	limiting stenosis.
+1667	0	a	There was a more heavily calcified plaque visualized in the distal RCA which
+1668	0	a	was flow-limiting, and there was a moderate amount of stress-induced ischemia on imaging.
+1669	0	a	There was severe left ventricular systolic dysfunction with an ejection fraction of 32%.
+1670	0	a	The
+1671	4	a	narrowing in the distal segment of the RCA was greater than 70%.
+1672	0	a	A lipid profile performed following his office visit on February 19, 2077 revealed a total
+1673	0	a	cholesterol of 182 mg/dl, an HDL of 43 mg/dl, an LDL of 71 mg/dl, and a triglyceride level of
+1674	0	a	342 mg/dl.
+1675	0	a	He has not been on any cholesterol-lowering medications.
+1676	0	a	He had undergone previous cardiac catheterization in November 2072, which demonstrated
+1677	0	a	insignificant coronary artery disease, with an ejection fraction of 63%.
+1678	0	a	Since his last office visit, he continues to be significantly short of breath with any activity.
+1679	0	a	denies any chest pain or left arm discomfort.
+1680	0	a	His current medications include Ritalin 20 mg five times daily, Ambien 10 mg at hour of sleep,
+1681	0	a	Neurontin 900 mg three times daily, Lasix 20 mg every other day, Lisinopril 60 mg once daily, 
+1682	0	a	Otis Narvaez
+1683	0	a	MR #045-61-32-6
+1684	0	a	Page 2
+1685	0	a	aspirin 325 mg with Oxycodone as needed.
+1686	0	a	He usually takes these once every other day.
+1687	0	a	He is
+1688	0	a	now on 20 units of an insulin preparation that he cannot identify.
+1689	0	a	He takes this at bedtime.
+1690	0	a	Review of systems reveals that he has chronic peripheral neuropathy in his feet.
+1691	0	a	This causes him
+1692	0	a	to feel imbalanced, and it is necessary for him to walk with a cane.
+1693	0	a	He was diagnosed with diabetes in 2068 and hypertension in 2067.
+1694	0	a	He also has chronic low
+1695	0	a	back pain due to degenerative joint disease, as well as lumbar disc disease.
+1696	0	a	He also has
+1697	0	a	degenerative joint disease in his knees.
+1698	0	a	He receives psychiatric follow-up for his diagnosis of
+1699	0	a	depression.
+1700	0	a	He underwent a gastric bypass procedure at Harmon Medical Rehabilitation Hospital in 2068.
+1701	0	a	On January 20, 2073, he underwent a left lingular-sparing upper lobectomy for a T1 squamous
+1702	0	a	cell carcinoma.
+1703	0	a	On physical examination, he appears healthy, albeit overweight, with a normal affect.
+1704	0	a	His
+1705	0	a	weight is 208 lbs, the heart rate is 84 beats per minute, the respiratory rate is 16 per minute, and
+1706	0	a	the blood pressure is 140/62 mm/Hg.
+1707	0	a	Examination of the head, eyes, ears, nose, and throat
+1708	0	a	reveals upper dentures in place.
+1709	0	a	There is no jugular vein distention, and the lungs are clear.
+1710	0	a	There is increased AP diameter with bilateral gynecomastia.
+1711	0	a	On cardiac examination, the heart
+1712	0	a	sounds are distant, and there is a regular rhythm, a normal S1, a single S2, and no murmurs,
+1713	0	a	rubs, or gallops.
+1714	0	a	The lower extremity examination reveals a 2 cm tender superficial area on the
+1715	0	a	distal right calf.
+1716	0	a	There is no edema noted.
+1717	0	a	I discussed with Otis Narvaez and his wife, Santiago, my recommendations for a cardiac
+1718	0	a	catheterization followed by stent placement, as indicated.
+1719	0	a	He has agreed to this, and Dr. Yaziel
+1720	0	a	Kraft will perform the procedure.
+1721	0	a	His office will call Mr. Narvaez to schedule the
+1722	0	a	catheterization.
+1723	0	a	After leaving the office today, he will have a CBC, a PT, a PTT, and a
+1724	0	a	comprehensive metabolic profile performed.
+1725	0	a	He will return to see me in the office again in one
+1726	0	a	month.
+1727	0	a	Best personal regards.
+1728	0	a	Sincerely,
+1729	0	a	Kenneth Z.
+1730	0	a	Sellers, M.D.
+1731	0	a	/huff
+1732	0	a	Charlene B. Bates, RN, BSN
+1733	0	a	Scribe for Kenneth Z.
+1734	0	a	Record date: 2097-08-06
+1735	0	a	Reason for Visit
+1736	0	a	74 yo man with Type 2 DM x 20 yrs, here for f/u -- no longer eligible at RSH.
+1737	0	a	History of Present Illness
+1738	0	a	75 yo man with T2 DM and mild dementia here for f/u; glycemia has worsened over the past year.
+1739	0	a	He checks his FS about weekly.
+1740	0	a	His FS was174 yesterday morning.
+1741	0	a	He has had DM x 20 yrs, now on glipizide 2.5 mg po qd for several years with worsening HbA1C, up to 7.6%.
+1742	0	a	His diabetes has improved since he lost about 40 lbs by dieting several years ago (max wt 235, today 186).
+1743	0	a	He denies sx of hyperglycemia.
+1744	0	a	He has no hypoglycemia.
+1745	0	a	He still exercises and eats well.
+1746	0	a	Podiatry now here.
+1747	0	a	Optho: hx of retinal detachment.
+1748	0	a	Needs optho here now that no longer at the RSH.
+1749	0	a	No microalbuminuria proteinuria.
+1750	0	a	Review of Systems
+1751	0	a	Allergic/Immunologic, Constitutional, Psychiatric, Eyes, Ears/Nose/Throat, Cardiovascular, Respiratory, Hematologic/Lymphatic, Gastrointestinal, Genitourinary, Musculoskeletal, Integumentary, Neurological, and Endocrine systems reviewed and negative except as otherwise noted.
+1752	0	a	Problems
+1753	0	a	      Diabetes mellitus
+1754	2	a	      Coronary artery disease
+1755	0	a	      Iritis    : and corneal dystrophy, followed at the RSH
+1756	0	a	      Peripheral neuropathy    : pain relieved on amitriptylene; sensation and pulses preserved
+1757	0	a	Medications
+1758	0	a	      GLIPIZIDE   5MG TABLET take 0.5 Tablet(s) PO QD x 90 days
+1759	0	a	      LISINOPRIL   5MG TABLET take 1 Tablet(s) PO QD x 90 days
+1760	0	a	      Nitroglycerin 1/150 (0.4 Mg)   1 TAB SL PRN  , q 5 min x 3
+1761	0	a	      Metoprolol Tartrate   50MG TABLET take 1 Tablet(s) PO BID x 90 days
+1762	0	a	      ATORVASTATIN   10MG TABLET take 1 Tablet(s) PO QD x 90 days
+1763	0	a	      Asa (ACETYLSALICYLIC Acid)   81MG TABLET take 1 Tablet(s) PO QD 
+1764	0	a	      Muro 128   1 DROP OU qhs 
+1765	0	a	      Amitriptyline Hcl   25MG TABLET take 1 Tablet(s) PO QHS x 90 days
+1766	0	a	      Mvi (MULTIVITAMINS)   1 TAB PO QD 
+1767	0	a	      Caltrate + D (CALCIUM Carbonate 1500 Mg (600 Mg Elem Ca)/ Vit D 200 Iu)   1 TAB PO BID 
+1768	0	a	      OXYCODONE   5 MG (5MG TABLET take 1) PO Q4H PRN pain , Please do not drink and/or drive while taking narcotics.
+1769	0	a	Colace (DOCUSATE Sodium)   100 MG (100MG TABLET take 1) PO BID x 14 days
+1770	0	a	Allergies
+1771	0	a	      ACETAMINOPHEN    - Rash, 
+1772	0	a	Vital Signs
+1773	0	a	      BLOOD PRESSURE   130/72 
+1774	0	a	      PULSE   68 
+1775	0	a	      HEIGHT   70 in
+1776	0	a	      WEIGHT   198 lb
+1777	0	a	      BMI   28.5 
+1778	0	a	Physical Exam
+1779	0	a	      General Appearance
+1780	0	a	Well appearing elderly male, NAD
+1781	0	a	      HEENT
+1782	0	a	No scleral icterus.
+1783	0	a	Fundi background retinop
+1784	0	a	      Neck
+1785	0	a	No thyroid goiter.
+1786	0	a	No jugular venous distention.
+1787	0	a	Chest
+1788	0	a	Clear to auscultation and percussion
+1789	0	a	      Cor/Cardiac
+1790	0	a	Regular rate and rhythm, no murmurs, rubs, or gallops
+1791	0	a	      Skin
+1792	0	a	No focal skin breakdown or ulceration in distal lower extremities
+1793	0	a	      Extremity
+1794	0	a	Distal dorsalis pedis and posterior tibialis pulses intact.
+1795	0	a	No clubbing, cyanosis, edema
+1796	0	a	      Neurological
+1797	0	a	Sensation to  Semmes-Weistein monofilament intact.
+1798	0	a	Decreased vibratory sense at toes.
+1799	0	a	Results
+1800	0	a	06/17/2097 CHOL 128 [1],  TRIG 96,  HDL 45,  LDL 64 [2],  CHOL/HDL 2.8 [3]
+1801	0	a	06/17/2097 UCREAT 0.93,  MALB 0.4,  MALB/CRE 4.3
+1802	0	a	06/17/2097 HGBA1C 7.60 (H),  MEAN-GLU 167,  CCOM Fasting
+1803	0	a	Assessment
+1804	2	a	 73 yo man with type 2 DM and CAD, with worsening glycemic control over the last several months.
+1805	0	a	Nl bone density despite kyphosis.
+1806	0	a	Plan
+1807	0	a	1.
+1808	0	a	Diabetes
+1809	0	a	--Glycemia: I estimate his Cr clearance to be 73 cc/min.
+1810	0	a	Therefore, I recommended and wrote out for him:
+1811	0	a	a.
+1812	0	a	Increase glipizide to 5 mg po qd
+1813	0	a	b.
+1814	0	a	Start metformin 500 mg po bid, increase to 1000 mg po bid if no abd sx.
+1815	0	a	If he can tolerate this, woudl d/c glipizide.
+1816	0	a	--Pt education re above.
+1817	0	a	--Ophtho referral
+1818	0	a	2.
+1819	0	a	Dyslipidemia: controlled on Lipitor
+1820	0	a	3.
+1821	0	a	Hypertension: controlled, but on the border; may need another agent.
+1822	0	a	4.
+1823	2	a	Cardiac disease:followed by Dr.Upton; to be referred for ICD eval given CAD and low EF.
+1824	0	a	On ASA.
+1825	0	a	5.
+1826	0	a	Decreased vibratory sense: needs B12 on next lab draw.
+1827	0	a	F/U  December.
+1828	0	a	CC: Kory Fagan, MD via MTR email.
+1829	0	a	Record date: 2089-10-07
+1830	0	a	Medications:
+1831	0	a	Prilosec 20 - 2
+1832	0	a	Atenolol 50 
+1833	0	a	Cozaar 50
+1834	0	a	Lipitor 10
+1835	0	a	Valium 2 - 
+1836	0	a	Advair 2i puff bid
+1837	0	a	Alupent prn
+1838	0	a	Problem #1: GERD
+1839	0	a	No heart burn on Prilosec.
+1840	0	a	He does note attacks of ss chest pain radiating to L arm relieved by valium and Gaviscon and attributed by Y. Ullrich to reflux (Ted says).
+1841	0	a	No exertional trigger to these.
+1842	2	a	Problem #2: CAD
+1843	0	a	No exertional chest pain, dizzy spells or episodes of dizziness.
+1844	4	a	Thallium stress last year to METS 13 showed normal ECG but a small anteroseptal zone of ischemia with reperfusion.
+1845	0	a	Has not really engaged in fitness program as recommended by Y Ullrich
+1846	0	a	Problem # 3 .HT
+1847	0	a	BP's 150/80 range at home
+1848	0	a	Problem #4 Hyperlipidemia
+1849	0	a	Last chol169  TG 270  HDL 35  LDL 79  (9/88)
+1850	0	a	Problem # 5 Asthma
+1851	0	a	Intensifies seasonally  (now) controlled with inhalants
+1852	0	a	Problem # 6  Recurrent sinusitis
+1853	0	a	He describes stuffiness of sinuses, at times has been treated by his ENT physician with cipro.
+1854	0	a	May need drainage surgery
+1855	0	a	Social History  Unchanged
+1856	0	a	ROS
+1857	0	a	HEENT: No hearing or visual problems.
+1858	0	a	Resp:    See above
+1859	0	a	CV:       See above
+1860	0	a	Abd:      No nausea, vomiting, pain, bowel disturbance, hematochezia, melena
+1861	0	a	GU:        No dysuria, hematuria, flank pain.
+1862	0	a	NM:      No sensory, gait, strength deficits.
+1863	0	a	No syncope, seizures.
+1864	0	a	Endoc:  No polyuria, polydipsia, heat or cold intolerance.
+1865	0	a	BMJ:     No myalgias, arthralgias.
+1866	0	a	Other:    No wt loss, fever, fatigue, sleep difficulty.
+1867	0	a	Physical Examination
+1868	0	a	BP 170/70 (!)
+1869	0	a	P 56 RSR  
+1870	0	a	HEENT  PERLA.
+1871	0	a	Pharynx benign
+1872	0	a	Neck:  Supple.
+1873	0	a	Thyroid not enlarged.
+1874	0	a	No carotid bruit
+1875	0	a	LN'S:   No lymphadenopathy
+1876	0	a	Lungs:   Clear to percussion and auscultation
+1877	0	a	Heart:  Not enlarged.
+1878	0	a	No murmurs
+1879	0	a	Abdomen:   Soft.
+1880	0	a	No organomegaly, masses.
+1881	0	a	tenderness.
+1882	0	a	Rectal: Prostate 2x enlarged, symm, no masses
+1883	0	a	Extremities:  Full ROM.
+1884	0	a	No edema.
+1885	0	a	Pedal pulses intact
+1886	0	a	Neurological:  Grossly normal
+1887	0	a	Impression and plan:
+1888	0	a	GERD - same program
+1889	2	a	CAD - Repeat lipids; make appt to see Y Ullrich
+1890	0	a	HT  Add dyazide 1 qd to program
+1891	0	a	Hyperlipidemia - consider doubling Lipitor - as per Yosef Ullrich
+1892	0	a	 Forty minutes spent with patient in counsselling and coordinating care.
+1893	0	a	______________________________                              
+1894	0	a	Ulysses Gilbert
+1895	0	a	Record date: 2076-12-15
+1896	0	a	                     STONYBROOK EMERGENCY DEPT VISIT
+1897	0	a	QUINLEY,CORA   759-87-55-2                         VISIT DATE: 12/15/76
+1898	0	a	This patient was seen by me in the emergency department on  
+1899	0	a	December 15, 2076, with the resident.
+1900	0	a	Resident's note reviewed.
+1901	0	a	Patient interviewed and examined by me.
+1902	0	a	See resident's note for 
+1903	0	a	further details.
+1904	0	a	Past medical history, social history, and family 
+1905	0	a	history all reviewed and confirmed with the resident's note.
+1906	0	a	HISTORY OF PRESENTING COMPLAINT:  The patient is a pleasant 
+1907	3	a	70-year-old female who comes in with substernal chest pressure, a 
+1908	0	a	tightness involving her upper back also, two distinct discomforts.
+1909	0	a	There are no exertional symptoms, no nausea, no vomiting, no 
+1910	0	a	diarrhea, no abdominal pain, and no palpitations.
+1911	0	a	The patient does 
+1912	0	a	report some mild shortness of breath.
+1913	0	a	The chest pressure is not 
+1914	0	a	acute in onset.
+1915	0	a	There is no exacerbation with activity.
+1916	0	a	She had a 
+1917	0	a	negative exercise tolerance test four years ago.
+1918	0	a	Since being here, 
+1919	0	a	she has received some improvement in her symptoms after 
+1920	0	a	nitroglycerin.
+1921	0	a	She has no known coronary disease.
+1922	0	a	PAST MEDICAL HISTORY:  Atrial fibrillation and insulin-dependent 
+1923	0	a	diabetes mellitus.
+1924	0	a	SOCIAL HISTORY AND FAMILY HISTORY:  The patient is an active smoker 
+1925	0	a	and lives alone.
+1926	0	a	No family history.
+1927	0	a	PHYSICAL EXAMINATION:  Patient is hemodynamically stable, nontoxic, 
+1928	0	a	well appearing, resting comfortably.
+1929	0	a	NECK:  No jugulovenous 
+1930	0	a	distention.
+1931	0	a	LUNGS:  Clear.
+1932	0	a	HEART:  Regular rate and rhythm.
+1933	0	a	ABDOMEN:  Soft.
+1934	0	a	NEUROLOGIC:  Nonfocal.
+1935	0	a	LABORATORY EVALUATION:  White count is 7.8, hematocrit 41.
+1936	0	a	Normal 
+1937	0	a	electrolyte panel.
+1938	0	a	Troponin I is 0.3 which is elevated.
+1939	0	a	CK is 160 
+1940	0	a	which is normal.
+1941	0	a	The EKG shows some flattening T wave laterally 
+1942	0	a	which is old.
+1943	0	a	A chest x-ray shows no effusion, infiltrate, or 
+1944	0	a	pneumothorax.
+1945	0	a	THERAPY RENDERED/COURSE IN ED:  The patient has a positive troponin 
+1946	0	a	here and will be admitted.
+1947	0	a	She will be heparinized __________ 
+1948	0	a	started.
+1949	0	a	See resident's note for details.
+1950	0	a	FINAL DIAGNOSES:  
+1951	0	a	1.
+1952	0	a	Rule out myocardial infarction.
+1953	0	a	2.
+1954	0	a	Chest tightness.
+1955	0	a	DISPOSITION (including condition upon discharge):  The patient was 
+1956	0	a	admitted to the hospital in stable condition.
+1957	0	a	___________________________________                    ID374/80829 
+1958	0	a	CHRISTOPHER QUINTOS, M.D.
+1959	0	a	CQ07                         D:12/15/76 
+1960	0	a	                                                       T:12/15/76 
+1961	0	a	Dictated by:  CHRISTOPHER QUINTOS, M.D.
+1962	0	a	CQ07 
+1963	0	a	 ******** Not reviewed by Attending Physician ********
+1964	0	a	Record date: 2119-06-22
+1965	0	a	Vermillion Weight Center
+1966	0	a	57 King Street, 5th floor
+1967	0	a	Newberry, OK  62981
+1968	0	a	Tel.
+1969	0	a	895.376.3157
+1970	0	a	Fax.
+1971	0	a	320.821.2954
+1972	0	a	Initial Medical Consultation Follow-up
+1973	0	a	Referred by: Dr. Juan Yun, psychopharmacologist, (PCP is Xavier Hobbs, MC) for comprehensive evaluation of obesity and consideration of treatment options.
+1974	0	a	Patient is being evaluated concurrently by a nutritionist and a psychologist.
+1975	0	a	CC/ HPI:  Patient is a 69 year old male, with 
+1976	0	a	Weight:   227 (  231 )   lbs   Height:    68   Inches   BMI: about  35
+1977	0	a	and with obesity-related complications as listed below.
+1978	0	a	"Main concerns about weight include: ""I am overeating and can't stop""."
+1979	0	a	Pt says he can't stop eating after 3-4 pm, gets enraged, aggressive, anxious, restless, (was given barbiturate and Ativan prn for this, and has improved somewhat ~40%) eats 1/2 gallon of ice cream per day, eats as aggressively as he feels, ongoing for 1.5 yrs.
+1980	0	a	"Afraid he will do something aggressive, and uses entering a ""food-coma"" to help restrain himself."
+1981	0	a	"Has bipolar, is in ""mixed state"" now, with characteristics of both depr and mania."
+1982	0	a	"Has neurendoc MD, thinking his pattern related to ""peak endocrine secretions""."
+1983	0	a	Had binge drinking episodes till 2 yrs ago.
+1984	0	a	Drank for 2 days when switching into mania.
+1985	0	a	Learned to use substitution.
+1986	0	a	Learned to recognize mania coming on, prodrome, less need for sleep, euphoric speech, spending money.
+1987	0	a	Wife helped identify this.
+1988	0	a	Substituted going boating, listening to music, walking, talking to friends.
+1989	0	a	Wonders if substitution method can work for eating.
+1990	0	a	A potential method is to use 8 oz water or dietetic candy which have worked to satisfy his hunger.
+1991	0	a	Learned aggression is PTSD.
+1992	0	a	Rel to betrayal by mother at age 13.
+1993	0	a	Trapped, helpless, boxed in.
+1994	0	a	Medical ailments make him feel the same way.
+1995	0	a	Has has had talking therapy for ETOH, never for PTSD.
+1996	0	a	Thinks he may need therapy with wt loss program.
+1997	0	a	New hx:
+1998	0	a	Started Tramadol, thinks it's helping curb his hunger.
+1999	0	a	Will have ablation procedure for pain.
+2000	0	a	WEIGHT HISTORY:
+2001	0	a	Onset of obesity/overweight:  Birthwt 10'3.
+2002	0	a	Heavy till 17.
+2003	0	a	Highest weight:  220->255 (2103 dx'd with CNS lupus and given prednisone)  
+2004	0	a	Course, triggers and exacerbators of weight gain:  Genetics.
+2005	0	a	Lost wt in military, wrestled at 177#, this wt till 25yo.
+2006	0	a	Wt gain onset w/ marriage, pt cooked, both ate.
+2007	0	a	Lots of sports and activity over the years.
+2008	0	a	Less time for phys activity as got busier by his early 50s.
+2009	0	a	Gained 35# on Prednisone x 4 yrs.
+2010	0	a	Gained 20# over last 1.5 yrs w/ psych-induced eating as above.
+2011	0	a	"Family weight hx: F was built like pt, M 98# and could ""outeat any man and never gained wt""."
+2012	0	a	Eating habits: Bingeing?
+2013	0	a	Night eating?
+2014	0	a	Excessive hunger?
+2015	0	a	No   Feels fullness?
+2016	0	a	Yes   Eat past full?
+2017	0	a	YES   Full details per dietician note.
+2018	0	a	Emotional factors/triggers of eating:  See HPI
+2019	0	a	  Exercise:  HS football westling, military wrestling, coll wrestling, 7 mi/d run, tennis for 20 yrs w/ wife.
+2020	0	a	"Currently walks dog 4 miles a day, ""not at aerobic speed""."
+2021	0	a	Prior medications promoting wt gain (diabetes, hormones, steroids, psychiatric):  Prednisone 4 years
+2022	0	a	Various psych (Lexapro, Effexor, Depakote, Prozac)- no wt gain attributed.
+2023	0	a	"Attempts at weight loss:  ""Will power and stepping up the exercise""."
+2024	0	a	Yo-yo'd.
+2025	0	a	Details per dietician note.
+2026	0	a	Weight loss medications:   Phen/Fen lost 20#.
+2027	0	a	Dietician:  No.
+2028	0	a	PMH - obesity complications:
+2029	2	a	CAD, unstable angina 2 episodes, stents x 2 at LH 2117.
+2030	0	a	Has had workup at MeritCare Clinic  ASA 81.
+2031	0	a	Diabetes type 2, 2112.
+2032	0	a	A1C 5.8.
+2033	0	a	Insulin 4.
+2034	0	a	Fastin BS 87.
+2035	0	a	Metformin 500.
+2036	0	a	Known microalbuminuria.
+2037	0	a	Today ratio is 139.5 (nl < 30).
+2038	0	a	HTN.
+2039	0	a	Accupril 20.
+2040	0	a	Sleep apnea, mild.
+2041	0	a	No specific Rx.
+2042	0	a	Also Restless Legs Syndrome, helped by Clonazepam.
+2043	0	a	Hypercholesterolemia.
+2044	0	a	Lipitor 10.
+2045	0	a	Hypogonadism 2103
+2046	0	a	Back pain.
+2047	0	a	Scoliosis, DDD 09, facet arthritis.
+2048	0	a	Cortisone injections at Pain Clinic, last 1-2 months.
+2049	0	a	May have radio freq ablation.
+2050	0	a	OA knees.
+2051	0	a	L TKR 2112.
+2052	0	a	Kidney stones x 2.
+2053	0	a	Ca oxalate.
+2054	0	a	Lithotripsy.
+2055	0	a	Overactive bladder.
+2056	0	a	Detrol LA 4.
+2057	0	a	PMH/PSH - other:
+2058	0	a	Hypothyroidism 2108.
+2059	0	a	Levothyroxine 100.
+2060	0	a	Bipolar II.
+2061	0	a	Initially evolved from anxious depression onset with lupus, 2105.
+2062	0	a	Lamictal 300.
+2063	0	a	Clonazepam .5 tid 
+2064	0	a	CNS lupus - presented with complex partial seizure of temporal lobe, dx 2103
+2065	0	a	  started to see Dr. Thomas Hoffman Neuroendoc, at LH in 08, given Teslactone (later replaced with Arimidex) (interferes    
+2066	0	a	  testo -> estradiol conv) which made lupus go into remission, szs stopped.
+2067	0	a	Arimidex 1 mg
+2068	0	a	Sjogren's 2112
+2069	0	a	h/o Atrial fibrilation 2116, 4 episodes, cardioverted.
+2070	0	a	Sotalol 80.
+2071	0	a	BPH.
+2072	0	a	s/p TURP x2 (12 17)
+2073	0	a	s/p Appendectomy 2065
+2074	0	a	T&A
+2075	0	a	MEDICATIONS:  MVI, Vit C
+2076	0	a	lamictal
+2077	0	a	arimidex
+2078	0	a	levothyroxin
+2079	0	a	sotalol
+2080	0	a	accupril
+2081	0	a	lipitor
+2082	0	a	metformin
+2083	0	a	detrol LA
+2084	0	a	clonazepam, 0.5mg po TID
+2085	0	a	ASA, 81mg po qD
+2086	0	a	acetaminophen500 8/d
+2087	0	a	Tramadol/acet 37.5/325 taking 3-6 per d
+2088	0	a	MED ALLERGIES:  pcn - hives
+2089	0	a	FAMILY HISTORY:  per paper chart
+2090	0	a	SOCIAL HISTORY:   No tobacco   In the past quart of vodka w/ onset of mania.
+2091	0	a	No recreational drugs     Lives with wife.
+2092	0	a	2 adult children.
+2093	0	a	Work:  had mechanic business until Lupus diagnosis.
+2094	0	a	student counsellor out of college.
+2095	0	a	REVIEW OF COMPLICATIONS OF OBESITY/ROS: 
+2096	0	a	DIABETES:  No polyuria, no polydipsia, no blurry vision.
+2097	0	a	CARDIOVASCULAR DISEASE:  No CP w/ exertion, no doe, no palpitations, no edema, no claudication.
+2098	0	a	PULMONARY:  No wheeze, no chronic cough.
+2099	0	a	GERD:  No heartburn, no regurgitation, no acidic taste, no epigastric pain.
+2100	0	a	GALLBLADDER:  No RUQ pain or non-GERD related discomfort after eating fatty foods.
+2101	0	a	LIVER DISEASE:  No history or risk factors other than obesity.
+2102	0	a	MUSCULOSKELETAL:  no hip pain
+2103	0	a	SKIN:  No rashes.
+2104	0	a	No cellulitis.
+2105	0	a	NEURO:  No HAs, no h/o head trauma correlated with obesity onset, no numbness/tingling, no fainting
+2106	0	a	CLOTTING RISKS:   ?
+2107	0	a	No h/o DVT/PE, no varicose veins
+2108	0	a	CANCER SCREENING?
+2109	0	a	Colon  ?
+2110	0	a	PHYSICAL EXAM: 
+2111	0	a	Vitals:  BP:  144/80   HR:  66   Neck circumference   
+2112	0	a	Pleasant.
+2113	0	a	Full range of affect.
+2114	0	a	Generalized mild obesity.
+2115	0	a	Anicteric.
+2116	0	a	Facies normal.
+2117	0	a	OP clear.
+2118	0	a	Voice not hoarse.
+2119	0	a	No neck bruits.
+2120	0	a	No buffalo hump.
+2121	0	a	No thyromegaly or nodules    RRR no mur/rub/gallop.
+2122	0	a	Lungs CTA bilat.
+2123	0	a	No abd striae.
+2124	0	a	NT.
+2125	0	a	NABS.
+2126	0	a	No HSM.
+2127	0	a	R of midline vertical scar.
+2128	0	a	No LE edema.
+2129	0	a	No swollen joints.
+2130	0	a	No rashes.
+2131	0	a	No acanthosis nigricans.
+2132	0	a	Neuro nonfocal.
+2133	0	a	Normal gait and speech.
+2134	0	a	DATA: (selected labs and studies) 
+2135	0	a	HbA1C 5.8  Glu 87  Fasting insulin 4     microalbumin ratio 139.5 (nl < 30)
+2136	0	a	Assessment/Recommendations:
+2137	0	a	69 y.o.
+2138	0	a	male with obesity, BMI = 35, with known complications as listed above.
+2139	0	a	No new medical diagnoses identified.
+2140	0	a	Causes of this patient's obesity include genetic predisposition, past medications (prednisone, antidepressants?
+2141	0	a	), emotional/compulsive/binge-like eating related to manic phase of bipolar illness.
+2142	0	a	Our evaluation team recommends a comprehensive program of individualized nutritional education addressing meal structuring, portion control, food choices, etc.
+2143	0	a	and psychological counseling addressing emotional contributors to eating and weight gain.
+2144	0	a	Referring to Paul Edwards RD, and Allison Ng, PhD.
+2145	0	a	Pt will continue exercise (walks 4 mi/d).
+2146	0	a	May increase the aerobic component.
+2147	0	a	He also plans to start swimming, and may go to a back exercise group per the pain clinic.
+2148	0	a	He feels motivated to proceeed.
+2149	0	a	At a later time we can consider medication (in this case, orlistat).
+2150	0	a	Discussed prevention of ca oxalate stones.
+2151	0	a	Increase fluids, use plant protein instead of animal, calcium intake OK, decrease grapefruit juice.
+2152	0	a	F/U w/ me 2 - 2.5 mos.
+2153	0	a	>50% of the 30-minute visit was spent counseling the patient about the potential implications of obesity and obesity-related conditions, and the above treatment plan.
+2154	0	a	All questions answered.
+2155	0	a	Parker Quinby, MD
+2156	0	a	CC: Dr. Juan Yun (email)
+2157	0	a	PCP, Dr. Xavier Hobbs
+2158	0	a	Record date: 2066-03-03
+2159	0	a	GRANITE COUNTY MEMORIAL
+2160	0	a	Arthritis Department
+2161	0	a	93 Weld St                             BIRD, TERRI
+2162	0	a	Lisbon, SD  52797                             80910690
+2163	0	a	                                              3-03-66
+2164	0	a	ID: Mrs. Bird comes in today for a routine check-up.
+2165	0	a	She is a 
+2166	0	a	70-year-old female with multiple medical problems including atrial 
+2167	0	a	fibrillation, status post renal allograft, status post MVR and AVR, on 
+2168	1	a	Coumadin now, history of CABG in the setting of her valve replacements, 
+2169	0	a	history of a recent aortic aneurysm repair with some mental status 
+2170	0	a	diminution after the surgery.
+2171	0	a	MEDICATIONS: Synthroid, Hydralazine, Lopressor, prednisone, Coumadin, 
+2172	0	a	Provera, NPH insulin, Neurontin 300mg t.i.d., Imuran 100mg a day, Zocor 
+2173	0	a	20mg a day, and Digoxin 0.25 alternating with 0.125mg.
+2174	0	a	She is also 
+2175	0	a	taking Fosamax 10mg a day and Premarin 0.3mg a day.
+2176	0	a	The patient is followed closely by a visiting nurse at home.
+2177	0	a	Her blood 
+2178	0	a	pressure checks have all been 120-140/70-90 and her blood sugars have 
+2179	0	a	been running in the morning between 80 and 120 and in the evening from 
+2180	0	a	150 all the way up to 450.
+2181	0	a	We have made some adjustments recently in 
+2182	0	a	her NPH morning dose, and hope to see if this will make a benefit.
+2183	0	a	Patient notes that she has been feeling generally well, that she has 
+2184	0	a	been able to fill her cassettes for her medicines, and overall manage her 
+2185	0	a	medicines without problems.
+2186	0	a	She does note that she is having some pain 
+2187	0	a	down her left leg, which she describes as her usual sciatica.
+2188	0	a	The 
+2189	0	a	patient has had this on multiple occasions, and it usually waxes and 
+2190	0	a	wanes over time.
+2191	0	a	The Neurontin in the past has been very helpful for 
+2192	0	a	this.
+2193	0	a	The patient denies any chest pain, shortness of breath, has had no 
+2194	0	a	fevers or weight loss recently, and has no dyspnea at nighttime.
+2195	0	a	PHYSICAL EXAM: Notable for a short female in no acute distress, who 
+2196	0	a	walks with a walker today.
+2197	0	a	Blood pressure: 144/76.
+2198	0	a	Pulse: 78 and 
+2199	0	a	regular.
+2200	0	a	Her lungs bilaterally are clear to auscultation.
+2201	0	a	Her heart 
+2202	0	a	is with sharp click during S1 and S2.
+2203	0	a	She has got a regular rate and 
+2204	0	a	rhythm today.
+2205	0	a	Her abdomen is soft, nontender, with no organomegaly.
+2206	0	a	She has got a well-healed abdominal scar.
+2207	0	a	She has got no lower extremity 
+2208	0	a	edema.
+2209	0	a	Her musculoskeletal examination is notable for tenderness up 
+2210	0	a	into the sciatic notch on the left side.
+2211	0	a	She has got otherwise joints 
+2212	0	a	that move through a normal range of motion, no swelling or warmth.
+2213	0	a	There 
+2214	0	a	is no evidence for ecchymoses or petechiae anywhere.
+2215	0	a	Today will check a hemoglobin A1C, a CBC, and a chem 7 for routine 
+2216	0	a	monitoring.
+2217	0	a	My overall impression is that Ms. Bird is doing quite well.
+2218	0	a	I will 
+2219	0	a	not make any changes to her medicines until I see her hemoglobin A1C.
+2220	0	a	I 
+2221	0	a	suggested that I could give her an injection for her sciatica, but I 
+2222	0	a	would rather wait because of her anticoagulation, and to see whether it 
+2223	0	a	remits on it's own.
+2224	0	a	12 Weld St                             BIRD, TERRI
+2225	0	a	PAGE 2
+2226	0	a	Lastly, as far as her ability to drive, this has been an issue for the 
+2227	0	a	last several months since her abdominal aortic aneurysm repair.
+2228	0	a	She is 
+2229	0	a	clearly doing better from a mental status standpoint, as evidenced by 
+2230	0	a	her being able to manage her own medications.
+2231	0	a	I have discussed this 
+2232	0	a	issue at length with family and her nurse, and everybody is comfortable 
+2233	0	a	with her trying to drive with someone in the car with her.
+2234	0	a	I will talk 
+2235	0	a	to her son, Steven Bird, who lives downstairs, and see whether he or 
+2236	0	a	his wife could help with trying her out driving first in a schoolyard 
+2237	0	a	without any people there, and then on less-crowded roads, and then 
+2238	0	a	finally in a more regular situation.
+2239	0	a	We will try this over time and see 
+2240	0	a	how it works, and I will be involved in making any decisions as far as 
+2241	0	a	letting her drive on her own.
+2242	0	a	______________________________
+2243	0	a	Steve George, M.D.
+2244	0	a	EH:UC:8398                                                               
+2245	0	a	DD:3-03-66                                                              
+2246	0	a	DT:3-04-66                                                              
+2247	0	a	DV:3-03-66                                                              
+2248	0	a	 ******** Not reviewed by Attending Physician ********
+2249	0	a	Record date: 2136-12-05
+2250	0	a	HIGHLAND HOSITAL VISIT
+2251	0	a	PT: Ellen Law
+2252	0	a	date of visit: 12/05/36
+2253	0	a	CC: fu cards, htn, hyperlipidemia, DM
+2254	3	a	HPI: Since our last visit, saw Cardiology re her neck and jaw pain w exertion, Dr. Uphoff who feels that she has stable angina.
+2255	0	a	he recommended that she optimize her medical management by increasing her BB and CCB.
+2256	0	a	At this point, she has increased her BB to 2 pills 2x per day.
+2257	0	a	she feels ok on this.
+2258	0	a	no lightheadedness or dizziness.
+2259	0	a	She is also going to start nitrates as soon as they arrive--imdur 30mg qd.
+2260	0	a	still having intermittenly jaw discomfort walking up stairs.
+2261	0	a	no chest pressure or jaw discomfort at rest.
+2262	0	a	she has not gained any wt.
+2263	0	a	however, has not been able to increase her lantus bc she was not sent the correct amount and would run out if she increaesd to previously recommended dose.
+2264	0	a	also started pravastain since our last visit.
+2265	0	a	has not noticed any muscle aches or generalized weakness.
+2266	0	a	has only been on this for 2 weeks though.
+2267	0	a	no hypoglycemia; good energy; feeling well overall.
+2268	0	a	describes feeling pressure, fullness in left ear; slight decrease in hearing.
+2269	0	a	Problems
+2270	0	a	Diabetes mellitus 
+2271	0	a	Malignant tumor of urinary bladder : stage 1, now s/p bcg treatment, followed by urology
+2272	0	a	Hypertensive disorder 
+2273	0	a	Obesity 
+2274	0	a	Retinal detachment : s/p repair Dr. Cleveland
+2275	0	a	Medications
+2276	0	a	Aspirin (ACETYLSALICYLIC ACID) 81 MG (81MG TABLET Take 1) PO QD #90 Tablet(s)
+2277	0	a	Cozaar (LOSARTAN) 50 MG (50MG TABLET Take 1) PO BID , Member ID # 55080437876 #180 Tablet(s)
+2278	0	a	Hydrochlorothiazide 25 MG (25MG TABLET Take 1) PO QD , Member ID # 033388269 #90 Tablet(s)
+2279	0	a	Imdur ER (ISOSORBIDE MONONITRATE (SR)) 30 MG (30 MG TAB.SR 24H Take 1) PO QD #90 TAB.SR
+2280	0	a	Lantus (INSULIN GLARGINE) 100 U/ML VIAL ML SC AS DIRECTED , 65U before breakfast and 10 units at night Member ID # 033388269 #3 Month(s) Supply
+2281	0	a	Metformin 1000 MG (1000MG TABLET Take 1) PO BID #180 Tablet(s)
+2282	0	a	Metoprolol TARTRATE 50 MG (50MG TABLET Take 1) PO QD AS DIRECTED , 2 PO QAM AND 1 PO QPM #180 Tablet(s)
+2283	0	a	Norvasc (AMLODIPINE) 5 MG (5 MG TABLET Take 1) PO QD x 90 days #90 Tablet(s)
+2284	0	a	Novolog flexpens SC AC AS DIRECTED , 10U before breakfast, 10U before lunch, 20U before dinner #15 prefilled pens
+2285	0	a	One touch ultra test strips 1 SC BID #3 Month(s) Supply
+2286	0	a	Pravastatin 20 MG (20MG TABLET Take 1) PO QHS #90 Tablet(s)
+2287	0	a	Solostar prefilled disposable lantus insulin pen 65 UNITS SC qd , Member ID# 033388269 #3 Month(s) Supply
+2288	0	a	Zostavax (ZOSTER VACCINE LIVE (PF)) 1 VIAL SC X1 x 365 days, 1.
+2289	0	a	Reconstitute and inject 1 vial.
+2290	0	a	Sub-cutaneous upper arm.
+2291	0	a	2.
+2292	0	a	Please document vaccine administration in the LMR immunization module (or notify the practice in writing if no LMR access).
+2293	0	a	#1 vial
+2294	0	a	Allergies
+2295	0	a	AZITHROMYCIN - Unknown
+2296	0	a	Ace Inhibitor - cough, 
+2297	0	a	TOB: quit 2120; smoked 2ppd x 15 yrs 
+2298	0	a	ETOH: none
+2299	0	a	IVDU/illict drugs: none 
+2300	0	a	SH: originally from Mt.
+2301	0	a	Married for 39 years to Friedman, describes marriage as
+2302	0	a	good, safe.
+2303	0	a	Has 2 children and 8 grandchildren.
+2304	0	a	Has 2 daugthers, 1 lives in
+2305	0	a	hartsville and 1 in nuku'alofa.
+2306	0	a	no pets.
+2307	0	a	fulltime author.
+2308	0	a	husband has h/p
+2309	0	a	prostate CA.
+2310	0	a	FH:
+2311	0	a	(no known )h/o sudden death, hyperlipidemia
+2312	0	a	+ Dm in father (dxd in his 60-70)
+2313	0	a	+ mgm w stroke (
+2314	0	a	+CHF in ther mother
+2315	0	a	+mUncles x 2 with MIs (~ 60's_
+2316	0	a	(no known) h/o endometrial, ovarian, thyroid, melanoma, breast, prostate 
+2317	0	a	+ colon cancer in her mother, dx'd 55-60yo
+2318	0	a	(no known )h/o osteoporosis/premature bone loss
+2319	0	a	(no known )h/o colon polyp, dysplasic nevi
+2320	0	a	(no known )h/o pe, DVT, miscarriages, bleeding disorders 
+2321	0	a	(+)h/o glaucoma in mUncle
+2322	0	a	(no known ) h/o depression, suicide, schizophrenia 
+2323	0	a	+ dementia in her mother
+2324	0	a	+alcoholis in 2 muncles
+2325	0	a	+ bipolar do in grandson
+2326	0	a	VS: 130/66  76  97.1  98%RA  250 lbs  57.25
+2327	0	a	general: well- appearing F in NAD
+2328	0	a	HEENT: anicteric, PERRL, EOMI, mmm; difficult to assess JVP, L TM w nearly obstructing cerumen; R w nl TM and light reflex.
+2329	0	a	PULM: CTAB w good air movement.
+2330	0	a	no wheezes, rhonchi, or crackles
+2331	0	a	COR: rrr, nls1s1, no m/r/g
+2332	0	a	EXT: wwp, no edema
+2333	0	a	A/P: 61 yo F with PMH of HTN, hyperlipidemia, DM, obesity, bladder cancer presenting for fu of multiple medical issues.
+2334	0	a	1) DM: Dx'd ~ 2129, c/b diabetic retinopathy s/p laser tx and likely neuropathy.
+2335	0	a	Most recent 10/36 HgbA1c: 7.0%, very near goal of &lt;7.0% and improving compared to 7.8 % since increase in lantus dose.
+2336	0	a	Did not bring FS log today but continues to report that her fasting glucose in AM still often above goal and that her largest meal and need for novolg is at dinner.
+2337	0	a	Previously recommended starting BID dosing of lantus and adding 10 units in PM, but not able to obtain yet from pfizer; discussed that for some individuals it dose not last for 24 hours adn that they get better glucose control w BID dosing.
+2338	0	a	Discussed that she will likely need to decrease her PM dose of novolog
+2339	0	a	----recheck hgba1c ~ 1/2137
+2340	0	a	----continue metformin 1000mg BID, lantus 65units qam and novolog 70/30 but also adding 10 units of lantus in PM
+2341	0	a	----continue glucose monitoring for likely need for further adjustments to regimen
+2342	0	a	----7/36 urine microalbumin/crt: 35.9 above goal of &lt;30; have made changes to BP regimen and BP now within goal; will recheck u microalb/crt in 1/2137 
+2343	0	a	----OPTHO: followd by dr arias; reports uptodate
+2344	0	a	----PODIOTRY: pt w likely diabetic neuropathy and e/o oncychomycosis; referrred to podiotry for further care and monitoring at previous visit
+2345	0	a	----BP: within goal on HCTZ, Cozzar, metoprolol and norvasc
+2346	0	a	----2136 LDL: 114 above goal of &lt;100, not on statin; started simvastatin which was dc'd 2/2 myalgias and generalized weakness (nl LFTS and CK); pt has started pravastain and appears to be doing well on this
+2347	0	a	----9/36 Gabriella Yockey
+2348	0	a	----discussed nutrition referral; pt declined but plans on joining south beach diet
+2349	0	a	----discussed importance of wt loss; pt to try south beach diet; 
+2350	0	a	----PNEUMOVAX: 2136
+2351	0	a	----Flu shot/H1N1:  flu shot uptodate; receiving h1n1 today
+2352	0	a	2) HTN: Dx'd in ~ 2129.
+2353	0	a	BP very near  goal today on current regimen of HCTZ 25mg qd, cozaar 50mg BId, metoprolol 100mg BID and norvasc 5 mg qd which appears to be well-tolerated.
+2354	0	a	Will not make any additional changes since pt is planning on adding imdur 30mg as soon as she received it from Pfizer.
+2355	0	a	10/2136 chem 7, renal fxn, ca wnl.
+2356	0	a	-----encouraged low na diet, wt loss
+2357	0	a	----continue HCTZ 25mg qd, cozaar 50mg BId, and metoprolol 100mg BID, and norvasc 5 mg qd
+2358	0	a	----reviewed si/sxs for which she should seek immediate medical attention
+2359	2	a	3) dyslipidemia: 7/36 LDL 114 above goal of &lt;100 given DM  and likely CAD.
+2360	0	a	Pt w brief 2 week trial of simvastatin self-dc'd 2/2 myalgias and generalized weakness but nl LFTS/CK/GFR.
+2361	0	a	Pt now on pravastatin x 2 weeks and appears to be well-tolerated thus far.
+2362	0	a	Again reviewed possible side effects and she knows to call w any concerns or questions
+2363	0	a	----continue pravastatin 20mg qhs; reivwed possible side effects and instructed to call w concerns
+2364	0	a	----pt instructed that she will need repeat lipids and LFTS in ~ 6-8 weeks after starting pravasatin; will check at next visit
+2365	0	a	----recommended low cholesterol diet
+2366	2	a	4) Likely stable angina/CAD; now s/p Cardiology, consult w Dr. Uphoff who feels that clinical presentation c/w stable angina/CAD and has recommended trial of optimizing medical management w nitrates and BB/CCB for now.
+2367	0	a	Reviewed consult recs with patient.
+2368	0	a	however, if this does not work, will consider possible cath/stress test.
+2369	0	a	pt appears to be tolerating increase in BB and has not yet started imdur.
+2370	0	a	recent LDL above goal but just restarted statin so will need fu measurement in ~ 4 weeks.
+2371	0	a	----continue asa 81 mg qd; increased metoprolol 100mg BID, ARB, and pravastatin 20mg qhs
+2372	0	a	----fu appt w dr uphoff in ~ 1 week
+2373	0	a	----pt to add imdur 30mg as soon as arrives from pharmacy
+2374	0	a	5) Left ear impaction: Left TM w nearly completely obstructing cerumen.
+2375	0	a	Irrigated ear w full removal and visualizatino of nl TM post irrigation.
+2376	0	a	Pt confirms complete resolution of sxs w return of nl hearing.
+2377	0	a	pt felt well post irrigation w no dizziness.
+2378	0	a	disucsed possible dizziness and she will sit in waiting room for a while and make sure that she does not experience.
+2379	0	a	6) HCM:
+2380	0	a	----recevied flu shot
+2381	0	a	----will give h1n1 today 
+2382	0	a	---will give tdap today
+2383	0	a	To DO;
+2384	0	a	----fu on mammogram
+2385	0	a	---continue to discuss colonscopy
+2386	0	a	Pt to RTc in ~ 1 mos or sooner if needed.
+2387	0	a	Record date: 2081-03-21
+2388	0	a	Plastic Surgery Consult Note
+2389	0	a	Chief PRS:  Dr. Anthony Giles
+2390	0	a	Senior PRS:  Dr.
+2391	0	a	Dawn Julian
+2392	0	a	Junior resident: Dr. Oneida Norwood
+2393	0	a	Date: 3/21/2081
+2394	0	a	Patient Name:  Vieira, Nathan
+2395	0	a	MRN: 0666729
+2396	0	a	CC: 
+2397	0	a	Consult for radial artery harvest
+2398	2	a	HPI:  74 RHD M with coronary artery disease, hypertension, hyperlipidemia, Type II DM, peripheral arterial disease and prior cigarette abuse  admitted to the Vascular Surgery service on 3/8 with critical limb ischemia.
+2399	0	a	On 03/09/2081, he underwent peroneal and popliteal angioplasty with thrombolysis of the femoral-popliteal bypass graft and stenting of the proximal anastomosis by Dr. Godfrey.
+2400	1	a	This was complicated by a postoperative MI.
+2401	0	a	03/15/2081, cardiac catheterization 
+2402	2	a	is significant for left main and multivessel coronary artery disease, and CABG was planned.
+2403	0	a	Of note, his cath was complicated by pseudoaneurysm of the right brachial artery at the point of access.
+2404	0	a	He was evaluated by SonoSite by the cardiac surgical PA, and was found to have no available venous conduit secondary to his multiple lower extremity procedures.
+2405	0	a	We are therefore consulted for radial artery harvest.
+2406	0	a	PMH:  
+2407	0	a	CAD-remote, silent myocardial infarction 
+2408	0	a	Hypertension
+2409	0	a	Hyperlipidemia
+2410	0	a	Diabetes Mellitus Type II
+2411	0	a	Peripheral Neuropathy
+2412	0	a	Peripheral Arterial Disease-S/P (R) femoral to below knee popliteal BPG with PTFE, 02/2078
+2413	0	a	-S/P (L) femoral to below knee popliteal BPG with PTFE, 04/2078 
+2414	0	a	-S/P (L) open thrombectomy femoral-popliteal BPG, 12/2078
+2415	0	a	-S/P (L) femoral artery cutdown, graft thrombecomy, patch angioplasty of CFA, patch angioplasty of proximal BPG, angiogram of LLE, balloon angioplasty of posterior tibial artery, balloon angioplasty of peronral artery, balloon angioplasty of tibioperoneal artery with placement of stent, 05/2080
+2416	0	a	-S/P (L) popliteal exploration with graft thrombectomy and stent placement of proximal graft, 05/2080
+2417	0	a	-precedure c/b LLE MRSA requiring I&amp;D and VAC dressing x 2, 07/2080
+2418	0	a	Prostate Cancer
+2419	0	a	Neurogenic Bladder
+2420	0	a	Psoriasis
+2421	0	a	Shoulder Surgery-S/P (L)
+2422	0	a	Tonsillectomy
+2423	0	a	MEDS: 
+2424	0	a	Acetaminophen (tylenol )  325-650 MG PO Q6H
+2425	0	a	Acetylcysteine 20%(200 mg/ml) 1200 MG PO BID
+2426	0	a	Acetylsalicylic acid (aspirin)  325 MG PO DAILY
+2427	0	a	Captopril 6.25 MG PO TID
+2428	0	a	Carvedilol (coreg)  3.125 MG PO BID
+2429	0	a	Collagenase (santyl ) 1 APPLICATION TOP TID
+2430	0	a	Digoxin 0.25 MG IV Q6H
+2431	0	a	Docusate sodium (colace ) 100 MG PO BID
+2432	0	a	Furosemide (lasix ) 60 MG PO BID
+2433	0	a	Heparin cardiac sliding scale iv 500-1500 Units/Hr IV CONTINUOUS INFUSION 
+2434	0	a	Insulin aspart (novolog ) 14 UNITS     SC QPM BEFORE SUPPER
+2435	0	a	Insulin aspart (novolog ) 15 UNITS     SC QAM BEFORE BREAKFAST
+2436	0	a	Insulin aspart (novolog ) Sliding Scale SC TID AC
+2437	0	a	Insulin nph human 20 UNITS     SC QAM BEFORE BREAKFAST
+2438	0	a	Nitroglycerin paste 2% (nitrol paste ) 1 INCHES TOP Q4H
+2439	0	a	Sennosides (senna tablets ) 2 TAB PO Q12H
+2440	0	a	Simvastatin (zocor ) 40 MG PO DAILY
+2441	0	a	Vancomycin hcl (vancocin hcl ) 1000 MG IV BID
+2442	0	a	ALL:  Adhesive tape (Rash)
+2443	0	a	Physical Exam:
+2444	0	a	General:  
+2445	0	a	Alert, pleasant, NAD
+2446	0	a	RUE:  Palpable 2+ radial pulse, weakly dopplerable ulnar pulse.
+2447	0	a	Allen&#8217;s test: prior to compression of radial artery, SpO2 100%.
+2448	0	a	During compression, signal lost by probe within seconds.
+2449	0	a	Upon release, signal regained, SpO2 again 100%.
+2450	0	a	Localized edema of upper arm,  no obvious pulsatile mass.
+2451	0	a	LUE:  Well-healed scar anterior shoulder from prior surgery.
+2452	0	a	Palpable 2+ radial, 1+  ulnar pulses.
+2453	0	a	Allen&#8217;s test:  prior to compression of radial artery, SpO2 99%.
+2454	0	a	Remained 99% with compression of radial artery X2 minutes.
+2455	0	a	Clinical Allen&#8217;s test:  somewhat sluggish (5-6 seconds) pinking up of the exsanguinated hand upon release of the ulnar artery.
+2456	0	a	Labs/studies:
+2457	0	a	WBC                              6.3                       (4.5-11.0)     th/cmm
+2458	0	a	HCT                              32.4             L        (41.0-53.0)    %
+2459	0	a	HGB                              10.7             L        (13.5-17.5)    gm/dl
+2460	0	a	RBC                              4.04             L        (4.50-5.90)    mil/cmm
+2461	0	a	PLT                              245                       (150-400)      th/cumm
+2462	0	a	MCV                              80                        (80-100)       fl
+2463	0	a	MCH                              26.5                      (26.0-34.0)    pg/rbc
+2464	0	a	MCHC                             33.0                      (31.0-37.0)    g/dl
+2465	0	a	RDW                              16.1             H        (11.5-14.5)    %
+2466	0	a	PT                               14.3             H        (10.3-13.2)    sec
+2467	0	a	PT-INR                           1.3
+2468	0	a	APTT                             75.4             H        (21.0-33.0)    sec
+2469	0	a	Plasma Sodium                    137                       (135-145)      mmol/L
+2470	0	a	Plasma Potassium                 4.3                       (3.4-4.8)      mmol/L
+2471	0	a	Plasma Chloride                  103                       (100-108)      mmol/L
+2472	0	a	Plasma Carbon Dioxide            22.9             L        (23.0-31.9)    mmol/L
+2473	0	a	Plasma Anion GAP                 11                        (3-15)         mmol/L
+2474	0	a	Calcium                          9.1                       (8.5-10.5)     mg/dl
+2475	0	a	Phosphorus                       4.2                       (2.6-4.5)      mg/dl
+2476	0	a	Magnesium                        1.6                       (1.4-2.0)      meq/L
+2477	0	a	Plasma Urea Nitrogen             11                        (8-25)         mg/dl
+2478	0	a	Plasma Creatinine                1.05                      (0.60-1.50)    mg/dl
+2479	0	a	eGFR                             &gt;60                                      mL/min/1.73m2
+2480	1	a	Assessment: 74 M with PVD and recent MI, preop for CABG sometime next week.
+2481	0	a	His left radial artery may be safe to use for conduit.
+2482	0	a	His right is not usable.
+2483	0	a	Recs:
+2484	0	a	-          Preop per Cardiac Surgery Service
+2485	0	a	-          Patient to be seen by Dr. Queen Olivares, Plastic Surgery Fellow.
+2486	0	a	She will not be available for radial artery harvest on Thursday of next week.
+2487	0	a	Discussed with Dr. Queen Olivares, Plastic Surgery Fellow.
+2488	0	a	__________________________
+2489	0	a	Oneida Norwood MD, PGY-2
+2490	0	a	Resident in General Surgery
+2491	0	a	Pager-56956
+2492	0	a	Patient seen and examined.
+2493	0	a	Addendum to above note on 3/22/81:
+2494	0	a	ROS: 
+2495	0	a	Denies HA, visual change
+2496	0	a	Denies CP, SOB, palpitations
+2497	0	a	Denies n/v, GI upset
+2498	0	a	Denies h/o seizures
+2499	0	a	Currently has LLE wound (from recent procedure)
+2500	0	a	"States is R. handed, likes to golf, states hands are always cold and sometimes turn ""blue""-no pain associatd w/ symptoms"
+2501	0	a	Denies new onset of UE/LE weakness
+2502	0	a	Plan:
+2503	0	a	Allen's test on RUE is abnormal and is consistent with a dominant radial artery, however, left appears to be fine.
+2504	0	a	Will likely attempt harvest of LUE radial artery-will retest Allen's test intraop as welll
+2505	0	a	Please avoid any additional needle sticks or blood draws from the LUE
+2506	0	a	Please let the plastic team know ASAP of the surgery date so that our schedule can be coordinated with the CABG surgery
+2507	0	a	Record date: 2096-03-10
+2508	0	a	HALL, NICK
+2509	0	a	65219816
+2510	0	a	03/10/2096
+2511	0	a	Youssef Nall, M.D.
+2512	0	a	Ludlow Medical Center
+2513	0	a	45 Wilder St
+2514	0	a	Post, IN  86454
+2515	0	a	Dear Dr. Nall:
+2516	1	a	It was a pleasure to see Nick Hall again in the Cardiology clinic at Wytheville South Hospital in followup of his post myocardial infarction care.
+2517	0	a	As you are well aware, he has many coronary risk factors.
+2518	0	a	He is a 55-year-old gentleman with past history Hodgkin's disease, status post mantle radiation in the early 2070s and left upper lobe lobectomy in 2094 for early stage squamous cell lung cancer that was complicated by VT/VF arrest.
+2519	0	a	He has history of hypertension, hypercholesterolemia, as well as overweight.
+2520	0	a	He does not have a former history of type 2 diabetes, but on recent screening, his hemoglobin A1c has been elevated at 8%.
+2521	2	a	His prior history of coronary artery disease dates back to 2087 and 2090 when he had non-ST elevation MI and coronary interventions to his LAD and RCA.
+2522	1	a	He has subsequently had a VT/VF arrest during his lobectomy in 2094, which required emergent coronary angiographic resuscitation where he was found to have a massive thrombus throughout his right coronary artery that required thrombectomy and POBA with good results.
+2523	0	a	He remarkably has had a preserved LV function after all of these infarctions with only some basal inferoposterior hypokinesis.
+2524	2	a	In 01/2095, he developed recurrent exertional and then unstable angina, presented to Wytheville Sanitarium Hospital Emergency where he was considered to be high risk acute coronary artery syndrome with positive troponins and proceeded to the catheterization clinic where he again had proximal LAD and RCA occlusions, both which were intervened with drug-eluting Cypher stents with good results.
+2525	0	a	Since then, he has been doing well and has been instructed to be on double dose clopidogrel 150 mg lifelong and full dose aspirin 325 mg p.o.
+2526	0	a	daily lifelong.
+2527	0	a	We see him in followup today, and again, he has no limitations in his exertional capacity.
+2528	0	a	Work has been tough in consulting and he is now working 2 jobs including overnight shifts, which is strenuous at times.
+2529	0	a	He is looking for work as a dog walker and will find out soon whether he can quit his evening jobs and will be able to increase his exercise capacity such that he will be doing more walking with that job.
+2530	0	a	He has no chest pain, shortness of breath, palpitations, presyncope, or syncope with exertion.
+2531	0	a	He has no signs or symptoms of heart failure.
+2532	0	a	He has been taking his blood pressures at home, which range at about 126/81 to 142/92 with an average of 135/85.
+2533	0	a	His heart rates have been in 50s-70s.
+2534	0	a	He has had no side effects to his medications.
+2535	0	a	He is not smoking and he is not drinking alcohol.
+2536	0	a	He says that he walks for 2-3 miles when the weather is nice, but given that it has been a harsh winter, he has not been doing this often.
+2537	0	a	His current medications, aspirin 325 mg p.o.
+2538	0	a	daily, clopidogrel 150 mg p.o.
+2539	0	a	daily, atorvastatin 80 mg p.o.
+2540	0	a	daily, levothyroxine 125 mcg p.o.
+2541	0	a	daily, and metoprolol sustained release 200 mg p.o.
+2542	0	a	b.i.d.
+2543	0	a	Physical Examination: Nick looked well.
+2544	0	a	His weight was 232 pounds, his blood pressure was 153/89 in the right arm and 150/95 in the left arm with a large cuff, and his heart rate was 69 and regular.
+2545	0	a	His head and neck exam revealed normal jugular venous pressure and normal carotid upstroke and contour.
+2546	0	a	There are no bruits.
+2547	0	a	His chest is clear to auscultation.
+2548	0	a	He was not clubbed.
+2549	0	a	His cardiovascular exam revealed a normal left apex and normal S1 and S2 with no additional gallops, rubs, or murmurs.
+2550	0	a	He had no peripheral edema.
+2551	0	a	His abdomen was soft and nontender with no organomegaly.
+2552	0	a	His pulses were palpable 2+ throughout.
+2553	0	a	EKG:  Normal sinus rhythm, heart rate 61, minimal voltage criteria for LVH and left atrial enlargement.
+2554	0	a	Prior inferior Q-wave MI.
+2555	0	a	Lab values from today:  His electrolyte panel was notable for sodium 144, potassium 4.1, chloride 107, bicarb 28, creatinine 1, urea 16, normal calcium, normal LFTs, and normal CK level.
+2556	0	a	TSH was also normal.
+2557	0	a	Hemoglobin A1c was elevated at 6.8%.
+2558	0	a	Lipid levels:  Total cholesterol 164, TG 145, HDL 33, LDL 102.
+2559	0	a	Echocardiogram from last year revealed normal LV ejection fraction of 60%-65%.
+2560	0	a	Mild left atrial enlargement, no LVH.
+2561	1	a	Impression:  Nick is still borderline hypertensive, and in the setting of having survived multiple myocardial infarctions, Hodgkin lymphoma and now declaring himself as potential glucose intolerant and early diabetic, I think it is time to start an ACE inhibitor as we have discussed previously.
+2562	0	a	We started him on ramipril 2.5 mg today and he will increase that to 5 mg a day after tolerating it for 2 weeks.
+2563	0	a	He will take his blood pressures at home few times a week.
+2564	0	a	To simplify and decrease his beta-blocker regimen we switched to atenolol 100mg daily today.
+2565	0	a	We also discussed increasing his lipid management by adding niacin again starting at 500 mg extended release for a month and then he will increase that to 1 g a day.
+2566	0	a	He was cautioned on the adverse potential reactions of facial flushing and headache and he was instructed to take his aspirin 325 about 30 minute prior to his niacin to minimize these potential side effects.
+2567	2	a	With regards to his coronary artery disease, all this time we have assumed that his atherosclerosis has been secondary to high dose radiation exposure when he was a child.
+2568	0	a	Nevertheless, Dr. Turner had a great suggestion that we screen him for quantitative platelet function inhibition, given we recently started performing this test at WSH and previously had recurrence on normal strength doses of clopidogrel and aspirin.
+2569	0	a	The results may not changes our current management strategy, but it may give us insight into his premature CAD etiology, particularly coronary artery thrombus, as well as play a future role in familial screening.
+2570	0	a	To that end, we have requested light transmission aggregometry for platelet function inhibition.
+2571	0	a	We have also requested a thrombophilia workup, including factor V Leiden, prothrombin gene mutation, protein C and S levels, antithrombin level and homocysteine and CRP today.
+2572	0	a	Otherwise, I believe Nick is doing well.
+2573	0	a	We will see him again in 6 months' time with follow up on these studies.
+2574	0	a	If by then he still has evidence of diabetes, and trouble losing weight, we will refer him to our nutritionist for counseling and refer him to hadley memorial hospital.
+2575	0	a	He may need a structured monitored exercise program in order to help improve his exercise capacity.
+2576	0	a	This patient was discussed with Dr. Turner in clinic.
+2577	0	a	Yours sincerely,
+2578	0	a	______________________________
+2579	0	a	Dictated by: Yisroel F Cooley, MD MPH FRCPC
+2580	0	a	Email: yfcooley@wsh.org
+2581	0	a	Paul Turner, MD
+2582	0	a	ATTENDING
+2583	0	a	eScription document:8-4867586 HFFocus
+2584	0	a	DD: 03/10/96
+2585	0	a	DT: 03/11/96
+2586	0	a	DV: 03/10/96
+2587	0	a	Record date: 2069-09-17
+2588	0	a	                        OFFICE NOTE
+2589	0	a	  Andrew Conner
+2590	0	a	  MRN: 9911852
+2591	0	a	  September 17, 2069 
+2592	0	a	  Problems:
+2593	0	a	  1.
+2594	0	a	Diabetes mellitus.
+2595	0	a	He continues on Glucotrol and
+2596	0	a	  Glucophage.
+2597	0	a	Blood sugars appear to be in pretty good range.
+2598	0	a	Last A1C was respectable.
+2599	0	a	To be repeated today.
+2600	0	a	2.
+2601	0	a	Hyperlipidemia.
+2602	0	a	Lipids are pending.
+2603	0	a	3.
+2604	3	a	Angina.
+2605	0	a	Previous stress test showed positive EKG
+2606	0	a	  changes, equivocal scan.
+2607	0	a	Mild angina.
+2608	0	a	Started on trans-
+2609	0	a	  derm nitro.
+2610	0	a	Totally must quit all cigars.
+2611	0	a	Lipids to be
+2612	0	a	  repeated.
+2613	0	a	4.
+2614	0	a	Hypertension.
+2615	0	a	On captopril, atenolol and trans-derm
+2616	0	a	  nitro.
+2617	0	a	Blood pressure _____/70, pulse 60 and regular, COR
+2618	0	a	  normal.
+2619	0	a	Impression:  Good control.
+2620	0	a	5.
+2621	0	a	Weight.
+2622	0	a	His weight is 192, should be 175.
+2623	0	a	Discussed.
+2624	0	a	Overall, he has got things he can do to improve, and these
+2625	0	a	  were all discussed in detail with the patient and his wife.
+2626	0	a	Brandon Walls, M.D.
+2627	0	a	Dictated/Not read
+2628	0	a	  BW/yamamoto
+2629	0	a	Record date: 2137-12-17
+2630	0	a	HIGHLAND HOSITAL VISIT
+2631	0	a	PT: Ellen Law
+2632	0	a	date of visit: 12/17/2137
+2633	2	a	cc: fu DM, HTN, CAD, and pre-op evaluation
+2634	0	a	HPI: Ellen is scheduled to have R cataract surgery on 1/16/2138.
+2635	0	a	Dr. Margaret Aria has requested that she be evaluated prior to surgery.
+2636	0	a	Today, reports that she is doing well.
+2637	0	a	She graduated from cardiac rehab and is now going to enroll in a supervisored exercise program.
+2638	0	a	today, she denies any chest pain or pressure, sob at rest; mild, stable R ankle swelling.
+2639	0	a	denies DOE but describes improvement in her exercise capacity.
+2640	0	a	does have to stop sometimes bc she is having the very beginnings of her prior jaw pain.
+2641	1	a	however, this is much less than it was prior to her CABG and is also improving.
+2642	1	a	"she is really ""so much better"" post CABG."
+2643	0	a	reports improving energy; she is very busy, going from morning until night w no sign't limitations.
+2644	0	a	no PND, sleeps on 1 pillow.
+2645	0	a	no pain in her legs when she walks.
+2646	0	a	reports that she is really working on her FS; her FS in the AM ~ 90-180 but now on the lower side.
+2647	0	a	she is taking lantus 42 units in the AM and 48 in the PM.
+2648	0	a	no trouble w hypoglycemia.
+2649	0	a	her postprandial FS ~ 120s (~ 3 hours)
+2650	0	a	reports that she is very stressed today;  her grandson is in hte hosp (has bipolar do and struggling); feeling like it is re to stress
+2651	0	a	denies polyuria, polydipsia, polyphagia
+2652	0	a	had flu shot last visit
+2653	0	a	Problems
+2654	0	a	Diabetes mellitus 
+2655	0	a	Malignant tumor of urinary bladder : stage 1, now s/p bcg treatment, followed by urology
+2656	0	a	Hypertensive disorder 
+2657	0	a	Obesity 
+2658	0	a	Retinal detachment : s/p repair Dr. Cleveland
+2659	2	a	Coronary arteriosclerosis 
+2660	0	a	Medications
+2661	0	a	Aspirin (ACETYLSALICYLIC Acid) 81 MG (81MG TABLET Take 1) PO QD #90 Tablet(s)
+2662	0	a	Kcl Slow Release Tab 20 MEQ (20 MEQ TAB PRT SR Take 1) PO QD #90 Tablet(s)
+2663	0	a	Lantus Solostar Pen (INSULIN Glargine Solostar Pen) 62 UNITS (100/ML (3) INSULN PEN ML) SC as directed, take32 units in the AM and 30 units in the PM #3 Month(s) Supply
+2664	0	a	Lasix (FUROSEMIDE) 40 MG (40 MG TABLET Take 1) PO BID #180 Tablet(s)
+2665	0	a	Metoprolol Succinate Extended Release 100 MG (100 MG TAB.SR 24H Take 1) PO QD #90 TAB.SR
+2666	0	a	Nifedipine Extended Release 30 MG (30 MG TAB ER 24 Take 1) PO QD #90 Tablet(s)
+2667	0	a	Pravastatin 20 MG (20MG TABLET Take 1) PO QHS #90 Tablet(s)
+2668	0	a	Solostar Prefilled Disposable Lantus Insulin Pen 65 UNITS SC qd, Member ID# 033388269 #3 Month(s) Supply
+2669	0	a	Vitamin D2 (ERGOCALCIFEROL) 50000 UNITS (50000 UNIT CAPSULE Take 1) PO #Capsule(s)
+2670	0	a	Allergies
+2671	0	a	AZITHROMYCIN - Unknown
+2672	0	a	ACE Inhibitor - cough
+2673	0	a	Latex, Natural Rubber - TONGUE SWELLING
+2674	0	a	TOB: quit 2120; smoked 2ppd x 15 yrs ETOH: noneIVDU/illict drugs: none 
+2675	0	a	SH: originally from Mt.
+2676	0	a	Married for 39 years to Friedman, describes marriage asgood, safe.
+2677	0	a	Has 2 children and 8 grandchildren.
+2678	0	a	Has 2 daugthers, 1 lives inhartsville and 1 in nuku'alofa.
+2679	0	a	no pets.
+2680	0	a	fulltime Author.
+2681	0	a	husband has h/pprostate CA.
+2682	0	a	FH:(no known )h/o sudden death, hyperlipidemia+ Dm in father (dxd in his 60-70)+ mgm w stroke (+CHF in ther mother+mUncles x 2 with MIs (~ 60's_(no known) h/o endometrial, ovarian, thyroid, melanoma, breast, prostate + colon cancer in her mother, dx'd 55-60yo(no known )h/o osteoporosis/premature bone loss(no known )h/o colon polyp, dysplasic nevi(no known )h/o pe, DVT, miscarriages, bleeding disorders (+)h/o glaucoma in mUncle(no known ) h/o depression, suicide, schizophrenia + dementia in her mother+alcoholis in 2 muncles+ bipolar do in grandson
+2683	0	a	Vital Signs
+2684	0	a	BP 144/70, P 68, Temp 97.2 F
+2685	0	a	general: well-appearing F in NAd
+2686	0	a	HEENt: anicteric, PERRL, EOMI, mmm, no jvd, no carotid bruits appreciated bl, 2 + carotid upstrokes
+2687	0	a	NECK: supple, FROM
+2688	0	a	PULM: CTAB w good air movement.
+2689	0	a	no wheezes, rhonchi, or crackles
+2690	0	a	COR: rrr, nl S1S1, no M/R/G
+2691	0	a	ABD: soft, ntnd, +Bs
+2692	0	a	EXT: wwp, no trace bl edema, no calf tenderness 
+2693	0	a	NEURO: appropriate, ox 3, speech fluent.
+2694	0	a	CN II-XII intact.
+2695	0	a	Motor strength 5/5 in all ext.
+2696	0	a	Reflex 1+ symmetric throughout.
+2697	0	a	Light touch and temp sens intact
+2698	1	a	EKG (prelim): sinus at 63 bpm; nl intervals, LAD (unchanged); c/w past inferior IMI,  anteroseptal
+2699	0	a	V3 different compared to 10/2137; previusly w downward deflection; ?
+2700	0	a	re to lead placement
+2701	0	a	otherwise appears unchanged compred to 10/26/2137
+2702	0	a	A/P: 62 yo F presenting re multiple medical issues.
+2703	2	a	1) CAD s/p recent CABG: doing well.
+2704	0	a	followed closely by Cardiology dr Uphoff.
+2705	0	a	now  finished w cardiac rehab and appears to be doing  very well.
+2706	0	a	mild jaw discomfort (posible anginal equivalent) improving w improved conditioning.
+2707	0	a	Dr. Uphoff aware and has recomemnded ongoing conditioning and close monitring.
+2708	0	a	no further palpitations; she knows to c all if recurrent.
+2709	0	a	recent LDL within goal.
+2710	0	a	pt confirms 100% adherence to meds.
+2711	0	a	BP elevated today but reoprtedly within goal at PT/rehab and at other doctors appts
+2712	0	a	---continue asa 81 mg, metoprolol, nifedipine, and prn lasix per Cardiology
+2713	0	a	---cardiac rehab
+2714	0	a	---encouraged ongoing healthy eating, wt loss, and exercise (W cardiac rehab
+2715	0	a	2) DM: most recent 11/06/2137 hgba1c 7.6 % (from 7.8%), nearing goal.
+2716	0	a	Pt w improved FS today esp w increases to lantus ~ 42-48units BID.
+2717	0	a	no episodes of hypoglycemia now that she has stopped the novolog.
+2718	0	a	will rechecking hgba1c at next visit.
+2719	0	a	1/2137 urine microalbum to creat within goal.
+2720	0	a	optho uptodate she will call w any problems, concerns, persistently elevated FS, sxs.
+2721	0	a	continue to follow closely.
+2722	0	a	applauded and encouraged ongoing wt loss.
+2723	0	a	2136 pneumovax; 2137 flu shot uptodate
+2724	0	a	3) urology: h/o bladder CA: 9/2137 cystoscopy wnl; recommended fu in 1 year
+2725	0	a	4) HTN: BP typically well-controlled on current regimen; pt feels re to feeling very stressted today.
+2726	0	a	She will return to see me in ~ 2 weeks and recheck then.
+2727	0	a	will also have her cousin check it at home severe times to add a few more date points
+2728	1	a	5) Pre-op risk assessment prior to upcoming cataract surgery: According to AHA/ACC guidelines, pt has intermediate/mod risk for a low risk surgery and undewent successful CABG/revascularization &gt;6 months ago (5/14/2137) and has no clear significant symptoms related to this.
+2729	0	a	She does not need further invasive testing at this time for low risk surgery.
+2730	0	a	I will, however, confirm this w her cardiologist to make sure he does have any issues as well with her surgery and add that as an addendum to this note.
+2731	0	a	Pt's BP is mildly elevated today but typically within goal on her current regimen.
+2732	0	a	I will see her back in ~ 2 weeks time, prior to surgery and make sure her BP is well controlled.
+2733	0	a	Pt has no hx to suggest bleeding diathesis but will checking her pt/ptt and cbc today.
+2734	0	a	Pt will discuss with Dr. Arias regarding when she needs to stop her ASA.
+2735	2	a	she is on this for her CAD so important to resume as soon as possible; I will also confirm w Dr. Uphoff re his opinions re the asa.
+2736	0	a	Diabetes control improving (see above).
+2737	0	a	A copy of this letter along w labs and EKG will be sent to Dr. Arias.
+2738	0	a	6) HCM:
+2739	0	a	----reviewed mammogram: pt wishes to defer for now; understands risks/benefits; she will redisucss at fu visit
+2740	1	a	----colo: brought upt again today need for screening but pt did not wish to discuss and still &lt;1 year post CABG
+2741	0	a	Pt to RTC in 2 weeks or sooner.
+2742	0	a	&gt;50% of 35 minute visit spent counsleing patient re above issues.
+2743	0	a	____________________________________
+2744	0	a	Margaret Erik Alvarez, M.D.
+2745	0	a	Record date: 2161-08-09
+2746	0	a	Patient Name: LE, WILLIAM;  MRN: 0540099
+2747	0	a	Dictated on: 08/09/2161 by WILSON RUCKER, M.D.
+2748	0	a	CHIEF COMPLAINT:  The patient presents for evaluation of chronic neck and left arm pain.
+2749	1	a	HPI:  This is a 71-year-old right-handed gentleman with past medical history significant for insulin-dependent diabetes, coronary artery disease, status post bypass surgery, hypertension, and bladder cancer, who presents with worsening neck and left arm pain, which is now interfering with his daily life.
+2750	0	a	The patient has had a chronic arthritic pain throughout his body, which he has been complaining of for approximately 10 years involving his 
+2751	0	a	neck, shoulder, arms, knees, and back.
+2752	0	a	More recently in the past months to couple of years, his neck, left arm, and shoulder pain have been his predominant pain symptoms.
+2753	0	a	It has been a gradual onset.
+2754	0	a	He has had similar problems in the past.
+2755	0	a	He reports that his pain is intermittent and occurs daily.
+2756	0	a	He states the pain is burning, cramping, pins and needle, sharp, numb, shooting pain, dull achy, electric- like, throbbing, and pressure-like.
+2757	0	a	The pain involves numbness to his hands and fingers on his left arm.
+2758	0	a	His pain ranges from 10/10 at worst to 0/10 at best.
+2759	0	a	It is worse in almost all active positions including lying down, standing, sitting, walking, and driving.
+2760	0	a	Medications do not seem to help.
+2761	0	a	Relaxation and rest decreases the pain.
+2762	0	a	It is also worsened by lifting or bending his neck.
+2763	0	a	He tried physical therapy approximately 10 days ago at Manamana with minimal to no relief.
+2764	0	a	The patient has had injections to his cervical spine in the past, he has had shoulder injections, which helped in the past.
+2765	0	a	He had MRI performed of his 
+2766	0	a	cervical spine on March 21, 2161, which documented moderate- to-severe degenerative changes throughout his cervical spine with significant right neuroforaminal narrowing at multiple levels.
+2767	0	a	There is narrowing of the left neural foramen at 
+2768	0	a	C5-6.
+2769	0	a	PAST MEDICATIONS:  The patient is not clear what pain medicines he has taken in the past.
+2770	0	a	Current medications include Nexium, Colace, atenolol, aspirin, Neurontin 200 mg two times a day, insulin, Pravachol, glucosamine chondroitin, vitamin E, Lasix, and potassium chloride.
+2771	0	a	He has allergies to penicillin, Vioxx, and Lipitor.
+2772	2	a	Past medical history is significant for high blood pressure, heart disease, insulin-dependent diabetes, 
+2773	0	a	hypercholesterolemia, congestive heart failure, and bladder cancer.
+2774	0	a	SURGICAL HISTORY:  He denies any spine surgery.
+2775	0	a	He has had two prior arthroscopic knee surgeries.
+2776	0	a	He had twice left shoulder surgery; he is not clear what this was.
+2777	0	a	He has had a TURP.
+2778	0	a	PSYCHOSOCIAL HISTORY:  He has high school eduction.
+2779	0	a	He is not currently engaged in regular exercise program.
+2780	0	a	His pain does limit his daily activities, especially bending over and also affects his recreational activities including regular yard work and lifting.
+2781	0	a	He also has lifting restrictions from orthopedic physician as well as yard work restrictions from his cardiac physician.
+2782	0	a	He is a retired wholesale specialist.
+2783	0	a	He worked for over 30 years in sales 
+2784	0	a	business.
+2785	0	a	He is not currently working.
+2786	0	a	He is married and lives in Dickinson, Maryland.
+2787	0	a	He denies any history of alcoholism, detox program or current tobacco use.
+2788	0	a	He denies any history of psychologic evaluation or treatments including _____ and no history of abuse.
+2789	2	a	He has family history heart disease and diabetes.
+2790	0	a	Review of systems is negative for any unexplained weight loss, fevers, chills, recent infections, bleeding, positive bowel or bladder incontinence, numbness in the genital area.
+2791	0	a	He does report some numbness and tingling in his arms as well as legs as reported above and some generalized weakness of his muscles, particularly with his left upper extremity muscles throughout.
+2792	0	a	He denies any problems with sleep.
+2793	0	a	PHYSICAL EXAMINATION:  In general, he is a well-appearing gentleman appearing his stated age, slight obese, well nourished, well groomed.
+2794	0	a	Psychiatric:  Normal attention and concentration, normal mood and affect.
+2795	0	a	Eyes:  Conjunctivae anicteric, no ptosis.
+2796	0	a	Skin:  No rashes or lesions.
+2797	0	a	Heart: Regular rate and rhythm.
+2798	0	a	Lungs:  No intercostal retractions 
+2799	0	a	or accessory muscle use.
+2800	0	a	Musculoskeletal:  Spine 
+2801	0	a	inspection, no significant kyphoscoliosis.
+2802	0	a	Cervical range of motion is limited throughout.
+2803	0	a	Flexion 20 degrees, extension 10 degrees, rotation is 20 degrees, right and left.
+2804	0	a	The patient is unable to side bend significantly.
+2805	0	a	Reflexes are 2+, bilateral biceps, triceps, brachioradialis.
+2806	0	a	Manual muscle testing is 5/5, bilateral upper extremities 
+2807	0	a	with the exception of wrist extension, shoulder abduction, and shoulder flexion and extension, and internal, external rotation.
+2808	0	a	Muscle tone is normal with the exception of asymmetry in the left hand interossei.
+2809	0	a	Sensory testing is impaired to pinprick, throughout bilateral upper extremities to the elbows.
+2810	0	a	Intact grossly to light touch per the patient's report.
+2811	0	a	Gait is steady with a cane.
+2812	0	a	The patient has signs of limited range of motion in the left shoulder, status post multiple surgeries and limited range of motion in all directions.
+2813	0	a	He has some palpation tenderness of the cervical spine, in C5-6 and C4-5 paravertebral areas on the left.
+2814	0	a	Medical decision making involved review of the patient's radiology reports and radiology films.
+2815	0	a	IMPRESSION:  The patient has a significant degenerative disease of his cervical spine.
+2816	0	a	In addition, he has multiple levels of neural foraminal narrowing and herniation in the cervical spine.
+2817	0	a	In addition to this, he has symptoms consistent with diabetic peripheral neuropathy with also prior traumatic injury to his shoulder with possible brachial plexopathy.
+2818	0	a	RECOMMENDATIONS:  
+2819	0	a	1.
+2820	0	a	Given the multiple etiologies possible for his symptoms in his left arm, which are his predominant symptoms:  Brachial plexopathy versus peripheral neuropathy versus cervical radiculopathy, we have referred the patient for an EMG to delineate the cause of his symptoms.
+2821	0	a	2.
+2822	0	a	He will return to clinic after his EMG and from that point, we will decide the course of action for pain management.
+2823	0	a	At this time, he will continue on the Neurontin 200 mg two times a day.
+2824	0	a	We will review his medications on next visit.
+2825	0	a	We provided the patient also with education in regards to his problems and the treatment options.
+2826	0	a	______________________________ 
+2827	0	a	Tyler Quinonez, M.D.
+2828	0	a	DD:08/09/2161 
+2829	0	a	DT:08/10/2161 
+2830	0	a	YG:272499    :3240
+2831	0	a	Record date: 2084-05-26
+2832	0	a	HCC CANCER CENTER ADMIT NOTE
+2833	0	a	PATIENT:  Ulyses Vollmer
+2834	0	a	MRN:        8740465
+2835	0	a	DOA:        May 26, 2084
+2836	0	a	CC:  73M w/ metastatic esophageal CA presenting to ED after presyncopal episode
+2837	0	a	Oncologic History
+2838	0	a	6/83  Dysphagia
+2839	0	a	7/83  EGD GE jnc mass; mod-poorly differentiated adenoca.
+2840	0	a	CT chest:  esoph wall thickening at 35-40 cm extending to cardia, LAN: gastroepiploic, celiac and aortocaval, (L) axilla, gastrohepatic ligament, celiac axis and retrocrural space.
+2841	0	a	Also 3mm nodule adjacent to the (R) major fissure in the lung.
+2842	0	a	PET scan confirmed axillary and abdominal involvement with cancer.
+2843	0	a	8-9/83 XRT to esophagus
+2844	0	a	10/83  Weekly taxotere
+2845	0	a	2/17/84.
+2846	0	a	Extravasation of taxotere.
+2847	0	a	Subsequently held.
+2848	0	a	3/14/84  Restaging work-up revealed progressive disease.
+2849	0	a	Increasing mediastinal lymphadenopathy stable left axillary lymphadenopathy.
+2850	0	a	Interval increase in size in lingular and right upper lobe subpleural nodules suspicious for metastatic disease.
+2851	0	a	New small pericardial effusion and left pleural effusion.
+2852	0	a	There is partial loculation of the left effusion.
+2853	0	a	There is significant increase in size in the right pleural effusion.
+2854	0	a	3/2084 admitted for resection of brain met.
+2855	0	a	WBXRT afterwards
+2856	0	a	4/22/2084 - returns to clinic feels tired
+2857	0	a	5/06/2084 - restaging showed worsening disease.
+2858	0	a	Tired.
+2859	0	a	Occasional CP with exertion.
+2860	0	a	back pain
+2861	0	a	5/23/2084 - started Irinotecan
+2862	0	a	History of Present Illness:  Mr. Vollmer is a 73 yo man with stage IVB esophageal cancer s/p XRT and 6 mo weekly taxotere, complicated by RV thrombosis (on coumadin) and extravasation of taxotere on 2/17/84.
+2863	0	a	This was followed by brain resection and WBXRT.
+2864	0	a	He started Irinotecan on 5/23.
+2865	0	a	He woke from bed this am and fely dizzy and lightheaded upon standing.
+2866	0	a	By the time he reached the kitchen, he fell and hit the L side of his face on the floor, sustaining a small cut at his nose.
+2867	0	a	The patient reports that he did not lose consciousness.
+2868	0	a	No vertigo, no loss of continence, no uncontrolled movements of the extremities, no weakness, no parasthesias, no changes in vision, no chest pain, no shortness of breath.
+2869	0	a	Patient notes decreased appetite and poor PO intake over the past few days.
+2870	0	a	No recent bouts of diarrhea or nausea/vomiting.
+2871	0	a	He was brought to ED where he was placed on cardiac monitor.
+2872	0	a	EKG showed NSR with no evidence of arrhythmia.
+2873	0	a	Head CT showed no bleed or other abnormality.
+2874	0	a	Labs were consistent with dehydration and IVF started.
+2875	0	a	Review of Systems: 
+2876	0	a	General: decreased appetite over the past few weeks, markedly decreased PO intake over past several days.
+2877	0	a	No fevers.
+2878	0	a	Respiratory: no SOB, DOE, cough, hemoptysis
+2879	0	a	HEENT: No neck swelling, no neck stiffness, no hoarseness, no hearing loss
+2880	0	a	Cardiac: No chest pain, no palpitations, no arrythmias
+2881	0	a	Gastrointestinal: no N/V/diarrhea, + constipation, no bleeding
+2882	0	a	Neurologic: No seizures, new headaches, numbness, weakness 
+2883	0	a	Musculoskeletal: No new back pain, no saddle paresthsia, no neck pain, no leg pain, no arm pain
+2884	0	a	Urologic: No hematuria, no dysuria
+2885	0	a	Hematologic: No bruising, clotting, bleeding noted
+2886	0	a	Problems/PMH:
+2887	0	a	Esophageal Ca as above
+2888	0	a	Repair of Zenker's diverticulum in 2080
+2889	1	a	Aterial stent was placed in the mid LAD in 4/80; +stress thal 5/83
+2890	0	a	Hypercholesteremia
+2891	0	a	Arthritis
+2892	0	a	Borderline Diabetic
+2893	0	a	Heart murmur for 50 years
+2894	0	a	Medications
+2895	0	a	Decadron 2mg PO QD
+2896	0	a	Triamterene/hctz (MAXZIDE TABLET) 1 TAB PO QD 
+2897	0	a	Vitamin B COMPLEX 1 TAB PO QD 
+2898	0	a	Folic ACID 1 MG (1MG TABLET take 1) PO QD 
+2899	0	a	Iron SULFATE (FERROUS SULFATE) 325 MG (325(65)MG TABLET take 1) PO BID 
+2900	0	a	Lipitor (ATORVASTATIN) 10 MG (10MG TABLET take 1) PO QHS 
+2901	0	a	Dulcolax (BISACODYL) 5 MG (5MG TABLET take 1) PO 2 tabs QD 
+2902	0	a	Coumadin (WARFARIN SODIUM) 5 MG (5MG TABLET take 1) PO QPM , take 2 tablets tonight, then 1 QD
+2903	0	a	Terazosin (TERAZOSIN HCL) 5 MG (5MG TABLET take 1) PO QPM 
+2904	0	a	Compazine (PROCHLORPERAZINE MALEATE) 10 MG (10MG TABLET take 1) PO Q6H PRN nausea 
+2905	0	a	Lorazepam 1 MG (1MG TABLET take 1) PO Q4H PRN nausea and sleep 
+2906	0	a	Atenolol 25 MG (50MG TABLET take 0.5) PO QD 
+2907	0	a	Megace (MEGESTROL ACETATE SUSPENSION) 800 MG (40MG/ML ORAL SUSP take 20 ML) PO QD x 30 days 
+2908	0	a	Allergies
+2909	0	a	Codeine - Dizzy 
+2910	0	a	FH/SH:  
+2911	0	a	Living alone with family close by.
+2912	0	a	Never married No children.
+2913	0	a	Never smoked
+2914	0	a	Rare ETOH
+2915	0	a	Aerospace engineer for 40 years.
+2916	0	a	No family history of cancer 
+2917	0	a	Vital Signs
+2918	0	a	T96.1  P86  BP101/63   RR22  PulseOx94%RA
+2919	0	a	No apparent distree, no lightheadedness upon sitting up
+2920	0	a	Neck: no nodes palpable
+2921	0	a	HEENT: No thrush or mucositis; EOMI; PERRL
+2922	0	a	Skin: tan appearing despite little sun exposure
+2923	0	a	Ext: without edema, clubbing
+2924	0	a	Cor: S1 S2
+2925	0	a	Chest: clear lungs without wheezing or crackles
+2926	0	a	Abdomen: soft, NT no HSM
+2927	0	a	Nodes: neg cerv, sc
+2928	0	a	Neuro: grossly non-focal
+2929	0	a	ASSESSMENT AND PLAN:  73 yo man with IVB esophageal adenocarcinoma s/p XRT w/ weekly taxotere.
+2930	0	a	s/p WBXRT/resection.
+2931	0	a	Started Irinotecan 5/23.
+2932	0	a	Presyncopal episode in setting of dehydration.
+2933	0	a	Patient's skin has been noted by his MD's in the past as a possible sign of Addisonism (though no evidence of disease involvement of adrenalsand labs have not been consistent with this in the past).
+2934	0	a	He's currently maintained with Decadron 2mg/d.
+2935	0	a	1.
+2936	0	a	Vigorous IVF's
+2937	0	a	2.
+2938	0	a	Cardiac monitor overnight
+2939	0	a	3.
+2940	0	a	Possible adrenal dysfunction contributed to this episode.
+2941	0	a	Could consider switch to Florinef.
+2942	0	a	4.
+2943	0	a	Bowel regimen for constipation which is causing some discomfort  (though be wary of CPT-11's pro-diarrheal effects).
+2944	0	a	5.
+2945	0	a	Continue pain regimen.
+2946	0	a	_____________________________________________
+2947	0	a	Uriel Hendricks, M.D.
+2948	0	a	and Xavier Otero, MD
+2949	0	a	Record date: 2135-09-04
+2950	0	a	"	CARDIAC SURGERY"
+2951	0	a	"	"
+2952	0	a	"	GIBSON COMMUNITY HOSPITAL"
+2953	0	a	Date of Service: 09/04/2135 11:53
+2954	0	a	Demographics
+2955	0	a	Race: Other
+2956	0	a	Staff Cardiologist: Xenakis, Gregory
+2957	0	a	Referring Cardiologist: Whitlock, Tiffin
+2958	0	a	Referring Physician: Rucker, Quincy
+2959	0	a	History of Presenting Illness
+2960	0	a	Mr. Egan is a 72 year old male with a history of hypertension, hyperlipidemia and Type II DM.
+2961	0	a	Two weeks ago, he noted intermittent episodes of exertional dyspnea.
+2962	0	a	He was started on albuterol and advair with no improvement.
+2963	0	a	On 08/30/2135, he experienced worsening exertional shortness of breath and mild chest discomfort.
+2964	0	a	He sought medical attention at Natchaug Hospital ED.
+2965	0	a	An initial ECG revealed Q waves in V1-V4.
+2966	4	a	He ruled in for an myocardial infarction with a troponin on 2.0.
+2967	0	a	He was found to be in congestive heart failure.
+2968	0	a	He was given plavix, aspirin, lovenox and IV lasix with improvement in symptoms.
+2969	4	a	On 08/31/2135, he was transferred to Gibson Community Hospital for cardiac catheterization.
+2970	2	a	The results were significant for multivessel coronary artery disease and moderate mitral valve regurgitation with an left ventricular ejection fraction of 25 to 30%.
+2971	0	a	He was referred to Dr. Sebastian Dang for elective cardiac surgical revascularization and possible mitral valve repair.
+2972	0	a	He was discharged to home on 09/02/2135.
+2973	0	a	On 09/03/2135, he developed recurrent left sided chest pressure while at rest.
+2974	0	a	He took 2 SL TNG with improvement in symptoms.
+2975	0	a	He presented to Gibson Community Hospital ED.
+2976	0	a	He was started on IV heparin.
+2977	0	a	Initial cardiac biomarkers were negative.
+2978	0	a	He was found to have an elevated BNP to 2817.
+2979	0	a	A CXR showed congestive heart failure.
+2980	0	a	He was admitted to CAU.
+2981	0	a	He had an episode of chest pressure while at rest that resolved with 1 SL TNG.
+2982	0	a	He is being referred for consideration of cardiac surgery.
+2983	0	a	Indications
+2984	0	a	Congestive Heart Failure
+2985	3	a	Unstable Angina                                   
+2986	0	a	Pre-operative risk factors
+2987	0	a	Weight (lb): 150.5
+2988	0	a	Height (in): 70.5
+2989	0	a	Diabetes type: Diabetes Mellitus Type II
+2990	0	a	Diabetes Control: Oral
+2991	0	a	Dyslipidemia
+2992	0	a	Preop Creatinine: 0.93
+2993	0	a	Hypertension
+2994	0	a	Prior CV Interventions
+2995	0	a	Other Past Medical/Surgical History
+2996	0	a	Hyperlipidemia
+2997	0	a	Diabetes Mellitus Type II
+2998	0	a	Asthma
+2999	0	a	Hypothyroidism
+3000	0	a	Trigeminal Neuralgia-on lyrica and tegretol
+3001	0	a	Cholecystectomy
+3002	0	a	Allergies
+3003	0	a	NKA: No Known Allergies
+3004	0	a	Admission medications
+3005	0	a	Aspirin (acetylsalicylic acid) 325 mg PO DAILY
+3006	0	a	Glucophage (metformin) 500 mg PO DAILY
+3007	0	a	Lasix (furosemide) 40 mg PO Bid
+3008	0	a	Lisinopril 5 mg PO DAILY
+3009	0	a	Lopressor (metoprolol tartrate) 25 mg PO Bid
+3010	0	a	Lyrica  75 mg  PO Qam; 75 mg at 5pm, 150 mg at Qhs 
+3011	0	a	Nitroglycerin 0.3 mg (nitroglycerin 1/200 (0.3 mg)) 1 tab SL prn
+3012	0	a	Synthroid (levothyroxine sodium) 100 microgram PO DAILY
+3013	0	a	Tegretol-xr (carbamazepine extended release) 500 mg  PO Bid
+3014	0	a	Current Medications
+3015	0	a	Acetylsalicylic acid (aspirin ) 325 MG PO QAM
+3016	0	a	Atorvastatin (lipitor ) 80 MG PO QPM
+3017	0	a	Atropine sulfate 0.5-1 MG     IV PUSH DAILY
+3018	0	a	Carbamazepine (tegretol ) 500 MG PO BID
+3019	0	a	Docusate sodium (colace ) 100 MG PO BID
+3020	0	a	Furosemide (lasix ) 20 MG PO DAILY
+3021	0	a	Glyburide 5 MG PO QAM BEFORE BREAKFAST
+3022	0	a	Heparin cardiac sliding scale iv 500-1500 Units/Hr IV CONTINUOUS INFUSION 
+3023	0	a	Insulin regular inj Sliding Scale SC BID BEFORE BREAKFAST AND BEFORE SUPPER
+3024	0	a	Isosorbide dinitrate 10 MG PO TID
+3025	0	a	Kcl immediate release (potassium chloride immed.
+3026	0	a	rel. )
+3027	0	a	20 MEQ PO Q4H
+3028	0	a	40 MEQ PO Q4H
+3029	0	a	Levothyroxine sodium 100 MCG PO DAILY
+3030	0	a	Metoprolol tartrate (lopressor ) 12.5 MG PO TID
+3031	0	a	Nitroglycerin 1/200 (0.3 mg) 1 TAB SL Q 5 mins X 3 doses
+3032	0	a	Potassium chloride sustained release tab 40 MEQ PO Q4H
+3033	0	a	Potassium chloride sustained release tab 20 MEQ PO Q4H
+3034	0	a	Pregabalin (lyrica ) 75 MG PO at 5 PM
+3035	0	a	Pregabalin (lyrica ) 75 MG PO in am
+3036	0	a	Pregabalin (lyrica ) 150 MG     PO bedtime
+3037	0	a	Ranitidine hcl (zantac ) 150 MG PO BID
+3038	0	a	Sodium chloride 0.9% flush 3 ML IV Q2H
+3039	0	a	Sodium chloride 0.9% flush 3 ML IV Q8H
+3040	0	a	Preop Cardiac Status
+3041	1	a	Myocardial Infarction:  (08/30/2135, 09/03/2135)
+3042	0	a	When: &gt;6 Hours and &lt; 24 Hours
+3043	0	a	Heart Failure
+3044	0	a	NYHA Classification: NYHA CLASS III
+3045	0	a	Cardiac Presentation: NSTEMI, Unstable Angina
+3046	0	a	Preoperative Hemodynamics and Diagnostic Testing
+3047	0	a	Echo
+3048	0	a	-surface echocardiogram ordered 
+3049	0	a	ECG
+3050	0	a	-SB, Q waves in V1-V4
+3051	0	a	Carotid Non-Invasive Study
+3052	0	a	-09/01/2135 CNIS's reveal normal (B) ICA's 
+3053	0	a	Social History
+3054	0	a	Occupation: retired technician
+3055	0	a	Other Notes: -married; 2 adult children
+3056	0	a	Family History
+3057	0	a	Diabetes
+3058	0	a	CVA/TIA
+3059	1	a	Other notes: -Father died of an myocardial infarction at age 74-Mother with DM, died of cerebral vascular accident or myocardial infarction at age 84 
+3060	0	a	Review of Systems
+3061	0	a	-as mentioned in HPI
+3062	0	a	Physical Exam
+3063	0	a	BP (Right): 100/50; BP (Left): 100/50; Pulse: 54; Rhythm: SB
+3064	0	a	GENERAL: Well appearing, thin gentleman lying in bed in no acute distress
+3065	0	a	HEENT: Oropharynx benign, moist mucous membranes, anicteric 
+3066	0	a	TEETH: In good repair 
+3067	0	a	NECK: Supple, no JVD
+3068	0	a	CV: RRR, S1S2, 2/6 SM
+3069	0	a	PULM: Clear bilaterally
+3070	0	a	SKIN: No lesions or rashes
+3071	0	a	EXTREMETIES: Warm, no edema
+3072	0	a	ABD: Well healed RUQ incision, +BS, soft, non-tender, no organomegaly
+3073	0	a	RECTAL: Normal tone, no masses, enlarged prostate, soft formed brown guaiac (-) stool
+3074	0	a	NEURO: Alert and oriented x 3, non-focal 
+3075	0	a	Saphenous Vein: Bilateral GSV's appear suitable on standing
+3076	0	a	Pulses: (B) 
+3077	0	a	Carotid: 2+; Brachial: 2+; Radial: 2+; Ulnar: 1+
+3078	0	a	Femoral: 2+; Popliteal: trace ; Post Tibial: trace ; Dorsalis Pedis: 1+
+3079	0	a	Bruits: (B) 
+3080	0	a	Femoral Bruit: none appreciated ; Carotid Bruit: (L) present 
+3081	0	a	Chest X-ray
+3082	0	a	-09/01/2135 Pa/Lat CXR: edema, (B) effusions 
+3083	0	a	Most Recent Labs (since admission)
+3084	0	a	--  --
+3085	0	a	2135/09/04 09:13 - WBC... 5.3 th/cmm
+3086	0	a	2135/09/04 09:13 - Hgb... 11.0 gm/dl (L)
+3087	0	a	2135/09/04 09:13 - Hct... 31.3 % (L)
+3088	0	a	2135/09/04 09:13 - Plt... 211 th/cumm
+3089	0	a	2135/09/03 15:06 - P Na... 127 mmol/L (L)
+3090	0	a	2135/09/04 07:42 - P K... 4.3 mmol/L
+3091	0	a	2135/09/03 15:06 - P Cl... 91 mmol/L (L)
+3092	0	a	2135/09/03 15:06 - P TCO2... 28.1 mmol/L
+3093	0	a	2135/09/03 15:06 - P BUN... 18 mg/dl
+3094	0	a	2135/09/03 15:06 - P Cre... 0.93 mg/dl
+3095	0	a	2135/09/04 07:42 - P Glu... 131 mg/dl (H)
+3096	0	a	2135/09/03 15:06 - Phos... 3.5 mg/dl
+3097	0	a	2135/09/03 15:06 - Mg... 1.7 meq/L
+3098	0	a	2135/09/04 07:42 - CPK... 47 U/L (L)
+3099	0	a	2135/09/03 15:09 - TROPON...
+3100	0	a	NEGATIVE 
+3101	0	a	2135/09/03 15:06 - PT... 12.8 sec
+3102	0	a	2135/09/03 15:06 - PT-INR... 1.1 
+3103	0	a	2135/09/04 08:28 - APTT... 48.7 sec (H)
+3104	0	a	Problems and Plans
+3105	0	a	1: Cardiac -Asymptomatic &amp; hemodynamically stable
+3106	0	a	-Today's troponin, slightly elevated to 0.24
+3107	0	a	-Last dose of plavix on 09/01
+3108	0	a	-Portable surface echocardiogram scheduled for today to further assess the degree of MR 
+3109	0	a	2: Conduit -Portable vein mapping ordered for today to evaluate (B) GSV's as suitable conduit  
+3110	0	a	3: Preop Issues -Preop labs, u/a, urine c&amp;s ordered 
+3111	0	a	-Cardiac Surgical consent obtained  
+3112	0	a	4: Cardiac Surgery Preop Checklist -Preop checklist started today; 09/04  
+3113	0	a	Signed by Quatisha Long APRN, BC  on 09/04/2135 11:53
+3114	0	a	Record date: 2063-11-28
+3115	0	a	HPI
+3116	0	a	51 yo F with MMP comes to establish primary care as she is unhappy with the cre she is geting at CityMemorial.
+3117	0	a	She was 40 mislate to her appt and time was limited.
+3118	0	a	She has multiple medical problems for which she is on a variety of medications, none o which she has taken x1 month as she ran out of refills.
+3119	0	a	1.
+3120	0	a	CVA-She reports 3-4 mos ago she had a stroke (she was told there was a clot in her brain) which left the L side of her face paralyzed and some residual weakness in her LUE.
+3121	0	a	She also notes her handwriting has completely changed since.
+3122	0	a	Since the stroke she has had multiple episodes during which her tongue becomes very heavy and she has difficulty speaking (distinctly different from her now mildly imapired baseline) At these times she feel somewhat confused and her L vison seems blurry.
+3123	0	a	This has happened 4-5 times and lasts all day.
+3124	0	a	er family has encouraged her to seek medical care but she has refused bc she did not think they would do antyhing for her.
+3125	0	a	Of note, pt has not been on ASA as it was d/cd when she changed to celebrex.
+3126	0	a	Pt also c/o memory loss that started even before the CVA.
+3127	0	a	2.
+3128	2	a	CAD-She reports a h/o multiple MIs, incl cardiac cath x2, unknown if she had intevention, she thinks the last was about 1 yr ago.
+3129	0	a	She has stable 3 pillow orthopnea.
+3130	0	a	She becomes SOB when she climbs 5 steps and gets SOB sometimes when she walks, which resolves ith rest, but she is able to walk a fair amt still (cannot pin down how much).
+3131	1	a	She denies CP with exertion, did have CP with her MIs.
+3132	0	a	She says smx she has lower and upper extremity edema.
+3133	0	a	She has not had a recent ETT.
+3134	0	a	3.
+3135	0	a	DM-Pt has been on glucophage and Humulin 70/30 100U in am and 60 in pm, but has not been monitoring her BS or taking insulin for the past month.
+3136	0	a	She has all the necessary equipment.
+3137	0	a	She says she tries o monior her carb intake.
+3138	0	a	She has been gaining weight, bout 5 lbs in the past 2 mos, and notes polydypsia and polyuria fo the past 2 weeks.
+3139	0	a	4.
+3140	0	a	HTN-has not been taking Zestoretic or Atenolol x1 mo
+3141	0	a	5.
+3142	0	a	Depression-Pt has h/o depression for which she has been medicated in the past.
+3143	0	a	She currently feels she has very depressed mood, apathy, trouble sleeping and with memory tasks.
+3144	0	a	She denies SI/HI/AH.
+3145	0	a	6.
+3146	0	a	In terms of health maintenance, her last PAP was 2 yrs ago as was her last Mammo.
+3147	0	a	Her last HgA1C is fr 199 as are her lipids.
+3148	0	a	PMH
+3149	0	a	HTN 
+3150	0	a	IRDM 
+3151	2	a	CAD 
+3152	0	a	HX OF GASTRITIS BY UGIS H PYLORI + 
+3153	0	a	S/P TAH 2/2 FIBROIDS 
+3154	0	a	Depression
+3155	0	a	CVA
+3156	0	a	MEDS
+3157	0	a	ATENOLOL 50 MG PO QD x 30 day(s)
+3158	0	a	Azmacort Inh 5 PUFF AER BID x 30 day(s)
+3159	0	a	Insulin 70/30 (HUMAN) 50 U SC QAM x 30 day(s)
+3160	0	a	GLUCOPHAGE 500 MG PO BID x 30 day(s)
+3161	0	a	Claritin D 10 MG PO QD x 30 day(s)
+3162	0	a	LIPITOR 40 MG PO QD x 30 day(s)
+3163	0	a	CELEBREX 100 MG PO QD x 30 day(s)
+3164	0	a	Humulin 70/30 30 UNITS qpm x 30 day(s)
+3165	0	a	Zestoretic (LISINOPRIL/HYDROCHLOROTHIAZIDE) 20-12.5, 1 Tablet(s) PO QD x 30 day(s)
+3166	0	a	Ranitidine Hcl 150MG, 1 Tablet(s) PO BID x 30 day(s)
+3167	0	a	Ecasa (ASPIRIN Enteric Coated) 325MG, 1 Tablet(s) PO QD x 30 day
+3168	0	a	ALLERGIES   NKDA 
+3169	1	a	FAMILY HISTORY 
+3170	0	a	Defered
+3171	0	a	SOCIAL HISTORY
+3172	0	a	Currrently unemployed
+3173	0	a	Sexual History: defered
+3174	0	a	ETOH/Drugs/Tab:denies.
+3175	0	a	Quit tab 20 yrs ago
+3176	0	a	Nutrition: tries to eat low carb diet
+3177	0	a	Exercise: walking
+3178	0	a	PHYSICAL EXAM
+3179	0	a	VS: BP 172/100  HR 84  Wt 166 lbs  FS 347
+3180	0	a	General: Pleasant in NAD, facial asymmetry
+3181	0	a	HEENT: PERRL.
+3182	1	a	EOMI.
+3183	0	a	Oropharynx clear.
+3184	0	a	TMs intact.
+3185	0	a	Fundi could not be visualized.
+3186	0	a	Neck: No JVD.
+3187	0	a	No thyromegaly.
+3188	0	a	No LAD.
+3189	0	a	No carotid bruits.
+3190	0	a	Cor: RRR, nl S1S2, 2/6 sys M at LUSB
+3191	0	a	Lungs: CTA b/l, no rales, rhonchi or wheezes
+3192	0	a	Abd: Soft, NTND.
+3193	0	a	Normal active bowel sounds.
+3194	0	a	No hepatosplenomegaly.
+3195	0	a	Breast/GYN: defered.
+3196	0	a	Ext: No clubbing, cyanosis or edema.
+3197	0	a	Distal pulses present and symmetric.
+3198	0	a	Neuro: A + O x3.
+3199	0	a	Cranial nerve exam sig for L sided facial hemiparesis, unable to smile or raise eyebrow.
+3200	0	a	o/w cn II, III, IV, VI intact, VII/VIII intact, IX, X,XI intact.
+3201	0	a	Tongue deviates to R. Strength 5/5 throughout except LUE extensors 4/5.
+3202	0	a	Sensation: intact to light touch and temp throughout.
+3203	0	a	DTR's 1+ throughout, Babinski difficult to interpret 2/2 very strong withdrawal response (ticklish).
+3204	0	a	No nystagmus.
+3205	0	a	Normal gait.
+3206	2	a	A/P 51 yo F with MMP incl recent CVA, CAD, HTN, DM, Depression p/t transfer her primary care.
+3207	0	a	Neuro-h/o recent CVA per pt report with residual L facial hemiparesis and LUE weakness, no records available.
+3208	0	a	Concern that she continues to have TIAs, is high risk for another CVA.
+3209	0	a	--head MRI
+3210	0	a	--ECASA 325 mg qd
+3211	0	a	--referal to Neurology
+3212	0	a	--instructed pt to present to ER if she notes neurologic sx.
+3213	2	a	CV-CAD:h/o MI and 2 cardiac caths per pt, stable othopnea, exertional dyspnea wich may be aginal equivalent.
+3214	0	a	HTN: poorly conrolled but has not been taking meds.
+3215	0	a	--Will try to obtain records fr OSH of caths
+3216	0	a	--check EKG
+3217	0	a	--check lipid profile and LFTs
+3218	0	a	--Add ECASA, cont Lipitor, Atenolol, Lisinopril/HCTZ
+3219	0	a	--Monitor BP closely
+3220	0	a	--Will need ETT in the future
+3221	0	a	Endocrine--DM, FS today 347, very lrge insulin requirement but pt has been extremely noncompliant with insulin regimen.
+3222	0	a	--Cont glucophage
+3223	0	a	--Humulin 70/30 cut in half to 50 in am and 30 in pm for now.
+3224	0	a	--Instructed pt to take her fasting BS in am and before dinner and keep a careful record.
+3225	0	a	She will increase her Humulin if her BS remains very high.
+3226	0	a	Reinforced importance of tight glucose control and low carb diet.
+3227	0	a	--nutrition referal for diabetic teaching
+3228	0	a	--referal to Bridget Jamieson NP for diabetic teaching and close follow up of BS
+3229	0	a	--will check HgA1C, microalbuminuria, chem 7
+3230	0	a	--pt will need optho and podiatry referal at next visit
+3231	0	a	Depression--Pt has sx and history of depression.
+3232	0	a	Will start Celexa 20 mg qd and follow closely
+3233	0	a	Health maint--will refer for mammo at next visit.
+3234	0	a	Will perform PAP and full breast exam at next visit as wel as obtain close sexual history.
+3235	0	a	Will check lipids as above.
+3236	0	a	F/u in 1 mo
+3237	0	a	_____________________________________________
+3238	0	a	Ione Kerr, M.D.
+3239	0	a	========================== Preceptor's Note ==========================
+3240	0	a	I saw and evaluated the patient and agree with Dr Kerr's findings and plan as documented in her note.
+3241	0	a	______________________________                              
+3242	0	a	Ursula Olivia Oconnell, M.D.
+3243	0	a	Record date: 2077-10-11
+3244	0	a	                     PINELLAS EMERGENCY DEPT VISIT
+3245	0	a	ICKES,WILLIAM JR   810-71-62-8
+3246	0	a	PRESENTING COMPLAINT: This is a 70-year-old man who presented by 
+3247	0	a	ambulance with epigastric pain.
+3248	0	a	HISTORY OF PRESENTING COMPLAINT: This is a 70-year-old man who 
+3249	0	a	presented with some chest pain and chest pressure after breakfast 
+3250	0	a	this morning.
+3251	0	a	He took a walk at about 11:30.
+3252	0	a	The pain got 
+3253	0	a	intense, he went back home, called and ambulance and presented 
+3254	0	a	here.
+3255	0	a	The patient presents here now and, after being put in the 
+3256	0	a	room emergently, became pale and diaphoretic and clammy with mild 
+3257	4	a	hypertension and an EKG showing an acute MI.
+3258	0	a	There is ST elevation 
+3259	0	a	in inferior leads and lateral leads and ST depression in anterior 
+3260	0	a	leads.
+3261	0	a	The patient was immediately given aspirin, beta blocker and 
+3262	0	a	heparinized as well as a nitro drip.
+3263	0	a	The second EKG showed some 
+3264	0	a	resolving of his ST elevation and ST depression.
+3265	0	a	His pain has 
+3266	0	a	subsided now to about a 1/10.
+3267	0	a	Blood pressure 102/56, pulse rate of 
+3268	0	a	58.
+3269	0	a	Chest x-ray, portable, was done and is also pending.
+3270	0	a	Cardiology is aware.
+3271	0	a	The cath lab team has been called and has 
+3272	0	a	been mobilized immediately.
+3273	0	a	Medications that he has gotten so far 
+3274	0	a	are aspirin, morphine sulfate, nitro paste, sublingual 
+3275	0	a	nitroglycerine.
+3276	0	a	He is currently on an IV nitroglycerine drip.
+3277	0	a	Three IV lines have been placed.
+3278	0	a	Portable chest x-ray done.
+3279	0	a	Cards 
+3280	0	a	fellow is here and the cath team is aware.
+3281	0	a	PAST MEDICAL HISTORY: Only significant for hypertension.
+3282	0	a	MEDICATIONS: Atenolol for his blood pressure medicine and recently 
+3283	0	a	put on quinine sulfate for pain in his legs.
+3284	0	a	REVIEW OF SYSTEMS: Otherwise negative.
+3285	0	a	Never had any angina, never 
+3286	1	a	had an acute MI and never had any pain like this before.
+3287	0	a	He denies 
+3288	0	a	any interscapular pain and denies any other problems or 
+3289	0	a	complications at this point.
+3290	0	a	PHYSICAL EXAMINATION: Lungs are clear.
+3291	0	a	Cardiac exam: No murmurs 
+3292	0	a	heard, no rubs or gallops.
+3293	0	a	No JVD, no bruits heard.
+3294	0	a	Abdomen is 
+3295	0	a	soft and nontender.
+3296	0	a	Rectal exam: Guaiac-negative with normal tone.
+3297	0	a	THERAPY RENDERED/COURSE IN ED: Currently in stable condition.
+3298	0	a	Blood pressure normal.
+3299	0	a	Oxygen saturation 95% and a pulse rate of 
+3300	0	a	He received 2.5 of Lopressor and is almost pain free at this 
+3301	0	a	point and doing well.
+3302	0	a	Seen by the cards fellow.
+3303	0	a	Cath lab team 
+3304	0	a	mobilized.
+3305	0	a	The patient is going to the cath lab.
+3306	1	a	FINAL DIAGNOSIS: Acute MI.
+3307	0	a	DISPOSITION (including condition upon discharge): Family member has 
+3308	0	a	been called and message was left for his wife on her machine.
+3309	0	a	She 
+3310	0	a	is probably on the way to the hospital and we will inform her.
+3311	0	a	Condition stable.
+3312	1	a	DIAGNOSIS: Acute MI in a 70-year-old male, going to the cath lab.
+3313	0	a	___________________________________                    EC508/03905 
+3314	0	a	PAUL VALENTINE, M.D.
+3315	0	a	PV46                               D:10/11/77 
+3316	0	a	                                                       T:10/11/77 
+3317	0	a	Dictated by:  PAUL VALENTINE, M.D.
+3318	0	a	PV46 
+3319	0	a	 ******** Not reviewed by Attending Physician ********
+3320	0	a	Record date: 2081-07-17
+3321	0	a	FREDERICK JEFFERSON
+3322	0	a	KRMC Unit No:  887-09-86
+3323	0	a	ZUCKER HILLSIDE HOSPITAL
+3324	0	a	ADULT MEDICINE
+3325	0	a	Date:  July 17, 2081
+3326	0	a	Weight 204 lb, up 15 lb.
+3327	0	a	Patient accompanied by wife who gives meds to patient.
+3328	0	a	Patient states does not eat much.
+3329	0	a	Wife disagrees.
+3330	0	a	States frequent sweets in diet, cake, doughnuts, pie a la mode, 1    cups of coffee - will have cookie with it.
+3331	0	a	MEDICATIONS:  Lasix 40 mg 1.5 tabs q.d., calcium tablet 500 mg q.d., colchicine 0.6 mg q.o.d., digoxin 0.125 mg q.o.d., isosorbide 20 mg t.i.d., Hydralazine 10 mg q.i.d., Metoprolol 50 mg b.i.d., Prednisone 5 mg q.d., Coumadin 3 mg per anticoag.
+3332	2	a	CHF/CAD.
+3333	0	a	Rare cough productive of clear sputum.
+3334	0	a	Denies SOB, DOE, PND, although awakens 2-3 x per night.
+3335	0	a	Walks around, sits in recliner for about an hour, then back to sleep.
+3336	0	a	Per wife, patient naps in chair during day.
+3337	0	a	Also frequently drinks coffee at night.
+3338	0	a	Patient denies CP or palpitations or difficulty with breathing.
+3339	0	a	PHYSICAL EXAM:  Weight up 15 lb.
+3340	0	a	BP, RA 120/70.
+3341	0	a	Chest - Clear with decreased sounds bilateral bases, decreased breath sounds.
+3342	0	a	Cardiac - Regular rhythm with premature beats at 84.
+3343	0	a	No murmur.
+3344	0	a	Extremities - No edema on right, trace on left.
+3345	0	a	ASSESSMENT AND PLAN:  
+3346	2	a	"(1)	CHF/CAD."
+3347	0	a	No new symptoms.
+3348	0	a	However, 15 lb weight gain of concern.
+3349	0	a	Consult with Dr. Hale.
+3350	0	a	Check chest x-ray today, BUN and creatinine, lytes.
+3351	0	a	"(2)	Obesity."
+3352	0	a	Counselled patient and wife regarding d/c sweets in diet, need to focus on reducing weight.
+3353	0	a	"(3)	Wife mentions patient frequently forgets things, days of week, etc."
+3354	0	a	Discussed with patient mild dementia.
+3355	0	a	RTC in 2 months to Dr. Hale.
+3356	0	a	Continue current meds.
+3357	0	a	ADDENDUM: Patient at end of visit mentioned bitter taste, acid, after eating.
+3358	0	a	Apparently never got prescription for ranitidine filled.
+3359	0	a	Ranitidine 150 mg, #60, 1 tab b.i.d.
+3360	0	a	refilled x 3.
+3361	0	a	Pt.
+3362	0	a	ed.
+3363	0	a	regarding decrease coffee in diet.
+3364	0	a	Advised decaffeinated at h.s.
+3365	0	a	Odessa Kang, RNC, ANP
+3366	0	a	OK/quiggle/urie
+3367	0	a	Record date: 2094-12-16
+3368	0	a	"	CARDIOLOGY"
+3369	0	a	"	"
+3370	0	a	"	OXFORD DELTA CLINIC"
+3371	0	a	"	Reason for visit:"
+3372	1	a	   s/p Coronary angiogram with placement Cypher stent to LAD
+3373	0	a	"	Interval History:"
+3374	1	a	   The patient is a 70 yo male with a history of HTN, hyperlipidemia, DM, CAD and CABG September 2092 which was c/b premature graft failure of the SVG to LAD.
+3375	1	a	Cardiac catheterization was performed in Jan 93 and underwent POBA of likely diffusely diseased, intramyocardial LAD, but never really improved.
+3376	1	a	He was admitted to ODC in May 94 and cath demonstrated severe native disease with a mid-LAD lesion which was treated with PTCA/ Taxus stent.
+3377	0	a	He had symptomatic relief until about one month ago when he began to experience exertional discomfort and dyspnea which has now progressed to symptoms at rest despite an aggressive medical regimen.
+3378	4	a	He presented today for cath which revealed a new stenosis distal to the prior LAD stent which was patent.
+3379	1	a	The lesion was stented with a 2.25 x 13 mm Cypher stent.
+3380	0	a	he is now admitted to the Cardiology department for post procedure monitoring and arrived to cardio clinic pain free and hemodynamically stable.
+3381	0	a	Past medical history:
+3382	0	a	   DM 
+3383	0	a	HTN 
+3384	0	a	Hyperlipidemia 
+3385	1	a	CAD -CABG x 3 September 2092 WMMC (LIMA to D2, SVG to RCA, SVG to LAD) s/p PCI prox LAD Jan 2093, s/p Taxus stent to LAD 5/94 
+3386	0	a	GERD s/p H pylori eradication several years ago 
+3387	1	a	Left rotator cuff injury s/p CABG 
+3388	0	a	Anxiety 
+3389	0	a	hernia repair
+3390	0	a	"	Changes to Allergies"
+3391	0	a	ACE Inhibitor - reaction: cough [reviewed]
+3392	0	a	METFORMIN - reaction: GI Intolerance [reviewed]
+3393	0	a	ROSUVASTATIN - reaction: myalgia [reviewed]
+3394	0	a	SIMVASTATIN - reaction: myalgias [reviewed]
+3395	0	a	VALSARTAN - reaction: fatigue [reviewed]
+3396	0	a	"	Social history:"
+3397	0	a	   Lives with wife in Lagrange,KS.
+3398	0	a	Retired.
+3399	0	a	Former heavy smoker-quit x 30 yrs.
+3400	0	a	Rare ETOH.
+3401	0	a	Review of systems:
+3402	0	a	   negative in detail other than mentioned in HPI
+3403	0	a	Physical examination:
+3404	0	a	-Pulse:   
+3405	0	a	-resp.
+3406	0	a	rate:   
+3407	0	a	-height: 67  in.
+3408	0	a	-weight: 175  lbs.
+3409	0	a	-General:   No acute distress.
+3410	0	a	-Skin:   No rashes, anicteric.
+3411	0	a	-Neck:   2+ carotid pulses with normal upstrokes, no bruits, JVP 5-6 cm
+3412	0	a	-Chest:   Clear to auscultation anteriorly
+3413	0	a	-Cardiac:   Left ventricular impulse discrete and nondisplaced.
+3414	0	a	Regular rate and rhythm, normal S1 and S2, with no S3 or S4.
+3415	0	a	There were no murmurs, clicks or rubs.
+3416	0	a	-Abdomen:   Normal bowel sounds, soft and nontender, with no hepatosplenomegaly or masses appreciated.
+3417	0	a	-Extremities:   No cyanosis, clubbing or edema.
+3418	0	a	2+ femoral pulses without bruits.
+3419	0	a	2+ pedal pulses.
+3420	0	a	-BP:   
+3421	0	a	-temp:   
+3422	0	a	-Pain scale (0 to 10): 0  
+3423	0	a	"	EKG:"
+3424	0	a	   SB @ 55, LAD, RBBB no acute changes
+3425	0	a	Selected recent labs:
+3426	0	a	"	 11/29/94 WBC 6.7, Hct 45, Plts 287"
+3427	0	a	         Na 144, K 4.5, Cl 106, BUN 17, Cr 1.2
+3428	0	a	"	Impression:"
+3429	1	a	   70 yo male with CAD s/p CABG with early LAD graft failure s/p LAD stenting 5/94 now with recurrent symptoms found to have a new LAD stenosis that was Cypher stented today.
+3430	0	a	Assessment and plan:
+3431	0	a	   CV:Pain free and hemodynamically stable, HR and BP in good range continue current medical regimen and monitor 
+3432	0	a	DM:Diet controlled, monitor FSBS and cover as needed 
+3433	0	a	Further plans per Dr Paulson
+3434	0	a	"		Medication List"
+3435	0	a	"		"
+3436	0	a	"				CONFIRMED"
+3437	0	a	"		- amlodipine besylate  10 MG PO daily"
+3438	0	a	"		- ASPIRIN ENTERIC COATED (ASA ENTERIC COATED )  325 MG PO daily"
+3439	0	a	"		- atorvastatin  40 MG PO QPM"
+3440	0	a	"		- clopidogrel bisulfate  75 MG PO daily"
+3441	0	a	"		- escitalopram  40 MG PO daily"
+3442	0	a	"		- fenofibrate  200 MG PO daily"
+3443	0	a	"		- furosemide  20 MG PO daily"
+3444	0	a	"		- isosorbide mononitrate extended release  60 MG PO daily"
+3445	0	a	"		- KCL SLOW RELEASE TAB  10 MEQ PO daily"
+3446	0	a	"		- metoprolol tartrate  12.5 MG PO BID"
+3447	0	a	"		- NITROGLYCERIN 1/200 (0.3 MG)  1 TAB SL Q 5 mins X 3 doses PRN"
+3448	0	a	"		- pantoprazole  40 MG PO daily"
+3449	0	a	"		- ranolazine  1000 MG PO daily"
+3450	0	a	Catherine L. Uresti, NP pager #28333
+3451	0	a	Transcribed by: Catherine L Uresti
+3452	0	a	Signed electronically by  Catherine L. Uresti, NP
+3453	0	a	Document Status: Final
+3454	0	a	Record date: 2097-05-30
+3455	0	a	CARDIAC SURGERY
+3456	0	a	ELIZABETHTOWN STATE HOSPITAL
+3457	0	a	Narrative Note:
+3458	0	a	   May 30, 2097
+3459	0	a	Re:  Verna Cantu
+3460	0	a	ESH #:033-98-74
+3461	1	a	I had the pleasure of seeing Verna and her daughter in my office today after her aortic valve replacement with a 19 mm Magna Ease, aortic root enlargement, and two-vessel coronary bypass grafting with a LIMA to the LAD and a saphenous vein to the posterior left ventricular branch.
+3462	2	a	As you know, she is a 60-year-old woman with a history of peripheral arterial disease, aortic stenosis, diabetes, hypertension, hyperlipidemia, and coronary artery disease who has had progressive dyspnea on exertion especially with walking up into her house which is 25 stairs.
+3463	0	a	We did her surgery, and she had a very uneventful postoperative course.
+3464	0	a	She was discharged home on postoperative day seven and has continued to make progress.
+3465	0	a	She is walking each day.
+3466	0	a	Her medications include 5 mg of Norvasc, 25 mg of Toprol-XL, 20 mg of simvastatin and an aspirin and her Plaquenil.
+3467	0	a	She has no complaints of pain.
+3468	0	a	She is eating well.
+3469	0	a	She is sleeping well.
+3470	0	a	Her incisions have healed nicely.
+3471	0	a	Her sternum is stable, and she has no murmurs.
+3472	0	a	Overall, I am extremely pleased with her progress.
+3473	0	a	I told her to suggest to you that she was interested in cardiac rehab which she should be able to start in the next week or two.
+3474	0	a	Thank you so much for the opportunity of caring for her.
+3475	0	a	Norma Gonzalez, M.D.
+3476	0	a	cc:Holly Xavia Avalos, M.D.
+3477	0	a	Jackson X. Triplett, M.D.
+3478	0	a	Transcribed by: Julie L Cobb
+3479	0	a	Signed electronically by  Norma C. Gonzalez, MD
+3480	0	a	Document Status: Final
+3481	0	a	Record date: 2079-07-20
+3482	0	a	                           OFFICE NOTE
+3483	0	a	Westyn-Nuel, Kelli
+3484	0	a	#898-97-85-6
+3485	0	a	July 20, 2079
+3486	1	a	Ms. Westyn-Nuel returns following myocardial infarction with
+3487	1	a	stenting procedure in February of this year.
+3488	0	a	She continues to do
+3489	0	a	well and had an LDL of 90 in March.
+3490	0	a	We will recheck it again today.
+3491	0	a	She has no significant chest discomfort and is doing all of her
+3492	0	a	activities.
+3493	0	a	She has no syncope or paroxysmal nocturnal dyspnea.
+3494	0	a	She is tolerating her medications quite well and is happy with her
+3495	0	a	progress.
+3496	0	a	At home she takes her blood pressure and it's generally 
+3497	0	a	around 120/80.
+3498	0	a	Current medications are one aspirin per day as well as Isordil 20
+3499	0	a	mg.
+3500	0	a	t.i.d., Labetalol 400 mg.
+3501	0	a	t.i.d., Norvasc 7.5 mg.
+3502	0	a	q.d., Lipitor
+3503	0	a	80 mg. q.d.
+3504	0	a	and Glipizide.
+3505	0	a	She has not used sublingual
+3506	0	a	Nitroglycerin although she has this.
+3507	0	a	Her blood pressure today is 128/80 and her heart rate is 50 and
+3508	0	a	regular.
+3509	0	a	Chest is clear.
+3510	0	a	Cardiac exam reveals a II/VI left sternal
+3511	0	a	border systolic ejection murmur.
+3512	0	a	Abdomen is soft and nontender.
+3513	0	a	Extremities are free of edema.
+3514	0	a	Ms. Kelli Westyn-Nuel is doing well.
+3515	0	a	We will check her LDL
+3516	0	a	again today to make sure it did not rebound to a higher level
+3517	1	a	following her myocardial infarction.
+3518	0	a	We will also check her liver
+3519	0	a	function test because of her statin therapy.
+3520	0	a	We may in the future
+3521	0	a	need to adjust her nitrates to a more rational once per day
+3522	0	a	regimen, but her current situation is so stable that we will leave
+3523	0	a	her medications as is.
+3524	0	a	Spencer O. Wilhelm, M.D.
+3525	0	a	/keys
+3526	0	a	DD: 07/20/79
+3527	0	a	DT: 07/22/79
+3528	0	a	DV: 07/20/79
+3529	0	a	 ******** Not reviewed by Attending Physician ********
