@@ -1,0 +1,228 @@
+2019-04-12 15:30:06,134 ----------------------------------------------------------------------------------------------------
+2019-04-12 15:30:06,135 Evaluation method: MICRO_F1_SCORE
+2019-04-12 15:30:06,135 ----------------------------------------------------------------------------------------------------
+2019-04-12 15:30:07,244 epoch 1 - iter 0/3693 - loss 0.28317142
+2019-04-12 15:49:55,588 epoch 1 - iter 369/3693 - loss 0.05415401
+2019-04-12 16:10:00,828 epoch 1 - iter 738/3693 - loss 0.04954059
+2019-04-12 16:29:55,449 epoch 1 - iter 1107/3693 - loss 0.04721701
+2019-04-12 16:50:09,929 epoch 1 - iter 1476/3693 - loss 0.04670044
+2019-04-12 17:10:19,997 epoch 1 - iter 1845/3693 - loss 0.04557711
+2019-04-12 17:30:26,675 epoch 1 - iter 2214/3693 - loss 0.04469254
+2019-04-12 17:50:42,904 epoch 1 - iter 2583/3693 - loss 0.04396310
+2019-04-12 18:10:46,408 epoch 1 - iter 2952/3693 - loss 0.04326256
+2019-04-12 18:30:54,708 epoch 1 - iter 3321/3693 - loss 0.04307532
+2019-04-12 18:51:09,357 epoch 1 - iter 3690/3693 - loss 0.04236471
+2019-04-12 18:51:12,002 ----------------------------------------------------------------------------------------------------
+2019-04-12 18:51:12,002 EPOCH 1 done: loss 0.0424 - lr 0.1000 - bad epochs 0
+2019-04-12 19:10:03,556 DEV  : loss 0.03901062 - f-score 0.8848 - acc 0.7934
+2019-04-12 21:19:21,095 TEST : loss 0.03617616 - f-score 0.8947 - acc 0.8095
+2019-04-12 21:19:21,317 ----------------------------------------------------------------------------------------------------
+2019-04-12 21:19:21,484 epoch 2 - iter 0/3693 - loss 0.04362211
+2019-04-12 21:19:55,317 epoch 2 - iter 369/3693 - loss 0.03657281
+2019-04-12 21:20:29,704 epoch 2 - iter 738/3693 - loss 0.03797671
+2019-04-12 21:21:03,148 epoch 2 - iter 1107/3693 - loss 0.03676503
+2019-04-12 21:21:38,121 epoch 2 - iter 1476/3693 - loss 0.03624200
+2019-04-12 21:22:12,657 epoch 2 - iter 1845/3693 - loss 0.03605703
+2019-04-12 21:22:47,086 epoch 2 - iter 2214/3693 - loss 0.03594863
+2019-04-12 21:23:20,767 epoch 2 - iter 2583/3693 - loss 0.03561898
+2019-04-12 21:23:54,755 epoch 2 - iter 2952/3693 - loss 0.03584269
+2019-04-12 21:24:29,084 epoch 2 - iter 3321/3693 - loss 0.03568024
+2019-04-12 21:25:03,431 epoch 2 - iter 3690/3693 - loss 0.03549093
+2019-04-12 21:25:03,573 ----------------------------------------------------------------------------------------------------
+2019-04-12 21:25:03,574 EPOCH 2 done: loss 0.0355 - lr 0.1000 - bad epochs 0
+2019-04-12 21:25:14,452 DEV  : loss 0.03638360 - f-score 0.8872 - acc 0.7973
+2019-04-12 21:26:28,110 TEST : loss 0.03355893 - f-score 0.8975 - acc 0.8141
+2019-04-12 21:26:29,140 ----------------------------------------------------------------------------------------------------
+2019-04-12 21:26:29,269 epoch 3 - iter 0/3693 - loss 0.04123906
+2019-04-12 21:27:03,360 epoch 3 - iter 369/3693 - loss 0.03334692
+2019-04-12 21:27:37,882 epoch 3 - iter 738/3693 - loss 0.03317868
+2019-04-12 21:28:12,191 epoch 3 - iter 1107/3693 - loss 0.03340342
+2019-04-12 21:28:45,856 epoch 3 - iter 1476/3693 - loss 0.03331145
+2019-04-12 21:29:19,826 epoch 3 - iter 1845/3693 - loss 0.03322036
+2019-04-12 21:29:55,126 epoch 3 - iter 2214/3693 - loss 0.03278379
+2019-04-12 21:30:29,630 epoch 3 - iter 2583/3693 - loss 0.03249849
+2019-04-12 21:31:03,064 epoch 3 - iter 2952/3693 - loss 0.03236057
+2019-04-12 21:31:37,222 epoch 3 - iter 3321/3693 - loss 0.03224034
+2019-04-12 21:32:11,633 epoch 3 - iter 3690/3693 - loss 0.03211580
+2019-04-12 21:32:11,829 ----------------------------------------------------------------------------------------------------
+2019-04-12 21:32:11,829 EPOCH 3 done: loss 0.0322 - lr 0.1000 - bad epochs 0
+2019-04-12 21:32:22,904 DEV  : loss 0.03857650 - f-score 0.8729 - acc 0.7745
+2019-04-12 21:33:37,559 TEST : loss 0.03541504 - f-score 0.8842 - acc 0.7925
+2019-04-12 21:33:38,630 ----------------------------------------------------------------------------------------------------
+2019-04-12 21:33:38,791 epoch 4 - iter 0/3693 - loss 0.02231707
+2019-04-12 21:34:12,559 epoch 4 - iter 369/3693 - loss 0.02865686
+2019-04-12 21:34:47,042 epoch 4 - iter 738/3693 - loss 0.02941354
+2019-04-12 21:35:21,334 epoch 4 - iter 1107/3693 - loss 0.02976926
+2019-04-12 21:35:55,400 epoch 4 - iter 1476/3693 - loss 0.02984535
+2019-04-12 21:36:30,093 epoch 4 - iter 1845/3693 - loss 0.03010100
+2019-04-12 21:37:03,979 epoch 4 - iter 2214/3693 - loss 0.02977613
+2019-04-12 21:37:38,623 epoch 4 - iter 2583/3693 - loss 0.02988222
+2019-04-12 21:38:12,816 epoch 4 - iter 2952/3693 - loss 0.02975257
+2019-04-12 21:38:47,063 epoch 4 - iter 3321/3693 - loss 0.02957560
+2019-04-12 21:39:21,870 epoch 4 - iter 3690/3693 - loss 0.02943765
+2019-04-12 21:39:22,006 ----------------------------------------------------------------------------------------------------
+2019-04-12 21:39:22,006 EPOCH 4 done: loss 0.0294 - lr 0.1000 - bad epochs 0
+2019-04-12 21:39:32,867 DEV  : loss 0.03017877 - f-score 0.8952 - acc 0.8104
+2019-04-12 21:40:48,189 TEST : loss 0.02808293 - f-score 0.9034 - acc 0.8239
+2019-04-12 21:40:49,271 ----------------------------------------------------------------------------------------------------
+2019-04-12 21:40:49,439 epoch 5 - iter 0/3693 - loss 0.04504910
+2019-04-12 21:41:24,841 epoch 5 - iter 369/3693 - loss 0.02714993
+2019-04-12 21:42:00,532 epoch 5 - iter 738/3693 - loss 0.02727250
+2019-04-12 21:42:35,581 epoch 5 - iter 1107/3693 - loss 0.02698961
+2019-04-12 21:43:10,280 epoch 5 - iter 1476/3693 - loss 0.02717937
+2019-04-12 21:43:45,118 epoch 5 - iter 1845/3693 - loss 0.02725884
+2019-04-12 21:44:20,491 epoch 5 - iter 2214/3693 - loss 0.02709228
+2019-04-12 21:44:54,749 epoch 5 - iter 2583/3693 - loss 0.02692796
+2019-04-12 21:45:28,819 epoch 5 - iter 2952/3693 - loss 0.02711518
+2019-04-12 21:46:04,251 epoch 5 - iter 3321/3693 - loss 0.02707253
+2019-04-12 21:46:39,461 epoch 5 - iter 3690/3693 - loss 0.02717223
+2019-04-12 21:46:39,609 ----------------------------------------------------------------------------------------------------
+2019-04-12 21:46:39,609 EPOCH 5 done: loss 0.0272 - lr 0.1000 - bad epochs 0
+2019-04-12 21:46:50,717 DEV  : loss 0.03192287 - f-score 0.8960 - acc 0.8117
+2019-04-12 21:48:05,671 TEST : loss 0.02864170 - f-score 0.9079 - acc 0.8314
+2019-04-12 21:48:06,742 ----------------------------------------------------------------------------------------------------
+2019-04-12 21:48:06,903 epoch 6 - iter 0/3693 - loss 0.02359855
+2019-04-12 21:48:41,308 epoch 6 - iter 369/3693 - loss 0.02612447
+2019-04-12 21:49:16,811 epoch 6 - iter 738/3693 - loss 0.02636760
+2019-04-12 21:49:53,614 epoch 6 - iter 1107/3693 - loss 0.02562797
+2019-04-12 21:50:28,273 epoch 6 - iter 1476/3693 - loss 0.02570345
+2019-04-12 21:51:03,589 epoch 6 - iter 1845/3693 - loss 0.02586239
+2019-04-12 21:51:37,678 epoch 6 - iter 2214/3693 - loss 0.02561695
+2019-04-12 21:52:13,843 epoch 6 - iter 2583/3693 - loss 0.02539502
+2019-04-12 21:52:48,143 epoch 6 - iter 2952/3693 - loss 0.02527635
+2019-04-12 21:53:24,064 epoch 6 - iter 3321/3693 - loss 0.02518031
+2019-04-12 21:54:00,606 epoch 6 - iter 3690/3693 - loss 0.02515764
+2019-04-12 21:54:00,815 ----------------------------------------------------------------------------------------------------
+2019-04-12 21:54:00,815 EPOCH 6 done: loss 0.0252 - lr 0.1000 - bad epochs 0
+2019-04-12 21:54:11,313 DEV  : loss 0.02942418 - f-score 0.8843 - acc 0.7927
+2019-04-12 21:55:24,271 TEST : loss 0.02739493 - f-score 0.8938 - acc 0.8080
+2019-04-12 21:55:25,336 ----------------------------------------------------------------------------------------------------
+2019-04-12 21:55:25,483 epoch 7 - iter 0/3693 - loss 0.01186075
+2019-04-12 21:56:00,904 epoch 7 - iter 369/3693 - loss 0.02392869
+2019-04-12 21:56:35,969 epoch 7 - iter 738/3693 - loss 0.02329244
+2019-04-12 21:57:10,059 epoch 7 - iter 1107/3693 - loss 0.02364432
+2019-04-12 21:57:43,198 epoch 7 - iter 1476/3693 - loss 0.02407206
+2019-04-12 21:58:17,394 epoch 7 - iter 1845/3693 - loss 0.02360347
+2019-04-12 21:58:51,834 epoch 7 - iter 2214/3693 - loss 0.02390345
+2019-04-12 21:59:27,166 epoch 7 - iter 2583/3693 - loss 0.02393249
+2019-04-12 22:00:02,317 epoch 7 - iter 2952/3693 - loss 0.02364279
+2019-04-12 22:00:37,583 epoch 7 - iter 3321/3693 - loss 0.02352514
+2019-04-12 22:01:12,774 epoch 7 - iter 3690/3693 - loss 0.02349659
+2019-04-12 22:01:12,943 ----------------------------------------------------------------------------------------------------
+2019-04-12 22:01:12,944 EPOCH 7 done: loss 0.0235 - lr 0.1000 - bad epochs 0
+2019-04-12 22:01:24,138 DEV  : loss 0.02531732 - f-score 0.9033 - acc 0.8236
+2019-04-12 22:02:39,706 TEST : loss 0.02286620 - f-score 0.9141 - acc 0.8419
+2019-04-12 22:02:40,801 ----------------------------------------------------------------------------------------------------
+2019-04-12 22:02:40,963 epoch 8 - iter 0/3693 - loss 0.01796877
+2019-04-12 22:03:15,908 epoch 8 - iter 369/3693 - loss 0.02139049
+2019-04-12 22:03:50,908 epoch 8 - iter 738/3693 - loss 0.02203301
+2019-04-12 22:04:26,626 epoch 8 - iter 1107/3693 - loss 0.02220229
+2019-04-12 22:05:01,270 epoch 8 - iter 1476/3693 - loss 0.02226613
+2019-04-12 22:05:36,002 epoch 8 - iter 1845/3693 - loss 0.02227221
+2019-04-12 22:06:11,048 epoch 8 - iter 2214/3693 - loss 0.02220068
+2019-04-12 22:06:46,581 epoch 8 - iter 2583/3693 - loss 0.02203034
+2019-04-12 22:07:21,824 epoch 8 - iter 2952/3693 - loss 0.02195931
+2019-04-12 22:07:56,688 epoch 8 - iter 3321/3693 - loss 0.02195534
+2019-04-12 22:08:30,742 epoch 8 - iter 3690/3693 - loss 0.02200060
+2019-04-12 22:08:30,864 ----------------------------------------------------------------------------------------------------
+2019-04-12 22:08:30,864 EPOCH 8 done: loss 0.0220 - lr 0.1000 - bad epochs 0
+2019-04-12 22:08:42,162 DEV  : loss 0.02456556 - f-score 0.9098 - acc 0.8346
+2019-04-12 22:09:57,722 TEST : loss 0.02232277 - f-score 0.9174 - acc 0.8476
+2019-04-12 22:09:58,992 ----------------------------------------------------------------------------------------------------
+2019-04-12 22:09:58,992 Testing using best model ...
+2019-04-12 22:09:58,992 loading file FLAIR_data/BERT/best-model.pt
+2019-04-12 22:11:12,783 MICRO_AVG: acc 0.8476 - f1-score 0.9174
+2019-04-12 22:11:12,784 MACRO_AVG: acc 0.088 - f1-score 0.12714347826086958
+2019-04-12 22:11:12,785 Other      tp: 38151 - fp: 2466 - fn: 224 - tn: 2105 - precision: 0.9393 - recall: 0.9942 - accuracy: 0.9341 - f1-score: 0.9660
+2019-04-12 22:11:12,785 cad.event.before_dct tp: 2 - fp: 1 - fn: 158 - tn: 42785 - precision: 0.6667 - recall: 0.0125 - accuracy: 0.0124 - f1-score: 0.0245
+2019-04-12 22:11:12,785 cad.event.during_dct tp: 0 - fp: 0 - fn: 13 - tn: 42933 - precision: 0.0000 - recall: 0.0000 - accuracy: 0.0000 - f1-score: 0.0000
+2019-04-12 22:11:12,785 cad.mention.after_dct tp: 52 - fp: 33 - fn: 54 - tn: 42807 - precision: 0.6118 - recall: 0.4906 - accuracy: 0.3741 - f1-score: 0.5445
+2019-04-12 22:11:12,785 cad.mention.before_dct tp: 4 - fp: 16 - fn: 27 - tn: 42899 - precision: 0.2000 - recall: 0.1290 - accuracy: 0.0851 - f1-score: 0.1568
+2019-04-12 22:11:12,785 cad.mention.during_dct tp: 0 - fp: 0 - fn: 46 - tn: 42900 - precision: 0.0000 - recall: 0.0000 - accuracy: 0.0000 - f1-score: 0.0000
+2019-04-12 22:11:12,785 cad.symptom.after_dct tp: 0 - fp: 0 - fn: 1 - tn: 42945 - precision: 0.0000 - recall: 0.0000 - accuracy: 0.0000 - f1-score: 0.0000
+2019-04-12 22:11:12,785 cad.symptom.before_dct tp: 0 - fp: 0 - fn: 43 - tn: 42903 - precision: 0.0000 - recall: 0.0000 - accuracy: 0.0000 - f1-score: 0.0000
+2019-04-12 22:11:12,785 cad.symptom.during_dct tp: 0 - fp: 0 - fn: 21 - tn: 42925 - precision: 0.0000 - recall: 0.0000 - accuracy: 0.0000 - f1-score: 0.0000
+2019-04-12 22:11:12,786 cad.test.before_dct tp: 0 - fp: 0 - fn: 24 - tn: 42922 - precision: 0.0000 - recall: 0.0000 - accuracy: 0.0000 - f1-score: 0.0000
+2019-04-12 22:11:12,786 cad.test.during_dct tp: 0 - fp: 0 - fn: 1 - tn: 42945 - precision: 0.0000 - recall: 0.0000 - accuracy: 0.0000 - f1-score: 0.0000
+2019-04-12 22:11:12,786 diabetes.a1c.before_dct tp: 0 - fp: 1 - fn: 59 - tn: 42886 - precision: 0.0000 - recall: 0.0000 - accuracy: 0.0000 - f1-score: 0.0000
+2019-04-12 22:11:12,786 diabetes.a1c.during_dct tp: 0 - fp: 0 - fn: 5 - tn: 42941 - precision: 0.0000 - recall: 0.0000 - accuracy: 0.0000 - f1-score: 0.0000
+2019-04-12 22:11:12,786 diabetes.glucose.before_dct tp: 0 - fp: 0 - fn: 18 - tn: 42928 - precision: 0.0000 - recall: 0.0000 - accuracy: 0.0000 - f1-score: 0.0000
+2019-04-12 22:11:12,786 diabetes.glucose.during_dct tp: 0 - fp: 0 - fn: 11 - tn: 42935 - precision: 0.0000 - recall: 0.0000 - accuracy: 0.0000 - f1-score: 0.0000
+2019-04-12 22:11:12,786 diabetes.mention.after_dct tp: 1 - fp: 1 - fn: 99 - tn: 42845 - precision: 0.5000 - recall: 0.0100 - accuracy: 0.0099 - f1-score: 0.0196
+2019-04-12 22:11:12,786 diabetes.mention.before_dct tp: 103 - fp: 171 - fn: 98 - tn: 42574 - precision: 0.3759 - recall: 0.5124 - accuracy: 0.2769 - f1-score: 0.4337
+2019-04-12 22:11:12,786 diabetes.mention.during_dct tp: 103 - fp: 101 - fn: 85 - tn: 42657 - precision: 0.5049 - recall: 0.5479 - accuracy: 0.3564 - f1-score: 0.5255
+2019-04-12 22:11:12,786 family_hist.present tp: 0 - fp: 0 - fn: 13 - tn: 42933 - precision: 0.0000 - recall: 0.0000 - accuracy: 0.0000 - f1-score: 0.0000
+2019-04-12 22:11:12,786 hyperlipidemia.high_chol..before_dct tp: 0 - fp: 0 - fn: 6 - tn: 42940 - precision: 0.0000 - recall: 0.0000 - accuracy: 0.0000 - f1-score: 0.0000
+2019-04-12 22:11:12,787 hyperlipidemia.high_ldl.before_dct tp: 0 - fp: 0 - fn: 21 - tn: 42925 - precision: 0.0000 - recall: 0.0000 - accuracy: 0.0000 - f1-score: 0.0000
+2019-04-12 22:11:12,787 hyperlipidemia.high_ldl.during_dct tp: 0 - fp: 0 - fn: 3 - tn: 42943 - precision: 0.0000 - recall: 0.0000 - accuracy: 0.0000 - f1-score: 0.0000
+2019-04-12 22:11:12,787 hyperlipidemia.mention.after_dct tp: 46 - fp: 8 - fn: 51 - tn: 42841 - precision: 0.8519 - recall: 0.4742 - accuracy: 0.4381 - f1-score: 0.6093
+2019-04-12 22:11:12,787 hyperlipidemia.mention.before_dct tp: 42 - fp: 49 - fn: 38 - tn: 42817 - precision: 0.4615 - recall: 0.5250 - accuracy: 0.3256 - f1-score: 0.4912
+2019-04-12 22:11:12,787 hyperlipidemia.mention.during_dct tp: 2 - fp: 8 - fn: 21 - tn: 42915 - precision: 0.2000 - recall: 0.0870 - accuracy: 0.0645 - f1-score: 0.1213
+2019-04-12 22:11:12,787 hypertension.high_bp.before_dct tp: 0 - fp: 0 - fn: 10 - tn: 42936 - precision: 0.0000 - recall: 0.0000 - accuracy: 0.0000 - f1-score: 0.0000
+2019-04-12 22:11:12,787 hypertension.high_bp.during_dct tp: 6 - fp: 3 - fn: 170 - tn: 42767 - precision: 0.6667 - recall: 0.0341 - accuracy: 0.0335 - f1-score: 0.0649
+2019-04-12 22:11:12,787 hypertension.mention.after_dct tp: 70 - fp: 51 - fn: 46 - tn: 42779 - precision: 0.5785 - recall: 0.6034 - accuracy: 0.4192 - f1-score: 0.5907
+2019-04-12 22:11:12,787 hypertension.mention.before_dct tp: 1 - fp: 3 - fn: 42 - tn: 42900 - precision: 0.2500 - recall: 0.0233 - accuracy: 0.0217 - f1-score: 0.0426
+2019-04-12 22:11:12,787 hypertension.mention.during_dct tp: 226 - fp: 47 - fn: 93 - tn: 42580 - precision: 0.8278 - recall: 0.7085 - accuracy: 0.6175 - f1-score: 0.7635
+2019-04-12 22:11:12,788 medication.ace_inhibitor..after_dct tp: 85 - fp: 88 - fn: 28 - tn: 42745 - precision: 0.4913 - recall: 0.7522 - accuracy: 0.4229 - f1-score: 0.5944
+2019-04-12 22:11:12,788 medication.ace_inhibitor..before_dct tp: 0 - fp: 0 - fn: 62 - tn: 42884 - precision: 0.0000 - recall: 0.0000 - accuracy: 0.0000 - f1-score: 0.0000
+2019-04-12 22:11:12,788 medication.ace_inhibitor..during_dct tp: 0 - fp: 0 - fn: 27 - tn: 42919 - precision: 0.0000 - recall: 0.0000 - accuracy: 0.0000 - f1-score: 0.0000
+2019-04-12 22:11:12,788 medication.ace_inhibitor.diuretic.before_dct tp: 0 - fp: 0 - fn: 1 - tn: 42945 - precision: 0.0000 - recall: 0.0000 - accuracy: 0.0000 - f1-score: 0.0000
+2019-04-12 22:11:12,788 medication.arb..after_dct tp: 0 - fp: 0 - fn: 17 - tn: 42929 - precision: 0.0000 - recall: 0.0000 - accuracy: 0.0000 - f1-score: 0.0000
+2019-04-12 22:11:12,788 medication.arb..before_dct tp: 0 - fp: 0 - fn: 21 - tn: 42925 - precision: 0.0000 - recall: 0.0000 - accuracy: 0.0000 - f1-score: 0.0000
+2019-04-12 22:11:12,788 medication.arb..during_dct tp: 0 - fp: 0 - fn: 26 - tn: 42920 - precision: 0.0000 - recall: 0.0000 - accuracy: 0.0000 - f1-score: 0.0000
+2019-04-12 22:11:12,788 medication.arb.diuretic.before_dct tp: 0 - fp: 0 - fn: 5 - tn: 42941 - precision: 0.0000 - recall: 0.0000 - accuracy: 0.0000 - f1-score: 0.0000
+2019-04-12 22:11:12,788 medication.arb.diuretic.during_dct tp: 0 - fp: 0 - fn: 2 - tn: 42944 - precision: 0.0000 - recall: 0.0000 - accuracy: 0.0000 - f1-score: 0.0000
+2019-04-12 22:11:12,788 medication.aspirin..after_dct tp: 55 - fp: 16 - fn: 105 - tn: 42770 - precision: 0.7746 - recall: 0.3438 - accuracy: 0.3125 - f1-score: 0.4762
+2019-04-12 22:11:12,788 medication.aspirin..before_dct tp: 52 - fp: 41 - fn: 60 - tn: 42793 - precision: 0.5591 - recall: 0.4643 - accuracy: 0.3399 - f1-score: 0.5073
+2019-04-12 22:11:12,789 medication.aspirin..during_dct tp: 0 - fp: 0 - fn: 30 - tn: 42916 - precision: 0.0000 - recall: 0.0000 - accuracy: 0.0000 - f1-score: 0.0000
+2019-04-12 22:11:12,789 medication.beta_blocker..after_dct tp: 11 - fp: 7 - fn: 68 - tn: 42860 - precision: 0.6111 - recall: 0.1392 - accuracy: 0.1279 - f1-score: 0.2267
+2019-04-12 22:11:12,789 medication.beta_blocker..before_dct tp: 20 - fp: 19 - fn: 91 - tn: 42816 - precision: 0.5128 - recall: 0.1802 - accuracy: 0.1538 - f1-score: 0.2667
+2019-04-12 22:11:12,789 medication.beta_blocker..during_dct tp: 36 - fp: 96 - fn: 68 - tn: 42746 - precision: 0.2727 - recall: 0.3462 - accuracy: 0.1800 - f1-score: 0.3051
+2019-04-12 22:11:12,789 medication.calcium_channel_blocker..after_dct tp: 0 - fp: 1 - fn: 42 - tn: 42903 - precision: 0.0000 - recall: 0.0000 - accuracy: 0.0000 - f1-score: 0.0000
+2019-04-12 22:11:12,789 medication.calcium_channel_blocker..before_dct tp: 0 - fp: 0 - fn: 40 - tn: 42906 - precision: 0.0000 - recall: 0.0000 - accuracy: 0.0000 - f1-score: 0.0000
+2019-04-12 22:11:12,789 medication.calcium_channel_blocker..during_dct tp: 0 - fp: 0 - fn: 29 - tn: 42917 - precision: 0.0000 - recall: 0.0000 - accuracy: 0.0000 - f1-score: 0.0000
+2019-04-12 22:11:12,789 medication.diuretic..after_dct tp: 0 - fp: 0 - fn: 26 - tn: 42920 - precision: 0.0000 - recall: 0.0000 - accuracy: 0.0000 - f1-score: 0.0000
+2019-04-12 22:11:12,789 medication.diuretic..before_dct tp: 3 - fp: 1 - fn: 35 - tn: 42907 - precision: 0.7500 - recall: 0.0789 - accuracy: 0.0769 - f1-score: 0.1428
+2019-04-12 22:11:12,789 medication.diuretic..during_dct tp: 0 - fp: 0 - fn: 8 - tn: 42938 - precision: 0.0000 - recall: 0.0000 - accuracy: 0.0000 - f1-score: 0.0000
+2019-04-12 22:11:12,789 medication.dpp4_inhibitors..before_dct tp: 0 - fp: 0 - fn: 2 - tn: 42944 - precision: 0.0000 - recall: 0.0000 - accuracy: 0.0000 - f1-score: 0.0000
+2019-04-12 22:11:12,790 medication.ezetimibe..after_dct tp: 0 - fp: 0 - fn: 4 - tn: 42942 - precision: 0.0000 - recall: 0.0000 - accuracy: 0.0000 - f1-score: 0.0000
+2019-04-12 22:11:12,790 medication.ezetimibe..before_dct tp: 0 - fp: 0 - fn: 0 - tn: 42946 - precision: 0.0000 - recall: 0.0000 - accuracy: 0.0000 - f1-score: 0.0000
+2019-04-12 22:11:12,790 medication.ezetimibe..during_dct tp: 0 - fp: 0 - fn: 8 - tn: 42938 - precision: 0.0000 - recall: 0.0000 - accuracy: 0.0000 - f1-score: 0.0000
+2019-04-12 22:11:12,790 medication.fibrate..after_dct tp: 0 - fp: 0 - fn: 2 - tn: 42944 - precision: 0.0000 - recall: 0.0000 - accuracy: 0.0000 - f1-score: 0.0000
+2019-04-12 22:11:12,790 medication.fibrate..before_dct tp: 0 - fp: 0 - fn: 10 - tn: 42936 - precision: 0.0000 - recall: 0.0000 - accuracy: 0.0000 - f1-score: 0.0000
+2019-04-12 22:11:12,790 medication.fibrate..during_dct tp: 0 - fp: 0 - fn: 19 - tn: 42927 - precision: 0.0000 - recall: 0.0000 - accuracy: 0.0000 - f1-score: 0.0000
+2019-04-12 22:11:12,790 medication.insulin..after_dct tp: 0 - fp: 0 - fn: 47 - tn: 42899 - precision: 0.0000 - recall: 0.0000 - accuracy: 0.0000 - f1-score: 0.0000
+2019-04-12 22:11:12,790 medication.insulin..before_dct tp: 22 - fp: 36 - fn: 66 - tn: 42822 - precision: 0.3793 - recall: 0.2500 - accuracy: 0.1774 - f1-score: 0.3014
+2019-04-12 22:11:12,790 medication.insulin..during_dct tp: 7 - fp: 17 - fn: 58 - tn: 42864 - precision: 0.2917 - recall: 0.1077 - accuracy: 0.0854 - f1-score: 0.1573
+2019-04-12 22:11:12,790 medication.metformin..after_dct tp: 0 - fp: 0 - fn: 25 - tn: 42921 - precision: 0.0000 - recall: 0.0000 - accuracy: 0.0000 - f1-score: 0.0000
+2019-04-12 22:11:12,790 medication.metformin..before_dct tp: 1 - fp: 0 - fn: 52 - tn: 42893 - precision: 1.0000 - recall: 0.0189 - accuracy: 0.0189 - f1-score: 0.0371
+2019-04-12 22:11:12,791 medication.metformin..during_dct tp: 32 - fp: 83 - fn: 23 - tn: 42808 - precision: 0.2783 - recall: 0.5818 - accuracy: 0.2319 - f1-score: 0.3765
+2019-04-12 22:11:12,791 medication.niacin..after_dct tp: 0 - fp: 0 - fn: 5 - tn: 42941 - precision: 0.0000 - recall: 0.0000 - accuracy: 0.0000 - f1-score: 0.0000
+2019-04-12 22:11:12,791 medication.nitrate..after_dct tp: 0 - fp: 0 - fn: 33 - tn: 42913 - precision: 0.0000 - recall: 0.0000 - accuracy: 0.0000 - f1-score: 0.0000
+2019-04-12 22:11:12,791 medication.nitrate..before_dct tp: 0 - fp: 2 - fn: 28 - tn: 42916 - precision: 0.0000 - recall: 0.0000 - accuracy: 0.0000 - f1-score: 0.0000
+2019-04-12 22:11:12,791 medication.nitrate..during_dct tp: 0 - fp: 0 - fn: 42 - tn: 42904 - precision: 0.0000 - recall: 0.0000 - accuracy: 0.0000 - f1-score: 0.0000
+2019-04-12 22:11:12,791 medication.statin..after_dct tp: 4 - fp: 2 - fn: 77 - tn: 42863 - precision: 0.6667 - recall: 0.0494 - accuracy: 0.0482 - f1-score: 0.0920
+2019-04-12 22:11:12,791 medication.statin..before_dct tp: 97 - fp: 47 - fn: 54 - tn: 42748 - precision: 0.6736 - recall: 0.6424 - accuracy: 0.4899 - f1-score: 0.6576
+2019-04-12 22:11:12,791 medication.statin..during_dct tp: 4 - fp: 18 - fn: 60 - tn: 42864 - precision: 0.1818 - recall: 0.0625 - accuracy: 0.0488 - f1-score: 0.0930
+2019-04-12 22:11:12,791 medication.sulfonylureas..after_dct tp: 0 - fp: 0 - fn: 5 - tn: 42941 - precision: 0.0000 - recall: 0.0000 - accuracy: 0.0000 - f1-score: 0.0000
+2019-04-12 22:11:12,791 medication.sulfonylureas..before_dct tp: 11 - fp: 24 - fn: 26 - tn: 42885 - precision: 0.3143 - recall: 0.2973 - accuracy: 0.1803 - f1-score: 0.3056
+2019-04-12 22:11:12,791 medication.sulfonylureas..during_dct tp: 0 - fp: 0 - fn: 54 - tn: 42892 - precision: 0.0000 - recall: 0.0000 - accuracy: 0.0000 - f1-score: 0.0000
+2019-04-12 22:11:12,792 medication.sulfonylureas.metformin.during_dct tp: 0 - fp: 0 - fn: 4 - tn: 42942 - precision: 0.0000 - recall: 0.0000 - accuracy: 0.0000 - f1-score: 0.0000
+2019-04-12 22:11:12,792 medication.thiazolidinedione..after_dct tp: 0 - fp: 0 - fn: 12 - tn: 42934 - precision: 0.0000 - recall: 0.0000 - accuracy: 0.0000 - f1-score: 0.0000
+2019-04-12 22:11:12,792 medication.thiazolidinedione..before_dct tp: 0 - fp: 0 - fn: 4 - tn: 42942 - precision: 0.0000 - recall: 0.0000 - accuracy: 0.0000 - f1-score: 0.0000
+2019-04-12 22:11:12,792 medication.thiazolidinedione..during_dct tp: 0 - fp: 0 - fn: 3 - tn: 42943 - precision: 0.0000 - recall: 0.0000 - accuracy: 0.0000 - f1-score: 0.0000
+2019-04-12 22:11:12,792 medication.thienopyridine..after_dct tp: 0 - fp: 0 - fn: 51 - tn: 42895 - precision: 0.0000 - recall: 0.0000 - accuracy: 0.0000 - f1-score: 0.0000
+2019-04-12 22:11:12,792 medication.thienopyridine..before_dct tp: 0 - fp: 0 - fn: 33 - tn: 42913 - precision: 0.0000 - recall: 0.0000 - accuracy: 0.0000 - f1-score: 0.0000
+2019-04-12 22:11:12,792 medication.thienopyridine..during_dct tp: 0 - fp: 0 - fn: 11 - tn: 42935 - precision: 0.0000 - recall: 0.0000 - accuracy: 0.0000 - f1-score: 0.0000
+2019-04-12 22:11:12,792 obese.bmi.after_dct tp: 0 - fp: 0 - fn: 1 - tn: 42945 - precision: 0.0000 - recall: 0.0000 - accuracy: 0.0000 - f1-score: 0.0000
+2019-04-12 22:11:12,792 obese.bmi.before_dct tp: 0 - fp: 0 - fn: 0 - tn: 42946 - precision: 0.0000 - recall: 0.0000 - accuracy: 0.0000 - f1-score: 0.0000
+2019-04-12 22:11:12,792 obese.bmi.during_dct tp: 0 - fp: 0 - fn: 8 - tn: 42938 - precision: 0.0000 - recall: 0.0000 - accuracy: 0.0000 - f1-score: 0.0000
+2019-04-12 22:11:12,792 obese.mention.after_dct tp: 0 - fp: 0 - fn: 14 - tn: 42932 - precision: 0.0000 - recall: 0.0000 - accuracy: 0.0000 - f1-score: 0.0000
+2019-04-12 22:11:12,793 obese.mention.before_dct tp: 6 - fp: 10 - fn: 35 - tn: 42895 - precision: 0.3750 - recall: 0.1463 - accuracy: 0.1176 - f1-score: 0.2105
+2019-04-12 22:11:12,793 obese.mention.during_dct tp: 20 - fp: 32 - fn: 32 - tn: 42862 - precision: 0.3846 - recall: 0.3846 - accuracy: 0.2381 - f1-score: 0.3846
+2019-04-12 22:11:12,793 smoker.current tp: 0 - fp: 2 - fn: 36 - tn: 42908 - precision: 0.0000 - recall: 0.0000 - accuracy: 0.0000 - f1-score: 0.0000
+2019-04-12 22:11:12,793 smoker.ever tp: 0 - fp: 0 - fn: 3 - tn: 42943 - precision: 0.0000 - recall: 0.0000 - accuracy: 0.0000 - f1-score: 0.0000
+2019-04-12 22:11:12,793 smoker.never tp: 79 - fp: 38 - fn: 32 - tn: 42797 - precision: 0.6752 - recall: 0.7117 - accuracy: 0.5302 - f1-score: 0.6930
+2019-04-12 22:11:12,793 smoker.past tp: 42 - fp: 11 - fn: 68 - tn: 42825 - precision: 0.7925 - recall: 0.3818 - accuracy: 0.3471 - f1-score: 0.5153
+2019-04-12 22:11:12,793 smoker.unknown tp: 0 - fp: 0 - fn: 197 - tn: 42749 - precision: 0.0000 - recall: 0.0000 - accuracy: 0.0000 - f1-score: 0.0000
+2019-04-12 22:11:12,793 ----------------------------------------------------------------------------------------------------

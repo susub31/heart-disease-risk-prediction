@@ -1,2 +1,5 @@
 # heart-disease-risk-prediction
-Project - i2b2 dataset - heart disease risk prediction
+
+# Goal: 
+
+Identify risk factors for heart disease by extracting information from clinical notes using advanced NLP and Deep Learning techniques. 
