@@ -1,0 +1,23 @@
+BERT:Diabetes Indicator
+            precision    recall  f1-score   support
+
+         A1C       0.66      0.71      0.69        84
+       Other       1.00      1.00      1.00     34626
+     glucose       0.00      0.00      0.00         0
+     mention       0.92      0.85      0.88       846
+
+   micro avg       0.99      0.99      0.99     35556
+   macro avg       0.64      0.64      0.64     35556
+weighted avg       0.99      0.99      0.99     35556
+
+BERT Augmented : Diabetes Indicator
+              precision    recall  f1-score   support
+
+         A1C       0.52      0.67      0.58        70
+       Other       1.00      1.00      1.00     34626
+     glucose       0.09      0.50      0.15         8
+     mention       0.92      0.84      0.88       852
+
+   micro avg       0.99      0.99      0.99     35556
+   macro avg       0.63      0.75      0.65     35556
+weighted avg       0.99      0.99      0.99     35556
